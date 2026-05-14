@@ -58,9 +58,9 @@
       list-style: none;
     }
     .nav-links a {
-      font-size: 11px;
+      font-size: 13px;
       font-weight: 600;
-      letter-spacing: 0.1em;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--muted);
       padding: 0 20px;
@@ -78,17 +78,18 @@
       display: flex;
       align-items: center;
       gap: 8px;
-      font-size: 11px;
+      font-size: 13px;
       font-weight: 700;
-      letter-spacing: 0.1em;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--white);
       background: var(--navy);
-      padding: 11px 24px;
+      padding: 12px 26px;
       transition: background 0.2s;
+      cursor: pointer;
+      border: none;
     }
     .nav-cta:hover { background: var(--navy-mid); }
-    .nav-cta svg { width: 14px; height: 14px; flex-shrink: 0; }
 
     /* ── HERO ── */
     #hero {
@@ -167,6 +168,7 @@
       display: inline-flex;
       align-items: center;
       gap: 9px;
+      font-family: 'Barlow', sans-serif;
       font-size: 11px;
       font-weight: 700;
       letter-spacing: 0.1em;
@@ -174,6 +176,8 @@
       color: var(--navy);
       background: var(--white);
       padding: 15px 30px;
+      border: none;
+      cursor: pointer;
       transition: background 0.2s, color 0.2s;
     }
     .btn-primary:hover { background: #f0f2f5; }
@@ -297,6 +301,7 @@
       display: inline-flex;
       align-items: center;
       gap: 9px;
+      font-family: 'Barlow', sans-serif;
       font-size: 11px;
       font-weight: 700;
       letter-spacing: 0.1em;
@@ -304,6 +309,8 @@
       color: var(--white);
       background: var(--navy);
       padding: 14px 28px;
+      border: none;
+      cursor: pointer;
       transition: background 0.2s;
     }
     .btn-navy:hover { background: var(--navy-mid); }
@@ -702,6 +709,161 @@
       .stats-grid { grid-template-columns: 1fr 1fr; }
       .hero-headline { font-size: 38px; }
     }
+    /* ── CONTACT MODAL ── */
+    #modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(13,27,46,0.7);
+      z-index: 999;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    #modal-overlay.open { display: flex; }
+    #modal {
+      background: var(--white);
+      width: 100%;
+      max-width: 620px;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+    }
+    .modal-header {
+      background: var(--navy);
+      padding: 32px 40px 28px;
+    }
+    .modal-header h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 6px;
+    }
+    .modal-header p {
+      font-size: 14px;
+      font-weight: 300;
+      color: rgba(255,255,255,0.55);
+    }
+    .modal-close {
+      position: absolute;
+      top: 20px;
+      right: 24px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: rgba(255,255,255,0.5);
+      font-size: 24px;
+      line-height: 1;
+      padding: 4px;
+      transition: color 0.2s;
+    }
+    .modal-close:hover { color: var(--white); }
+    .modal-body { padding: 36px 40px 40px; }
+    .modal-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .modal-field { margin-bottom: 16px; }
+    .modal-field label {
+      display: block;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--navy);
+      margin-bottom: 7px;
+    }
+    .modal-field input,
+    .modal-field select,
+    .modal-field textarea {
+      width: 100%;
+      font-family: 'Barlow', sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      color: var(--navy);
+      background: var(--white);
+      border: 1px solid var(--border);
+      padding: 11px 14px;
+      outline: none;
+      transition: border-color 0.2s;
+      appearance: none;
+    }
+    .modal-field input:focus,
+    .modal-field select:focus,
+    .modal-field textarea:focus { border-color: var(--navy); }
+    .modal-field textarea { resize: vertical; min-height: 100px; }
+    .modal-field select {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236b7280' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 14px center;
+      padding-right: 36px;
+    }
+    .modal-checkboxes { margin-bottom: 20px; }
+    .modal-checkboxes label.group-label {
+      display: block;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--navy);
+      margin-bottom: 10px;
+    }
+    .checkbox-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    .checkbox-item {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      font-size: 13px;
+      font-weight: 400;
+      color: #374151;
+      cursor: pointer;
+    }
+    .checkbox-item input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+      accent-color: var(--navy);
+      cursor: pointer;
+    }
+    .modal-submit {
+      width: 100%;
+      font-family: 'Barlow', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--white);
+      background: var(--navy);
+      border: none;
+      padding: 16px;
+      cursor: pointer;
+      transition: background 0.2s;
+      margin-top: 8px;
+    }
+    .modal-submit:hover { background: var(--navy-mid); }
+    .modal-success {
+      display: none;
+      text-align: center;
+      padding: 48px 40px;
+    }
+    .modal-success h3 {
+      font-family: 'Playfair Display', serif;
+      font-size: 24px;
+      color: var(--navy);
+      margin-bottom: 12px;
+    }
+    .modal-success p {
+      font-size: 15px;
+      font-weight: 300;
+      color: var(--muted);
+    }
   </style>
 </head>
 <body>
@@ -717,13 +879,96 @@
       <li><a href="#scott">About</a></li>
       <li><a href="#cta">Contact</a></li>
     </ul>
-    <a href="tel:5177194834" class="nav-cta">
-      <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M2 2.5C2 2 2.5 1 4 1s2 1 2.5 2.5c.4 1.2-.5 2-1 2.5.8 1.4 2.5 3.2 4 4 .5-.5 1.3-1.4 2.5-1 1.5.5 2.5 1 2.5 2.5s-1 2-1.5 2C4 15 1 8 1 4.5 1 3 1.5 2.5 2 2.5z"/>
-      </svg>
-      (517) 719-4834
-    </a>
+    <button class="nav-cta" onclick="openModal()">Contact Us</button>
   </nav>
+
+  <!-- CONTACT MODAL -->
+  <div id="modal-overlay" onclick="handleOverlayClick(event)">
+    <div id="modal">
+      <div class="modal-header">
+        <button class="modal-close" onclick="closeModal()" aria-label="Close">&times;</button>
+        <h2>Get in Touch</h2>
+        <p>Tell us about your organization and how we can help.</p>
+      </div>
+      <div class="modal-body" id="modal-form-body">
+        <div class="modal-row">
+          <div class="modal-field">
+            <label>First Name *</label>
+            <input type="text" id="fname" placeholder="Jane" />
+          </div>
+          <div class="modal-field">
+            <label>Last Name *</label>
+            <input type="text" id="lname" placeholder="Smith" />
+          </div>
+        </div>
+        <div class="modal-field">
+          <label>Email Address *</label>
+          <input type="email" id="email" placeholder="jane@organization.com" />
+        </div>
+        <div class="modal-field">
+          <label>Phone Number</label>
+          <input type="tel" id="phone" placeholder="(555) 000-0000" />
+        </div>
+        <div class="modal-field">
+          <label>Organization</label>
+          <input type="text" id="org" placeholder="Company or agency name" />
+        </div>
+        <div class="modal-field">
+          <label>Your Role / Title</label>
+          <input type="text" id="role" placeholder="e.g. CEO, Director of Government Affairs" />
+        </div>
+        <div class="modal-field">
+          <label>Sector</label>
+          <select id="sector">
+            <option value="" disabled selected>Select your sector</option>
+            <option>Technology</option>
+            <option>Public Safety</option>
+            <option>K–12 Education</option>
+            <option>Higher Education</option>
+            <option>Government / Public Sector</option>
+            <option>Association / Trade Group</option>
+            <option>Healthcare</option>
+            <option>Hospitality / Beverage Industry</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <div class="modal-checkboxes">
+          <label class="group-label">Services You're Interested In</label>
+          <div class="checkbox-grid">
+            <label class="checkbox-item"><input type="checkbox" value="Government Affairs" /> Government Affairs</label>
+            <label class="checkbox-item"><input type="checkbox" value="Legislative Monitoring" /> Legislative Monitoring</label>
+            <label class="checkbox-item"><input type="checkbox" value="Business Development" /> Business Development</label>
+            <label class="checkbox-item"><input type="checkbox" value="Procurement Strategy" /> Procurement Strategy</label>
+            <label class="checkbox-item"><input type="checkbox" value="Security Consulting" /> Security Consulting</label>
+            <label class="checkbox-item"><input type="checkbox" value="Strategic Partnerships" /> Strategic Partnerships</label>
+            <label class="checkbox-item"><input type="checkbox" value="Agency Engagement" /> Agency Engagement</label>
+            <label class="checkbox-item"><input type="checkbox" value="Not sure yet" /> Not sure yet</label>
+          </div>
+        </div>
+        <div class="modal-field">
+          <label>How Can We Help?</label>
+          <textarea id="message" placeholder="Briefly describe your goals, challenges, or what you're looking to accomplish..."></textarea>
+        </div>
+        <div class="modal-field">
+          <label>How Did You Hear About Us?</label>
+          <select id="source">
+            <option value="" disabled selected>Select one</option>
+            <option>Referral</option>
+            <option>Web Search</option>
+            <option>LinkedIn</option>
+            <option>Industry Event</option>
+            <option>Existing Client</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <button class="modal-submit" onclick="submitForm()">Send Message &rarr;</button>
+      </div>
+      <div class="modal-success" id="modal-success">
+        <h3>Message Received.</h3>
+        <p>Thank you for reaching out. Scott Ellis will be in touch with you shortly.</p>
+      </div>
+    </div>
+  </div>
 
   <!-- HERO -->
   <section id="hero">
@@ -742,12 +987,12 @@
       <h1 class="hero-headline">Distinction Built on<br>Decades of <em>Service.</em></h1>
       <p class="hero-eyebrow">Michigan Government Affairs &nbsp;•&nbsp; Business Development &nbsp;•&nbsp; Procurement</p>
       <div class="hero-actions">
-        <a href="#cta" class="btn-primary">
+        <button onclick="openModal()" class="btn-primary">
           Schedule a Consultation
           <svg class="btn-arrow" viewBox="0 0 13 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M2 6.5h9M7 2l4.5 4.5L7 11"/>
           </svg>
-        </a>
+        </button>
         <a href="#services" class="btn-ghost">Our Services</a>
       </div>
     </div>
@@ -778,12 +1023,12 @@
       <p class="section-kicker">About Ellis &amp; Associates</p>
       <h2 class="section-headline">Twenty years of doors <em>opened.</em><br>Outcomes delivered.</h2>
       <p class="intro-body">Ellis &amp; Associates is a Michigan-based strategic advisory firm bridging the gap between organizations and the public-sector ecosystems that shape their future. We don't navigate government — we move within it. Our relationships, built over two decades at the intersection of law enforcement, policy, and industry, produce results that generic consulting firms cannot replicate.</p>
-      <a href="#cta" class="btn-navy">
+      <button onclick="openModal()" class="btn-navy">
         Schedule a Consultation
         <svg class="btn-arrow" viewBox="0 0 13 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <path d="M2 6.5h9M7 2l4.5 4.5L7 11"/>
         </svg>
-      </a>
+      </button>
     </div>
     <div class="intro-right reveal">
       <div class="stats-grid">
@@ -985,10 +1230,7 @@
 
     // Video fade-in on load
     const video = document.getElementById('hero-video');
-    video.addEventListener('canplay', () => {
-      video.classList.add('loaded');
-    });
-    // Fallback if already loaded
+    video.addEventListener('canplay', () => video.classList.add('loaded'));
     if (video.readyState >= 3) video.classList.add('loaded');
 
     // Scroll reveal
@@ -1002,6 +1244,33 @@
       });
     }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
     reveals.forEach(el => observer.observe(el));
+
+    // Modal
+    function openModal() {
+      document.getElementById('modal-overlay').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeModal() {
+      document.getElementById('modal-overlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+    function handleOverlayClick(e) {
+      if (e.target === document.getElementById('modal-overlay')) closeModal();
+    }
+    function submitForm() {
+      const fname = document.getElementById('fname').value.trim();
+      const lname = document.getElementById('lname').value.trim();
+      const email = document.getElementById('email').value.trim();
+      if (!fname || !lname || !email) {
+        alert('Please fill in your first name, last name, and email address.');
+        return;
+      }
+      document.getElementById('modal-form-body').style.display = 'none';
+      document.getElementById('modal-success').style.display = 'block';
+    }
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
   </script>
 </body>
 </html>

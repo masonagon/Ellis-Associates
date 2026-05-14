@@ -198,7 +198,7 @@
       border-bottom: 1px solid var(--border);
       display: flex;
       align-items: stretch;
-      height: 50px;
+      height: 80px;
       overflow: hidden;
     }
     .ticker-label {
@@ -208,7 +208,7 @@
       font-weight: 700;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      padding: 0 22px;
+      padding: 0 24px;
       display: flex;
       align-items: center;
       white-space: nowrap;
@@ -222,32 +222,29 @@
     }
     .ticker-inner {
       display: flex;
+      align-items: center;
       white-space: nowrap;
-      animation: ticker-scroll 28s linear infinite;
+      animation: ticker-scroll 20s linear infinite;
     }
     .ticker-item {
       display: inline-flex;
       align-items: center;
-      gap: 12px;
-      padding: 0 36px;
+      padding: 0 48px;
       border-right: 1px solid var(--border);
-      font-size: 12px;
-      font-weight: 400;
-      color: var(--navy);
+      height: 80px;
     }
-    .ticker-tag {
-      font-size: 9px;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--muted);
+    .ticker-item img {
+      height: 36px;
+      width: auto;
+      max-width: 140px;
+      object-fit: contain;
+      filter: grayscale(100%);
+      opacity: 0.6;
+      transition: opacity 0.2s, filter 0.2s;
     }
-    .ticker-dot {
-      width: 4px;
-      height: 4px;
-      background: var(--teal);
-      border-radius: 50%;
-      flex-shrink: 0;
+    .ticker-item img:hover {
+      filter: grayscale(0%);
+      opacity: 1;
     }
 
     /* ── INTRO ── */
@@ -750,19 +747,19 @@
 
   <!-- TICKER -->
   <div id="ticker">
-    <div class="ticker-label">Active Intelligence</div>
+    <div class="ticker-label">Our Clients</div>
     <div class="ticker-track">
       <div class="ticker-inner">
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Public Safety</span>School safety funding secured for Michigan districts</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Technology</span>ZeroEyes government funding pathways unlocked statewide</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Advocacy</span>Hospitality &amp; alcohol policy reform advanced in Michigan Legislature</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Procurement</span>Tech clients positioned for Michigan state contract opportunities</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Government Affairs</span>Agency relationships leveraged across executive &amp; legislative branches</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Public Safety</span>School safety funding secured for Michigan districts</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Technology</span>ZeroEyes government funding pathways unlocked statewide</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Advocacy</span>Hospitality &amp; alcohol policy reform advanced in Michigan Legislature</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Procurement</span>Tech clients positioned for Michigan state contract opportunities</div>
-        <div class="ticker-item"><div class="ticker-dot"></div><span class="ticker-tag">Government Affairs</span>Agency relationships leveraged across executive &amp; legislative branches</div>
+        <div class="ticker-item"><img src="assets/logos/amerimind.png" alt="Amerimind" /></div>
+        <div class="ticker-item"><img src="assets/logos/asl.png" alt="Airspace Link" /></div>
+        <div class="ticker-item"><img src="assets/logos/cera.png" alt="CERA" /></div>
+        <div class="ticker-item"><img src="assets/logos/nhi.jpg" alt="National Hospitality Institute" /></div>
+        <div class="ticker-item"><img src="assets/logos/sec.png" alt="Secure Environment Consultants" /></div>
+        <div class="ticker-item"><img src="assets/logos/amerimind.png" alt="Amerimind" /></div>
+        <div class="ticker-item"><img src="assets/logos/asl.png" alt="Airspace Link" /></div>
+        <div class="ticker-item"><img src="assets/logos/cera.png" alt="CERA" /></div>
+        <div class="ticker-item"><img src="assets/logos/nhi.jpg" alt="National Hospitality Institute" /></div>
+        <div class="ticker-item"><img src="assets/logos/sec.png" alt="Secure Environment Consultants" /></div>
       </div>
     </div>
   </div>

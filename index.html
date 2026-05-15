@@ -962,7 +962,7 @@
 
   <!-- NAV -->
   <nav id="nav">
-    <a href="#" class="nav-logo">
+    <a href="/" class="nav-logo">
       <img src="assets/wordmark.png" alt="Ellis &amp; Associates" />
     </a>
     <ul class="nav-links">
@@ -1333,6 +1333,10 @@
   </footer>
 
   <script>
+    // Force scroll to top on load
+    window.history.scrollRestoration = 'manual';
+    window.scrollTo(0, 0);
+
     // Nav shadow on scroll
     const nav = document.getElementById('nav');
     window.addEventListener('scroll', () => {

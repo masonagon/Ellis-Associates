@@ -678,12 +678,10 @@
     /* ── SCROLL REVEAL ── */
     .reveal {
       opacity: 0;
-      transform: translateY(20px);
-      transition: opacity 0.7s ease, transform 0.7s ease;
+      transition: opacity 0.7s ease;
     }
     .reveal.visible {
       opacity: 1;
-      transform: translateY(0);
     }
 
     /* ── HAMBURGER & MOBILE NAV ── */
@@ -1365,7 +1363,7 @@
           observer.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+    }, { threshold: 0.05 });
     reveals.forEach(el => observer.observe(el));
 
     // Hamburger menu

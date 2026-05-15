@@ -1335,7 +1335,8 @@
   <script>
     // Force scroll to top on load
     if (history.scrollRestoration) history.scrollRestoration = 'manual';
-    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    window.addEventListener('load', () => window.scrollTo(0, 0));
+    document.addEventListener('DOMContentLoaded', () => window.scrollTo(0, 0));
 
     // Smooth scroll for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {

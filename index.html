@@ -4,7 +4,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Ellis &amp; Associates — Michigan Government Affairs &amp; Strategic Advisory</title>
-  <script>history.scrollRestoration = 'manual';</script>
+  <script>
+    history.scrollRestoration = 'manual';
+    if (window.location.hash) {
+      history.replaceState(null, '', window.location.pathname);
+    }
+  </script>
   <meta name="description" content="Ellis &amp; Associates is a Michigan-based strategic advisory firm specializing in government affairs, business development, and security consulting. Distinction built on decades of service." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -750,7 +755,7 @@
 
     /* ── FLOATING PHONE BUTTON ── */
     #float-phone {
-      display: none;
+      visibility: hidden;
       position: fixed;
       top: 80px;
       right: 16px;
@@ -766,7 +771,10 @@
       z-index: 98;
       transition: background 0.2s;
       box-shadow: 0 2px 12px rgba(13,27,46,0.25);
+      display: none;
     }
+    #float-phone.ready { display: flex; }
+    #float-phone.visible-phone { visibility: visible; }
     #float-phone:hover { background: rgba(255,255,255,0.25); }
     #float-phone svg { width: 20px; height: 20px; }
 
@@ -776,7 +784,6 @@
       .nav-links { display: none; }
       .nav-cta { display: none; }
       .hamburger { display: flex; }
-      #float-phone { display: flex; }
       .hero-content { padding: 0 24px 72px; }
       #intro { grid-template-columns: 1fr; }
       .intro-left { border-right: none; border-bottom: 1px solid var(--border); padding: 48px 24px; }
@@ -959,6 +966,8 @@
 </head>
 <body>
 
+  <a name="top"></a>
+
   <!-- NAV -->
   <nav id="nav">
     <a href="/" class="nav-logo">
@@ -968,7 +977,7 @@
       <li><a href="#services">Services</a></li>
       <li><a href="#industries">Industries</a></li>
       <li><a href="#scott">About</a></li>
-      <li><a href="#cta">Contact</a></li>
+      <li><a href="#contact-section">Contact</a></li>
     </ul>
     <button class="nav-cta" onclick="openModal()">Connect With Us</button>
     <button class="hamburger" id="hamburger" onclick="toggleMobileNav()" aria-label="Menu">
@@ -981,7 +990,7 @@
     <a href="#services" onclick="closeMobileNav()">Services</a>
     <a href="#industries" onclick="closeMobileNav()">Industries</a>
     <a href="#scott" onclick="closeMobileNav()">About</a>
-    <a href="#cta" onclick="closeMobileNav()">Contact</a>
+    <a href="#contact-section" onclick="closeMobileNav()">Contact</a>
     <button class="mobile-nav-cta" onclick="closeMobileNav(); openModal()">Connect With Us</button>
   </div>
 
@@ -1295,7 +1304,7 @@
   </section>
 
   <!-- CTA -->
-  <section id="cta">
+  <section id="contact-section">
     <div class="cta-left reveal">
       <h2 class="cta-headline">Ready to navigate your next opportunity?</h2>
       <p class="cta-sub">Reach Scott Ellis directly to discuss your organization's goals, challenges, and the path forward.</p>
@@ -1326,7 +1335,7 @@
       <li><a href="#services">Services</a></li>
       <li><a href="#industries">Industries</a></li>
       <li><a href="#scott">About</a></li>
-      <li><a href="#cta">Contact</a></li>
+      <li><a href="#contact-section">Contact</a></li>
     </ul>
     <p class="footer-copy">© 2026 Ellis &amp; Associates · Lansing, Michigan</p>
   </footer>
@@ -1341,6 +1350,15 @@
           target.scrollIntoView({ behavior: 'smooth' });
         }
       });
+    });
+
+    // Show floating phone button after load on mobile only
+    window.addEventListener('load', () => {
+      if (window.innerWidth <= 960) {
+        const phone = document.getElementById('float-phone');
+        phone.classList.add('ready');
+        setTimeout(() => phone.classList.add('visible-phone'), 100);
+      }
     });
 
     // Nav shadow on scroll

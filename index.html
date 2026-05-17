@@ -970,6 +970,51 @@
       opacity: 0.45;
     }
 
+    /* ── FEED TABS ── */
+    .feed-tabs {
+      display: flex;
+      gap: 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      margin-bottom: 24px;
+    }
+    .feed-tab {
+      font-family: 'Barlow', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      background: none;
+      border: none;
+      padding: 14px 28px;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .feed-tab:hover { color: rgba(255,255,255,0.6); }
+    .feed-tab.active { color: #5bbcb0; border-bottom-color: #5bbcb0; }
+    .news-bills { display: flex; flex-direction: column; gap: 1px; background: rgba(255,255,255,0.05); }
+    .news-card {
+      background: rgba(13,27,46,0.8);
+      padding: 20px 24px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 16px;
+      align-items: start;
+      border-left: 3px solid transparent;
+      transition: border-color 0.2s, background 0.2s;
+      text-decoration: none;
+      color: inherit;
+    }
+    .news-card:hover { background: rgba(255,255,255,0.03); border-left-color: #5bbcb0; }
+    .news-card-title { font-size: 15px; font-weight: 500; color: var(--white); margin-bottom: 5px; line-height: 1.4; }
+    .news-card-desc { font-size: 13px; font-weight: 300; color: rgba(255,255,255,0.45); line-height: 1.6; margin-bottom: 8px; }
+    .news-card-meta { font-size: 11px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(255,255,255,0.25); }
+    .news-card-source { color: #5bbcb0; margin-right: 8px; }
+    .news-card-right { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; flex-shrink: 0; }
+    .news-card-date { font-size: 11px; color: rgba(255,255,255,0.25); white-space: nowrap; }
+
     /* ── ENHANCED CARD HOVERS ── */
     @keyframes fadeUp {
       to { opacity: 1; transform: translateY(0); }
@@ -1676,10 +1721,9 @@
     <div class="feed-inner">
       <div class="feed-header">
         <div class="feed-title-area">
-          <div class="feed-kicker">Michigan Legislature · 103rd Session</div>
+          <div class="feed-kicker">Michigan Intelligence · 103rd Session</div>
           <div class="feed-title">The Feed</div>
-          <div class="feed-subtitle">Live bill updates from the Michigan Legislature. Reflects the most recent 24 hours of activity.</div>
-          <div style="display:flex;align-items:center;gap:20px;margin-top:14px;">
+          <div style="display:flex;align-items:center;gap:20px;margin-top:10px;">
             <a href="https://www.house.mi.gov/VideoPlayer" target="_blank" style="font-size:11px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:rgba(91,188,176,0.7);text-decoration:none;display:flex;align-items:center;gap:6px;">
               <span style="width:6px;height:6px;background:#5bbcb0;border-radius:50%;display:inline-block;animation:feedpulse 2s infinite;"></span>House TV Live
             </a>
@@ -1693,20 +1737,59 @@
           <div class="feed-session-text" id="feed-session-status">Loading...</div>
         </div>
       </div>
-      <div id="feed-bills-container">
-        <div class="feed-loading">
-          <div style="margin-bottom:16px">
-            <span class="feed-loading-dot"></span>
-            <span class="feed-loading-dot"></span>
-            <span class="feed-loading-dot"></span>
+
+      <!-- TABS -->
+      <div class="feed-tabs">
+        <button class="feed-tab active" id="tab-news" onclick="switchTab('news')">News</button>
+        <button class="feed-tab" id="tab-bills" onclick="switchTab('bills')">Bills</button>
+      </div>
+
+      <!-- NEWS PANEL -->
+      <div id="feed-news-panel">
+        <div class="feed-filters" id="news-filters">
+          <button class="feed-filter active" onclick="filterNews('all', this)">All News</button>
+          <button class="feed-filter" onclick="filterNews('government', this)">Government</button>
+          <button class="feed-filter" onclick="filterNews('safety', this)">Public Safety</button>
+          <button class="feed-filter" onclick="filterNews('technology', this)">Technology</button>
+          <button class="feed-filter" onclick="filterNews('education', this)">Education</button>
+          <button class="feed-filter" onclick="filterNews('health', this)">Healthcare</button>
+          <button class="feed-filter" onclick="filterNews('associations', this)">Associations</button>
+        </div>
+        <div id="feed-news-container">
+          <div class="feed-loading">
+            <div style="margin-bottom:16px">
+              <span class="feed-loading-dot"></span>
+              <span class="feed-loading-dot"></span>
+              <span class="feed-loading-dot"></span>
+            </div>
+            Fetching latest Michigan news...
           </div>
-          Fetching latest bills from the Michigan Legislature...
+        </div>
+        <div class="feed-footer">
+          <div class="feed-updated" id="news-updated"></div>
+          <div class="feed-source">Sources: Michigan Advance · Bridge Michigan · MLive</div>
         </div>
       </div>
-      <div class="feed-footer">
-        <div class="feed-updated" id="feed-updated"></div>
-        <div class="feed-source">Source: <a href="https://legislature.mi.gov" target="_blank">Michigan Legislature</a></div>
+
+      <!-- BILLS PANEL -->
+      <div id="feed-bills-panel" style="display:none;">
+        <div class="feed-subtitle" style="color:rgba(255,255,255,0.4);font-size:13px;margin-bottom:20px;">Live bill updates from the Michigan Legislature. Reflects the most recent 24 hours of activity.</div>
+        <div id="feed-bills-container">
+          <div class="feed-loading">
+            <div style="margin-bottom:16px">
+              <span class="feed-loading-dot"></span>
+              <span class="feed-loading-dot"></span>
+              <span class="feed-loading-dot"></span>
+            </div>
+            Fetching latest bills from the Michigan Legislature...
+          </div>
+        </div>
+        <div class="feed-footer">
+          <div class="feed-updated" id="feed-updated"></div>
+          <div class="feed-source">Source: <a href="https://legislature.mi.gov" target="_blank">Michigan Legislature</a></div>
+        </div>
       </div>
+
     </div>
   </div>
 
@@ -1766,6 +1849,144 @@
       });
     }, { threshold: 0.05 });
     reveals.forEach(el => observer.observe(el));
+
+    // NEWS FEED
+    const NEWS_KEYWORDS = {
+      government: ['legislature','governor','lansing','senate','house','democrat','republican','budget','appropriation','legislation','bill','law','policy','election','ballot','michigan government','state government','capitol','lawmaker','legislator'],
+      safety: ['police','law enforcement','sheriff','fire department','ems','emergency','first responder','corrections','public safety','crime','criminal','shooting','violence','911','officer','security','homeland'],
+      technology: ['technology','software','digital','data','cyber','artificial intelligence','drone','broadband','internet','innovation','tech','startup','procurement','contract','state contract'],
+      education: ['school','education','student','teacher','university','college','k-12','curriculum','campus','district','learning','academic','tuition','msu','u of m','wayne state'],
+      health: ['mental health','wellness','behavioral health','substance','opioid','addiction','medicaid','medicare','hospital','health care','behavioral','counseling','treatment','recovery'],
+      associations: ['association','trade group','industry','license','regulation','regulatory','compliance','nonprofit','membership','beverage','alcohol','liquor','hospitality','chamber of commerce']
+    };
+
+    const NEWS_SOURCES = [
+      { name: 'Michigan Advance', url: 'https://michiganadvance.com/feed/', color: '#5bbcb0' },
+      { name: 'Bridge Michigan', url: 'https://www.bridgemi.com/rss.xml', color: '#85B7EB' },
+      { name: 'MLive Politics', url: 'https://www.mlive.com/politics/index.ssf/atom.xml', color: '#C0DD97' }
+    ];
+
+    let allNews = [];
+    let newsLoaded = false;
+
+    function tagNews(title, desc) {
+      const text = (title + ' ' + desc).toLowerCase();
+      for (const [tag, keywords] of Object.entries(NEWS_KEYWORDS)) {
+        if (keywords.some(k => text.includes(k))) return tag;
+      }
+      return 'general';
+    }
+
+    function newsTagLabel(tag) {
+      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Associations', general:'Michigan News' };
+      return labels[tag] || 'Michigan News';
+    }
+
+    function newsTagColor(tag) {
+      const colors = {
+        government: 'color:#AFA9EC;background:rgba(175,169,236,0.1);border:1px solid rgba(175,169,236,0.2)',
+        safety: 'color:#5bbcb0;background:rgba(91,188,176,0.1);border:1px solid rgba(91,188,176,0.2)',
+        technology: 'color:#85B7EB;background:rgba(133,183,235,0.1);border:1px solid rgba(133,183,235,0.2)',
+        education: 'color:#C0DD97;background:rgba(192,221,151,0.1);border:1px solid rgba(192,221,151,0.2)',
+        health: 'color:#F09595;background:rgba(240,149,149,0.1);border:1px solid rgba(240,149,149,0.2)',
+        associations: 'color:#FAC775;background:rgba(250,199,117,0.1);border:1px solid rgba(250,199,117,0.2)',
+        general: 'color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.1)'
+      };
+      return colors[tag] || colors.general;
+    }
+
+    function renderNews(articles) {
+      const container = document.getElementById('feed-news-container');
+      if (!articles.length) {
+        container.innerHTML = '<div class="feed-error">No news articles found matching this filter.</div>';
+        return;
+      }
+      const html = '<div class="news-bills">' + articles.map(a => `
+        <a class="news-card" href="${a.link}" target="_blank" rel="noopener">
+          <div>
+            <div class="news-card-title">${a.title}</div>
+            <div class="news-card-desc">${a.desc}</div>
+            <div class="news-card-meta"><span class="news-card-source">${a.source}</span>${a.date}</div>
+          </div>
+          <div class="news-card-right">
+            <span style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;padding:4px 10px;white-space:nowrap;${newsTagColor(a.tag)}">${newsTagLabel(a.tag)}</span>
+          </div>
+        </a>`).join('') + '</div>';
+      container.innerHTML = html;
+    }
+
+    function filterNews(filter, btn) {
+      document.querySelectorAll('#news-filters .feed-filter').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const filtered = filter === 'all' ? allNews : allNews.filter(a => a.tag === filter);
+      renderNews(filtered.length ? filtered : allNews);
+    }
+
+    async function fetchNewsSource(source) {
+      const proxies = [
+        `https://api.allorigins.win/raw?url=${encodeURIComponent(source.url)}`,
+        `https://api.allorigins.win/get?url=${encodeURIComponent(source.url)}`
+      ];
+      for (const proxy of proxies) {
+        try {
+          const res = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
+          if (!res.ok) continue;
+          let text = await res.text();
+          try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
+          if (!text.includes('<item>') && !text.includes('<entry>')) continue;
+          const parser = new DOMParser();
+          const xml = parser.parseFromString(text, 'text/xml');
+          const items = xml.querySelectorAll('item, entry');
+          return Array.from(items).slice(0, 15).map(item => {
+            const title = item.querySelector('title')?.textContent?.trim() || '';
+            const desc = (item.querySelector('description,summary,content')?.textContent || '').replace(/<[^>]+>/g,'').trim().substring(0, 150) + '...';
+            const link = item.querySelector('link')?.textContent?.trim() || item.querySelector('link')?.getAttribute('href') || '#';
+            const date = item.querySelector('pubDate,published,updated')?.textContent || '';
+            return { title, desc, link, date: formatDate(date), source: source.name, tag: tagNews(title, desc) };
+          }).filter(a => a.title);
+        } catch(e) { continue; }
+      }
+      return [];
+    }
+
+    async function loadNews() {
+      const container = document.getElementById('feed-news-container');
+      try {
+        const results = await Promise.allSettled(NEWS_SOURCES.map(s => fetchNewsSource(s)));
+        allNews = results.flatMap(r => r.status === 'fulfilled' ? r.value : []);
+        allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
+        if (!allNews.length) {
+          container.innerHTML = '<div class="feed-error">Unable to load news at this time. Check back later or visit the sources directly.</div>';
+          return;
+        }
+        renderNews(allNews);
+        const now = new Date();
+        document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+      } catch(err) {
+        container.innerHTML = '<div class="feed-error">Unable to load news at this time.</div>';
+      }
+    }
+
+    function switchTab(tab) {
+      document.getElementById('tab-news').classList.toggle('active', tab === 'news');
+      document.getElementById('tab-bills').classList.toggle('active', tab === 'bills');
+      document.getElementById('feed-news-panel').style.display = tab === 'news' ? 'block' : 'none';
+      document.getElementById('feed-bills-panel').style.display = tab === 'bills' ? 'block' : 'none';
+      if (tab === 'bills' && !feedLoaded) { feedLoaded = true; loadFeed(); }
+      if (tab === 'news' && !newsLoaded) { newsLoaded = true; loadNews(); }
+    }
+
+    let feedLoaded = false;
+    function openFeed() {
+      document.getElementById('feed-overlay').classList.add('open');
+      document.body.style.overflow = 'hidden';
+      if (!newsLoaded) { newsLoaded = true; loadNews(); }
+      document.getElementById('feed-session-status').textContent = '103rd Legislature · Live';
+    }
+    function closeFeed() {
+      document.getElementById('feed-overlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
 
     // THE FEED
     const FEED_KEYWORDS = {
@@ -1932,16 +2153,6 @@
       }
     }
 
-    let feedLoaded = false;
-    function openFeed() {
-      document.getElementById('feed-overlay').classList.add('open');
-      document.body.style.overflow = 'hidden';
-      if (!feedLoaded) { feedLoaded = true; loadFeed(); }
-    }
-    function closeFeed() {
-      document.getElementById('feed-overlay').classList.remove('open');
-      document.body.style.overflow = '';
-    }
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') { closeFeed(); closeModal(); }
     });

@@ -1688,10 +1688,11 @@
       <div class="feed-filters">
         <button class="feed-filter active" onclick="filterFeed('all', this)">All Bills</button>
         <button class="feed-filter" onclick="filterFeed('safety', this)">Public Safety</button>
-        <button class="feed-filter" onclick="filterFeed('tech', this)">Technology</button>
+        <button class="feed-filter" onclick="filterFeed('technology', this)">Technology</button>
         <button class="feed-filter" onclick="filterFeed('education', this)">Education</button>
-        <button class="feed-filter" onclick="filterFeed('health', this)">Health &amp; Wellness</button>
-        <button class="feed-filter" onclick="filterFeed('procurement', this)">Procurement</button>
+        <button class="feed-filter" onclick="filterFeed('associations', this)">Associations</button>
+        <button class="feed-filter" onclick="filterFeed('emerging', this)">Emerging Tech</button>
+        <button class="feed-filter" onclick="filterFeed('health', this)">Healthcare</button>
       </div>
       <div id="feed-bills-container">
         <div class="feed-loading">
@@ -1769,11 +1770,12 @@
 
     // THE FEED
     const FEED_KEYWORDS = {
-      safety: ['police','law enforcement','sheriff','fire','ems','emergency','first responder','corrections','public safety','security','school safety','weapon','firearm','911'],
-      tech: ['technology','software','digital','data','cyber','artificial intelligence','drone','surveillance','platform','system','broadband','internet'],
-      education: ['school','education','student','teacher','university','college','k-12','curriculum','classroom','campus'],
-      health: ['mental health','wellness','behavioral','substance','opioid','addiction','health care','medicaid','medicare','hospital','behavioral health'],
-      procurement: ['procurement','contract','bid','vendor','purchasing','appropriation','grant','funding','budget','allocation']
+      safety: ['police','law enforcement','sheriff','fire','ems','emergency','first responder','corrections','public safety','security','school safety','weapon','firearm','911','dispatch','officer','crime','criminal','violence','threat','surveillance','body camera','detention'],
+      technology: ['technology','software','digital','data','cyber','artificial intelligence','drone','platform','system','broadband','internet','innovation','procurement','contract','vendor','purchasing','appropriation','grant','funding','budget','allocation','bid','state contract','government contract'],
+      education: ['school','education','student','teacher','university','college','k-12','curriculum','classroom','campus','district','learning','academic','literacy','tuition'],
+      associations: ['association','trade','industry','license','regulation','regulatory','compliance','lobbying','advocacy','nonprofit','organization','membership','beverage','alcohol','liquor','hospitality'],
+      emerging: ['drone','unmanned','autonomous','artificial intelligence','ai','machine learning','blockchain','smart city','infrastructure','broadband','5g','electric vehicle','renewable','innovation','emerging technology'],
+      health: ['mental health','wellness','behavioral','substance','opioid','addiction','health care','medicaid','medicare','hospital','behavioral health','counseling','treatment','recovery','first responder wellness']
     };
 
     let allBills = [];
@@ -1788,17 +1790,26 @@
     }
 
     function tagLabel(tag) {
-      const labels = { safety:'Public Safety', tech:'Technology', education:'Education', health:'Health & Wellness', procurement:'Procurement', general:'General' };
+      const labels = {
+        safety: 'Public Safety',
+        technology: 'Technology',
+        education: 'Education',
+        associations: 'Associations',
+        emerging: 'Emerging Tech',
+        health: 'Healthcare',
+        general: 'General'
+      };
       return labels[tag] || 'General';
     }
 
     function tagColor(tag) {
       const colors = {
         safety: 'color:#5bbcb0;background:rgba(91,188,176,0.1);border:1px solid rgba(91,188,176,0.2)',
-        tech: 'color:#85B7EB;background:rgba(133,183,235,0.1);border:1px solid rgba(133,183,235,0.2)',
+        technology: 'color:#85B7EB;background:rgba(133,183,235,0.1);border:1px solid rgba(133,183,235,0.2)',
         education: 'color:#C0DD97;background:rgba(192,221,151,0.1);border:1px solid rgba(192,221,151,0.2)',
-        health: 'color:#FAC775;background:rgba(250,199,117,0.1);border:1px solid rgba(250,199,117,0.2)',
-        procurement: 'color:#AFA9EC;background:rgba(175,169,236,0.1);border:1px solid rgba(175,169,236,0.2)',
+        associations: 'color:#AFA9EC;background:rgba(175,169,236,0.1);border:1px solid rgba(175,169,236,0.2)',
+        emerging: 'color:#FAC775;background:rgba(250,199,117,0.1);border:1px solid rgba(250,199,117,0.2)',
+        health: 'color:#F09595;background:rgba(240,149,149,0.1);border:1px solid rgba(240,149,149,0.2)',
         general: 'color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.1)'
       };
       return colors[tag] || colors.general;
@@ -1893,7 +1904,7 @@
         });
 
         const relevant = allBills.filter(b => b.tag !== 'general');
-        allBills = relevant.length > 0 ? relevant : allBills;
+        allBills = relevant.length >= 3 ? relevant : allBills;
 
         renderBills(allBills);
 

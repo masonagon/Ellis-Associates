@@ -1893,8 +1893,8 @@
     }
 
     function newsTagLabel(tag) {
-      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Associations', general:'Michigan News' };
-      return labels[tag] || 'Michigan News';
+      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Associations', general:'Government' };
+      return labels[tag] || 'Government';
     }
 
     function newsTagColor(tag) {
@@ -1910,30 +1910,44 @@
       return colors[tag] || colors.general;
     }
 
+    function getNewsTags(title, desc) {
+      const text = (title + ' ' + desc).toLowerCase();
+      const matched = [];
+      for (const [tag, keywords] of Object.entries(NEWS_KEYWORDS)) {
+        if (keywords.some(k => text.includes(k))) matched.push(tag);
+      }
+      return matched.length ? matched.slice(0, 2) : ['government'];
+    }
+
     function renderNews(articles) {
       const container = document.getElementById('feed-news-container');
       if (!articles.length) {
         container.innerHTML = '<div class="feed-error">No news articles found matching this filter.</div>';
         return;
       }
-      const html = '<div class="news-bills">' + articles.map(a => `
+      const html = '<div class="news-bills">' + articles.map(a => {
+        const tags = getNewsTags(a.title, a.desc);
+        const tagHtml = tags.map(t => `<span style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;padding:4px 10px;white-space:nowrap;${newsTagColor(t)}">${newsTagLabel(t)}</span>`).join('');
+        return `
         <a class="news-card" href="${a.link}" target="_blank" rel="noopener">
           <div>
             <div class="news-card-title">${a.title}</div>
             <div class="news-card-desc">${a.desc}</div>
             <div class="news-card-meta"><span class="news-card-source">${a.source}</span>${a.date}</div>
           </div>
-          <div class="news-card-right">
-            <span style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;padding:4px 10px;white-space:nowrap;${newsTagColor(a.tag)}">${newsTagLabel(a.tag)}</span>
+          <div class="news-card-right" style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;">
+            ${tagHtml}
           </div>
-        </a>`).join('') + '</div>';
+        </a>`;
+      }).join('') + '</div>';
       container.innerHTML = html;
     }
 
     function filterNews(filter, btn) {
       document.querySelectorAll('#news-filters .feed-filter').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      const filtered = filter === 'all' ? allNews : allNews.filter(a => a.tag === filter);
+      if (filter === 'all') { renderNews(allNews); return; }
+      const filtered = allNews.filter(a => getNewsTags(a.title, a.desc).includes(filter));
       renderNews(filtered.length ? filtered : allNews);
     }
 

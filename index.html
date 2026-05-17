@@ -1863,13 +1863,12 @@
       // Technology
       { name: 'The Hill Tech', url: 'https://thehill.com/technology/feed/', tag: 'technology' },
       { name: 'Michigan MEDC', url: 'https://www.michiganbusiness.org/feed/', tag: 'technology' },
-      { name: 'MLive Business', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/business/', tag: 'technology' },
       // Education
       { name: 'MLive Education', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/education/', tag: 'education' },
       // Healthcare
       { name: 'The Hill Healthcare', url: 'https://thehill.com/policy/healthcare/feed/', tag: 'health' },
       { name: 'MLive Health', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/health/', tag: 'health' },
-      // Associations / Business & Industry
+      // Business & Industry
       { name: 'MLive Business', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/business/', tag: 'associations' },
       { name: 'The Hill Finance', url: 'https://thehill.com/policy/finance/feed/', tag: 'associations' },
       { name: 'The Hill Economy', url: 'https://thehill.com/economy/feed/', tag: 'associations' },
@@ -1928,6 +1927,10 @@
       btn.classList.add('active');
       if (filter === 'all') { renderNews(allNews); return; }
       const filtered = allNews.filter(a => a.tag === filter);
+      if (!filtered.length) {
+        document.getElementById('feed-news-container').innerHTML = `<div class="feed-error">No articles found for this category right now.<br>The news source for this category may be temporarily unavailable.<br>Try <strong>All News</strong> or check back later.</div>`;
+        return;
+      }
       renderNews(filtered);
     }
 

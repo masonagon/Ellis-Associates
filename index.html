@@ -739,7 +739,213 @@
     }
     .footer-links a:hover { color: rgba(255,255,255,0.6); }
 
-    /* ── GRAIN TEXTURE ── */
+    .feed-nav-link {
+      display: flex !important;
+      align-items: center;
+      gap: 7px;
+      color: #5bbcb0 !important;
+      border-bottom-color: transparent !important;
+    }
+    .feed-nav-link:hover { color: #5bbcb0 !important; border-bottom-color: #5bbcb0 !important; }
+    .feed-nav-dot {
+      width: 7px;
+      height: 7px;
+      background: #5bbcb0;
+      border-radius: 50%;
+      flex-shrink: 0;
+      animation: feedpulse 2s infinite;
+    }
+    @keyframes feedpulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.5;transform:scale(0.8)} }
+
+    /* ── THE FEED OVERLAY ── */
+    #feed-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(13,27,46,0.96);
+      z-index: 500;
+      overflow-y: auto;
+    }
+    #feed-overlay.open { display: block; }
+    .feed-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 48px 48px 80px;
+    }
+    .feed-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      margin-bottom: 36px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    .feed-title-area { }
+    .feed-kicker {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 8px;
+    }
+    .feed-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 6px;
+    }
+    .feed-subtitle {
+      font-size: 14px;
+      font-weight: 300;
+      color: rgba(255,255,255,0.4);
+    }
+    .feed-session {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(91,188,176,0.08);
+      border: 1px solid rgba(91,188,176,0.2);
+      padding: 10px 16px;
+    }
+    .feed-session-dot {
+      width: 8px;
+      height: 8px;
+      background: #5bbcb0;
+      border-radius: 50%;
+      animation: feedpulse 2s infinite;
+      flex-shrink: 0;
+    }
+    .feed-session-text {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #5bbcb0;
+    }
+    .feed-close {
+      position: fixed;
+      top: 24px;
+      right: 32px;
+      background: none;
+      border: none;
+      color: rgba(255,255,255,0.4);
+      font-size: 28px;
+      cursor: pointer;
+      padding: 8px;
+      z-index: 501;
+      transition: color 0.2s;
+      line-height: 1;
+    }
+    .feed-close:hover { color: var(--white); }
+    .feed-filters {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 28px;
+    }
+    .feed-filter {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 7px 16px;
+      border: 1px solid rgba(255,255,255,0.12);
+      color: rgba(255,255,255,0.4);
+      background: none;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: 'Barlow', sans-serif;
+    }
+    .feed-filter:hover { border-color: rgba(255,255,255,0.3); color: rgba(255,255,255,0.7); }
+    .feed-filter.active { border-color: #5bbcb0; color: #5bbcb0; background: rgba(91,188,176,0.08); }
+    .feed-bills { display: flex; flex-direction: column; gap: 1px; background: rgba(255,255,255,0.05); }
+    .feed-bill {
+      background: rgba(13,27,46,0.8);
+      padding: 20px 24px;
+      display: grid;
+      grid-template-columns: 80px 1fr auto;
+      gap: 20px;
+      align-items: start;
+      border-left: 3px solid transparent;
+      transition: border-color 0.2s, background 0.2s;
+      text-decoration: none;
+      color: inherit;
+    }
+    .feed-bill:hover { background: rgba(255,255,255,0.03); border-left-color: #5bbcb0; }
+    .feed-bill-num {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      color: rgba(255,255,255,0.35);
+      padding-top: 2px;
+    }
+    .feed-bill-title {
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--white);
+      margin-bottom: 5px;
+      line-height: 1.4;
+    }
+    .feed-bill-desc {
+      font-size: 13px;
+      font-weight: 300;
+      color: rgba(255,255,255,0.45);
+      line-height: 1.6;
+    }
+    .feed-bill-date {
+      font-size: 11px;
+      font-weight: 500;
+      color: rgba(255,255,255,0.25);
+      white-space: nowrap;
+      padding-top: 2px;
+    }
+    .feed-loading {
+      text-align: center;
+      padding: 60px 0;
+      color: rgba(255,255,255,0.3);
+      font-size: 14px;
+      font-weight: 300;
+    }
+    .feed-loading-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background: #5bbcb0;
+      border-radius: 50%;
+      margin: 0 3px;
+      animation: feedpulse 1.2s infinite;
+    }
+    .feed-loading-dot:nth-child(2) { animation-delay: 0.2s; }
+    .feed-loading-dot:nth-child(3) { animation-delay: 0.4s; }
+    .feed-footer {
+      margin-top: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .feed-updated {
+      font-size: 11px;
+      color: rgba(255,255,255,0.2);
+    }
+    .feed-source {
+      font-size: 11px;
+      color: rgba(255,255,255,0.2);
+    }
+    .feed-source a {
+      color: rgba(91,188,176,0.6);
+      text-decoration: none;
+    }
+    .feed-source a:hover { color: #5bbcb0; }
+    .feed-error {
+      text-align: center;
+      padding: 48px;
+      color: rgba(255,255,255,0.35);
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 1.7;
+    }
     .grain::after {
       content: '';
       position: absolute;
@@ -1075,6 +1281,7 @@
       <li><a href="#industries">Industries</a></li>
       <li><a href="#scott">About</a></li>
       <li><a href="#contact-section">Contact</a></li>
+      <li><a href="#" class="feed-nav-link" onclick="openFeed(); return false;"><span class="feed-nav-dot"></span>The Feed</a></li>
     </ul>
     <button class="nav-cta" onclick="openModal()">Connect With Us</button>
     <button class="hamburger" id="hamburger" onclick="toggleMobileNav()" aria-label="Menu">
@@ -1463,6 +1670,46 @@
   </section>
 
   <!-- FOOTER -->
+  <!-- THE FEED OVERLAY -->
+  <div id="feed-overlay">
+    <button class="feed-close" onclick="closeFeed()" aria-label="Close">&times;</button>
+    <div class="feed-inner">
+      <div class="feed-header">
+        <div class="feed-title-area">
+          <div class="feed-kicker">Michigan Legislature · 103rd Session</div>
+          <div class="feed-title">The Feed</div>
+          <div class="feed-subtitle">Live legislative updates relevant to Ellis &amp; Associates clients</div>
+        </div>
+        <div class="feed-session">
+          <div class="feed-session-dot"></div>
+          <div class="feed-session-text" id="feed-session-status">Loading...</div>
+        </div>
+      </div>
+      <div class="feed-filters">
+        <button class="feed-filter active" onclick="filterFeed('all', this)">All Bills</button>
+        <button class="feed-filter" onclick="filterFeed('safety', this)">Public Safety</button>
+        <button class="feed-filter" onclick="filterFeed('tech', this)">Technology</button>
+        <button class="feed-filter" onclick="filterFeed('education', this)">Education</button>
+        <button class="feed-filter" onclick="filterFeed('health', this)">Health &amp; Wellness</button>
+        <button class="feed-filter" onclick="filterFeed('procurement', this)">Procurement</button>
+      </div>
+      <div id="feed-bills-container">
+        <div class="feed-loading">
+          <div style="margin-bottom:16px">
+            <span class="feed-loading-dot"></span>
+            <span class="feed-loading-dot"></span>
+            <span class="feed-loading-dot"></span>
+          </div>
+          Fetching latest bills from the Michigan Legislature...
+        </div>
+      </div>
+      <div class="feed-footer">
+        <div class="feed-updated" id="feed-updated"></div>
+        <div class="feed-source">Source: <a href="https://legislature.mi.gov" target="_blank">Michigan Legislature</a></div>
+      </div>
+    </div>
+  </div>
+
   <footer>
     <div class="footer-logo">
       <span class="wordmark wordmark-white">ELLIS <span class="amp">&amp;</span> ASSOCIATES</span>
@@ -1519,6 +1766,139 @@
       });
     }, { threshold: 0.05 });
     reveals.forEach(el => observer.observe(el));
+
+    // THE FEED
+    const FEED_KEYWORDS = {
+      safety: ['police','law enforcement','sheriff','fire','ems','emergency','first responder','corrections','public safety','security','school safety','weapon','firearm','911'],
+      tech: ['technology','software','digital','data','cyber','artificial intelligence','drone','surveillance','platform','system','broadband','internet'],
+      education: ['school','education','student','teacher','university','college','k-12','curriculum','classroom','campus'],
+      health: ['mental health','wellness','behavioral','substance','opioid','addiction','health care','medicaid','medicare','hospital','behavioral health'],
+      procurement: ['procurement','contract','bid','vendor','purchasing','appropriation','grant','funding','budget','allocation']
+    };
+
+    let allBills = [];
+    let currentFilter = 'all';
+
+    function tagBill(title, desc) {
+      const text = (title + ' ' + desc).toLowerCase();
+      for (const [tag, keywords] of Object.entries(FEED_KEYWORDS)) {
+        if (keywords.some(k => text.includes(k))) return tag;
+      }
+      return 'general';
+    }
+
+    function tagLabel(tag) {
+      const labels = { safety:'Public Safety', tech:'Technology', education:'Education', health:'Health & Wellness', procurement:'Procurement', general:'General' };
+      return labels[tag] || 'General';
+    }
+
+    function tagColor(tag) {
+      const colors = {
+        safety: 'color:#5bbcb0;background:rgba(91,188,176,0.1);border:1px solid rgba(91,188,176,0.2)',
+        tech: 'color:#85B7EB;background:rgba(133,183,235,0.1);border:1px solid rgba(133,183,235,0.2)',
+        education: 'color:#C0DD97;background:rgba(192,221,151,0.1);border:1px solid rgba(192,221,151,0.2)',
+        health: 'color:#FAC775;background:rgba(250,199,117,0.1);border:1px solid rgba(250,199,117,0.2)',
+        procurement: 'color:#AFA9EC;background:rgba(175,169,236,0.1);border:1px solid rgba(175,169,236,0.2)',
+        general: 'color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.1)'
+      };
+      return colors[tag] || colors.general;
+    }
+
+    function formatDate(dateStr) {
+      try {
+        const d = new Date(dateStr);
+        return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+      } catch(e) { return ''; }
+    }
+
+    function renderBills(bills) {
+      const container = document.getElementById('feed-bills-container');
+      if (!bills.length) {
+        container.innerHTML = '<div class="feed-error">No bills found matching this filter.<br>Try selecting a different category or check back later.</div>';
+        return;
+      }
+      const html = '<div class="feed-bills">' + bills.map(bill => {
+        const tag = bill.tag;
+        return `<a class="feed-bill" href="${bill.link}" target="_blank" rel="noopener">
+          <div class="feed-bill-num">${bill.num}</div>
+          <div>
+            <div class="feed-bill-title">${bill.title}</div>
+            <div class="feed-bill-desc">${bill.desc}</div>
+          </div>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;gap:8px">
+            <span style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;padding:4px 10px;white-space:nowrap;${tagColor(tag)}">${tagLabel(tag)}</span>
+            <span class="feed-bill-date">${bill.date}</span>
+          </div>
+        </a>`;
+      }).join('') + '</div>';
+      container.innerHTML = html;
+    }
+
+    function filterFeed(filter, btn) {
+      currentFilter = filter;
+      document.querySelectorAll('.feed-filter').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const filtered = filter === 'all' ? allBills : allBills.filter(b => b.tag === filter);
+      renderBills(filtered);
+    }
+
+    async function loadFeed() {
+      const container = document.getElementById('feed-bills-container');
+      const rssUrl = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
+      const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`;
+
+      try {
+        const res = await fetch(proxyUrl);
+        const data = await res.json();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(data.contents, 'text/xml');
+        const items = xml.querySelectorAll('item');
+
+        allBills = Array.from(items).slice(0, 50).map(item => {
+          const title = item.querySelector('title')?.textContent || '';
+          const desc = item.querySelector('description')?.textContent || '';
+          const link = item.querySelector('link')?.textContent || '#';
+          const date = item.querySelector('pubDate')?.textContent || '';
+          const numMatch = title.match(/\b([HS]B\s?\d+|[HS]JR\s?\d+)/i);
+          return {
+            num: numMatch ? numMatch[0].replace(/\s/g,'').toUpperCase() : 'MI',
+            title: title.replace(/^[HS]B\s?\d+[:\-\s]*/i, '').trim() || title,
+            desc: desc.replace(/<[^>]+>/g,'').trim().substring(0, 140) + '...',
+            link,
+            date: formatDate(date),
+            tag: tagBill(title, desc)
+          };
+        }).filter(b => b.tag !== 'general' || currentFilter === 'all');
+
+        // Filter to only relevant bills for default view
+        const relevant = allBills.filter(b => b.tag !== 'general');
+        allBills = relevant.length > 0 ? relevant : allBills;
+
+        renderBills(allBills);
+
+        const now = new Date();
+        document.getElementById('feed-updated').textContent = `Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+        document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
+
+      } catch(err) {
+        container.innerHTML = '<div class="feed-error">Unable to load live feed at this time.<br>Please visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly for the latest bills.</div>';
+        document.getElementById('feed-session-status').textContent = 'Feed Unavailable';
+      }
+    }
+
+    let feedLoaded = false;
+    function openFeed() {
+      document.getElementById('feed-overlay').classList.add('open');
+      document.body.style.overflow = 'hidden';
+      if (!feedLoaded) { feedLoaded = true; loadFeed(); }
+    }
+    function closeFeed() {
+      document.getElementById('feed-overlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') { closeFeed(); closeModal(); }
+    });
 
     // Hamburger menu
     function toggleMobileNav() {

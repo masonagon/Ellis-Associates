@@ -1852,31 +1852,42 @@
 
     // NEWS FEED
     const NEWS_KEYWORDS = {
-      government: ['legislature','governor','lansing','senate','house','democrat','republican','budget','appropriation','legislation','bill','law','policy','election','ballot','michigan government','state government','capitol','lawmaker','legislator'],
-      safety: ['police','law enforcement','sheriff','fire department','ems','emergency','first responder','corrections','public safety','crime','criminal','shooting','violence','911','officer','security','homeland'],
-      technology: ['technology','software','digital','data','cyber','artificial intelligence','drone','broadband','internet','innovation','tech','startup','procurement','contract','state contract'],
-      education: ['school','education','student','teacher','university','college','k-12','curriculum','campus','district','learning','academic','tuition','msu','u of m','wayne state'],
-      health: ['mental health','wellness','behavioral health','substance','opioid','addiction','medicaid','medicare','hospital','health care','behavioral','counseling','treatment','recovery'],
-      associations: ['association','trade group','industry','license','regulation','regulatory','compliance','nonprofit','membership','beverage','alcohol','liquor','hospitality','chamber of commerce']
+      government: ['legislature','legislator','governor','lansing','senate bill','house bill','appropriation','enacted','signed into law','state budget','capitol','lawmaker','committee hearing','michigan government','state policy'],
+      safety: ['police department','law enforcement','sheriff','fire department','ems','emergency services','first responder','corrections officer','public safety','crime rate','officer','dispatch','homeland security','prison'],
+      technology: ['technology company','software','cybersecurity','artificial intelligence','drone','broadband expansion','government procurement','state contract','tech firm','digital government'],
+      education: ['school district','k-12','classroom','teacher shortage','university funding','college tuition','school safety','msu','u of m','wayne state','community college','higher education funding'],
+      health: ['mental health','behavioral health','substance abuse','opioid crisis','medicaid','first responder wellness','hospital','health care policy','counseling','addiction treatment'],
+      associations: ['trade association','chamber of commerce','licensing board','regulatory agency','nonprofit organization','beverage industry','hospitality industry','industry group']
     };
 
     const NEWS_SOURCES = [
-      { name: 'Michigan Government', url: 'https://news.google.com/rss/search?q=michigan+government+legislature&hl=en-US&gl=US&ceid=US:en' },
-      { name: 'Michigan Public Safety', url: 'https://news.google.com/rss/search?q=michigan+public+safety+law+enforcement&hl=en-US&gl=US&ceid=US:en' },
-      { name: 'Michigan Technology', url: 'https://news.google.com/rss/search?q=michigan+technology+policy+procurement&hl=en-US&gl=US&ceid=US:en' },
-      { name: 'Michigan Education', url: 'https://news.google.com/rss/search?q=michigan+education+schools+legislation&hl=en-US&gl=US&ceid=US:en' },
-      { name: 'Michigan Health', url: 'https://news.google.com/rss/search?q=michigan+behavioral+health+first+responder&hl=en-US&gl=US&ceid=US:en' }
+      { name: 'Michigan Politics', url: 'https://news.google.com/rss/search?q=michigan+legislature+lansing+bill+law&hl=en-US&gl=US&ceid=US:en' },
+      { name: 'Michigan Public Safety', url: 'https://news.google.com/rss/search?q=michigan+police+sheriff+fire+ems+corrections&hl=en-US&gl=US&ceid=US:en' },
+      { name: 'Michigan Technology', url: 'https://news.google.com/rss/search?q=michigan+technology+government+procurement+contract&hl=en-US&gl=US&ceid=US:en' },
+      { name: 'Michigan Education', url: 'https://news.google.com/rss/search?q=michigan+school+education+k-12+university+funding&hl=en-US&gl=US&ceid=US:en' },
+      { name: 'Michigan Health', url: 'https://news.google.com/rss/search?q=michigan+behavioral+health+mental+health+first+responder&hl=en-US&gl=US&ceid=US:en' }
     ];
 
     let allNews = [];
     let newsLoaded = false;
 
+    function isRecent(dateStr) {
+      try {
+        const d = new Date(dateStr);
+        const diffDays = (new Date() - d) / (1000 * 60 * 60 * 24);
+        return diffDays <= 14;
+      } catch(e) { return true; }
+    }
+
     function tagNews(title, desc) {
       const text = (title + ' ' + desc).toLowerCase();
+      let bestTag = 'general';
+      let bestCount = 0;
       for (const [tag, keywords] of Object.entries(NEWS_KEYWORDS)) {
-        if (keywords.some(k => text.includes(k))) return tag;
+        const count = keywords.filter(k => text.includes(k)).length;
+        if (count > bestCount) { bestCount = count; bestTag = tag; }
       }
-      return 'general';
+      return bestTag;
     }
 
     function newsTagLabel(tag) {
@@ -1947,8 +1958,8 @@
             const linkEl = item.querySelector('link');
             const link = linkEl?.textContent?.trim() || linkEl?.getAttribute('href') || '#';
             const date = item.querySelector('pubDate,published,updated')?.textContent || '';
-            return { title, desc, link, date: formatDate(date), source: source.name, tag: tagNews(title, desc) };
-          }).filter(a => a.title.length > 5);
+            return { title, desc, link, date: formatDate(date), rawDate: date, source: source.name, tag: tagNews(title, desc) };
+          }).filter(a => a.title.length > 5 && isRecent(a.rawDate));
         } catch(e) { continue; }
       }
       return [];

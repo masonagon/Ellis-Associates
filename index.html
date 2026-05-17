@@ -1754,7 +1754,7 @@
           <button class="feed-filter" onclick="filterNews('technology', this)">Technology</button>
           <button class="feed-filter" onclick="filterNews('education', this)">Education</button>
           <button class="feed-filter" onclick="filterNews('health', this)">Healthcare</button>
-          <button class="feed-filter" onclick="filterNews('associations', this)">Associations</button>
+          <button class="feed-filter" onclick="filterNews('associations', this)">Business &amp; Industry</button>
         </div>
         <div id="feed-news-container">
           <div class="feed-loading">
@@ -1869,10 +1869,10 @@
       // Healthcare
       { name: 'The Hill Healthcare', url: 'https://thehill.com/policy/healthcare/feed/', tag: 'health' },
       { name: 'MLive Health', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/health/', tag: 'health' },
-      // Associations
-      { name: 'Michigan Chamber', url: 'https://www.michamber.com/feed/', tag: 'associations' },
-      { name: 'Detroit Chamber', url: 'https://www.detroitchamber.com/feed/', tag: 'associations' },
+      // Associations / Business & Industry
+      { name: 'MLive Business', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/business/', tag: 'associations' },
       { name: 'The Hill Finance', url: 'https://thehill.com/policy/finance/feed/', tag: 'associations' },
+      { name: 'The Hill Economy', url: 'https://thehill.com/economy/feed/', tag: 'associations' },
     ];
 
     let allNews = [];
@@ -1887,7 +1887,7 @@
     }
 
     function newsTagLabel(tag) {
-      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Associations' };
+      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Business & Industry' };
       return labels[tag] || 'Government';
     }
 

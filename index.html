@@ -1845,13 +1845,35 @@
     async function loadFeed() {
       const container = document.getElementById('feed-bills-container');
       const rssUrl = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
-      const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`;
+      
+      const proxies = [
+        `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`,
+        `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`,
+        `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rssUrl)}`
+      ];
+
+      let xmlText = null;
+
+      for (const proxy of proxies) {
+        try {
+          const res = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
+          if (!res.ok) continue;
+          const data = await res.json().catch(() => null);
+          if (data && data.contents) { xmlText = data.contents; break; }
+          const text = await res.text().catch(() => null);
+          if (text && text.includes('<rss')) { xmlText = text; break; }
+        } catch(e) { continue; }
+      }
+
+      if (!xmlText) {
+        container.innerHTML = '<div class="feed-error">Unable to load live feed at this time.<br>Please visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly for the latest bills.</div>';
+        document.getElementById('feed-session-status').textContent = 'Feed Unavailable';
+        return;
+      }
 
       try {
-        const res = await fetch(proxyUrl);
-        const data = await res.json();
         const parser = new DOMParser();
-        const xml = parser.parseFromString(data.contents, 'text/xml');
+        const xml = parser.parseFromString(xmlText, 'text/xml');
         const items = xml.querySelectorAll('item');
 
         allBills = Array.from(items).slice(0, 50).map(item => {
@@ -1868,9 +1890,8 @@
             date: formatDate(date),
             tag: tagBill(title, desc)
           };
-        }).filter(b => b.tag !== 'general' || currentFilter === 'all');
+        });
 
-        // Filter to only relevant bills for default view
         const relevant = allBills.filter(b => b.tag !== 'general');
         allBills = relevant.length > 0 ? relevant : allBills;
 
@@ -1881,8 +1902,7 @@
         document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
 
       } catch(err) {
-        container.innerHTML = '<div class="feed-error">Unable to load live feed at this time.<br>Please visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly for the latest bills.</div>';
-        document.getElementById('feed-session-status').textContent = 'Feed Unavailable';
+        container.innerHTML = '<div class="feed-error">Unable to parse feed data.<br>Please visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
       }
     }
 

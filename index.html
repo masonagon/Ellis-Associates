@@ -521,11 +521,11 @@
     #scott {
       display: grid;
       grid-template-columns: 5fr 7fr;
-      background: var(--navy);
     }
     .scott-left {
       padding: 80px 48px 80px 48px;
-      border-right: 1px solid rgba(255,255,255,0.07);
+      border-right: 1px solid var(--border);
+      background: var(--navy);
     }
     .scott-photo {
       width: 100%;
@@ -603,6 +603,7 @@
       flex-direction: column;
       gap: 32px;
       justify-content: center;
+      background: var(--white);
     }
     .scott-right-kicker {
       font-family: 'Playfair Display', serif;
@@ -611,11 +612,11 @@
       font-style: italic;
       letter-spacing: 0;
       text-transform: none;
-      color: var(--white);
+      color: var(--navy);
       margin-bottom: 32px;
     }
     .testimonial {
-      border-left: 2px solid rgba(255,255,255,0.15);
+      border-left: 2px solid var(--border);
       padding-left: 24px;
     }
     .testi-quote {
@@ -624,7 +625,7 @@
       font-style: normal;
       font-weight: 300;
       line-height: 1.85;
-      color: rgba(255,255,255,0.75);
+      color: #4b5563;
       margin-bottom: 14px;
     }
     .testi-attr {
@@ -632,12 +633,12 @@
       font-weight: 600;
       letter-spacing: 0.08em;
       text-transform: uppercase;
-      color: rgba(255,255,255,0.38);
+      color: var(--muted);
     }
     .testi-divider {
       width: 36px;
       height: 1px;
-      background: rgba(255,255,255,0.12);
+      background: var(--border);
       margin: 24px 0 24px 24px;
     }
 

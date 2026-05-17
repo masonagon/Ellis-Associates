@@ -2128,8 +2128,38 @@
 
     async function loadFeed() {
       const container = document.getElementById('feed-bills-container');
-      const rssUrl = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
-      const xmlText = await fetchWithProxies(rssUrl);
+      
+      // Try multiple URL formats - http and https
+      const rssUrls = [
+        'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml',
+        'http://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml'
+      ];
+
+      let xmlText = null;
+
+      for (const rssUrl of rssUrls) {
+        const encoded = encodeURIComponent(rssUrl);
+        const proxies = [
+          `https://api.allorigins.win/raw?url=${encoded}`,
+          `https://api.allorigins.win/get?url=${encoded}`,
+          `https://corsproxy.io/?${encoded}`,
+          `https://api.codetabs.com/v1/proxy?quest=${encoded}`
+        ];
+
+        for (const proxy of proxies) {
+          try {
+            const res = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
+            if (!res.ok) continue;
+            let text = await res.text();
+            try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
+            if (text.includes('<item>') || text.includes('<rss')) {
+              xmlText = text;
+              break;
+            }
+          } catch(e) { continue; }
+        }
+        if (xmlText) break;
+      }
 
       if (!xmlText) {
         container.innerHTML = '<div class="feed-error">Unable to load live feed at this time.<br>This may be caused by an ad blocker — try disabling it.<br><br>Or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
@@ -2185,7 +2215,7 @@
     window.addEventListener('load', () => {
       setTimeout(() => {
         loadNews();
-        setTimeout(() => loadFeed(), 3000);
+        loadFeed();
       }, 4000);
     });
     function toggleMobileNav() {

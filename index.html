@@ -23,6 +23,7 @@
       background: #fff;
       color: #0d1b2e;
       -webkit-font-smoothing: antialiased;
+      padding-top: 68px;
     }
     a { text-decoration: none; color: inherit; }
     img { display: block; max-width: 100%; }
@@ -102,9 +103,9 @@
     /* ── HERO ── */
     #hero {
       position: relative;
-      height: 100vh;
-      min-height: 600px;
-      max-height: 860px;
+      height: calc(100vh - 68px);
+      min-height: 560px;
+      max-height: none;
       overflow: hidden;
       background: var(--navy);
     }

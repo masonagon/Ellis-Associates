@@ -1933,7 +1933,7 @@
 
     // Feed cache - 5 minute TTL
     const feedCache = new Map();
-    const CACHE_TTL = 5 * 60 * 1000;
+    const CACHE_TTL = 30 * 60 * 1000;
 
     async function fetchWithProxies(url) {
       // Check cache first
@@ -2026,7 +2026,9 @@
       document.getElementById('feed-overlay').classList.add('open');
       document.body.style.overflow = 'hidden';
       if (!newsLoaded) { newsLoaded = true; loadNews(); }
-      document.getElementById('feed-session-status').textContent = '103rd Legislature · Live';
+      if (document.getElementById('feed-session-status').textContent === 'Loading...') {
+        document.getElementById('feed-session-status').textContent = '103rd Legislature · Live';
+      }
     }
     function closeFeed() {
       document.getElementById('feed-overlay').classList.remove('open');
@@ -2176,7 +2178,13 @@
       if (e.key === 'Escape') { closeFeed(); closeModal(); }
     });
 
-    // Hamburger menu
+    // Prefetch The Feed in background after page loads
+    window.addEventListener('load', () => {
+      setTimeout(() => {
+        loadNews();
+        setTimeout(() => loadFeed(), 3000);
+      }, 4000);
+    });
     function toggleMobileNav() {
       const menu = document.getElementById('mobile-nav');
       const burger = document.getElementById('hamburger');

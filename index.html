@@ -165,8 +165,11 @@
     .word {
       display: inline-block;
       opacity: 0;
-      transform: translateY(18px);
-      animation: fadeUp 0.7s ease forwards;
+      transform: translateX(-20px);
+      animation: fadeLeft 0.6s ease forwards;
+    }
+    @keyframes fadeLeft {
+      to { opacity: 1; transform: translateX(0); }
     }
     .hero-actions {
       display: flex;
@@ -218,7 +221,6 @@
       align-items: stretch;
       height: 80px;
       overflow: hidden;
-      margin-top: 48px;
     }
     .ticker-label {
       background: var(--navy);
@@ -734,14 +736,15 @@
 
     /* ── SIGNATURE ── */
     .scott-signature {
-      margin-top: 24px;
-      opacity: 0.7;
+      margin-top: 28px;
+      display: flex;
+      justify-content: center;
     }
     .scott-signature img {
-      height: 60px;
+      height: 100px;
       width: auto;
       filter: brightness(10);
-      opacity: 0.5;
+      opacity: 0.45;
     }
 
     /* ── ENHANCED CARD HOVERS ── */
@@ -1241,25 +1244,6 @@
     </div>
   </section>
 
-  <!-- TICKER -->
-  <div id="ticker">
-    <div class="ticker-label">Our Clients</div>
-    <div class="ticker-track">
-      <div class="ticker-inner">
-        <div class="ticker-item"><img src="assets/logos/amerimind.png" alt="Amerimind" /></div>
-        <div class="ticker-item"><img src="assets/logos/asl.png" alt="Airspace Link" /></div>
-        <div class="ticker-item"><img src="assets/logos/cera.png" alt="CERA" /></div>
-        <div class="ticker-item"><img src="assets/logos/nhi.png" alt="National Hospitality Institute" /></div>
-        <div class="ticker-item"><img src="assets/logos/sec.png" alt="Secure Environment Consultants" /></div>
-        <div class="ticker-item"><img src="assets/logos/amerimind.png" alt="Amerimind" /></div>
-        <div class="ticker-item"><img src="assets/logos/asl.png" alt="Airspace Link" /></div>
-        <div class="ticker-item"><img src="assets/logos/cera.png" alt="CERA" /></div>
-        <div class="ticker-item"><img src="assets/logos/nhi.png" alt="National Hospitality Institute" /></div>
-        <div class="ticker-item"><img src="assets/logos/sec.png" alt="Secure Environment Consultants" /></div>
-      </div>
-    </div>
-  </div>
-
   <!-- SERVICES -->
   <section id="services">
     <div class="services-header reveal">
@@ -1376,6 +1360,25 @@
       </div>
     </div>
   </section>
+
+  <!-- TICKER -->
+  <div id="ticker">
+    <div class="ticker-label">Our Clients</div>
+    <div class="ticker-track">
+      <div class="ticker-inner">
+        <div class="ticker-item"><img src="assets/logos/amerimind.png" alt="Amerimind" /></div>
+        <div class="ticker-item"><img src="assets/logos/asl.png" alt="Airspace Link" /></div>
+        <div class="ticker-item"><img src="assets/logos/cera.png" alt="CERA" /></div>
+        <div class="ticker-item"><img src="assets/logos/nhi.png" alt="National Hospitality Institute" /></div>
+        <div class="ticker-item"><img src="assets/logos/sec.png" alt="Secure Environment Consultants" /></div>
+        <div class="ticker-item"><img src="assets/logos/amerimind.png" alt="Amerimind" /></div>
+        <div class="ticker-item"><img src="assets/logos/asl.png" alt="Airspace Link" /></div>
+        <div class="ticker-item"><img src="assets/logos/cera.png" alt="CERA" /></div>
+        <div class="ticker-item"><img src="assets/logos/nhi.png" alt="National Hospitality Institute" /></div>
+        <div class="ticker-item"><img src="assets/logos/sec.png" alt="Secure Environment Consultants" /></div>
+      </div>
+    </div>
+  </div>
 
   <!-- SCOTT + TESTIMONIALS -->
   <section id="scott">

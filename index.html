@@ -362,7 +362,7 @@
     /* ── SERVICES ── */
     #services {
       padding: 80px 48px;
-      background: var(--off-white);
+      background: var(--white);
       border-bottom: 1px solid var(--border);
     }
     .services-header {
@@ -378,17 +378,17 @@
       background: var(--border);
     }
     .svc-card {
-      background: var(--white);
+      background: var(--navy);
       padding: 40px 32px;
       border-top: 3px solid transparent;
       transition: border-top-color 0.25s;
     }
-    .svc-card:hover { border-top-color: var(--navy); }
+    .svc-card:hover { border-top-color: rgba(255,255,255,0.3); }
     .svc-number {
       font-family: 'Playfair Display', serif;
       font-size: 12px;
       font-weight: 700;
-      color: #d1d5db;
+      color: rgba(255,255,255,0.2);
       margin-bottom: 22px;
       letter-spacing: 0.05em;
     }
@@ -396,7 +396,7 @@
       font-family: 'Playfair Display', serif;
       font-size: 21px;
       font-weight: 700;
-      color: var(--navy);
+      color: var(--white);
       margin-bottom: 14px;
       line-height: 1.25;
     }
@@ -404,7 +404,7 @@
       font-size: 15px;
       font-weight: 300;
       line-height: 1.85;
-      color: var(--muted);
+      color: rgba(255,255,255,0.6);
       margin-bottom: 24px;
     }
     .svc-outcomes {
@@ -413,7 +413,7 @@
       flex-direction: column;
       gap: 8px;
       padding-top: 20px;
-      border-top: 1px solid var(--border);
+      border-top: 1px solid rgba(255,255,255,0.1);
     }
     .svc-outcomes li {
       display: flex;
@@ -421,14 +421,14 @@
       gap: 10px;
       font-size: 14px;
       font-weight: 500;
-      color: #374151;
+      color: rgba(255,255,255,0.75);
       line-height: 1.5;
     }
     .svc-outcomes li::before {
       content: '';
       width: 4px;
       height: 4px;
-      background: var(--navy);
+      background: rgba(255,255,255,0.4);
       border-radius: 50%;
       flex-shrink: 0;
       margin-top: 6px;

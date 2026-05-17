@@ -1853,21 +1853,20 @@
 
     // NEWS FEED
     const NEWS_KEYWORDS = {
-      government: ['legislature','legislator','governor','lansing','senate bill','house bill','appropriation','enacted','signed into law','state budget','capitol','lawmaker','committee hearing','michigan government','state policy'],
-      safety: ['police department','law enforcement','sheriff','fire department','ems','emergency services','first responder','corrections officer','public safety','crime rate','officer','dispatch','homeland security','prison'],
-      technology: ['technology company','software','cybersecurity','artificial intelligence','drone','broadband expansion','government procurement','state contract','tech firm','digital government'],
-      education: ['school district','k-12','classroom','teacher shortage','university funding','college tuition','school safety','msu','u of m','wayne state','community college','higher education funding'],
-      health: ['mental health','behavioral health','substance abuse','opioid crisis','medicaid','first responder wellness','hospital','health care policy','counseling','addiction treatment'],
-      associations: ['trade association','chamber of commerce','licensing board','regulatory agency','nonprofit organization','beverage industry','hospitality industry','industry group']
+      government: ['legislature','governor','lansing','senate','appropriation','legislation','capitol','lawmaker','committee','policy','election','budget','bill','democrat','republican','whitmer','partisan'],
+      safety: ['police','sheriff','fire','ems','emergency','responder','corrections','crime','officer','dispatch','prison','jail','safety','violent','shooting','arrest'],
+      technology: ['technology','software','cybersecurity','intelligence','drone','broadband','procurement','contract','tech','digital','data','cyber','innovation','ai'],
+      education: ['school','education','student','teacher','university','college','tuition','classroom','k-12','msu','wayne state','academic','campus','curriculum'],
+      health: ['mental health','behavioral','substance','opioid','medicaid','hospital','health care','wellness','counseling','addiction','treatment','insurance'],
+      associations: ['association','chamber','licensing','regulatory','nonprofit','beverage','hospitality','industry group','trade','union','membership']
     };
 
     const NEWS_SOURCES = [
-      { name: 'Michigan Radio', url: 'https://www.michiganpublic.org/politics-government/feed' },
       { name: 'MLive Politics', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/politics/' },
+      { name: 'The Hill', url: 'https://thehill.com/feed/' },
+      { name: 'Michigan Radio', url: 'https://www.michiganpublic.org/politics-government/feed' },
       { name: 'Detroit Free Press', url: 'https://rssfeeds.freep.com/freep/politics' },
-      { name: 'Michigan.gov', url: 'https://www.michigan.gov/som/0,4669,7-192-29943---RSS,00.xml' },
-      { name: 'Detroit News', url: 'https://rssfeeds.detroitnews.com/dn/politics' },
-      { name: 'The Hill', url: 'https://thehill.com/feed/' }
+      { name: 'Detroit News', url: 'https://rssfeeds.detroitnews.com/dn/politics' }
     ];
 
     let allNews = [];
@@ -2010,7 +2009,15 @@
       const container = document.getElementById('feed-news-container');
       try {
         const results = await Promise.all(NEWS_SOURCES.map(s => fetchNewsSource(s)));
-        allNews = results.flat();
+        const raw = results.flat();
+        // Deduplicate by title similarity
+        const seen = new Set();
+        allNews = raw.filter(a => {
+          const key = a.title.toLowerCase().replace(/[^a-z0-9]/g,'').substring(0, 40);
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        });
         allNews.sort((a, b) => new Date(b.rawDate) - new Date(a.rawDate));
         if (!allNews.length) {
           container.innerHTML = '<div class="feed-error">Unable to load news at this time.<br>This may be caused by an ad blocker — try disabling it and refreshing.<br><br>Or visit <a href="https://bridgemi.com" target="_blank" style="color:#5bbcb0">Bridge Michigan</a> and <a href="https://michiganadvance.com" target="_blank" style="color:#5bbcb0">Michigan Advance</a> directly.</div>';

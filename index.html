@@ -1928,12 +1928,11 @@
       const encoded = encodeURIComponent(source.url);
       const proxies = [
         `https://api.allorigins.win/raw?url=${encoded}`,
-        `https://api.allorigins.win/get?url=${encoded}`,
         `https://corsproxy.io/?${encoded}`
       ];
       for (const proxy of proxies) {
         try {
-          const res = await fetch(proxy, { signal: AbortSignal.timeout(10000) });
+          const res = await fetch(proxy, { signal: AbortSignal.timeout(6000) });
           if (!res.ok) continue;
           let text = await res.text();
           try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
@@ -1942,7 +1941,7 @@
           const xml = parser.parseFromString(text, 'text/xml');
           const items = xml.querySelectorAll('item, entry');
           if (!items.length) continue;
-          return Array.from(items).slice(0, 12).map(item => {
+          return Array.from(items).slice(0, 10).map(item => {
             const title = item.querySelector('title')?.textContent?.trim() || '';
             const desc = (item.querySelector('description,summary,content')?.textContent || '').replace(/<[^>]+>/g,'').trim().substring(0, 150) + '...';
             const linkEl = item.querySelector('link');
@@ -1958,11 +1957,11 @@
     async function loadNews() {
       const container = document.getElementById('feed-news-container');
       try {
-        const results = await Promise.allSettled(NEWS_SOURCES.map(s => fetchNewsSource(s)));
-        allNews = results.flatMap(r => r.status === 'fulfilled' ? r.value : []);
+        const results = await Promise.all(NEWS_SOURCES.map(s => fetchNewsSource(s)));
+        allNews = results.flat();
         allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
         if (!allNews.length) {
-          container.innerHTML = '<div class="feed-error">Unable to load news at this time. Check back later or visit the sources directly.</div>';
+          container.innerHTML = '<div class="feed-error">Unable to load news at this time. Check back later.</div>';
           return;
         }
         renderNews(allNews);

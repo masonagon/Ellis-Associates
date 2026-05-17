@@ -1768,7 +1768,7 @@
         </div>
         <div class="feed-footer">
           <div class="feed-updated" id="news-updated"></div>
-          <div class="feed-source">Sources: Michigan Radio · MLive · Detroit Free Press · Detroit News · The Hill</div>
+          <div class="feed-source">Sources: MLive · The Hill · Michigan Radio · Detroit Free Press</div>
         </div>
       </div>
 
@@ -1851,22 +1851,21 @@
     }, { threshold: 0.05 });
     reveals.forEach(el => observer.observe(el));
 
-    // NEWS FEED
-    const NEWS_KEYWORDS = {
-      government: ['legislature','governor','lansing','senate','appropriation','legislation','capitol','lawmaker','committee','policy','election','budget','bill','democrat','republican','whitmer','partisan'],
-      safety: ['police','sheriff','fire','ems','emergency','responder','corrections','crime','officer','dispatch','prison','jail','safety','violent','shooting','arrest'],
-      technology: ['technology','software','cybersecurity','intelligence','drone','broadband','procurement','contract','tech','digital','data','cyber','innovation','ai'],
-      education: ['school','education','student','teacher','university','college','tuition','classroom','k-12','msu','wayne state','academic','campus','curriculum'],
-      health: ['mental health','behavioral','substance','opioid','medicaid','hospital','health care','wellness','counseling','addiction','treatment','insurance'],
-      associations: ['association','chamber','licensing','regulatory','nonprofit','beverage','hospitality','industry group','trade','union','membership']
-    };
-
+    // NEWS FEED - pre-tagged by source feed
     const NEWS_SOURCES = [
-      { name: 'MLive Politics', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/politics/' },
-      { name: 'The Hill', url: 'https://thehill.com/feed/' },
-      { name: 'Michigan Radio', url: 'https://www.michiganpublic.org/politics-government/feed' },
-      { name: 'Detroit Free Press', url: 'https://rssfeeds.freep.com/freep/politics' },
-      { name: 'Detroit News', url: 'https://rssfeeds.detroitnews.com/dn/politics' }
+      // Government
+      { name: 'MLive Politics', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/politics/', tag: 'government' },
+      { name: 'The Hill', url: 'https://thehill.com/feed/', tag: 'government' },
+      { name: 'Michigan Radio', url: 'https://www.michiganpublic.org/politics-government/feed', tag: 'government' },
+      // Public Safety
+      { name: 'MLive Crime', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/crime/', tag: 'safety' },
+      // Technology
+      { name: 'The Hill Tech', url: 'https://thehill.com/technology/feed/', tag: 'technology' },
+      // Education
+      { name: 'MLive Education', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/education/', tag: 'education' },
+      // Healthcare
+      { name: 'The Hill Healthcare', url: 'https://thehill.com/policy/healthcare/feed/', tag: 'health' },
+      { name: 'MLive Health', url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/health/', tag: 'health' },
     ];
 
     let allNews = [];
@@ -1880,65 +1879,40 @@
       } catch(e) { return true; }
     }
 
-    function tagNews(title, desc) {
-      const text = (title + ' ' + desc).toLowerCase();
-      let bestTag = 'general';
-      let bestCount = 0;
-      for (const [tag, keywords] of Object.entries(NEWS_KEYWORDS)) {
-        const count = keywords.filter(k => text.includes(k)).length;
-        if (count > bestCount) { bestCount = count; bestTag = tag; }
-      }
-      return bestTag;
-    }
-
     function newsTagLabel(tag) {
-      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Associations', general:'Government' };
+      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Associations' };
       return labels[tag] || 'Government';
     }
 
     function newsTagColor(tag) {
       const colors = {
-        government: 'color:#AFA9EC;background:rgba(175,169,236,0.1);border:1px solid rgba(175,169,236,0.2)',
-        safety: 'color:#5bbcb0;background:rgba(91,188,176,0.1);border:1px solid rgba(91,188,176,0.2)',
-        technology: 'color:#85B7EB;background:rgba(133,183,235,0.1);border:1px solid rgba(133,183,235,0.2)',
-        education: 'color:#C0DD97;background:rgba(192,221,151,0.1);border:1px solid rgba(192,221,151,0.2)',
-        health: 'color:#F09595;background:rgba(240,149,149,0.1);border:1px solid rgba(240,149,149,0.2)',
-        associations: 'color:#FAC775;background:rgba(250,199,117,0.1);border:1px solid rgba(250,199,117,0.2)',
-        general: 'color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.1)'
+        government: 'color:#AFA9EC;background:rgba(175,169,236,0.12);border:1px solid rgba(175,169,236,0.25)',
+        safety: 'color:#5bbcb0;background:rgba(91,188,176,0.12);border:1px solid rgba(91,188,176,0.25)',
+        technology: 'color:#85B7EB;background:rgba(133,183,235,0.12);border:1px solid rgba(133,183,235,0.25)',
+        education: 'color:#C0DD97;background:rgba(192,221,151,0.12);border:1px solid rgba(192,221,151,0.25)',
+        health: 'color:#F09595;background:rgba(240,149,149,0.12);border:1px solid rgba(240,149,149,0.25)',
+        associations: 'color:#FAC775;background:rgba(250,199,117,0.12);border:1px solid rgba(250,199,117,0.25)'
       };
-      return colors[tag] || colors.general;
-    }
-
-    function getNewsTags(title, desc) {
-      const text = (title + ' ' + desc).toLowerCase();
-      const matched = [];
-      for (const [tag, keywords] of Object.entries(NEWS_KEYWORDS)) {
-        if (keywords.some(k => text.includes(k))) matched.push(tag);
-      }
-      return matched.length ? matched.slice(0, 2) : ['government'];
+      return colors[tag] || colors.government;
     }
 
     function renderNews(articles) {
       const container = document.getElementById('feed-news-container');
       if (!articles.length) {
-        container.innerHTML = '<div class="feed-error">No news articles found matching this filter.</div>';
+        container.innerHTML = '<div class="feed-error">No articles found for this category right now.<br>Check back later or try a different filter.</div>';
         return;
       }
-      const html = '<div class="news-bills">' + articles.map(a => {
-        const tags = getNewsTags(a.title, a.desc);
-        const tagHtml = tags.map(t => `<span style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;padding:4px 10px;white-space:nowrap;${newsTagColor(t)}">${newsTagLabel(t)}</span>`).join('');
-        return `
+      const html = '<div class="news-bills">' + articles.map(a => `
         <a class="news-card" href="${a.link}" target="_blank" rel="noopener">
           <div>
             <div class="news-card-title">${a.title}</div>
             <div class="news-card-desc">${a.desc}</div>
             <div class="news-card-meta"><span class="news-card-source">${a.source}</span>${a.date}</div>
           </div>
-          <div class="news-card-right" style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;">
-            ${tagHtml}
+          <div class="news-card-right">
+            <span style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;padding:4px 10px;white-space:nowrap;${newsTagColor(a.tag)}">${newsTagLabel(a.tag)}</span>
           </div>
-        </a>`;
-      }).join('') + '</div>';
+        </a>`).join('') + '</div>';
       container.innerHTML = html;
     }
 
@@ -1946,8 +1920,8 @@
       document.querySelectorAll('#news-filters .feed-filter').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       if (filter === 'all') { renderNews(allNews); return; }
-      const filtered = allNews.filter(a => getNewsTags(a.title, a.desc).includes(filter));
-      renderNews(filtered.length ? filtered : allNews);
+      const filtered = allNews.filter(a => a.tag === filter);
+      renderNews(filtered);
     }
 
     // Feed cache - 5 minute TTL
@@ -1994,13 +1968,13 @@
         const xml = parser.parseFromString(text, 'text/xml');
         const items = xml.querySelectorAll('item, entry');
         if (!items.length) return [];
-        return Array.from(items).slice(0, 10).map(item => {
+        return Array.from(items).slice(0, 8).map(item => {
           const title = item.querySelector('title')?.textContent?.trim() || '';
           const desc = (item.querySelector('description,summary,content')?.textContent || '').replace(/<[^>]+>/g,'').trim().substring(0, 150) + '...';
           const linkEl = item.querySelector('link');
           const link = linkEl?.textContent?.trim() || linkEl?.getAttribute('href') || '#';
           const date = item.querySelector('pubDate,published,updated')?.textContent || '';
-          return { title, desc, link, date: formatDate(date), rawDate: date, source: source.name, tag: tagNews(title, desc) };
+          return { title, desc, link, date: formatDate(date), rawDate: date, source: source.name, tag: source.tag };
         }).filter(a => a.title.length > 5 && isRecent(a.rawDate));
       } catch(e) { return []; }
     }

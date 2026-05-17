@@ -1853,7 +1853,7 @@
       document.querySelectorAll('.feed-filter').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       const filtered = filter === 'all' ? allBills : allBills.filter(b => b.tag === filter);
-      renderBills(filtered);
+      renderBills(filtered.length ? filtered : allBills);
     }
 
     async function loadFeed() {
@@ -1915,6 +1915,12 @@
             tag: tagBill(title, desc)
           };
         });
+
+        if (!allBills.length) {
+          container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+          document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
+          return;
+        }
 
         renderBills(allBills);
 

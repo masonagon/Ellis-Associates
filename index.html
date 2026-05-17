@@ -1831,7 +1831,10 @@
       const html = '<div class="feed-bills">' + bills.map(bill => {
         const tag = bill.tag;
         return `<a class="feed-bill" href="${bill.link}" target="_blank" rel="noopener">
-          <div class="feed-bill-num">${bill.num}</div>
+          <div>
+            <div class="feed-bill-num">${bill.num}</div>
+            <div style="font-size:10px;font-weight:500;color:rgba(255,255,255,0.2);margin-top:3px;letter-spacing:0.04em">${bill.year}</div>
+          </div>
           <div>
             <div class="feed-bill-title">${bill.title}</div>
             <div class="feed-bill-desc">${bill.desc}</div>
@@ -1856,23 +1859,31 @@
     async function loadFeed() {
       const container = document.getElementById('feed-bills-container');
       const rssUrl = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
-      
+
       const proxies = [
+        `https://api.allorigins.win/raw?url=${encodeURIComponent(rssUrl)}`,
         `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`,
-        `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`,
-        `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rssUrl)}`
+        `https://corsproxy.io/?${encodeURIComponent(rssUrl)}`
       ];
 
       let xmlText = null;
 
       for (const proxy of proxies) {
         try {
-          const res = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
+          const res = await fetch(proxy, { signal: AbortSignal.timeout(10000) });
           if (!res.ok) continue;
-          const data = await res.json().catch(() => null);
-          if (data && data.contents) { xmlText = data.contents; break; }
-          const text = await res.text().catch(() => null);
-          if (text && text.includes('<rss')) { xmlText = text; break; }
+          const text = await res.text();
+          if (text.includes('<item>') || text.includes('<rss')) {
+            xmlText = text;
+            break;
+          }
+          try {
+            const json = JSON.parse(text);
+            if (json.contents && json.contents.includes('<item>')) {
+              xmlText = json.contents;
+              break;
+            }
+          } catch(e) {}
         } catch(e) { continue; }
       }
 
@@ -1887,29 +1898,28 @@
         const xml = parser.parseFromString(xmlText, 'text/xml');
         const items = xml.querySelectorAll('item');
 
-        allBills = Array.from(items).slice(0, 50).map(item => {
+        allBills = Array.from(items).map(item => {
           const title = item.querySelector('title')?.textContent || '';
           const desc = item.querySelector('description')?.textContent || '';
           const link = item.querySelector('link')?.textContent || '#';
           const date = item.querySelector('pubDate')?.textContent || '';
           const numMatch = title.match(/\b([HS]B\s?\d+|[HS]JR\s?\d+)/i);
+          const yearMatch = title.match(/\bof\s+(20\d\d)\b/i);
           return {
             num: numMatch ? numMatch[0].replace(/\s/g,'').toUpperCase() : 'MI',
-            title: title.replace(/^[HS]B\s?\d+[:\-\s]*/i, '').trim() || title,
-            desc: desc.replace(/<[^>]+>/g,'').trim().substring(0, 140) + '...',
+            year: yearMatch ? yearMatch[1] : '',
+            title: title.replace(/^[HS]B\s?\d+[:\-\s]*/i, '').replace(/\bof\s+20\d\d\b/i, '').trim() || title,
+            desc: desc.replace(/<[^>]+>/g,'').trim().substring(0, 160) + '...',
             link,
             date: formatDate(date),
             tag: tagBill(title, desc)
           };
         });
 
-        const relevant = allBills.filter(b => b.tag !== 'general');
-        allBills = relevant.length >= 3 ? relevant : allBills;
-
         renderBills(allBills);
 
         const now = new Date();
-        document.getElementById('feed-updated').textContent = `Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+        document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
         document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
 
       } catch(err) {

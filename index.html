@@ -267,20 +267,62 @@
 
     /* ── INTRO ── */
     #intro {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
+      display: block;
       border-bottom: 1px solid var(--border);
     }
     .intro-left {
-      padding: 72px 52px 72px 48px;
-      border-right: 1px solid var(--border);
+      padding: 72px 48px;
+      max-width: 720px;
     }
     .intro-right {
-      padding: 72px 48px 72px 52px;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      background: var(--white);
+      display: none;
+    }
+
+    /* ── PROCESS STRIP ── */
+    #process {
+      background: var(--navy);
+      padding: 72px 48px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    #process .section-kicker {
+      color: rgba(255,255,255,0.4);
+      margin-bottom: 40px;
+    }
+    .process-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0;
+    }
+    .process-step {
+      padding: 0 36px 0 0;
+      border-right: 1px solid rgba(255,255,255,0.08);
+      margin-right: 36px;
+    }
+    .process-step:last-child {
+      border-right: none;
+      margin-right: 0;
+      padding-right: 0;
+    }
+    .process-num {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      font-weight: 700;
+      color: rgba(255,255,255,0.08);
+      line-height: 1;
+      margin-bottom: 16px;
+    }
+    .process-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 12px;
+    }
+    .process-body {
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 1.8;
+      color: rgba(255,255,255,0.55);
     }
     .section-kicker {
       font-size: 11px;
@@ -796,8 +838,11 @@
       .hamburger { display: flex; }
       .hero-content { padding: 0 24px 72px; }
       #intro { grid-template-columns: 1fr; }
-      .intro-left { border-right: none; border-bottom: 1px solid var(--border); padding: 48px 24px; }
-      .intro-right { padding: 48px 24px; }
+      #process { padding: 56px 24px; }
+      .process-grid { grid-template-columns: 1fr 1fr; gap: 32px; }
+      .process-step { border-right: none; margin-right: 0; padding-right: 0; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 28px; }
+      .process-step:last-child { border-bottom: none; padding-bottom: 0; }
+      .intro-left { padding: 48px 24px; }
       #services { padding: 56px 24px; }
       .services-grid { grid-template-columns: 1fr; }
       .services-header { flex-direction: column; align-items: flex-start; gap: 16px; }
@@ -816,6 +861,7 @@
       .stats-grid { grid-template-columns: 1fr 1fr; }
       .hero-headline { font-size: 38px; }
       .modal-row { grid-template-columns: 1fr; }
+      .process-grid { grid-template-columns: 1fr; }
     }
     /* ── CONTACT MODAL ── */
     #modal-overlay {
@@ -1160,8 +1206,32 @@
         </svg>
       </button>
     </div>
-    <div class="intro-right reveal">
-      <p class="intro-pull">"We don't over-promise. We tell you what's possible, map the path to get there, and do the work."</p>
+  </section>
+
+  <!-- PROCESS STRIP -->
+  <section id="process">
+    <p class="section-kicker">How We Work</p>
+    <div class="process-grid">
+      <div class="process-step reveal">
+        <div class="process-num">01</div>
+        <h3 class="process-title">Listen &amp; Learn</h3>
+        <p class="process-body">We start by understanding your goals, your challenges, and the landscape you're operating in. No assumptions, no generic playbooks.</p>
+      </div>
+      <div class="process-step reveal">
+        <div class="process-num">02</div>
+        <h3 class="process-title">Map the Path</h3>
+        <p class="process-body">We identify the right stakeholders, decision-makers, funding streams, and regulatory pathways specific to your situation.</p>
+      </div>
+      <div class="process-step reveal">
+        <div class="process-num">03</div>
+        <h3 class="process-title">Engage &amp; Advocate</h3>
+        <p class="process-body">We put our relationships and experience to work, opening conversations, advancing your position, and keeping you informed every step of the way.</p>
+      </div>
+      <div class="process-step reveal">
+        <div class="process-num">04</div>
+        <h3 class="process-title">Follow Through</h3>
+        <p class="process-body">We consider ourselves successful when you do. That means staying involved, staying alert, and making sure the work we do together continues to deliver.</p>
+      </div>
     </div>
   </section>
 

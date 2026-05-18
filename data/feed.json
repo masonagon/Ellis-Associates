@@ -1,9 +1,18 @@
 {
-  "generated": "2026-05-18T15:03:08.432Z",
+  "generated": "2026-05-18T15:08:09.070Z",
   "news": [
     {
+      "title": "NextEra and Dominion say they will merge, creating utility giant",
+      "desc": "Electric companies NextEra and Dominion will merge, they announced on Monday. The merger would create the world’s largest regulated electric utility, the companies said in a press release. The move co",
+      "link": "https://thehill.com/policy/energy-environment/5883125-nextera-dominion-utility-merger/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 15:03:25 +0000",
+      "source": "The Hill",
+      "tag": "government"
+    },
+    {
       "title": "Watch live: Trump hosts healthcare affordability event",
-      "desc": "President Trump is scheduled to host a healthcare affordability event on Monday afternoon at the White House. Trump in January unveiled an��affordability framework aimed at lowering drug prices and in",
+      "desc": "President Trump is scheduled to host a healthcare affordability event on Monday afternoon at the White House. Trump in January unveiled an affordability framework aimed at lowering drug prices and ins",
       "link": "https://thehill.com/video-clips/5882693-watch-live-donald-trump-healthcare-affordability-event/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 14:53:58 +0000",
@@ -146,13 +155,13 @@
       "tag": "government"
     },
     {
-      "title": "Trump approval rating hits second-term low in new polling",
-      "desc": "President Trump&#8217;s approval rating dipped to a second-term low in the latest New York Times/Siena poll published Monday. Pollsters found Trump&#8217;s approval at 37 percent, with 59 percent of r",
-      "link": "https://thehill.com/homenews/state-watch/5882799-donald-trump-approval-rating-dip/",
+      "title": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
+      "desc": "So why didn't Swatch do anything to avoid it?",
+      "link": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
       "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 13:45:20 +0000",
-      "source": "The Hill",
-      "tag": "government"
+      "rawDate": "Mon, 18 May 2026 13:38:01 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Bay City invites public to meet four finalists for city manager position",
@@ -200,6 +209,33 @@
       "tag": "associations"
     },
     {
+      "title": "How to Watch Google I/O 2026",
+      "desc": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
+      "link": "https://www.wired.com/story/how-to-watch-google-io/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Backward Logic of Chickenpox Parties",
+      "desc": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
+      "link": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
+      "desc": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
+      "link": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "MSU Board revises ethics policy to punish trustees who criticize Board decisions publicly",
       "desc": "MSU’s Board of Trustees has revised its code of ethics and conduct to include punishments for trustees who raise public concerns about decisions made by the Board.",
       "link": "https://www.mlive.com/education/2026/05/msu-board-revises-ethics-policy-to-punish-trustees-who-criticize-board-decisions-publicly.html",
@@ -218,6 +254,15 @@
       "tag": "safety"
     },
     {
+      "title": "I’m a Normie. Can Normies Really Vibe Code?",
+      "desc": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+      "link": "https://www.wired.com/story/normie-vibe-code/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "FDA drops guardrails on vaping industry in major Trump pivot",
       "desc": "The Trump administration is pivoting hard on vaping, taking down guardrails that have limited the industry's growth in recent years and making clear the tobacco industry’s enduring influence over Wash",
       "link": "https://thehill.com/policy/healthcare/5880802-flavored-vapes-fda-guidance/",
@@ -225,6 +270,24 @@
       "rawDate": "Mon, 18 May 2026 10:00:00 +0000",
       "source": "The Hill Health",
       "tag": "health"
+    },
+    {
+      "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
+      "desc": "David Norman, a former Phoenix police officer who’s described himself as “a fucking savage,” now runs a company that provided training to Homeland Security’s Special Response Teams.",
+      "link": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
+      "desc": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists tended to ignore it. Now they can’t.",
+      "link": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Greene predicts &#039;political revolution in America&#039; if US troops sent to Iran",
@@ -362,6 +425,15 @@
       "tag": "health"
     },
     {
+      "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
+      "desc": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
+      "link": "https://www.wired.com/review/oto-smart-sprinkler/",
+      "date": "May 17, 2026",
+      "rawDate": "Sun, 17 May 2026 11:02:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "13 road closures scheduled this week across Michigan",
       "desc": "More than 70 road construction projects begin across Michigan between May 17 and May 23, with major closures on U.S. 23, I-75, and M-10.",
       "link": "https://www.mlive.com/news/2026/05/13-road-closures-scheduled-this-week-across-michigan.html",
@@ -369,6 +441,24 @@
       "rawDate": "Sun, 17 May 2026 11:01:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
+    },
+    {
+      "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
+      "desc": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
+      "link": "https://www.wired.com/story/best-grills-and-smart-grills/",
+      "date": "May 17, 2026",
+      "rawDate": "Sun, 17 May 2026 10:33:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Take Control of Your Debt With These Free Tools",
+      "desc": "These free debt calculators help you set up payment plans to get back in the black.",
+      "link": "https://www.wired.com/story/free-debt-calculator-apps-services/",
+      "date": "May 17, 2026",
+      "rawDate": "Sun, 17 May 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Busy Ann Arbor construction ‘blindsided’ handful of frustrated downtown businesses",
@@ -569,6 +659,15 @@
       "tag": "safety"
     },
     {
+      "title": "Tech CEOs invited to Capitol Hill to answer questions about kids online safety",
+      "desc": "Senate Judiciary Committee Chair Chuck Grassley (R-Iowa) has invited the leaders of four major technology companies to appear before lawmakers next month for a kids safety hearing after a pair of land",
+      "link": "https://thehill.com/policy/technology/5880301-kids-online-safety-tech-hearing-chuck-grassley/",
+      "date": "May 15, 2026",
+      "rawDate": "Fri, 15 May 2026 19:43:13 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "Michigan’s budget outlook brightens slightly, aging population still cause for concern",
       "desc": "State Treasurer Rachael Eubanks said Michigan revenues “remain stable in the shadow of federal uncertainty.”",
       "link": "https://www.mlive.com/news/2026/05/michigans-budget-outlook-brightens-slightly-aging-population-still-cause-for-concern.html",
@@ -603,6 +702,87 @@
       "rawDate": "Fri, 15 May 2026 17:36:17 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
+    },
+    {
+      "title": "Trump says he discussed AI guardrails with Xi",
+      "desc": "President Trump said Friday he discussed \"working together\" on artificial intelligence guardrails with Chinese President Xi Jinping as policymakers in Washington debate how to manage the risks of the ",
+      "link": "https://thehill.com/homenews/administration/5880013-donald-trump-xi-jinping-china-summit-ai-guardrails/",
+      "date": "May 15, 2026",
+      "rawDate": "Fri, 15 May 2026 16:09:24 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "What deals did Trump make on China trip?",
+      "desc": "President Trump touted new business deals with Beijing as he departed a high-stakes summit with Chinese President Xi Jinping on Friday. \"I think a lot of good has come from [this visit]. We've made so",
+      "link": "https://thehill.com/homenews/administration/5880005-trump-china-xi-trade-deals-boeing-ge-aerospace/",
+      "date": "May 15, 2026",
+      "rawDate": "Fri, 15 May 2026 16:02:15 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "US staff, press ditch Chinese credentials before departing Beijing",
+      "desc": "U.S. staff and the traveling press ditched of all materials handed out by the Chinese during President Trump’s trip to Beijing before departing on Air Force One on Friday.  According to the White Hous",
+      "link": "https://thehill.com/homenews/administration/5879679-trump-beijing-security-clash/",
+      "date": "May 15, 2026",
+      "rawDate": "Fri, 15 May 2026 13:44:41 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Pope decries the rise of AI-directed warfare, saying it leads to a spiral of annihilation",
+      "desc": "ROME (AP) — Pope Leo XIV on Thursday denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a “spiral of annihilation,” as he called for peace in the M",
+      "link": "https://thehill.com/policy/technology/pope-ai-high-tech-weaponry-spiral-of-annihilation/",
+      "date": "May 15, 2026",
+      "rawDate": "Fri, 15 May 2026 01:57:17 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI&#039;s future",
+      "desc": "OAKLAND, Calif. (AP) — Lawyers for Elon Musk and OpenAI made their final arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence. Musk, the world's ric",
+      "link": "https://thehill.com/policy/technology/elon-musk-openai-trial-closing-arguments/",
+      "date": "May 14, 2026",
+      "rawDate": "Thu, 14 May 2026 22:00:21 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Senate panel advances key crypto bill with bipartisan support",
+      "desc": "A cryptocurrency regulation bill advanced out of the Senate Banking Committee on Thursday, clearing a key hurdle with the support of a pair of Democrats following a last-minute bipartisan push. The Se",
+      "link": "https://thehill.com/policy/technology/5878630-senate-crypto-regulation-bill/",
+      "date": "May 14, 2026",
+      "rawDate": "Thu, 14 May 2026 18:46:04 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Cisco, LinkedIn to cut thousands of jobs in latest tech layoffs",
+      "desc": "Two of the biggest names in tech are planning thousands of job cuts between them.",
+      "link": "https://thehill.com/policy/technology/5877803-cisco-linkedin-layoffs/",
+      "date": "May 14, 2026",
+      "rawDate": "Thu, 14 May 2026 18:32:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Fetterman: Democratic opposition to AI, data centers is ‘lunacy’",
+      "desc": "Centrist Sen. John Fetterman (D-Pa.) is calling out Democratic opposition to the rapid development of AI and data centers around the country as “lunacy” and warning that taking a stance against AI is ",
+      "link": "https://thehill.com/homenews/senate/5877732-fetterman-ai-data-centers/",
+      "date": "May 14, 2026",
+      "rawDate": "Thu, 14 May 2026 13:46:30 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Majority of Republicans support mandatory AI testing: Poll",
+      "desc": "A majority of Republican voters support policies requiring AI models to undergo independent security testing, according to a new poll released Thursday. The survey, shared first with The Hill from Ame",
+      "link": "https://thehill.com/policy/technology/5877576-republican-support-mandatory-ai-testing-survey/",
+      "date": "May 14, 2026",
+      "rawDate": "Thu, 14 May 2026 12:21:06 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     }
   ],
   "bills": []

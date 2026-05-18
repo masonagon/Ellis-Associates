@@ -4,19 +4,19 @@ const fs = require('fs');
 const path = require('path');
 
 const NEWS_SOURCES = [
-  { name: 'MLive Politics',   url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/politics/',  tag: 'government' },
-  { name: 'The Hill',         url: 'https://thehill.com/feed/',                                        tag: 'government' },
-  { name: 'Michigan Radio',   url: 'https://www.michiganpublic.org/politics-government/feed',          tag: 'government' },
-  { name: 'MLive Crime',      url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/crime/',      tag: 'safety' },
-  { name: 'The Hill Defense', url: 'https://thehill.com/policy/defense/feed/',                         tag: 'safety' },
-  { name: 'The Hill Tech',    url: 'https://thehill.com/policy/technology/feed/',                      tag: 'technology' },
-  { name: 'Wired',            url: 'https://www.wired.com/feed/rss',                                   tag: 'technology' },
-  { name: 'MLive Education',  url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/education/', tag: 'education' },
-  { name: 'The Hill Health',  url: 'https://thehill.com/policy/healthcare/feed/',                      tag: 'health' },
-  { name: 'MLive Health',     url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/health/',     tag: 'health' },
-  { name: 'MLive Business',   url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/business/',  tag: 'associations' },
-  { name: 'The Hill Finance', url: 'https://thehill.com/policy/finance/feed/',                         tag: 'associations' },
-  { name: 'The Hill Economy', url: 'https://thehill.com/economy/feed/',                                tag: 'associations' },
+  { name: 'MLive Politics',     url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/politics/',  tag: 'government' },
+  { name: 'The Hill Politics',  url: 'https://thehill.com/homenews/feed/',                               tag: 'government' },
+  { name: 'Michigan Radio',     url: 'https://www.michiganpublic.org/politics-government/feed',          tag: 'government' },
+  { name: 'MLive Crime',        url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/crime/',      tag: 'safety' },
+  { name: 'The Hill Defense',   url: 'https://thehill.com/policy/defense/feed/',                         tag: 'safety' },
+  { name: 'The Hill Tech',      url: 'https://thehill.com/policy/technology/feed/',                      tag: 'technology' },
+  { name: 'Wired',              url: 'https://www.wired.com/feed/rss',                                   tag: 'technology' },
+  { name: 'MLive Education',    url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/education/', tag: 'education' },
+  { name: 'The Hill Healthcare',url: 'https://thehill.com/policy/healthcare/feed/',                      tag: 'health' },
+  { name: 'MLive Health',       url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/health/',     tag: 'health' },
+  { name: 'MLive Business',     url: 'https://www.mlive.com/arc/outboundfeeds/rss/category/business/',  tag: 'associations' },
+  { name: 'The Hill Finance',   url: 'https://thehill.com/policy/finance/feed/',                         tag: 'associations' },
+  { name: 'The Hill Economy',   url: 'https://thehill.com/economy/feed/',                                tag: 'associations' },
 ];
 
 const BILL_URL = 'http://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
@@ -69,12 +69,12 @@ function fmtDate(d) { try { return new Date(d).toLocaleDateString('en-US', { mon
 function isRecent(d) { try { return (Date.now() - new Date(d).getTime()) / 86400000 <= 14; } catch(e) { return true; } }
 
 const TAG_KEYWORDS = {
-  technology: ['technology','software','cyber','digital','data','ai','artificial intelligence','drone','broadband','internet','procurement','contract','tech','innovation','algorithm','platform','cloud','automation','surveillance','system','network'],
+  government: ['legislature','governor','senate','house','congress','legislation','bill','law','policy','election','budget','appropriation','lawmaker','committee','whitmer','lansing','capitol','democrat','republican','vote','federal','state government'],
   safety: [],
-  government: [],
+  technology: ['technology','software','cyber','digital','data','ai','artificial intelligence','drone','broadband','internet','procurement','contract','tech','innovation','algorithm','platform','cloud','automation','surveillance','system','network'],
   education: [],
   health: [],
-  associations: []
+  associations: ['business','economy','market','trade','finance','industry','company','companies','merger','acquisition','economic','commercial','revenue','corporate','sector']
 };
 
 async function fetchNews(source) {

@@ -68,13 +68,30 @@ function parseXML(xml) {
 function fmtDate(d) { try { return new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }); } catch(e) { return ''; } }
 function isRecent(d) { try { return (Date.now() - new Date(d).getTime()) / 86400000 <= 14; } catch(e) { return true; } }
 
+const TAG_KEYWORDS = {
+  technology: ['technology','software','cyber','digital','data','ai','artificial intelligence','drone','broadband','internet','procurement','contract','tech','innovation','algorithm','platform','cloud','automation','surveillance','system','network'],
+  safety: [],
+  government: [],
+  education: [],
+  health: [],
+  associations: []
+};
+
 async function fetchNews(source) {
   try {
     console.log('  Fetching ' + source.name + '...');
     const xml = await fetchUrl(source.url);
     const items = parseXML(xml);
-    const out = items.filter(i => i.title && i.link && isRecent(i.date)).slice(0, 10)
+    let out = items.filter(i => i.title && i.link && isRecent(i.date)).slice(0, 15)
       .map(i => ({ title: i.title, desc: i.desc, link: i.link, date: fmtDate(i.date), rawDate: i.date, source: source.name, tag: source.tag }));
+    // For sources with keyword filters, only keep articles that match
+    const keywords = TAG_KEYWORDS[source.tag];
+    if (keywords && keywords.length) {
+      out = out.filter(a => {
+        const text = (a.title + ' ' + a.desc).toLowerCase();
+        return keywords.some(k => text.includes(k));
+      });
+    }
     console.log('    Got ' + out.length);
     return out;
   } catch(e) { console.log('    Failed: ' + e.message); return []; }

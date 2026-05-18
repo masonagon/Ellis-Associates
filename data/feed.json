@@ -1,9 +1,99 @@
 {
-  "generated": "2026-05-18T17:53:20.123Z",
+  "generated": "2026-05-18T19:27:58.364Z",
   "news": [
     {
+      "title": "Ypsilanti man dies after fiery crash split vehicle in half near Otter Lake",
+      "desc": "A 46-year-old man died after crashing his Ford Ranger into a tree near Otter Lake.",
+      "link": "https://www.mlive.com/news/flint/2026/05/ypsilanti-man-dies-after-fiery-crash-split-vehicle-in-half-near-otter-lake.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 19:21:41 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump says he will hold off on Iran attacks at request of Gulf states",
+      "desc": "President Trump will hold off on attacking Iran again at the request of leaders from Qatar, Saudi Arabia and the United Arab Emirates, he announced on Monday. Trump in a Truth Social post, said the st",
+      "link": "https://thehill.com/homenews/administration/5883645-trump-holds-off-iran-attack/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 19:13:32 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "20 years after Daniel Simpson’s killing, Flint family renews plea for answers",
+      "desc": "Daniel Simpson’s family and police renew calls for tips as his 2006 Flint River homicide case is reopened after 20 years.",
+      "link": "https://www.mlive.com/news/flint/2026/05/20-years-after-daniel-simpsons-killing-flint-family-renews-plea-for-answers.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 19:11:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump administration proposes to allow some delays for &#039;forever chemical&#039; regulations",
+      "desc": "The Trump administration is proposing to allow some delays to the deadline for water systems to regulate toxic “forever chemicals.”  Under current regulations, water systems are required to filter out",
+      "link": "https://thehill.com/policy/energy-environment/5883481-forever-chemicals-pfas-epa/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 19:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Hegseth stumps for Massie challenger in stark break from Pentagon norms",
+      "desc": "Defense Secretary Pete Hegseth hit the campaign trail on Monday to help former Navy SEAL Ed Gallrein in his bid to unseat Rep. Thomas Massie (R-Ky.) in a GOP primary, a highly unusual move for any hea",
+      "link": "https://thehill.com/policy/defense/5883607-defense-secretary-endorses-gallrein/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 18:54:09 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "170-year-old retailer quietly closes 21 stores as part of financial turnaround",
+      "desc": "The company reported a 2% drop in revenue, but was profitable in 2025 thanks in part to cost savings from store closures.",
+      "link": "https://www.mlive.com/business/2026/05/170-year-old-retailer-quietly-closes-21-stores-as-part-of-financial-turnaround.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 18:27:55 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Mom says baby boy remains full of joy after man charged with child abuse",
+      "desc": "Mara Long says her son is still smiling and full of life as she processes the allegations against Anthony David Dove.",
+      "link": "https://www.mlive.com/news/muskegon/2026/05/mom-says-baby-boy-remains-full-of-joy-after-man-charged-with-child-abuse.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 18:27:26 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "US rejects new Iranian proposal to end war: Report",
+      "desc": "The U.S. has again rejected an Iranian proposal to end the conflict between the two countries, according to a new report.  Axios reported Monday that Tehran offered a revised peace proposal that the W",
+      "link": "https://thehill.com/policy/defense/5883535-iran-peace-proposal-rejected/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 18:13:41 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Suspect chased down in woods after fleeing from stolen vehicle, police say",
+      "desc": "A 35-year-old man faces multiple charges after he allegedly ran from a stolen vehicle and was chased down by deputies in a wooded area, police said.",
+      "link": "https://www.mlive.com/news/flint/2026/05/suspect-chased-down-in-woods-after-fleeing-from-stolen-vehicle-police-say.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 18:11:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jury rejects Musk&#039;s lawsuit against OpenAI, Sam Altman",
+      "desc": "A California federal jury unanimously rejected Elon Musk's claims against OpenAI and its co-founder Sam Altman, ending the latest chapter in a nearly decade-long feud between the two technology moguls",
+      "link": "https://thehill.com/policy/technology/5883496-openai-altman-musk-verdict/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:59:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "US bans foreign travelers from Ebola-impacted nations",
-      "desc": "In response to a growing Ebola outbreak, the Centers for Disease Control and Prevention (CDC) is imposing a ban on foreign passport holders from entering the country if they have been in Uganda, the D",
+      "desc": "In response to a growing Ebola outbreak, the Centers for Disease Control and Prevention (CDC) is imposing a ban on foreign passport holders from entering the country if they have been in Uganda, Congo",
       "link": "https://thehill.com/policy/healthcare/5883479-ebola-outbreak-cdc-response/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 17:47:04 +0000",
@@ -20,7 +110,7 @@
       "tag": "technology"
     },
     {
-      "title": "Trump dropped IRS suit in deal to create  $1.776B &#039;anti-weaponization&#039; fund",
+      "title": "Trump dropped IRS suit in deal to create $1.776B &#039;anti-weaponization&#039; fund",
       "desc": "The Justice Department on Monday launched a nearly $2 billion “anti-weaponization fund” as part of a settlement after President Trump sued the Internal Revenue Service (IRS) for $10 billion. The fund,",
       "link": "https://thehill.com/homenews/administration/5883454-doj-launches-anti-weaponization-fund/",
       "date": "May 18, 2026",
@@ -29,7 +119,7 @@
       "tag": "government"
     },
     {
-      "title": "Trump dropped IRS suit in deal to create  $1.776B &#8216;anti-weaponization&#8217; fund",
+      "title": "Trump dropped IRS suit in deal to create $1.776B &#8216;anti-weaponization&#8217; fund",
       "desc": "The Justice Department on Monday launched a nearly $2 billion “anti-weaponization fund” as part of a settlement after President Trump sued the Internal Revenue Service (IRS) for $10 billion. The fund,",
       "link": "https://thehill.com/homenews/administration/5883454-doj-launches-anti-weaponization-fund/",
       "date": "May 18, 2026",
@@ -74,40 +164,13 @@
       "tag": "government"
     },
     {
-      "title": "Democratic leadership needs to stop with the Goldilocks politics",
-      "desc": "Despite the current political climate, Democrats are struggling to take a stand on important issues, leading to individual candidates rising in popularity by taking their own stands and calling for De",
-      "link": "https://thehill.com/opinion/campaign/5882406-trump-democrats-struggle-midterms/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cassidy after primary defeat: &#039;Our country is not about one individual&#039;",
-      "desc": "Sen. Bill Cassidy (R-La.) said Saturday that the U.S. \"is not about one individual\" as he conceded the race to Rep. Julia Letlow (R-La.) and Louisiana Treasurer John Fleming (R). Letlow, who was endor",
-      "link": "https://thehill.com/homenews/senate/5883238-bill-cassidy-trump-individual-senate/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 16:44:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Why voters — not courts — must put a stop to America’s redistricting wars",
-      "desc": "The mid-decade redistricting wars are a race to the bottom. But the further down we go, the harder it will be to climb back up.",
-      "link": "https://thehill.com/opinion/campaign/5880416-mid-decade-redistricting-reforms/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 16:36:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump planning to build helipad at White House for new Marine One: Reports",
       "desc": "President Trump is planning to build a helipad at the White House for the new Marine One helicopter, according to multiple reports. The Wall Street Journal reported Sunday, citing sources familiar wit",
       "link": "https://thehill.com/homenews/administration/5883247-trump-marine-one-helipad-white-house-reports/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 16:04:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Dozens of ‘sickening’ videos show man allegedly abusing 5-month-old, prosecutor says",
@@ -117,15 +180,6 @@
       "rawDate": "Mon, 18 May 2026 16:02:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Democratic candidate: &#039;Can&#039;t put everything&#039; wrong with California on Trump",
-      "desc": "Former Los Angeles Mayor Antonio Villaraigosa (D) on Saturday said Democrats and his fellow candidates for governor \"can't put everything\" wrong with the Golden State on President Trump. Villaraigosa ",
-      "link": "https://thehill.com/homenews/state-watch/5883085-antonio-villaraigosa-california-policies/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 16:00:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Ice cream sold in 17 states recalled, dangerous metal pieces may be in dessert",
@@ -434,15 +488,6 @@
       "tag": "government"
     },
     {
-      "title": "Hundreds lined up at Michigan mall for a luxury watch. Everyone left empty-handed",
-      "desc": "Hundreds of watch enthusiasts descended on Somerset Collection hoping to purchase a $400 pocket watch from a luxury collaboration.",
-      "link": "https://www.mlive.com/news/2026/05/hundreds-lined-up-at-michigan-mall-for-a-luxury-watch-everyone-left-empty-handed.html",
-      "date": "May 17, 2026",
-      "rawDate": "Sun, 17 May 2026 14:24:45 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "See Jackson elementary school staff take whipped cream pies to the face",
       "desc": "The event on Thursday, May 14, is part of the Positive Behavioral Interventions and Supports program (PBIS.)",
       "link": "https://www.mlive.com/news/jackson/2026/05/see-jackson-elementary-school-staff-take-whipped-cream-pies-to-the-face.html",
@@ -497,24 +542,6 @@
       "tag": "technology"
     },
     {
-      "title": "39-year-old hospitalized after Northern Michigan skate park stabbing",
-      "desc": "A 39-year-old man was stabbed during a confrontation at a Cadillac skate park; a 19-year-old was arrested.",
-      "link": "https://www.mlive.com/news/2026/05/39-year-old-hospitalized-after-northern-michigan-skate-park-stabbing.html",
-      "date": "May 17, 2026",
-      "rawDate": "Sun, 17 May 2026 01:02:29 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Michigan nurse convicted in $1.6 million Medicare fraud scheme",
-      "desc": "A Farmington Hills nurse was convicted of orchestrating a $1.6 million Medicare fraud using stolen patient records and fake medical certifications.",
-      "link": "https://www.mlive.com/detroit/2026/05/michigan-nurse-convicted-in-16-million-medicare-fraud-scheme.html",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 23:28:20 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "GOP senator blasts Hegseth for ‘careless decision’ on troop posture",
       "desc": "Sen. Thom Tillis (R-N.C.) offered harsh criticism for Defense Secretary Pete Hegseth on Saturday over reported changes at the Pentagon, including a shift in U.S. military posture around the globe and ",
       "link": "https://thehill.com/policy/defense/5881659-tillis-criticizes-hegseth-pentagon-troop-posture/",
@@ -533,15 +560,6 @@
       "tag": "health"
     },
     {
-      "title": "Trucking company to pay $5.5 million to settle lawsuit alleging sex discrimination",
-      "desc": "Central Transport will pay $5.5 million after a federal lawsuit found it discriminated against female truck driver applicants.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/trucking-company-to-pay-55-million-to-settle-lawsuit-alleging-sex-discrimination.html",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 19:28:28 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "West Michigan Aviation Academy senior wins scholarship honoring Grand Rapids astronaut",
       "desc": "Charles Duong is the winner of the Roger B. Chaffee Scholarship. He will receive $7,500 per year for four years.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/west-michigan-aviation-academy-senior-wins-scholarship-honoring-grand-rapids-astronaut.html",
@@ -549,15 +567,6 @@
       "rawDate": "Sat, 16 May 2026 16:30:39 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Movement Festival expected to bring $20M to Detroit economy",
-      "desc": "The festival traditionally attracts more than 90,000 attendees over three days, or about 30,000 people daily, according to Visit Detroit and festival organizers.",
-      "link": "https://www.mlive.com/news/detroit/2026/05/movement-festival-expected-to-bring-20m-to-detroit-economy.html",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 15:26:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Tick that causes meat allergy, other rare virus is spreading: What symptoms to watch for",
@@ -659,24 +668,6 @@
       "tag": "government"
     },
     {
-      "title": "Wife of US soldier released from ICE custody",
-      "desc": "The wife of a U.S. Army soldier has been released from federal custody after spending a month in an immigration detention center. Deisy Rivera Ortega, married to Sgt. 1st Class Jose Serrano, was arres",
-      "link": "https://thehill.com/policy/defense/5880586-deisy-rivera-ortega-release/",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 20:10:36 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "DOJ requests 1,500 more National Guard troops for planned DC &#039;summer surge&#039;",
-      "desc": "The Trump administration wants another 1,500 National Guard troops deployed to the streets of Washington part of a “summer surge” of law enforcement to the nation’s capital ahead of America’s 250th bi",
-      "link": "https://thehill.com/homenews/administration/5880579-nationa-guard-dc-america-250/",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 20:07:08 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Tech CEOs invited to Capitol Hill to answer questions about kids online safety",
       "desc": "Senate Judiciary Committee Chair Chuck Grassley (R-Iowa) has invited the leaders of four major technology companies to appear before lawmakers next month for a kids safety hearing after a pair of land",
       "link": "https://thehill.com/policy/technology/5880301-kids-online-safety-tech-hearing-chuck-grassley/",
@@ -700,8 +691,8 @@
       "link": "https://thehill.com/policy/healthcare/5880300-veterans-sue-trump-abortion-ban/",
       "date": "May 15, 2026",
       "rawDate": "Fri, 15 May 2026 18:13:09 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Texas Children&#039;s Hospital must create country&#039;s first &#039;detransition clinic&#039; under settlement with Paxton",
@@ -750,7 +741,7 @@
     },
     {
       "title": "Pope decries the rise of AI-directed warfare, saying it leads to a spiral of annihilation",
-      "desc": "ROME (AP) — Pope Leo XIV on Thursday denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a “spiral of annihilation,” as he called for peace in the M",
+      "desc": "ROME (AP) �� Pope Leo XIV on Thursday denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a “spiral of annihilation,” as he called for peace in the ",
       "link": "https://thehill.com/policy/technology/pope-ai-high-tech-weaponry-spiral-of-annihilation/",
       "date": "May 15, 2026",
       "rawDate": "Fri, 15 May 2026 01:57:17 +0000",
@@ -765,15 +756,6 @@
       "rawDate": "Thu, 14 May 2026 22:00:21 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Supreme Court preserves abortion pill access over Alito, Thomas dissents",
-      "desc": "Abortion pills can remain available through the mail for the immediate future after the Supreme Court on Thursday paused a lower court ruling that would have blocked access while a lawsuit proceeds.  ",
-      "link": "https://thehill.com/regulation/court-battles/5879032-mifepristone-abortion-pills-ruling/",
-      "date": "May 14, 2026",
-      "rawDate": "Thu, 14 May 2026 21:37:24 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Senate panel advances key crypto bill with bipartisan support",

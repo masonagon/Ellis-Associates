@@ -1928,81 +1928,38 @@
     const feedCache = new Map();
     const CACHE_TTL = 30 * 60 * 1000;
 
-    async function fetchWithProxies(url) {
-      // Check cache first
-      const cached = feedCache.get(url);
-      if (cached && Date.now() - cached.time < CACHE_TTL) return cached.text;
+    // ── THE FEED: reads from GitHub-hosted feed.json ─────────────────────────
+    const FEED_JSON_URL = 'https://raw.githubusercontent.com/masonagon/Ellis-Associates/main/data/feed.json';
+    let feedData = null;
 
-      const encoded = encodeURIComponent(url);
-      const proxies = [
-        url, // try direct first
-        `https://api.allorigins.win/raw?url=${encoded}`,
-        `https://proxy.cors.sh/${url}`,
-        `https://corsproxy.io/?${encoded}`,
-        `https://api.codetabs.com/v1/proxy?quest=${encoded}`
-      ];
-
-      for (const proxy of proxies) {
-        try {
-          const res = await fetch(proxy, {
-            signal: AbortSignal.timeout(5000),
-            headers: proxy.includes('cors.sh') ? { 'x-cors-api-key': 'temp_public' } : {}
-          });
-          if (!res.ok) continue;
-          let text = await res.text();
-          try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
-          if (text.includes('<item>') || text.includes('<entry>')) {
-            feedCache.set(url, { text, time: Date.now() });
-            return text;
-          }
-        } catch(e) { continue; }
+    async function loadFeedData() {
+      if (feedData) return feedData;
+      try {
+        const res = await fetch(FEED_JSON_URL + '?t=' + Date.now());
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        feedData = await res.json();
+        return feedData;
+      } catch(e) {
+        console.error('Feed load error:', e);
+        return null;
       }
-      return null;
     }
 
     async function fetchNewsSource(source) {
-      const text = await fetchWithProxies(source.url);
-      if (!text) return [];
-      try {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(text, 'text/xml');
-        const items = xml.querySelectorAll('item, entry');
-        if (!items.length) return [];
-        return Array.from(items).slice(0, 8).map(item => {
-          const title = item.querySelector('title')?.textContent?.trim() || '';
-          const desc = (item.querySelector('description,summary,content')?.textContent || '').replace(/<[^>]+>/g,'').trim().substring(0, 150) + '...';
-          const linkEl = item.querySelector('link');
-          const link = linkEl?.textContent?.trim() || linkEl?.getAttribute('href') || '#';
-          const date = item.querySelector('pubDate,published,updated')?.textContent || '';
-          return { title, desc, link, date: formatDate(date), rawDate: date, source: source.name, tag: source.tag };
-        }).filter(a => a.title.length > 5 && isRecent(a.rawDate));
-      } catch(e) { return []; }
+      return [];
     }
 
     async function loadNews() {
       const container = document.getElementById('feed-news-container');
-      try {
-        const results = await Promise.all(NEWS_SOURCES.map(s => fetchNewsSource(s)));
-        const raw = results.flat();
-        // Deduplicate by title similarity
-        const seen = new Set();
-        allNews = raw.filter(a => {
-          const key = a.title.toLowerCase().replace(/[^a-z0-9]/g,'').substring(0, 40);
-          if (seen.has(key)) return false;
-          seen.add(key);
-          return true;
-        });
-        allNews.sort((a, b) => new Date(b.rawDate) - new Date(a.rawDate));
-        if (!allNews.length) {
-          container.innerHTML = '<div class="feed-error">Unable to load news at this time.<br>This may be caused by an ad blocker — try disabling it and refreshing.<br><br>Or visit <a href="https://bridgemi.com" target="_blank" style="color:#5bbcb0">Bridge Michigan</a> and <a href="https://michiganadvance.com" target="_blank" style="color:#5bbcb0">Michigan Advance</a> directly.</div>';
-          return;
-        }
-        renderNews(allNews);
-        const now = new Date();
-        document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
-      } catch(err) {
-        container.innerHTML = '<div class="feed-error">Unable to load news at this time.</div>';
+      const data = await loadFeedData();
+      if (!data || !data.news || !data.news.length) {
+        container.innerHTML = '<div class="feed-error">Unable to load news at this time.<br>Please check back later.</div>';
+        return;
       }
+      allNews = data.news;
+      renderNews(allNews);
+      const generated = new Date(data.generated);
+      document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
     }
 
     function switchTab(tab) {
@@ -2118,83 +2075,22 @@
 
     async function loadFeed() {
       const container = document.getElementById('feed-bills-container');
-      
-      // Try multiple URL formats - http and https
-      const rssUrls = [
-        'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml',
-        'http://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml'
-      ];
-
-      let xmlText = null;
-
-      for (const rssUrl of rssUrls) {
-        const encoded = encodeURIComponent(rssUrl);
-        const proxies = [
-          `https://api.allorigins.win/raw?url=${encoded}`,
-          `https://api.allorigins.win/get?url=${encoded}`,
-          `https://corsproxy.io/?${encoded}`,
-          `https://api.codetabs.com/v1/proxy?quest=${encoded}`
-        ];
-
-        for (const proxy of proxies) {
-          try {
-            const res = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
-            if (!res.ok) continue;
-            let text = await res.text();
-            try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
-            if (text.includes('<item>') || text.includes('<rss')) {
-              xmlText = text;
-              break;
-            }
-          } catch(e) { continue; }
-        }
-        if (xmlText) break;
-      }
-
-      if (!xmlText) {
-        container.innerHTML = '<div class="feed-error">Unable to load live feed at this time.<br>This may be caused by an ad blocker — try disabling it.<br><br>Or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+      const data = await loadFeedData();
+      if (!data || !data.bills) {
+        container.innerHTML = '<div class="feed-error">Unable to load bill feed.<br>Visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
         document.getElementById('feed-session-status').textContent = 'Feed Unavailable';
         return;
       }
-
-      try {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(xmlText, 'text/xml');
-        const items = xml.querySelectorAll('item');
-
-        allBills = Array.from(items).map(item => {
-          const title = item.querySelector('title')?.textContent || '';
-          const desc = item.querySelector('description')?.textContent || '';
-          const link = item.querySelector('link')?.textContent || '#';
-          const date = item.querySelector('pubDate')?.textContent || '';
-          const numMatch = title.match(/\b([HS]B\s?\d+|[HS]JR\s?\d+)/i);
-          const yearMatch = title.match(/\bof\s+(20\d\d)\b/i);
-          return {
-            num: numMatch ? numMatch[0].replace(/\s/g,'').toUpperCase() : 'MI',
-            year: yearMatch ? yearMatch[1] : '',
-            title: title.replace(/^[HS]B\s?\d+[:\-\s]*/i, '').replace(/\bof\s+20\d\d\b/i, '').trim() || title,
-            desc: desc.replace(/<[^>]+>/g,'').trim().substring(0, 160) + '...',
-            link,
-            date: formatDate(date),
-            tag: tagBill(title, desc)
-          };
-        });
-
-        if (!allBills.length) {
-          container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
-          document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
-          return;
-        }
-
-        renderBills(allBills);
-
-        const now = new Date();
-        document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
-        document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
-
-      } catch(err) {
-        container.innerHTML = '<div class="feed-error">Unable to parse feed data.<br>Please visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+      allBills = data.bills;
+      if (!allBills.length) {
+        container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+        document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
+        return;
       }
+      renderBills(allBills);
+      const generated = new Date(data.generated);
+      document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+      document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
     }
 
     document.addEventListener('keydown', (e) => {

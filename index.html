@@ -1813,12 +1813,16 @@
         <div style="margin-top:16px;display:flex;gap:10px;justify-content:center;">
           <button onclick="submitScore()" style="font-family:'Barlow',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:12px 28px;background:#5bbcb0;color:#0d1b2e;border:none;cursor:pointer;">Submit</button>
           <button onclick="skipScore()" style="font-family:'Barlow',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:12px 28px;background:none;color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.15);cursor:pointer;">Skip</button>
+          <button onclick="playAgain()" style="font-family:'Barlow',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:12px 28px;background:none;color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.15);cursor:pointer;">Play Again</button>
         </div>
       </div>
 
       <!-- LEADERBOARD PANEL -->
       <div id="leaderboard-panel" style="display:none;">
-        <div style="font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:#fff;margin-bottom:20px;">Top Scores</div>
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;">
+          <div style="font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:#fff;">Top Scores</div>
+          <button onclick="playAgain()" style="font-family:'Barlow',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:8px 20px;background:#5bbcb0;color:#0d1b2e;border:none;cursor:pointer;">Play Again</button>
+        </div>
         <div id="scores-list"></div>
       </div>
     </div>
@@ -2314,7 +2318,12 @@
       lastScore = parseInt(document.getElementById('final-score').textContent);
       saveScore(initials, lastScore);
     }
-    function skipScore() { showGame(); startSnake(); }
+    function skipScore() { playAgain(); }
+    function playAgain() {
+      document.getElementById('initials-panel').style.display = 'none';
+      showGame();
+      startSnake();
+    }
 
     async function saveScore(initials, score) {
       try {

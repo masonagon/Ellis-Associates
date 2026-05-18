@@ -1802,13 +1802,14 @@
           <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Score: <span id="snake-score" style="color:#5bbcb0;font-weight:600;">0</span></div>
           <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Best: <span id="snake-best" style="color:#5bbcb0;font-weight:600;">0</span></div>
         </div>
-        <div style="display:flex;flex-direction:column;align-items:center;gap:4px;margin-top:12px;">
-          <button ontouchstart="if(snakeInterval){nextDir={x:0,y:-1};}" onclick="if(snakeInterval){nextDir={x:0,y:-1};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▲</button>
+        <div style="display:flex;flex-direction:column;align-items:center;gap:4px;margin-top:16px;">
+          <button ontouchstart="if(snakeInterval&&dir.y!==1){nextDir={x:0,y:-1};}" onclick="if(snakeInterval&&dir.y!==1){nextDir={x:0,y:-1};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▲</button>
           <div style="display:flex;gap:4px;">
-            <button ontouchstart="if(snakeInterval){nextDir={x:-1,y:0};}" onclick="if(snakeInterval){nextDir={x:-1,y:0};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">◀</button>
-            <button ontouchstart="if(snakeInterval){nextDir={x:0,y:1};}" onclick="if(snakeInterval){nextDir={x:0,y:1};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▼</button>
-            <button ontouchstart="if(snakeInterval){nextDir={x:1,y:0};}" onclick="if(snakeInterval){nextDir={x:1,y:0};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▶</button>
+            <button ontouchstart="if(snakeInterval&&dir.x!==1){nextDir={x:-1,y:0};}" onclick="if(snakeInterval&&dir.x!==1){nextDir={x:-1,y:0};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">◀</button>
+            <div style="width:52px;height:52px;"></div>
+            <button ontouchstart="if(snakeInterval&&dir.x!==-1){nextDir={x:1,y:0};}" onclick="if(snakeInterval&&dir.x!==-1){nextDir={x:1,y:0};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▶</button>
           </div>
+          <button ontouchstart="if(snakeInterval&&dir.y!==-1){nextDir={x:0,y:1};}" onclick="if(snakeInterval&&dir.y!==-1){nextDir={x:0,y:1};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▼</button>
         </div>
       </div>
 
@@ -2204,7 +2205,23 @@
     function openFilibuster() {
       document.getElementById('filibuster-overlay').style.display = 'block';
       document.body.style.overflow = 'hidden';
-      showGame();
+      stopSnake();
+      document.getElementById('game-overlay-msg').style.display = 'flex';
+      document.getElementById('initials-panel').style.display = 'none';
+      document.getElementById('game-panel').style.display = 'block';
+      document.getElementById('leaderboard-panel').style.display = 'none';
+      document.getElementById('snake-score').textContent = '0';
+      document.getElementById('snake-best').textContent = localBest;
+      const canvas = document.getElementById('snake-canvas');
+      const ctx = canvas.getContext('2d');
+      ctx.fillStyle = '#0d1b2e';
+      ctx.fillRect(0,0,canvas.width,canvas.height);
+      document.getElementById('btn-game').style.borderColor = '#5bbcb0';
+      document.getElementById('btn-game').style.color = '#5bbcb0';
+      document.getElementById('btn-game').style.background = 'rgba(91,188,176,0.08)';
+      document.getElementById('btn-scores').style.borderColor = 'rgba(255,255,255,0.12)';
+      document.getElementById('btn-scores').style.color = 'rgba(255,255,255,0.4)';
+      document.getElementById('btn-scores').style.background = 'none';
     }
     function closeFilibuster() {
       stopSnake();

@@ -1934,172 +1934,71 @@
       renderNews(filtered);
     }
 
-    // Feed cache - 5 minute TTL
-    const feedCache = new Map();
-    const CACHE_TTL = 30 * 60 * 1000;
-
-    async function fetchWithProxies(url) {
-      // Check cache first
-      const cached = feedCache.get(url);
-      if (cached && Date.now() - cached.time < CACHE_TTL) return cached.text;
-
-      const encoded = encodeURIComponent(url);
-      const proxies = [
-        url, // try direct first
-        `https://api.allorigins.win/raw?url=${encoded}`,
-        `https://proxy.cors.sh/${url}`,
-        `https://corsproxy.io/?${encoded}`,
-        `https://api.codetabs.com/v1/proxy?quest=${encoded}`
-      ];
-
-      for (const proxy of proxies) {
-        try {
-          const res = await fetch(proxy, {
-            signal: AbortSignal.timeout(5000),
-            headers: proxy.includes('cors.sh') ? { 'x-cors-api-key': 'temp_public' } : {}
-          });
-          if (!res.ok) continue;
-          let text = await res.text();
-          try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
-          if (text.includes('<item>') || text.includes('<entry>')) {
-            feedCache.set(url, { text, time: Date.now() });
-            return text;
-          }
-        } catch(e) { continue; }
-      }
-      return null;
-    }
-
-    async function fetchNewsSource(source) {
-      const text = await fetchWithProxies(source.url);
-      if (!text) return [];
-      try {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(text, 'text/xml');
-        const items = xml.querySelectorAll('item, entry');
-        if (!items.length) return [];
-        return Array.from(items).slice(0, 8).map(item => {
-          const title = item.querySelector('title')?.textContent?.trim() || '';
-          const desc = (item.querySelector('description,summary,content')?.textContent || '').replace(/<[^>]+>/g,'').trim().substring(0, 150) + '...';
-          const linkEl = item.querySelector('link');
-          const link = linkEl?.textContent?.trim() || linkEl?.getAttribute('href') || '#';
-          const date = item.querySelector('pubDate,published,updated')?.textContent || '';
-          return { title, desc, link, date: formatDate(date), rawDate: date, source: source.name, tag: source.tag };
-        }).filter(a => a.title.length > 5 && isRecent(a.rawDate));
-      } catch(e) { return []; }
-    }
-
-    async function loadNews() {
-      const container = document.getElementById('feed-news-container');
-      try {
-        const results = await Promise.all(NEWS_SOURCES.map(s => fetchNewsSource(s)));
-        const raw = results.flat();
-        // Deduplicate by title similarity
-        const seen = new Set();
-        allNews = raw.filter(a => {
-          const key = a.title.toLowerCase().replace(/[^a-z0-9]/g,'').substring(0, 40);
-          if (seen.has(key)) return false;
-          seen.add(key);
-          return true;
-        });
-        allNews.sort((a, b) => new Date(b.rawDate) - new Date(a.rawDate));
-        if (!allNews.length) {
-          container.innerHTML = '<div class="feed-error">Unable to load news at this time.<br>This may be caused by an ad blocker — try disabling it and refreshing.<br><br>Or visit <a href="https://bridgemi.com" target="_blank" style="color:#5bbcb0">Bridge Michigan</a> and <a href="https://michiganadvance.com" target="_blank" style="color:#5bbcb0">Michigan Advance</a> directly.</div>';
-          return;
-        }
-        renderNews(allNews);
-        const now = new Date();
-        document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
-      } catch(err) {
-        container.innerHTML = '<div class="feed-error">Unable to load news at this time.</div>';
-      }
-    }
-
-    function switchTab(tab) {
-      document.getElementById('tab-news').classList.toggle('active', tab === 'news');
-      document.getElementById('tab-bills').classList.toggle('active', tab === 'bills');
-      document.getElementById('feed-news-panel').style.display = tab === 'news' ? 'block' : 'none';
-      document.getElementById('feed-bills-panel').style.display = tab === 'bills' ? 'block' : 'none';
-      if (tab === 'bills' && !feedLoaded) { feedLoaded = true; loadFeed(); }
-      if (tab === 'news' && !newsLoaded) { newsLoaded = true; loadNews(); }
-    }
-
-    let feedLoaded = false;
-    function openFeed() {
-      document.getElementById('feed-overlay').classList.add('open');
-      document.body.style.overflow = 'hidden';
-      if (!newsLoaded) { newsLoaded = true; loadNews(); }
-      if (document.getElementById('feed-session-status').textContent === 'Loading...') {
-        document.getElementById('feed-session-status').textContent = '103rd Legislature · Live';
-      }
-    }
-    function closeFeed() {
-      document.getElementById('feed-overlay').classList.remove('open');
-      document.body.style.overflow = '';
-    }
-
-    // THE FEED
-    const FEED_KEYWORDS = {
-      safety: ['police','law enforcement','sheriff','fire','ems','emergency','first responder','corrections','public safety','security','school safety','weapon','firearm','911','dispatch','officer','crime','criminal','violence','threat','surveillance','body camera','detention'],
-      technology: ['technology','software','digital','data','cyber','artificial intelligence','drone','platform','system','broadband','internet','innovation','procurement','contract','vendor','purchasing','appropriation','grant','funding','budget','allocation','bid','state contract','government contract'],
-      education: ['school','education','student','teacher','university','college','k-12','curriculum','classroom','campus','district','learning','academic','literacy','tuition'],
-      associations: ['association','trade','industry','license','regulation','regulatory','compliance','lobbying','advocacy','nonprofit','organization','membership','beverage','alcohol','liquor','hospitality'],
-      emerging: ['drone','unmanned','autonomous','artificial intelligence','ai','machine learning','blockchain','smart city','infrastructure','broadband','5g','electric vehicle','renewable','innovation','emerging technology'],
-      health: ['mental health','wellness','behavioral','substance','opioid','addiction','health care','medicaid','medicare','hospital','behavioral health','counseling','treatment','recovery','first responder wellness']
-    };
+    // ── THE FEED: reads from GitHub-generated JSON ──────────────────────────
+    const FEED_JSON_URL = 'https://raw.githubusercontent.com/masonagon/Ellis-Associates/main/data/feed.json';
 
     let allBills = [];
-    let currentFilter = 'all';
+    let allNews  = [];
+    let feedData = null;
+    let feedLoaded = false;
+    let newsLoaded = false;
+
+    async function loadFeedData() {
+      if (feedData) return feedData;
+      try {
+        const res = await fetch(FEED_JSON_URL, { cache: 'no-cache' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        feedData = await res.json();
+        return feedData;
+      } catch(e) {
+        console.error('Feed load error:', e);
+        return null;
+      }
+    }
+
+    // ── BILLS ────────────────────────────────────────────────────────────────
+
+    const BILL_KEYWORDS = {
+      safety:       ['police','law enforcement','sheriff','fire','ems','emergency','first responder','corrections','public safety','security','school safety','weapon','firearm','911','dispatch','officer','crime','criminal','violence'],
+      technology:   ['technology','software','digital','data','cyber','artificial intelligence','drone','platform','broadband','internet','innovation','procurement','contract','vendor','funding','budget','state contract'],
+      education:    ['school','education','student','teacher','university','college','k-12','curriculum','classroom','campus','district','learning','academic','tuition'],
+      associations: ['association','trade','industry','license','regulation','regulatory','compliance','lobbying','advocacy','nonprofit','organization','membership','beverage','alcohol','liquor','hospitality'],
+      health:       ['mental health','wellness','behavioral','substance','opioid','addiction','health care','medicaid','medicare','hospital','behavioral health','counseling','treatment','recovery']
+    };
 
     function tagBill(title, desc) {
       const text = (title + ' ' + desc).toLowerCase();
-      for (const [tag, keywords] of Object.entries(FEED_KEYWORDS)) {
+      for (const [tag, keywords] of Object.entries(BILL_KEYWORDS)) {
         if (keywords.some(k => text.includes(k))) return tag;
       }
       return 'general';
     }
 
     function tagLabel(tag) {
-      const labels = {
-        safety: 'Public Safety',
-        technology: 'Technology',
-        education: 'Education',
-        associations: 'Associations',
-        emerging: 'Emerging Tech',
-        health: 'Healthcare',
-        general: 'General'
-      };
+      const labels = { safety:'Public Safety', technology:'Technology', education:'Education', associations:'Associations', health:'Healthcare', general:'General' };
       return labels[tag] || 'General';
     }
 
     function tagColor(tag) {
       const colors = {
-        safety: 'color:#5bbcb0;background:rgba(91,188,176,0.1);border:1px solid rgba(91,188,176,0.2)',
-        technology: 'color:#85B7EB;background:rgba(133,183,235,0.1);border:1px solid rgba(133,183,235,0.2)',
-        education: 'color:#C0DD97;background:rgba(192,221,151,0.1);border:1px solid rgba(192,221,151,0.2)',
+        safety:       'color:#5bbcb0;background:rgba(91,188,176,0.1);border:1px solid rgba(91,188,176,0.2)',
+        technology:   'color:#85B7EB;background:rgba(133,183,235,0.1);border:1px solid rgba(133,183,235,0.2)',
+        education:    'color:#C0DD97;background:rgba(192,221,151,0.1);border:1px solid rgba(192,221,151,0.2)',
         associations: 'color:#AFA9EC;background:rgba(175,169,236,0.1);border:1px solid rgba(175,169,236,0.2)',
-        emerging: 'color:#FAC775;background:rgba(250,199,117,0.1);border:1px solid rgba(250,199,117,0.2)',
-        health: 'color:#F09595;background:rgba(240,149,149,0.1);border:1px solid rgba(240,149,149,0.2)',
-        general: 'color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.1)'
+        health:       'color:#F09595;background:rgba(240,149,149,0.1);border:1px solid rgba(240,149,149,0.2)',
+        general:      'color:rgba(255,255,255,0.3);border:1px solid rgba(255,255,255,0.1)'
       };
       return colors[tag] || colors.general;
-    }
-
-    function formatDate(dateStr) {
-      try {
-        const d = new Date(dateStr);
-        return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
-      } catch(e) { return ''; }
     }
 
     function renderBills(bills) {
       const container = document.getElementById('feed-bills-container');
       if (!bills.length) {
-        container.innerHTML = '<div class="feed-error">No bills found matching this filter.<br>Try selecting a different category or check back later.</div>';
+        container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
         return;
       }
-      const html = '<div class="feed-bills">' + bills.map(bill => {
-        const tag = bill.tag;
+      container.innerHTML = '<div class="feed-bills">' + bills.map(bill => {
+        const tag = tagBill(bill.title, bill.desc);
         return `<a class="feed-bill" href="${bill.link}" target="_blank" rel="noopener">
           <div>
             <div class="feed-bill-num">${bill.num}</div>
@@ -2115,109 +2014,115 @@
           </div>
         </a>`;
       }).join('') + '</div>';
-      container.innerHTML = html;
-    }
-
-    function filterFeed(filter, btn) {
-      currentFilter = filter;
-      document.querySelectorAll('.feed-filter').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const filtered = filter === 'all' ? allBills : allBills.filter(b => b.tag === filter);
-      renderBills(filtered.length ? filtered : allBills);
     }
 
     async function loadFeed() {
       const container = document.getElementById('feed-bills-container');
-      
-      // Try multiple URL formats - http and https
-      const rssUrls = [
-        'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml',
-        'http://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml'
-      ];
-
-      let xmlText = null;
-
-      for (const rssUrl of rssUrls) {
-        const encoded = encodeURIComponent(rssUrl);
-        const proxies = [
-          `https://api.allorigins.win/raw?url=${encoded}`,
-          `https://api.allorigins.win/get?url=${encoded}`,
-          `https://corsproxy.io/?${encoded}`,
-          `https://api.codetabs.com/v1/proxy?quest=${encoded}`
-        ];
-
-        for (const proxy of proxies) {
-          try {
-            const res = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
-            if (!res.ok) continue;
-            let text = await res.text();
-            try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
-            if (text.includes('<item>') || text.includes('<rss')) {
-              xmlText = text;
-              break;
-            }
-          } catch(e) { continue; }
-        }
-        if (xmlText) break;
-      }
-
-      if (!xmlText) {
-        container.innerHTML = '<div class="feed-error">Unable to load live feed at this time.<br>This may be caused by an ad blocker — try disabling it.<br><br>Or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
-        document.getElementById('feed-session-status').textContent = 'Feed Unavailable';
+      const data = await loadFeedData();
+      if (!data || !data.bills) {
+        container.innerHTML = '<div class="feed-error">Unable to load bill feed.<br>Visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
         return;
       }
-
-      try {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(xmlText, 'text/xml');
-        const items = xml.querySelectorAll('item');
-
-        allBills = Array.from(items).map(item => {
-          const title = item.querySelector('title')?.textContent || '';
-          const desc = item.querySelector('description')?.textContent || '';
-          const link = item.querySelector('link')?.textContent || '#';
-          const date = item.querySelector('pubDate')?.textContent || '';
-          const numMatch = title.match(/\b([HS]B\s?\d+|[HS]JR\s?\d+)/i);
-          const yearMatch = title.match(/\bof\s+(20\d\d)\b/i);
-          return {
-            num: numMatch ? numMatch[0].replace(/\s/g,'').toUpperCase() : 'MI',
-            year: yearMatch ? yearMatch[1] : '',
-            title: title.replace(/^[HS]B\s?\d+[:\-\s]*/i, '').replace(/\bof\s+20\d\d\b/i, '').trim() || title,
-            desc: desc.replace(/<[^>]+>/g,'').trim().substring(0, 160) + '...',
-            link,
-            date: formatDate(date),
-            tag: tagBill(title, desc)
-          };
-        });
-
-        if (!allBills.length) {
-          container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
-          document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
-          return;
-        }
-
-        renderBills(allBills);
-
-        const now = new Date();
-        document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
-        document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
-
-      } catch(err) {
-        container.innerHTML = '<div class="feed-error">Unable to parse feed data.<br>Please visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
-      }
+      allBills = data.bills;
+      renderBills(allBills);
+      const generated = new Date(data.generated);
+      document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+      document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
     }
+
+    // ── NEWS ─────────────────────────────────────────────────────────────────
+
+    function newsTagLabel(tag) {
+      const labels = { government:'Government', safety:'Public Safety', technology:'Technology', education:'Education', health:'Healthcare', associations:'Business & Industry' };
+      return labels[tag] || 'Government';
+    }
+
+    function newsTagColor(tag) {
+      const colors = {
+        government:   'color:#AFA9EC;background:rgba(175,169,236,0.12);border:1px solid rgba(175,169,236,0.25)',
+        safety:       'color:#5bbcb0;background:rgba(91,188,176,0.12);border:1px solid rgba(91,188,176,0.25)',
+        technology:   'color:#85B7EB;background:rgba(133,183,235,0.12);border:1px solid rgba(133,183,235,0.25)',
+        education:    'color:#C0DD97;background:rgba(192,221,151,0.12);border:1px solid rgba(192,221,151,0.25)',
+        health:       'color:#F09595;background:rgba(240,149,149,0.12);border:1px solid rgba(240,149,149,0.25)',
+        associations: 'color:#FAC775;background:rgba(250,199,117,0.12);border:1px solid rgba(250,199,117,0.25)'
+      };
+      return colors[tag] || colors.government;
+    }
+
+    function renderNews(articles) {
+      const container = document.getElementById('feed-news-container');
+      if (!articles.length) {
+        container.innerHTML = '<div class="feed-error">No articles found for this category right now.<br>Try <strong>All News</strong> or check back later.</div>';
+        return;
+      }
+      container.innerHTML = '<div class="news-bills">' + articles.map(a => `
+        <a class="news-card" href="${a.link}" target="_blank" rel="noopener">
+          <div>
+            <div class="news-card-title">${a.title}</div>
+            <div class="news-card-desc">${a.desc}</div>
+            <div class="news-card-meta"><span class="news-card-source">${a.source}</span>${a.date}</div>
+          </div>
+          <div class="news-card-right">
+            <span style="font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;padding:4px 10px;white-space:nowrap;${newsTagColor(a.tag)}">${newsTagLabel(a.tag)}</span>
+          </div>
+        </a>`).join('') + '</div>';
+    }
+
+    function filterNews(filter, btn) {
+      document.querySelectorAll('#news-filters .feed-filter').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      if (filter === 'all') { renderNews(allNews); return; }
+      const filtered = allNews.filter(a => a.tag === filter);
+      if (!filtered.length) {
+        document.getElementById('feed-news-container').innerHTML = `<div class="feed-error">No articles found for this category right now.<br>Try <strong>All News</strong> or check back later.</div>`;
+        return;
+      }
+      renderNews(filtered);
+    }
+
+    async function loadNews() {
+      const container = document.getElementById('feed-news-container');
+      const data = await loadFeedData();
+      if (!data || !data.news) {
+        container.innerHTML = '<div class="feed-error">Unable to load news.<br>Please check back later.</div>';
+        return;
+      }
+      allNews = data.news;
+      renderNews(allNews);
+      const generated = new Date(data.generated);
+      document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+    }
+
+    // ── TAB SWITCHING ────────────────────────────────────────────────────────
+
+    function switchTab(tab) {
+      document.getElementById('tab-news').classList.toggle('active', tab === 'news');
+      document.getElementById('tab-bills').classList.toggle('active', tab === 'bills');
+      document.getElementById('feed-news-panel').style.display = tab === 'news' ? 'block' : 'none';
+      document.getElementById('feed-bills-panel').style.display = tab === 'bills' ? 'block' : 'none';
+      if (tab === 'bills' && !feedLoaded) { feedLoaded = true; loadFeed(); }
+      if (tab === 'news' && !newsLoaded) { newsLoaded = true; loadNews(); }
+    }
+
+    function openFeed() {
+      document.getElementById('feed-overlay').classList.add('open');
+      document.body.style.overflow = 'hidden';
+      if (!newsLoaded) { newsLoaded = true; loadNews(); }
+    }
+    function closeFeed() {
+      document.getElementById('feed-overlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    // Prefetch after page load
+    window.addEventListener('load', () => {
+      setTimeout(() => loadFeedData(), 3000);
+    });
 
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') { closeFeed(); closeModal(); }
     });
 
-    // Prefetch The Feed in background after page loads
-    window.addEventListener('load', () => {
-      setTimeout(() => {
-        loadNews();
-        loadFeed();
-      }, 4000);
-    });
     function toggleMobileNav() {
       const menu = document.getElementById('mobile-nav');
       const burger = document.getElementById('hamburger');

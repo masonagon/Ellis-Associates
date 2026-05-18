@@ -1,14 +1,176 @@
 {
-  "generated": "2026-05-18T15:15:07.313Z",
+  "generated": "2026-05-18T17:53:20.123Z",
   "news": [
     {
-      "title": "Hogan: Republicans never got &#039;back to sanity&#039;",
-      "desc": "Former Maryland Gov. Larry Hogan (R) said in a new interview that the Republican Party never got “back to sanity,” Hogan told The Washington Post that he thought the GOP would eventually get “back to ",
-      "link": "https://thehill.com/homenews/house/5883109-maryland-gov-larry-hogan-republican-party/",
+      "title": "US bans foreign travelers from Ebola-impacted nations",
+      "desc": "In response to a growing Ebola outbreak, the Centers for Disease Control and Prevention (CDC) is imposing a ban on foreign passport holders from entering the country if they have been in Uganda, the D",
+      "link": "https://thehill.com/policy/healthcare/5883479-ebola-outbreak-cdc-response/",
       "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 15:12:02 +0000",
+      "rawDate": "Mon, 18 May 2026 17:47:04 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "desc": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+      "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:40:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump dropped IRS suit in deal to create  $1.776B &#039;anti-weaponization&#039; fund",
+      "desc": "The Justice Department on Monday launched a nearly $2 billion “anti-weaponization fund” as part of a settlement after President Trump sued the Internal Revenue Service (IRS) for $10 billion. The fund,",
+      "link": "https://thehill.com/homenews/administration/5883454-doj-launches-anti-weaponization-fund/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:36:07 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Trump dropped IRS suit in deal to create  $1.776B &#8216;anti-weaponization&#8217; fund",
+      "desc": "The Justice Department on Monday launched a nearly $2 billion “anti-weaponization fund” as part of a settlement after President Trump sued the Internal Revenue Service (IRS) for $10 billion. The fund,",
+      "link": "https://thehill.com/homenews/administration/5883454-doj-launches-anti-weaponization-fund/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:36:07 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Live updates: Hegseth campaigns with Massie opponent; DOJ creates fund for allies",
+      "desc": "Defense Secretary Pete Hegseth is in northern Kentucky on Monday afternoon, campaigning in a \"personal capacity\" for former Navy SEAL Ed Gallrein for Congress. It's an unprecedented visit that follows",
+      "link": "https://thehill.com/homenews/state-watch/5881958-live-updates-trump-iran-reconciliation/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:32:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Thomas Massie smeared by GOP establishment; MAGA is with him!",
+      "desc": "There’s at least one Republican who votes the way he promised.",
+      "link": "https://thehill.com/opinion/robbys-radar/5883428-massie-trump-fight-kentucky/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:26:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Graham presses Trump for &#039;short but forceful&#039; response to Iran",
+      "desc": "Sen. Lindsey Graham (R-S.C.) pressed President Trump for a “short but forceful response\" to Iran as peace talks stay stuck at a standstill. “I have every confidence that President Trump fully understa",
+      "link": "https://thehill.com/homenews/senate/5883373-lindsey-graham-presses-trump-iran/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:07:09 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "State Senate candidate Jason Tunney seeks $150,000 in damages in deepfake lawsuit",
+      "desc": "Jason Tunney is seeking $157,369 from Jayden Scott, who allegedly created fake videos showing the Republican senate candidate kissing a man and posted false claims about his sexuality online.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/state-senate-candidate-jason-tunney-seeks-150000-in-damages-in-deepfake-lawsuit.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:05:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic leadership needs to stop with the Goldilocks politics",
+      "desc": "Despite the current political climate, Democrats are struggling to take a stand on important issues, leading to individual candidates rising in popularity by taking their own stands and calling for De",
+      "link": "https://thehill.com/opinion/campaign/5882406-trump-democrats-struggle-midterms/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cassidy after primary defeat: &#039;Our country is not about one individual&#039;",
+      "desc": "Sen. Bill Cassidy (R-La.) said Saturday that the U.S. \"is not about one individual\" as he conceded the race to Rep. Julia Letlow (R-La.) and Louisiana Treasurer John Fleming (R). Letlow, who was endor",
+      "link": "https://thehill.com/homenews/senate/5883238-bill-cassidy-trump-individual-senate/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 16:44:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why voters — not courts — must put a stop to America’s redistricting wars",
+      "desc": "The mid-decade redistricting wars are a race to the bottom. But the further down we go, the harder it will be to climb back up.",
+      "link": "https://thehill.com/opinion/campaign/5880416-mid-decade-redistricting-reforms/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 16:36:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump planning to build helipad at White House for new Marine One: Reports",
+      "desc": "President Trump is planning to build a helipad at the White House for the new Marine One helicopter, according to multiple reports. The Wall Street Journal reported Sunday, citing sources familiar wit",
+      "link": "https://thehill.com/homenews/administration/5883247-trump-marine-one-helipad-white-house-reports/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 16:04:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Dozens of ‘sickening’ videos show man allegedly abusing 5-month-old, prosecutor says",
+      "desc": "Anthony David Dove was arraigned Monday after prosecutors say upward of 100 surveillance videos show him allegedly abusing a baby boy.",
+      "link": "https://www.mlive.com/news/muskegon/2026/05/dozens-of-sickening-videos-show-man-allegedly-abusing-5-month-old-prosecutor-says.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 16:02:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democratic candidate: &#039;Can&#039;t put everything&#039; wrong with California on Trump",
+      "desc": "Former Los Angeles Mayor Antonio Villaraigosa (D) on Saturday said Democrats and his fellow candidates for governor \"can't put everything\" wrong with the Golden State on President Trump. Villaraigosa ",
+      "link": "https://thehill.com/homenews/state-watch/5883085-antonio-villaraigosa-california-policies/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 16:00:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ice cream sold in 17 states recalled, dangerous metal pieces may be in dessert",
+      "desc": "The recall applies six different products produced by the California-based company.",
+      "link": "https://www.mlive.com/business/2026/05/ice-cream-sold-in-17-states-recalled-dangerous-metal-pieces-may-be-in-dessert.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 16:00:18 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Man shot twice in the arm in Kalamazoo, police search for suspect",
+      "desc": "The man was taken to a local hospital, KDPS said.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/man-shot-twice-in-the-arm-in-kalamazoo-police-search-for-suspect.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 15:54:39 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "FDA&#039;s top drug regulator ousted amid agency upheaval",
+      "desc": "Upheaval among the top ranks of the Food and Drug Administration continued late Friday when Tracey Beth Høeg, the agency’s top drug regulator, was ousted. Høeg had served as acting director of the FDA",
+      "link": "https://thehill.com/policy/healthcare/5883174-tracey-beth-hoeg-fda-ousted/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 15:31:20 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Pentagon pauses Canada joint military board, pointing to Carney remarks",
+      "desc": "The Pentagon’s policy chief announced Monday that the United States will suspend its involvement in a joint body that coordinates military consultation with Canada, pointing to Canadian Prime Minister",
+      "link": "https://thehill.com/policy/defense/5883148-canada-defense-cooperation-trump-carney-tensions/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 15:19:58 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Man sentenced to life for fatal shooting in Facebook Marketplace sale gone wrong",
+      "desc": "The Detroit man was sentenced to life for fatally shooting a Fenton Township man during a Facebook Marketplace car parts exchange.",
+      "link": "https://www.mlive.com/news/flint/2026/05/man-sentenced-to-life-for-fatal-shooting-in-facebook-marketplace-sale-gone-wrong.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 15:14:24 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Pentagon says Hegseth campaigning against Massie in &#039;personal capacity&#039;",
@@ -20,22 +182,13 @@
       "tag": "safety"
     },
     {
-      "title": "NextEra and Dominion say they will merge, creating utility giant",
-      "desc": "Electric companies NextEra and Dominion will merge, they announced on Monday. The merger would create the world’s largest regulated electric utility, the companies said in a press release. The move co",
-      "link": "https://thehill.com/policy/energy-environment/5883125-nextera-dominion-utility-merger/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 15:03:25 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Watch live: Trump hosts healthcare affordability event",
       "desc": "President Trump is scheduled to host a healthcare affordability event on Monday afternoon at the White House. Trump in January unveiled an affordability framework aimed at lowering drug prices and ins",
       "link": "https://thehill.com/video-clips/5882693-watch-live-donald-trump-healthcare-affordability-event/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 14:53:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "This Saginaw educator spent years watching students miss career opportunities, so she wrote a book to fix it",
@@ -65,24 +218,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump moves to dismiss $10B lawsuit against IRS",
-      "desc": "President Trump in a filing on Monday moved to dismiss his $10 billion lawsuit against the IRS over an agency contractor who leaked his tax return information to news outlets.  The notice of voluntary",
-      "link": "https://thehill.com/homenews/administration/5882920-donald-trump-withdraws-irs-lawsuit/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 14:22:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Republicans trail Democrats by double digits on generic congressional ballot: Survey",
-      "desc": "A new poll shows Republicans trailing Democrats by double digits on a generic congressional ballot.  The survey results released Monday by the New York Times/Siena poll show that 50 percent of respond",
-      "link": "https://thehill.com/homenews/state-watch/5882893-democrats-republicans-generic-congressional-ballot-poll/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 14:20:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Saginaw man charged with ‘whooping’ child for being gay",
       "desc": "Tony H. Morgan, 53, allegedly struck the child with a belt and told her \"God would not forgive her\" after learning she was in a relationship with another girl.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/saginaw-man-charged-with-whooping-child-for-being-gay.html",
@@ -101,42 +236,6 @@
       "tag": "safety"
     },
     {
-      "title": "Military caregivers are America&#039;s next great bipartisan win",
-      "desc": "Military and veteran family caregivers provide $119 billion in unpaid care annually, yet 35 percent of their households live below the poverty line, and they face a lack of support from Congress.",
-      "link": "https://thehill.com/opinion/healthcare/5881897-supporting-veteran-family-caregivers/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 14:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Supreme Court won’t hear ex-lawmaker&#039;s bid to toss insider trading conviction",
-      "desc": "The Supreme Court on Monday declined to take up a former congressman’s bid to toss his conviction on insider trading charges.  Ex-Rep. Stephen Buyer (R-Ind.) was convicted in 2023 on four federal char",
-      "link": "https://thehill.com/regulation/court-battles/5882912-buyer-supreme-court-insider-trading/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 13:58:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Supreme Court to weigh public school employee right to sue under Title IX",
-      "desc": "The Supreme Court said Monday it will weigh whether federally funded school employees can privately sue over sex discrimination at their jobs under Title IX. MaChelle Joseph, a women's basketball coac",
-      "link": "https://thehill.com/regulation/court-battles/5882892-supreme-court-weighs-title-ix/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 13:43:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The ugly reality of racial politics in today&#039;s Republican Party",
-      "desc": "The GOP is increasingly embracing racial politics, with many of its members either expressing racist views or playing along by ignoring them, as evidenced by the recent Supreme Court ruling that disma",
-      "link": "https://thehill.com/opinion/white-house/5881921-gop-racism-rampant-politics/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 13:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan advocates pressure Whitmer to reject federal school choice tax credit program",
       "desc": "A resolution passed along partisan lines by Michigan's top school board may be intensifying pressure for the state to opt out of a program critics call “voucher-like\" and that supporters warn could se",
       "link": "https://www.mlive.com/education/2026/05/michigan-advocates-pressure-whitmer-to-reject-federal-school-choice-tax-credit-program.html",
@@ -153,6 +252,15 @@
       "rawDate": "Mon, 18 May 2026 13:08:27 +0000",
       "source": "MLive Education",
       "tag": "education"
+    },
+    {
+      "title": "Pope and co-founder of Anthropic to launch pontiff&#039;s AI encyclical on May 25",
+      "desc": "ROME (AP) — Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of human dignity in the era of AI,",
+      "link": "https://thehill.com/policy/technology/pope-ai-encyclical-anthropic/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 12:58:59 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Pleasant Lake man charged with attempted murder in domestic shooting",
@@ -236,6 +344,15 @@
       "tag": "safety"
     },
     {
+      "title": "Taiwan’s president defends US arms purchases that Trump called &#039;bargaining chip&#039;",
+      "desc": "TAIPEI, Taiwan (AP) — Taiwan’s president on Sunday stressed that arms purchases from the United States are “the most important deterrent” of regional conflict and instability, after President Donald T",
+      "link": "https://thehill.com/policy/international/taiwan-us-arms-purchases-donald-trump-xi-jinping-china/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 02:24:18 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
       "title": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
       "desc": "ABUJA, Nigeria (AP) — The World Health Organization declared the Ebola disease outbreak caused by a rare virus in Congo and neighboring Uganda a public health emergency of international concern on Sun",
       "link": "https://thehill.com/homenews/ap/ap-health/ap-who-ebola-public-health-emergency/",
@@ -252,6 +369,15 @@
       "rawDate": "Mon, 18 May 2026 01:55:47 +0000",
       "source": "MLive Education",
       "tag": "education"
+    },
+    {
+      "title": "Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war",
+      "desc": "DUBAI, United Arab Emirates (AP) — A drone strike sparked a fire on the edge of the United Arab Emirates’ sole nuclear power plant on Sunday in what authorities called an “unprovoked terrorist attack.",
+      "link": "https://thehill.com/policy/international/drone-strikes-uae-nuclear-plant/",
+      "date": "May 17, 2026",
+      "rawDate": "Sun, 17 May 2026 20:23:42 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Police: Spike strips stop wrong-way driver on I-69",
@@ -434,15 +560,6 @@
       "tag": "associations"
     },
     {
-      "title": "Gone too soon: Family copes with loss of 9-year-old shot, killed in drive-by shooting",
-      "desc": "The place the family once called home was riddled with bullet holes in both front windows, the upstairs bedroom, basement, front door and siding. The family is forever changed.",
-      "link": "https://www.mlive.com/news/flint/2026/05/gone-too-soon-family-copes-with-loss-of-9-year-old-shot-killed-in-drive-by-shooting.html",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 15:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Tick that causes meat allergy, other rare virus is spreading: What symptoms to watch for",
       "desc": "A tick capable of making its victims allergic to meat and dairy (among other items) and spreading a virus that has no known cure may be reaching new areas, data shows.",
       "link": "https://thehill.com/policy/healthcare/5862341-tick-that-causes-meat-allergy-other-rare-virus-is-spreading-what-symptoms-to-watch-for/",
@@ -468,15 +585,6 @@
       "rawDate": "Sat, 16 May 2026 14:14:44 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "New Imlay City police chief plans to bring crisis intervention training to department",
-      "desc": "Charles Rushton, a retired Warren police deputy commissioner, was named Imlay City police chief after serving as interim.",
-      "link": "https://www.mlive.com/news/flint/2026/05/new-imlay-city-police-chief-plans-to-bring-crisis-intervention-training-to-department.html",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 14:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Salmonella fears prompt recall of seasoning sold at Walmart stores nationwide",
@@ -511,8 +619,8 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/12-chinese-scholars-at-university-of-michigan-face-federal-charges-see-where-cases-stand.html",
       "date": "May 16, 2026",
       "rawDate": "Sat, 16 May 2026 11:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Trump ambiguity raises questions on US support to Taiwan",
@@ -522,15 +630,6 @@
       "rawDate": "Sat, 16 May 2026 10:00:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "‘Acrisure Amphitheater is open for business’: Lionel Richie wows Grand Rapids with hits",
-      "desc": "The Grammy winner performed Friday at the new 12,000-capacity venue in downtown Grand Rapids, treating concertgoers to hits such as “Hello” and “Easy.”",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/05/acrisure-amphitheater-is-open-for-business-lionel-richie-wows-grand-rapids-with-hits.html",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 04:33:56 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Hantavirus has not mutated to be more transmissible: WHO",
@@ -547,8 +646,8 @@
       "link": "https://www.mlive.com/news/2026/05/video-released-of-police-shooting-msu-student-following-stabbing.html",
       "date": "May 15, 2026",
       "rawDate": "Fri, 15 May 2026 22:32:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "U.S. House approves $162M request for Selfridge Air base",
@@ -605,15 +704,6 @@
       "tag": "safety"
     },
     {
-      "title": "Republicans grill Army leaders on pulling Poland troops: &#039;We&#039;re not happy&#039;",
-      "desc": "Republican lawmakers on Friday grilled Army leaders over the Pentagon’s seemingly last-minute decision to cancel the temporary deployment of 4,000 troops to Poland, with House Armed Services Committee",
-      "link": "https://thehill.com/policy/defense/5880271-pentagon-troops-poland-gop-criticism/",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 17:36:17 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Texas Children&#039;s Hospital must create country&#039;s first &#039;detransition clinic&#039; under settlement with Paxton",
       "desc": "Texas Children's Hospital will create the nation’s first “detransition clinic,” fire five physicians and pay the state $10 million under an unusual settlement announced Friday by Texas Attorney Genera",
       "link": "https://thehill.com/policy/healthcare/5880188-texas-childrens-hospital-paxton-detransition-clinic/",
@@ -650,15 +740,6 @@
       "tag": "technology"
     },
     {
-      "title": "House passes first fiscal 2027 appropriations bill",
-      "desc": "The House on Friday passed its first appropriations bill for fiscal 2027 with bipartisan support, marking an early step in the annual government funding process and sending the measure to the Senate f",
-      "link": "https://thehill.com/homenews/house/5879805-military-veterans-funding-bill-2027/",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 14:30:14 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "US staff, press ditch Chinese credentials before departing Beijing",
       "desc": "U.S. staff and the traveling press ditched of all materials handed out by the Chinese during President Trump’s trip to Beijing before departing on Air Force One on Friday.  According to the White Hous",
       "link": "https://thehill.com/homenews/administration/5879679-trump-beijing-security-clash/",
@@ -668,58 +749,13 @@
       "tag": "technology"
     },
     {
-      "title": "Trump said he didn&#039;t ask Xi &#039;for any favors&#039; on Iran",
-      "desc": "President Trump said Friday that he did not ask “for any favors” from Chinese President Xi Jinping on Iran during their summit in Beijing this week. “I’m not asking for any favors because when you ask",
-      "link": "https://thehill.com/homenews/administration/5879659-donald-trump-xi-jinping-china-summit-favors/",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 12:46:21 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump &#039;made no commitment&#039; on Taiwan, arms sales in summit with Xi",
-      "desc": "President Trump told reporters on Air Force One on Friday he “made no commitment” on the issue of Taiwan during his summit with Chinese President Xi Jinping in Beijing this week.  “On Taiwan, he feels",
-      "link": "https://thehill.com/homenews/administration/5879631-trump-xi-taiwan-summit/",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 12:16:07 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Pope decries the rise of AI-directed warfare, saying it leads to a spiral of annihilation",
       "desc": "ROME (AP) — Pope Leo XIV on Thursday denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a “spiral of annihilation,” as he called for peace in the M",
       "link": "https://thehill.com/policy/technology/pope-ai-high-tech-weaponry-spiral-of-annihilation/",
       "date": "May 15, 2026",
       "rawDate": "Fri, 15 May 2026 01:57:17 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "‘This year, I’m graduating too’: Whitmer addresses Forest Hills seniors at commencement",
-      "desc": "After holding elected office since she was 29 years old, Whitmer said she has “no idea what’s next,” during her remarks to graduates of Forest Hills Central High School, her alma mater.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/05/this-year-im-graduating-too-whitmer-addresses-forest-hills-seniors-at-commencement.html",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 01:14:13 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House approves snow day forgiveness plan for schools in 60 counties after spring storms",
-      "desc": "The bill would also provide between four and five extra snow days to schools in any other county covered by a state of emergency declaration during the 2025-26 school year.",
-      "link": "https://www.mlive.com/news/2026/05/house-approves-snow-day-forgiveness-plan-for-schools-in-60-counties-after-spring-storms.html",
-      "date": "May 14, 2026",
-      "rawDate": "Thu, 14 May 2026 23:51:47 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whitmer green-lights removing writing requirement in 11th-grade state testing",
-      "desc": "The bipartisan legislation also removes the requirement to keep results on high school transcripts in each subject.",
-      "link": "https://www.mlive.com/education/2026/05/whitmer-green-lights-removing-writing-requirement-in-11th-grade-state-testing.html",
-      "date": "May 14, 2026",
-      "rawDate": "Thu, 14 May 2026 22:30:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI&#039;s future",
@@ -736,24 +772,6 @@
       "link": "https://thehill.com/regulation/court-battles/5879032-mifepristone-abortion-pills-ruling/",
       "date": "May 14, 2026",
       "rawDate": "Thu, 14 May 2026 21:37:24 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "DOJ says Yale&#039;s medical school discriminated based on race in admissions",
-      "desc": "The Department of Justice (DOJ) accused the Yale School of Medicine of race-based discrimination in its admissions, alleging Thursday that the school favors Black and Hispanic students over white or A",
-      "link": "https://thehill.com/homenews/administration/5878916-doj-yale-medical-school-race-discrimination/",
-      "date": "May 14, 2026",
-      "rawDate": "Thu, 14 May 2026 21:02:07 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "CDC monitoring 41 people for hantavirus, no reported cases",
-      "desc": "Federal health officials said they are monitoring 41 people in the U.S. for hantavirus but are not going to impose any movement restrictions on them. David Fitter, incident manager for the Centers for",
-      "link": "https://thehill.com/policy/healthcare/5878827-cdc-hantavirus-response-monitoring/",
-      "date": "May 14, 2026",
-      "rawDate": "Thu, 14 May 2026 20:14:43 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -799,15 +817,6 @@
       "link": "https://thehill.com/policy/technology/5877192-ai-data-centers-opposition/",
       "date": "May 13, 2026",
       "rawDate": "Wed, 13 May 2026 23:11:12 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Cruz backing KOSA, giving social media legislation a boost",
-      "desc": "Senate Commerce Committee Chair Ted Cruz (R-Texas) is officially throwing his support behind the Kids Online Safety Act (KOSA), giving the social media accountability bill a key post in the upper cham",
-      "link": "https://thehill.com/policy/technology/5875732-cruz-kids-online-safety-act/",
-      "date": "May 13, 2026",
-      "rawDate": "Wed, 13 May 2026 14:17:06 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

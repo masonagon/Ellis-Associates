@@ -1790,26 +1790,28 @@
 
       <!-- GAME PANEL -->
       <div id="game-panel">
-        <div style="position:relative;display:inline-block;">
-          <canvas id="snake-canvas" width="400" height="400" style="border:1px solid rgba(255,255,255,0.1);display:block;background:#0d1b2e;max-width:100%;"></canvas>
-          <div id="game-overlay-msg" style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(10,22,40,0.92);">
-            <div style="font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:#fff;margin-bottom:8px;">Snake</div>
-            <div style="font-size:12px;color:rgba(255,255,255,0.4);margin-bottom:20px;text-align:center;">Arrow keys to move · Swipe on mobile</div>
-            <button onclick="startSnake()" style="font-family:'Barlow',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:12px 28px;background:#5bbcb0;color:#0d1b2e;border:none;cursor:pointer;">Start Game</button>
+        <div style="display:flex;flex-direction:column;align-items:center;gap:8px;">
+          <div style="position:relative;display:inline-block;">
+            <canvas id="snake-canvas" width="300" height="300" style="border:1px solid rgba(255,255,255,0.1);display:block;background:#0d1b2e;width:300px;height:300px;max-width:calc(100vw - 48px);"></canvas>
+            <div id="game-overlay-msg" style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(10,22,40,0.92);">
+              <div style="font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:#fff;margin-bottom:6px;">Snake</div>
+              <div style="font-size:11px;color:rgba(255,255,255,0.4);margin-bottom:16px;text-align:center;">Arrow keys · Swipe · D-pad below</div>
+              <button onclick="startSnake()" style="font-family:'Barlow',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:10px 24px;background:#5bbcb0;color:#0d1b2e;border:none;cursor:pointer;">Start Game</button>
+            </div>
           </div>
-        </div>
-        <div style="display:flex;justify-content:space-between;margin-top:12px;padding:0 2px;">
-          <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Score: <span id="snake-score" style="color:#5bbcb0;font-weight:600;">0</span></div>
-          <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Best: <span id="snake-best" style="color:#5bbcb0;font-weight:600;">0</span></div>
-        </div>
-        <div style="display:flex;flex-direction:column;align-items:center;gap:4px;margin-top:16px;">
-          <button ontouchstart="if(snakeInterval&&dir.y!==1){nextDir={x:0,y:-1};}" onclick="if(snakeInterval&&dir.y!==1){nextDir={x:0,y:-1};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▲</button>
-          <div style="display:flex;gap:4px;">
-            <button ontouchstart="if(snakeInterval&&dir.x!==1){nextDir={x:-1,y:0};}" onclick="if(snakeInterval&&dir.x!==1){nextDir={x:-1,y:0};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">◀</button>
-            <div style="width:52px;height:52px;"></div>
-            <button ontouchstart="if(snakeInterval&&dir.x!==-1){nextDir={x:1,y:0};}" onclick="if(snakeInterval&&dir.x!==-1){nextDir={x:1,y:0};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▶</button>
+          <div style="display:flex;justify-content:space-between;width:300px;max-width:calc(100vw - 48px);padding:0 2px;">
+            <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Score: <span id="snake-score" style="color:#5bbcb0;font-weight:600;">0</span></div>
+            <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Best: <span id="snake-best" style="color:#5bbcb0;font-weight:600;">0</span></div>
           </div>
-          <button ontouchstart="if(snakeInterval&&dir.y!==-1){nextDir={x:0,y:1};}" onclick="if(snakeInterval&&dir.y!==-1){nextDir={x:0,y:1};}" style="font-size:20px;width:52px;height:52px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▼</button>
+          <div style="display:flex;flex-direction:column;align-items:center;gap:3px;margin-top:4px;">
+            <button ontouchstart="if(snakeInterval&&dir.y!==1){nextDir={x:0,y:-1};}" onclick="if(snakeInterval&&dir.y!==1){nextDir={x:0,y:-1};}" style="font-size:16px;width:44px;height:44px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;">▲</button>
+            <div style="display:flex;gap:3px;">
+              <button ontouchstart="if(snakeInterval&&dir.x!==1){nextDir={x:-1,y:0};}" onclick="if(snakeInterval&&dir.x!==1){nextDir={x:-1,y:0};}" style="font-size:16px;width:44px;height:44px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;">◀</button>
+              <div style="width:44px;height:44px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;"><span style="width:6px;height:6px;background:#5bbcb0;border-radius:50%;opacity:0.4;"></span></div>
+              <button ontouchstart="if(snakeInterval&&dir.x!==-1){nextDir={x:1,y:0};}" onclick="if(snakeInterval&&dir.x!==-1){nextDir={x:1,y:0};}" style="font-size:16px;width:44px;height:44px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;">▶</button>
+            </div>
+            <button ontouchstart="if(snakeInterval&&dir.y!==-1){nextDir={x:0,y:1};}" onclick="if(snakeInterval&&dir.y!==-1){nextDir={x:0,y:1};}" style="font-size:16px;width:44px;height:44px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;">▼</button>
+          </div>
         </div>
       </div>
 
@@ -2255,7 +2257,7 @@
     // ── SNAKE GAME ────────────────────────────────────────────────────────────
     let snakeInterval = null;
     let snake = [], dir = {x:1,y:0}, nextDir = {x:1,y:0}, food = {}, score = 0;
-    const GRID = 20, CELL = 20;
+    const GRID = 15, CELL = 20;
     let localBest = parseInt(localStorage.getItem('snake_best') || '0');
 
     function startSnake() {

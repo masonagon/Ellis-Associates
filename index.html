@@ -2310,7 +2310,7 @@
     // ── LEADERBOARD ───────────────────────────────────────────────────────────
     let lastScore = 0;
     function submitScore() {
-      const initials = (document.getElementById('initials-input').value || 'AAA').toUpperCase().substring(0,3).padEnd(3,'A');
+      const initials = (document.getElementById('initials-input').value || '???').toUpperCase().substring(0,3).trim();
       lastScore = parseInt(document.getElementById('final-score').textContent);
       saveScore(initials, lastScore);
     }

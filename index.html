@@ -1802,6 +1802,14 @@
           <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Score: <span id="snake-score" style="color:#5bbcb0;font-weight:600;">0</span></div>
           <div style="font-size:12px;color:rgba(255,255,255,0.35);font-family:'Barlow',sans-serif;">Best: <span id="snake-best" style="color:#5bbcb0;font-weight:600;">0</span></div>
         </div>
+        <div style="display:flex;flex-direction:column;align-items:center;gap:4px;margin-top:12px;">
+          <button ontouchstart="if(snakeInterval){nextDir={x:0,y:-1};}" onclick="if(snakeInterval){nextDir={x:0,y:-1};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▲</button>
+          <div style="display:flex;gap:4px;">
+            <button ontouchstart="if(snakeInterval){nextDir={x:-1,y:0};}" onclick="if(snakeInterval){nextDir={x:-1,y:0};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">◀</button>
+            <button ontouchstart="if(snakeInterval){nextDir={x:0,y:1};}" onclick="if(snakeInterval){nextDir={x:0,y:1};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▼</button>
+            <button ontouchstart="if(snakeInterval){nextDir={x:1,y:0};}" onclick="if(snakeInterval){nextDir={x:1,y:0};}" style="font-size:18px;padding:10px 24px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#fff;cursor:pointer;">▶</button>
+          </div>
+        </div>
       </div>
 
       <!-- INITIALS ENTRY -->
@@ -2301,13 +2309,23 @@
 
     // Swipe support
     let touchStart = null;
-    document.getElementById('snake-canvas') && document.getElementById('snake-canvas').addEventListener('touchstart', e => { touchStart = e.touches[0]; }, {passive:true});
+    document.addEventListener('touchstart', e => {
+      if (e.target.id === 'snake-canvas' || e.target.closest('#game-panel')) {
+        touchStart = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+      }
+    }, {passive:true});
     document.addEventListener('touchend', e => {
       if (!touchStart || !snakeInterval) return;
-      const dx = e.changedTouches[0].clientX - touchStart.clientX;
-      const dy = e.changedTouches[0].clientY - touchStart.clientY;
-      if (Math.abs(dx) > Math.abs(dy)) nextDir = dx > 0 ? {x:1,y:0} : {x:-1,y:0};
-      else nextDir = dy > 0 ? {x:0,y:1} : {x:0,y:-1};
+      const dx = e.changedTouches[0].clientX - touchStart.x;
+      const dy = e.changedTouches[0].clientY - touchStart.y;
+      if (Math.abs(dx) < 10 && Math.abs(dy) < 10) { touchStart = null; return; }
+      if (Math.abs(dx) > Math.abs(dy)) {
+        const d = dx > 0 ? {x:1,y:0} : {x:-1,y:0};
+        if (d.x !== -dir.x) nextDir = d;
+      } else {
+        const d = dy > 0 ? {x:0,y:1} : {x:0,y:-1};
+        if (d.y !== -dir.y) nextDir = d;
+      }
       touchStart = null;
     });
 

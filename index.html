@@ -1847,9 +1847,51 @@
       <li><a href="#industries">Industries</a></li>
       <li><a href="#scott">About</a></li>
       <li><a href="#contact-section">Contact</a></li>
+      <li><a href="#" onclick="openPrivacy(); return false;" style="color:rgba(255,255,255,0.3);">Privacy Policy</a></li>
     </ul>
     <p class="footer-copy">© 2026 Ellis &amp; Associates · Lansing, Michigan</p>
   </footer>
+
+  <!-- PRIVACY POLICY OVERLAY -->
+  <div id="privacy-overlay" style="display:none;position:fixed;inset:0;background:rgba(13,27,46,0.97);z-index:600;overflow-y:auto;">
+    <button onclick="closePrivacy()" style="position:fixed;top:24px;right:32px;background:none;border:none;color:rgba(255,255,255,0.4);font-size:28px;cursor:pointer;z-index:601;line-height:1;">&times;</button>
+    <div style="max-width:760px;margin:0 auto;padding:72px 48px 80px;">
+      <p style="font-size:10px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:#5bbcb0;border-left:2px solid #5bbcb0;padding-left:10px;margin-bottom:16px;">Legal</p>
+      <h2 style="font-family:'Playfair Display',serif;font-size:36px;font-weight:700;color:#fff;margin-bottom:8px;">Privacy Policy</h2>
+      <p style="font-size:13px;color:rgba(255,255,255,0.3);margin-bottom:48px;border-bottom:1px solid rgba(255,255,255,0.08);padding-bottom:32px;">Last updated: May 18, 2026</p>
+
+      <div style="display:flex;flex-direction:column;gap:36px;">
+        <div>
+          <h3 style="font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:12px;">Who We Are</h3>
+          <p style="font-size:15px;font-weight:300;line-height:1.8;color:rgba(255,255,255,0.6);">Ellis &amp; Associates, LLC is a Michigan-based governmental affairs and business development firm. Our website is located at sellisassociates.com.</p>
+        </div>
+        <div>
+          <h3 style="font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:12px;">What Information We Collect</h3>
+          <p style="font-size:15px;font-weight:300;line-height:1.8;color:rgba(255,255,255,0.6);">When you submit our contact form, we collect the following information you voluntarily provide: your name, email address, phone number, organization, job title, and message. We do not collect any information automatically beyond standard web server logs.</p>
+        </div>
+        <div>
+          <h3 style="font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:12px;">How We Use Your Information</h3>
+          <p style="font-size:15px;font-weight:300;line-height:1.8;color:rgba(255,255,255,0.6);">Information submitted through our contact form is used solely to respond to your inquiry. We do not sell, rent, or share your personal information with third parties for marketing purposes.</p>
+        </div>
+        <div>
+          <h3 style="font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:12px;">Third-Party Services</h3>
+          <p style="font-size:15px;font-weight:300;line-height:1.8;color:rgba(255,255,255,0.6);">We use Formspree to process contact form submissions. Formspree may store your submission data on their servers. You can review Formspree's privacy policy at <a href="https://formspree.io/legal/privacy-policy" target="_blank" style="color:#5bbcb0;">formspree.io/legal/privacy-policy</a>.</p>
+        </div>
+        <div>
+          <h3 style="font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:12px;">Data Retention</h3>
+          <p style="font-size:15px;font-weight:300;line-height:1.8;color:rgba(255,255,255,0.6);">We retain contact form submissions for as long as necessary to respond to your inquiry and maintain business records.</p>
+        </div>
+        <div>
+          <h3 style="font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:12px;">Your Rights</h3>
+          <p style="font-size:15px;font-weight:300;line-height:1.8;color:rgba(255,255,255,0.6);">You may request that we delete any personal information you have submitted by contacting us at <a href="mailto:info@sellisassociates.com" style="color:#5bbcb0;">info@sellisassociates.com</a>.</p>
+        </div>
+        <div>
+          <h3 style="font-family:'Playfair Display',serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:12px;">Contact</h3>
+          <p style="font-size:15px;font-weight:300;line-height:1.8;color:rgba(255,255,255,0.6);">For any privacy-related questions, contact us at <a href="mailto:info@sellisassociates.com" style="color:#5bbcb0;">info@sellisassociates.com</a>.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <script>
     // Smooth scroll for anchor links
@@ -2031,7 +2073,7 @@
     }
 
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') { closeFeed(); closeModal(); }
+      if (e.key === 'Escape') { closeFeed(); closeModal(); closePrivacy(); }
     });
 
     // Prefetch The Feed in background after page loads
@@ -2056,6 +2098,15 @@
     }
     function closeFeed() {
       document.getElementById('feed-overlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    function openPrivacy() {
+      document.getElementById('privacy-overlay').style.display = 'block';
+      document.body.style.overflow = 'hidden';
+    }
+    function closePrivacy() {
+      document.getElementById('privacy-overlay').style.display = 'none';
       document.body.style.overflow = '';
     }
 

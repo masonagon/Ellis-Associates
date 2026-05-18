@@ -10,7 +10,30 @@
       history.replaceState(null, '', window.location.pathname);
     }
   </script>
-  <meta name="description" content="Ellis &amp; Associates is a Michigan-based strategic advisory firm specializing in government affairs, business development, and security consulting. Distinction built on decades of service." />
+  <meta name="description" content="Ellis &amp; Associates is a Michigan-based government affairs firm providing legislative strategy, lobbying, and advocacy services. Michigan Government Affairs • Business Development • Security Consulting" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon-apple-touch.png" />
+
+  <!-- Open Graph / Social -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sellisassociates.com/" />
+  <meta property="og:title" content="Ellis &amp; Associates — Michigan Government Affairs &amp; Strategic Advisory" />
+  <meta property="og:description" content="Ellis &amp; Associates is a Michigan-based government affairs firm providing legislative strategy, lobbying, and advocacy services. Michigan Government Affairs • Business Development • Security Consulting" />
+  <meta property="og:image" content="/favicon-512.png" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Ellis &amp; Associates — Michigan Government Affairs &amp; Strategic Advisory" />
+  <meta name="twitter:description" content="Ellis &amp; Associates is a Michigan-based government affairs firm providing legislative strategy, lobbying, and advocacy services. Michigan Government Affairs • Business Development • Security Consulting" />
+  <meta name="twitter:image" content="/favicon-512.png" />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://sellisassociates.com/" />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500;1,700;1,900&family=Barlow:ital,wght@0,300;0,400;0,500;0,600;1,300&family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600&display=swap" rel="stylesheet" />
@@ -263,7 +286,7 @@
       display: flex;
       align-items: center;
       white-space: nowrap;
-      animation: ticker-scroll 60s linear infinite;
+      animation: ticker-scroll 20s linear infinite;
     }
     .ticker-item {
       display: inline-flex;
@@ -277,9 +300,8 @@
       width: auto;
       max-width: 200px;
       object-fit: contain;
-      opacity: 0.85;
+      opacity: 0.9;
       transition: opacity 0.2s;
-      image-rendering: -webkit-optimize-contrast;
     }
     .ticker-item img:hover {
       opacity: 1;
@@ -341,10 +363,8 @@
       font-weight: 700;
       letter-spacing: 0.2em;
       text-transform: uppercase;
-      color: #5bbcb0;
+      color: var(--muted);
       margin-bottom: 14px;
-      border-left: 2px solid #5bbcb0;
-      padding-left: 10px;
     }
     .section-headline {
       font-family: 'Playfair Display', serif;
@@ -499,6 +519,9 @@
     }
     #industries .reveal {
       width: 100%;
+    }
+    #industries .section-kicker {
+      color: var(--muted);
     }
     #industries .section-headline {
       color: var(--navy);
@@ -1432,7 +1455,7 @@
       </div>
       <div class="modal-success" id="modal-success">
         <h3>Message Received.</h3>
-        <p>Thank you for reaching out. Our team will be in touch with you shortly.</p>
+        <p>Thank you for reaching out. Scott Ellis will be in touch with you shortly.</p>
       </div>
     </div>
   </div>
@@ -1477,7 +1500,7 @@
     <div class="intro-left reveal">
       <p class="section-kicker">About Ellis &amp; Associates</p>
       <h2 class="section-headline">We've Spent Decades in the Field.<span class="mobile-break"><br><br></span><span class="desktop-break"><br></span>Now We Work for <em>You.</em></h2>
-      <p class="intro-body">Ellis &amp; Associates is not just an advisory firm. We are a governmental affairs and business development engine built on something most consulting firms can't claim: real-world experience inside the agencies, missions, and systems we now help clients navigate. With over 75 years of combined experience across law enforcement, corrections, emergency management, and technology integration, our team understands how government agencies fund priorities, run procurement, and make adoption decisions. We drive growth, access, and real outcomes across the public sector market. We don't over-promise. We tell you what's possible, map the path to get there, and do the work.</p>
+      <p class="intro-body">Ellis &amp; Associates is a Michigan-based strategic advisory firm built on something most consulting firms can't claim: real-world experience inside the agencies, missions, and systems we now help clients navigate. With over 75 years of combined experience across law enforcement, corrections, emergency management, and technology integration, our team understands how government agencies fund priorities, run procurement, and make adoption decisions. We don't over-promise. We tell you what's possible, map the path to get there, and do the work.</p>
       <button onclick="openModal()" class="btn-navy">
         Schedule a Consultation
         <svg class="btn-arrow" viewBox="0 0 13 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1583,7 +1606,7 @@
             <path d="M8 21h8M12 17v4"/>
           </svg>
         </span>
-        <h3 class="ind-title">B2G Technology</h3>
+        <h3 class="ind-title">Technology</h3>
         <p class="ind-body">You have a product that government agencies need, but breaking into the public sector is a different game than the commercial market. Procurement cycles are long, decision-making is layered, and relationships matter as much as specs. We help you position for contracts, secure endorsements, and build the credibility that moves government buyers.</p>
       </div>
       <div class="ind-card reveal">
@@ -1673,7 +1696,7 @@
   <div id="ticker">
     <div class="ticker-label">Our Clients</div>
     <div class="ticker-track">
-<div class="ticker-inner">
+      <div class="ticker-inner">
         <div class="ticker-item"><img src="assets/logos/airspacelink.png" alt="Airspace Link" /></div>
         <div class="ticker-item"><img src="assets/logos/amerimind.png" alt="Amerimind" /></div>
         <div class="ticker-item"><img src="assets/logos/BusPatrol-Logo.png" alt="BusPatrol" /></div>
@@ -1708,12 +1731,19 @@
       <p class="cta-sub">Reach out to our team to discuss your organization's goals and the path forward.</p>
     </div>
     <div class="cta-right reveal">
-      <button onclick="openModal()" class="btn-navy">
-        Connect With Us
-        <svg class="btn-arrow" viewBox="0 0 13 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M2 6.5h9M7 2l4.5 4.5L7 11"/>
+      <a href="tel:5177194834" class="btn-navy">
+        <svg style="width:14px;height:14px;flex-shrink:0" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 2.5C2 2 2.5 1 4 1s2 1 2.5 2.5c.4 1.2-.5 2-1 2.5.8 1.4 2.5 3.2 4 4 .5-.5 1.3-1.4 2.5-1 1.5.5 2.5 1 2.5 2.5s-1 2-1.5 2C4 15 1 8 1 4.5 1 3 1.5 2.5 2 2.5z"/>
         </svg>
-      </button>
+        Call (517) 719-4834
+      </a>
+      <div class="contact-line">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="1" y="3" width="14" height="10" rx="1.5"/>
+          <path d="M1 4l7 5 7-5"/>
+        </svg>
+        sellisassociates@gmail.com
+      </div>
     </div>
   </section>
 
@@ -1940,38 +1970,81 @@
     const feedCache = new Map();
     const CACHE_TTL = 30 * 60 * 1000;
 
-    // ── THE FEED: reads from GitHub-hosted feed.json ─────────────────────────
-    const FEED_JSON_URL = 'https://raw.githubusercontent.com/masonagon/Ellis-Associates/main/data/feed.json';
-    let feedData = null;
+    async function fetchWithProxies(url) {
+      // Check cache first
+      const cached = feedCache.get(url);
+      if (cached && Date.now() - cached.time < CACHE_TTL) return cached.text;
 
-    async function loadFeedData() {
-      if (feedData) return feedData;
-      try {
-        const res = await fetch(FEED_JSON_URL + '?t=' + Date.now());
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        feedData = await res.json();
-        return feedData;
-      } catch(e) {
-        console.error('Feed load error:', e);
-        return null;
+      const encoded = encodeURIComponent(url);
+      const proxies = [
+        url, // try direct first
+        `https://api.allorigins.win/raw?url=${encoded}`,
+        `https://proxy.cors.sh/${url}`,
+        `https://corsproxy.io/?${encoded}`,
+        `https://api.codetabs.com/v1/proxy?quest=${encoded}`
+      ];
+
+      for (const proxy of proxies) {
+        try {
+          const res = await fetch(proxy, {
+            signal: AbortSignal.timeout(5000),
+            headers: proxy.includes('cors.sh') ? { 'x-cors-api-key': 'temp_public' } : {}
+          });
+          if (!res.ok) continue;
+          let text = await res.text();
+          try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
+          if (text.includes('<item>') || text.includes('<entry>')) {
+            feedCache.set(url, { text, time: Date.now() });
+            return text;
+          }
+        } catch(e) { continue; }
       }
+      return null;
     }
 
     async function fetchNewsSource(source) {
-      return [];
+      const text = await fetchWithProxies(source.url);
+      if (!text) return [];
+      try {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, 'text/xml');
+        const items = xml.querySelectorAll('item, entry');
+        if (!items.length) return [];
+        return Array.from(items).slice(0, 8).map(item => {
+          const title = item.querySelector('title')?.textContent?.trim() || '';
+          const desc = (item.querySelector('description,summary,content')?.textContent || '').replace(/<[^>]+>/g,'').trim().substring(0, 150) + '...';
+          const linkEl = item.querySelector('link');
+          const link = linkEl?.textContent?.trim() || linkEl?.getAttribute('href') || '#';
+          const date = item.querySelector('pubDate,published,updated')?.textContent || '';
+          return { title, desc, link, date: formatDate(date), rawDate: date, source: source.name, tag: source.tag };
+        }).filter(a => a.title.length > 5 && isRecent(a.rawDate));
+      } catch(e) { return []; }
     }
 
     async function loadNews() {
       const container = document.getElementById('feed-news-container');
-      const data = await loadFeedData();
-      if (!data || !data.news || !data.news.length) {
-        container.innerHTML = '<div class="feed-error">Unable to load news at this time.<br>Please check back later.</div>';
-        return;
+      try {
+        const results = await Promise.all(NEWS_SOURCES.map(s => fetchNewsSource(s)));
+        const raw = results.flat();
+        // Deduplicate by title similarity
+        const seen = new Set();
+        allNews = raw.filter(a => {
+          const key = a.title.toLowerCase().replace(/[^a-z0-9]/g,'').substring(0, 40);
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        });
+        allNews.sort((a, b) => new Date(b.rawDate) - new Date(a.rawDate));
+        if (!allNews.length) {
+          container.innerHTML = '<div class="feed-error">Unable to load news at this time.<br>This may be caused by an ad blocker — try disabling it and refreshing.<br><br>Or visit <a href="https://bridgemi.com" target="_blank" style="color:#5bbcb0">Bridge Michigan</a> and <a href="https://michiganadvance.com" target="_blank" style="color:#5bbcb0">Michigan Advance</a> directly.</div>';
+          return;
+        }
+        renderNews(allNews);
+        const now = new Date();
+        document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+      } catch(err) {
+        container.innerHTML = '<div class="feed-error">Unable to load news at this time.</div>';
       }
-      allNews = data.news;
-      renderNews(allNews);
-      const generated = new Date(data.generated);
-      document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
     }
 
     function switchTab(tab) {
@@ -2087,22 +2160,83 @@
 
     async function loadFeed() {
       const container = document.getElementById('feed-bills-container');
-      const data = await loadFeedData();
-      if (!data || !data.bills) {
-        container.innerHTML = '<div class="feed-error">Unable to load bill feed.<br>Visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+      
+      // Try multiple URL formats - http and https
+      const rssUrls = [
+        'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml',
+        'http://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml'
+      ];
+
+      let xmlText = null;
+
+      for (const rssUrl of rssUrls) {
+        const encoded = encodeURIComponent(rssUrl);
+        const proxies = [
+          `https://api.allorigins.win/raw?url=${encoded}`,
+          `https://api.allorigins.win/get?url=${encoded}`,
+          `https://corsproxy.io/?${encoded}`,
+          `https://api.codetabs.com/v1/proxy?quest=${encoded}`
+        ];
+
+        for (const proxy of proxies) {
+          try {
+            const res = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
+            if (!res.ok) continue;
+            let text = await res.text();
+            try { const j = JSON.parse(text); if (j.contents) text = j.contents; } catch(e) {}
+            if (text.includes('<item>') || text.includes('<rss')) {
+              xmlText = text;
+              break;
+            }
+          } catch(e) { continue; }
+        }
+        if (xmlText) break;
+      }
+
+      if (!xmlText) {
+        container.innerHTML = '<div class="feed-error">Unable to load live feed at this time.<br>This may be caused by an ad blocker — try disabling it.<br><br>Or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
         document.getElementById('feed-session-status').textContent = 'Feed Unavailable';
         return;
       }
-      allBills = data.bills;
-      if (!allBills.length) {
-        container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
-        document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
-        return;
+
+      try {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(xmlText, 'text/xml');
+        const items = xml.querySelectorAll('item');
+
+        allBills = Array.from(items).map(item => {
+          const title = item.querySelector('title')?.textContent || '';
+          const desc = item.querySelector('description')?.textContent || '';
+          const link = item.querySelector('link')?.textContent || '#';
+          const date = item.querySelector('pubDate')?.textContent || '';
+          const numMatch = title.match(/\b([HS]B\s?\d+|[HS]JR\s?\d+)/i);
+          const yearMatch = title.match(/\bof\s+(20\d\d)\b/i);
+          return {
+            num: numMatch ? numMatch[0].replace(/\s/g,'').toUpperCase() : 'MI',
+            year: yearMatch ? yearMatch[1] : '',
+            title: title.replace(/^[HS]B\s?\d+[:\-\s]*/i, '').replace(/\bof\s+20\d\d\b/i, '').trim() || title,
+            desc: desc.replace(/<[^>]+>/g,'').trim().substring(0, 160) + '...',
+            link,
+            date: formatDate(date),
+            tag: tagBill(title, desc)
+          };
+        });
+
+        if (!allBills.length) {
+          container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+          document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
+          return;
+        }
+
+        renderBills(allBills);
+
+        const now = new Date();
+        document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${now.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${now.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
+        document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
+
+      } catch(err) {
+        container.innerHTML = '<div class="feed-error">Unable to parse feed data.<br>Please visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
       }
-      renderBills(allBills);
-      const generated = new Date(data.generated);
-      document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
-      document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
     }
 
     document.addEventListener('keydown', (e) => {
@@ -2139,39 +2273,16 @@
     function handleOverlayClick(e) {
       if (e.target === document.getElementById('modal-overlay')) closeModal();
     }
-    async function submitForm() {
+    function submitForm() {
       const fname = document.getElementById('fname').value.trim();
       const lname = document.getElementById('lname').value.trim();
       const email = document.getElementById('email').value.trim();
-      const phone = document.getElementById('phone').value.trim();
-      const org = document.getElementById('org').value.trim();
-      const role = document.getElementById('role').value.trim();
-      const sector = document.getElementById('sector').value;
-      const message = document.getElementById('message').value.trim();
-      const source = document.getElementById('source').value;
-      const services = Array.from(document.querySelectorAll('.modal-checkboxes input:checked')).map(c => c.value).join(', ');
       if (!fname || !lname || !email) {
         alert('Please fill in your first name, last name, and email address.');
         return;
       }
-      const btn = document.querySelector('.modal-submit');
-      btn.textContent = 'Sending...';
-      btn.disabled = true;
-      try {
-        const res = await fetch('https://formspree.io/f/mwvzkdwq', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-          body: JSON.stringify({ name: fname + ' ' + lname, email, phone, organization: org, role, sector, services, message, source, _subject: 'New Inquiry from ' + fname + ' ' + lname + ' — Ellis & Associates' })
-        });
-        if (res.ok) {
-          document.getElementById('modal-form-body').style.display = 'none';
-          document.getElementById('modal-success').style.display = 'block';
-        } else { throw new Error('Server error'); }
-      } catch(e) {
-        btn.textContent = 'Send Message →';
-        btn.disabled = false;
-        alert('Something went wrong. Please try again or email us directly at sellis0084@gmail.com');
-      }
+      document.getElementById('modal-form-body').style.display = 'none';
+      document.getElementById('modal-success').style.display = 'block';
     }
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') closeModal();

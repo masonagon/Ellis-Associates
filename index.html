@@ -195,27 +195,28 @@
       color: var(--white);
       max-width: 760px;
       margin-bottom: 32px;
+      min-height: 1.04em;
     }
     .hero-headline em {
       font-style: italic;
       color: var(--white);
     }
-    .word {
+    .type-cursor {
       display: inline-block;
-      opacity: 0;
-      transform: translateX(-20px);
-      animation: fadeLeft 0.6s ease forwards;
+      width: 4px;
+      height: 0.8em;
+      background: #5bbcb0;
+      margin-left: 3px;
+      vertical-align: middle;
+      animation: blink 0.7s infinite;
     }
-    @keyframes fadeLeft {
-      to { opacity: 1; transform: translateX(0); }
-    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
     .hero-actions {
       display: flex;
       align-items: center;
       gap: 16px;
       opacity: 0;
-      transform: translateY(10px);
-      animation: fadeUp 0.8s ease 0.9s forwards;
+      transition: opacity 0.8s ease;
     }
     .btn-primary {
       display: inline-flex;
@@ -1504,14 +1505,7 @@
     </video>
     <div class="hero-overlay"></div>
     <div class="hero-content">
-      <h1 class="hero-headline">
-        <span class="word" style="animation-delay:0.5s">Distinction</span>
-        <span class="word" style="animation-delay:0.65s">Built</span>
-        <span class="word" style="animation-delay:0.8s">on</span><br>
-        <span class="word" style="animation-delay:0.95s">Decades</span>
-        <span class="word" style="animation-delay:1.1s">of</span>
-        <span class="word" style="animation-delay:1.25s"><em>Service.</em></span>
-      </h1>
+      <h1 class="hero-headline" id="hero-headline"><span class="type-cursor"></span></h1>
       <p class="hero-eyebrow">Michigan Government Affairs &nbsp;•&nbsp; Business Development &nbsp;•&nbsp; Security Consulting</p>
       <div class="hero-actions">
         <button onclick="openModal()" class="btn-primary">
@@ -2120,6 +2114,47 @@
       document.getElementById('privacy-overlay').style.display = 'none';
       document.body.style.overflow = '';
     }
+
+    // TYPEWRITER
+    (function() {
+      const plain = 'Distinction Built on\nDecades of Service.';
+      const italicStart = plain.indexOf('Service.');
+      let pos = 0;
+      let timer;
+
+      function buildHTML(text) {
+        const nl = text.indexOf('\n');
+        if (nl === -1) return text;
+        const line1 = text.substring(0, nl);
+        const line2 = text.substring(nl + 1);
+        if (line2.length <= italicStart - (nl + 1)) {
+          return line1 + '<br>' + line2;
+        }
+        const before = line2.substring(0, italicStart - (nl + 1));
+        const italic = line2.substring(italicStart - (nl + 1));
+        return line1 + '<br>' + before + '<em>' + italic + '</em>';
+      }
+
+      function type() {
+        const el = document.getElementById('hero-headline');
+        if (!el) return;
+        if (pos <= plain.length) {
+          el.innerHTML = buildHTML(plain.substring(0, pos)) + '<span class="type-cursor"></span>';
+          const ch = plain[pos];
+          const delay = ch === '\n' ? 350 : ch === '.' ? 160 : ch === ' ' ? 55 : 42;
+          pos++;
+          timer = setTimeout(type, delay);
+        } else {
+          el.innerHTML = buildHTML(plain);
+          const actions = document.querySelector('.hero-actions');
+          if (actions) actions.style.opacity = '1';
+        }
+      }
+
+      window.addEventListener('load', function() {
+        setTimeout(type, 800);
+      });
+    })();
 
     function toggleMobileNav() {
       const menu = document.getElementById('mobile-nav');

@@ -2020,6 +2020,27 @@
       document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
     }
 
+    function switchTab(tab) {
+      document.getElementById('tab-news').classList.toggle('active', tab === 'news');
+      document.getElementById('tab-bills').classList.toggle('active', tab === 'bills');
+      document.getElementById('feed-news-panel').style.display = tab === 'news' ? 'block' : 'none';
+      document.getElementById('feed-bills-panel').style.display = tab === 'bills' ? 'block' : 'none';
+      if (tab === 'bills' && !feedLoaded) { feedLoaded = true; loadFeed(); }
+      if (tab === 'news' && !newsLoaded) { newsLoaded = true; loadNews(); }
+    }
+
+    let feedLoaded = false;
+    let newsLoaded = false;
+    function openFeed() {
+      document.getElementById('feed-overlay').classList.add('open');
+      document.body.style.overflow = 'hidden';
+      if (!newsLoaded) { newsLoaded = true; loadNews(); }
+    }
+    function closeFeed() {
+      document.getElementById('feed-overlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') { closeFeed(); closeModal(); }
     });

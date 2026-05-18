@@ -2318,28 +2318,32 @@
 
     async function saveScore(initials, score) {
       try {
-        const res = await fetch(JSONBIN_URL + '/latest', { headers: { 'X-Master-Key': JSONBIN_KEY } });
+        const res = await fetch(JSONBIN_URL + '/latest', {
+          headers: { 'X-Master-Key': JSONBIN_KEY, 'X-Bin-Meta': 'false' }
+        });
         const data = await res.json();
-        const scores = data.record.scores || [];
+        const scores = (data.scores || []);
         scores.push({ initials, score, date: new Date().toLocaleDateString('en-US',{month:'short',day:'numeric'}) });
         scores.sort((a,b) => b.score - a.score);
         const top = scores.slice(0, 20);
         await fetch(JSONBIN_URL, {
           method: 'PUT',
-          headers: { 'Content-Type': 'application/json', 'X-Master-Key': JSONBIN_KEY },
+          headers: { 'Content-Type': 'application/json', 'X-Master-Key': JSONBIN_KEY, 'X-Bin-Versioning': 'false' },
           body: JSON.stringify({ scores: top })
         });
         showLeaderboard();
-      } catch(e) { showLeaderboard(); }
+      } catch(e) { console.error(e); showLeaderboard(); }
     }
 
     async function loadLeaderboard() {
       const el = document.getElementById('scores-list');
       el.innerHTML = '<div style="font-size:13px;color:rgba(255,255,255,0.3);font-family:Barlow,sans-serif;">Loading...</div>';
       try {
-        const res = await fetch(JSONBIN_URL + '/latest', { headers: { 'X-Master-Key': JSONBIN_KEY } });
+        const res = await fetch(JSONBIN_URL + '/latest', {
+          headers: { 'X-Master-Key': JSONBIN_KEY, 'X-Bin-Meta': 'false' }
+        });
         const data = await res.json();
-        const scores = data.record.scores || [];
+        const scores = data.scores || [];
         if (!scores.length) { el.innerHTML = '<div style="font-size:13px;color:rgba(255,255,255,0.3);font-family:Barlow,sans-serif;">No scores yet. Be the first!</div>'; return; }
         el.innerHTML = scores.map((s,i) => `
           <div style="display:grid;grid-template-columns:32px 60px 1fr auto;gap:12px;align-items:center;padding:12px 0;border-bottom:1px solid rgba(255,255,255,0.06);">
@@ -2348,7 +2352,7 @@
             <span style="font-size:12px;color:rgba(255,255,255,0.25);font-family:Barlow,sans-serif;">${s.date||''}</span>
             <span style="font-size:18px;font-weight:700;color:${i===0?'#5bbcb0':'rgba(255,255,255,0.7)'};font-family:Barlow,sans-serif;">${s.score}</span>
           </div>`).join('');
-      } catch(e) { el.innerHTML = '<div style="font-size:13px;color:rgba(255,255,255,0.3);font-family:Barlow,sans-serif;">Unable to load scores.</div>'; }
+      } catch(e) { console.error(e); el.innerHTML = '<div style="font-size:13px;color:rgba(255,255,255,0.3);font-family:Barlow,sans-serif;">Unable to load scores.</div>'; }
     }
 
     function toggleMobileNav() {

@@ -2052,16 +2052,39 @@
     function handleOverlayClick(e) {
       if (e.target === document.getElementById('modal-overlay')) closeModal();
     }
-    function submitForm() {
+    async function submitForm() {
       const fname = document.getElementById('fname').value.trim();
       const lname = document.getElementById('lname').value.trim();
       const email = document.getElementById('email').value.trim();
+      const phone = document.getElementById('phone').value.trim();
+      const org = document.getElementById('org').value.trim();
+      const role = document.getElementById('role').value.trim();
+      const sector = document.getElementById('sector').value;
+      const message = document.getElementById('message').value.trim();
+      const source = document.getElementById('source').value;
+      const services = Array.from(document.querySelectorAll('.modal-checkboxes input:checked')).map(c => c.value).join(', ');
       if (!fname || !lname || !email) {
         alert('Please fill in your first name, last name, and email address.');
         return;
       }
-      document.getElementById('modal-form-body').style.display = 'none';
-      document.getElementById('modal-success').style.display = 'block';
+      const btn = document.querySelector('.modal-submit');
+      btn.textContent = 'Sending...';
+      btn.disabled = true;
+      try {
+        const res = await fetch('https://formspree.io/f/mwvzkdwq', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({ name: fname + ' ' + lname, email, phone, organization: org, role, sector, services, message, source, _subject: 'New Inquiry from ' + fname + ' ' + lname + ' — Ellis & Associates' })
+        });
+        if (res.ok) {
+          document.getElementById('modal-form-body').style.display = 'none';
+          document.getElementById('modal-success').style.display = 'block';
+        } else { throw new Error('Server error'); }
+      } catch(e) {
+        btn.textContent = 'Send Message →';
+        btn.disabled = false;
+        alert('Something went wrong. Please try again or email us directly at sellis0084@gmail.com');
+      }
     }
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') closeModal();

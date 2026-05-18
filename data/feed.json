@@ -1,6 +1,60 @@
 {
-  "generated": "2026-05-18T21:04:26.650Z",
+  "generated": "2026-05-18T22:52:23.020Z",
   "news": [
+    {
+      "title": "Trump-backed prayer rally roils debate on church and state",
+      "desc": "A massive religious gathering on the National Mall backed by the White House is sparking backlash from critics who say it blurs the lines between church and state. The unprecedented appearance of gove",
+      "link": "https://thehill.com/homenews/5884057-rededicate-250-prayer-rally/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 22:30:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Motorcyclist dies after rear ending vehicle in Genesee County, police say",
+      "desc": "A motorcyclist died Sunday evening after hitting the back of a vehicle in Vienna Township, police said.",
+      "link": "https://www.mlive.com/news/flint/2026/05/motorcyclist-dies-after-rear-ending-vehicle-in-genesee-county-police-say.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 22:29:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jury says Elon Musk was too late in case against Sam Altman",
+      "desc": "{beacon} Technology   The Big Story  Jury says Elon Musk was too late in case against Sam Altman A California federal jury unanimously rejected Elon Musk’s claims against OpenAI and its co-founder Sam",
+      "link": "https://thehill.com/newsletters/technology/5884015-elon-musk-sam-altman-openai-case/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 21:53:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "University of Michigan regents to vote on $210M building expansion project",
+      "desc": "The University of Michigan project will renovate 73,000 square feet and add 90,000 square feet to the 1928 Ann Arbor building, with the cost rising $20 million due to market escalation factors.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-regents-to-vote-on-210m-building-expansion-project.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 21:52:48 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "University of Michigan plans new $29M men’s gymnastics training center",
+      "desc": "The state-of-the-art center will serve the reigning NCAA champions and will permanently displace 70 parking spaces near the Bahna Wrestling Center.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-plans-new-29m-mens-gymnastics-training-center.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 21:45:31 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "HHS withdraws amended vaccine advisory panel charter",
+      "desc": "The Department of Health and Human Services (HHS) on Monday withdrew its amended charter for a highly influential vaccine advisory committee that would have loosened eligibility requirements, citing a",
+      "link": "https://thehill.com/policy/healthcare/5883776-acip-charter-amendment-error/",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 21:14:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Fetterman says he&#039;s &#039;pretty much locked and loaded&#039; in support of Iran war",
       "desc": "Sen. John Fetterman (D-Pa.) said in a recent interview that he is “pretty much locked and loaded” in his support of the U.S. war against Iran. “Something like this is much more important than just vot",
@@ -70,8 +124,8 @@
       "link": "https://thehill.com/homenews/5883096-senate-bill-ban-gambling-ads-minors/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 20:23:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "NYT files new lawsuit over Pentagon press restrictions",
@@ -79,26 +133,8 @@
       "link": "https://thehill.com/policy/defense/5883729-new-york-times-sues-pentagon/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 19:54:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Vance swings through newly-redrawn Missouri district in GOP’s favor",
-      "desc": "KANSAS CITY, Mo. — Vice President Vance hit the campaign trail in a newly drawn, GOP-friendly congressional district on Monday which has a high chance to hand Republicans an additional House seat in N",
-      "link": "https://thehill.com/homenews/administration/5883728-vance-campaigns-missouri-redistricting/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 19:47:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats: DOJ&#039;s $1.776B ‘anti-weaponization’ fund &#039;raises the specter of corruption unparalleled&#039;",
-      "desc": "Numerous Democratic lawmakers are criticizing the Department of Justice’s (DOJ) new “anti-weaponization” fund, with a group of House Democrats even filing suit to block its creation.  Earlier Monday, ",
-      "link": "https://thehill.com/regulation/court-battles/5883590-democrats-criticize-doj-anti-weaponization-fund/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 19:45:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Republican wants feds to investigate Whitmer after appointee charged with embezzlement",
@@ -138,7 +174,7 @@
     },
     {
       "title": "Trump proposes partial rollback of ‘forever chemical’ drinking water protections",
-      "desc": "The Trump administration on Monday moved to partially roll back drinking water protections from toxic “forever chemicals.” The Environmental Protection Agency (EPA) proposed to allow some delays for w",
+      "desc": "The Trump administration on Monday moved to partially roll back drinking water protections from toxic “forever chemicals.” The Environmental Protection Agency (EPA) proposed to allow some delays for w",
       "link": "https://thehill.com/policy/energy-environment/5883481-forever-chemicals-pfas-epa/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 19:00:00 +0000",
@@ -196,8 +232,8 @@
       "link": "https://thehill.com/policy/technology/5883496-openai-altman-musk-verdict/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 17:59:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "US bans foreign travelers from Ebola-impacted nations",
@@ -524,15 +560,6 @@
       "tag": "safety"
     },
     {
-      "title": "Police: Spike strips stop wrong-way driver on I-69",
-      "desc": "The vehicle deflated three tires after striking the spike strips, ending a dangerous situation that prompted calls from multiple motorists, police said.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/police-spike-strips-stop-wrong-way-driver-on-i-69.html",
-      "date": "May 17, 2026",
-      "rawDate": "Sun, 17 May 2026 16:39:08 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Midland’s graduating seniors will celebrate at the baseball stadium this year, and you can watch from home",
       "desc": "Midland High and H.H. Dow High graduations will stream live May 28 from Dow Diamond on multiple platforms, with recordings available on demand.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/midlands-graduating-seniors-will-celebrate-at-the-baseball-stadium-this-year-and-you-can-watch-from-home.html",
@@ -660,7 +687,7 @@
     },
     {
       "title": "First human GLP-1 gene therapy trial gets green light",
-      "desc": "“GLP-1 medicines have changed what is possible in obesity and Type 2 diabetes,\" Dr. Harith Rajagopalan said.",
+      "desc": "��GLP-1 medicines have changed what is possible in obesity and Type 2 diabetes,\" Dr. Harith Rajagopalan said.",
       "link": "https://thehill.com/policy/healthcare/5880938-first-human-glp-1-gene-therapy-trial/",
       "date": "May 16, 2026",
       "rawDate": "Sat, 16 May 2026 12:41:26 +0000",
@@ -711,33 +738,6 @@
       "rawDate": "Fri, 15 May 2026 19:43:13 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Trump administration sued by veterans group over VA abortion ban",
-      "desc": "A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA).  The Minority Veterans of America said it brought t",
-      "link": "https://thehill.com/policy/healthcare/5880300-veterans-sue-trump-abortion-ban/",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 18:13:09 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "School seeking grants, donations to pay for much needed repairs after bond vote fails twice",
-      "desc": "Residents in the school district voted 423 to 376 to reject a 25-year, $9.2 million bond proposal on Tuesday, May 5, that would have allowed the district to borrow money for roofs and other building i",
-      "link": "https://www.mlive.com/news/jackson/2026/05/school-seeking-grants-donations-to-pay-for-much-needed-repairs-after-bond-vote-fails-twice.html",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 16:36:40 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan raises $660M since last June in historic donation campaign",
-      "desc": "More than 260,000 donors have donated a total of $4.68 billion to the university’s Look to Michigan fundraising campaign.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-raises-660m-since-last-june-in-historic-donation-campaign.html",
-      "date": "May 15, 2026",
-      "rawDate": "Fri, 15 May 2026 16:35:34 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Trump says he discussed AI guardrails with Xi",

@@ -123,14 +123,23 @@
 
     const canvas = document.getElementById('canvas');
     const ctx = canvas.getContext('2d');
-    let W, H;
+    let W, H, DPR;
 
     function resize() {
-      W = canvas.width  = window.innerWidth;
-      H = canvas.height = window.innerHeight;
+      DPR = window.devicePixelRatio || 1;
+      W = window.innerWidth;
+      H = window.innerHeight;
+      canvas.width  = W * DPR;
+      canvas.height = H * DPR;
+      canvas.style.width  = W + 'px';
+      canvas.style.height = H + 'px';
+      ctx.scale(DPR, DPR);
     }
     resize();
-    window.addEventListener('resize', () => { resize(); if (state==='start') drawStatic(); });
+    window.addEventListener('resize', () => {
+      resize();
+      if (state==='start') drawStatic();
+    });
 
     // Assets
     const imgs = {};
@@ -267,31 +276,31 @@
     function drawBackground() {
       const bg = imgs.bg;
       const skyH = H - GH;
-
+      ctx.fillStyle = '#87CEEB';
+      ctx.fillRect(0, 0, W, skyH);
       if (bg && bg.complete && bg.naturalWidth) {
-        // Cover-fit by HEIGHT — scales to fill full height, crops sides
-        const scale = skyH / bg.naturalHeight;
-        const drawW = bg.naturalWidth * scale;
-        const drawX = (W - drawW) / 2; // center horizontally
-        ctx.drawImage(bg, drawX, 0, drawW, skyH);
-        // Fill any side gaps with sky blue
-        if (drawX > 0) {
-          ctx.fillStyle = '#87CEEB';
-          ctx.fillRect(0, 0, drawX, skyH);
-          ctx.fillRect(drawX + drawW, 0, W - (drawX + drawW), skyH);
-        }
-      } else {
-        ctx.fillStyle = '#87CEEB'; ctx.fillRect(0, 0, W, skyH);
+        // Cover — scale to whichever gives full coverage
+        const scaleW = W / bg.naturalWidth;
+        const scaleH = skyH / bg.naturalHeight;
+        const scale  = Math.max(scaleW, scaleH);
+        const drawW  = bg.naturalWidth  * scale;
+        const drawH  = bg.naturalHeight * scale;
+        const drawX  = (W - drawW) / 2;
+        const drawY  = (skyH - drawH) / 2;
+        ctx.drawImage(bg, drawX, drawY, drawW, drawH);
       }
     }
 
     function drawGround() {
       const gnd = imgs.ground;
       const gY = H - GH;
+      ctx.fillStyle = '#5a8a3c';
+      ctx.fillRect(0, gY, W, GH);
       if (gnd && gnd.complete && gnd.naturalWidth) {
-        ctx.drawImage(gnd, 0, gY, W, GH);
-      } else {
-        ctx.fillStyle = '#5a8a3c'; ctx.fillRect(0, gY, W, GH);
+        const gW = GH * (gnd.naturalWidth / gnd.naturalHeight);
+        for (let gx = 0; gx < W; gx += gW) {
+          ctx.drawImage(gnd, gx, gY, Math.min(gW, W - gx), GH);
+        }
       }
     }
 

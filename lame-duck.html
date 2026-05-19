@@ -203,7 +203,7 @@
     // ── GAME LOOP ─────────────────────────────────────────────────────────────
     function reset() {
       dx = W * 0.22; dy = H * 0.45; dvy = 0; dangle = 0;
-      pipes = []; nextIn = W + 80; score = 0; deadTimer = 0;
+      pipes = []; nextIn = W * 0.5; score = 0; deadTimer = 0;
       document.getElementById('mast-score').textContent = '0';
     }
 
@@ -308,28 +308,21 @@
 
     function drawPipes() {
       const bill = imgs.bill;
-      const PIPE_BASE = '#e8e2d0';
 
       for (const p of pipes) {
         const botY = p.topH + PGAP;
         const topH = p.topH;
         const botH = H - botY;
 
-        // Bottom pipe
-        ctx.fillStyle = PIPE_BASE;
-        ctx.fillRect(p.x, botY, PW, botH);
         if (bill && bill.complete && bill.naturalWidth) {
           const bh = Math.round(PW * bill.naturalHeight / bill.naturalWidth);
+
+          // Bottom pipe — tile from gap down
           for (let y = botY; y < H; y += bh) {
             ctx.drawImage(bill, p.x, y, PW, Math.min(bh, H - y));
           }
-        }
 
-        // Top pipe — tile from gap upward
-        ctx.fillStyle = PIPE_BASE;
-        ctx.fillRect(p.x, 0, PW, topH);
-        if (bill && bill.complete && bill.naturalWidth) {
-          const bh = Math.round(PW * bill.naturalHeight / bill.naturalWidth);
+          // Top pipe — tile from gap up
           for (let y = topH - bh; y > -bh; y -= bh) {
             const dstY  = Math.max(0, y);
             const drawH = Math.min(bh, topH - dstY);
@@ -339,14 +332,12 @@
               0, srcFrac * bill.naturalHeight, bill.naturalWidth, (drawH / bh) * bill.naturalHeight,
               p.x, dstY, PW, drawH);
           }
+        } else {
+          // Fallback solid rects
+          ctx.fillStyle = '#c8c090';
+          ctx.fillRect(p.x, 0, PW, topH);
+          ctx.fillRect(p.x, botY, PW, botH);
         }
-
-        // Edge shadows for depth
-        ctx.fillStyle = 'rgba(0,0,0,0.08)';
-        ctx.fillRect(p.x, 0, 4, topH);
-        ctx.fillRect(p.x + PW - 4, 0, 4, topH);
-        ctx.fillRect(p.x, botY, 4, botH);
-        ctx.fillRect(p.x + PW - 4, botY, 4, botH);
       }
     }
 

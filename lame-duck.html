@@ -160,7 +160,7 @@
 
     // ── CONSTANTS ─────────────────────────────────────────────────────────────
     const MASTHEAD_H = 52;
-    const GH         = 60;   // ground strip height
+    const GH = 0;   // no ground strip — background fills full screen
     const DW         = 60;   // duck width
     const DH         = 44;   // duck height
     const PW         = 64;   // pipe width
@@ -253,7 +253,7 @@
       const PAD = 10;
       const L = dx - DW/2 + PAD, R = dx + DW/2 - PAD;
       const T = dy - DH/2 + PAD, B = dy + DH/2 - PAD;
-      if (B >= H - GH || T <= MASTHEAD_H) { die(); return; }
+      if (B >= H - 20 || T <= MASTHEAD_H) { die(); return; }
       for (const p of pipes) {
         if (R <= p.x + 3 || L >= p.x + PW - 3) continue;
         if (T < p.topH || B > p.topH + PGAP) { die(); return; }
@@ -276,16 +276,14 @@
     // ── DRAW ──────────────────────────────────────────────────────────────────
     function drawBackground() {
       const bg = imgs.bg;
-      // Always fill sky first as fallback
       ctx.fillStyle = '#87CEEB';
       ctx.fillRect(0, 0, W, H);
       if (bg && bg.complete && bg.naturalWidth) {
         ctx.imageSmoothingEnabled = true;
         ctx.imageSmoothingQuality = 'high';
-        // Cover — use whichever scale is larger so no gaps ever appear
         const scaleW = W / bg.naturalWidth;
-        const scaleH = H / bg.naturalHeight; // scale to full H not just skyH
-        const scale  = Math.max(scaleW, scaleH) * 1.01; // tiny overshoot to eliminate edge gaps
+        const scaleH = H / bg.naturalHeight;
+        const scale  = Math.max(scaleW, scaleH) * 1.01;
         const drawW  = bg.naturalWidth  * scale;
         const drawH  = bg.naturalHeight * scale;
         const drawX  = (W - drawW) / 2;
@@ -293,6 +291,8 @@
         ctx.drawImage(bg, drawX, drawY, drawW, drawH);
       }
     }
+
+    function drawGround() { /* removed — background fills full screen */ }
 
     function drawGround() {
       const gnd = imgs.ground;
@@ -309,47 +309,45 @@
 
     function drawPipes() {
       const bill = imgs.bill;
-      const PIPE_BASE = '#d4c9a8'; // cream base matching bill scroll color
+      const PIPE_BASE = '#e8e2d0';
 
       for (const p of pipes) {
         const botY = p.topH + PGAP;
         const topH = p.topH;
-        const botH = H - GH - botY;
+        const botH = H - botY;
 
-        // ── Bottom pipe ──
-        // 1. Solid base fill
+        // Bottom pipe
         ctx.fillStyle = PIPE_BASE;
         ctx.fillRect(p.x, botY, PW, botH);
-        // 2. Tile bill image
         if (bill && bill.complete && bill.naturalWidth) {
           const bh = Math.round(PW * bill.naturalHeight / bill.naturalWidth);
-          for (let y = botY; y < H - GH; y += bh) {
-            const drawH = Math.min(bh, H - GH - y);
-            ctx.drawImage(bill, 0, 0, bill.naturalWidth, bill.naturalHeight, p.x, y, PW, drawH);
+          for (let y = botY; y < H; y += bh) {
+            ctx.drawImage(bill, p.x, y, PW, Math.min(bh, H - y));
           }
         }
 
-        // ── Top pipe (draw bill right-side up from gap opening upward) ──
+        // Top pipe — tile from gap upward
         ctx.fillStyle = PIPE_BASE;
         ctx.fillRect(p.x, 0, PW, topH);
         if (bill && bill.complete && bill.naturalWidth) {
           const bh = Math.round(PW * bill.naturalHeight / bill.naturalWidth);
-          // Start from gap end, tile upward
           for (let y = topH - bh; y > -bh; y -= bh) {
-            const srcY0 = y < 0 ? -y : 0;
-            const dstY  = y < 0 ? 0  : y;
-            const drawH = y < 0 ? bh - srcY0 : bh;
-            const srcH  = drawH * (bill.naturalHeight / bh);
-            ctx.drawImage(bill, 0, srcY0 * (bill.naturalHeight / bh), bill.naturalWidth, srcH, p.x, dstY, PW, drawH);
+            const dstY  = Math.max(0, y);
+            const drawH = Math.min(bh, topH - dstY);
+            if (drawH <= 0) continue;
+            const srcFrac = (dstY - y) / bh;
+            ctx.drawImage(bill,
+              0, srcFrac * bill.naturalHeight, bill.naturalWidth, (drawH / bh) * bill.naturalHeight,
+              p.x, dstY, PW, drawH);
           }
         }
 
-        // Subtle edge shadow for depth
-        ctx.fillStyle = 'rgba(0,0,0,0.10)';
-        ctx.fillRect(p.x + PW - 4, 0, 4, topH);
-        ctx.fillRect(p.x + PW - 4, botY, 4, botH);
+        // Edge shadows for depth
+        ctx.fillStyle = 'rgba(0,0,0,0.08)';
         ctx.fillRect(p.x, 0, 4, topH);
+        ctx.fillRect(p.x + PW - 4, 0, 4, topH);
         ctx.fillRect(p.x, botY, 4, botH);
+        ctx.fillRect(p.x + PW - 4, botY, 4, botH);
       }
     }
 

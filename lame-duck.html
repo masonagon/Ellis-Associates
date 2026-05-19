@@ -8,620 +8,309 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { width: 100%; height: 100%; overflow: hidden; background: #0a1628; }
-    canvas { display: block; }
-
-    #hud {
-      position: fixed;
-      top: 16px; left: 16px; right: 16px;
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      pointer-events: none;
-      z-index: 10;
-    }
-    .hud-score {
-      background: rgba(255,255,255,0.12);
-      backdrop-filter: blur(8px);
-      padding: 10px 16px;
-      border-radius: 4px;
-      pointer-events: none;
-    }
-    .hud-score-label {
-      font-family: 'Barlow', sans-serif;
-      font-size: 9px;
-      font-weight: 700;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.5);
-      margin-bottom: 2px;
-    }
-    .hud-score-value {
-      font-family: 'Playfair Display', serif;
-      font-size: 28px;
-      font-weight: 700;
-      color: #fff;
-      line-height: 1;
-    }
-    .hud-close {
-      pointer-events: all;
-      background: rgba(255,255,255,0.12);
-      backdrop-filter: blur(8px);
-      border: none;
-      color: #fff;
-      font-size: 22px;
-      width: 44px;
-      height: 44px;
-      cursor: pointer;
-      border-radius: 4px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-decoration: none;
-    }
-
-    .screen {
-      position: fixed;
-      inset: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      z-index: 20;
-    }
-    .screen-bg {
-      background: rgba(10,22,40,0.78);
-      backdrop-filter: blur(4px);
-    }
-    .screen-solid {
-      background: #0a1628;
-      overflow-y: auto;
-    }
-    .hidden { display: none !important; }
-
-    .kicker {
-      font-family: 'Barlow', sans-serif;
-      font-size: 9px;
-      font-weight: 700;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
-      color: #5bbcb0;
-      border-left: 2px solid #5bbcb0;
-      padding-left: 8px;
-      margin-bottom: 12px;
-    }
-    .game-title {
-      font-family: 'Playfair Display', serif;
-      font-size: 38px;
-      font-weight: 700;
-      color: #fff;
-      margin-bottom: 4px;
-    }
-    .game-sub {
-      font-family: 'Barlow', sans-serif;
-      font-size: 13px;
-      color: rgba(255,255,255,0.45);
-      margin-bottom: 32px;
-    }
-    .btn-primary {
-      font-family: 'Barlow', sans-serif;
-      font-size: 12px;
-      font-weight: 700;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      padding: 14px 40px;
-      background: #5bbcb0;
-      color: #0d1b2e;
-      border: none;
-      cursor: pointer;
-      border-radius: 2px;
-    }
-    .btn-ghost {
-      font-family: 'Barlow', sans-serif;
-      font-size: 11px;
-      font-weight: 600;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      padding: 10px 28px;
-      background: none;
-      color: rgba(255,255,255,0.4);
-      border: 1px solid rgba(255,255,255,0.15);
-      cursor: pointer;
-      border-radius: 2px;
-      margin-top: 10px;
-    }
-
-    /* Game over */
-    #gameover-votes-label {
-      font-family: 'Barlow', sans-serif;
-      font-size: 11px;
-      font-weight: 600;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.4);
-      margin-bottom: 4px;
-    }
-    #gameover-score {
-      font-family: 'Playfair Display', serif;
-      font-size: 60px;
-      font-weight: 700;
-      color: #5bbcb0;
-      line-height: 1;
-      margin-bottom: 4px;
-    }
-    #gameover-votes-label2 {
-      font-family: 'Barlow', sans-serif;
-      font-size: 11px;
-      font-weight: 600;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.4);
-      margin-bottom: 28px;
-    }
-    .initials-label {
-      font-family: 'Barlow', sans-serif;
-      font-size: 13px;
-      color: rgba(255,255,255,0.4);
-      margin-bottom: 12px;
-    }
-    #initials-input {
-      font-family: 'Barlow', sans-serif;
-      font-size: 24px;
-      font-weight: 700;
-      letter-spacing: 0.3em;
-      text-transform: uppercase;
-      text-align: center;
-      width: 110px;
-      padding: 10px;
-      background: rgba(255,255,255,0.06);
-      border: 1px solid rgba(255,255,255,0.2);
-      color: #fff;
-      outline: none;
-      margin-bottom: 16px;
-      border-radius: 2px;
-    }
-    .btn-row {
-      display: flex;
-      gap: 8px;
-    }
-
-    /* Leaderboard */
-    #lb-screen {
-      padding: 24px 20px 80px;
-      justify-content: flex-start;
-    }
-    .lb-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      width: 100%;
-      max-width: 500px;
-      margin-bottom: 6px;
-    }
-    .lb-title {
-      font-family: 'Playfair Display', serif;
-      font-size: 24px;
-      font-weight: 700;
-      color: #fff;
-    }
-    .lb-close-btn {
-      background: none;
-      border: none;
-      color: rgba(255,255,255,0.4);
-      font-size: 24px;
-      cursor: pointer;
-    }
-    .lb-sub {
-      font-family: 'Barlow', sans-serif;
-      font-size: 12px;
-      color: rgba(255,255,255,0.3);
-      width: 100%;
-      max-width: 500px;
-      margin-bottom: 20px;
-    }
-    #lb-list {
-      width: 100%;
-      max-width: 500px;
-    }
-    .lb-row {
-      display: grid;
-      grid-template-columns: 32px 60px 1fr auto;
-      gap: 12px;
-      align-items: center;
-      padding: 14px 0;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
-    }
-    .lb-rank { font-family: 'Barlow', sans-serif; font-size: 12px; color: rgba(255,255,255,0.25); }
-    .lb-initials { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; color: #fff; }
-    .lb-initials.gold { color: #5bbcb0; }
-    .lb-date { font-family: 'Barlow', sans-serif; font-size: 12px; color: rgba(255,255,255,0.25); }
-    .lb-score { font-family: 'Barlow', sans-serif; font-size: 20px; font-weight: 700; color: rgba(255,255,255,0.7); }
-    .lb-score.gold { color: #5bbcb0; }
-    .lb-play-again {
-      position: fixed;
-      bottom: 0; left: 0; right: 0;
-      padding: 16px 20px;
-      background: #0a1628;
-    }
-    .lb-play-again button {
-      width: 100%;
-      font-family: 'Barlow', sans-serif;
-      font-size: 12px;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      padding: 14px;
-      background: #5bbcb0;
-      color: #0d1b2e;
-      border: none;
-      cursor: pointer;
-      border-radius: 2px;
-    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html,body{width:100%;height:100%;overflow:hidden;background:#0a1628;touch-action:none}
+    canvas{display:block;position:fixed;inset:0}
+    .screen{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:20}
+    .hidden{display:none!important}
+    .bg-blur{background:rgba(10,22,40,0.82);backdrop-filter:blur(6px)}
+    .bg-solid{background:#0a1628;overflow-y:auto;justify-content:flex-start}
+    #hud{position:fixed;top:16px;left:16px;right:16px;display:flex;justify-content:space-between;align-items:flex-start;pointer-events:none;z-index:15}
+    .hud-box{background:rgba(13,27,46,0.7);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);padding:10px 16px;border-radius:6px}
+    .hud-label{font-family:'Barlow',sans-serif;font-size:9px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.4);margin-bottom:2px}
+    .hud-value{font-family:'Playfair Display',serif;font-size:26px;font-weight:700;color:#fff;line-height:1}
+    .hud-close{pointer-events:all;background:rgba(13,27,46,0.7);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.1);color:rgba(255,255,255,.6);font-size:20px;width:44px;height:44px;cursor:pointer;border-radius:6px;display:flex;align-items:center;justify-content:center;text-decoration:none;font-family:'Barlow',sans-serif}
+    .kicker{font-family:'Barlow',sans-serif;font-size:9px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#5bbcb0;border-left:2px solid #5bbcb0;padding-left:8px;margin-bottom:14px}
+    .game-title{font-family:'Playfair Display',serif;font-size:40px;font-weight:700;color:#fff;margin-bottom:4px;text-align:center}
+    .game-sub{font-family:'Barlow',sans-serif;font-size:13px;color:rgba(255,255,255,.4);margin-bottom:36px;text-align:center}
+    .btn-teal{font-family:'Barlow',sans-serif;font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:15px 44px;background:#5bbcb0;color:#0d1b2e;border:none;cursor:pointer;border-radius:3px}
+    .btn-ghost{font-family:'Barlow',sans-serif;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:11px 28px;background:none;color:rgba(255,255,255,.35);border:1px solid rgba(255,255,255,.15);cursor:pointer;border-radius:3px;margin-top:10px}
+    .go-title{font-family:'Playfair Display',serif;font-size:32px;font-weight:700;color:#fff;margin-bottom:10px}
+    .go-lbl{font-family:'Barlow',sans-serif;font-size:10px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35);margin-bottom:4px}
+    #go-score{font-family:'Playfair Display',serif;font-size:58px;font-weight:700;color:#5bbcb0;line-height:1;margin-bottom:4px}
+    .go-votes{font-family:'Barlow',sans-serif;font-size:10px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35);margin-bottom:28px}
+    .go-name-lbl{font-family:'Barlow',sans-serif;font-size:12px;color:rgba(255,255,255,.4);margin-bottom:10px}
+    #name-input{font-family:'Barlow',sans-serif;font-size:18px;font-weight:600;text-align:center;width:240px;padding:12px 16px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.2);color:#fff;outline:none;border-radius:3px;margin-bottom:18px}
+    #name-input::placeholder{color:rgba(255,255,255,.2)}
+    .btn-row{display:flex;gap:8px}
+    #lb-inner{width:100%;max-width:480px;padding:28px 20px 100px}
+    .lb-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px}
+    .lb-title{font-family:'Playfair Display',serif;font-size:26px;font-weight:700;color:#fff}
+    .lb-x{background:none;border:none;color:rgba(255,255,255,.35);font-size:26px;cursor:pointer;line-height:1;padding:4px}
+    .lb-sub{font-family:'Barlow',sans-serif;font-size:11px;color:rgba(255,255,255,.25);margin-bottom:20px}
+    .lb-row{display:grid;grid-template-columns:28px 1fr auto;gap:12px;align-items:center;padding:13px 0;border-bottom:1px solid rgba(255,255,255,.06)}
+    .lb-rank{font-family:'Barlow',sans-serif;font-size:12px;color:rgba(255,255,255,.2)}
+    .lb-name-col{display:flex;flex-direction:column;gap:2px}
+    .lb-name{font-family:'Barlow',sans-serif;font-size:15px;font-weight:600;color:#fff}
+    .lb-name.gold{color:#5bbcb0}
+    .lb-date{font-family:'Barlow',sans-serif;font-size:11px;color:rgba(255,255,255,.2)}
+    .lb-score{font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:rgba(255,255,255,.6)}
+    .lb-score.gold{color:#5bbcb0}
+    .lb-foot{position:fixed;bottom:0;left:0;right:0;padding:14px 20px;background:#0a1628;border-top:1px solid rgba(255,255,255,.06)}
+    .lb-foot button{width:100%;font-family:'Barlow',sans-serif;font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:14px;background:#5bbcb0;color:#0d1b2e;border:none;cursor:pointer;border-radius:3px}
+    #desktop-block{position:fixed;inset:0;background:#0d1b2e;z-index:999;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px}
+    .db-e{font-size:48px;margin-bottom:16px}
+    .db-t{font-family:'Playfair Display',serif;font-size:28px;font-weight:700;color:#fff;margin-bottom:8px}
+    .db-s{font-family:'Barlow',sans-serif;font-size:14px;color:rgba(255,255,255,.4);margin-bottom:28px}
   </style>
 </head>
 <body>
 
-  <canvas id="canvas"></canvas>
-
-  <!-- HUD -->
-  <div id="hud">
-    <div class="hud-score">
-      <div class="hud-score-label">Votes Secured</div>
-      <div class="hud-score-value" id="hud-score">0</div>
-    </div>
-    <a href="/" class="hud-close" title="Back to site">&times;</a>
+  <div id="desktop-block">
+    <div class="db-e">🦆</div>
+    <div class="db-t">Mobile Only</div>
+    <div class="db-s">Lame Duck is a mobile-only game.<br>Open it on your phone.</div>
+    <a href="/" style="font-family:'Barlow',sans-serif;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:12px 28px;background:#5bbcb0;color:#0d1b2e;text-decoration:none;border-radius:3px;">Back to Site</a>
   </div>
 
-  <!-- START SCREEN -->
-  <div id="start-screen" class="screen screen-bg">
+  <canvas id="canvas"></canvas>
+
+  <div id="hud">
+    <div class="hud-box">
+      <div class="hud-label">Votes Secured</div>
+      <div class="hud-value" id="hud-score">0</div>
+    </div>
+    <a href="/" class="hud-close">×</a>
+  </div>
+
+  <div id="start-screen" class="screen bg-blur">
     <div class="kicker">Session Adjourned</div>
     <div class="game-title">Lame Duck</div>
     <div class="game-sub">Get through. Get it passed.</div>
-    <button class="btn-primary" onclick="startGame()">Tap to Start</button>
+    <button class="btn-teal" onclick="startGame()">Tap to Play</button>
     <button class="btn-ghost" onclick="showLeaderboard()">Leaderboard</button>
   </div>
 
-  <!-- GAME OVER SCREEN -->
-  <div id="gameover-screen" class="screen screen-bg hidden">
-    <div style="font-family:'Playfair Display',serif;font-size:32px;font-weight:700;color:#fff;margin-bottom:10px;">Game Over</div>
-    <div id="gameover-votes-label">You Secured</div>
-    <div id="gameover-score">0</div>
-    <div id="gameover-votes-label2">Votes</div>
-    <div class="initials-label">Enter your initials</div>
-    <input id="initials-input" maxlength="3" placeholder="AAA" />
+  <div id="go-screen" class="screen bg-blur hidden">
+    <div class="go-title">Game Over</div>
+    <div class="go-lbl">You Secured</div>
+    <div id="go-score">0</div>
+    <div class="go-votes">Votes</div>
+    <div class="go-name-lbl">Enter your name for the leaderboard</div>
+    <input id="name-input" maxlength="30" placeholder="Your name" autocomplete="off" autocorrect="off" spellcheck="false" />
     <div class="btn-row">
-      <button class="btn-primary" onclick="submitScore()">Submit</button>
-      <button class="btn-ghost" style="margin-top:0;" onclick="startGame()">Play Again</button>
+      <button class="btn-teal" onclick="submitScore()">Submit</button>
+      <button class="btn-ghost" style="margin-top:0" onclick="startGame()">Play Again</button>
     </div>
   </div>
 
-  <!-- LEADERBOARD SCREEN -->
-  <div id="lb-screen" class="screen screen-solid hidden">
-    <div class="lb-header">
-      <div class="lb-title">Top Lobbyists</div>
-      <button class="lb-close-btn" onclick="hideLeaderboard()">&times;</button>
+  <div id="lb-screen" class="screen bg-solid hidden">
+    <div id="lb-inner">
+      <div class="lb-hdr">
+        <div class="lb-title">Top Lobbyists</div>
+        <button class="lb-x" onclick="hideLeaderboard()">×</button>
+      </div>
+      <div class="lb-sub">Global leaderboard · All time</div>
+      <div id="lb-list"></div>
     </div>
-    <div class="lb-sub">Global high scores</div>
-    <div id="lb-list"></div>
-    <div class="lb-play-again">
-      <button onclick="startGame()">Play Again</button>
-    </div>
+    <div class="lb-foot"><button onclick="startGame()">Play Again</button></div>
   </div>
 
   <script>
-    const JSONBIN_ID  = '6a0b797bee5a733b12debe9d';
-    const JSONBIN_KEY = '$2a$10$nlhbyVrq0IdFG8SVJyrcOOy6DyVHVlnMBAWrP.6WGi0/L3Sw7ZCQS';
-    const JSONBIN_URL = `https://api.jsonbin.io/v3/b/${JSONBIN_ID}`;
+    // Desktop block
+    const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || navigator.maxTouchPoints > 1;
+    if (!isMobile) {
+      document.getElementById('desktop-block').style.display = 'flex';
+      document.getElementById('hud').style.display = 'none';
+      document.getElementById('start-screen').classList.add('hidden');
+    }
 
-    // ── CANVAS SETUP ──────────────────────────────────────────────────────────
+    const BIN_URL = 'https://api.jsonbin.io/v3/b/6a0b797bee5a733b12debe9d';
+    const BIN_KEY = '$2a$10$nlhbyVrq0IdFG8SVJyrcOOy6DyVHVlnMBAWrP.6WGi0/L3Sw7ZCQS';
+
     const canvas = document.getElementById('canvas');
     const ctx = canvas.getContext('2d');
     let W, H;
-
-    function resize() {
-      W = canvas.width  = window.innerWidth;
-      H = canvas.height = window.innerHeight;
-    }
+    function resize() { W = canvas.width = window.innerWidth; H = canvas.height = window.innerHeight; }
     resize();
-    window.addEventListener('resize', () => { resize(); if (state === 'start') draw(); });
+    window.addEventListener('resize', () => { resize(); if (state==='start') draw(); });
 
-    // ── ASSETS ────────────────────────────────────────────────────────────────
+    // Assets
     const imgs = {};
-    let assetsLoaded = 0;
-    const ASSET_SRCS = {
-      duck:     'assets/duck-alive.png',
-      duckDead: 'assets/duck-dead.png',
-      bill:     'assets/bill-stack.png',
-      bg:       'assets/capitol-bg.png',
-      ground:   'assets/ground-strip.png'
-    };
-    for (const [k, src] of Object.entries(ASSET_SRCS)) {
+    let loaded = 0;
+    const SRCS = { duck:'assets/duck-alive.png', duckDead:'assets/duck-dead.png', bill:'assets/bill-stack.png', bg:'assets/capitol-bg.png', ground:'assets/ground-strip.png' };
+    for (const [k,src] of Object.entries(SRCS)) {
       imgs[k] = new Image();
-      imgs[k].onload = imgs[k].onerror = () => { assetsLoaded++; if (assetsLoaded === 5) draw(); };
+      imgs[k].onload = imgs[k].onerror = () => { if (++loaded>=5 && state==='start') draw(); };
       imgs[k].src = src;
     }
 
-    // ── GAME STATE ────────────────────────────────────────────────────────────
-    let state = 'start'; // start | playing | dead
-    let raf = null;
+    // State
+    let state = 'start', raf = null;
+    const DW=70, DH=52;
+    let dx,dy,dvy,dangle;
+    const GRAV=0.42, FLAP=-8.0, VMAX=10, VMIN=-9;
+    const PW=80, PGAP=190, PSPEED=2.5, PSPACE=300;
+    let pipes, nextIn, bgX=0, gndX=0;
+    const GH=56;
+    let score=0, best=parseInt(localStorage.getItem('ld_best')||'0'), deadTimer=0;
 
-    // Duck
-    const DUCK_W = 72, DUCK_H = 54;
-    let duckX, duckY, duckVY, duckAngle;
-
-    // Physics — tuned for feel
-    const GRAVITY    = 0.42;
-    const FLAP_FORCE = -8.2;
-    const MAX_FALL   = 10;
-    const MAX_RISE   = -10;
-
-    // Pipes
-    const PIPE_W    = 82;
-    const PIPE_GAP  = 185;   // gap between top and bottom pipe
-    const PIPE_SPEED = 2.6;
-    const PIPE_SPACING = 290;
-    let pipes, nextPipeIn;
-
-    // Scrolling
-    let bgX, groundX;
-    const GROUND_H = 58;
-
-    // Score
-    let score, best;
-    best = parseInt(localStorage.getItem('ld_best') || '0');
-
-    // Dead timer (brief pause before showing game over)
-    let deadTimer;
-
-    function resetState() {
-      duckX    = W * 0.22;
-      duckY    = H * 0.45;
-      duckVY   = 0;
-      duckAngle = 0;
-      pipes    = [];
-      nextPipeIn = W + 80;
-      bgX      = 0;
-      groundX  = 0;
-      score    = 0;
-      deadTimer = 0;
-      document.getElementById('hud-score').textContent = '0';
+    function show(id) {
+      ['start-screen','go-screen','lb-screen'].forEach(s=>document.getElementById(s).classList.toggle('hidden',s!==id));
+    }
+    function hideAll() {
+      ['start-screen','go-screen','lb-screen'].forEach(s=>document.getElementById(s).classList.add('hidden'));
     }
 
-    // ── SCREENS ───────────────────────────────────────────────────────────────
-    function showScreen(id) {
-      ['start-screen','gameover-screen','lb-screen'].forEach(s => {
-        document.getElementById(s).classList.toggle('hidden', s !== id);
-      });
+    function reset() {
+      dx=W*0.22; dy=H*0.45; dvy=0; dangle=0;
+      pipes=[]; nextIn=W+100; bgX=0; gndX=0; score=0; deadTimer=0;
+      document.getElementById('hud-score').textContent='0';
     }
 
     function startGame() {
-      resetState();
-      state = 'playing';
-      showScreen(null); // hide all
-      ['start-screen','gameover-screen','lb-screen'].forEach(s => document.getElementById(s).classList.add('hidden'));
-      if (raf) cancelAnimationFrame(raf);
+      reset(); state='playing'; hideAll();
+      if(raf) cancelAnimationFrame(raf);
       raf = requestAnimationFrame(loop);
     }
 
-    function triggerGameOver() {
-      state = 'dead';
-      deadTimer = 0;
-      if (score > best) { best = score; localStorage.setItem('ld_best', score); }
-    }
-
-    function showGameOver() {
-      document.getElementById('gameover-score').textContent = score;
-      document.getElementById('initials-input').value = '';
-      showScreen('gameover-screen');
-    }
-
-    function showLeaderboard() {
-      showScreen('lb-screen');
-      loadLeaderboard();
-    }
-
-    function hideLeaderboard() {
-      showScreen('start-screen');
-    }
-
-    // ── GAME LOOP ─────────────────────────────────────────────────────────────
     function loop() {
-      update();
-      draw();
-      if (state === 'dead' && deadTimer >= 55) {
-        showGameOver();
-        return;
-      }
+      update(); draw();
+      if (state==='dead' && deadTimer>=52) { showGameOver(); return; }
       raf = requestAnimationFrame(loop);
     }
 
     function update() {
-      if (state === 'dead') {
-        deadTimer++;
-        duckVY = Math.min(duckVY + GRAVITY, MAX_FALL);
-        duckY += duckVY;
-        duckAngle = Math.min(duckAngle + 3, 90);
-        // Scroll bg slightly still
-        bgX = (bgX + 0.3) % W;
-        return;
+      if (state==='dead') {
+        deadTimer++; dvy=Math.min(dvy+GRAV,VMAX); dy+=dvy; dangle=Math.min(dangle+4,90);
+        bgX=(bgX+0.3)%(W+1); return;
       }
-      if (state !== 'playing') return;
-
-      // Physics
-      duckVY = Math.max(MAX_RISE, Math.min(duckVY + GRAVITY, MAX_FALL));
-      duckY += duckVY;
-      duckAngle = Math.max(-25, Math.min(75, duckVY * 3.8));
-
-      // Scroll
-      bgX = (bgX + 0.5) % W;
-      groundX = (groundX + PIPE_SPEED) % (W * 2);
-
-      // Spawn pipes
-      nextPipeIn -= PIPE_SPEED;
-      if (nextPipeIn <= 0) {
-        const minTop = H * 0.10;
-        const maxTop = H - GROUND_H - PIPE_GAP - H * 0.10;
-        const topH = minTop + Math.random() * (maxTop - minTop);
-        pipes.push({ x: W + PIPE_W, topH, passed: false });
-        nextPipeIn = PIPE_SPACING;
+      if (state!=='playing') return;
+      dvy=Math.max(VMIN,Math.min(dvy+GRAV,VMAX)); dy+=dvy;
+      dangle=Math.max(-22,Math.min(72,dvy*4));
+      bgX=(bgX+0.5)%(W+1);
+      gndX=(gndX+PSPEED)%(W*2);
+      nextIn-=PSPEED;
+      if (nextIn<=0) {
+        const minT=H*0.10, maxT=H-GH-PGAP-H*0.10;
+        pipes.push({x:W+PW+10, topH:minT+Math.random()*(maxT-minT), passed:false});
+        nextIn=PSPACE;
       }
-
-      // Move pipes & score
       for (const p of pipes) {
-        p.x -= PIPE_SPEED;
-        if (!p.passed && p.x + PIPE_W < duckX) {
-          p.passed = true;
-          score++;
-          document.getElementById('hud-score').textContent = score;
-        }
+        p.x-=PSPEED;
+        if (!p.passed && p.x+PW<dx) { p.passed=true; score++; document.getElementById('hud-score').textContent=score; }
       }
-      pipes = pipes.filter(p => p.x + PIPE_W > -20);
-
-      // ── COLLISION ─────────────────────────────────────────────────────────
-      // Hitbox: shrink visual bounds by padding for fairness
-      const PAD = 12;
-      const dL = duckX - DUCK_W / 2 + PAD;
-      const dR = duckX + DUCK_W / 2 - PAD;
-      const dT = duckY - DUCK_H / 2 + PAD;
-      const dB = duckY + DUCK_H / 2 - PAD;
-
-      // Ground
-      if (dB >= H - GROUND_H) { triggerGameOver(); return; }
-      // Ceiling
-      if (dT <= 0) { triggerGameOver(); return; }
-
-      // Pipes — check x overlap first, then y
+      pipes=pipes.filter(p=>p.x+PW>-30);
+      const PAD=13;
+      const L=dx-DW/2+PAD, R=dx+DW/2-PAD, T=dy-DH/2+PAD, B=dy+DH/2-PAD;
+      if (B>=H-GH||T<=0) { die(); return; }
       for (const p of pipes) {
-        const pL = p.x + 5;
-        const pR = p.x + PIPE_W - 5;
-        if (dR <= pL || dL >= pR) continue; // no x overlap — skip
-        const botPipeTop = p.topH + PIPE_GAP;
-        if (dT < p.topH || dB > botPipeTop) { triggerGameOver(); return; }
+        if (R<=p.x+4||L>=p.x+PW-4) continue;
+        if (T<p.topH||B>p.topH+PGAP) { die(); return; }
       }
     }
 
-    // ── DRAW ──────────────────────────────────────────────────────────────────
+    function die() {
+      if (state==='dead') return;
+      state='dead'; deadTimer=0;
+      if (score>best) { best=score; localStorage.setItem('ld_best',score); }
+    }
+
+    function showGameOver() {
+      document.getElementById('go-score').textContent=score;
+      document.getElementById('name-input').value='';
+      show('go-screen');
+    }
+
     function draw() {
-      ctx.clearRect(0, 0, W, H);
+      ctx.clearRect(0,0,W,H);
+      ctx.fillStyle='#87CEEB'; ctx.fillRect(0,0,W,H);
 
-      // Sky fallback
-      ctx.fillStyle = '#87CEEB';
-      ctx.fillRect(0, 0, W, H);
-
-      // Background — tile horizontally
-      const bg = imgs.bg;
-      if (bg && bg.complete && bg.naturalWidth) {
-        const bgAspect = bg.naturalWidth / bg.naturalHeight;
-        const bgH = H - GROUND_H;
-        const bgW = bgH * bgAspect;
-        let ox = -(bgX % bgW);
-        while (ox < W) { ctx.drawImage(bg, ox, 0, bgW, bgH); ox += bgW; }
+      // Background
+      const bg=imgs.bg;
+      if (bg&&bg.complete&&bg.naturalWidth) {
+        const bH=H-GH, bW=bH*(bg.naturalWidth/bg.naturalHeight);
+        let ox=-(bgX%bW);
+        while(ox<W){ctx.drawImage(bg,ox,0,bW,bH);ox+=bW;}
       }
 
       // Pipes
-      const bill = imgs.bill;
+      const bill=imgs.bill;
       for (const p of pipes) {
-        // Bottom pipe
-        const botY = p.topH + PIPE_GAP;
-        const botH = H - GROUND_H - botY;
-        if (bill && bill.complete && bill.naturalWidth) {
-          ctx.drawImage(bill, p.x, botY, PIPE_W, botH);
+        const botY=p.topH+PGAP, botH=H-GH-botY;
+        if (bill&&bill.complete&&bill.naturalWidth) {
+          // Bottom pipe — right side up
+          ctx.drawImage(bill, p.x, botY, PW, botH);
+          // Top pipe — flipped vertically so BILL label is at bottom (gap end)
+          ctx.save();
+          ctx.translate(p.x+PW/2, p.topH/2);
+          ctx.scale(1,-1);
+          ctx.drawImage(bill, -PW/2, -p.topH/2, PW, p.topH);
+          ctx.restore();
         } else {
-          ctx.fillStyle = '#3a6b45'; ctx.fillRect(p.x, botY, PIPE_W, botH);
+          ctx.fillStyle='#4a7c59';
+          ctx.fillRect(p.x,0,PW,p.topH);
+          ctx.fillRect(p.x,botY,PW,botH);
         }
-
-        // Top pipe — flip vertically
-        ctx.save();
-        ctx.translate(p.x + PIPE_W / 2, p.topH / 2);
-        ctx.scale(1, -1);
-        if (bill && bill.complete && bill.naturalWidth) {
-          ctx.drawImage(bill, -PIPE_W / 2, -p.topH / 2, PIPE_W, p.topH);
-        } else {
-          ctx.fillStyle = '#3a6b45'; ctx.fillRect(-PIPE_W / 2, -p.topH / 2, PIPE_W, p.topH);
-        }
-        ctx.restore();
       }
 
       // Ground
-      const gnd = imgs.ground;
-      const groundY = H - GROUND_H;
-      if (gnd && gnd.complete && gnd.naturalWidth) {
-        const gAspect = gnd.naturalWidth / gnd.naturalHeight;
-        const gW = GROUND_H * gAspect;
-        let gx = -(groundX % gW);
-        while (gx < W) { ctx.drawImage(gnd, gx, groundY, gW, GROUND_H); gx += gW; }
+      const gnd=imgs.ground;
+      const gY=H-GH;
+      if (gnd&&gnd.complete&&gnd.naturalWidth) {
+        const gW=GH*(gnd.naturalWidth/gnd.naturalHeight);
+        let gx=-(gndX%gW);
+        while(gx<W){ctx.drawImage(gnd,gx,gY,gW,GH);gx+=gW;}
       } else {
-        ctx.fillStyle = '#5a8a3c'; ctx.fillRect(0, groundY, W, GROUND_H);
+        ctx.fillStyle='#5a8a3c'; ctx.fillRect(0,gY,W,GH);
       }
 
       // Duck
-      const dImg = state === 'dead' ? imgs.duckDead : imgs.duck;
+      const dImg=state==='dead'?imgs.duckDead:imgs.duck;
       ctx.save();
-      ctx.translate(duckX, duckY);
-      ctx.rotate(duckAngle * Math.PI / 180);
-      if (dImg && dImg.complete && dImg.naturalWidth) {
-        ctx.drawImage(dImg, -DUCK_W / 2, -DUCK_H / 2, DUCK_W, DUCK_H);
+      ctx.translate(dx,dy);
+      ctx.rotate(dangle*Math.PI/180);
+      if (dImg&&dImg.complete&&dImg.naturalWidth) {
+        ctx.drawImage(dImg,-DW/2,-DH/2,DW,DH);
       } else {
-        ctx.fillStyle = '#fff';
-        ctx.beginPath();
-        ctx.ellipse(0, 0, DUCK_W / 2, DUCK_H / 2, 0, 0, Math.PI * 2);
-        ctx.fill();
+        ctx.fillStyle='#fff'; ctx.beginPath();
+        ctx.ellipse(0,0,DW/2,DH/2,0,0,Math.PI*2); ctx.fill();
       }
       ctx.restore();
     }
 
-    // ── INPUT ─────────────────────────────────────────────────────────────────
-    function flap(e) {
-      if (state !== 'playing') return;
-      e.preventDefault();
-      duckVY = FLAP_FORCE;
-    }
-    canvas.addEventListener('touchstart', flap, { passive: false });
-    canvas.addEventListener('mousedown', flap);
+    // Input
+    function flap(e) { if(state!=='playing')return; e.preventDefault(); dvy=FLAP; }
+    canvas.addEventListener('touchstart',flap,{passive:false});
+    canvas.addEventListener('mousedown',flap);
 
-    // ── LEADERBOARD ───────────────────────────────────────────────────────────
-    async function submitScore() {
-      const initials = (document.getElementById('initials-input').value || '???').toUpperCase().substring(0, 3).trim();
+    // Leaderboard
+    function showLeaderboard(){show('lb-screen');loadLeaderboard();}
+    function hideLeaderboard(){show('start-screen');}
+
+    async function submitScore(){
+      const name=document.getElementById('name-input').value.trim()||'Anonymous';
       try {
-        const res = await fetch(JSONBIN_URL + '/latest', { headers: { 'X-Master-Key': JSONBIN_KEY, 'X-Bin-Meta': 'false' } });
-        const data = await res.json();
-        const scores = data.scores || [];
-        scores.push({ initials, score, date: new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) });
-        scores.sort((a, b) => b.score - a.score);
-        await fetch(JSONBIN_URL, {
-          method: 'PUT',
-          headers: { 'Content-Type': 'application/json', 'X-Master-Key': JSONBIN_KEY, 'X-Bin-Versioning': 'false' },
-          body: JSON.stringify({ scores: scores.slice(0, 20) })
-        });
-      } catch (e) { console.error(e); }
+        const res=await fetch(BIN_URL+'/latest',{headers:{'X-Master-Key':BIN_KEY,'X-Bin-Meta':'false'}});
+        const data=await res.json();
+        const scores=data.scores||[];
+        scores.push({name,score,date:new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})});
+        scores.sort((a,b)=>b.score-a.score);
+        await fetch(BIN_URL,{method:'PUT',headers:{'Content-Type':'application/json','X-Master-Key':BIN_KEY,'X-Bin-Versioning':'false'},body:JSON.stringify({scores:scores.slice(0,20)})});
+      } catch(e){console.error(e);}
       showLeaderboard();
     }
 
-    async function loadLeaderboard() {
-      const el = document.getElementById('lb-list');
-      el.innerHTML = '<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,0.3);padding:20px 0;">Loading...</div>';
+    async function loadLeaderboard(){
+      const el=document.getElementById('lb-list');
+      el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Loading...</div>';
       try {
-        const res = await fetch(JSONBIN_URL + '/latest', { headers: { 'X-Master-Key': JSONBIN_KEY, 'X-Bin-Meta': 'false' } });
-        const data = await res.json();
-        const scores = data.scores || [];
-        if (!scores.length) {
-          el.innerHTML = '<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,0.3);padding:20px 0;">No scores yet. Be the first!</div>';
-          return;
-        }
-        el.innerHTML = scores.map((s, i) => `
+        const res=await fetch(BIN_URL+'/latest',{headers:{'X-Master-Key':BIN_KEY,'X-Bin-Meta':'false'}});
+        const data=await res.json();
+        const scores=data.scores||[];
+        if (!scores.length){el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">No scores yet. Be the first!</div>';return;}
+        el.innerHTML=scores.map((s,i)=>`
           <div class="lb-row">
-            <span class="lb-rank">${i + 1}</span>
-            <span class="lb-initials${i === 0 ? ' gold' : ''}">${s.initials}</span>
-            <span class="lb-date">${s.date || ''}</span>
-            <span class="lb-score${i === 0 ? ' gold' : ''}">${s.score}</span>
+            <span class="lb-rank">${i+1}</span>
+            <div class="lb-name-col">
+              <span class="lb-name${i===0?' gold':''}">${s.name||s.initials||'?'}</span>
+              <span class="lb-date">${s.date||''}</span>
+            </div>
+            <span class="lb-score${i===0?' gold':''}">${s.score}</span>
           </div>`).join('');
-      } catch (e) {
-        el.innerHTML = '<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,0.3);padding:20px 0;">Unable to load scores.</div>';
-      }
+      } catch(e){el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Unable to load scores.</div>';}
     }
 
-    // Initial draw
     draw();
   </script>
 </body>

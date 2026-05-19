@@ -9,23 +9,20 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Barlow:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    html,body{width:100%;height:100%;overflow:hidden;background:#0a1628;touch-action:none}
-    canvas{display:block;position:fixed;inset:0}
+    html,body{width:100%;height:100%;overflow:hidden;background:#87CEEB;touch-action:none}
+    canvas{display:block;position:fixed;inset:0;width:100%!important;height:100%!important}
     .screen{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:20}
     .hidden{display:none!important}
     .bg-blur{background:rgba(10,22,40,0.82);backdrop-filter:blur(6px)}
     .bg-solid{background:#0a1628;overflow-y:auto;justify-content:flex-start}
-
-    /* Masthead shown during play */
-    #masthead{position:fixed;top:0;left:0;right:0;height:52px;background:rgba(13,27,46,0.85);backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,0.08);display:none;align-items:center;justify-content:space-between;padding:0 16px;z-index:15}
+    #masthead{position:fixed;top:0;left:0;right:0;height:52px;background:rgba(13,27,46,0.88);backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,0.08);display:none;align-items:center;justify-content:space-between;padding:0 16px;z-index:15}
     #masthead.show{display:flex}
-    .mast-title{font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:#fff;letter-spacing:0.02em}
+    .mast-title{font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:#fff}
     .mast-title span{color:#5bbcb0;font-style:italic}
-    .mast-score-wrap{display:flex;flex-direction:column;align-items:flex-end}
+    .mast-score-wrap{display:flex;flex-direction:column;align-items:center}
     .mast-score-lbl{font-family:'Barlow',sans-serif;font-size:8px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35)}
     .mast-score-val{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:#fff;line-height:1}
-    .mast-close{background:none;border:none;color:rgba(255,255,255,.4);font-size:22px;cursor:pointer;padding:4px 8px;line-height:1;text-decoration:none;font-family:'Barlow',sans-serif}
-
+    .mast-close{background:none;border:none;color:rgba(255,255,255,.4);font-size:24px;cursor:pointer;padding:4px 8px;line-height:1;text-decoration:none;font-family:'Barlow',sans-serif}
     .kicker{font-family:'Barlow',sans-serif;font-size:9px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#5bbcb0;border-left:2px solid #5bbcb0;padding-left:8px;margin-bottom:14px}
     .game-title{font-family:'Playfair Display',serif;font-size:40px;font-weight:700;color:#fff;margin-bottom:4px;text-align:center}
     .game-sub{font-family:'Barlow',sans-serif;font-size:13px;color:rgba(255,255,255,.4);margin-bottom:36px;text-align:center}
@@ -71,7 +68,6 @@
 
   <canvas id="canvas"></canvas>
 
-  <!-- Masthead (visible during play) -->
   <div id="masthead">
     <div class="mast-title">Lame <span>Duck</span></div>
     <div class="mast-score-wrap">
@@ -81,7 +77,6 @@
     <a href="/" class="mast-close">×</a>
   </div>
 
-  <!-- START -->
   <div id="start-screen" class="screen bg-blur">
     <div class="kicker">Session Adjourned</div>
     <div class="game-title">Lame Duck</div>
@@ -90,7 +85,6 @@
     <button class="btn-ghost" onclick="showLeaderboard()">Leaderboard</button>
   </div>
 
-  <!-- GAME OVER -->
   <div id="go-screen" class="screen bg-blur hidden">
     <div class="go-title">Game Over</div>
     <div class="go-lbl">You Secured</div>
@@ -105,7 +99,6 @@
     </div>
   </div>
 
-  <!-- LEADERBOARD -->
   <div id="lb-screen" class="screen bg-solid hidden">
     <div id="lb-inner">
       <div class="lb-hdr">
@@ -119,7 +112,6 @@
   </div>
 
   <script>
-    // Desktop block
     const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || navigator.maxTouchPoints > 1;
     if (!isMobile) {
       document.getElementById('desktop-block').style.display = 'flex';
@@ -132,48 +124,82 @@
     const canvas = document.getElementById('canvas');
     const ctx = canvas.getContext('2d');
     let W, H;
-    function resize() { W = canvas.width = window.innerWidth; H = canvas.height = window.innerHeight; }
+
+    function resize() {
+      W = canvas.width  = window.innerWidth;
+      H = canvas.height = window.innerHeight;
+    }
     resize();
-    window.addEventListener('resize', () => { resize(); if (state==='start') draw(); });
+    window.addEventListener('resize', () => { resize(); if (state==='start') drawStatic(); });
 
     // Assets
     const imgs = {};
     let loaded = 0;
-    const SRCS = { duck:'assets/duck-alive.png', duckDead:'assets/duck-dead.png', bill:'assets/bill-stack.png', bg:'assets/capitol-bg.png', ground:'assets/ground-strip.png' };
+    const SRCS = {
+      duck:     'assets/duck-alive.png',
+      duckDead: 'assets/duck-dead.png',
+      bill:     'assets/bill-stack.png',
+      bg:       'assets/capitol-bg.png',
+      ground:   'assets/ground-strip.png'
+    };
     for (const [k,src] of Object.entries(SRCS)) {
       imgs[k] = new Image();
-      imgs[k].onload = imgs[k].onerror = () => { if (++loaded>=5 && state==='start') draw(); };
+      imgs[k].onload = imgs[k].onerror = () => { if (++loaded >= 5 && state==='start') drawStatic(); };
       imgs[k].src = src;
     }
 
-    // State
+    // ── CONSTANTS ─────────────────────────────────────────────────────────────
+    const MASTHEAD_H = 52;
+    const GH         = 60;   // ground strip height
+    const DW         = 60;   // duck width
+    const DH         = 44;   // duck height
+    const PW         = 64;   // pipe width
+    const PGAP       = 200;  // vertical gap between pipes
+    const PSPEED     = 2.2;  // horizontal scroll speed
+    const PSPACE     = 270;  // horizontal spacing between pipe pairs
+    const GRAV       = 0.40;
+    const FLAP       = -7.8;
+    const VMAX       = 9;
+    const VMIN       = -8;
+
+    // ── STATE ─────────────────────────────────────────────────────────────────
     let state = 'start', raf = null;
-    const DW=70, DH=52;
-    let dx,dy,dvy,dangle;
-    const GRAV=0.42, FLAP=-8.0, VMAX=10, VMIN=-9;
-    const PW=80, PGAP=190, PSPEED=2.5, PSPACE=300;
+    let dx, dy, dvy, dangle;
     let pipes, nextIn;
-    const GH=56; // ground height
-    let score=0, best=parseInt(localStorage.getItem('ld_best')||'0'), deadTimer=0;
+    let score = 0, best = parseInt(localStorage.getItem('ld_best')||'0'), deadTimer = 0;
 
-    // Pipe fill color (matches bill-stack cream background)
-    const PIPE_FILL = '#e8e0cc';
+    // Precompute bill pattern once assets load
+    let billPattern = null;
+    function makeBillPattern() {
+      if (!imgs.bill || !imgs.bill.complete || !imgs.bill.naturalWidth) return;
+      // Create offscreen canvas with bill image scaled to pipe width
+      const bh = Math.round(PW * (imgs.bill.naturalHeight / imgs.bill.naturalWidth));
+      const oc = document.createElement('canvas');
+      oc.width = PW; oc.height = bh;
+      const oc2 = oc.getContext('2d');
+      oc2.drawImage(imgs.bill, 0, 0, PW, bh);
+      billPattern = ctx.createPattern(oc, 'repeat-y');
+    }
 
+    // ── SCREENS ───────────────────────────────────────────────────────────────
     function show(id) {
-      ['start-screen','go-screen','lb-screen'].forEach(s=>document.getElementById(s).classList.toggle('hidden',s!==id));
+      ['start-screen','go-screen','lb-screen'].forEach(s =>
+        document.getElementById(s).classList.toggle('hidden', s !== id));
     }
     function hideAll() {
-      ['start-screen','go-screen','lb-screen'].forEach(s=>document.getElementById(s).classList.add('hidden'));
+      ['start-screen','go-screen','lb-screen'].forEach(s =>
+        document.getElementById(s).classList.add('hidden'));
     }
 
+    // ── GAME LOOP ─────────────────────────────────────────────────────────────
     function reset() {
-      dx=W*0.22; dy=H*0.45; dvy=0; dangle=0;
-      pipes=[]; nextIn=W+100; score=0; deadTimer=0;
-      document.getElementById('mast-score').textContent='0';
+      dx = W * 0.22; dy = H * 0.45; dvy = 0; dangle = 0;
+      pipes = []; nextIn = W + 80; score = 0; deadTimer = 0;
+      document.getElementById('mast-score').textContent = '0';
     }
 
     function startGame() {
-      reset(); state='playing'; hideAll();
+      reset(); state = 'playing'; hideAll();
       document.getElementById('masthead').classList.add('show');
       if (raf) cancelAnimationFrame(raf);
       raf = requestAnimationFrame(loop);
@@ -181,148 +207,207 @@
 
     function loop() {
       update(); draw();
-      if (state==='dead' && deadTimer>=52) { showGameOver(); return; }
+      if (state === 'dead' && deadTimer >= 55) { showGameOver(); return; }
       raf = requestAnimationFrame(loop);
     }
 
     function update() {
-      if (state==='dead') {
-        deadTimer++; dvy=Math.min(dvy+GRAV,VMAX); dy+=dvy; dangle=Math.min(dangle+4,90);
-        return;
+      if (state === 'dead') {
+        deadTimer++; dvy = Math.min(dvy + GRAV, VMAX); dy += dvy;
+        dangle = Math.min(dangle + 4, 90); return;
       }
-      if (state!=='playing') return;
-      dvy=Math.max(VMIN,Math.min(dvy+GRAV,VMAX)); dy+=dvy;
-      dangle=Math.max(-22,Math.min(72,dvy*4));
-      nextIn-=PSPEED;
-      if (nextIn<=0) {
-        const minT=H*0.12, maxT=H-GH-PGAP-H*0.12;
-        pipes.push({x:W+PW+10, topH:minT+Math.random()*(maxT-minT), passed:false});
-        nextIn=PSPACE;
+      if (state !== 'playing') return;
+
+      dvy = Math.max(VMIN, Math.min(dvy + GRAV, VMAX));
+      dy += dvy;
+      dangle = Math.max(-22, Math.min(72, dvy * 4));
+
+      nextIn -= PSPEED;
+      if (nextIn <= 0) {
+        const playH = H - MASTHEAD_H - GH;
+        const minT  = MASTHEAD_H + playH * 0.08;
+        const maxT  = H - GH - PGAP - playH * 0.08;
+        pipes.push({ x: W + PW + 10, topH: minT + Math.random() * (maxT - minT), passed: false });
+        nextIn = PSPACE;
       }
       for (const p of pipes) {
-        p.x-=PSPEED;
-        if (!p.passed && p.x+PW<dx) { p.passed=true; score++; document.getElementById('mast-score').textContent=score; }
+        p.x -= PSPEED;
+        if (!p.passed && p.x + PW < dx) {
+          p.passed = true; score++;
+          document.getElementById('mast-score').textContent = score;
+        }
       }
-      pipes=pipes.filter(p=>p.x+PW>-30);
-      // Hitbox
-      const PAD=13;
-      const L=dx-DW/2+PAD, R=dx+DW/2-PAD, T=dy-DH/2+PAD, B=dy+DH/2-PAD;
-      if (B>=H-GH||T<=0) { die(); return; }
+      pipes = pipes.filter(p => p.x + PW > -30);
+
+      // Collision — inset hitbox
+      const PAD = 10;
+      const L = dx - DW/2 + PAD, R = dx + DW/2 - PAD;
+      const T = dy - DH/2 + PAD, B = dy + DH/2 - PAD;
+      if (B >= H - GH || T <= MASTHEAD_H) { die(); return; }
       for (const p of pipes) {
-        if (R<=p.x+4||L>=p.x+PW-4) continue;
-        if (T<p.topH||B>p.topH+PGAP) { die(); return; }
+        if (R <= p.x + 3 || L >= p.x + PW - 3) continue;
+        if (T < p.topH || B > p.topH + PGAP) { die(); return; }
       }
     }
 
     function die() {
-      if (state==='dead') return;
-      state='dead'; deadTimer=0;
-      if (score>best) { best=score; localStorage.setItem('ld_best',score); }
+      if (state === 'dead') return;
+      state = 'dead'; deadTimer = 0;
+      if (score > best) { best = score; localStorage.setItem('ld_best', score); }
       document.getElementById('masthead').classList.remove('show');
     }
 
     function showGameOver() {
-      document.getElementById('go-score').textContent=score;
-      document.getElementById('name-input').value='';
+      document.getElementById('go-score').textContent = score;
+      document.getElementById('name-input').value = '';
       show('go-screen');
     }
 
-    function draw() {
-      ctx.clearRect(0,0,W,H);
+    // ── DRAW ──────────────────────────────────────────────────────────────────
+    function drawBackground() {
+      const bg = imgs.bg;
+      const skyH = H - GH;
 
-      // Static sky background — no scrolling, eliminates black edge artifacts
-      const bg=imgs.bg;
-      if (bg&&bg.complete&&bg.naturalWidth) {
-        // Draw bg stretched to fill entire canvas minus ground
-        ctx.drawImage(bg, 0, 0, W, H-GH);
+      if (bg && bg.complete && bg.naturalWidth) {
+        // Cover-fit: scale bg so it fills width, maintain aspect, center vertically
+        const scale = W / bg.naturalWidth;
+        const drawH = bg.naturalHeight * scale;
+        const drawY = (skyH - drawH) / 2;
+        ctx.drawImage(bg, 0, drawY, W, drawH);
+        // Fill any gaps above/below with sky color
+        const skyColor = '#87CEEB';
+        if (drawY > 0) { ctx.fillStyle = skyColor; ctx.fillRect(0, 0, W, drawY); }
+        if (drawY + drawH < skyH) { ctx.fillStyle = '#5a8a3c'; ctx.fillRect(0, drawY + drawH, W, skyH - drawY - drawH); }
       } else {
-        ctx.fillStyle='#87CEEB'; ctx.fillRect(0,0,W,H-GH);
+        ctx.fillStyle = '#87CEEB'; ctx.fillRect(0, 0, W, skyH);
       }
+    }
 
-      // Pipes — fill solid color first, then draw bill on top to avoid transparency gaps
-      const bill=imgs.bill;
-      for (const p of pipes) {
-        const botY=p.topH+PGAP, botH=H-GH-botY;
-
-        // Fill solid color for both pipes first
-        ctx.fillStyle=PIPE_FILL;
-        ctx.fillRect(p.x, 0, PW, p.topH);
-        ctx.fillRect(p.x, botY, PW, botH);
-
-        // Draw bill texture on top
-        if (bill&&bill.complete&&bill.naturalWidth) {
-          // Bottom pipe
-          ctx.drawImage(bill, p.x, botY, PW, botH);
-          // Top pipe flipped
-          ctx.save();
-          ctx.translate(p.x+PW/2, p.topH/2);
-          ctx.scale(1,-1);
-          ctx.drawImage(bill, -PW/2, -p.topH/2, PW, p.topH);
-          ctx.restore();
-        }
-
-        // Draw a thin dark border on pipe edges for definition
-        ctx.strokeStyle='rgba(0,0,0,0.15)';
-        ctx.lineWidth=1;
-        ctx.strokeRect(p.x+0.5, 0.5, PW-1, p.topH-1);
-        ctx.strokeRect(p.x+0.5, botY+0.5, PW-1, botH-1);
-      }
-
-      // Static ground — no scrolling
-      const gnd=imgs.ground;
-      const gY=H-GH;
-      if (gnd&&gnd.complete&&gnd.naturalWidth) {
-        // Stretch ground across full width
+    function drawGround() {
+      const gnd = imgs.ground;
+      const gY = H - GH;
+      if (gnd && gnd.complete && gnd.naturalWidth) {
         ctx.drawImage(gnd, 0, gY, W, GH);
       } else {
-        ctx.fillStyle='#5a8a3c'; ctx.fillRect(0,gY,W,GH);
+        ctx.fillStyle = '#5a8a3c'; ctx.fillRect(0, gY, W, GH);
       }
+    }
 
-      // Duck
-      const dImg=state==='dead'?imgs.duckDead:imgs.duck;
+    function drawPipes() {
+      const bill = imgs.bill;
+      const PIPE_BASE = '#d4c9a8'; // cream base matching bill scroll color
+
+      for (const p of pipes) {
+        const botY = p.topH + PGAP;
+        const topH = p.topH;
+        const botH = H - GH - botY;
+
+        // ── Bottom pipe ──
+        // 1. Solid base fill
+        ctx.fillStyle = PIPE_BASE;
+        ctx.fillRect(p.x, botY, PW, botH);
+        // 2. Tile bill image
+        if (bill && bill.complete && bill.naturalWidth) {
+          const bh = Math.round(PW * bill.naturalHeight / bill.naturalWidth);
+          for (let y = botY; y < H - GH; y += bh) {
+            const drawH = Math.min(bh, H - GH - y);
+            ctx.drawImage(bill, 0, 0, bill.naturalWidth, bill.naturalHeight, p.x, y, PW, drawH);
+          }
+        }
+
+        // ── Top pipe (draw bill right-side up from gap opening upward) ──
+        ctx.fillStyle = PIPE_BASE;
+        ctx.fillRect(p.x, 0, PW, topH);
+        if (bill && bill.complete && bill.naturalWidth) {
+          const bh = Math.round(PW * bill.naturalHeight / bill.naturalWidth);
+          // Start from gap end, tile upward
+          for (let y = topH - bh; y > -bh; y -= bh) {
+            const srcY0 = y < 0 ? -y : 0;
+            const dstY  = y < 0 ? 0  : y;
+            const drawH = y < 0 ? bh - srcY0 : bh;
+            const srcH  = drawH * (bill.naturalHeight / bh);
+            ctx.drawImage(bill, 0, srcY0 * (bill.naturalHeight / bh), bill.naturalWidth, srcH, p.x, dstY, PW, drawH);
+          }
+        }
+
+        // Subtle edge shadow for depth
+        ctx.fillStyle = 'rgba(0,0,0,0.10)';
+        ctx.fillRect(p.x + PW - 4, 0, 4, topH);
+        ctx.fillRect(p.x + PW - 4, botY, 4, botH);
+        ctx.fillRect(p.x, 0, 4, topH);
+        ctx.fillRect(p.x, botY, 4, botH);
+      }
+    }
+
+    function drawDuck() {
+      const dImg = state === 'dead' ? imgs.duckDead : imgs.duck;
       ctx.save();
-      ctx.translate(dx,dy);
-      ctx.rotate(dangle*Math.PI/180);
-      if (dImg&&dImg.complete&&dImg.naturalWidth) {
-        ctx.drawImage(dImg,-DW/2,-DH/2,DW,DH);
+      ctx.translate(dx, dy);
+      ctx.rotate(dangle * Math.PI / 180);
+      if (dImg && dImg.complete && dImg.naturalWidth) {
+        ctx.drawImage(dImg, -DW/2, -DH/2, DW, DH);
       } else {
-        ctx.fillStyle='#fff'; ctx.beginPath();
-        ctx.ellipse(0,0,DW/2,DH/2,0,0,Math.PI*2); ctx.fill();
+        ctx.fillStyle = '#fff';
+        ctx.beginPath(); ctx.ellipse(0,0,DW/2,DH/2,0,0,Math.PI*2); ctx.fill();
       }
       ctx.restore();
     }
 
-    // Input
-    function flap(e) { if(state!=='playing')return; e.preventDefault(); dvy=FLAP; }
-    canvas.addEventListener('touchstart',flap,{passive:false});
-    canvas.addEventListener('mousedown',flap);
+    function drawStatic() {
+      ctx.clearRect(0, 0, W, H);
+      drawBackground();
+      drawGround();
+    }
 
-    // Leaderboard
-    function showLeaderboard(){show('lb-screen');loadLeaderboard();}
-    function hideLeaderboard(){show('start-screen');}
+    function draw() {
+      ctx.clearRect(0, 0, W, H);
+      drawBackground();
+      drawPipes();
+      drawGround();
+      drawDuck();
+    }
 
-    async function submitScore(){
-      const name=document.getElementById('name-input').value.trim()||'Anonymous';
+    // ── INPUT ─────────────────────────────────────────────────────────────────
+    function flap(e) {
+      if (state !== 'playing') return;
+      e.preventDefault(); dvy = FLAP;
+    }
+    canvas.addEventListener('touchstart', flap, { passive: false });
+    canvas.addEventListener('mousedown', flap);
+
+    // ── LEADERBOARD ───────────────────────────────────────────────────────────
+    function showLeaderboard() { show('lb-screen'); loadLeaderboard(); }
+    function hideLeaderboard() { show('start-screen'); }
+
+    async function submitScore() {
+      const name = document.getElementById('name-input').value.trim() || 'Anonymous';
       try {
-        const res=await fetch(BIN_URL+'/latest',{headers:{'X-Master-Key':BIN_KEY,'X-Bin-Meta':'false'}});
-        const data=await res.json();
-        const scores=data.scores||[];
-        scores.push({name,score,date:new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})});
-        scores.sort((a,b)=>b.score-a.score);
-        await fetch(BIN_URL,{method:'PUT',headers:{'Content-Type':'application/json','X-Master-Key':BIN_KEY,'X-Bin-Versioning':'false'},body:JSON.stringify({scores:scores.slice(0,20)})});
-      } catch(e){console.error(e);}
+        const res  = await fetch(BIN_URL+'/latest', { headers:{'X-Master-Key':BIN_KEY,'X-Bin-Meta':'false'} });
+        const data = await res.json();
+        const scores = data.scores || [];
+        scores.push({ name, score, date: new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}) });
+        scores.sort((a,b) => b.score - a.score);
+        await fetch(BIN_URL, {
+          method:'PUT',
+          headers:{'Content-Type':'application/json','X-Master-Key':BIN_KEY,'X-Bin-Versioning':'false'},
+          body: JSON.stringify({ scores: scores.slice(0,20) })
+        });
+      } catch(e) { console.error(e); }
       showLeaderboard();
     }
 
-    async function loadLeaderboard(){
-      const el=document.getElementById('lb-list');
-      el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Loading...</div>';
+    async function loadLeaderboard() {
+      const el = document.getElementById('lb-list');
+      el.innerHTML = '<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Loading...</div>';
       try {
-        const res=await fetch(BIN_URL+'/latest',{headers:{'X-Master-Key':BIN_KEY,'X-Bin-Meta':'false'}});
-        const data=await res.json();
-        const scores=data.scores||[];
-        if (!scores.length){el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">No scores yet. Be the first!</div>';return;}
-        el.innerHTML=scores.map((s,i)=>`
+        const res  = await fetch(BIN_URL+'/latest', { headers:{'X-Master-Key':BIN_KEY,'X-Bin-Meta':'false'} });
+        const data = await res.json();
+        const scores = data.scores || [];
+        if (!scores.length) {
+          el.innerHTML = '<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">No scores yet. Be the first!</div>';
+          return;
+        }
+        el.innerHTML = scores.map((s,i) => `
           <div class="lb-row">
             <span class="lb-rank">${i+1}</span>
             <div class="lb-name-col">
@@ -331,12 +416,12 @@
             </div>
             <span class="lb-score${i===0?' gold':''}">${s.score}</span>
           </div>`).join('');
-      } catch(e){
-        el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Unable to load scores.</div>';
+      } catch(e) {
+        el.innerHTML = '<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Unable to load scores.</div>';
       }
     }
 
-    draw();
+    drawStatic();
   </script>
 </body>
 </html>

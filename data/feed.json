@@ -1,21 +1,111 @@
 {
-  "generated": "2026-05-19T22:09:20.241Z",
+  "generated": "2026-05-19T23:56:26.310Z",
   "news": [
     {
-      "title": "Cassidy becomes fourth GOP senator to back Iran war powers measure limiting Trump",
-      "desc": "Sen. Bill Cassidy (R-La.), who lost his bid for a third term in Saturday’s Louisiana Senate Republican primary, on Tuesday became the fourth Republican senator to vote to advance a war powers resoluti",
-      "link": "https://thehill.com/homenews/5886024-bill-cassidy-iran-war-powers/",
+      "title": "Trump scores major victory with Massie&#039;s primary defeat in Kentucky",
+      "desc": "Rep. Thomas Massie (R-Ky.) is projected to lose his Kentucky House primary race to President Trump-endorsed challenger Ed Gallrein, according to Decision Desk HQ, a major victory for the president in ",
+      "link": "https://thehill.com/homenews/campaign/5883936-massie-loses-kentucky-house-primary/",
       "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:55:55 +0000",
+      "rawDate": "Tue, 19 May 2026 23:41:57 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "House pitches EV fees in highway bill",
-      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Bipartisan highway bill seeks to charge EV fees The House version of a bipartisan highway bill proposes to add a $13",
-      "link": "https://thehill.com/newsletters/energy-environment/5885966-house-pitches-ev-fees-in-highway-bill/",
+      "title": "WHO chief concerned over &#039;scale and speed&#039; of Ebola outbreak as Congo reports 134 dead",
+      "desc": "BUNIA, Congo (AP) — The head of the World Health Organization on Tuesday expressed concern over the “scale and speed” of an outbreak of a rare type of Ebola known as Bundibugyo in eastern Congo, where",
+      "link": "https://thehill.com/policy/international/ebola-congo-who/",
       "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:47:32 +0000",
+      "rawDate": "Tue, 19 May 2026 23:41:51 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump-backed Barr poised to replace McConnell after Kentucky GOP Senate primary victory",
+      "desc": "Rep. Andy Barr (R-Ky.) is projected to win the Republican primary for Senate in Kentucky, putting him on a glidepath to replace retiring Sen. Mitch McConnell (R), the longest-serving Senate leader in ",
+      "link": "https://thehill.com/homenews/campaign/5883969-barr-kentucky-senate-primary/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 23:21:21 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate Dems press Duffy on &#039;Great American Road Trip&#039;",
+      "desc": "Senate Democrats pressed Transportation Secretary Sean Duffy on Tuesday about a cross-country road trip he recently took with his family and filmed for an upcoming reality TV-style series commemoratin",
+      "link": "https://thehill.com/policy/transportation/5886180-senate-democrats-question-duffy-trip/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 23:17:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+      "desc": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+      "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 22:53:04 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "25 states and DC sue Education Department over loan limits, citing health system strain",
+      "desc": "Democratic attorneys general in more than 20 states and Washington, D.C., on Tuesday filed suit against the Education Department over new limits set to go into effect for graduate student loan borrowe",
+      "link": "https://thehill.com/homenews/education/5885968-states-sue-education-department-graduate-student-loans/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 22:44:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "5M people may drop coverage from ACA marketplaces: Analysis",
+      "desc": "Roughly 5 million people could lose coverage from the Affordable Care Act (ACA) Marketplace this year after the enhanced premium tax credits expired in 2025, according to the latest analysis from KFF.",
+      "link": "https://thehill.com/homenews/5885476-aca-marketplace-tax-credit-loss-enrollments/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 22:40:01 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "GOP panel looks to advance legislation making daylight saving permanent",
+      "desc": "Republicans on the House Energy and Commerce Committee are planning to move ahead with legislation that would make \"springing forward\" permanent across the U.S. Matthew VanHyfte, a spokesperson for th",
+      "link": "https://thehill.com/homenews/house/5886117-daylight-saving-time-house-republicans-markup/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 22:36:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vance says Europe &#039;overreacting&#039; to Pentagon halting Poland troop rotation",
+      "desc": "Vice President Vance on Tuesday defended last week’s abrupt pause in a ​U.S. troop deployment to Poland, saying the brigade of 4,000 service members had been “delayed” to Europe and not withdrawn. Spe",
+      "link": "https://thehill.com/policy/defense/5886053-vance-poland-troop-deployment/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 22:26:01 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Tuberville casts doubt on Alabama redistricting: &#039;I’m not so sure it’s going to go through&#039;",
+      "desc": "Alabama Sen. Tommy Tuberville (R) on Tuesday said he wasn’t sure if the state redistricting measure would go through, a little over a week after the Supreme Court lifted a block on its new congression",
+      "link": "https://thehill.com/homenews/campaign/5886033-tommy-tuberville-alabama-redistricting/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 22:24:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Trump gives remarks at congressional picnic",
+      "desc": "President Trump is set to give remarks Tuesday evening at the annual congressional picnic. Trump earlier Tuesday touted his $400 million ballroom project during an impromptu presser from the construct",
+      "link": "https://thehill.com/video-clips/5885560-watch-live-donald-trump-congressional-picnic/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 22:15:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cassidy becomes fourth GOP senator to back Iran war powers measure limiting Trump",
+      "desc": "Sen. Bill Cassidy, who lost his bid for a third term in Saturday’s Louisiana Senate Republican primary, on Tuesday became the fourth Republican senator to vote to advance a war powers resolution direc",
+      "link": "https://thehill.com/homenews/5886024-bill-cassidy-iran-war-powers/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 21:55:55 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -29,94 +119,13 @@
       "tag": "safety"
     },
     {
-      "title": "Vance follows Rubio’s raucous briefing with subdued performance",
-      "desc": "Vice President Vance took to the White House briefing room Tuesday in what was a decidedly more subdued manner than that of Secretary of State Marco Rubio’s unruly turn at the podium. Vance sought to ",
-      "link": "https://thehill.com/homenews/administration/5885952-vice-president-vance-press-briefing/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:27:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Appeals court hears Anthropic&#039;s Pentagon AI suit",
       "desc": "Anthropic and the Pentagon squared off Tuesday in a federal appeals court, where the artificial intelligence firm faced an uphill battle in convincing three Republican-appointed judges that Secretary ",
       "link": "https://thehill.com/policy/technology/5885923-appeals-court-hears-anthropics-pentagon-ai-suit/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 21:14:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Thune predicts GOP will hold Senate after Trump endorses Paxton over Cornyn",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) predicted that the GOP will maintain its majority in November in comments made Tuesday following President Trump's endorsement of Texas Attorney General Ken ",
-      "link": "https://thehill.com/homenews/campaign/5885848-gop-majority-senate-thune/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:12:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump’s endorsement of Ken Paxton over John Cornyn roils Texas Senate race",
-      "desc": "President Trump’s decision to endorse Texas Attorney General Ken Paxton over Sen. John Cornyn, who was widely seen as the stronger general election pick, is roiling the Lone State State’s bitter prima",
-      "link": "https://thehill.com/homenews/campaign/5885919-trump-endorses-paxton-texas-runoff/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:06:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Jeffries, Black Caucus amplify calls for athletes to boycott SEC over Southern redistricting",
-      "desc": "Black Democrats on Capitol Hill are amplifying their calls for Black athletes to boycott state universities in the South, saying those schools have done nothing to fight the Republican gerrymandering ",
-      "link": "https://thehill.com/homenews/house/5885876-sec-athletes-redistricting-democrats/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:04:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Alabama gubernatorial primary elections",
-      "desc": "Voters in Alabama are heading to the polls Tuesday to decide who will succeed Gov. Kay Ivey (R) this November. Former Sen. Doug Jones, the presumptive Democratic nominee, is making a longshot bid in t",
-      "link": "https://thehill.com/homenews/campaign/5872523-live-results-alabama-gubernatorial-primary/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Alabama Senate primaries",
-      "desc": "A number of candidates in Alabama are jockeying to replace gubernatorial candidate and outgoing Sen. Tommy Tuberville (R) on November's ballot in primary elections Tuesday. Republican Rep. Barry More ",
-      "link": "https://thehill.com/homenews/campaign/5872525-live-results-alabama-senate-primary/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Georgia gubernatorial primary elections",
-      "desc": "Voters in the Peach State are heading to the polls Tuesday to decide which candidates will compete to replace Republican Gov. Brian Kemp (Ga.) this fall. The GOP primary has turned ugly, with outsized",
-      "link": "https://thehill.com/homenews/campaign/5872529-live-results-georgia-gubernatorial-primary/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Oregon gubernatorial primary elections",
-      "desc": "Oregon Gov. Tina Kotek is running for a second term as governor in Tuesday's primary elections. The Democrat is facing off against nine challengers in her bid to secure the party's nod for the Novembe",
-      "link": "https://thehill.com/homenews/campaign/5872550-live-results-oregon-gubernatorial-primary/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Oregon House primaries",
-      "desc": "Voters in Oregon are heading to the polls Tuesday to weigh in on House primaries. All six incumbent lawmakers are seeking their party's nods ahead of the November general election. Polls close at 8 p.",
-      "link": "https://thehill.com/homenews/campaign/5872553-live-results-oregon-house-primary/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "GRCC taps Kentwood Public Schools administrator as new trustee",
@@ -180,15 +189,6 @@
       "rawDate": "Tue, 19 May 2026 19:56:05 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "WHO chief concerned over &#039;scale and speed&#039; of Ebola outbreak as Congo reports 134 dead",
-      "desc": "BUNIA, Congo (AP) — The head of the World Health Organization on Tuesday expressed concern over the “scale and speed” of an outbreak of a rare type of Ebola in eastern Congo, where authorities reporte",
-      "link": "https://thehill.com/policy/international/ebola-congo-who/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 19:33:31 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Production of iconic beer ending after nearly 200 years of brewing",
@@ -542,15 +542,6 @@
       "tag": "technology"
     },
     {
-      "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-      "desc": "Follow our live coverage of Google’s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.",
-      "link": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Ann Arbor officials urge University of Michigan to not buy Concordia property",
       "desc": "“It’s my opinion that the highest and best use for this site is housing,” said Council Member Chris Watson, D-2nd Ward.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/ann-arbor-officials-urge-university-of-michigan-to-not-buy-concordia-property.html",
@@ -866,15 +857,6 @@
       "tag": "health"
     },
     {
-      "title": "Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war",
-      "desc": "DUBAI, United Arab Emirates (AP) — A drone strike sparked a fire on the edge of the United Arab Emirates’ sole nuclear power plant on Sunday in what authorities called an “unprovoked terrorist attack.",
-      "link": "https://thehill.com/policy/international/drone-strikes-uae-nuclear-plant/",
-      "date": "May 17, 2026",
-      "rawDate": "Sun, 17 May 2026 20:23:42 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Sick of spam calls? See which states file the most complaints",
       "desc": "In 2025, the Federal Trade Commission (FTC) received more than 2.6 million complaints – some states had far more than others.",
       "link": "https://thehill.com/homenews/state-watch/5877175-sick-of-spam-calls-see-which-states-file-the-most-complaints/",
@@ -889,15 +871,6 @@
       "link": "https://thehill.com/policy/healthcare/5881767-hantavirus-semen-research-study/",
       "date": "May 17, 2026",
       "rawDate": "Sun, 17 May 2026 11:32:59 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump&#039;s health cuts complicate federal messaging on hantavirus",
-      "desc": "The federal hantavirus response has laid bare the impact of the Trump administration's cuts to U.S. and global health, renewing concerns among public health experts that the U.S. is not prepared for a",
-      "link": "https://thehill.com/policy/healthcare/5880824-hantavirus-trump-cdc-response/",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 21:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

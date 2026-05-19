@@ -15,11 +15,17 @@
     .hidden{display:none!important}
     .bg-blur{background:rgba(10,22,40,0.82);backdrop-filter:blur(6px)}
     .bg-solid{background:#0a1628;overflow-y:auto;justify-content:flex-start}
-    #hud{position:fixed;top:16px;left:16px;right:16px;display:flex;justify-content:space-between;align-items:flex-start;pointer-events:none;z-index:15}
-    .hud-box{background:rgba(13,27,46,0.7);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);padding:10px 16px;border-radius:6px}
-    .hud-label{font-family:'Barlow',sans-serif;font-size:9px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.4);margin-bottom:2px}
-    .hud-value{font-family:'Playfair Display',serif;font-size:26px;font-weight:700;color:#fff;line-height:1}
-    .hud-close{pointer-events:all;background:rgba(13,27,46,0.7);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.1);color:rgba(255,255,255,.6);font-size:20px;width:44px;height:44px;cursor:pointer;border-radius:6px;display:flex;align-items:center;justify-content:center;text-decoration:none;font-family:'Barlow',sans-serif}
+
+    /* Masthead shown during play */
+    #masthead{position:fixed;top:0;left:0;right:0;height:52px;background:rgba(13,27,46,0.85);backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,0.08);display:none;align-items:center;justify-content:space-between;padding:0 16px;z-index:15}
+    #masthead.show{display:flex}
+    .mast-title{font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:#fff;letter-spacing:0.02em}
+    .mast-title span{color:#5bbcb0;font-style:italic}
+    .mast-score-wrap{display:flex;flex-direction:column;align-items:flex-end}
+    .mast-score-lbl{font-family:'Barlow',sans-serif;font-size:8px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35)}
+    .mast-score-val{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:#fff;line-height:1}
+    .mast-close{background:none;border:none;color:rgba(255,255,255,.4);font-size:22px;cursor:pointer;padding:4px 8px;line-height:1;text-decoration:none;font-family:'Barlow',sans-serif}
+
     .kicker{font-family:'Barlow',sans-serif;font-size:9px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#5bbcb0;border-left:2px solid #5bbcb0;padding-left:8px;margin-bottom:14px}
     .game-title{font-family:'Playfair Display',serif;font-size:40px;font-weight:700;color:#fff;margin-bottom:4px;text-align:center}
     .game-sub{font-family:'Barlow',sans-serif;font-size:13px;color:rgba(255,255,255,.4);margin-bottom:36px;text-align:center}
@@ -32,7 +38,7 @@
     .go-name-lbl{font-family:'Barlow',sans-serif;font-size:12px;color:rgba(255,255,255,.4);margin-bottom:10px}
     #name-input{font-family:'Barlow',sans-serif;font-size:18px;font-weight:600;text-align:center;width:240px;padding:12px 16px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.2);color:#fff;outline:none;border-radius:3px;margin-bottom:18px}
     #name-input::placeholder{color:rgba(255,255,255,.2)}
-    .btn-row{display:flex;gap:8px}
+    .btn-row{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
     #lb-inner{width:100%;max-width:480px;padding:28px 20px 100px}
     .lb-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px}
     .lb-title{font-family:'Playfair Display',serif;font-size:26px;font-weight:700;color:#fff}
@@ -65,14 +71,17 @@
 
   <canvas id="canvas"></canvas>
 
-  <div id="hud">
-    <div class="hud-box">
-      <div class="hud-label">Votes Secured</div>
-      <div class="hud-value" id="hud-score">0</div>
+  <!-- Masthead (visible during play) -->
+  <div id="masthead">
+    <div class="mast-title">Lame <span>Duck</span></div>
+    <div class="mast-score-wrap">
+      <div class="mast-score-lbl">Votes Secured</div>
+      <div class="mast-score-val" id="mast-score">0</div>
     </div>
-    <a href="/" class="hud-close">×</a>
+    <a href="/" class="mast-close">×</a>
   </div>
 
+  <!-- START -->
   <div id="start-screen" class="screen bg-blur">
     <div class="kicker">Session Adjourned</div>
     <div class="game-title">Lame Duck</div>
@@ -81,6 +90,7 @@
     <button class="btn-ghost" onclick="showLeaderboard()">Leaderboard</button>
   </div>
 
+  <!-- GAME OVER -->
   <div id="go-screen" class="screen bg-blur hidden">
     <div class="go-title">Game Over</div>
     <div class="go-lbl">You Secured</div>
@@ -90,10 +100,12 @@
     <input id="name-input" maxlength="30" placeholder="Your name" autocomplete="off" autocorrect="off" spellcheck="false" />
     <div class="btn-row">
       <button class="btn-teal" onclick="submitScore()">Submit</button>
+      <button class="btn-ghost" style="margin-top:0" onclick="showLeaderboard()">Leaderboard</button>
       <button class="btn-ghost" style="margin-top:0" onclick="startGame()">Play Again</button>
     </div>
   </div>
 
+  <!-- LEADERBOARD -->
   <div id="lb-screen" class="screen bg-solid hidden">
     <div id="lb-inner">
       <div class="lb-hdr">
@@ -111,7 +123,6 @@
     const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || navigator.maxTouchPoints > 1;
     if (!isMobile) {
       document.getElementById('desktop-block').style.display = 'flex';
-      document.getElementById('hud').style.display = 'none';
       document.getElementById('start-screen').classList.add('hidden');
     }
 
@@ -141,9 +152,12 @@
     let dx,dy,dvy,dangle;
     const GRAV=0.42, FLAP=-8.0, VMAX=10, VMIN=-9;
     const PW=80, PGAP=190, PSPEED=2.5, PSPACE=300;
-    let pipes, nextIn, bgX=0, gndX=0;
-    const GH=56;
+    let pipes, nextIn;
+    const GH=56; // ground height
     let score=0, best=parseInt(localStorage.getItem('ld_best')||'0'), deadTimer=0;
+
+    // Pipe fill color (matches bill-stack cream background)
+    const PIPE_FILL = '#e8e0cc';
 
     function show(id) {
       ['start-screen','go-screen','lb-screen'].forEach(s=>document.getElementById(s).classList.toggle('hidden',s!==id));
@@ -154,13 +168,14 @@
 
     function reset() {
       dx=W*0.22; dy=H*0.45; dvy=0; dangle=0;
-      pipes=[]; nextIn=W+100; bgX=0; gndX=0; score=0; deadTimer=0;
-      document.getElementById('hud-score').textContent='0';
+      pipes=[]; nextIn=W+100; score=0; deadTimer=0;
+      document.getElementById('mast-score').textContent='0';
     }
 
     function startGame() {
       reset(); state='playing'; hideAll();
-      if(raf) cancelAnimationFrame(raf);
+      document.getElementById('masthead').classList.add('show');
+      if (raf) cancelAnimationFrame(raf);
       raf = requestAnimationFrame(loop);
     }
 
@@ -173,24 +188,23 @@
     function update() {
       if (state==='dead') {
         deadTimer++; dvy=Math.min(dvy+GRAV,VMAX); dy+=dvy; dangle=Math.min(dangle+4,90);
-        bgX=(bgX+0.3)%(W+1); return;
+        return;
       }
       if (state!=='playing') return;
       dvy=Math.max(VMIN,Math.min(dvy+GRAV,VMAX)); dy+=dvy;
       dangle=Math.max(-22,Math.min(72,dvy*4));
-      bgX=(bgX+0.5)%(W+1);
-      gndX=(gndX+PSPEED)%(W*2);
       nextIn-=PSPEED;
       if (nextIn<=0) {
-        const minT=H*0.10, maxT=H-GH-PGAP-H*0.10;
+        const minT=H*0.12, maxT=H-GH-PGAP-H*0.12;
         pipes.push({x:W+PW+10, topH:minT+Math.random()*(maxT-minT), passed:false});
         nextIn=PSPACE;
       }
       for (const p of pipes) {
         p.x-=PSPEED;
-        if (!p.passed && p.x+PW<dx) { p.passed=true; score++; document.getElementById('hud-score').textContent=score; }
+        if (!p.passed && p.x+PW<dx) { p.passed=true; score++; document.getElementById('mast-score').textContent=score; }
       }
       pipes=pipes.filter(p=>p.x+PW>-30);
+      // Hitbox
       const PAD=13;
       const L=dx-DW/2+PAD, R=dx+DW/2-PAD, T=dy-DH/2+PAD, B=dy+DH/2-PAD;
       if (B>=H-GH||T<=0) { die(); return; }
@@ -204,6 +218,7 @@
       if (state==='dead') return;
       state='dead'; deadTimer=0;
       if (score>best) { best=score; localStorage.setItem('ld_best',score); }
+      document.getElementById('masthead').classList.remove('show');
     }
 
     function showGameOver() {
@@ -214,43 +229,51 @@
 
     function draw() {
       ctx.clearRect(0,0,W,H);
-      ctx.fillStyle='#87CEEB'; ctx.fillRect(0,0,W,H);
 
-      // Background
+      // Static sky background — no scrolling, eliminates black edge artifacts
       const bg=imgs.bg;
       if (bg&&bg.complete&&bg.naturalWidth) {
-        const bH=H-GH, bW=bH*(bg.naturalWidth/bg.naturalHeight);
-        let ox=-(bgX%bW);
-        while(ox<W){ctx.drawImage(bg,ox,0,bW,bH);ox+=bW;}
+        // Draw bg stretched to fill entire canvas minus ground
+        ctx.drawImage(bg, 0, 0, W, H-GH);
+      } else {
+        ctx.fillStyle='#87CEEB'; ctx.fillRect(0,0,W,H-GH);
       }
 
-      // Pipes
+      // Pipes — fill solid color first, then draw bill on top to avoid transparency gaps
       const bill=imgs.bill;
       for (const p of pipes) {
         const botY=p.topH+PGAP, botH=H-GH-botY;
+
+        // Fill solid color for both pipes first
+        ctx.fillStyle=PIPE_FILL;
+        ctx.fillRect(p.x, 0, PW, p.topH);
+        ctx.fillRect(p.x, botY, PW, botH);
+
+        // Draw bill texture on top
         if (bill&&bill.complete&&bill.naturalWidth) {
-          // Bottom pipe — right side up
+          // Bottom pipe
           ctx.drawImage(bill, p.x, botY, PW, botH);
-          // Top pipe — flipped vertically so BILL label is at bottom (gap end)
+          // Top pipe flipped
           ctx.save();
           ctx.translate(p.x+PW/2, p.topH/2);
           ctx.scale(1,-1);
           ctx.drawImage(bill, -PW/2, -p.topH/2, PW, p.topH);
           ctx.restore();
-        } else {
-          ctx.fillStyle='#4a7c59';
-          ctx.fillRect(p.x,0,PW,p.topH);
-          ctx.fillRect(p.x,botY,PW,botH);
         }
+
+        // Draw a thin dark border on pipe edges for definition
+        ctx.strokeStyle='rgba(0,0,0,0.15)';
+        ctx.lineWidth=1;
+        ctx.strokeRect(p.x+0.5, 0.5, PW-1, p.topH-1);
+        ctx.strokeRect(p.x+0.5, botY+0.5, PW-1, botH-1);
       }
 
-      // Ground
+      // Static ground — no scrolling
       const gnd=imgs.ground;
       const gY=H-GH;
       if (gnd&&gnd.complete&&gnd.naturalWidth) {
-        const gW=GH*(gnd.naturalWidth/gnd.naturalHeight);
-        let gx=-(gndX%gW);
-        while(gx<W){ctx.drawImage(gnd,gx,gY,gW,GH);gx+=gW;}
+        // Stretch ground across full width
+        ctx.drawImage(gnd, 0, gY, W, GH);
       } else {
         ctx.fillStyle='#5a8a3c'; ctx.fillRect(0,gY,W,GH);
       }
@@ -308,7 +331,9 @@
             </div>
             <span class="lb-score${i===0?' gold':''}">${s.score}</span>
           </div>`).join('');
-      } catch(e){el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Unable to load scores.</div>';}
+      } catch(e){
+        el.innerHTML='<div style="font-family:Barlow,sans-serif;font-size:13px;color:rgba(255,255,255,.3);padding:24px 0">Unable to load scores.</div>';
+      }
     }
 
     draw();

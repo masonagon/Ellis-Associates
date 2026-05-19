@@ -269,15 +269,17 @@
       const skyH = H - GH;
 
       if (bg && bg.complete && bg.naturalWidth) {
-        // Cover-fit: scale bg so it fills width, maintain aspect, center vertically
-        const scale = W / bg.naturalWidth;
-        const drawH = bg.naturalHeight * scale;
-        const drawY = (skyH - drawH) / 2;
-        ctx.drawImage(bg, 0, drawY, W, drawH);
-        // Fill any gaps above/below with sky color
-        const skyColor = '#87CEEB';
-        if (drawY > 0) { ctx.fillStyle = skyColor; ctx.fillRect(0, 0, W, drawY); }
-        if (drawY + drawH < skyH) { ctx.fillStyle = '#5a8a3c'; ctx.fillRect(0, drawY + drawH, W, skyH - drawY - drawH); }
+        // Cover-fit by HEIGHT — scales to fill full height, crops sides
+        const scale = skyH / bg.naturalHeight;
+        const drawW = bg.naturalWidth * scale;
+        const drawX = (W - drawW) / 2; // center horizontally
+        ctx.drawImage(bg, drawX, 0, drawW, skyH);
+        // Fill any side gaps with sky blue
+        if (drawX > 0) {
+          ctx.fillStyle = '#87CEEB';
+          ctx.fillRect(0, 0, drawX, skyH);
+          ctx.fillRect(drawX + drawW, 0, W - (drawX + drawW), skyH);
+        }
       } else {
         ctx.fillStyle = '#87CEEB'; ctx.fillRect(0, 0, W, skyH);
       }

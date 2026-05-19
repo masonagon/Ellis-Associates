@@ -1,14 +1,248 @@
 {
-  "generated": "2026-05-19T13:52:51.707Z",
+  "generated": "2026-05-19T16:46:53.173Z",
   "news": [
     {
-      "title": "Congo reports sharp rise in Ebola cases as WHO worries about outbreak&#039;s scale and speed",
+      "title": "14-year-old charged with 9 felonies in Napoleon Schools swatting",
+      "desc": "A swatting is an incident where someone makes false emergency calls to trigger a large police response to an area.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/14-year-old-charged-with-9-felonies-in-napoleon-schools-swatting.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:45:39 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Teen sentenced for shooting that killed 15-year-old girlfriend",
+      "desc": "Mugisha Mapenzi was sentenced for the June 2025 shooting death of 15-year-old Myasia Johnson.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/teen-sentenced-for-shooting-that-killed-15-year-old-girlfriend.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:44:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Bergman: &#039;The time is now&#039; to push for breakthroughs in psychedelic treatments",
+      "desc": "Rep. Jack Bergman (R-Mich.) said on Tuesday that \"the time is now\" to push for breakthroughs in psychedelic treatments given President Trump's recent support for this field of research. At The Hill's ",
+      "link": "https://thehill.com/policy/healthcare/5884802-bergman-psychedelic-treatment-push/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:43:43 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Live updates: Trump backs Paxton for Texas Senate; Blanche says &#039;anybody&#039; can apply to compensation fund",
+      "desc": "President Trump on Tuesday backed Attorney General Ken Paxton in the Texas Senate GOP primary over incumbent John Cornyn. \"Ken is a true MAGA Warrior who has ALWAYS delivered for Texas, and will conti",
+      "link": "https://thehill.com/homenews/administration/5883563-trump-blanche-kentucky-primary-thomas-massie/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:41:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rand Paul slams Democrats for pushing GOP to reconciliation bill: ‘Y’all gave up’",
+      "desc": "Sen. Rand Paul (R-Ky.) criticized Senate Democrats on Tuesday for pushing Republicans into a reconciliation process to fund immigration agencies within the Department of Homeland Security (DHS).   “Th",
+      "link": "https://thehill.com/homenews/senate/5885213-rand-paul-criticizes-democrats-dhs-funding/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:38:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump endorses Paxton in Texas Senate GOP runoff, in blow to Cornyn",
+      "desc": "President Trump has endorsed state Attorney General Ken Paxton in Texas' high-stakes Senate race, snubbing incumbent senior Sen. John Cornyn (R-Texas) ahead of next week's GOP primary runoff.  \"Ken is",
+      "link": "https://thehill.com/homenews/5779709-paxton-trump-endorsement-texas/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:35:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senators put Blanche on defense over $1.776B &#039;anti-weaponization&#039; fund",
+      "desc": "Acting Attorney General Todd Blanche on Tuesday had to go on defense over the Justice Department’s new “anti-weaponization” fund, a coffer he told lawmakers would be available to Trump campaign donors",
+      "link": "https://thehill.com/homenews/senate/5885274-blanche-trump-anti-weaponization-fund/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:35:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republicans defeat Gallego amendment pushing back on fund to compensate Trump allies",
+      "desc": "Republican senators on Tuesday tabled an amendment introduced by Sen. Ruben Gallego (D-Ariz.) that would bar the Trump administration from creating its $1.776 billion “anti-weaponization” fund. The De",
+      "link": "https://thehill.com/homenews/senate/5885209-gallego-amendment-defeated-trump-fund/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:16:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Governor candidates spar over donations, talk data centers and energy rates at UAW forum",
+      "desc": "Three gubernatorial candidates in a crowded field spoke about the importance of bringing down energy utility rates, addressing economic pressures and ensuring that workers don’t lose jobs to AI.",
+      "link": "https://www.mlive.com/news/2026/05/governor-candidates-spar-over-donations-talk-data-centers-and-energy-rates-at-uaw-forum.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:07:31 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Beloved restaurant chain’s oldest operating location to close after nearly 56 years in business",
+      "desc": "The location opened in October 1970 where a steak and lobster dinners was advertised at $3.55.",
+      "link": "https://www.mlive.com/business/2026/05/beloved-restaurant-chains-oldest-operating-location-to-close-after-nearly-56-years-in-business.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:05:59 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump defends White House ballroom during impromptu construction site tour",
+      "desc": "President Trump defended the construction of the White House ballroom in remarks to reporters on Tuesday. “All of this paid for by myself,” Trump told reporters during impromptu remarks from the const",
+      "link": "https://thehill.com/homenews/5885216-trump-defends-white-house-ballroom/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 16:01:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Massie: Hegseth campaign stop in Kentucky shows Trump-backed challenger&#039;s bid is &#039;imploding&#039;",
+      "desc": "Rep. Thomas Massie (R-Ky.) on Monday said Defense Secretary Pete Hegseth's appearance in Kentucky to stump for retired Navy SEAL Ed Gallrein was a sign that the Republican challenger's campaign is \"im",
+      "link": "https://thehill.com/homenews/campaign/5884926-massie-hegseth-trump-kentucky-primary/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:59:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "WHO worries about outbreak&#039;s scale and speed of Ebola spread as Congo announces 134 deaths",
       "desc": "BUNIA, Congo (AP) — The World Health Organization director-general openly worried Tuesday over the “scale and speed” of an outbreak of a rare type of Ebola in eastern Congo, where authorities reported",
       "link": "https://thehill.com/policy/international/ebola-congo-who/",
       "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 13:48:18 +0000",
+      "rawDate": "Tue, 19 May 2026 15:53:36 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
+    },
+    {
+      "title": "University of Michigan seeks $600M short-term borrowing limit",
+      "desc": "Large universities use commercial paper as a standard financial tool to “efficiently manage cash flow and construction financing,” a UM spokesperson said.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-seeks-600m-short-term-borrowing-limit.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:49:49 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Saginaw killers’ getaway driver now charged with having ghost gun, fleeing police",
+      "desc": "Emilio G. Zamora was imprisoned for less than two years for being two men's getaway driver after they killed a man during a holiday Saginaw block party.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/saginaw-killers-getaway-driver-now-charged-with-having-ghost-gun-fleeing-police.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:43:06 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Thune ‘not a big fan’ of Trump administration setting up a $1.8B compensation fund for MAGA allies",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) says he’s “not a big fan” of the Trump administration’s decision to set up a $1.8 billion legal compensation fund for MAGA allies who were targeted by the Bi",
+      "link": "https://thehill.com/homenews/5885125-compensation-fund-trump-administration-john-thune/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:38:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "State Department warns against travel to areas struck by Ebola outbreak",
+      "desc": "The State Department “strongly” urged U.S. citizens on Tuesday against traveling to several nations impacted by a growing Ebola outbreak.  The department advised Americans not to visit Democratic Repu",
+      "link": "https://thehill.com/homenews/administration/5885090-cdc-ebola-travel-ban/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:35:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iran: New proposal includes reparations for war damage, US troop withdrawal",
+      "desc": "Iran wants an end to all hostilities against it and its proxy group in Lebanon, U.S. forces to withdraw from areas near Iran and reparations for damage caused by the U.S.-Israeli war on the regime, ac",
+      "link": "https://thehill.com/policy/defense/5885061-iran-peace-proposal-demands/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:24:33 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "New Detroit company promises 162 jobs with futuristic building technology",
+      "desc": "The company said it plans to invest at least $31.25 million and create up to 162 jobs over the next five years, with starting wages of $34 an hour plus benefits, according to state documents.",
+      "link": "https://www.mlive.com/news/detroit/2026/05/new-detroit-company-promises-162-jobs-with-futuristic-building-technology.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:11:26 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Michigan adds incentives to bring $50M plant-based milk plant to Fenton",
+      "desc": "A company that plans to use a new process to extract milk from nuts is headed to Fenton after state approval of financial incentives.",
+      "link": "https://www.mlive.com/news/flint/2026/05/michigan-adds-incentives-to-bring-50m-plant-based-milk-plant-to-fenton.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:07:39 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Single-car crash in Shiawassee County leaves man dead, police say",
+      "desc": "A 59-year-old man died after his car crashed into a ditch in Owosso Township.",
+      "link": "https://www.mlive.com/news/flint/2026/05/single-car-crash-in-shiawassee-county-leaves-man-dead-police-say.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:04:14 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
+      "desc": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
+      "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 15:00:28 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "&#039;The Pitt&#039; star Noah Wyle to lead healthcare rally on Capitol Hill",
+      "desc": "Noah Wyle is taking on the real-life role of advocate — \"The Pitt\" star is making a return trip to Capitol Hill to lead a rally pushing for bipartisan legislation focused on healthcare workers. The 54",
+      "link": "https://thehill.com/blogs/in-the-know/5884916-the-pitt-noah-wyle-healthcare-reform/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 14:54:17 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Jennifer Granholm backs Haley Stevens in U.S. Senate race",
+      "desc": "Former Michigan Governor and U.S. Energy Secretary Jennifer Granholm has endorsed Haley Stevens in Michigan’s U.S. Senate race, saying the Birmingham congresswoman has “Michigan grit.”",
+      "link": "https://www.mlive.com/politics/2026/05/jennifer-granholm-backs-haley-stevens-in-us-senate-race.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 14:28:54 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a ‘Beach Water Person’",
+      "desc": "The job, which is associated with the Zuckerberg family office, is located in Kauai, Hawaii, where the Meta CEO owns a massive compound.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 14:00:47 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Bay County woman gets probation for stabbing ex-boyfriend in chest during drunken fight",
+      "desc": "The sentencing judge told the woman she's fortuante she did not kill the man, who could not stop himself from contacting her after their latest scuffle.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/bay-county-woman-gets-probation-for-stabbing-ex-boyfriend-in-chest-during-drunken-fight.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 13:55:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Police search for suspect after attempted armed robbery at Kalamazoo County gas station",
+      "desc": "Police are looking for the man.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/police-search-for-suspect-after-attempted-armed-robbery-at-kalamazoo-county-gas-station.html",
+      "date": "May 19, 2026",
+      "rawDate": "Tue, 19 May 2026 13:53:30 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Sheriff patrols to increase around local mosques following California attack",
@@ -29,30 +263,12 @@
       "tag": "government"
     },
     {
-      "title": "SCORE Act pulled from House floor after CBC opposition",
-      "desc": "The SCORE Act, a landmark piece of legislation that would have paved the way for new standards in college sports on matters including revenue sharing and athlete compensation, will not be brought to t",
-      "link": "https://thehill.com/policy/keeping-score/5884675-score-act-house-cbc-ncaa/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 13:42:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan lawmakers to consider dog experiment ban as Lions players back proposal",
       "desc": "Ahead of the hearing, Detroit Lions tight ends Sam LaPorta and Brock Wright, along with their wives, urged lawmakers to support the measure.",
       "link": "https://www.mlive.com/news/detroit/2026/05/michigan-lawmakers-to-consider-dog-experiment-ban-as-lions-players-back-proposal.html",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 13:35:22 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "How not to run an election: California edition",
-      "desc": "California's \"jungle primary\" system, which allows candidates of all parties to run against each other on the same ballot, is a chaotic and confusing system that does not help either major party and i",
-      "link": "https://thehill.com/opinion/campaign/5884034-california-election-chaos-analysis/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 13:30:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -65,51 +281,6 @@
       "tag": "associations"
     },
     {
-      "title": "Vance to get his turn replacing Leavitt at White House, following Rubio performance",
-      "desc": "Vice President JD Vance will host the White House press briefing on Tuesday following Secretary of State Marco Rubio’s debut at the podium earlier this month.  White House press secretary Karoline Lea",
-      "link": "https://thehill.com/homenews/administration/5884645-vance-rubio-dream-team/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:51:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Blanche likely to face grilling on compensation fund; Massie fights for seat in Kentucky primary",
-      "desc": "Acting Attorney General Todd Blanche leads a long line of Cabinet secretaries and administration officials testifying on Capitol Hill on Tuesday. He's bound to face quick questions on the $1.776 billi",
-      "link": "https://thehill.com/homenews/administration/5883563-trump-blanche-kentucky-primary-thomas-massie/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:42:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What to know about $1.776B DOJ compensation fund for Trump allies",
-      "desc": "The Department of Justice (DOJ) could soon provide access to a $1.776 billion compensation fund to allies of President Trump who claim they were wrongfully targeted by the Biden administration. Acting",
-      "link": "https://thehill.com/homenews/administration/5884522-trump-doj-compensation-fund-what-to-know/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:31:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "&#039;The View&#039; from the White House: Forget about the First Amendment",
-      "desc": "The clash between ABC and the Trump administration could lead to a protracted, high-stakes legal battle over free expression.",
-      "link": "https://thehill.com/opinion/white-house/5883254-view-trump-fcc-investigation/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "These are America&#8217;s most &#8216;overpriced&#8217; housing markets",
-      "desc": "As we enter peak home-buying season, you may notice your neighborhood suddenly covered with \"for sale\" signs. Depending on where you live, some of those homes may be \"overpriced.\"",
-      "link": "https://thehill.com/homenews/state-watch/5883363-these-are-americas-most-overpriced-housing-markets/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:30:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Flint man in critical condition after shooting on Dupont Street",
       "desc": "A suspect was taken into custody after the shooting.",
       "link": "https://www.mlive.com/news/flint/2026/05/flint-man-in-critical-condition-after-shooting-on-dupont-street.html",
@@ -117,51 +288,6 @@
       "rawDate": "Tue, 19 May 2026 12:25:48 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "The Movement: Vance-championed rail safety bill fractures GOP",
-      "desc": "A railway safety bill that was championed by Vice President Vance is highlighting populist versus free-market tensions, offering a test for Republican lawmakers who are set to mark up a major transpor",
-      "link": "https://thehill.com/newsletters/the-movement/5884171-vance-rail-safety-act-gop/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bias, laziness and fear — why can’t today&#039;s economists get it right?",
-      "desc": "Like weather forecasters, “futurists” and other so-called experts, economists don’t really know what’s going to happen. Why? Because economic forecasts are structurally flawed.",
-      "link": "https://thehill.com/opinion/finance/5883366-business-owners-ignore-economists/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Kasich aims to trade outrage for optimism with new SiriusXM show",
-      "desc": "Forget shouting matches and partisan sniping, John Kasich says he's ready to tell political leaders to \"knock it off, settle down and get things fixed.\" Ohio's former Republican governor is getting th",
-      "link": "https://thehill.com/blogs/in-the-know/5883914-kasich-siriusxm-manchin/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bias, laziness and fear — why can’t today&#8217;s economists get it right?",
-      "desc": "Like weather forecasters, “futurists” and other so-called experts, economists don’t really know what’s going to happen. Why? Because economic forecasts are structurally flawed.",
-      "link": "https://thehill.com/opinion/finance/5883366-business-owners-ignore-economists/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 12:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Watch live: Blanche testifies before Senate on DOJ budget",
-      "desc": "Acting Attorney General Todd Blanche, who took over after former Justice Department (DOJ) Secretary Pam Bondi was ousted, will testify Tuesday morning before a Senate Appropriations Committee panel on",
-      "link": "https://thehill.com/video-clips/5884493-watch-live-todd-blanche-donald-trump-budget-doj-fiscal-2027-senate-hearing/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 11:49:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong",
@@ -200,8 +326,8 @@
       "tag": "technology"
     },
     {
-      "title": "How to Make Apps and Websites Remove Your Nonconsensual Nudes",
-      "desc": "Starting May 19, tech platforms in the US will have to start complying with the Take It Down Act. Here's how more than a dozen of the largest platforms are handling takedown demands for your nudes.",
+      "title": "You Can Get Some of Your Nudes Removed From the Internet Under a New Law",
+      "desc": "Starting May 19, tech platforms in the US will have to comply with the Take It Down Act. Here’s how more than a dozen major platforms are handling takedown demands for your nonconsensual nudes.",
       "link": "https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 09:30:00 +0000",
@@ -212,15 +338,6 @@
       "title": "Lenovo Coupon Codes and Deals in May 2026",
       "desc": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
       "link": "https://www.wired.com/story/lenovo-coupon-code/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "iRobot Promo Code: 15% Off",
-      "desc": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "link": "https://www.wired.com/story/irobot-promo-code/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 05:00:00 +0000",
       "source": "Wired",
@@ -254,7 +371,7 @@
       "tag": "safety"
     },
     {
-      "title": "TrumpRx adds over 600 generic drugs; Mark Cuban joins White House rollout",
+      "title": "TrumpRx adds more than 600 generic drugs; Mark Cuban joins White House rollout",
       "desc": "President Trump on Monday announced the addition of more than 600 generic drugs to his drug coupon platform TrumpRx, with billionaire investor Mark Cuban joining President Trump to endorse the website",
       "link": "https://thehill.com/policy/healthcare/5884064-trump-adds-600-generic-drugs/",
       "date": "May 18, 2026",
@@ -389,15 +506,6 @@
       "tag": "safety"
     },
     {
-      "title": "20 years after Daniel Simpson’s killing, Flint family renews plea for answers",
-      "desc": "Daniel Simpson’s family and police renew calls for tips as his 2006 Flint River homicide case is reopened after 20 years.",
-      "link": "https://www.mlive.com/news/flint/2026/05/20-years-after-daniel-simpsons-killing-flint-family-renews-plea-for-answers.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 19:11:03 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump proposes partial rollback of ‘forever chemical’ drinking water protections",
       "desc": "The Trump administration on Monday moved to partially roll back drinking water protections from toxic “forever chemicals.” The Environmental Protection Agency (EPA) proposed to allow some delays for w",
       "link": "https://thehill.com/policy/energy-environment/5883481-forever-chemicals-pfas-epa/",
@@ -416,39 +524,12 @@
       "tag": "safety"
     },
     {
-      "title": "170-year-old retailer quietly closes 21 stores as part of financial turnaround",
-      "desc": "The company reported a 2% drop in revenue, but was profitable in 2025 thanks in part to cost savings from store closures.",
-      "link": "https://www.mlive.com/business/2026/05/170-year-old-retailer-quietly-closes-21-stores-as-part-of-financial-turnaround.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 18:27:55 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Mom says baby boy remains full of joy after man charged with child abuse",
-      "desc": "Mara Long says her son is still smiling and full of life as she processes the allegations against Anthony David Dove.",
-      "link": "https://www.mlive.com/news/muskegon/2026/05/mom-says-baby-boy-remains-full-of-joy-after-man-charged-with-child-abuse.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 18:27:26 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "US rejects new Iranian proposal to end war: Report",
       "desc": "The U.S. has again rejected an Iranian proposal to end the conflict between the two countries, according to a new report.  Axios reported Monday that Tehran offered a revised peace proposal that the W",
       "link": "https://thehill.com/policy/defense/5883535-iran-peace-proposal-rejected/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 18:13:41 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Suspect chased down in woods after fleeing from stolen vehicle, police say",
-      "desc": "A 35-year-old man faces multiple charges after he allegedly ran from a stolen vehicle and was chased down by deputies in a wooded area, police said.",
-      "link": "https://www.mlive.com/news/flint/2026/05/suspect-chased-down-in-woods-after-fleeing-from-stolen-vehicle-police-say.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 18:11:40 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -495,24 +576,6 @@
       "rawDate": "Mon, 18 May 2026 16:04:50 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Dozens of ‘sickening’ videos show man allegedly abusing 5-month-old, prosecutor says",
-      "desc": "Anthony David Dove was arraigned Monday after prosecutors say upward of 100 surveillance videos show him allegedly abusing a baby boy.",
-      "link": "https://www.mlive.com/news/muskegon/2026/05/dozens-of-sickening-videos-show-man-allegedly-abusing-5-month-old-prosecutor-says.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 16:02:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Ice cream sold in 17 states recalled, dangerous metal pieces may be in dessert",
-      "desc": "The recall applies six different products produced by the California-based company.",
-      "link": "https://www.mlive.com/business/2026/05/ice-cream-sold-in-17-states-recalled-dangerous-metal-pieces-may-be-in-dessert.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 16:00:18 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "FDA&#039;s top drug regulator ousted amid agency upheaval",
@@ -592,8 +655,8 @@
       "link": "https://www.mlive.com/education/2026/05/michigan-advocates-pressure-whitmer-to-reject-federal-school-choice-tax-credit-program.html",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 13:13:51 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "University of Michigan health center using AI to plan prostate cancer treatments",
@@ -614,15 +677,6 @@
       "tag": "technology"
     },
     {
-      "title": "MSU Board revises ethics policy to punish trustees who criticize Board decisions publicly",
-      "desc": "MSU’s Board of Trustees has revised its code of ethics and conduct to include punishments for trustees who raise public concerns about decisions made by the Board.",
-      "link": "https://www.mlive.com/education/2026/05/msu-board-revises-ethics-policy-to-punish-trustees-who-criticize-board-decisions-publicly.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 10:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Democrats on the brink of war powers breakthrough",
       "desc": "Democratic lawmakers are on the verge of passing a resolution to end President Trump’s war with Iran — with some help from a steadily growing group of Republicans.  In the House and Senate, resolution",
       "link": "https://thehill.com/policy/defense/5880849-congress-iran-war-resolution-trump/",
@@ -630,6 +684,15 @@
       "rawDate": "Mon, 18 May 2026 10:00:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
+    },
+    {
+      "title": "MSU Board revises ethics policy to punish trustees who criticize Board decisions publicly",
+      "desc": "MSU’s Board of Trustees has revised its code of ethics and conduct to include punishments for trustees who raise public concerns about decisions made by the Board.",
+      "link": "https://www.mlive.com/education/2026/05/msu-board-revises-ethics-policy-to-punish-trustees-who-criticize-board-decisions-publicly.html",
+      "date": "May 18, 2026",
+      "rawDate": "Mon, 18 May 2026 10:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "FDA drops guardrails on vaping industry in major Trump pivot",
@@ -713,15 +776,6 @@
       "tag": "education"
     },
     {
-      "title": "Kalamazoo schools see big drop in student suspensions",
-      "desc": "Despite the drop, 2 out of every 10 KPS students are getting suspended each year.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-schools-see-big-drop-in-student-suspensions.html",
-      "date": "May 17, 2026",
-      "rawDate": "Sun, 17 May 2026 11:45:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Hantavirus can survive in semen 6 years after infection: Study",
       "desc": "World health officials say the Andes form of hantavirus, which can jump between humans, is not spiraling into a pandemic.",
       "link": "https://thehill.com/policy/healthcare/5881767-hantavirus-semen-research-study/",
@@ -749,47 +803,11 @@
       "tag": "health"
     },
     {
-      "title": "West Michigan Aviation Academy senior wins scholarship honoring Grand Rapids astronaut",
-      "desc": "Charles Duong is the winner of the Roger B. Chaffee Scholarship. He will receive $7,500 per year for four years.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/05/west-michigan-aviation-academy-senior-wins-scholarship-honoring-grand-rapids-astronaut.html",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 16:30:39 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Tick that causes meat allergy, other rare virus is spreading: What symptoms to watch for",
       "desc": "A tick capable of making its victims allergic to meat and dairy (among other items) and spreading a virus that has no known cure may be reaching new areas, data shows.",
       "link": "https://thehill.com/policy/healthcare/5862341-tick-that-causes-meat-allergy-other-rare-virus-is-spreading-what-symptoms-to-watch-for/",
       "date": "May 16, 2026",
       "rawDate": "Sat, 16 May 2026 15:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "House Republican requests UFO talk from private contractor",
-      "desc": "Lawmakers have said they believe the Pentagon is using private contractors to conceal UFO-related programs.",
-      "link": "https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 14:27:18 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Should you cancel your cruise after the hantavirus outbreak?",
-      "desc": "Cruise ships are back in the spotlight after a deadly hantavirus outbreak, but experts say the risk to travelers is low.",
-      "link": "https://thehill.com/policy/healthcare/5880932-cruise-hantavirus-outbreak-traveling-risk/",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 14:14:44 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Salmonella fears prompt recall of seasoning sold at Walmart stores nationwide",
-      "desc": "Federal health officials report that a company is recalling a seasoning product sold nationwide at Walmart stores as it may be contaminated with salmonella.",
-      "link": "https://thehill.com/business/5880862-salmonella-fears-walmart-seasoning-recall/",
-      "date": "May 16, 2026",
-      "rawDate": "Sat, 16 May 2026 12:45:19 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -853,15 +871,6 @@
       "link": "https://thehill.com/policy/technology/5877803-cisco-linkedin-layoffs/",
       "date": "May 14, 2026",
       "rawDate": "Thu, 14 May 2026 18:32:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Fetterman: Democratic opposition to AI, data centers is ‘lunacy’",
-      "desc": "Centrist Sen. John Fetterman (D-Pa.) is calling out Democratic opposition to the rapid development of AI and data centers around the country as “lunacy” and warning that taking a stance against AI is ",
-      "link": "https://thehill.com/homenews/senate/5877732-fetterman-ai-data-centers/",
-      "date": "May 14, 2026",
-      "rawDate": "Thu, 14 May 2026 13:46:30 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

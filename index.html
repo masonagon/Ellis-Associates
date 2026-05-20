@@ -510,11 +510,17 @@
       margin-top: 4px;
       letter-spacing: 0.02em;
     }
-      font-size: 17px;
+    .svc-body {
+      font-size: 16px;
       font-weight: 300;
-      line-height: 1.85;
+      line-height: 1.8;
       color: var(--muted);
-      margin-bottom: 24px;
+      margin-bottom: 0;
+      flex: 1;
+    }
+    .svc-card {
+      display: flex;
+      flex-direction: column;
     }
     .svc-outcomes {
       list-style: none;
@@ -522,6 +528,7 @@
       flex-direction: column;
       gap: 8px;
       padding-top: 20px;
+      margin-top: 20px;
       border-top: 1px solid var(--border);
     }
     .svc-outcomes li {

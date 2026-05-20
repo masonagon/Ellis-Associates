@@ -1,41 +1,185 @@
 {
-  "generated": "2026-05-20T16:47:34.394Z",
+  "generated": "2026-05-20T19:15:52.933Z",
   "news": [
     {
-      "title": "Democrats question Trump admin on DOJ compensation fund for Trump allies: &#039;Brazen ... public corruption&#039;",
-      "desc": "House Democrats are pressing the Trump administration for answers on a nearly $2 billion compensation fund for Americans who believe they have been wronged by the federal government, calling it “one o",
-      "link": "https://thehill.com/homenews/house/5887387-house-democrats-question-fund/",
+      "title": "Lawmakers scrutinize sportsbooks, prediction markets at testy hearing",
+      "desc": "Senators from both parties peppered officials from the gaming and prediction market industries with questions about their aggressive marketing strategies, integrity monitoring practices and efforts to",
+      "link": "https://thehill.com/homenews/senate/5887921-gambling-advertising-consumer-protection/",
       "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 16:38:51 +0000",
+      "rawDate": "Wed, 20 May 2026 19:15:08 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Republicans learn a lesson: Don’t cross Trump",
-      "desc": "Presented by Tokyo Electron {beacon}  PRESENTED BY &#8202; In today's issue: It’s Wednesday. The weather for Memorial Day weekend looks crummy for much of the U.S. this year. See if that stops me from",
-      "link": "https://thehill.com/newsletters/1230-report/5887447-trump-dominates-gop-primaries/",
+      "title": "US military boards Iranian-flagged oil tanker in Gulf of Oman",
+      "desc": "The U.S. military on Wednesday boarded an Iranian-flagged oil tanker in the Gulf of Oman suspected of trying to violate the U.S. naval blockade by sailing toward an Iranian port. The Marines from the ",
+      "link": "https://thehill.com/policy/defense/5887890-marines-redirect-iranian-oil-tanker/",
       "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 16:38:01 +0000",
+      "rawDate": "Wed, 20 May 2026 19:03:32 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "‘We landed the plane:’ State lawmakers approve $152M for Selfridge base",
+      "desc": "Michigan lawmakers approved $152M for Selfridge Air National Guard Base runway upgrades, necessary to secure its new fighter mission.",
+      "link": "https://www.mlive.com/news/detroit/2026/05/we-landed-the-plane-state-lawmakers-approve-152m-for-selfridge-base.html",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:58:40 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Mamdani rebuffs Bezos comment on raising taxes",
+      "desc": "New York City Mayor Zohran Mamdani (D) pushed back on Amazon founder Jeff Bezos on Wednesday after the billionaire businessman claimed that increasing his tax contributions would not “help that teache",
+      "link": "https://thehill.com/homenews/state-watch/5887832-nyc-mamdani-bezos-tax-debate/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:57:06 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Motorcyclist dies after collision with UTV",
+      "desc": "Police said a 60-year-old man died after his motorcycle struck a UTV driven by a 71-year-old man.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/motorcyclist-dies-after-collision-with-utv.html",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:51:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "James Murdoch buying half of Vox Media, including New York magazine",
+      "desc": "James Murdoch&#8217;s media company is buying half of Vox Media, a purchase that will include New York magazine, Vox’s digital site and Vox Media Podcast Network, Vox Media announced on Wednesday.  Ja",
+      "link": "https://thehill.com/blogs/in-the-know/5887632-james-murdoch-buys-half-vox/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:44:50 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "FDA vape guidance could endanger children, contradicting MAHA goals",
+      "desc": "When people inside your own administration are walking away over a policy, that tells you this isn’t just routine disagreement. This is a major fight over what public health is supposed to mean.",
+      "link": "https://thehill.com/opinion/lindseys-lens/5887752-flavored-vapes-youth-addiction/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:19:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Mace unveils amendment limiting Congress, judges to natural-born citizens",
+      "desc": "Rep. Nancy Mace (R-S.C.) is proposing a constitutional amendment that would prohibit foreign-born U.S. citizens from serving in Congress, becoming federal judges or holding Senate-confirmed positions.",
+      "link": "https://thehill.com/homenews/house/5887636-nancy-mace-amendment-foreign-born-citizens-holding-office/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:13:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "At least 25 Trader Joe&#8217;s stores expected to open this year: Here&#8217;s where",
+      "desc": "America's favorite grocery store (at least according to a recent study) is experiencing a growth spurt.",
+      "link": "https://thehill.com/business/5887469-at-least-25-trader-joes-stores-expected-to-open-this-year-heres-where/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:04:08 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "DOJ indicts former Cuban president; Trump breaks with Federalist Society: Join the live discussion",
+      "desc": "President Trump publicly broke with The Federalist Society — but are Trump’s second-term judge selections really any different? Plus, the Justice Department increasingly eyes legal action against powe",
+      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5887423-donald-trump-doj-castro-indictment-federalist-society-live-discussion/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:03:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "desc": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+      "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 18:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Speaker Johnson says Massie was a ‘thorn in my side for a long time’",
+      "desc": "Speaker Mike Johnson (R-La.) celebrated Rep. Thomas Massie’s (R-Ky.) defeat in the Kentucky GOP primary, calling the fellow GOP lawmaker a “thorn in my side for a long time.” “I have nothing personal ",
+      "link": "https://thehill.com/homenews/house/5887592-johnson-celebrates-massie-defeat/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 17:56:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jury convicts Bay City man of sexually assaulting minor girls",
+      "desc": "The defendant tried to delay his trial by malingering, claiming he didn't have it in him to appear in court.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/jury-convicts-bay-city-man-of-sexually-assaulting-minor-girls.html",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 17:45:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Ebola fears surge on the ground in Congo over rapid spread of a rare type",
-      "desc": "BUNIA, Congo (AP) — Anxious healthcare workers in eastern Congo said Wednesday they are underprotected and undertrained in the face of a rapidly spreading Ebola outbreak of a rare type of the virus in",
+      "desc": "BUNIA, Congo (AP) — Anxious healthcare workers in eastern Congo said Wednesday they are underprotected and undertrained in a rapidly spreading Ebola outbreak of a rare type of the virus in one of the ",
       "link": "https://thehill.com/policy/international/ebola-congo-who-risk/",
       "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 16:30:16 +0000",
+      "rawDate": "Wed, 20 May 2026 17:35:37 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
     {
-      "title": "Trump approval dips to 35 percent as GOP support slips: Survey",
-      "desc": "President Trump’s approval rating is well under water amid his administration’s war against Iran, according to a new survey, with more Republicans expressing discontent with his economic policies.  A ",
-      "link": "https://thehill.com/homenews/administration/5887364-trump-approval-rating-survey-iran/",
+      "title": "19 Michigan high school seniors in running to be named U.S. Presidential Scholars",
+      "desc": "The group, which includes students from across the state, are semifinalists for the federal program honoring academics and other achievements.",
+      "link": "https://www.mlive.com/education/2026/05/19-michigan-high-school-seniors-in-running-to-be-named-us-presidential-scholars.html",
       "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 16:26:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Wed, 20 May 2026 17:20:31 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Western seniors take one last stroll through halls before graduation",
+      "desc": "The senior walk through started as a tour of the three former Western Schools elementary buildings as a way for graduates to say goodbye to former teachers, said Western principal Dr. Jared Vickers.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/western-seniors-take-one-last-stroll-through-halls-before-graduation.html",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 17:20:15 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Former Muskegon football star’s season ‘jeopardized’ by post-prom party violence",
+      "desc": "Destin Piggee, who helped lead Muskegon High School's football team to the 2023 state title, was seriously injured when he was struck by a car that was fleeing a shooting at a post-prom party.",
+      "link": "https://www.mlive.com/news/muskegon/2026/05/former-muskegon-football-stars-season-jeopardized-by-post-prom-party-violence.html",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 17:19:03 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Documentary screening in Flint pairs families affected by violence with artists to create healing portraits",
+      "desc": "The screening is set to begin at 5:30 p.m. Wednesday, May 27, 2026, at First Presbyterian Church of Flint, located 746 S. First St. in Flint.",
+      "link": "https://www.mlive.com/news/flint/2026/05/documentary-screening-in-flint-pairs-families-affected-by-violence-with-artists-to-create-healing-portraits.html",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 17:04:17 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jury acquits Jackson man of murdering infant daughter",
+      "desc": "After six days of trial proceedings and two days of deliberations, a jury found Jake Alton Cooper not guilty Wednesday, May 20, for the 2023 death of his daughter, 7-month-old Imani Cooper.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/jury-acquits-jackson-man-of-murdering-infant-daughter.html",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 17:02:22 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Iran: War will spread beyond Middle East if US attacks",
+      "desc": "Iran’s Revolutionary Guard Corps (IRGC) on Wednesday directly warned the U.S. and Israel that any new attack on Tehran would lead to a conflict that spreads beyond the Middle East. The statement, repo",
+      "link": "https://thehill.com/policy/defense/5887383-iran-threat-us-israel-attacks/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 16:48:03 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Bay City officials consider monthly trash fee increase",
@@ -47,7 +191,7 @@
       "tag": "government"
     },
     {
-      "title": "Madison Square Garden Bans Lawyer Representing New York Cop Injured at a Boxing Match",
+      "title": "A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer",
       "desc": "Attorney John Scola is representing a police officer who is suing over injuries allegedly sustained while working security at an MSG property in 2025.",
       "link": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
       "date": "May 20, 2026",
@@ -65,40 +209,13 @@
       "tag": "safety"
     },
     {
-      "title": "Trump attacks Senate parliamentarian, argues GOP must play hard-ball",
-      "desc": "President Trump on Wednesday attacked the Senate parliamentarian, accusing her of issuing reviews of Senate rules that have treated Republicans unfairly and calling for Republicans to end the filibust",
-      "link": "https://thehill.com/homenews/senate/5887283-trump-attacks-senate-parliamentarian/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 16:13:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Spirit Airlines collapse shows the &#8216;New Antitrust&#8217; movement is a flop",
-      "desc": "The downfall of Spirit Airlines demonstrates what many legal and economic experts have warned for years: stopping mergers or punishing scale simply for the sake of stopping “bigness” does not help con",
-      "link": "https://thehill.com/opinion/white-house/5885743-neo-brandeisian-antitrust-policy/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 16:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "GOP House rep&#039;s wife to temporarily serve as surgeon general",
       "desc": "Stephanie Haridopolos, top staffer in the Office of the Surgeon General (OSG) who is married to Rep. Mike Haridopolos (R-Fla.), will temporarily take on the duties of surgeon general as the Trump admi",
       "link": "https://thehill.com/policy/healthcare/5887225-stephanie-haridopolos-surgeon-general/",
       "date": "May 20, 2026",
       "rawDate": "Wed, 20 May 2026 15:59:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats rip Texas Democratic candidate who says she&#039;d make ICE detention center &#039;prison for American Zionists&#039;",
-      "desc": "Multiple Democrats are criticizing a congressional candidate in Texas for vowing to turn an Immigration and Customs Enforcement (ICE) detention center into a “prison for American Zionists.” The candid",
-      "link": "https://thehill.com/homenews/campaign/5887180-texas-democrats-ice-detention/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 15:59:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Man accused of killing 2 faces new charge for allegedly trying to shoot 9-year-old",
@@ -117,33 +234,6 @@
       "rawDate": "Wed, 20 May 2026 15:48:49 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Man jailed over Charlie Kirk post awarded $835K settlement",
-      "desc": "A Tennessee man will receive an $835,000 settlement after being jailed for more than a month over a social media post he shared about the killing of conservative commentator Charlie Kirk. Retired law ",
-      "link": "https://thehill.com/regulation/court-battles/5887273-tennessee-man-settlement-charlie-kirk/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 15:47:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump-backed Moore heads to runoff against Hudson in Alabama GOP Senate primary",
-      "desc": "The Republican primary for Senate in Alabama is heading to a runoff between Rep. Barry Moore (R-Ala.) and U.S. Navy SEAL Jared Hudson, according to Decision Desk HQ. The rivals are battling in an open",
-      "link": "https://thehill.com/homenews/campaign/5883965-trump-moore-alabama-republican-senate-primary/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 15:41:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bezos: $75M Melania Trump movie &#8216;good business decision&#8217;",
-      "desc": "Jeff Bezos says he “had nothing to do with” Amazon’s decision to greenlight a multimillion-dollar documentary on Melania Trump, denying the project was an attempt to curry favor with the Trump adminis",
-      "link": "https://thehill.com/blogs/in-the-know/5887182-jeff-bezos-melania-movie-amazon-mgm/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 15:39:57 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "It’s Officially Election Season in Trumpworld",
@@ -439,17 +529,8 @@
       "link": "https://www.mlive.com/news/jackson/2026/05/14-year-old-charged-with-9-felonies-in-napoleon-schools-swatting.html",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 16:45:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Teen sentenced for shooting that killed 15-year-old girlfriend",
-      "desc": "Mugisha Mapenzi was sentenced for the June 2025 shooting death of 15-year-old Myasia Johnson.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/05/teen-sentenced-for-shooting-that-killed-15-year-old-girlfriend.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 16:44:32 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Bergman: &#039;The time is now&#039; to push for breakthroughs in psychedelic treatments",
@@ -488,39 +569,12 @@
       "tag": "education"
     },
     {
-      "title": "Saginaw killers’ getaway driver now charged with having ghost gun, fleeing police",
-      "desc": "Emilio G. Zamora was imprisoned for less than two years for being two men's getaway driver after they killed a man during a holiday Saginaw block party.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/saginaw-killers-getaway-driver-now-charged-with-having-ghost-gun-fleeing-police.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 15:43:06 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Iran: New proposal includes reparations for war damage, US troop withdrawal",
       "desc": "Iran wants an end to all hostilities against it and its proxy group in Lebanon, U.S. forces to withdraw from areas near Iran and reparations for damage caused by the U.S.-Israeli war on the regime, ac",
       "link": "https://thehill.com/policy/defense/5885061-iran-peace-proposal-demands/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 15:24:33 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "New Detroit company promises 162 jobs with futuristic building technology",
-      "desc": "The company said it plans to invest at least $31.25 million and create up to 162 jobs over the next five years, with starting wages of $34 an hour plus benefits, according to state documents.",
-      "link": "https://www.mlive.com/news/detroit/2026/05/new-detroit-company-promises-162-jobs-with-futuristic-building-technology.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 15:11:26 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Single-car crash in Shiawassee County leaves man dead, police say",
-      "desc": "A 59-year-old man died after his car crashed into a ditch in Owosso Township.",
-      "link": "https://www.mlive.com/news/flint/2026/05/single-car-crash-in-shiawassee-county-leaves-man-dead-police-say.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 15:04:14 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -776,24 +830,6 @@
       "tag": "education"
     },
     {
-      "title": "University of Michigan earns gold sustainability rating for 4th time",
-      "desc": "The Association for the Advancement of Sustainability in Higher Education administers the Sustainability Tracking, Assessment & Rating System.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-earns-gold-sustainability-rating-for-4th-time.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 14:35:34 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan agrees to $60M purchase of former Christian college’s campus",
-      "desc": "The purchase of Concordia University’s former Ann Arbor campus will add even more land under UM’s purview.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-agrees-to-60m-purchase-of-former-christian-colleges-campus.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 14:30:50 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Supreme Court won’t weigh teacher’s firing for posts after George Floyd death",
       "desc": "The Supreme Court said Monday it will not consider whether a suburban Chicago teacher was rightfully fired over inflammatory Facebook posts in the wake of the police killing of George Floyd in 2020.  ",
       "link": "https://thehill.com/regulation/court-battles/5882949-fired-teacher-facebook-posts/",
@@ -801,15 +837,6 @@
       "rawDate": "Mon, 18 May 2026 14:18:02 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Michigan advocates pressure Whitmer to reject federal school choice tax credit program",
-      "desc": "A resolution passed along partisan lines by Michigan's top school board may be intensifying pressure for the state to opt out of a program critics call “voucher-like\" and that supporters warn could se",
-      "link": "https://www.mlive.com/education/2026/05/michigan-advocates-pressure-whitmer-to-reject-federal-school-choice-tax-credit-program.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 13:13:51 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Pope and co-founder of Anthropic to launch pontiff&#039;s AI encyclical on May 25",
@@ -821,15 +848,6 @@
       "tag": "technology"
     },
     {
-      "title": "Democrats on the brink of war powers breakthrough",
-      "desc": "Democratic lawmakers are on the verge of passing a resolution to end President Trump’s war with Iran — with some help from a steadily growing group of Republicans.  In the House and Senate, resolution",
-      "link": "https://thehill.com/policy/defense/5880849-congress-iran-war-resolution-trump/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "FDA drops guardrails on vaping industry in major Trump pivot",
       "desc": "The Trump administration is pivoting hard on vaping, taking down guardrails that have limited the industry's growth in recent years and making clear the tobacco industry’s enduring influence over Wash",
       "link": "https://thehill.com/policy/healthcare/5880802-flavored-vapes-fda-guidance/",
@@ -837,15 +855,6 @@
       "rawDate": "Mon, 18 May 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Greene predicts &#039;political revolution in America&#039; if US troops sent to Iran",
-      "desc": "Former Rep. Marjorie Taylor Greene (R-Ga.), a former ally of President Trump who has since sparred with him over multiple issues, on Sunday predicted a “political revolution in” the U.S. would occur i",
-      "link": "https://thehill.com/policy/defense/5882593-greene-predicts-revolution-iran/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 03:11:59 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Sick of spam calls? See which states file the most complaints",

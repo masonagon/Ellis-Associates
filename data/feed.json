@@ -1,6 +1,60 @@
 {
-  "generated": "2026-05-19T23:56:26.310Z",
+  "generated": "2026-05-20T02:49:49.757Z",
   "news": [
+    {
+      "title": "Progressives notch win with Rabb victory in Pennsylvania Democratic House primary",
+      "desc": "Pennsylvania state Rep. Chris Rabb (D) is projected to win the Democratic primary in the Keystone State’s 3rd Congressional District, according to Decision Desk HQ. Rabb faced off against state Sen. S",
+      "link": "https://thehill.com/homenews/campaign/5885624-rabb-pennsylvania-democratic-house-primary/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 02:24:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump says he hopes to end conflict in Iran ‘very quickly’",
+      "desc": "President Trump on Tuesday said he hoped to end the conflict with Iran \"very quickly\" while gathered with a bipartisan group of lawmakers at the White House for the annual congressional picnic. The pr",
+      "link": "https://thehill.com/homenews/administration/5886389-trump-hopes-quick-end-iran-conflict/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 01:38:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Booker defeats McGrath in Kentucky Democratic Senate primary",
+      "desc": "Charles Booker is projected to win the Kentucky Democratic Senate primary on Tuesday, according to Decision Desk HQ, defeating Amy McGrath in the race to succeed retiring Sen. Mitch McConnell (R-Ky.).",
+      "link": "https://thehill.com/homenews/campaign/5885718-booker-kentucky-democratic-senate-primary/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 01:12:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Tuberville, Jones to face off in race for Alabama governor&#039;s mansion",
+      "desc": "Sen. Tommy Tuberville (R) is projected to face off this fall against former Sen. Doug Jones (D) in the race for governor of deep red Alabama, according to Decision Desk HQ.  Jones, who gained national",
+      "link": "https://thehill.com/homenews/state-watch/5883964-tuberville-jones-alabama-governor-primary/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 01:05:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Shapiro, Garrity to face off in Pennsylvania governor&#039;s race",
+      "desc": "Pennsylvania Gov. Josh Shapiro (D) is projected to face off against state Treasurer Stacy Garrity (R) in his bid to hang onto his seat this November, according to Decision Desk HQ.  Shapiro and Garrit",
+      "link": "https://thehill.com/homenews/state-watch/5883974-shapiro-garrity-pennsylvania-governor-race/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 00:26:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jones, Jackson advance to runoff in Georgia GOP gubernatorial contest",
+      "desc": "Billionaire healthcare executive Rick Jackson and Lt. Gov. Burt Jones are projected to advance to a runoff in the Republican primary for Georgia governor, according to Decision Desk HQ.  Jackson and J",
+      "link": "https://thehill.com/homenews/state-watch/5883976-jackson-jones-georgia-gop-gubernatorial-runoff/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 00:15:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Trump scores major victory with Massie&#039;s primary defeat in Kentucky",
       "desc": "Rep. Thomas Massie (R-Ky.) is projected to lose his Kentucky House primary race to President Trump-endorsed challenger Ed Gallrein, according to Decision Desk HQ, a major victory for the president in ",
@@ -81,33 +135,6 @@
       "rawDate": "Tue, 19 May 2026 22:26:01 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Tuberville casts doubt on Alabama redistricting: &#039;I’m not so sure it’s going to go through&#039;",
-      "desc": "Alabama Sen. Tommy Tuberville (R) on Tuesday said he wasn’t sure if the state redistricting measure would go through, a little over a week after the Supreme Court lifted a block on its new congression",
-      "link": "https://thehill.com/homenews/campaign/5886033-tommy-tuberville-alabama-redistricting/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 22:24:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Trump gives remarks at congressional picnic",
-      "desc": "President Trump is set to give remarks Tuesday evening at the annual congressional picnic. Trump earlier Tuesday touted his $400 million ballroom project during an impromptu presser from the construct",
-      "link": "https://thehill.com/video-clips/5885560-watch-live-donald-trump-congressional-picnic/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 22:15:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cassidy becomes fourth GOP senator to back Iran war powers measure limiting Trump",
-      "desc": "Sen. Bill Cassidy, who lost his bid for a third term in Saturday’s Louisiana Senate Republican primary, on Tuesday became the fourth Republican senator to vote to advance a war powers resolution direc",
-      "link": "https://thehill.com/homenews/5886024-bill-cassidy-iran-war-powers/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 21:55:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "2 Saginaw teens arrested after post-prom party ends in crash, gun recovery",
@@ -236,9 +263,9 @@
       "tag": "technology"
     },
     {
-      "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
-      "desc": "Here’s your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung’s XR platform.",
-      "link": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/",
+      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "desc": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 17:45:00 +0000",
       "source": "Wired",
@@ -254,9 +281,9 @@
       "tag": "technology"
     },
     {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "desc": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
+      "desc": "Here’s your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung’s XR platform.",
+      "link": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 17:45:00 +0000",
       "source": "Wired",

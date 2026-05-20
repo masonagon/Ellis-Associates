@@ -394,7 +394,7 @@
         await fetch(BIN_URL, {
           method:'PUT',
           headers:{'Content-Type':'application/json','X-Master-Key':BIN_KEY,'X-Bin-Versioning':'false'},
-          body: JSON.stringify({ scores: scores.slice(0,20) })
+          body: JSON.stringify({ scores: scores.slice(0,10) })
         });
       } catch(e) { console.error(e); }
       showLeaderboard();

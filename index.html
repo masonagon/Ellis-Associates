@@ -268,17 +268,17 @@
     .ticker-label {
       background: var(--navy);
       color: var(--white);
-      font-size: 11px;
+      font-size: 13px;
       font-weight: 700;
       letter-spacing: 0.12em;
       text-transform: uppercase;
-      padding: 0 28px;
+      padding: 0 32px;
       display: flex;
       align-items: center;
       justify-content: center;
       text-align: center;
       white-space: normal;
-      width: 80px;
+      width: 100px;
       line-height: 1.3;
       flex-shrink: 0;
     }
@@ -1177,6 +1177,9 @@
 
     /* ── RESPONSIVE ── */
     @media (max-width: 960px) {
+      .eyebrow-divider { display: none; }
+      .eyebrow-item { display: block; margin-bottom: 4px; }
+      .eyebrow-item + .eyebrow-item::before { content: ''; display: block; width: 20px; height: 1px; background: rgba(255,255,255,0.3); margin-bottom: 4px; }
       #nav { padding: 0 24px; }
       .nav-links { display: none; }
       .nav-cta { display: none; }
@@ -1524,7 +1527,7 @@
         <span class="word" style="animation-delay:1.1s">of</span>
         <span class="word" style="animation-delay:1.25s"><em>Service.</em></span>
       </h1>
-      <p class="hero-eyebrow">Michigan Government Affairs &nbsp;•&nbsp; National Business Development &nbsp;•&nbsp; National Strategic Partnerships &amp; Advisory</p>
+      <p class="hero-eyebrow"><span class="eyebrow-item">Michigan Government Affairs</span><span class="eyebrow-divider"> • </span><span class="eyebrow-item">National Business Development</span><span class="eyebrow-divider"> • </span><span class="eyebrow-item">National Strategic Partnerships &amp; Advisory</span></p>
       <div class="hero-actions">
         <button onclick="openModal()" class="btn-primary">
           Let's Talk

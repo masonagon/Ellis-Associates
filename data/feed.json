@@ -1,6 +1,69 @@
 {
-  "generated": "2026-05-20T06:42:46.897Z",
+  "generated": "2026-05-20T10:21:03.210Z",
   "news": [
+    {
+      "title": "Mullin wins some praise for his quieter style at DHS",
+      "desc": "Homeland Security Secretary Markwayne Mullin has scored positive reviews from Republican lawmakers who were less pleased with the performance of his predecessor. Mullin has been on the job nearly two ",
+      "link": "https://thehill.com/homenews/administration/5885916-markwayne-mullin-homeland-security-fema-gop-praise/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "4 hurdles facing Senate crypto bill after key vote",
+      "desc": "A cryptocurrency regulation bill cleared a key early hurdle after advancing out of the Senate Banking Committee last week, but the legislation still faces several obstacles that could endanger its suc",
+      "link": "https://thehill.com/policy/technology/5885518-clarity-act-senate-challenges/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate GOP expresses frustration, anger, sadness as Trump snubs Cornyn in Texas",
+      "desc": "President Trump’s decision Tuesday to snub Sen. John Cornyn and endorse state Attorney General Ken Paxton in the Texas Senate Republican primary was met with frustration, anger and even sadness by Sen",
+      "link": "https://thehill.com/homenews/senate/5886014-cornyn-snubbed-trump-paxton-support/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Will corruption claims turbocharge Democratic midterm gains?",
+      "desc": "There was a persistent, false claim about former President Obama that got started in the shadier parts of the right side of the internet. Then, gathering flakes like a snowball rolling downhill, it bu",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/5885893-trump-paxton-texas-runoff/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Memo: Newsom, other big-name Democrats urge party to name ‘villains’",
+      "desc": "Big-name Democrats urged their party to get more pointed in its attacks — naming “villains” rather than casting arguments in abstract terms — during a major conference in Washington, D.C., on Tuesday.",
+      "link": "https://thehill.com/homenews/campaign/5886116-democratic-party-fight-trump/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump-Carney feud moves into military realm",
+      "desc": "The Pentagon’s announcement this week that the U.S. is pulling out of a joint military board with Canada marked a new flash point in a simmering feud between President Trump and Canadian Prime Ministe",
+      "link": "https://thehill.com/policy/defense/5885864-trump-carney-defense-feud/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
+      "desc": "A new study finds AI companies, defense firms, and dating apps are among 38 data collectors allegedly using manipulative design to confuse users while collecting their data.",
+      "link": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
+      "date": "May 20, 2026",
+      "rawDate": "Wed, 20 May 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Takeaways from Tuesday’s primaries: Massie’s loss leaves no doubt about Trump’s power over the GOP",
       "desc": "President Donald Trump has scored another win against a Republican rival, purging Rep. Thomas Massie in Kentucky’s primary and knocking out one of his most outspoken critics on Capitol Hill.",
@@ -83,67 +146,13 @@
       "tag": "government"
     },
     {
-      "title": "Booker defeats McGrath in Kentucky Democratic Senate primary",
-      "desc": "Charles Booker is projected to win the Kentucky Democratic Senate primary on Tuesday, according to Decision Desk HQ, defeating Amy McGrath in the race to succeed retiring Sen. Mitch McConnell (R-Ky.).",
-      "link": "https://thehill.com/homenews/campaign/5885718-booker-kentucky-democratic-senate-primary/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 01:12:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Tuberville, Jones to face off in race for Alabama governor&#039;s mansion",
-      "desc": "Sen. Tommy Tuberville (R) is projected to face off this fall against former Sen. Doug Jones (D) in the race for governor of deep red Alabama, according to Decision Desk HQ.  Jones, who gained national",
-      "link": "https://thehill.com/homenews/state-watch/5883964-tuberville-jones-alabama-governor-primary/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 01:05:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Shapiro, Garrity to face off in Pennsylvania governor&#039;s race",
-      "desc": "Pennsylvania Gov. Josh Shapiro (D) is projected to face off against state Treasurer Stacy Garrity (R) in his bid to hang onto his seat this November, according to Decision Desk HQ.  Shapiro and Garrit",
-      "link": "https://thehill.com/homenews/state-watch/5883974-shapiro-garrity-pennsylvania-governor-race/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 00:26:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Jones, Jackson advance to runoff in Georgia GOP gubernatorial contest",
-      "desc": "Billionaire healthcare executive Rick Jackson and Lt. Gov. Burt Jones are projected to advance to a runoff in the Republican primary for Georgia governor, according to Decision Desk HQ.  Jackson and J",
-      "link": "https://thehill.com/homenews/state-watch/5883976-jackson-jones-georgia-gop-gubernatorial-runoff/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 00:15:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump scores major victory with Massie&#039;s primary defeat in Kentucky",
-      "desc": "Rep. Thomas Massie (R-Ky.) is projected to lose his Kentucky House primary race to President Trump-endorsed challenger Ed Gallrein, according to Decision Desk HQ, a major victory for the president in ",
-      "link": "https://thehill.com/homenews/campaign/5883936-massie-loses-kentucky-house-primary/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 23:41:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "WHO chief concerned over &#039;scale and speed&#039; of Ebola outbreak as Congo reports 134 dead",
-      "desc": "BUNIA, Congo (AP) — The head of the World Health Organization on Tuesday expressed concern over the “scale and speed” of an outbreak of a rare type of Ebola known as Bundibugyo in eastern Congo, where",
+      "desc": "BUNIA, Congo (AP) — The head of the World Health Organization on Tuesday expressed concern over the “scale and speed�� of an outbreak of a rare type of Ebola known as Bundibugyo in eastern Congo, wher",
       "link": "https://thehill.com/policy/international/ebola-congo-who/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 23:41:51 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump-backed Barr poised to replace McConnell after Kentucky GOP Senate primary victory",
-      "desc": "Rep. Andy Barr (R-Ky.) is projected to win the Republican primary for Senate in Kentucky, putting him on a glidepath to replace retiring Sen. Mitch McConnell (R), the longest-serving Senate leader in ",
-      "link": "https://thehill.com/homenews/campaign/5883969-barr-kentucky-senate-primary/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 23:21:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
@@ -302,24 +311,6 @@
       "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
       "desc": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
       "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "desc": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
-      "desc": "Here’s your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung’s XR platform.",
-      "link": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 17:45:00 +0000",
       "source": "Wired",
@@ -848,15 +839,6 @@
       "tag": "safety"
     },
     {
-      "title": "Taiwan’s president defends US arms purchases that Trump called &#039;bargaining chip&#039;",
-      "desc": "TAIPEI, Taiwan (AP) — Taiwan’s president on Sunday stressed that arms purchases from the United States are “the most important deterrent” of regional conflict and instability, after President Donald T",
-      "link": "https://thehill.com/policy/international/taiwan-us-arms-purchases-donald-trump-xi-jinping-china/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 02:24:18 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
       "desc": "ABUJA, Nigeria (AP) — The World Health Organization declared the Ebola disease outbreak caused by a rare virus in Congo and neighboring Uganda a public health emergency of international concern on Sun",
       "link": "https://thehill.com/homenews/ap/ap-health/ap-who-ebola-public-health-emergency/",
@@ -916,15 +898,6 @@
       "link": "https://thehill.com/policy/technology/pope-ai-high-tech-weaponry-spiral-of-annihilation/",
       "date": "May 15, 2026",
       "rawDate": "Fri, 15 May 2026 01:57:17 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI&#039;s future",
-      "desc": "OAKLAND, Calif. (AP) — Lawyers for Elon Musk and OpenAI made their final arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence. Musk, the world's ric",
-      "link": "https://thehill.com/policy/technology/elon-musk-openai-trial-closing-arguments/",
-      "date": "May 14, 2026",
-      "rawDate": "Thu, 14 May 2026 22:00:21 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

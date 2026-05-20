@@ -331,8 +331,7 @@
       background: var(--navy);
     }
 
-    .mobile-break { display: none; }
-    .desktop-break { display: inline; }
+    .headline-gap { display: block; height: 0.35em; }
 
     /* ── PROCESS GRID (inside intro-right) ── */
     .process-grid {
@@ -503,7 +502,14 @@
       margin-bottom: 14px;
       line-height: 1.25;
     }
-    .svc-body {
+    .svc-jurisdiction {
+      display: block;
+      font-size: 15px;
+      font-weight: 600;
+      color: #5bbcb0;
+      margin-top: 4px;
+      letter-spacing: 0.02em;
+    }
       font-size: 17px;
       font-weight: 300;
       line-height: 1.85;
@@ -1544,7 +1550,7 @@
   <section id="intro">
     <div class="intro-left reveal">
       <p class="section-kicker">About Ellis &amp; Associates</p>
-      <h2 class="section-headline">We've Spent Decades in the Field.<span class="mobile-break"><br><br></span><span class="desktop-break"><br></span>Now We Work for <em>You.</em></h2>
+      <h2 class="section-headline">We've Spent Decades in the Field.<span class="headline-gap"></span>Now We Work for <em>You.</em></h2>
       <p class="intro-body">Ellis &amp; Associates is not just an advisory firm. We are a governmental affairs and business development engine built on something most consulting firms can't claim: real-world experience inside the agencies, missions, and systems we now help clients navigate. With over 75 years of combined experience across law enforcement, corrections, emergency management, and technology integration, our team understands how government agencies fund priorities, run procurement, and make adoption decisions.</p>
       <p class="intro-body" style="margin-top:0;">We drive growth, access, and real outcomes across the public sector market — serving clients in Michigan and across the nation. From state capitals to federal agencies, our reach extends wherever our clients need results. We don't over-promise. We tell you what's possible, map the path to get there, and do the work.</p>
     </div>
@@ -1586,7 +1592,7 @@
     <div class="services-grid">
       <div class="svc-card reveal">
         <div class="svc-number">01</div>
-        <h3 class="svc-title">Government Affairs <span style="color:#5bbcb0;font-size:13px;font-weight:600;">(Michigan)</span></h3>
+        <h3 class="svc-title">Government Affairs<span class="svc-jurisdiction">(Michigan)</span></h3>
         <p class="svc-body">We monitor shifting legislation, changing priorities, and leadership transitions so you never lose ground. Working alongside trusted lobbying partners at the state and federal level, we engage key decision-makers and advocate for your interests with credibility built from decades inside these agencies.</p>
         <ul class="svc-outcomes">
           <li>Legislative monitoring &amp; policy analysis</li>
@@ -1598,7 +1604,7 @@
       </div>
       <div class="svc-card reveal">
         <div class="svc-number">02</div>
-        <h3 class="svc-title">Business Development <span style="color:#5bbcb0;font-size:13px;font-weight:600;">(National)</span></h3>
+        <h3 class="svc-title">Business Development<span class="svc-jurisdiction">(National)</span></h3>
         <p class="svc-body">We expand organizational reach across markets, jurisdictions, and ecosystems through structured engagement, scalable growth strategies, and high-value opportunity identification. By aligning public and private sector stakeholders, we unlock new channels, accelerate adoption, and position organizations for sustained national-level growth.</p>
         <ul class="svc-outcomes">
           <li>Market expansion strategy &amp; execution</li>
@@ -1610,7 +1616,7 @@
       </div>
       <div class="svc-card reveal">
         <div class="svc-number">03</div>
-        <h3 class="svc-title">Strategic Partnerships &amp; Advisory <span style="color:#5bbcb0;font-size:13px;font-weight:600;">(National)</span></h3>
+        <h3 class="svc-title">Strategic Partnerships &amp; Advisory<span class="svc-jurisdiction">(National)</span></h3>
         <p class="svc-body">We deliver executive-level guidance and relationship development designed to help organizations navigate complexity, align priorities, and create lasting impact. By combining strategic insight with stakeholder engagement and partnership expertise, we connect vision with execution and build collaborative frameworks for long-term success.</p>
         <ul class="svc-outcomes">
           <li>Executive advisory &amp; strategic guidance</li>

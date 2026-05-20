@@ -72,7 +72,7 @@
   <div id="masthead">
     <div class="mast-title">Lame <span>Duck</span></div>
     <div class="mast-score-wrap">
-      <div class="mast-score-lbl">Votes Secured</div>
+      <div class="mast-score-lbl">Bills Avoided</div>
       <div class="mast-score-val" id="mast-score">0</div>
     </div>
     <a href="/" class="mast-close">×</a>
@@ -89,9 +89,9 @@
 
   <div id="go-screen" class="screen bg-blur hidden">
     <div class="go-title">Game Over</div>
-    <div class="go-lbl">You Secured</div>
+    <div class="go-lbl">Bills Avoided</div>
     <div id="go-score">0</div>
-    <div class="go-votes">Votes</div>
+    <div class="go-votes">Bills Avoided</div>
     <div class="go-name-lbl">Enter your name for the leaderboard</div>
     <input id="name-input" maxlength="30" placeholder="Your name" autocomplete="off" autocorrect="off" spellcheck="false" />
     <div class="btn-row">
@@ -180,6 +180,99 @@
     let pipes, nextIn;
     let score = 0, best = parseInt(localStorage.getItem('ld_best')||'0'), deadTimer = 0;
 
+    // ── WEATHER EFFECTS ───────────────────────────────────────────────────────
+    const rainDrops = [];
+    for (let i = 0; i < 80; i++) {
+      rainDrops.push({ x: Math.random() * 1000, y: Math.random() * 1000, speed: 8 + Math.random() * 6, len: 12 + Math.random() * 10 });
+    }
+    let rainOpacity = 0;
+    let lightningAlpha = 0;
+    let lightningTimer = 0;
+    let lightningBolt = null;
+
+    function buildLightning(x, y, angle, depth) {
+      if (depth <= 0) return [];
+      const len = 60 + Math.random() * 80;
+      const ex = x + Math.sin(angle) * len;
+      const ey = y + Math.cos(angle) * len;
+      const segs = [{ x1: x, y1: y, x2: ex, y2: ey }];
+      if (depth > 1 && Math.random() < 0.5) {
+        segs.push(...buildLightning(ex, ey, angle + (Math.random() - 0.5) * 1.2, depth - 1));
+      }
+      segs.push(...buildLightning(ex, ey, angle + (Math.random() - 0.5) * 0.5, depth - 1));
+      return segs;
+    }
+
+    function triggerLightning() {
+      const startX = W * 0.2 + Math.random() * W * 0.6;
+      lightningBolt = buildLightning(startX, 0, 0, 4);
+      lightningAlpha = 1.0;
+    }
+
+    function drawRain() {
+      if (rainOpacity <= 0) return;
+      ctx.save();
+      ctx.globalAlpha = rainOpacity;
+      ctx.strokeStyle = 'rgba(180,210,255,0.7)';
+      ctx.lineWidth = 1;
+      for (const d of rainDrops) {
+        ctx.beginPath();
+        ctx.moveTo(d.x, d.y);
+        ctx.lineTo(d.x - d.len * 0.2, d.y + d.len);
+        ctx.stroke();
+        d.y += d.speed;
+        d.x -= d.speed * 0.2;
+        if (d.y > H) { d.y = -20; d.x = Math.random() * W; }
+        if (d.x < 0) { d.x = W; }
+      }
+      ctx.restore();
+    }
+
+    function drawLightning() {
+      if (lightningAlpha <= 0 || !lightningBolt) return;
+      // Full screen flash — very brief white overlay
+      ctx.save();
+      ctx.globalAlpha = lightningAlpha * 0.35;
+      ctx.fillStyle = '#ffffff';
+      ctx.fillRect(0, 0, W, H);
+      ctx.restore();
+      // Draw bolt
+      ctx.save();
+      ctx.globalAlpha = lightningAlpha;
+      ctx.strokeStyle = '#ffffff';
+      ctx.lineWidth = 2;
+      ctx.shadowColor = '#aaddff';
+      ctx.shadowBlur = 8;
+      for (const seg of lightningBolt) {
+        ctx.beginPath();
+        ctx.moveTo(seg.x1, seg.y1);
+        ctx.lineTo(seg.x2, seg.y2);
+        ctx.stroke();
+      }
+      ctx.restore();
+      // Fade out fast
+      lightningAlpha -= 0.12;
+      if (lightningAlpha < 0) { lightningAlpha = 0; lightningBolt = null; }
+    }
+
+    function updateWeather() {
+      if (state !== 'playing') return;
+      // Rain fades in after 50
+      if (score >= 50) {
+        rainOpacity = Math.min(0.6, rainOpacity + 0.005);
+      } else {
+        rainOpacity = Math.max(0, rainOpacity - 0.01);
+      }
+      // Lightning triggers randomly after 100
+      if (score >= 100) {
+        lightningTimer--;
+        if (lightningTimer <= 0) {
+          triggerLightning();
+          lightningTimer = Math.floor(80 + Math.random() * 120); // every 1.5-3.5s at 60fps
+        }
+      }
+    }
+
     // Precompute bill pattern once assets load
     let billPattern = null;
     function makeBillPattern() {
@@ -207,6 +300,7 @@
     function reset() {
       dx = W * 0.22; dy = H * 0.45; dvy = 0; dangle = 0;
       pipes = []; nextIn = W * 0.5; score = 0; deadTimer = 0;
+      rainOpacity = 0; lightningAlpha = 0; lightningTimer = 120; lightningBolt = null;
       document.getElementById('mast-score').textContent = '0';
     }
 
@@ -218,7 +312,9 @@
     }
 
     function loop() {
-      update(); draw();
+      update();
+      updateWeather();
+      draw();
       if (state === 'dead' && deadTimer >= 55) { showGameOver(); return; }
       raf = requestAnimationFrame(loop);
     }
@@ -291,6 +387,17 @@
         const drawX  = (W - drawW) / 2;
         const drawY  = (H - drawH) / 2;
         ctx.drawImage(bg, drawX, drawY, drawW, drawH);
+      }
+      // Dark overlay — deepens with rain and lightning
+      const rainDark = rainOpacity * 0.35;
+      const stormDark = score >= 100 ? 0.15 : 0;
+      const totalDark = Math.min(0.55, rainDark + stormDark);
+      if (totalDark > 0) {
+        ctx.save();
+        ctx.globalAlpha = totalDark;
+        ctx.fillStyle = '#0a1020';
+        ctx.fillRect(0, 0, W, H);
+        ctx.restore();
       }
     }
 
@@ -369,7 +476,9 @@
       drawBackground();
       drawPipes();
       drawGround();
+      drawRain();
       drawDuck();
+      drawLightning();
     }
 
     // ── INPUT ─────────────────────────────────────────────────────────────────

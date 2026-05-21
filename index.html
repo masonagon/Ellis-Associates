@@ -503,13 +503,11 @@
       grid-template-rows: subgrid;
     }
     .svc-card:hover { border-top-color: var(--navy); box-shadow: 0 8px 32px rgba(13,27,46,0.1); transform: translateY(-2px); }
-    .svc-number {
-      font-family: 'Playfair Display', serif;
-      font-size: 12px;
-      font-weight: 700;
-      color: #d1d5db;
+    .svc-icon {
+      display: flex;
+      justify-content: center;
       margin-bottom: 22px;
-      letter-spacing: 0.05em;
+      color: var(--teal);
     }
     .svc-title {
       font-family: 'Playfair Display', serif;
@@ -518,6 +516,7 @@
       color: var(--navy);
       margin-bottom: 14px;
       line-height: 1.25;
+      text-align: center;
     }
     .svc-jurisdiction {
       display: block;
@@ -526,6 +525,7 @@
       color: #5bbcb0;
       margin-top: 4px;
       letter-spacing: 0.02em;
+      text-align: center;
     }
     .svc-body {
       font-size: 16px;
@@ -1613,7 +1613,16 @@
     </div>
     <div class="services-grid">
       <div class="svc-card reveal">
-        <div class="svc-number">01</div>
+        <div class="svc-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="12" y1="2" x2="12" y2="6"/>
+            <path d="M4 10h16"/>
+            <path d="M4 10v10h16V10"/>
+            <path d="M9 20v-5h6v5"/>
+            <path d="M6 10V7l6-3 6 3v3"/>
+            <line x1="2" y1="20" x2="22" y2="20"/>
+          </svg>
+        </div>
         <h3 class="svc-title">Government Affairs<span class="svc-jurisdiction">(Michigan)</span></h3>
         <p class="svc-body">We monitor shifting legislation, changing priorities, and leadership transitions so you never lose ground. Working alongside trusted lobbying partners at the state and federal level, we engage key decision-makers and advocate for your interests with credibility built from decades inside these agencies.</p>
         <ul class="svc-outcomes">
@@ -1625,7 +1634,14 @@
         </ul>
       </div>
       <div class="svc-card reveal">
-        <div class="svc-number">02</div>
+        <div class="svc-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="21" x2="21" y2="21"/>
+            <line x1="3" y1="17" x2="3" y2="21"/>
+            <polyline points="3 17 8 12 13 15 21 6"/>
+            <polyline points="17 6 21 6 21 10"/>
+          </svg>
+        </div>
         <h3 class="svc-title">Business Development<span class="svc-jurisdiction">(National)</span></h3>
         <p class="svc-body">We expand organizational reach across markets, jurisdictions, and ecosystems through structured engagement, scalable growth strategies, and high-value opportunity identification. By aligning public and private sector stakeholders, we unlock new channels, accelerate adoption, and position organizations for sustained national-level growth.</p>
         <ul class="svc-outcomes">
@@ -1637,7 +1653,12 @@
         </ul>
       </div>
       <div class="svc-card reveal">
-        <div class="svc-number">03</div>
+        <div class="svc-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20.42 4.58a5.4 5.4 0 0 0-7.65 0l-.77.78-.77-.78a5.4 5.4 0 0 0-7.65 0C1.46 6.7 1.33 10.28 4 13l8 8 8-8c2.67-2.72 2.54-6.3.42-8.42z"/>
+            <path d="M12 5.36L8.87 8.5a2.13 2.13 0 0 0 0 3h0a2.13 2.13 0 0 0 3.02 0L13.5 10a2.13 2.13 0 0 1 3.02 0h0a2.13 2.13 0 0 1 0 3L13 16.5"/>
+          </svg>
+        </div>
         <h3 class="svc-title">Strategic Partnerships &amp;<br>Advisory Services<span class="svc-jurisdiction">(National)</span></h3>
         <p class="svc-body">We provide executive-level guidance and relationship support to help organizations navigate complex environments, align priorities, and drive meaningful results. Through strategic insight and stakeholder engagement, we connect vision to execution and build strong partnerships for long-term success.</p>
         <ul class="svc-outcomes">

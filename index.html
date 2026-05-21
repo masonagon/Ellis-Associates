@@ -1193,7 +1193,7 @@
     @media (max-width: 960px) {
       .eyebrow-divider { display: none; }
       .eyebrow-item { display: block; margin-bottom: 4px; }
-      .eyebrow-item + .eyebrow-item::before { content: ''; display: block; width: 20px; height: 1px; background: rgba(255,255,255,0.3); margin-bottom: 4px; }
+      .eyebrow-item::before { content: '• '; color: rgba(255,255,255,0.5); }
       #nav { padding: 0 24px; }
       .nav-links { display: none; }
       .nav-cta { display: none; }
@@ -1234,6 +1234,7 @@
       .hero-headline { font-size: 38px; }
       .modal-row { grid-template-columns: 1fr; }
       .process-grid { grid-template-columns: 1fr; }
+      .checkbox-grid { grid-template-columns: 1fr; }
     }
     /* ── CONTACT MODAL ── */
     #modal-overlay {
@@ -1491,7 +1492,9 @@
             <label class="checkbox-item"><input type="checkbox" value="Procurement Strategy" /> Procurement Strategy</label>
             <label class="checkbox-item"><input type="checkbox" value="Strategic Partnerships & Advisory" /> Strategic Partnerships &amp; Advisory</label>
             <label class="checkbox-item"><input type="checkbox" value="Agency Engagement" /> Agency Engagement</label>
-            <label class="checkbox-item"><input type="checkbox" value="Not sure yet" /> Not sure yet</label>
+            <label class="checkbox-item"><input type="checkbox" value="Digital Healthcare" /> Digital Healthcare</label>
+            <label class="checkbox-item"><input type="checkbox" value="Behavioral Health" /> Behavioral Health</label>
+            <label class="checkbox-item"><input type="checkbox" value="Other" /> Other</label>
           </div>
         </div>
         <div class="modal-field">
@@ -1541,7 +1544,7 @@
         <span class="word" style="animation-delay:1.1s">of</span>
         <span class="word" style="animation-delay:1.25s"><em>Service.</em></span>
       </h1>
-      <p class="hero-eyebrow"><span class="eyebrow-item">Michigan Government Affairs</span><span class="eyebrow-divider"> • </span><span class="eyebrow-item">National Business Development</span><span class="eyebrow-divider"> • </span><span class="eyebrow-item">National Strategic Partnerships &amp; Advisory</span></p>
+      <p class="hero-eyebrow"><span class="eyebrow-item">Michigan Government Affairs</span><span class="eyebrow-divider"> • </span><span class="eyebrow-item">National Business Development</span><span class="eyebrow-divider"> • </span><span class="eyebrow-item">National Strategic Partnerships &amp; Advisory Services</span></p>
       <div class="hero-actions">
         <button onclick="openModal()" class="btn-primary">
           Let's Talk
@@ -1624,8 +1627,8 @@
       </div>
       <div class="svc-card reveal">
         <div class="svc-number">03</div>
-        <h3 class="svc-title">Strategic Partnerships &amp; Advisory<span class="svc-jurisdiction">(National)</span></h3>
-        <p class="svc-body">We deliver executive-level guidance and relationship development designed to help organizations navigate complexity, align priorities, and create lasting impact. By combining strategic insight with stakeholder engagement and partnership expertise, we connect vision with execution and build collaborative frameworks for long-term success.</p>
+        <h3 class="svc-title">Strategic Partnerships &amp; Advisory Services<span class="svc-jurisdiction">(National)</span></h3>
+        <p class="svc-body">We provide executive-level guidance and relationship support to help organizations navigate complex environments, align priorities, and drive meaningful results. Through strategic insight and stakeholder engagement, we connect vision to execution and build strong partnerships for long-term success.</p>
         <ul class="svc-outcomes">
           <li>Executive advisory &amp; strategic guidance</li>
           <li>Stakeholder engagement &amp; relationship development</li>
@@ -1700,7 +1703,7 @@
             <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
           </svg>
         </span>
-        <h3 class="ind-title">Healthcare &amp; Behavioral Health</h3>
+        <h3 class="ind-title">Digital Healthcare &amp; Behavioral Health</h3>
         <p class="ind-body">You have a solution that could improve outcomes for first responders, corrections officers, or government employees — but the people making procurement and funding decisions don't know you exist yet. We help behavioral health and wellness organizations break into government markets, align with state funding initiatives, and build the credibility needed to become a trusted partner to public safety agencies.</p>
       </div>
     </div>

@@ -190,6 +190,10 @@
       opacity: 0;
       transform: translateY(10px);
       animation: fadeUp 0.8s ease 0.4s forwards;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0;
     }
     .hero-headline {
       font-family: 'Playfair Display', serif;
@@ -528,7 +532,7 @@
       flex-direction: column;
       gap: 8px;
       padding-top: 20px;
-      margin-top: 20px;
+      margin-top: auto;
       border-top: 1px solid var(--border);
     }
     .svc-outcomes li {
@@ -1192,7 +1196,8 @@
     /* ── RESPONSIVE ── */
     @media (max-width: 960px) {
       .eyebrow-divider { display: none; }
-      .eyebrow-item { display: block; margin-bottom: 4px; }
+      .hero-eyebrow { flex-direction: column; align-items: flex-start; gap: 6px; }
+      .eyebrow-item { display: block; }
       .eyebrow-item::before { content: '• '; color: rgba(255,255,255,0.5); }
       #nav { padding: 0 24px; }
       .nav-links { display: none; }
@@ -1627,7 +1632,7 @@
       </div>
       <div class="svc-card reveal">
         <div class="svc-number">03</div>
-        <h3 class="svc-title">Strategic Partnerships &amp; Advisory Services<span class="svc-jurisdiction">(National)</span></h3>
+        <h3 class="svc-title">Strategic Partnerships &amp;<br>Advisory Services<span class="svc-jurisdiction">(National)</span></h3>
         <p class="svc-body">We provide executive-level guidance and relationship support to help organizations navigate complex environments, align priorities, and drive meaningful results. Through strategic insight and stakeholder engagement, we connect vision to execution and build strong partnerships for long-term success.</p>
         <ul class="svc-outcomes">
           <li>Executive advisory &amp; strategic guidance</li>

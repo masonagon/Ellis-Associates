@@ -1,77 +1,203 @@
 {
-  "generated": "2026-05-21T13:58:55.989Z",
+  "generated": "2026-05-21T16:39:49.423Z",
   "news": [
     {
-      "title": "Watch live: NIH director faces Senate questions over budget",
-      "desc": "National Institutes of Health (NIH) Director Jay Bhattacharya will testify Thursday morning before the Senate Appropriations Committee on President Trump's fiscal 2027 budget request. The White House ",
-      "link": "https://thehill.com/video-clips/5888874-watch-live-nih-director-jay-bhattacharya-fiscal-2027-budget-senate-hearing/",
+      "title": "Trump postpones long-awaited artificial intelligence order signing",
+      "desc": "President Trump has postponed the signing ceremony for his long-awaited executive order on a voluntary testing process for artificial intelligence models, Trump saying he \"didn't like certain aspects ",
+      "link": "https://thehill.com/policy/technology/5889379-trump-postpones-ai-testing/",
       "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 13:48:14 +0000",
+      "rawDate": "Thu, 21 May 2026 16:32:12 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Lindell says he&#039;ll file &#039;anti-weaponization&#039; fund claim",
+      "desc": "MyPillow CEO Mike Lindell said Wednesday he will seek compensation from the newly established “anti-weaponization\" fund announced by the Department of Justice earlier this week.  Nearly $1.8 billion w",
+      "link": "https://thehill.com/homenews/administration/5889214-mike-lindell-trump-anti-weaponization-fund/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 16:00:39 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
+      "title": "Cassidy: Congress should decide $1.776B fund for Trump allies",
+      "desc": "Sen. Bill Cassidy (R-La.) said Wednesday the nearly $1.8 billion “anti-weaponization” fund that the Department of Justice (DOJ) created earlier this week should be approved by Congress. “People are co",
+      "link": "https://thehill.com/homenews/senate/5889280-bill-cassidy-donald-trump-allies-anti-weaponization-fund/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:56:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Durbin warns DOJ against compensating ‘rioters’ in ‘anti-weaponization’ fund",
+      "desc": "Sen. Dick Durbin (D-Ill.) is pushing back against the Department of Justice (DOJ) over its willingness to provide payouts in a $1.776 billion compensation fund for people who allege the legal system w",
+      "link": "https://thehill.com/homenews/senate/5889290-dick-durbin-doj-anti-weaponization-fund-blanche-letter/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:50:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+      "desc": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out.",
+      "link": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:48:24 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump is trying to get permanent trade war powers",
+      "desc": "Section 301 risks evolving from a targeted trade statute into something Congress never authorized.",
+      "link": "https://thehill.com/opinion/international/5887684-supreme-court-tariff-authority/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lander leading Goldman by huge margin in NYC House race: Poll",
+      "desc": "Former New York City Comptroller Brad Lander (D) is leading incumbent Rep. Dan Goldman (N.Y.) in the Democratic primary for New York’s 10th District by more than 20 points, according to a new survey. ",
+      "link": "https://thehill.com/homenews/campaign/5889188-lander-primary-lead-goldman/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:22:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Blanche meeting with GOP senators in bid to protect &#039;anti-weaponization&#039; fund",
+      "desc": "Acting Attorney General Todd Blanche is meeting with Senate Republicans on Thursday to explain how the Trump administration’s compensation fund for victims of Justice Department \"weaponization\" will w",
+      "link": "https://thehill.com/homenews/senate/5889186-blanche-republicans-anti-weaponization-fund/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:18:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "52 percent say Democratic presidential nominee should move party to center",
+      "desc": "More than half of likely Democratic voters in a new survey said the party’s next presidential candidate should reposition the party ideologically along more moderate lines.  The New York Times/Sienna ",
+      "link": "https://thehill.com/homenews/campaign/5889121-democrats-moderate-candidate-2028/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:15:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: DNC shares 2024 autopsy report; Trump expected to loosen greenhouse gas rule",
+      "desc": "Ken Martin, chair of the Democratic National Committee, reluctantly released the party's 2024 postmortem Thursday. “When I received the report late last year, it wasn’t ready for primetime. Not even c",
+      "link": "https://thehill.com/homenews/administration/5887244-live-updates-trump-ballroom-supreme-court-midterms/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:15:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Children’s book authors to visit Bay City’s Kolb Elementary School May 21",
+      "desc": "Bay City Public Schools will host twin authors Peter and Paul Reynolds tonight at Kolb Elementary School for a free community event focused on creativity and literacy.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/childrens-book-authors-to-visit-bay-citys-kolb-elementary-school-may-21.html",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:12:51 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Former Detroit Mayor Mike Duggan ends independent bid for Michigan governor",
+      "desc": "Duggan cited changing voter sentiment caused by the Iran War and an inability to keep up with well-established networks of national party money.",
+      "link": "https://www.mlive.com/politics/2026/05/duggan-ends-independent-bid-for-governor.html",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:05:32 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Holdouts agree to sell homes in Mundy Township megasite subdivision",
+      "desc": "The Flint & Genesee Economic Alliance, the local group working to prepare the Mundy Township megasite, says it has agreements in place to purchase every home at Maple Creek Preserve.",
+      "link": "https://www.mlive.com/news/flint/2026/05/holdouts-agree-to-sell-homes-in-mundy-township-megasite-subdivision.html",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "No more political games: Canada must come to the table",
+      "desc": "The U.S., Mexico, and Canada are in the process of reviewing the U.S.-Mexico-Canada Agreement, with the U.S. looking to address outstanding trade issues with Canada, including unfair treatment of Amer",
+      "link": "https://thehill.com/opinion/international/5888266-canada-us-trade-disputes/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 15:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Former CDC director on Ebola outbreak: &#039;I suspect this is going to become a very significant pandemic&#039;",
+      "desc": "Former Centers for Disease Control and Prevention (CDC) Director Robert Redfield said Wednesday he suspects the spreading Ebola outbreak in Africa will spread across three new countries and become a “",
+      "link": "https://thehill.com/policy/healthcare/5889058-robert-redfield-cdc-ebola-outbreak-pandemic/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 14:55:49 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "42 US military aircraft lost or damaged so far in Iran war",
+      "desc": "At least 42 U.S. military aircraft have been lost or damaged during the Iran war, according to a report by the Congressional Research Service. The lost or damaged aircraft include fighter jets, helico",
+      "link": "https://thehill.com/policy/defense/5889060-iran-war-toll-us-aircraft/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 14:47:20 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Wayne State says dogs in heart research are euthanized at end of studies",
+      "desc": "Wayne State officials told Michigan lawmakers that dogs used in the university’s heart research are euthanized at the end of the studies as senators considered legislation to ban painful dog experimen",
+      "link": "https://www.mlive.com/news/detroit/2026/05/wayne-state-says-dogs-in-heart-research-are-euthanized-at-end-of-studies.html",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 14:43:36 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bay County voters to decide on proposed library millage renewal in November",
+      "desc": "The millage accounts for the vast majority of funding for the Bay County Library System, which operates branches in Bay City, Auburn, and Pinconning.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/bay-county-voters-to-decide-on-proposed-library-millage-renewal-in-november.html",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 14:41:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Competency exam ordered for teen accused of Flint Township murder",
+      "desc": "The case against a Flint Township teen charged with murder will pause for a competency evaluation.",
+      "link": "https://www.mlive.com/news/flint/2026/05/competency-exam-ordered-for-teen-accused-of-flint-township-murder.html",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 14:21:08 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "WWE superstar arrested for allegedly assaulting neighbor",
+      "desc": "The incident took place in a luxury apartment building in Orlando, Florida on April 23.",
+      "link": "https://www.mlive.com/crime/2026/05/wwe-superstar-arrested-for-allegedly-assaulting-neighbor.html",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 14:10:23 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Detroit-bound flight diverted over Ebola-linked restrictions",
+      "desc": "A flight destined for Detroit was diverted to Montreal on Wednesday after a passenger from Congo boarded the flight “in error,” according to U.S. Customs and Border Protection (CBP).  The Congo passen",
+      "link": "https://thehill.com/policy/transportation/5888899-detroit-bound-flight-diverted-ebola-error/",
+      "date": "May 21, 2026",
+      "rawDate": "Thu, 21 May 2026 13:59:57 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
       "title": "US orders travelers from Ebola outbreak countries to pass through Dulles for enhanced screening",
-      "desc": "The U.S. government is requiring travelers that have been to African countries where Ebola outbreaks are occurring within the last three weeks to go through enhanced screening at Washington Dulles Int",
+      "desc": "The U.S. government is requiring travelers who have been to African countries where Ebola outbreaks are occurring within the last three weeks to go through enhanced screening at Washington Dulles Inte",
       "link": "https://thehill.com/policy/healthcare/5888923-us-travel-advisory-ebola-outbreak-screening/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 13:42:20 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Police officer accuses Trump of &#039;putting a retainer on a mob&#039; with $1.77B compensation fund",
-      "desc": "Former U.S. Capitol Police Officer Harry Dunn on Wednesday said President Trump is using the anti-weaponization fund to put January 6 rioters on a “retainer” ahead of the next presidential election.  ",
-      "link": "https://thehill.com/homenews/administration/5888849-jan-6-rioters-retainer-trump/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 13:12:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The folkways of Congress are eroding",
-      "desc": "\"The Folkways of Congress: Legislating Norms in an Era of Conflict\" edited by Brian Alexander, is a book that examines the changing norms of Congress over the past five decades, highlighting the decli",
-      "link": "https://thehill.com/opinion/congress-blog/politics/5887692-changing-norms-congress-civility/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Tucker Carlson: Massie loss &#039;obviously the death of MAGA&#039;",
-      "desc": "Conservative commentator Tucker Carlson attacked President Trump and lamented the primary loss handed to Rep. Thomas Massie (R-Ky.), whom the president lobbied voters in Kentucky to oust in the weeks ",
-      "link": "https://thehill.com/homenews/media/5888798-tucker-carlson-thomas-massie-loss-maga-death/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 12:56:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Senate awaits reconciliation bill, which holds ballroom funding&#039;s fate",
-      "desc": "President Trump's $1 billion request to fund security for the White House ballroom faces a test in the Senate, which could start voting on a reconciliation package on Thursday that may not include the",
-      "link": "https://thehill.com/homenews/administration/5887244-live-updates-trump-ballroom-supreme-court-midterms/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Colorado Democrats censure Polis over Tina Peters commutation",
-      "desc": "Colorado Democrats on Wednesday voted to censure Gov. Jared Polis (D-Colo.) after he reduced the sentence for former election clerk Tina Peters, who is set to be released from prison next month.  Duri",
-      "link": "https://thehill.com/homenews/state-watch/5888749-jared-polis-tina-peters-clemency-colorado-democrats-censure/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 12:11:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats cautiously optimistic after Trump backs Paxton in Texas Senate runoff",
-      "desc": "Democrats are feeling anxious but hopeful about their chances of winning a Senate seat in Texas following President Trump's decision to back state Attorney General Ken Paxton (R), who is seen as a wea",
-      "link": "https://thehill.com/newsletters/on-the-ballot/5887175-democrats-hopeful-texas-senate/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "5 Best Android Tablets in 2026: OnePlus, Lenovo, and Pixel Compared",
@@ -81,15 +207,6 @@
       "rawDate": "Thu, 21 May 2026 11:33:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Tough immigration enforcement can be elusive, even in the reddest of states",
-      "desc": "In 2024, President Trump won Idaho with more than two-thirds of the vote. Only Wyoming and West Virginia were redder on the electoral map. Yet achieving Trump’s top priority — ending illegal immigrati",
-      "link": "https://thehill.com/opinion/immigration/5884922-idaho-immigration-policy-challenges/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 11:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Jeff Titus receives $5.25M after wrongful murder conviction led to 21 years in prison",
@@ -201,7 +318,7 @@
     },
     {
       "title": "US aircraft carrier arrives in Caribbean amid tensions with Cuba",
-      "desc": "The U.S. aircraft carrier USS Nimitz and its strike group arrived in the Caribbean this week amid U.S. tensions with Cuba and as President Trump has threatened to invade the island.  The Nimitz-class ",
+      "desc": "The U.S. aircraft carrier USS Nimitz and its strike group arrived in the Caribbean this week amid U.S. tensions with Cuba and as President Trump has threatened to invade the island.  The Nimitz-class ",
       "link": "https://thehill.com/policy/defense/5888335-uss-nimitz-caribbean-cuba-trump/",
       "date": "May 20, 2026",
       "rawDate": "Wed, 20 May 2026 22:07:01 +0000",
@@ -371,8 +488,8 @@
       "tag": "safety"
     },
     {
-      "title": "GOP House rep&#039;s wife to temporarily serve as surgeon general",
-      "desc": "Stephanie Haridopolos, top staffer in the Office of the Surgeon General (OSG) who is married to Rep. Mike Haridopolos (R-Fla.), will temporarily take on the duties of surgeon general as the Trump admi",
+      "title": "GOP House rep’s wife to perform duties of U.S. surgeon general",
+      "desc": "Stephanie Haridopolos, top staffer in the Office of the Surgeon General (OSG) who is married to Rep. Mike Haridopolos (R-Fla.), will temporarily take on duties of surgeon general as the Trump administ",
       "link": "https://thehill.com/policy/healthcare/5887225-stephanie-haridopolos-surgeon-general/",
       "date": "May 20, 2026",
       "rawDate": "Wed, 20 May 2026 15:59:58 +0000",
@@ -551,24 +668,6 @@
       "tag": "safety"
     },
     {
-      "title": "Police arrest son of billionaire in connection with father’s fatal fall",
-      "desc": "Isak Andic, founder of the Spanish fashion brand Mango, died after falling while hiking in December 2024.",
-      "link": "https://www.mlive.com/crime/2026/05/police-arrest-son-of-billionaire-in-connection-with-fathers-fatal-fall.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 19:02:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Potential sinkhole opens under U.S. Coast Guard Station in Essexville",
-      "desc": "Firefighters and Consumers Energy personnel are on scene to assess the situation.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/potential-sinkhole-opens-under-us-coast-guard-station-in-essexville.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 18:22:34 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Ann Arbor symposium to explore community stewardship of archival collections",
       "desc": "The University of Michigan Communities in Conversation Symposium will take place from 10 a.m. to 6:15 p.m. Thursday, May 21.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/ann-arbor-symposium-to-explore-community-stewardship-of-archival-collections.html",
@@ -641,15 +740,6 @@
       "tag": "health"
     },
     {
-      "title": "Jennifer Granholm backs Haley Stevens in U.S. Senate race",
-      "desc": "Former Michigan Governor and U.S. Energy Secretary Jennifer Granholm has endorsed Haley Stevens in Michigan’s U.S. Senate race, saying the Birmingham congresswoman has “Michigan grit.”",
-      "link": "https://www.mlive.com/politics/2026/05/jennifer-granholm-backs-haley-stevens-in-us-senate-race.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 14:28:54 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan lawmakers to consider dog experiment ban as Lions players back proposal",
       "desc": "Ahead of the hearing, Detroit Lions tight ends Sam LaPorta and Brock Wright, along with their wives, urged lawmakers to support the measure.",
       "link": "https://www.mlive.com/news/detroit/2026/05/michigan-lawmakers-to-consider-dog-experiment-ban-as-lions-players-back-proposal.html",
@@ -695,24 +785,6 @@
       "tag": "health"
     },
     {
-      "title": "University of Michigan regents to vote on $210M building expansion project",
-      "desc": "The University of Michigan project will renovate 73,000 square feet and add 90,000 square feet to the 1928 Ann Arbor building, with the cost rising $20 million due to market escalation factors.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-regents-to-vote-on-210m-building-expansion-project.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 21:52:48 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan plans new $29M men’s gymnastics training center",
-      "desc": "The state-of-the-art center will serve the reigning NCAA champions and will permanently displace 70 parking spaces near the Bahna Wrestling Center.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-plans-new-29m-mens-gymnastics-training-center.html",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 21:45:31 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "HHS withdraws amended vaccine advisory panel charter",
       "desc": "The Department of Health and Human Services (HHS) on Monday withdrew its amended charter for a highly influential vaccine advisory committee that would have loosened eligibility requirements, citing a",
       "link": "https://thehill.com/policy/healthcare/5883776-acip-charter-amendment-error/",
@@ -731,24 +803,6 @@
       "tag": "safety"
     },
     {
-      "title": "Fatal Colorado hantavirus case not linked to cruise ship, officials say",
-      "desc": "An adult in Colorado who died from a hantavirus case was not linked to an outbreak on a cruise ship, according to a Monday release from the state’s Department of Public Health ​and Environment. Offici",
-      "link": "https://thehill.com/homenews/state-watch/5883770-cruise-ship-hantavirus-colorado-no-link/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 20:39:45 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Bipartisan senators unveil legislation banning gambling ads to minors",
-      "desc": "A pair of Senate lawmakers introduced legislation Monday to ban digital gambling advertisements targeting minors. The bill, titled the Gaming Advertisement to Minors Enforcement (GAME) Act, would esta",
-      "link": "https://thehill.com/homenews/5883096-senate-bill-ban-gambling-ads-minors/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 20:23:16 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "NYT files new lawsuit over Pentagon press restrictions",
       "desc": "The New York Times sued on Monday to block a requirement that reporters be escorted on Pentagon grounds, asserting it is unconstitutional just like the Defense Department’s earlier press restrictions.",
       "link": "https://thehill.com/policy/defense/5883729-new-york-times-sues-pentagon/",
@@ -765,15 +819,6 @@
       "rawDate": "Mon, 18 May 2026 19:13:32 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Trump proposes partial rollback of ‘forever chemical’ drinking water protections",
-      "desc": "The Trump administration on Monday moved to partially roll back drinking water protections from toxic “forever chemicals.” The Environmental Protection Agency (EPA) proposed to allow some delays for w",
-      "link": "https://thehill.com/policy/energy-environment/5883481-forever-chemicals-pfas-epa/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 19:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Hegseth stumps for Massie challenger in stark break from Pentagon norms",
@@ -799,15 +844,6 @@
       "link": "https://thehill.com/homenews/senate/5883373-lindsey-graham-presses-trump-iran/",
       "date": "May 18, 2026",
       "rawDate": "Mon, 18 May 2026 17:07:09 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump planning to build helipad at White House for new Marine One: Reports",
-      "desc": "President Trump is planning to build a helipad at the White House for the new Marine One helicopter, according to multiple reports. The Wall Street Journal reported Sunday, citing sources familiar wit",
-      "link": "https://thehill.com/homenews/administration/5883247-trump-marine-one-helipad-white-house-reports/",
-      "date": "May 18, 2026",
-      "rawDate": "Mon, 18 May 2026 16:04:50 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     }

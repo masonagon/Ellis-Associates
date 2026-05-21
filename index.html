@@ -178,7 +178,7 @@
       display: flex;
       flex-direction: column;
       justify-content: flex-end;
-      padding: 0 48px 80px;
+      padding: 0 48px 48px;
     }
     .hero-eyebrow {
       font-size: 13px;
@@ -483,10 +483,11 @@
       background: var(--white);
       padding: 40px 32px;
       border-top: 3px solid transparent;
-      transition: border-top-color 0.25s;
+      transition: border-top-color 0.25s, box-shadow 0.25s, transform 0.25s;
+      display: flex;
+      flex-direction: column;
     }
     .svc-card:hover { border-top-color: var(--navy); box-shadow: 0 8px 32px rgba(13,27,46,0.1); transform: translateY(-2px); }
-    .svc-card { transition: border-top-color 0.25s, box-shadow 0.25s, transform 0.25s; }
     .svc-number {
       font-family: 'Playfair Display', serif;
       font-size: 12px;
@@ -519,17 +520,13 @@
       margin-bottom: 0;
       flex: 1;
     }
-    .svc-card {
-      display: flex;
-      flex-direction: column;
-    }
     .svc-outcomes {
       list-style: none;
       display: flex;
       flex-direction: column;
       gap: 8px;
       padding-top: 20px;
-      margin-top: auto;
+      margin-top: 20px;
       border-top: 1px solid var(--border);
     }
     .svc-outcomes li {

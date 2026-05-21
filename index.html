@@ -476,16 +476,24 @@
     .services-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: auto;
       gap: 1px;
       background: var(--border);
+    }
+    .services-grid .reveal {
+      display: grid;
+      grid-row: span 4;
+      grid-template-rows: subgrid;
+      background: var(--white);
     }
     .svc-card {
       background: var(--white);
       padding: 40px 32px;
       border-top: 3px solid transparent;
       transition: border-top-color 0.25s, box-shadow 0.25s, transform 0.25s;
-      display: flex;
-      flex-direction: column;
+      display: grid;
+      grid-row: span 4;
+      grid-template-rows: subgrid;
     }
     .svc-card:hover { border-top-color: var(--navy); box-shadow: 0 8px 32px rgba(13,27,46,0.1); transform: translateY(-2px); }
     .svc-number {
@@ -503,7 +511,6 @@
       color: var(--navy);
       margin-bottom: 14px;
       line-height: 1.25;
-      min-height: 100px;
     }
     .svc-jurisdiction {
       display: block;
@@ -519,7 +526,6 @@
       line-height: 1.8;
       color: var(--muted);
       margin-bottom: 0;
-      flex: 1;
     }
     .svc-outcomes {
       list-style: none;
@@ -549,9 +555,6 @@
       margin-top: 6px;
     }
 
-    .services-grid .reveal .svc-card {
-      height: 100%;
-    }
     #industries {
       padding: 80px 48px;
       background: var(--white);

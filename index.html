@@ -1424,10 +1424,10 @@
 
   <!-- MOBILE NAV DRAWER -->
   <div id="mobile-nav">
-    <a href="#services" onclick="closeMobileNav()">Services</a>
-    <a href="#industries" onclick="closeMobileNav()">Industries</a>
-    <a href="#scott" onclick="closeMobileNav()">About</a>
-    <a href="#contact-section" onclick="closeMobileNav()">Contact</a>
+    <a href="#services" onclick="mobileNavTo('services'); return false;">Services</a>
+    <a href="#industries" onclick="mobileNavTo('industries'); return false;">Industries</a>
+    <a href="#scott" onclick="mobileNavTo('scott'); return false;">About</a>
+    <a href="#contact-section" onclick="mobileNavTo('contact-section'); return false;">Contact</a>
     <a href="#" onclick="closeMobileNav(); openFeed(); return false;" style="color:#5bbcb0;display:flex;align-items:center;gap:8px;"><span style="width:7px;height:7px;background:#5bbcb0;border-radius:50%;display:inline-block;animation:feedpulse 2s infinite;"></span>The Feed</a>
     <button class="mobile-nav-cta" onclick="closeMobileNav(); openModal()">Connect With Us</button>
   </div>
@@ -2180,6 +2180,13 @@
     function closeMobileNav() {
       document.getElementById('mobile-nav').classList.remove('open');
       document.getElementById('hamburger').classList.remove('open');
+    }
+    function mobileNavTo(id) {
+      closeMobileNav();
+      setTimeout(() => {
+        const el = document.getElementById(id);
+        if (el) el.scrollIntoView({ behavior: 'smooth' });
+      }, 50);
     }
 
     // Modal

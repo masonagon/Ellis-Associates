@@ -2063,6 +2063,24 @@
       container.innerHTML = html;
     }
 
+    function renderBills(bills) {
+      const container = document.getElementById('feed-bills-container');
+      if (!bills.length) {
+        container.innerHTML = '<div class="feed-error">No bills found.<br>Check back later or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+        return;
+      }
+      const html = '<div class="feed-bills">' + bills.map(b => `
+        <a class="feed-bill" href="${b.link}" target="_blank" rel="noopener">
+          <div class="feed-bill-num">${b.num}${b.year ? '<br>' + b.year : ''}</div>
+          <div>
+            <div class="feed-bill-title">${b.title}</div>
+            ${b.desc ? `<div class="feed-bill-desc">${b.desc}</div>` : ''}
+          </div>
+          <div class="feed-bill-date">${b.date}</div>
+        </a>`).join('') + '</div>';
+      container.innerHTML = html;
+    }
+
     function filterNews(filter, btn) {
       document.querySelectorAll('#news-filters .feed-filter').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
@@ -2082,7 +2100,7 @@
     async function loadFeedData() {
       if (feedData) return feedData;
       try {
-        const res = await fetch(FEED_JSON_URL + '?t=' + Date.now());
+        const res = await fetch(FEED_JSON_URL);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         feedData = await res.json();
         return feedData;
@@ -2133,7 +2151,7 @@
 
     // Prefetch The Feed in background after page loads
     window.addEventListener('load', () => {
-      setTimeout(() => loadFeedData(), 3000);
+      setTimeout(() => loadFeedData(), 500);
     });
 
     function switchTab(tab) {

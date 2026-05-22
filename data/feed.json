@@ -1,6 +1,60 @@
 {
-  "generated": "2026-05-22T06:42:41.943Z",
+  "generated": "2026-05-22T10:19:01.739Z",
   "news": [
+    {
+      "title": "Lawler brings Trump to New York’s high-stakes swing district",
+      "desc": "President Trump is heading to one of the country’s most competitive swing districts on Friday on the heels of a number of high-profile GOP primary wins, giving voters a preview of his general election",
+      "link": "https://thehill.com/homenews/administration/5890293-trump-lawler-swing-district-visit/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP furor over Trump’s ‘anti-weaponization’ fund sinks Senate budget reconciliation bill",
+      "desc": "Senate Republicans blasted acting Attorney General Todd Blanche Thursday over the Trump administration’s proposal to set up a $1.8 billion fund to compensate MAGA allies prosecuted by the Justice Depa",
+      "link": "https://thehill.com/homenews/senate/5890532-senate-republicans-trump-fund-blanche/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Court showdown set over Alabama Republicans’ congressional map",
+      "desc": "A court showdown will unfold Friday to determine the fate of Alabama’s congressional map for the midterms. Alabama Republicans want to restore a map that would remove the state’s second majority-Black",
+      "link": "https://thehill.com/regulation/court-battles/5890121-supreme-court-alabama-redistricting/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump grip in GOP primaries masks vulnerabilities in the fall",
+      "desc": "President Trump's grip on Republican primaries appears tighter than ever as a string of GOP officeholders who came under his wrath fell to defeat in contests over the past month in Indiana, Kentucky a",
+      "link": "https://thehill.com/homenews/administration/5890104-republican-party-trump-approval/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Razer Viper V4 Pro Review: Iterative Update Packs Big Performance",
+      "desc": "Small, iterative improvements bring serious performance gains to Razer’s Viper V4 Pro.",
+      "link": "https://www.wired.com/review/review-razer-viper-v4-pro/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 09:32:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
+      "desc": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
+      "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "AT&amp;T Promo Codes: $50 Off This May 2026",
       "desc": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.",
@@ -110,15 +164,6 @@
       "tag": "government"
     },
     {
-      "title": "Missing New Jersey GOP Rep. Tom Kean Jr. expects to return &#039;in the next couple of weeks&#039;",
-      "desc": "Rep. Tom Kean Jr. (R-N.J.) is attempting to end speculation about when he may return from a mysterious months-long absence from Congress, telling a New Jersey newspaper Thursday that he plans to be ba",
-      "link": "https://thehill.com/homenews/house/5890389-kean-jr-health-update/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 22:29:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan woman pleads no contest to embezzling from vulnerable adult",
       "desc": "Prosecutors say Tracie Green tried to add herself to the victim's condo and made changes to his investment and bank accounts before embezzling funds after his death.",
       "link": "https://www.mlive.com/news/2026/05/michigan-woman-pleads-no-contest-to-embezzling-from-vulnerable-adult.html",
@@ -133,8 +178,8 @@
       "link": "https://thehill.com/homenews/house/5890194-house-rejects-iran-war-powers-resolution/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 22:21:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Moderna mRNA flu vaccine to get FDA panel review",
@@ -164,7 +209,7 @@
       "tag": "health"
     },
     {
-      "title": "‘Creepy�� Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
+      "title": "‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
       "desc": "Three firms will pay nearly $1 million for selling “Active Listening” technology that they claimed tapped people’s phones for advertising. The FTC alleges the “tech” was just pricey email lists.",
       "link": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/",
       "date": "May 21, 2026",
@@ -841,59 +886,115 @@
   ],
   "bills": [
     {
+      "num": "HB6015",
+      "year": "2026",
+      "title": "HB 6015 of 2026",
+      "desc": "Economic development: Michigan strategic fund; allowable use of funds; include small businesses. Amends sec. 9 of 1984 PA 270 (MCL 125.2009) by adding ch. 8F. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6015",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5552",
+      "year": "2026",
+      "title": "HB 5552 of 2026",
+      "desc": "Consumer credit: interest rates; prepayment penalties on certain mortgage loans made for business purposes; allow. Amends sec. 1c of 1966 PA 326 (MCL 438.31c). &lt;br /&gt;&lt;br /&gt;Last Action: 5/2",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5552",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6011",
+      "year": "2026",
+      "title": "HB 6011 of 2026",
+      "desc": "Businesses: other; cybersecurity requirements for large-scale solar energy facilities; provide for. Amends 2008 PA 295 (MCL 460.1001 - 460.1232) by adding sec. 112a. &lt;br /&gt;&lt;br /&gt;Last Actio",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6011",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0994",
+      "year": "2026",
+      "title": "SB 0994 of 2026",
+      "desc": "Individual income tax: withholding requirements; work opportunity withholdings tax credit for certain tax exempt organizations; provide for. Amends 1967 PA 281 (MCL 206.1 - 206.847) by adding sec. 714",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0994",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB1011",
+      "year": "2026",
+      "title": "SB 1011 of 2026",
+      "desc": "Insurance: pools; small business health pool; provide for. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding ch. 71A.&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - REFERRED TO COMMITTEE ON HEALT",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1011",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5107",
+      "year": "2025",
+      "title": "HB 5107 of 2025",
+      "desc": "Marihuana: penalties and remedies; marihuana for personal use and possession; modify allowable amounts of. Amends secs. 5 &amp;amp; 15 of 2018 IL 1 (MCL 333.27955 &amp;amp; 333.27965).   TIE BAR WITH:",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5107",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0962",
+      "year": "2026",
+      "title": "SB 0962 of 2026",
+      "desc": "Elections: other; voting and elections database and institute act; create. Creates new act.   TIE BAR WITH: SB 0961'26, SB 0963'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/13/2026 - REFERRED TO COMMITTEE",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0962",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0304",
+      "year": "2025",
+      "title": "SB 0304 of 2025",
+      "desc": "Transportation: other; regulation of ferries; provide for. Amends sec. 1, ch. IX &amp;amp; sec. 1, ch. XVI of 1899 LA 437 &amp;amp; provides for a referendum.  &lt;br /&gt;&lt;br /&gt;Last Action: 5/2",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0304",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5806",
+      "year": "2026",
+      "title": "HB 5806 of 2026",
+      "desc": "Individual income tax: credit; housing opportunity tax credits; create. Amends 1967 PA 281 (MCL 206.1 - 206.847) by adding secs. 279, 679 &amp;amp; 821.   TIE BAR WITH: HB 5805'26, HB 5807'26&lt;br /&",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5806",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5872",
+      "year": "2026",
+      "title": "HB 5872 of 2026",
+      "desc": "Property tax: assessments; taxable value of transferred property; modify. Amends sec. 27a of 1893 PA 206 (MCL 211.27a). &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - transmitted",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5872",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5996",
+      "year": "2026",
+      "title": "HB 5996 of 2026",
+      "desc": "Property tax: exemptions; partial exemption for qualified principal residence upon transfer of ownership; provide for. Amends 1893 PA 206 (MCL 211.1 - 211.155) by adding sec. 7yy.   TIE BAR WITH: HB 6",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5996",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0996",
+      "year": "2026",
+      "title": "SB 0996 of 2026",
+      "desc": "Communications: social media; regulating access to social media companies by minors act; create. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO COMMITTEE ON FINANCE, INS",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0996",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "MI",
+      "year": "2026",
+      "title": "HJR U",
+      "desc": "Elections: primary; nomination process for secretary of state and attorney general; modify, and provide for gubernatorial appointment of regents, trustees, or board of governors for universities. Amen",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HJR-U",
+      "date": "May 22, 2026"
+    },
+    {
       "num": "HB5995",
       "year": "2026",
       "title": "HB 5995 of 2026",
       "desc": "Traffic control: driver license; points from violations captured by automated traffic enforcement devices; prohibit. Amends sec. 320a of 1949 PA 300 (MCL 257.320a). &lt;br /&gt;&lt;br /&gt;Last Action",
       "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5995",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB1007",
-      "year": "2026",
-      "title": "SB 1007 of 2026",
-      "desc": "Mental health: guardians; appointing certain guardians after considering least restrictive means; require. Amends sec. 602 of 1974 PA 258 (MCL 330.1602). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1007",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5797",
-      "year": "2026",
-      "title": "HB 5797 of 2026",
-      "desc": "School aid: penalties; exception to minimum days of pupil instruction requirement for inclement weather; revise. Amends sec. 101 of 1979 PA 94 (MCL 388.1701). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5797",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0984",
-      "year": "2026",
-      "title": "SB 0984 of 2026",
-      "desc": "State management: other; software that accurately reproduces a person's name; require state agencies to use. Amends 1984 PA 431 (MCL 18.1101 - 18.1594) by adding sec. 271.&lt;br /&gt;&lt;br /&gt;Last ",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0984",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5999",
-      "year": "2026",
-      "title": "HB 5999 of 2026",
-      "desc": "Property tax: exemptions; poverty exemption; modify. Amends sec. 7u of 1893 PA 206 (MCL 211.7u). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - bill electronically reproduced 05/20/2026",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5999",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0963",
-      "year": "2026",
-      "title": "SB 0963 of 2026",
-      "desc": "Elections: voters; language assistance for elections act; create. Creates new act.   TIE BAR WITH: SB 0961'26, SB 0962'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/13/2026 - REFERRED TO COMMITTEE ON ELECT",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0963",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0999",
-      "year": "2026",
-      "title": "SB 0999 of 2026",
-      "desc": "Property: recording; register of deeds; increase fees and earmark. Amends secs. 2567 &amp;amp; 2567a of 1961 PA 236 (MCL 600.2567 &amp;amp; 600.2567a) &amp;amp; adds sec. 2567b.&lt;br /&gt;&lt;br /&gt",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0999",
       "date": "May 22, 2026"
     },
     {
@@ -937,6 +1038,54 @@
       "date": "May 22, 2026"
     },
     {
+      "num": "SB1007",
+      "year": "2026",
+      "title": "SB 1007 of 2026",
+      "desc": "Mental health: guardians; appointing certain guardians after considering least restrictive means; require. Amends sec. 602 of 1974 PA 258 (MCL 330.1602). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1007",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5999",
+      "year": "2026",
+      "title": "HB 5999 of 2026",
+      "desc": "Property tax: exemptions; poverty exemption; modify. Amends sec. 7u of 1893 PA 206 (MCL 211.7u). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - bill electronically reproduced 05/20/2026",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5999",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0963",
+      "year": "2026",
+      "title": "SB 0963 of 2026",
+      "desc": "Elections: voters; language assistance for elections act; create. Creates new act.   TIE BAR WITH: SB 0961'26, SB 0962'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/13/2026 - REFERRED TO COMMITTEE ON ELECT",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0963",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0999",
+      "year": "2026",
+      "title": "SB 0999 of 2026",
+      "desc": "Property: recording; register of deeds; increase fees and earmark. Amends secs. 2567 &amp;amp; 2567a of 1961 PA 236 (MCL 600.2567 &amp;amp; 600.2567a) &amp;amp; adds sec. 2567b.&lt;br /&gt;&lt;br /&gt",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0999",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5797",
+      "year": "2026",
+      "title": "HB 5797 of 2026",
+      "desc": "School aid: penalties; exception to minimum days of pupil instruction requirement for inclement weather; revise. Amends sec. 101 of 1979 PA 94 (MCL 388.1701). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5797",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0984",
+      "year": "2026",
+      "title": "SB 0984 of 2026",
+      "desc": "State management: other; software that accurately reproduces a person's name; require state agencies to use. Amends 1984 PA 431 (MCL 18.1101 - 18.1594) by adding sec. 271.&lt;br /&gt;&lt;br /&gt;Last ",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0984",
+      "date": "May 22, 2026"
+    },
+    {
       "num": "HB4572",
       "year": "2025",
       "title": "HB 4572 of 2025",
@@ -950,6 +1099,30 @@
       "title": "HB 6005 of 2026",
       "desc": "Property tax: Headlee; calculation of Headlee rollback; modify. Amends sec. 34d of 1893 PA 206 (MCL 211.34d).   TIE BAR WITH: HB 5996'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - bill electronic",
       "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6005",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6013",
+      "year": "2026",
+      "title": "HB 6013 of 2026",
+      "desc": "Human services: food assistance; monitoring and tracking out-of-state use of the Michigan bridge card; require. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding sec. 14n. &lt;br /&gt;&lt;br /&gt;La",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6013",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6019",
+      "year": "2026",
+      "title": "HB 6019 of 2026",
+      "desc": "Insurance: health insurers; closure or removal of a health system considered a qualifying event for a special enrollment period; provide for. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec.",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6019",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0991",
+      "year": "2026",
+      "title": "SB 0991 of 2026",
+      "desc": "Trade: consumer goods and services; use of certain algorithms and protected class data to set prices; prohibit. Amends sec. 3 of 1976 PA 331 (MCL 445.903) &amp;amp; adds sec. 3j. &lt;br /&gt;&lt;br /&",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0991",
       "date": "May 22, 2026"
     },
     {
@@ -982,30 +1155,6 @@
       "title": "SB 0987 of 2026",
       "desc": "Use tax: collections; collection of use tax on utility bills; prohibit. Amends sec. 4n of 1937 PA 94 (MCL 205.94n). &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO COMMITTEE ON GOVERNMENT",
       "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0987",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5105",
-      "year": "2025",
-      "title": "HB 5105 of 2025",
-      "desc": "Crimes: penalties; penalties regarding certain crimes involving marihuana; modify. Amends sec. 7401 of 1978 PA 368 (MCL 333.7401).   TIE BAR WITH: HB 5107'25&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5105",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0993",
-      "year": "2026",
-      "title": "SB 0993 of 2026",
-      "desc": "Consumer protection: unfair trade practices; violation under Michigan consumer protection act for certain violations under the shopping reform and modernization act; provide for. Amends sec. 3 of 1976",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0993",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB1005",
-      "year": "2026",
-      "title": "SB 1005 of 2026",
-      "desc": "Recreation: state parks; recreation passport requirement; exempt Gold Star family members in vehicle code. Amends sec. 805 of 1949 PA 300 (MCL 257.805).&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 -",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1005",
       "date": "May 22, 2026"
     },
     {
@@ -1065,27 +1214,27 @@
       "date": "May 22, 2026"
     },
     {
-      "num": "HB6013",
-      "year": "2026",
-      "title": "HB 6013 of 2026",
-      "desc": "Human services: food assistance; monitoring and tracking out-of-state use of the Michigan bridge card; require. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding sec. 14n. &lt;br /&gt;&lt;br /&gt;La",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6013",
+      "num": "HB5105",
+      "year": "2025",
+      "title": "HB 5105 of 2025",
+      "desc": "Crimes: penalties; penalties regarding certain crimes involving marihuana; modify. Amends sec. 7401 of 1978 PA 368 (MCL 333.7401).   TIE BAR WITH: HB 5107'25&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5105",
       "date": "May 22, 2026"
     },
     {
-      "num": "HB6019",
+      "num": "SB0993",
       "year": "2026",
-      "title": "HB 6019 of 2026",
-      "desc": "Insurance: health insurers; closure or removal of a health system considered a qualifying event for a special enrollment period; provide for. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec.",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6019",
+      "title": "SB 0993 of 2026",
+      "desc": "Consumer protection: unfair trade practices; violation under Michigan consumer protection act for certain violations under the shopping reform and modernization act; provide for. Amends sec. 3 of 1976",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0993",
       "date": "May 22, 2026"
     },
     {
-      "num": "SB0991",
+      "num": "SB1005",
       "year": "2026",
-      "title": "SB 0991 of 2026",
-      "desc": "Trade: consumer goods and services; use of certain algorithms and protected class data to set prices; prohibit. Amends sec. 3 of 1976 PA 331 (MCL 445.903) &amp;amp; adds sec. 3j. &lt;br /&gt;&lt;br /&",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0991",
+      "title": "SB 1005 of 2026",
+      "desc": "Recreation: state parks; recreation passport requirement; exempt Gold Star family members in vehicle code. Amends sec. 805 of 1949 PA 300 (MCL 257.805).&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 -",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1005",
       "date": "May 22, 2026"
     },
     {
@@ -1094,6 +1243,158 @@
       "title": "HB 5874 of 2026",
       "desc": "Taxation: state real estate transfer; state real estate transfer tax; repeal. Repeals 1993 PA 330 (MCL 207.521 - 207.537). &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - transmitted",
       "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5874",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5114",
+      "year": "2025",
+      "title": "HB 5114 of 2025",
+      "desc": "Holidays: other; \"Charlie Kirk Day\"; designate as October 14. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 10/23/2025 - bill electronically reproduced 10/22/2025",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5114",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB1000",
+      "year": "2026",
+      "title": "SB 1000 of 2026",
+      "desc": "Human services: medical services; certified community behavioral health clinics; provide certification and funding for. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding secs. 109w &amp;amp; 109x.  ",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1000",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB4192",
+      "year": "2025",
+      "title": "HB 4192 of 2025",
+      "desc": "Environmental protection: permits; groundwater discharge permit requirements; modify. Amends sec. 3122 of 1994 PA 451 (MCL 324.3122). &lt;br /&gt;&lt;br /&gt;Last Action: 6/17/2025 - REFERRED TO COMMI",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4192",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5997",
+      "year": "2026",
+      "title": "HB 5997 of 2026",
+      "desc": "Individual income tax: property tax credit; homestead property tax credit; increase, and modify income threshold. Amends secs. 520 &amp;amp; 522 of 1967 PA 281 (MCL 206.520 &amp;amp; 206.522). &lt;br ",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5997",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6014",
+      "year": "2026",
+      "title": "HB 6014 of 2026",
+      "desc": "Economic development: Michigan strategic fund; office of small business growth; establish. Amends 1984 PA 270 (MCL 125.2001 - 125.2094) by adding ch. 7A. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6014",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6017",
+      "year": "2026",
+      "title": "HB 6017 of 2026",
+      "desc": "Education: all other employees; school psychologist licensure compact; enact. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - referred to Committee on Health Policy",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6017",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0983",
+      "year": "2026",
+      "title": "SB 0983 of 2026",
+      "desc": "Taxation: hotel-motel; excise tax on rentals of accommodations; allow local units of government to levy. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO COMMITTEE ON REGU",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0983",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5878",
+      "year": "2026",
+      "title": "HB 5878 of 2026",
+      "desc": "Property tax: personal property; personal property tax; eliminate. Amends sec. 19 of 1893 PA 206 (MCL 211.19) &amp;amp; adds sec. 9q.   TIE BAR WITH: HB 5879'26, HB 5880'26&lt;br /&gt;&lt;br /&gt;Last",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5878",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6000",
+      "year": "2026",
+      "title": "HB 6000 of 2026",
+      "desc": "Property tax: other; online property tax information; require to be available to the public. Amends 1893 PA 206 (MCL 211.1 - 211.155) by adding sec. 42b. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6000",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6018",
+      "year": "2026",
+      "title": "HB 6018 of 2026",
+      "desc": "Elections: primary; nomination process for secretary of state and attorney general; modify. Amends &amp;amp; repeals (See bill).   TIE BAR WITH: HJR U'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 ",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6018",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0783",
+      "year": "2026",
+      "title": "SB 0783 of 2026",
+      "desc": "Economic development: other; eligibility for stock buybacks during the period of award if awarded an economic incentive; prohibit. Amends 1984 PA 270 (MCL 125.2001 - 125.2094) by adding sec. 7c. &lt;b",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0783",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5785",
+      "year": "2026",
+      "title": "HB 5785 of 2026",
+      "desc": "Use tax: exemptions; compliance with enterprise data center construction labor act; require. Amends sec. 4cc of 1937 PA 94 (MCL 205.94cc).   TIE BAR WITH: HB 5786'26, HB 5787'26&lt;br /&gt;&lt;br /&gt",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5785",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5876",
+      "year": "2026",
+      "title": "HB 5876 of 2026",
+      "desc": "Taxation: administration; settlement process; modify to reflect repeal of the state real estate transfer tax act. Amends sec. 21 of 1941 PA 122 (MCL 205.21).   TIE BAR WITH: HB 5880'26, HB 5874'26&lt;",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5876",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5902",
+      "year": "2026",
+      "title": "HB 5902 of 2026",
+      "desc": "Occupations: licensing fees; licensing fees for a hairdresser license; establish. Amends sec. 25 of 1979 PA 152 (MCL 338.2225).   TIE BAR WITH: HB 5206'25&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5902",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0961",
+      "year": "2026",
+      "title": "SB 0961 of 2026",
+      "desc": "Elections: voters; state voting rights act; create. Creates new act &amp;amp; repeals 1969 PA 161 (MCL 691.1031).   TIE BAR WITH: SB 0962'26, SB 0963'26, SB 0964'26&lt;br /&gt;&lt;br /&gt;Last Action:",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0961",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5786",
+      "year": "2026",
+      "title": "HB 5786 of 2026",
+      "desc": "Labor: employment preference; prioritization of local union labor; require for the construction of enterprise data centers. Creates new act.   TIE BAR WITH: HB 5785'26, HB 5787'26&lt;br /&gt;&lt;br /&",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5786",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0989",
+      "year": "2026",
+      "title": "SB 0989 of 2026",
+      "desc": "Education: teachers and administrators; interim teaching certification process; modify. Amends sec. 1531i of 1976 PA 451 (MCL 380.1531i).&lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO CO",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0989",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB1001",
+      "year": "2026",
+      "title": "SB 1001 of 2026",
+      "desc": "Human services: medical services; certified community behavioral health clinics; provide certification and funding for. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding sec. 109v.   TIE BAR WITH: S",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1001",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB1009",
+      "year": "2026",
+      "title": "SB 1009 of 2026",
+      "desc": "Economic development: Michigan strategic fund; allowable use of funds; include small businesses. Amends sec. 9 of 1984 PA 270 (MCL 125.2009) &amp;amp; adds ch. 8F.&lt;br /&gt;&lt;br /&gt;Last Action: ",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1009",
       "date": "May 22, 2026"
     },
     {
@@ -1121,30 +1422,6 @@
       "date": "May 22, 2026"
     },
     {
-      "num": "HB6004",
-      "year": "2026",
-      "title": "HB 6004 of 2026",
-      "desc": "Cities: financing; act regarding prohibited taxes by cities and villages; repeal. Repeals 1964 PA 243 (MCL 141.91). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - bill electronically reproduced 05/2",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6004",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5875",
-      "year": "2026",
-      "title": "HB 5875 of 2026",
-      "desc": "Economic development: downtown development authorities; exemption from real estate transfer taxes; modify to reflect repeal of the state real estate transfer tax act. Amends sec. 228a of 2018 PA 57 (M",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5875",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0982",
-      "year": "2026",
-      "title": "SB 0982 of 2026",
-      "desc": "Trade: business practices; dynamic pricing of gasoline; prohibit. Amends sec. 28e of 1964 PA 283 (MCL 290.628e).   TIE BAR WITH: SB 0993'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO ",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0982",
-      "date": "May 22, 2026"
-    },
-    {
       "num": "HB5150",
       "year": "2025",
       "title": "HB 5150 of 2025",
@@ -1166,6 +1443,30 @@
       "title": "SB 0985 of 2026",
       "desc": "Land use: zoning and growth management; regulating land development for residential use; temporarily restrict. Amends sec. 201 of 2006 PA 110 (MCL 125.3201). &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/",
       "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0985",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB6004",
+      "year": "2026",
+      "title": "HB 6004 of 2026",
+      "desc": "Cities: financing; act regarding prohibited taxes by cities and villages; repeal. Repeals 1964 PA 243 (MCL 141.91). &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - bill electronically reproduced 05/2",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6004",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "HB5875",
+      "year": "2026",
+      "title": "HB 5875 of 2026",
+      "desc": "Economic development: downtown development authorities; exemption from real estate transfer taxes; modify to reflect repeal of the state real estate transfer tax act. Amends sec. 228a of 2018 PA 57 (M",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5875",
+      "date": "May 22, 2026"
+    },
+    {
+      "num": "SB0982",
+      "year": "2026",
+      "title": "SB 0982 of 2026",
+      "desc": "Trade: business practices; dynamic pricing of gasoline; prohibit. Amends sec. 28e of 1964 PA 283 (MCL 290.628e).   TIE BAR WITH: SB 0993'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO ",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0982",
       "date": "May 22, 2026"
     },
     {
@@ -1249,6 +1550,14 @@
       "date": "May 22, 2026"
     },
     {
+      "num": "HB5784",
+      "year": "2026",
+      "title": "HB 5784 of 2026",
+      "desc": "Housing: condominium; requirements for an association of co-owners to conduct a reserve study and establish a reserve funding plan; modify. Amends sec. 105 of 1978 PA 59 (MCL 559.205).&lt;br /&gt;&lt;",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5784",
+      "date": "May 22, 2026"
+    },
+    {
       "num": "HB5498",
       "year": "2026",
       "title": "HB 5498 of 2026",
@@ -1278,14 +1587,6 @@
       "title": "SB 0997 of 2026",
       "desc": "Sales tax: collections; credit for trade-in vehicles; modify. Amends sec. 1 of 1933 PA 167 (MCL 205.51).   TIE BAR WITH: SB 0998'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - REFERRED TO COMMITTE",
       "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0997",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5717",
-      "year": "2026",
-      "title": "HB 5717 of 2026",
-      "desc": "Elections: election officials; township to contract with an accredited individual to perform election law duties in the absence of a township clerk; authorize. Amends sec. 373 of 1954 PA 116 (MCL 168.",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5717",
       "date": "May 22, 2026"
     },
     {
@@ -1321,11 +1622,11 @@
       "date": "May 22, 2026"
     },
     {
-      "num": "HB5784",
+      "num": "HB5717",
       "year": "2026",
-      "title": "HB 5784 of 2026",
-      "desc": "Housing: condominium; requirements for an association of co-owners to conduct a reserve study and establish a reserve funding plan; modify. Amends sec. 105 of 1978 PA 59 (MCL 559.205).&lt;br /&gt;&lt;",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5784",
+      "title": "HB 5717 of 2026",
+      "desc": "Elections: election officials; township to contract with an accredited individual to perform election law duties in the absence of a township clerk; authorize. Amends sec. 373 of 1954 PA 116 (MCL 168.",
+      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5717",
       "date": "May 22, 2026"
     },
     {
@@ -1374,262 +1675,6 @@
       "title": "SB 0988 of 2026",
       "desc": "Property tax: tax tribunal; number of days to appeal a claim for poverty exemption; modify. Amends sec. 53c of 1893 PA 206 (MCL 211.53c). &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO C",
       "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0988",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5114",
-      "year": "2025",
-      "title": "HB 5114 of 2025",
-      "desc": "Holidays: other; \"Charlie Kirk Day\"; designate as October 14. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 10/23/2025 - bill electronically reproduced 10/22/2025",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5114",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB1000",
-      "year": "2026",
-      "title": "SB 1000 of 2026",
-      "desc": "Human services: medical services; certified community behavioral health clinics; provide certification and funding for. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding secs. 109w &amp;amp; 109x.  ",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1000",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB6014",
-      "year": "2026",
-      "title": "HB 6014 of 2026",
-      "desc": "Economic development: Michigan strategic fund; office of small business growth; establish. Amends 1984 PA 270 (MCL 125.2001 - 125.2094) by adding ch. 7A. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6014",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB6017",
-      "year": "2026",
-      "title": "HB 6017 of 2026",
-      "desc": "Education: all other employees; school psychologist licensure compact; enact. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - referred to Committee on Health Policy",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6017",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0983",
-      "year": "2026",
-      "title": "SB 0983 of 2026",
-      "desc": "Taxation: hotel-motel; excise tax on rentals of accommodations; allow local units of government to levy. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO COMMITTEE ON REGU",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0983",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5785",
-      "year": "2026",
-      "title": "HB 5785 of 2026",
-      "desc": "Use tax: exemptions; compliance with enterprise data center construction labor act; require. Amends sec. 4cc of 1937 PA 94 (MCL 205.94cc).   TIE BAR WITH: HB 5786'26, HB 5787'26&lt;br /&gt;&lt;br /&gt",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5785",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5876",
-      "year": "2026",
-      "title": "HB 5876 of 2026",
-      "desc": "Taxation: administration; settlement process; modify to reflect repeal of the state real estate transfer tax act. Amends sec. 21 of 1941 PA 122 (MCL 205.21).   TIE BAR WITH: HB 5880'26, HB 5874'26&lt;",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5876",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5902",
-      "year": "2026",
-      "title": "HB 5902 of 2026",
-      "desc": "Occupations: licensing fees; licensing fees for a hairdresser license; establish. Amends sec. 25 of 1979 PA 152 (MCL 338.2225).   TIE BAR WITH: HB 5206'25&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5902",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0961",
-      "year": "2026",
-      "title": "SB 0961 of 2026",
-      "desc": "Elections: voters; state voting rights act; create. Creates new act &amp;amp; repeals 1969 PA 161 (MCL 691.1031).   TIE BAR WITH: SB 0962'26, SB 0963'26, SB 0964'26&lt;br /&gt;&lt;br /&gt;Last Action:",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0961",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5878",
-      "year": "2026",
-      "title": "HB 5878 of 2026",
-      "desc": "Property tax: personal property; personal property tax; eliminate. Amends sec. 19 of 1893 PA 206 (MCL 211.19) &amp;amp; adds sec. 9q.   TIE BAR WITH: HB 5879'26, HB 5880'26&lt;br /&gt;&lt;br /&gt;Last",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5878",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB6000",
-      "year": "2026",
-      "title": "HB 6000 of 2026",
-      "desc": "Property tax: other; online property tax information; require to be available to the public. Amends 1893 PA 206 (MCL 211.1 - 211.155) by adding sec. 42b. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6000",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB6018",
-      "year": "2026",
-      "title": "HB 6018 of 2026",
-      "desc": "Elections: primary; nomination process for secretary of state and attorney general; modify. Amends &amp;amp; repeals (See bill).   TIE BAR WITH: HJR U'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 ",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6018",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0783",
-      "year": "2026",
-      "title": "SB 0783 of 2026",
-      "desc": "Economic development: other; eligibility for stock buybacks during the period of award if awarded an economic incentive; prohibit. Amends 1984 PA 270 (MCL 125.2001 - 125.2094) by adding sec. 7c. &lt;b",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0783",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB4192",
-      "year": "2025",
-      "title": "HB 4192 of 2025",
-      "desc": "Environmental protection: permits; groundwater discharge permit requirements; modify. Amends sec. 3122 of 1994 PA 451 (MCL 324.3122). &lt;br /&gt;&lt;br /&gt;Last Action: 6/17/2025 - REFERRED TO COMMI",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4192",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5997",
-      "year": "2026",
-      "title": "HB 5997 of 2026",
-      "desc": "Individual income tax: property tax credit; homestead property tax credit; increase, and modify income threshold. Amends secs. 520 &amp;amp; 522 of 1967 PA 281 (MCL 206.520 &amp;amp; 206.522). &lt;br ",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5997",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5786",
-      "year": "2026",
-      "title": "HB 5786 of 2026",
-      "desc": "Labor: employment preference; prioritization of local union labor; require for the construction of enterprise data centers. Creates new act.   TIE BAR WITH: HB 5785'26, HB 5787'26&lt;br /&gt;&lt;br /&",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5786",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0989",
-      "year": "2026",
-      "title": "SB 0989 of 2026",
-      "desc": "Education: teachers and administrators; interim teaching certification process; modify. Amends sec. 1531i of 1976 PA 451 (MCL 380.1531i).&lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO CO",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0989",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB1001",
-      "year": "2026",
-      "title": "SB 1001 of 2026",
-      "desc": "Human services: medical services; certified community behavioral health clinics; provide certification and funding for. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding sec. 109v.   TIE BAR WITH: S",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1001",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB1009",
-      "year": "2026",
-      "title": "SB 1009 of 2026",
-      "desc": "Economic development: Michigan strategic fund; allowable use of funds; include small businesses. Amends sec. 9 of 1984 PA 270 (MCL 125.2009) &amp;amp; adds ch. 8F.&lt;br /&gt;&lt;br /&gt;Last Action: ",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1009",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB6015",
-      "year": "2026",
-      "title": "HB 6015 of 2026",
-      "desc": "Economic development: Michigan strategic fund; allowable use of funds; include small businesses. Amends sec. 9 of 1984 PA 270 (MCL 125.2009) by adding ch. 8F. &lt;br /&gt;&lt;br /&gt;Last Action: 5/21",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6015",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB1011",
-      "year": "2026",
-      "title": "SB 1011 of 2026",
-      "desc": "Insurance: pools; small business health pool; provide for. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding ch. 71A.&lt;br /&gt;&lt;br /&gt;Last Action: 5/21/2026 - REFERRED TO COMMITTEE ON HEALT",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1011",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0304",
-      "year": "2025",
-      "title": "SB 0304 of 2025",
-      "desc": "Transportation: other; regulation of ferries; provide for. Amends sec. 1, ch. IX &amp;amp; sec. 1, ch. XVI of 1899 LA 437 &amp;amp; provides for a referendum.  &lt;br /&gt;&lt;br /&gt;Last Action: 5/2",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0304",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5806",
-      "year": "2026",
-      "title": "HB 5806 of 2026",
-      "desc": "Individual income tax: credit; housing opportunity tax credits; create. Amends 1967 PA 281 (MCL 206.1 - 206.847) by adding secs. 279, 679 &amp;amp; 821.   TIE BAR WITH: HB 5805'26, HB 5807'26&lt;br /&",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5806",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5872",
-      "year": "2026",
-      "title": "HB 5872 of 2026",
-      "desc": "Property tax: assessments; taxable value of transferred property; modify. Amends sec. 27a of 1893 PA 206 (MCL 211.27a). &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - transmitted",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5872",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5996",
-      "year": "2026",
-      "title": "HB 5996 of 2026",
-      "desc": "Property tax: exemptions; partial exemption for qualified principal residence upon transfer of ownership; provide for. Amends 1893 PA 206 (MCL 211.1 - 211.155) by adding sec. 7yy.   TIE BAR WITH: HB 6",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5996",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0996",
-      "year": "2026",
-      "title": "SB 0996 of 2026",
-      "desc": "Communications: social media; regulating access to social media companies by minors act; create. Creates new act. &lt;br /&gt;&lt;br /&gt;Last Action: 5/20/2026 - REFERRED TO COMMITTEE ON FINANCE, INS",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0996",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5107",
-      "year": "2025",
-      "title": "HB 5107 of 2025",
-      "desc": "Marihuana: penalties and remedies; marihuana for personal use and possession; modify allowable amounts of. Amends secs. 5 &amp;amp; 15 of 2018 IL 1 (MCL 333.27955 &amp;amp; 333.27965).   TIE BAR WITH:",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5107",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0962",
-      "year": "2026",
-      "title": "SB 0962 of 2026",
-      "desc": "Elections: other; voting and elections database and institute act; create. Creates new act.   TIE BAR WITH: SB 0961'26, SB 0963'26&lt;br /&gt;&lt;br /&gt;Last Action: 5/13/2026 - REFERRED TO COMMITTEE",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0962",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB5552",
-      "year": "2026",
-      "title": "HB 5552 of 2026",
-      "desc": "Consumer credit: interest rates; prepayment penalties on certain mortgage loans made for business purposes; allow. Amends sec. 1c of 1966 PA 326 (MCL 438.31c). &lt;br /&gt;&lt;br /&gt;Last Action: 5/2",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5552",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "HB6011",
-      "year": "2026",
-      "title": "HB 6011 of 2026",
-      "desc": "Businesses: other; cybersecurity requirements for large-scale solar energy facilities; provide for. Amends 2008 PA 295 (MCL 460.1001 - 460.1232) by adding sec. 112a. &lt;br /&gt;&lt;br /&gt;Last Actio",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6011",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "SB0994",
-      "year": "2026",
-      "title": "SB 0994 of 2026",
-      "desc": "Individual income tax: withholding requirements; work opportunity withholdings tax credit for certain tax exempt organizations; provide for. Amends 1967 PA 281 (MCL 206.1 - 206.847) by adding sec. 714",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0994",
-      "date": "May 22, 2026"
-    },
-    {
-      "num": "MI",
-      "year": "2026",
-      "title": "HJR U",
-      "desc": "Elections: primary; nomination process for secretary of state and attorney general; modify, and provide for gubernatorial appointment of regents, trustees, or board of governors for universities. Amen",
-      "link": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HJR-U",
       "date": "May 22, 2026"
     }
   ]

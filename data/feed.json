@@ -1,6 +1,33 @@
 {
-  "generated": "2026-05-22T22:01:16.092Z",
+  "generated": "2026-05-22T23:59:09.924Z",
   "news": [
+    {
+      "title": "Joe Kernen: Trump IRS settlement &#039;smells bad&#039;",
+      "desc": "CNBC's \"Squawk Box\" co-host Joe Kernen said Friday that President Trump's settlement with his own administration for suing the IRS for $10 billion \"smells bad.\" Trump dropped the lawsuit to launch the",
+      "link": "https://thehill.com/homenews/media/5892228-kernen-slush-fund-concerns/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 23:11:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "NY Giants quarterback Jaxson Dart shows up for Trump at event for Mike Lawler",
+      "desc": "New York Giants quarterback Jaxson Dart made a surprise appearance Friday to introduce President Trump at an event to campaign for Rep. Mike Lawler (R-N.Y.). “What’s up, what’s up, what’s up. Look, Bi",
+      "link": "https://thehill.com/homenews/administration/5892287-dart-trump-campaign-surprise/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 23:03:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Wyoming shooting suspect arrested after woman critically injured",
+      "desc": "Wyoming police located and arrested the 35-year-old suspect after a May 12 shooting that left a woman critically injured. He faces multiple charges.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/wyoming-shooting-suspect-arrested-after-woman-critically-injured.html",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 22:18:15 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Warsh sworn in as Fed chief",
       "desc": "Presented by Anthropic {beacon} Business &#038; Economy Business &#038; Economy PRESENTED BY  The Big Story  Kevin Warsh sworn in as new Fed chair Federal Reserve Chair Kevin Warsh was sworn in Friday",
@@ -92,15 +119,6 @@
       "tag": "government"
     },
     {
-      "title": "White House to attempt Guinness World Record with July 4 fireworks display",
-      "desc": "The White House has unveiled a slate of celebrations to mark America’s 250th anniversary this summer, including a record-breaking fireworks show on July 4.  Freedom 250, the White House commission pla",
-      "link": "https://thehill.com/homenews/administration/5891924-white-house-fireworks-record/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 20:08:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Vintage clothing, alterations shop joins Muskegon’s Vintage Row on festival weekend",
       "desc": "The local shops on Pine Street will host a free community street market with 40 vendors, live music and food trucks from 9 a.m. to 4 p.m. Saturday.",
       "link": "https://www.mlive.com/news/muskegon/2026/05/vintage-clothing-alterations-shop-joins-muskegons-vintage-row-on-festival-weekend.html",
@@ -108,15 +126,6 @@
       "rawDate": "Fri, 22 May 2026 19:52:51 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Judge tosses federal charges against Kilmar Abrego Garcia",
-      "desc": "A federal judge on Friday dismissed the criminal case against Kilmar Abrego Garcia, siding with the mistakenly deported man in finding that he was the subject of a likely vindictive prosecution.   U.S",
-      "link": "https://thehill.com/regulation/court-battles/5891926-kilmar-abrego-garcia-vindictive-prosecution/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 19:42:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Ypsilanti arrest under review after drawing ire from leadership, activists",
@@ -142,17 +151,8 @@
       "link": "https://thehill.com/homenews/house/5891863-congressional-probe-prediction-markets/",
       "date": "May 22, 2026",
       "rawDate": "Fri, 22 May 2026 19:20:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Platner: &#039;Of course&#039; Trump needs to be impeached, removed",
-      "desc": "Maine Senate candidate Graham Platner (D) on Thursday told supporters that \"of course\" President Trump must be impeached and removed from office. Platner, who is leading incumbent Sen. Susan Collins (",
-      "link": "https://thehill.com/homenews/campaign/5891735-maine-senate-candidate-graham-platner-trump-impeachment/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 19:18:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "They went to rob a house together. But one allegedly killed the other, instead.",
@@ -178,8 +178,8 @@
       "link": "https://thehill.com/policy/defense/5891821-pentagon-second-batch-ufo-files-release/",
       "date": "May 22, 2026",
       "rawDate": "Fri, 22 May 2026 19:00:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "‘Say his name,’ judge tells man sentenced to up to 40 years in prison for shooting teen",
@@ -198,15 +198,6 @@
       "rawDate": "Fri, 22 May 2026 18:52:47 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Watch live: Trump, Lawler tout economy in New York ahead of midterms",
-      "desc": "President Trump on Friday afternoon is giving remarks alongside Rep. Mike Lawler (R-N.Y.) in one of the nation&#8217;s most competitive swing districts ahead of the November midterms. Trump will appea",
-      "link": "https://thehill.com/video-clips/5891688-watch-live-trump-lawler-new-york-remarks-economy-midtermms/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 18:34:55 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Trump&#039;s World Cup chief tells Congo team to isolate amid Ebola outbreak",
@@ -333,15 +324,6 @@
       "rawDate": "Fri, 22 May 2026 13:55:53 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Saginaw man arrested after forcing way into area elementary school",
-      "desc": "The 30-year-old man appeared at the school's playground and claimed he was there to pick up a relative, but grew loud and disorderly.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/saginaw-man-arrested-after-forcing-way-into-area-elementary-school.html",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 13:26:02 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Bolton worried Trump administration may &#039;kidnap or snatch&#039; Castro",
@@ -471,7 +453,7 @@
     },
     {
       "title": "House punts Iran war powers resolution vote",
-      "desc": "The House punted a vote Thursday on a Democratic-led war powers resolution aimed at limiting President Trump��s military action on Iran. House Republicans appear to have pushed the vote over attendanc",
+      "desc": "The House punted a vote Thursday on a Democratic-led war powers resolution aimed at limiting President Trump’s military action on Iran. House Republicans appear to have pushed the vote over attendance",
       "link": "https://thehill.com/homenews/house/5890194-house-rejects-iran-war-powers-resolution/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 22:21:41 +0000",

@@ -19,7 +19,7 @@ const NEWS_SOURCES = [
   { name: 'The Hill Economy',   url: 'https://thehill.com/economy/feed/',                                tag: 'associations' },
 ];
 
-const BILL_URL = 'http://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
+const BILL_URL = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
 
 function fetchUrl(url, timeout = 15000) {
   return new Promise((resolve, reject) => {

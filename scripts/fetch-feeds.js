@@ -19,20 +19,13 @@ const NEWS_SOURCES = [
   { name: 'The Hill Economy',   url: 'https://thehill.com/economy/feed/',                                tag: 'associations' },
 ];
 
-const BILL_URL = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
+const BILL_URL = 'http://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
 
 function fetchUrl(url, timeout = 15000) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
     const req = client.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'identity',
-        'Cache-Control': 'no-cache',
-        'Connection': 'keep-alive'
-      },
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; RSSBot/1.0)', 'Accept': 'application/rss+xml, application/xml, text/xml, */*' },
       timeout
     }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
@@ -67,7 +60,7 @@ function parseXML(xml) {
       if (a) return a[1].trim();
       return '';
     };
-    items.push({ title: get('title'), desc: get('description').replace(/<[^>]+>/g, '').substring(0, 200), link: getLink(b), date: get('pubDate') || get('dc:date') || '' });
+    items.push({ title: get('title'), desc: get('description').replace(/<[^>]*\/?>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim().substring(0, 200), link: getLink(b), date: get('pubDate') || get('dc:date') || '' });
   }
   return items;
 }

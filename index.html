@@ -896,9 +896,9 @@
       color: #5bbcb0;
     }
     .feed-close {
-      position: fixed;
-      top: 20px;
-      left: 24px;
+      position: relative;
+      top: auto;
+      left: auto;
       background: rgba(255,255,255,0.08);
       border: 1px solid rgba(255,255,255,0.15);
       color: rgba(255,255,255,0.7);
@@ -911,10 +911,12 @@
       padding: 8px 14px;
       z-index: 501;
       transition: all 0.2s;
-      display: flex;
+      display: inline-flex;
       align-items: center;
       gap: 6px;
       border-radius: 3px;
+      margin-bottom: 20px;
+      align-self: flex-start;
     }
     .feed-close:hover { background: rgba(255,255,255,0.14); color: #fff; }
     .feed-filters {
@@ -1228,7 +1230,6 @@
       .feed-header { flex-direction: column; gap: 16px; margin-bottom: 20px; padding-bottom: 20px; }
       .feed-title { font-size: 28px; }
       .feed-kicker { display: none; }
-      .feed-close { top: 16px; right: 16px; font-size: 24px; }
       .feed-filter { font-size: 10px; padding: 6px 12px; }
       .feed-tabs { margin-bottom: 16px; }
       .feed-session { align-self: flex-start; }
@@ -1647,11 +1648,11 @@
         <h3 class="svc-title">Strategic Partnerships &amp;<br>Advisory Services<span class="svc-jurisdiction">(National)</span></h3>
         <p class="svc-body">We provide executive-level guidance and relationship support to help organizations navigate complex environments, align priorities, and drive meaningful results. Through strategic insight and stakeholder engagement, we connect vision to execution and build strong partnerships for long-term success.</p>
         <ul class="svc-outcomes">
-          <li>Executive advisory &amp; strategic guidance</li>
-          <li>Stakeholder engagement &amp; relationship development</li>
-          <li>Cross-sector partnership frameworks</li>
-          <li>Vision-to-execution alignment</li>
-          <li>Growth opportunity identification</li>
+          <li>Executive advisory across strategy, priorities, and execution</li>
+          <li>Relationship development with public sector and ecosystem leaders</li>
+          <li>Strategic guidance for growth and market positioning</li>
+          <li>Trusted introductions and partnership development</li>
+          <li>Insight to translate vision into execution</li>
         </ul>
       </div>
     </div>
@@ -1820,13 +1821,13 @@
 
   <!-- THE FEED OVERLAY -->
   <div id="feed-overlay">
-    <button class="feed-close" onclick="closeFeed()" aria-label="Close">
-      <svg width="14" height="14" viewBox="0 0 13 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="transform:rotate(180deg)"><path d="M2 6.5h9M7 2l4.5 4.5L7 11"/></svg>
-      Back to Home
-    </button>
     <div class="feed-inner">
       <div class="feed-header">
         <div class="feed-title-area">
+          <button class="feed-close" onclick="closeFeed()" aria-label="Close">
+            <svg width="14" height="14" viewBox="0 0 13 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="transform:rotate(180deg)"><path d="M2 6.5h9M7 2l4.5 4.5L7 11"/></svg>
+            Back to Home
+          </button>
           <div class="feed-kicker">Michigan Intelligence · 103rd Session</div>
           <div class="feed-title">The Feed</div>
           <div style="display:flex;align-items:center;gap:10px;margin-top:14px;">

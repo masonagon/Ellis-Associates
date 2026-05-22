@@ -1,9 +1,90 @@
 {
-  "generated": "2026-05-22T20:28:52.247Z",
+  "generated": "2026-05-22T22:01:16.092Z",
   "news": [
     {
+      "title": "Warsh sworn in as Fed chief",
+      "desc": "Presented by Anthropic {beacon} Business &#038; Economy Business &#038; Economy PRESENTED BY  The Big Story  Kevin Warsh sworn in as new Fed chair Federal Reserve Chair Kevin Warsh was sworn in Friday",
+      "link": "https://thehill.com/newsletters/5892215-warsh-sworn-in-as-fed-chief/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 21:56:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "What Trump’s switch on AI order says about WH divides over tech policy",
+      "desc": "{beacon} Technology &#8202; The Big Story  What Trump’s switch on AI order says about WH divides over tech policy  President Trump’s abrupt decision to pull an executive order on artificial intelligen",
+      "link": "https://thehill.com/newsletters/technology/5892151-trump-switch-ai-order-tech-policy/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 21:36:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cruz on Blanche&#039;s Senate GOP meeting: &#039;Fireworks at an epic level&#039;",
+      "desc": "Sen. Ted Cruz (R-Texas) says that about half the Senate Republican Conference blasted acting Attorney General Todd Blanche at an explosive meeting in the Capitol on Thursday, summing up his GOP collea",
+      "link": "https://thehill.com/homenews/senate/5892149-cruz-republican-anger-blanche/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 21:34:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rubio reports &#039;slight progress&#039; in Iran talks as Pakistan renews efforts to mediate a peace deal",
+      "desc": "TEL AVIV, Israel (AP) — U.S. Secretary of State Marco Rubio said Friday that “slight progress” was made during talks with Iran as Pakistan's army chief traveled to Tehran in a renewed effort to mediat",
+      "link": "https://thehill.com/policy/international/marco-rubio-slight-progress-iran-talks/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 21:26:38 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "GOP senator floats Stefanik to replace Gabbard as DNI",
+      "desc": "Sen. Jim Banks (R-Ind.) on Friday floated Rep. Elise Stefanik (R-N.Y.) as a possible successor to outgoing Director of National Intelligence (DNI) Tulsi Gabbard, saying the House Republican would like",
+      "link": "https://thehill.com/homenews/house/5892105-gop-senator-floats-stefanik-to-replace-gabbard-as-dni/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 20:58:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man charged in fatal Kentwood hit-and-run of teen",
+      "desc": "Cameron Bryant, 29, is charged with failure to stop at the scene of an accident, when at fault, causing death.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/man-charged-in-fatal-kentwood-hit-and-run-of-teen.html",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 20:44:24 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "WHO: &#039;Violence and insecurity&#039; hampering response to &#039;worrisome&#039; Ebola outbreak",
+      "desc": "World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus warned Friday that \"violence and insecurity\" have hampered the response to the Ebola outbreak in Congo, which he called \"dee",
+      "link": "https://thehill.com/policy/healthcare/5891915-who-warns-ebola-response/",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 20:42:19 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "‘We adapt. We change. We grow.’: Flushing celebrates 250+ graduates as they turn the tassel",
+      "desc": "Graduation is a time where reflection and culmination meet forward movement. And these graduates were encouraged for their next steps to be bold in their lives ahead.",
+      "link": "https://www.mlive.com/news/flint/2026/05/we-adapt-we-change-we-grow-flushing-celebrates-250-graduates-as-they-turn-the-tassel.html",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 20:39:57 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Woman dies, infant hospitalized after vehicle hits embankment and catches fire",
+      "desc": "Officers were dispatched shortly before 6:15 a.m. on Friday, May 22, for a single-vehicle crash that took place on East Carpenter Road, between North Center and North Genesee roads.",
+      "link": "https://www.mlive.com/news/flint/2026/05/woman-dies-infant-hospitalized-after-vehicle-hits-embankment-and-catches-fire.html",
+      "date": "May 22, 2026",
+      "rawDate": "Fri, 22 May 2026 20:38:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "Burchett ‘disappointed’ in Senate as Congress leaves DC: ‘We’ve wasted a whole week’",
-      "desc": "Rep. Tim Burchett (R-Tenn.) said on Thursday he was “disappointed” in the Senate for heading on a weeklong recess without holding a vote on a reconciliation bill to fund federal immigration agencies, ",
+      "desc": "Rep. Tim Burchett (R-Tenn.) said Thursday he was “disappointed” in the Senate for heading on a weeklong recess without holding a vote on a reconciliation bill to fund federal immigration agencies, joi",
       "link": "https://thehill.com/homenews/senate/5891995-burchett-disappointed-senate-recess/",
       "date": "May 22, 2026",
       "rawDate": "Fri, 22 May 2026 20:17:33 +0000",
@@ -12,7 +93,7 @@
     },
     {
       "title": "White House to attempt Guinness World Record with July 4 fireworks display",
-      "desc": "The White House has unveiled a slate of celebrations to mark America’s 250th anniversary this summer, including a record-breaking fireworks show on July 4.  Freedom 250, the White House commission pla",
+      "desc": "The White House has unveiled a slate of celebrations to mark America’s 250th anniversary this summer, including a record-breaking fireworks show on July 4.  Freedom 250, the White House commission pla",
       "link": "https://thehill.com/homenews/administration/5891924-white-house-fireworks-record/",
       "date": "May 22, 2026",
       "rawDate": "Fri, 22 May 2026 20:08:03 +0000",
@@ -30,7 +111,7 @@
     },
     {
       "title": "Judge tosses federal charges against Kilmar Abrego Garcia",
-      "desc": "A federal judge on Friday dismissed the criminal case against Kilmar Abrego Garcia, siding with the mistakenly deported man in finding that he was the subject of a likely vindictive prosecution.   U.S",
+      "desc": "A federal judge on Friday dismissed the criminal case against Kilmar Abrego Garcia, siding with the mistakenly deported man in finding that he was the subject of a likely vindictive prosecution.   U.S",
       "link": "https://thehill.com/regulation/court-battles/5891926-kilmar-abrego-garcia-vindictive-prosecution/",
       "date": "May 22, 2026",
       "rawDate": "Fri, 22 May 2026 19:42:08 +0000",
@@ -83,15 +164,6 @@
       "tag": "safety"
     },
     {
-      "title": "Rubio reports &#039;slight progress&#039; in Iran talks as Pakistan army chief renews mediation efforts",
-      "desc": "TEL AVIV, Israel (AP) — U.S. Secretary of State Marco Rubio said Friday that “slight progress” was made during talks with Iran as Pakistan's army chief traveled to Tehran in a renewed effort to mediat",
-      "link": "https://thehill.com/policy/international/marco-rubio-slight-progress-iran-talks/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 19:11:24 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Saginaw man arrested on murder charge in connection with April homicide",
       "desc": "Torrance McMurren, known as \"Bear\" to friends and family, died from multiple gunshot wounds on April 26.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/saginaw-man-arrested-on-murder-charge-in-connection-with-april-homicide.html",
@@ -128,49 +200,13 @@
       "tag": "technology"
     },
     {
-      "title": "Pfeiffer says Martin should step down as DNC chief: &#039;Cannot repair the trust&#039;",
-      "desc": "Dan Pfeiffer, co-host of “Pod Save America,” urged Democratic National Committee (DNC) Chair Ken Martin to step down after the committee released an incomplete investigation into the party's 2024 elec",
-      "link": "https://thehill.com/homenews/media/5891765-dan-pfeiffer-ken-martin-dnc-2024-autopsy-report-criticism/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 18:47:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Wicker warns Trump against &#039;ill advised&#039; Iran deal: &#039;We must finish what we started&#039;",
-      "desc": "Senate Armed Services Committee Chair Roger Wicker (R-Miss.) on Friday called for renewed strikes on Iran, pressing President Trump to “finish the job he started” and warning him of an “ill advised” d",
-      "link": "https://thehill.com/homenews/senate/5891777-wickers-warning-ill-advised-iran-deal/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 18:40:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Watch live: Trump, Lawler tout economy in New York ahead of midterms",
-      "desc": "President Trump on Friday afternoon is giving remarks alongside Rep. Mike Lawler (R-N.Y.) in one of the nation's most competitive swing districts ahead of the November midterms. Trump will appear in N",
+      "desc": "President Trump on Friday afternoon is giving remarks alongside Rep. Mike Lawler (R-N.Y.) in one of the nation&#8217;s most competitive swing districts ahead of the November midterms. Trump will appea",
       "link": "https://thehill.com/video-clips/5891688-watch-live-trump-lawler-new-york-remarks-economy-midtermms/",
       "date": "May 22, 2026",
       "rawDate": "Fri, 22 May 2026 18:34:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The highest-paying jobs in the US, according to federal data",
-      "desc": "Want one of America's highest-paying jobs? You'll probably need to go to medical school.",
-      "link": "https://thehill.com/business/5890914-highest-paying-jobs-usa-labor-department-statistics/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 18:25:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Disney asks FCC to classify &#039;The View&#039; as exempt from equal time rule",
-      "desc": "Disney is asking the Federal Communications Commission (FCC) to consider whether \"The View\" is exempt from a statutory \"equal time\" requirement that applies to broadcast shows. In a recent filing with",
-      "link": "https://thehill.com/homenews/media/5891668-disney-fcc-the-view-equal-time/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 18:11:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Trump&#039;s World Cup chief tells Congo team to isolate amid Ebola outbreak",
@@ -178,26 +214,8 @@
       "link": "https://thehill.com/policy/healthcare/5891677-andrew-giuliani-world-cup-white-house-task-force-ebola-outbreak/",
       "date": "May 22, 2026",
       "rawDate": "Fri, 22 May 2026 18:05:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "How Congress can unleash Main Street’s growth",
-      "desc": "Small businesses are urging Congress to provide them with tax relief, regulatory reforms, and healthcare savings to help them compete with larger businesses and create jobs.",
-      "link": "https://thehill.com/opinion/finance/5890980-congress-tax-relief-small-businesses/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump says he won&#8217;t attend Don Jr.&#8217;s wedding, citing &#8216;circumstances pertaining to Government&#8217;",
-      "desc": "President Trump said Friday he will not be attending his son Donald Trump Jr.’s wedding this weekend, citing government business. “While I very much wanted to be with my son, Don Jr., and the newest m",
-      "link": "https://thehill.com/homenews/administration/5891676-trump-says-he-wont-attend-don-jr-s-wedding-citing-circumstances-pertaining-to-government/",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 17:58:17 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Police looking for driver who nearly struck child exiting school bus",
@@ -353,15 +371,6 @@
       "tag": "technology"
     },
     {
-      "title": "Double shooting at Saginaw party store leaves one dead, another wounded",
-      "desc": "The homicide is Saginaw's sixth of the year, and fifth to result from gunfire.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/double-shooting-at-saginaw-party-store-leaves-one-dead-another-wounded.html",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 12:40:19 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Former CDC epidemiologist: Ebola outbreak &#039;will get worse before it gets better&#039;",
       "desc": "Dr. Neil Vora, an epidemiologist, warned that the spread of the Ebola virus in several African countries “will get worse before it gets better.” Vora, who worked for the Centers for Disease Control an",
       "link": "https://thehill.com/policy/healthcare/5890882-neil-vora-former-cdc-epidemiologist-ebola-outbreak-forecast/",
@@ -369,15 +378,6 @@
       "rawDate": "Fri, 22 May 2026 12:38:39 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Genesee County drops Aramark after 19 years over jail food issues",
-      "desc": "Genesee County is cutting ties with food service giant Aramark, agreeing on a three-year contract with Canteen Services to provide meals in the county jail.",
-      "link": "https://www.mlive.com/news/flint/2026/05/genesee-county-drops-aramark-after-19-years-over-jail-food-issues.html",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 12:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Samsung Movingstyle M7 Review: A Screen on Wheels",
@@ -471,7 +471,7 @@
     },
     {
       "title": "House punts Iran war powers resolution vote",
-      "desc": "The House punted a vote Thursday on a Democratic-led war powers resolution aimed at limiting President Trump’s military action on Iran. House Republicans appear to have pushed the vote over attendance",
+      "desc": "The House punted a vote Thursday on a Democratic-led war powers resolution aimed at limiting President Trump��s military action on Iran. House Republicans appear to have pushed the vote over attendanc",
       "link": "https://thehill.com/homenews/house/5890194-house-rejects-iran-war-powers-resolution/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 22:21:41 +0000",
@@ -812,15 +812,6 @@
       "tag": "technology"
     },
     {
-      "title": "RFK Jr. fires 2 leaders of preventive services task force",
-      "desc": "Health Secretary Robert F. Kennedy Jr. has fired the two leaders of an influential panel that determines which preventive medical services insurers must cover for free.  Kennedy dismissed vice chairs ",
-      "link": "https://thehill.com/policy/healthcare/5887971-kennedy-fires-preventive-panel-leaders/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 19:42:59 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "US military boards Iranian-flagged oil tanker in Gulf of Oman",
       "desc": "The U.S. military on Wednesday boarded an Iranian-flagged oil tanker in the Gulf of Oman suspected of trying to violate the U.S. naval blockade by sailing toward an Iranian port. The Marines from the ",
       "link": "https://thehill.com/policy/defense/5887890-marines-redirect-iranian-oil-tanker/",
@@ -889,15 +880,6 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/grcc-taps-kentwood-public-schools-administrator-as-new-trustee.html",
       "date": "May 19, 2026",
       "rawDate": "Tue, 19 May 2026 20:54:08 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Washtenaw Community College freezes in-district tuition, puts tax renewal on ballot",
-      "desc": "One maintains the state's lowest community college in-district tuition rate, while the other asks voters to renew an 0.85-mill operating tax in August.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/washtenaw-community-college-freezes-in-district-tuition-puts-tax-renewal-on-ballot.html",
-      "date": "May 19, 2026",
-      "rawDate": "Tue, 19 May 2026 20:06:32 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

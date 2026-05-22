@@ -2132,24 +2132,67 @@
       document.getElementById('news-updated').textContent = `${allNews.length} articles · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
     }
 
+    const BILL_RSS = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
+    let billCache = null;
+
+    function parseBillXML(xml) {
+      const bills = [];
+      const re = /<item>([\s\S]*?)<\/item>/g;
+      let m;
+      while ((m = re.exec(xml)) !== null) {
+        const b = m[1];
+        const get = (tag) => {
+          const r = b.match(new RegExp('<' + tag + '[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/' + tag + '>|<' + tag + '[^>]*>([^<]*)<\\/' + tag + '>'));
+          return r ? (r[1] || r[2] || '').trim() : '';
+        };
+        const getLinkB = (bl) => {
+          const c = bl.match(/<link><!\[CDATA\[(.*?)\]\]><\/link>/);
+          if (c) return c[1].trim();
+          const t = bl.match(/<link>(.*?)<\/link>/);
+          if (t) return t[1].trim();
+          return '';
+        };
+        const title = get('title');
+        const link = getLinkB(b);
+        if (!title || !link) continue;
+        const n = title.match(/\b([HS]B\s?\d+|[HS]JR\s?\d+)/i);
+        const y = title.match(/\bof\s+(20\d\d)\b/i);
+        const rawDate = get('pubDate') || get('dc:date') || '';
+        const desc = get('description').replace(/<[^>]*\/?>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim().substring(0, 200);
+        bills.push({
+          num: n ? n[0].replace(/\s/g, '').toUpperCase() : 'MI',
+          year: y ? y[1] : '',
+          title: title.replace(/^[HS]B\s?\d+[:\-\s]*/i, '').replace(/\bof\s+20\d\d\b/i, '').trim() || title,
+          desc,
+          link,
+          date: rawDate ? new Date(rawDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : ''
+        });
+      }
+      return bills;
+    }
+
     async function loadFeed() {
       const container = document.getElementById('feed-bills-container');
-      const data = await loadFeedData();
-      if (!data || !data.bills) {
+      if (billCache) { renderBills(billCache); return; }
+      container.innerHTML = '<div class="feed-loading">Fetching latest bills from the Michigan Legislature...</div>';
+      try {
+        const res = await fetch(BILL_RSS);
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const xml = await res.text();
+        const bills = parseBillXML(xml);
+        billCache = bills;
+        if (!bills.length) {
+          container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
+          document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
+          return;
+        }
+        renderBills(bills);
+        document.getElementById('feed-updated').textContent = `${bills.length} bills · Live`;
+        document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
+      } catch(e) {
         container.innerHTML = '<div class="feed-error">Unable to load bill feed.<br>Visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
         document.getElementById('feed-session-status').textContent = 'Feed Unavailable';
-        return;
       }
-      allBills = data.bills;
-      if (!allBills.length) {
-        container.innerHTML = '<div class="feed-error">The Michigan Legislature feed is currently empty — this typically happens when the legislature is in recess.<br>Check back when session resumes or visit <a href="https://legislature.mi.gov" target="_blank" style="color:#5bbcb0">legislature.mi.gov</a> directly.</div>';
-        document.getElementById('feed-session-status').textContent = 'Legislature in Recess';
-        return;
-      }
-      renderBills(allBills);
-      const generated = new Date(data.generated);
-      document.getElementById('feed-updated').textContent = `${allBills.length} bills · Updated ${generated.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · ${generated.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})}`;
-      document.getElementById('feed-session-status').textContent = '103rd Legislature · Live Feed';
     }
 
     document.addEventListener('keydown', (e) => {

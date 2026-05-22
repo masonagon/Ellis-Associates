@@ -19,8 +19,6 @@ const NEWS_SOURCES = [
   { name: 'The Hill Economy',   url: 'https://thehill.com/economy/feed/',                                tag: 'associations' },
 ];
 
-const BILL_URL = 'https://www.legislature.mi.gov/documents/publications/RssFeeds/billupdate.xml';
-
 function fetchUrl(url, timeout = 15000) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
@@ -97,21 +95,6 @@ async function fetchNews(source) {
   } catch(e) { console.log('    Failed: ' + e.message); return []; }
 }
 
-async function fetchBills() {
-  try {
-    console.log('  Fetching bills...');
-    const xml = await fetchUrl(BILL_URL);
-    const items = parseXML(xml);
-    const out = items.filter(i => i.title && i.link).map(i => {
-      const n = i.title.match(/\b([HS]B\s?\d+|[HS]JR\s?\d+)/i);
-      const y = i.title.match(/\bof\s+(20\d\d)\b/i);
-      return { num: n ? n[0].replace(/\s/g,'').toUpperCase() : 'MI', year: y ? y[1] : '', title: i.title.replace(/^[HS]B\s?\d+[:\-\s]*/i,'').replace(/\bof\s+20\d\d\b/i,'').trim() || i.title, desc: i.desc, link: i.link, date: fmtDate(i.date) };
-    });
-    console.log('    Got ' + out.length + ' bills');
-    return out;
-  } catch(e) { console.log('    Bills failed: ' + e.message); return []; }
-}
-
 async function main() {
   console.log('Fetching news...');
   const results = await Promise.all(NEWS_SOURCES.map(fetchNews));
@@ -120,12 +103,9 @@ async function main() {
   news = news.filter(a => { const k = a.title.toLowerCase().replace(/[^a-z0-9]/g,'').substring(0,40); if (seen.has(k)) return false; seen.add(k); return true; });
   news.sort((a,b) => new Date(b.rawDate) - new Date(a.rawDate));
 
-  console.log('\nFetching bills...');
-  const bills = await fetchBills();
-
-  const out = { generated: new Date().toISOString(), news, bills };
+  const out = { generated: new Date().toISOString(), news };
   fs.writeFileSync(path.join(__dirname, '../data/feed.json'), JSON.stringify(out, null, 2));
-  console.log('\nDone: ' + news.length + ' articles, ' + bills.length + ' bills');
+  console.log('\nDone: ' + news.length + ' articles');
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

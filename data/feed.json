@@ -1,6 +1,24 @@
 {
-  "generated": "2026-05-23T17:59:35.815Z",
+  "generated": "2026-05-23T19:17:36.871Z",
   "news": [
+    {
+      "title": "US adds Atlanta airport as enhanced screening location for travelers from Ebola outbreak countries",
+      "desc": "The Centers for Disease Control and Prevention (CDC) has expanded its enhanced Ebola screening to Hartsfield-Jackson Atlanta International Airport for passengers coming from Congo, Uganda and South Su",
+      "link": "https://thehill.com/policy/healthcare/5892834-ebola-screening-atlanta-airport/",
+      "date": "May 23, 2026",
+      "rawDate": "Sat, 23 May 2026 18:45:27 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "New York official warns AI could cost city thousands of jobs",
+      "desc": "A New York City official warned this week that those working in the Big Apple could face the brunt of the negative impacts of artificial intelligence, possibly costing the city thousands of jobs.  Com",
+      "link": "https://thehill.com/policy/technology/5892828-new-york-city-comptroller-mark-levine-ai-jobs/",
+      "date": "May 23, 2026",
+      "rawDate": "Sat, 23 May 2026 18:25:32 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
     {
       "title": "Former federal officer sentenced for distributing child pornography",
       "desc": "He was arrested following an investigation by the FBI which found he had downloaded hundreds of files of child sexual abuse material via peer-to-peer applications in April 2025, court records show.",
@@ -110,24 +128,6 @@
       "tag": "government"
     },
     {
-      "title": "The US must reject the false dichotomy of &#8216;trade or aid&#8217;",
-      "desc": "Doing both is the path to a safer, stronger and more prosperous world.",
-      "link": "https://thehill.com/opinion/international/5890958-aid-trade-linked-prosperity/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 13:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "&#039;Abusively presented spat&#039;: Judge dismisses author Michael Wolff&#039;s suit against Melania Trump",
-      "desc": "A federal judge on Friday dismissed Michael Wolff’s lawsuit against first lady Melania Trump, launched after she threatened to sue the author for defamation.  “There are many features of this case tha",
-      "link": "https://thehill.com/regulation/court-battles/5892578-judge-tosses-michael-wolff-melania-trump-lawsuit-epstein-ties/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 12:26:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump administration expands Ebola travel restrictions to green card holders",
       "desc": "The Trump administration updated its travel restrictions amid the Ebola outbreak to temporarily include the entry of lawful permanent residents who have been in the Democratic Republic of Congo (DRC),",
       "link": "https://thehill.com/policy/healthcare/5892561-trump-administration-ebola-outbreak-restrictions-green-card-holders/",
@@ -155,18 +155,18 @@
       "tag": "education"
     },
     {
-      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
-      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
+      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
+      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
     },
     {
-      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
-      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
+      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
+      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",
@@ -221,6 +221,15 @@
       "title": "Ulta Promo Codes: Up to 50% Off in May",
       "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
       "link": "https://www.wired.com/story/ulta-coupon/",
+      "date": "May 23, 2026",
+      "rawDate": "Sat, 23 May 2026 05:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Valvoline Coupons &amp; Promo Codes for May 2026",
+      "desc": "We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 05:00:00 +0000",
       "source": "Wired",
@@ -783,15 +792,6 @@
       "rawDate": "Thu, 21 May 2026 01:58:55 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Ebola fears surge on the ground in Congo over rapid spread of a rare type",
-      "desc": "BUNIA, Congo (AP) — Anxious healthcare workers in eastern Congo said Wednesday they are underprotected and undertrained in a rapidly spreading Ebola outbreak of a rare type of the virus in one of the ",
-      "link": "https://thehill.com/policy/international/ebola-congo-who-risk/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 01:45:16 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "US aircraft carrier arrives in Caribbean amid tensions with Cuba",

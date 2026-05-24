@@ -1,6 +1,24 @@
 {
-  "generated": "2026-05-24T20:44:14.832Z",
+  "generated": "2026-05-24T21:48:50.735Z",
   "news": [
+    {
+      "title": "Rubio calls GOP criticisms of Iran-Trump emerging deal &#039;absurd&#039;",
+      "desc": "Secretary of State Marco Rubio shot back at Republican criticism of a possible deal with Iran as “absurd,” adding that “our preference is to address this through a diplomatic means.” “The idea that so",
+      "link": "https://thehill.com/homenews/administration/5893557-marco-rubio-iran-deal-criticism/",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 21:35:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ebola response hobbled by US withdrawal from global health",
+      "desc": "The Ebola outbreak spreading throughout Central Africa is the first major outbreak since the Trump administration demolished its global health programs and largely withdrew from the world stage last y",
+      "link": "https://thehill.com/policy/healthcare/5892230-ebola-outbreak-trump-cuts/",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 21:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "Trump says Iran deal will be &#039;good and proper&#039; if one is made",
       "desc": "President Trump said Sunday that if his administration reaches a deal with Iran, it will be a “good and proper one,” as the two sides reportedly near an agreement to end hostilities.  “If I make a dea",
@@ -66,7 +84,7 @@
     },
     {
       "title": "Navy chief undercuts Trump and Hegseth on Taiwan, Iran",
-      "desc": "Acting Navy Secretary Hung Cao��s insistence this week that the Pentagon had paused a $14 billion arms sale to Taiwan over a munitions review has undercut the Trump administration’s narrative on both ",
+      "desc": "Acting Navy Secretary Hung Cao’s insistence this week that the Pentagon had paused a $14 billion arms sale to Taiwan over a munitions review has undercut the Trump administration’s narrative on both I",
       "link": "https://thehill.com/policy/defense/5892374-navy-secretary-taiwan-arms-sale-pause-iran/",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 16:00:00 +0000",
@@ -81,24 +99,6 @@
       "rawDate": "Sun, 24 May 2026 15:55:15 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Cornyn: Massie, Cassidy situation with Trump different from mine",
-      "desc": "Sen. John Cornyn (R-Texas) on Sunday said his relationship with President Trump is different from the \"Cassidy and Massie situation,\" referring to Sen. Bill Cassidy (R-La.) and Rep. Thomas Massie (R-K",
-      "link": "https://thehill.com/homenews/campaign/5893295-cornyn-paxton-runoff-texas/",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 15:43:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Booker says Democratic Party &#039;desperately needs new leadership&#039;",
-      "desc": "Democratic Sen. Cory Booker (N.J.) said Sunday that his party “desperately needs new leadership,” with the midterms less than six months away. “We need to focus on the people, and the Democratic Party",
-      "link": "https://thehill.com/homenews/senate/5893308-booker-democrats-need-new-leadership/",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 15:31:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "As stock market rises, University of Michigan reports consumer sentiment at record low",
@@ -164,18 +164,18 @@
       "tag": "technology"
     },
     {
-      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
-      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
+      "title": "Rose Run at Jackson College returns next month",
+      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Rose Run at Jackson College returns next month",
-      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
-      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
+      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
+      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
@@ -650,15 +650,6 @@
       "tag": "education"
     },
     {
-      "title": "Acting Navy secretary: Taiwan weapons sales paused to ensure munitions for Iran war",
-      "desc": "Acting Navy Secretary Hung Cao said Thursday the U.S. is pausing a $14 billion arms sale to Taiwan because of the Trump administration’s war with Iran.  Speaking during a Senate Appropriations Defense",
-      "link": "https://thehill.com/policy/defense/5890471-us-arms-sales-taiwan-paused-iran/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 23:07:14 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Moderna mRNA flu vaccine to get FDA panel review",
       "desc": "Moderna’s experimental mRNA flu shot will be reviewed by a Food and Drug Administration (FDA) advisory panel next month, a move that suggests a more stable approach to drug reviews after the firing of",
       "link": "https://thehill.com/homenews/5890296-fda-panel-moderna-flu-vaccine/",
@@ -799,15 +790,6 @@
       "link": "https://thehill.com/policy/transportation/5888899-detroit-bound-flight-diverted-ebola-error/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 13:59:57 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "US orders travelers from Ebola outbreak countries to pass through Dulles for enhanced screening",
-      "desc": "The U.S. government is requiring travelers who have visited African countries where Ebola outbreaks are occurring within the last three weeks to go through enhanced screening at Washington Dulles Inte",
-      "link": "https://thehill.com/policy/healthcare/5888923-us-travel-advisory-ebola-outbreak-screening/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 13:42:20 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

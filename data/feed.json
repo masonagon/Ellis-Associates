@@ -1,6 +1,24 @@
 {
-  "generated": "2026-05-23T23:51:06.120Z",
+  "generated": "2026-05-24T02:33:12.976Z",
   "news": [
+    {
+      "title": "Suspect who approached White House checkpoint with weapon shot and killed, bystander hit",
+      "desc": "The suspect began firing at Secret Service officers Saturday night. They returned fire and hit the suspect, who later died at the hospital, officials said. A bystander was struck.",
+      "link": "https://www.mlive.com/news/2026/05/suspect-who-approached-white-house-checkpoint-with-weapon-shot-and-killed-bystander-hit.html",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 00:45:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ebola resurgence sparks global concern, travel restrictions: What to know",
+      "desc": "The resurgence of Ebola in central Africa is prompting international concern, with health officials issuing urgent warnings and travel restrictions as an outbreak linked to the rare Bundibugyo strain ",
+      "link": "https://thehill.com/policy/healthcare/5893068-ebola-resurgence-central-africa/",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 00:32:29 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "Reports of shots fired near White House",
       "desc": "The Secret Service posted on X that it was “aware of reports of shots fired near 17th Street and Pennsylvania Avenue NW” — one block from the White House.",
@@ -11,8 +29,8 @@
       "tag": "government"
     },
     {
-      "title": "Secret Service respond to shots fired near White House",
-      "desc": "U.S. Secret Service rushed reporters into the press briefing room on Saturday after gunshots were fired near the White House, according to The Hill’s sister network NewsNation. A law enforcement sourc",
+      "title": "Suspected gunman dead after gunfire exchanged with Secret Service near White House",
+      "desc": "U.S. Secret Service shot and killed a man after he opened fire near the White House on Saturday, according to a spokesperson for the agency. The spokesperson said in a statement that an individual app",
       "link": "https://thehill.com/homenews/5893010-white-house-shots-reporters-rushed/",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 22:44:35 +0000",
@@ -209,18 +227,18 @@
       "tag": "education"
     },
     {
-      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
-      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
+      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
+      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
     },
     {
-      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
-      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
+      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
+      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",
@@ -275,15 +293,6 @@
       "title": "Ulta Promo Codes: Up to 50% Off in May",
       "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
       "link": "https://www.wired.com/story/ulta-coupon/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Valvoline Coupons &amp; Promo Codes for May 2026",
-      "desc": "We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 05:00:00 +0000",
       "source": "Wired",
@@ -659,15 +668,6 @@
       "tag": "government"
     },
     {
-      "title": "Mike Duggan ends Michigan governor campaign, says there’s no path to victory",
-      "desc": "Asked what comes next, Duggan said he has no immediate political plans.\n“For the first time in years,” he said, “I’m going to spend some time with my family.”",
-      "link": "https://www.mlive.com/news/2026/05/mike-duggan-ends-michigan-governor-campaign-says-theres-no-path-to-victory.html",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 19:07:48 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "New obesity drug from Lilly delivers major weight loss",
       "desc": "An investigational obesity drug from Eli Lilly cleared important end points in a late-stage trial, the company said Thursday, by helping patients lose up to 30 percent of their body weight.  Lilly sai",
       "link": "https://thehill.com/policy/healthcare/5889665-eli-lilly-new-obesity-drug-weight-loss/",
@@ -772,15 +772,6 @@
       "link": "https://thehill.com/policy/healthcare/5888923-us-travel-advisory-ebola-outbreak-screening/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 13:42:20 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "HHS warns of children&#039;s screen time use, citing impact on sleep, mental health",
-      "desc": "The Department of Health and Human Services (HHS) warned about children’s screen time in an advisory released Wednesday, citing impacts on sleep and mental health. The “Surgeon General's Warning on th",
-      "link": "https://thehill.com/policy/healthcare/5888558-children-screen-time-warning/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 03:00:33 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

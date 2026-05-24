@@ -1,6 +1,33 @@
 {
-  "generated": "2026-05-24T17:04:50.612Z",
+  "generated": "2026-05-24T19:05:34.727Z",
   "news": [
+    {
+      "title": "Kalshi puts Paxton odds in Texas GOP primary at 95 percent",
+      "desc": "Texas Attorney General Ken Paxton (R) has a greater than 95 percent chance of defeating incumbent Sen. John Cornyn (R-Texas) in the Lone Star State’s Senate GOP runoff, according to the prediction mar",
+      "link": "https://thehill.com/homenews/campaign/5893409-paxton-cornyn-odds-kalshi/",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 18:27:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Zeldin says EPA providing &#039;flexibility&#039; by loosening rules for pollutants used in grocery refrigeration",
+      "desc": "Environmental Protection Agency (EPA) Lee Zeldin said Sunday that the Trump administration is providing “flexibility” to businesses by loosening restrictions on the use of super-polluting greenhouse g",
+      "link": "https://thehill.com/policy/energy-environment/5893378-trump-epa-refrigerant-rule-change/",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 18:11:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Zeldin says EPA providing &#8216;flexibility&#8217; by loosening rules for pollutants used in grocery refrigeration",
+      "desc": "Environmental Protection Agency (EPA) Lee Zeldin said Sunday that the Trump administration is providing “flexibility” to businesses by loosening restrictions on the use of super-polluting greenhouse g",
+      "link": "https://thehill.com/policy/energy-environment/5893378-trump-epa-refrigerant-rule-change/",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 18:11:51 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Live coverage: Trump&#039;s tentative Iran deal faces GOP criticism; Shooting at White House renews security fears",
       "desc": "The U.S. and Iran were nearing a deal to end thir war and re-open the Strait of Hormuz on Sunday, even as a number of Republicans and other conservatives said they feared the emerging agreement was no",
@@ -97,26 +124,8 @@
       "link": "https://thehill.com/homenews/senate/5893252-tillis-slams-hegseth-defense/",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 14:04:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Repeal of EPA’s endangerment finding won’t change the realities of chronic disease",
-      "desc": "We can expect chronic disease rates to worsen as greenhouse gas emissions trend upward and contribute to more frequent and intense climate impacts like extreme heat and wildfires.",
-      "link": "https://thehill.com/opinion/healthcare/5891781-environmental-health-chronic-illness/",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 14:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Tillis slams emerging Iran deal, offers sharp criticism for Pete Hegseth",
-      "desc": "Sen. Thom Tillis (R-N.C.) on Sunday added his voice to other Republicans criticizing an emerging peace deal with Iran, saying he would not support it based on his understanding of what it includes. “I",
-      "link": "https://thehill.com/homenews/senate/5893248-tillis-criticizes-iran-peace-deal/",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 13:43:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Grand Rapids program aims to turn river investment into business opportunities",
@@ -362,18 +371,18 @@
       "tag": "education"
     },
     {
-      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
-      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
+      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
+      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
     },
     {
-      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
-      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
+      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
+      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",

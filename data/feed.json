@@ -1,6 +1,15 @@
 {
-  "generated": "2026-05-24T21:48:50.735Z",
+  "generated": "2026-05-24T22:50:40.343Z",
   "news": [
+    {
+      "title": "WHO chief says hantavirus &#039;situation is stable for now&#039;",
+      "desc": "World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus on Sunday said the hantavirus \"situation is stable for now.\" Dr. Tedros provided an update stating that the WHO has reported",
+      "link": "https://thehill.com/policy/healthcare/5893589-who-hantavirus-update-stable/",
+      "date": "May 24, 2026",
+      "rawDate": "Sun, 24 May 2026 22:17:34 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "Rubio calls GOP criticisms of Iran-Trump emerging deal &#039;absurd&#039;",
       "desc": "Secretary of State Marco Rubio shot back at Republican criticism of a possible deal with Iran as “absurd,” adding that “our preference is to address this through a diplomatic means.” “The idea that so",
@@ -74,8 +83,8 @@
       "tag": "government"
     },
     {
-      "title": "Cornyn won&#039;t commit to backing Paxton if Trump-endorsed AG wins primary",
-      "desc": "Sen. John Cornyn (R-Texas) on Sunday would not commit to backing Trump-endorsed Attorney General Ken Paxton (R) if he wins the upcoming Texas Republican Senate runoff election to face Democrat James T",
+      "title": "Cornyn remains defiant, says he doesn&#039;t &#039;expect&#039; he&#039;ll &#039;have to deal&#039; with backing Paxton",
+      "desc": "Sen. John Cornyn (R-Texas) on Sunday would not specifically commit to backing Trump-endorsed Attorney General Ken Paxton (R) if he wins the upcoming Texas Republican Senate runoff election to face Dem",
       "link": "https://thehill.com/homenews/campaign/5893294-trump-endorsement-cornyn-paxton/",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 16:19:56 +0000",
@@ -88,8 +97,8 @@
       "link": "https://thehill.com/policy/defense/5892374-navy-secretary-taiwan-arms-sale-pause-iran/",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
@@ -156,7 +165,7 @@
     },
     {
       "title": "Trump&#039;s last-minute AI order switch exposes White House divides",
-      "desc": "President Trump’s abrupt decision to pull an executive order on artificial intelligence testing has exposed a deeper divide in the White House over how to oversee the technology’s development without ",
+      "desc": "President Trump’s abrupt decision to pull an executive order on AI testing has exposed a deeper divide in the White House over how to oversee the technology’s development without stopping its growth. ",
       "link": "https://thehill.com/policy/technology/5891923-trump-ai-order-scrapped-divide/",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
@@ -362,18 +371,18 @@
       "tag": "education"
     },
     {
-      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
-      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
+      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
+      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
     },
     {
-      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
-      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
+      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
+      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",
@@ -781,15 +790,6 @@
       "link": "https://thehill.com/policy/healthcare/5889058-robert-redfield-cdc-ebola-outbreak-pandemic/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 14:55:49 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Detroit-bound flight diverted over Ebola-linked restrictions",
-      "desc": "A flight destined for Detroit was diverted to Montreal on Wednesday after a passenger from Congo boarded the flight “in error,” according to U.S. Customs and Border Protection (CBP).  The Congo passen",
-      "link": "https://thehill.com/policy/transportation/5888899-detroit-bound-flight-diverted-ebola-error/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 13:59:57 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

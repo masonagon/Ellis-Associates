@@ -1,23 +1,311 @@
 {
-  "generated": "2026-05-26T07:38:27.620Z",
+  "generated": "2026-05-26T14:50:14.689Z",
   "news": [
     {
-      "title": "John Bolton: US, Iran peace talks are ‘a mistake’",
-      "desc": "Former White House national security adviser John Bolton on Monday said the negotiations to end the war in Iran are \"a mistake.\" Bolton, an outspoken critic of President Trump's handling of the confli",
-      "link": "https://thehill.com/policy/international/5894497-bolton-us-iran-peace-talks-mistake/",
+      "title": "Man killed while walking, police search for vehicle driver",
+      "desc": "The man was walking on the road, police said.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/man-killed-while-walking-police-search-for-vehicle-driver.html",
       "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 03:11:24 +0000",
+      "rawDate": "Tue, 26 May 2026 14:43:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "The US Can Put People on the Moon. Why Can’t It Get Iranians Online?",
+      "desc": "Jason Rezaian spent years reporting from Iran before being imprisoned by the regime. He says internet access is key to transforming the country—if only the US government would do something about it.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:41:54 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Army veteran dies days after attack outside his Trump-themed house in California",
+      "desc": "Kerry Sheron was left in critical condition on Wednesday after being beaten outside his Escondido home, which is decorated in pro-Trump flags and signs.",
+      "link": "https://thehill.com/homenews/state-watch/5894988-escondido-trump-house-attack/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:40:17 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Senate Democrat pepper sprayed at protest outside ICE detention facility in New Jersey",
-      "desc": "Sen. Andy Kim (D-N.J.) on Monday was pepper-sprayed by Immigration and Customs Enforcement (ICE) officers while demonstrators gathered outside an immigration detention facility in Newark, N.J. Videos ",
-      "link": "https://thehill.com/homenews/senate/5894457-andy-kim-pepper-sprayed-delaney-hall/",
+      "title": "Texas Democrat blames ‘local journalist twisting words’ after antisemitism accusations",
+      "desc": "A Democratic House candidate in Texas is blaming local media for twisting her words as she faces accusations of antisemitism from national and local Democrats over comments she made on social media. M",
+      "link": "https://thehill.com/homenews/campaign/5894980-texas-democrat-maureen-galindo-antisemitism-accousations/",
       "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 02:35:54 +0000",
+      "rawDate": "Tue, 26 May 2026 14:39:25 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Platner: Bezos &#039;pitching ... propaganda&#039; to protect himself, &#039;crony friends’",
+      "desc": "Maine Senate hopeful Graham Platner (D) ripped Amazon founder Jeff Bezos on Monday after the billionaire suggested that raising his taxes would do little help everyday Americans. “I think it’s abject ",
+      "link": "https://thehill.com/homenews/campaign/5894961-graham-platner-jeff-bezos-billionaire-tax/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:35:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Coca-Cola to be University of Michigan’s exclusive beverage partner",
+      "desc": "University officials selected the multi-billion dollar brand over other popular drink companies, including Keurig Dr Pepper, Pepsi and Red Bull.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/coca-cola-to-be-university-of-michigans-exclusive-beverage-partner.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:32:51 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "BP board removes chair over &#8216;conduct issues&#8217;",
+      "desc": "BP announced on Tuesday that its chairman is out less than a year after his appointment, following “serious concerns” about his actions in the role. The major oil company’s board said in a statement r",
+      "link": "https://thehill.com/business/5894993-bp-chairman-removed-concerns/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:28:41 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump approves Newsom’s emergency funding request after Orange County chemical incident",
+      "desc": "President Trump on Monday approved federal emergency funding to go to California following Gov. Gavin Newsom's (D) response to a toxic chemical leak in northern Orange County that was at risk of explo",
+      "link": "https://thehill.com/homenews/state-watch/5894754-donald-trump-gavin-newsom-emergency-funding-california-chemical-leak/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:24:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ex-Muskegon Heights admin says she was called ‘ghetto’ by consultant, fired for speaking up",
+      "desc": "A former Muskegon Heights school administrator is suing the city’s charter school system and the company that operates it.",
+      "link": "https://www.mlive.com/news/muskegon/2026/05/ex-muskegon-heights-admin-says-she-was-called-ghetto-by-consultant-fired-for-speaking-up.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:24:05 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Thomas, Alito say Supreme Court obligated to hear Florida’s commercial driving fight",
+      "desc": "The Supreme Court refused Tuesday to hear Florida’s legal fight against California and Washington state over their commercial driver’s licenses (CDL), a battle aimed at ensuring the states only issue ",
+      "link": "https://thehill.com/homenews/5894911-thomas-alito-say-supreme-court-obligated-to-hear-floridas-commercial-driving-fight/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:18:05 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Texas prompts Democratic hopes; Trump&#039;s GOP grip falters: Join the live discussion",
+      "desc": "Is President Trump's grip on the party faltering? Tuesday's Texas GOP primary race, particularly the contest between incumbent Sen. John Cornyn and state Attorney General Ken Paxton, will be a test. W",
+      "link": "https://thehill.com/homenews/campaign/fight-for-2028/5894852-cornyn-paxton-senate-contest/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:08:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Court blocks Alabama Republicans&#039; congressional map",
+      "desc": "A three-judge panel on Tuesday blocked Alabama Republicans’ congressional map that would’ve given the party a potential pickup opportunity in the midterms.  The judges ruled the Supreme Court’s recent",
+      "link": "https://thehill.com/regulation/court-battles/5894918-alabama-republican-congressional-map-blocked/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:06:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump urges Texans to vote for Paxton after late endorsement",
+      "desc": "President Trump on Tuesday urged Texas Republicans to vote for state Attorney General Ken Paxton (R) in the Senate GOP runoff in the Lone Star State, hours before polls close. Trump wrote on his Truth",
+      "link": "https://thehill.com/homenews/campaign/5894765-paxton-cornyn-trump-endorsement/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:04:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House Democrat: Platner’s tattoo should be &#039;disqualifying&#039;",
+      "desc": "Rep. Jake Auchincloss (D-Mass.) refused to back Democrats’ leading candidate in the Maine Senate race, citing Graham Platner's controversial tattoo resembling a Nazi symbol. “I've been clear about Gra",
+      "link": "https://thehill.com/homenews/house/5894805-jake-auchincloss-graham-platner-senate-race-tattoo-criticism/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 14:00:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iran: New US strike violated ceasefire",
+      "desc": "Iran on Tuesday accused the U.S. of violating a ceasefire put in place on April 8 following fresh military strikes carried out by the American military, which described the strikes as defensive action",
+      "link": "https://thehill.com/policy/defense/5894888-iran-us-military-strikes-ceasefire/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 13:55:23 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump calls for permanent daylight saving time, vote could come soon",
+      "desc": "The House Energy and Commerce Committee passed a bill last week that would make daylight saving time permanent.",
+      "link": "https://www.mlive.com/news/us-world/2026/05/trump-calls-for-permanent-daylight-saving-vote-could-come-soon.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 13:31:17 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rubio: Iran deal could take &#039;a few more days&#039;",
+      "desc": "Secretary of State Marco Rubio said Tuesday it could take “a few more days” to hammer out the terms of an emerging deal with Iran, dashing hopes for a quick end to the nearly three-month conflict just",
+      "link": "https://thehill.com/homenews/administration/5894704-iran-conflict-rubio-trump/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 13:14:23 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump headed to Walter Reed for medical exam",
+      "desc": "President Trump will undergo an annual dental and physical checkup at Walter Reed National Military Medical Center on Tuesday, according to the White House.  The White House said this is a “routine” a",
+      "link": "https://thehill.com/homenews/administration/5894696-donald-trump-walter-reed-medical-center-exam/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 13:03:12 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Google Fitbit Air Review: Barely There, Always Running",
+      "desc": "Google’s latest Fitbit strips away the screen without sacrificing features, delivering the most approachable and affordable wearable yet.",
+      "link": "https://www.wired.com/review/google-fitbit-air/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 13:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Iran supreme leader: US military bases in Middle East no longer safe after new strikes",
+      "desc": "Peace deal negotiations between the Trump administration and Iran are on shaky ground Tuesday after the Islamic Republic‘s supreme leader warned U.S. bases in the Middle East are no longer safe. Mojta",
+      "link": "https://thehill.com/policy/international/5894645-iran-supreme-leader-us-military-base-strikes/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 12:14:22 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "See designs for $54 million Spanish immersion school planned near Kalamazoo",
+      "desc": "Kalamazoo Public Schools plans to build a $54 million Spanish immersion school for pre-K through eighth grade. Construction starts in July.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/see-designs-for-54-million-spanish-immersion-school-planned-near-kalamazoo.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 11:05:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Man arrested after fire burns part of Northern Michigan nature preserve",
+      "desc": "THe 145-acre preserve sits on Lake Hurons' Duncan Bay.",
+      "link": "https://www.mlive.com/news/2026/05/man-arrested-after-fire-burns-part-of-northern-michigan-nature-preserve.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 11:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "The Cookware Industry Has a Major Fight Brewing Over PFAS Claims",
+      "desc": "There’s a new front in the war over the safety of chemicals used to make nonstick pans.",
+      "link": "https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Tech titans prepare for blockbuster IPOs in new front of AI race",
+      "desc": "Three of the world’s leading AI companies are racing to go public, opening yet another front in the high-stakes competition over the technology. SpaceX, OpenAI and Anthropic are all expected to make t",
+      "link": "https://thehill.com/policy/technology/5892110-openai-spacex-anthropic-stock-market/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "desc": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "desc": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+      "desc": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
+      "link": "https://www.wired.com/story/household-chores-training-robots/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "desc": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "desc": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "desc": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+      "desc": "AI could make you redundant. Here’s what you need to know.",
+      "link": "https://www.wired.com/story/ai-or-die-trying/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "desc": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
+      "desc": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
+      "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Cearvol’s Wave Design Fights Off Hearing Loss and Aging Stigma",
+      "desc": "Cearvol’s Wave Lite hearing aids take on the stigma of aging with tech-inspired design, but they lack the nuance to be truly useful.",
+      "link": "https://www.wired.com/review/review-cearvol-wave-lite/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "US forces conduct strikes in Iran, Centcom says",
@@ -47,15 +335,6 @@
       "tag": "safety"
     },
     {
-      "title": "Races to watch in Texas’s primary runoffs: Cornyn-Paxton, Chip Roy&#039;s attorney general bid, House contests",
-      "desc": "Sen. John Cornyn (R-Texas) will be in the fight of his political life Tuesday, as he looks to defy the odds and defeat Texas Attorney General Ken Paxton, who clinched an endorsement from President Tru",
-      "link": "https://thehill.com/homenews/campaign/5891209-texas-cornyn-paxton-trump-senate-primary-runoff/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "West Michigan high school band makes history at National Memorial Day Parade",
       "desc": "The performance in Washingon, D.C. on Monday was the first time the Kelloggsville High School Rocket Marching Band had played outside of Michigan. The district is in a Grand Rapids suburb.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/west-michigan-high-school-band-makes-history-at-national-memorial-day-parade.html",
@@ -83,49 +362,13 @@
       "tag": "safety"
     },
     {
-      "title": "Massie teases 2028 comeback after primary loss to Trump-backed challenger",
-      "desc": "Rep. Thomas Massie (R-Ky.) on Monday filed paperwork with the Federal Election Commission (FEC) for the 2028 election, less than a week after losing his primary to a challenger endorsed by President T",
-      "link": "https://thehill.com/homenews/campaign/5894088-massie-2028-political-future/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 18:14:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "From battlefield to benefits office: A better deal for our warfighters and veterans",
-      "desc": "Congressman Jeff Crank believes that blockchain technology can help the Department of Veterans Affairs and the Pentagon track service members' records more efficiently, reducing wait times for veteran",
-      "link": "https://thehill.com/opinion/technology/5892501-blockchain-veteran-claims-system/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Wall Street Journal board warns Trump against ‘economic bailout’ in Iran deal",
+      "title": "Wall Street Journal board warns Trump against ‘economic bailout’ in Iran deal",
       "desc": "The Wall Street Journal editorial board on Sunday pushed back on the reported terms of a peace deal being negotiated by the Trump administration and Iranian government. The editorial board wrote that ",
       "link": "https://thehill.com/homenews/media/5894035-wall-street-journal-board-donald-trump-us-iran-deal/",
       "date": "May 25, 2026",
       "rawDate": "Mon, 25 May 2026 17:38:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Memorial Day Tech Deals: Sony, Apple, Anker, and More",
-      "desc": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-2/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 17:23:29 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump’s ego is one of the biggest threats to the Republican majority",
-      "desc": "The Republican hold on the Senate is more tenuous today than it was before Trump’s score settling irrational endorsement of Paxton.",
-      "link": "https://thehill.com/opinion/campaign/5893417-trump-ego-republican-senate/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "GLP-1s take bite out of stomach weight-loss surgeries: Research",
@@ -218,15 +461,6 @@
       "tag": "safety"
     },
     {
-      "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
-      "desc": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
-      "link": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 11:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Dearborn Schools weigh $1.5B bond plan for new schools, major upgrades",
       "desc": "The proposal would be rolled out in four phases, beginning with about $366 million in work over the first several years.",
       "link": "https://www.mlive.com/news/detroit/2026/05/dearborn-schools-weigh-15b-bond-plan-for-new-schools-major-upgrades.html",
@@ -234,33 +468,6 @@
       "rawDate": "Mon, 25 May 2026 11:30:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
-      "desc": "If you can’t—or don’t want to—upgrade to full Windows 11, consider this lightweight version of Microsoft’s operating system that works on a wide range of computers.",
-      "link": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-      "desc": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "HP Discount Codes: 60% Off May 2026",
-      "desc": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump&#039;s former COVID adviser: US equipped to handle response to Ebola outbreak",
@@ -353,15 +560,6 @@
       "tag": "education"
     },
     {
-      "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
-      "desc": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
-      "link": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 11:01:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Trump&#039;s last-minute AI order switch exposes White House divides",
       "desc": "President Trump’s abrupt decision to pull an executive order on AI testing has exposed a deeper divide in the White House over how to oversee the technology’s development without stopping its growth. ",
       "link": "https://thehill.com/policy/technology/5891923-trump-ai-order-scrapped-divide/",
@@ -371,18 +569,18 @@
       "tag": "technology"
     },
     {
-      "title": "Rose Run at Jackson College returns next month",
-      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
-      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
+      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
+      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
-      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
+      "title": "Rose Run at Jackson College returns next month",
+      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
@@ -443,24 +641,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump faces growing pressure to reopen Hormuz Strait — one way or another",
-      "desc": "President Trump is facing growing pressure on multiple fronts to take action to reopen the Strait of Hormuz, the key waterway in the Middle East, as Americans face a Memorial Day weekend with the high",
-      "link": "https://thehill.com/policy/defense/5892312-trump-pressure-iran-strait-hormuz/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 21:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Sunday shows preview: Trump compensation fund fallout hangs over lawmakers&#039; recess",
-      "desc": "A new “anti-weaponization fund” unveiled by the Justice Department this week faced swift backlash from Republican and Democratic legislators on Capitol Hill.  The fund is the result of a negotiated se",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/5892915-trump-anti-weaponization-fund-backlash/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 20:12:08 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "US adds Atlanta airport as enhanced screening location for travelers from Ebola outbreak countries",
       "desc": "The Centers for Disease Control and Prevention (CDC) has expanded its enhanced Ebola screening to Hartsfield-Jackson Atlanta International Airport for passengers coming from Congo, Uganda and South Su",
       "link": "https://thehill.com/policy/healthcare/5892834-ebola-screening-atlanta-airport/",
@@ -485,15 +665,6 @@
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 17:53:46 +0000",
       "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Hegseth torches identity politics in West Point speech: ‘Can’t throw your pronouns at the enemy’",
-      "desc": "Defense Secretary Pete Hegseth delivered a commencement address at the U.S. Military Academy at West Point in the pouring rain on Saturday morning, in which he accused former “foolish and feckless lea",
-      "link": "https://thehill.com/policy/defense/5892744-defense-secretary-west-point-address/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 15:59:52 +0000",
-      "source": "The Hill Defense",
       "tag": "safety"
     },
     {
@@ -542,24 +713,6 @@
       "tag": "education"
     },
     {
-      "title": "Eastern Michigan regent receives statewide recognition for leadership, community impact",
-      "desc": "Sean Gray will be honored as a 2026 Men of Excellence recipient at a June ceremony in Detroit.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/eastern-michigan-regent-receives-statewide-recognition-for-leadership-community-impact.html",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 11:30:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
-      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "How much do Michigan lawmakers and their staff earn? See their salaries.",
       "desc": "The median pay for staff in the House and Senate was about $57,500.",
       "link": "https://www.mlive.com/data/2026/05/how-much-do-michigan-lawmakers-and-their-staff-earn-see-their-salaries.html",
@@ -576,15 +729,6 @@
       "rawDate": "Sat, 23 May 2026 10:45:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Time to celebrate: Jackson High graduates 264 in the Class of 2026",
-      "desc": "Principal Monica Pierce is excited to see what the Class of 2026 will bring to the community.",
-      "link": "https://www.mlive.com/news/jackson/2026/05/time-to-celebrate-jackson-high-graduates-264-in-the-class-of-2026.html",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 02:53:34 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Wyoming shooting suspect arrested after woman critically injured",
@@ -612,15 +756,6 @@
       "rawDate": "Fri, 22 May 2026 20:42:19 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "‘We adapt. We change. We grow.’: Flushing celebrates 250+ graduates as they turn the tassel",
-      "desc": "Graduation is a time where reflection and culmination meet forward movement. And these graduates were encouraged for their next steps to be bold in their lives ahead.",
-      "link": "https://www.mlive.com/news/flint/2026/05/we-adapt-we-change-we-grow-flushing-celebrates-250-graduates-as-they-turn-the-tassel.html",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 20:39:57 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Woman dies, infant hospitalized after vehicle hits embankment and catches fire",
@@ -686,24 +821,6 @@
       "tag": "health"
     },
     {
-      "title": "Police looking for driver who nearly struck child exiting school bus",
-      "desc": "The child was not injured.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/police-looking-for-driver-who-nearly-struck-child-exiting-school-bus.html",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 17:18:19 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Police identify Saginaw teen killed in parking lot party days before graduation",
-      "desc": "Deon L. Wiley III, 17, was shot at a Quick Stop parking lot party early Friday morning. He had just attended his senior prom and was set to graduate Tuesday, May 26.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/police-identify-saginaw-teen-killed-in-parking-lot-party-days-before-graduation.html",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 16:18:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Ann Arbor mayoral candidates to take stage at 2 more forums",
       "desc": "Hear Mayor Christopher Taylor and challenger Yousef Rabhi debate city issues ahead of the Aug. 4 Democratic primary election.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/ann-arbor-mayoral-candidates-to-take-stage-at-2-more-forums.html",
@@ -758,15 +875,6 @@
       "tag": "health"
     },
     {
-      "title": "Clack disqualified from ballot in bid to represent Flint in state House",
-      "desc": "Michael Clack, who filed to challenge state Rep. Cynthia Neeley in the Democratic primary election, has been disqualified from the ballot.",
-      "link": "https://www.mlive.com/news/flint/2026/05/clack-disqualified-from-ballot-in-bid-to-represent-flint-in-state-house.html",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 21:28:25 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "The Trump administration expands its use of AI in the hunt for healthcare fraud",
       "desc": "NEW YORK (AP) — The U.S. Department of Health and Human Services on Thursday announced it is supercharging its use of artificial intelligence to police how states and other recipients of federal healt",
       "link": "https://thehill.com/policy/healthcare/hhs-ai-health-care-fraud/",
@@ -781,15 +889,6 @@
       "link": "https://thehill.com/policy/healthcare/5890047-white-house-denies-ebola-claims/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 20:28:33 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "New obesity drug from Lilly delivers major weight loss",
-      "desc": "An investigational obesity drug from Eli Lilly cleared important end points in a late-stage trial, the company said Thursday, by helping patients lose up to 30 percent of their body weight.  Lilly sai",
-      "link": "https://thehill.com/policy/healthcare/5889665-eli-lilly-new-obesity-drug-weight-loss/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 19:04:37 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -817,15 +916,6 @@
       "link": "https://thehill.com/policy/technology/5889379-trump-postpones-ai-testing/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 16:32:12 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Children&#039;s advocacy groups ask FTC to investigate Roblox",
-      "desc": "Two child safety advocacy groups are urging the Federal Trade Commission (FTC) to investigate the gaming platform Roblox, alleging the company is committing \"unfair and deceptive\" acts, risking kids' ",
-      "link": "https://thehill.com/homenews/5888060-roblox-gaming-platform-ftc-investigation/",
-      "date": "May 20, 2026",
-      "rawDate": "Wed, 20 May 2026 20:42:44 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

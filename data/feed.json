@@ -1,23 +1,167 @@
 {
-  "generated": "2026-05-26T19:59:03.111Z",
+  "generated": "2026-05-26T21:47:16.331Z",
   "news": [
     {
-      "title": "Democrats urge Trump to commute sentences of people serving for non-violent marijuana offenses",
-      "desc": "A group of nine Democrats urged President Trump to commute the sentences of people serving time for non-violent marijuana offenses, following his decision to reclassify the drug last month.  “The Bure",
-      "link": "https://thehill.com/homenews/administration/5895903-democrats-urge-trump-commute-marijuana/",
+      "title": "US-Iran tensions rise, putting peace talks at risk",
+      "desc": "Tensions are rising between Washington and Tehran, putting an emerging peace plan that would have opened the Strait of Hormuz and offered relief to skyrocketing oil and gas prices at risk. The U.S. st",
+      "link": "https://thehill.com/homenews/administration/5896193-rising-tensions-washington-tehran/",
       "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 19:50:11 +0000",
+      "rawDate": "Tue, 26 May 2026 21:37:28 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Reward offered after Pontiac man shot dead in Central Avenue bedroom",
+      "desc": "A 25-year-old man was fatally shot in his Pontiac bedroom and a $2,000 reward is offered for information leading to an arrest.",
+      "link": "https://www.mlive.com/news/2026/05/reward-offered-after-pontiac-man-shot-dead-in-central-avenue-bedroom.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 21:33:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Energy Department takes steps toward allowing plutonium, historically used in weapons, in nuclear fuel",
+      "desc": "The Energy Department may allow up to five companies to use its surplus plutonium — which it has historically been used in nuclear warheads — as fuel. The department has selected the firms for “advanc",
+      "link": "https://thehill.com/policy/energy-environment/5896154-energy-department-plutonium-nuclear-power/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 21:26:41 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Carney: Alberta independence vote &#039;dangerous bluff&#039;",
+      "desc": "Canadian Prime Minister Mark Carney took a swing at an upcoming vote on Alberta’s independence, calling it a “dangerous bluff.” “In these separation issues, it is often advanced that, ‘Vote for this a",
+      "link": "https://thehill.com/policy/international/5896132-alberta-independence-vote-mark-carney/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 21:22:28 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "The Hill&#039;s Decision Desk 2026 — Data Nerds track Texas runoff elections",
-      "desc": "The Hill presents one and a half hours of live, real-time primary night coverage, diving deep into the 2026 Texas runoff elections Tuesday from 8-9:30 p.m. EDT. The Hill's coverage will be anchored by",
-      "link": "https://thehill.com/video-clips/5895797-the-hill-decision-desk-2026-data-nerds-track-texas-runoff-live-coverage/",
+      "title": "US journalist charged with acting as Chinese agent",
+      "desc": "An American journalist and author is facing federal charges after being accused of working as an agent for the Chinese government for the past at least seven years. Thomas Weir Pauken II, the son of f",
+      "link": "https://thehill.com/homenews/5896135-journalist-charged-china-agent/",
       "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 19:30:31 +0000",
+      "rawDate": "Tue, 26 May 2026 21:22:04 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Florida judge blocks effort to halt new GOP House map",
+      "desc": "A Florida judge on Tuesday blocked an effort to temporarily halt the use of a new Republican-favored House map in the Sunshine State, delivering another blow to Democrats after another judge denied a ",
+      "link": "https://thehill.com/homenews/campaign/5896089-redistricting-florida-house-map/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 21:05:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Paxton, Cornyn showdown in Texas GOP Senate runoff",
+      "desc": "The heated Texas Senate GOP contest will come to a head Tuesday as voters head to the polls in the runoff race. Sen. John Cornyn (R) and state Attorney General Ken Paxton have duked it out for months,",
+      "link": "https://thehill.com/homenews/campaign/5888259-live-results-paxton-cornyn-texas-republican-senate-runoff/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Texas attorney general primary runoffs",
+      "desc": "Retiring Rep. Chip Roy is competing against state Sen. Mayes Middleton in Tuesday's GOP runoff to succeed state Attorney General Ken Paxton.   On the other side of the aisle, Democrats Joe Jaworski, t",
+      "link": "https://thehill.com/homenews/campaign/5888261-live-results-texas-attorney-general-runoff/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Texas House primary runoffs",
+      "desc": "Voters in Texas are weighing in on a handful of House primary runoffs Tuesday. Former Rep. Colin Allred will face off against Rep. Julie Johnson in the 33rd Congressional District’s Democratic primary",
+      "link": "https://thehill.com/homenews/campaign/5888260-live-results-texas-house-primary-runoffs/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: GOP handed mixed bag of redistricting news; Cornyn, Paxton face off for Texas seat",
+      "desc": "Republican efforts to push new congressional maps in the South were dealt a mixed bag Tuesday. A federal panel of judges on Tuesday turned back Alabama's use of a congressional map that gives the GOP ",
+      "link": "https://thehill.com/homenews/administration/5894086-live-updates-trump-iran-texas-primary-cornyn-paxton/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:56:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Whitmer approval rating remains high in final year as governor",
+      "desc": "The governor, which is finishing up her second term, maintains 52% approval among likely voters, including majority support from independents.",
+      "link": "https://www.mlive.com/politics/2026/05/whitmer-approval-rating-remains-high-in-final-year-as-governor.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:52:26 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Schiff targets compensation fund for Trump allies with 2 measures",
+      "desc": "Sen. Adam Schiff (D-Calif.) is expected to introduce two new pieces of legislation targeting payouts from the Department of Justice’s (DOJ) new $1.776 billion \"anti-weaponization\" fund. One piece of l",
+      "link": "https://thehill.com/homenews/senate/5896035-schiff-legislation-anti-weaponization-fund/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:46:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "desc": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:46:03 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "GOP senators press intelligence officials to assess China AI capabilities",
+      "desc": "Sens. Jim Banks (R-Ind.) and Tom Cotton (R-Ark.) are pressing top intelligence officials to focus their efforts on assessing China’s AI capabilities in the face of new advancements in the technology. ",
+      "link": "https://thehill.com/policy/technology/5895902-gop-senators-press-intelligence-officials-to-assess-china-ai-capabilities/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:23:21 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "FDA advisers to weigh updated COVID vaccine targeting XFG subvariant",
+      "desc": "The Food and Drug Administration's (FDA) advisory committee on vaccines this week will consider whether to change the COVID-19 vaccine to target the XFG subvariant for the upcoming 2026-2027 respirato",
+      "link": "https://thehill.com/homenews/5895599-fda-covid-19-vaccine-update-subvariant/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:22:31 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "desc": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:17:47 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Vance: Pope&#039;s AI warnings &#039;profound&#039;",
+      "desc": "Vice President Vance on Tuesday said that Pope Leo XIV’s warnings on the risks of AI were “profound.” The Vatican published the pontiff’s first encyclical, titled “Magnifica Humanitas,” on Monday. In ",
+      "link": "https://thehill.com/policy/technology/5895819-pope-leo-vance-ai-risks/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:02:41 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Alma man gets 20-40 years in prison for stabbing business-owning cousin to death",
+      "desc": "Jack C. Nguyen in March 2025 entered his cousin's nail salon and stabbed him more than 50 times.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/alma-man-gets-20-40-years-in-prison-for-stabbing-business-owning-cousin-to-death.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 20:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Son named as suspect in murder of billionaire father issues statement, resigns from family company",
@@ -38,24 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "Pratt accuses Bass of &#039;illegally gaming the election&#039;",
-      "desc": "Los Angeles mayoral candidate Spencer Pratt on Tuesday accused incumbent Mayor Karen Bass (D) of violating city election laws by appearing near voting centers on her campaign social media accounts. A ",
-      "link": "https://thehill.com/homenews/campaign/5895616-spencer-pratt-mayor-bass-election-law/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 19:10:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Auchincloss doubles down on Platner criticism: &#039;I&#039;d vote for someone else&#039;",
-      "desc": "Massachusetts Rep. Jake Auchincloss (D) on Tuesday doubled down on his opposition to the Democratic front-runner in the Maine Senate race, a day after he said candidate Graham Platner’s tattoo resembl",
-      "link": "https://thehill.com/homenews/campaign/5895682-graham-platner-maine-senate-jake-auchincloss/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 18:55:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Putin adviser threatens European diplomats in Kyiv: &#039;Trim the headcount&#039;",
       "desc": "Dmitry Medvedev, the deputy chair of the Security Council of Russia and the country’s former president, threatened European Union diplomats in Ukraine’s capital of Kyiv. “The EU has said it will maint",
       "link": "https://thehill.com/policy/defense/5895742-medvedev-threatens-eu-diplomats/",
@@ -65,24 +191,6 @@
       "tag": "safety"
     },
     {
-      "title": "Paxton&#039;s estranged wife doesn&#039;t endorse in Texas Senate race",
-      "desc": "Texas Attorney General Ken Paxton’s (R) estranged wife, state Sen. Angela Paxton (R), on Tuesday shared her endorsements for various candidates in state races but remained neutral in the Republican Se",
-      "link": "https://thehill.com/homenews/campaign/5895724-ken-paxton-texas-senate-race-wife/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 18:45:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "South Carolina Senate blocks redistricting plan in blow to Trump",
-      "desc": "South Carolina state senators voted Tuesday against a plan to advance a new congressional map, putting a pin in the state's GOP-led redistricting push amid the national back-and-forth ahead of the mid",
-      "link": "https://thehill.com/homenews/campaign/5895674-south-carolina-senate-gop-redistricting-defeat/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 18:19:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hassett: Energy prices will drop &#039;like nothing you&#039;ve ever seen before&#039; when strait is reopened",
       "desc": "National Economic Council Director Kevin Hassett said energy prices are going to fall “like nothing you’ve ever seen before” once Iran reopens the Strait of Hormuz. “Well, you know, I can't really tal",
       "link": "https://thehill.com/business/5895540-kevin-hassett-energy-prices-drop-strait-of-hormuz-iran-war/",
@@ -90,15 +198,6 @@
       "rawDate": "Tue, 26 May 2026 18:05:04 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Hassett: Energy prices will drop &#8216;like nothing you&#8217;ve ever seen before&#8217; when strait is reopened",
-      "desc": "National Economic Council Director Kevin Hassett said energy prices are going to fall “like nothing you’ve ever seen before” once Iran reopens the Strait of Hormuz. “Well, you know, I can&#8217;t real",
-      "link": "https://thehill.com/business/5895540-kevin-hassett-energy-prices-drop-strait-of-hormuz-iran-war/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 18:05:04 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Kennedy faces anti-vaccine anger over hantavirus treatment legal protections",
@@ -389,15 +488,6 @@
       "tag": "technology"
     },
     {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "desc": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Quiz: Will AI Destroy Your Career?",
       "desc": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
       "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
@@ -425,18 +515,9 @@
       "tag": "technology"
     },
     {
-      "title": "To Land a Job in AI, Try Reading Kant",
-      "desc": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
-      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-      "desc": "AI could make you redundant. Here’s what you need to know.",
-      "link": "https://www.wired.com/story/ai-or-die-trying/",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "desc": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
       "source": "Wired",
@@ -446,15 +527,6 @@
       "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
       "desc": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
       "link": "https://www.wired.com/story/fact-checking-ai/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-      "desc": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
       "source": "Wired",
@@ -506,24 +578,6 @@
       "tag": "education"
     },
     {
-      "title": "Russia warns foreign nationals to leave Kyiv after large attack",
-      "desc": "The Russian Foreign Ministry on Monday urged foreign nationals to leave Kyiv, after Russian forces conducted a large-scale attack on the Ukrainian capital. Russian forces are carrying out “consistent ",
-      "link": "https://thehill.com/policy/international/5894206-russian-foreign-ministry-kyiv-warning/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 19:56:11 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Wall Street Journal board warns Trump against ‘economic bailout’ in Iran deal",
-      "desc": "The Wall Street Journal editorial board on Sunday pushed back on the reported terms of a peace deal being negotiated by the Trump administration and Iranian government. The editorial board wrote that ",
-      "link": "https://thehill.com/homenews/media/5894035-wall-street-journal-board-donald-trump-us-iran-deal/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 17:38:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "GLP-1s take bite out of stomach weight-loss surgeries: Research",
       "desc": "Two of the most common bariatric procedures are gastric sleeve surgery and gastric bypass.",
       "link": "https://thehill.com/policy/healthcare/5893017-glp-1-weight-loss-surgery-comparison-study/",
@@ -531,15 +585,6 @@
       "rawDate": "Mon, 25 May 2026 15:38:39 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump urges Gulf allies to join Abraham Accords amid US-Iran talks",
-      "desc": "President Trump on Monday called for Gulf allies to join the Abraham Accords amid talks between the U.S. and Iran to bring an end to hostilities in the Middle East. The pressure comes as the two natio",
-      "link": "https://thehill.com/policy/international/5893892-donald-trump-gulf-nations-abraham-accords-us-iran-deal/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 14:08:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "This time travel graduation video from a Michigan school district will have you in your feels",
@@ -576,15 +621,6 @@
       "rawDate": "Mon, 25 May 2026 13:00:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Behind the bench: Service to others guides Elian Fichtner’s role as judge",
-      "desc": "Mental health issues, substance use disorders, generational poverty, and homelessness challenge many who appear before Judge Fichtner, but problem-solving courts offer paths to resources and personal ",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/behind-the-bench-service-to-others-guides-elian-fichtners-role-as-judge.html",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 12:35:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Pilot program seeks to address ‘wild west’ of AI in state government",
@@ -650,15 +686,6 @@
       "tag": "government"
     },
     {
-      "title": "Grand Rapids program aims to turn river investment into business opportunities",
-      "desc": "The new initiative will provide workshops, pitch competitions, and boot camps to help entrepreneurs develop ideas for new businesses along the riverfront.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/05/grand-rapids-program-aims-to-turn-river-investment-into-business-opportunities.html",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 13:30:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Metro Detroit students gain access to new $5M AI, robotics learning hub",
       "desc": "Built as part of the district’s 2020 bond program, the Orsa Hub includes flexible collaborative spaces where students can explore robotics, artificial intelligence, virtual reality, augmented reality,",
       "link": "https://www.mlive.com/news/detroit/2026/05/metro-detroit-students-gain-access-to-new-5m-ai-robotics-learning-hub.html",
@@ -677,18 +704,18 @@
       "tag": "technology"
     },
     {
-      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
-      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
+      "title": "Rose Run at Jackson College returns next month",
+      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Rose Run at Jackson College returns next month",
-      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
-      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
+      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
+      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
@@ -720,15 +747,6 @@
       "rawDate": "Sat, 23 May 2026 23:12:40 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Jackson teen arrested after crash, pursuit near I-94 in Battle Creek",
-      "desc": "The teen was taken into custody without incident and evaluated by LifeCare paramedics for minor injuries. He was taken to a hospital for treatment and his parents were notified.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/jackson-teen-arrested-after-crash-pursuit-near-i-94-in-battle-creek.html",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 22:00:34 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Lawmakers seek MDOC director to resign after prison deaths",
@@ -880,15 +898,6 @@
       "link": "https://thehill.com/policy/technology/5889582-california-ai-job-losses/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 17:24:58 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump postpones long-awaited artificial intelligence order signing",
-      "desc": "President Trump has postponed the signing ceremony for his long-awaited executive order on a voluntary testing process for artificial intelligence models, saying he \"didn't like certain aspects of it.",
-      "link": "https://thehill.com/policy/technology/5889379-trump-postpones-ai-testing/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 16:32:12 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

@@ -1,6 +1,33 @@
 {
-  "generated": "2026-05-26T21:47:16.331Z",
+  "generated": "2026-05-26T23:03:00.154Z",
   "news": [
+    {
+      "title": "DOE eyes using plutonium in nuclear fuel",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story&#160; DOE eyes using plutonium for nuclear power&#160; The Energy Department may allow up to five companies to use it",
+      "link": "https://thehill.com/homenews/5896231-doe-eyes-using-plutonium-in-nuclear-fuel/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 22:18:53 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Grand Blanc girl, 12, dies after bike crash on Perry Road",
+      "desc": "The crash is still under investigation, police said.",
+      "link": "https://www.mlive.com/news/flint/2026/05/grand-blanc-girl-12-dies-after-bike-crash-on-perry-road.html",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 22:14:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "House NDAA draft would limit Trump&#039;s troop cuts, battleship plans",
+      "desc": "A major defense policy bill released by House Republicans Tuesday looks to maintain limits on how many U.S. troops can be moved from Europe and South Korea and bars construction of the first “Trump-cl",
+      "link": "https://thehill.com/policy/defense/5896228-ndaa-house-trump-troops-battleship/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 22:06:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "US-Iran tensions rise, putting peace talks at risk",
       "desc": "Tensions are rising between Washington and Tehran, putting an emerging peace plan that would have opened the Strait of Hormuz and offered relief to skyrocketing oil and gas prices at risk. The U.S. st",
@@ -74,39 +101,12 @@
       "tag": "government"
     },
     {
-      "title": "Live results: Texas House primary runoffs",
-      "desc": "Voters in Texas are weighing in on a handful of House primary runoffs Tuesday. Former Rep. Colin Allred will face off against Rep. Julie Johnson in the 33rd Congressional District’s Democratic primary",
-      "link": "https://thehill.com/homenews/campaign/5888260-live-results-texas-house-primary-runoffs/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: GOP handed mixed bag of redistricting news; Cornyn, Paxton face off for Texas seat",
-      "desc": "Republican efforts to push new congressional maps in the South were dealt a mixed bag Tuesday. A federal panel of judges on Tuesday turned back Alabama's use of a congressional map that gives the GOP ",
-      "link": "https://thehill.com/homenews/administration/5894086-live-updates-trump-iran-texas-primary-cornyn-paxton/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 20:56:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Whitmer approval rating remains high in final year as governor",
       "desc": "The governor, which is finishing up her second term, maintains 52% approval among likely voters, including majority support from independents.",
       "link": "https://www.mlive.com/politics/2026/05/whitmer-approval-rating-remains-high-in-final-year-as-governor.html",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 20:52:26 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Schiff targets compensation fund for Trump allies with 2 measures",
-      "desc": "Sen. Adam Schiff (D-Calif.) is expected to introduce two new pieces of legislation targeting payouts from the Department of Justice’s (DOJ) new $1.776 billion \"anti-weaponization\" fund. One piece of l",
-      "link": "https://thehill.com/homenews/senate/5896035-schiff-legislation-anti-weaponization-fund/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 20:46:47 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -461,15 +461,6 @@
       "tag": "education"
     },
     {
-      "title": "Man arrested after fire burns part of Northern Michigan nature preserve",
-      "desc": "THe 145-acre preserve sits on Lake Hurons' Duncan Bay.",
-      "link": "https://www.mlive.com/news/2026/05/man-arrested-after-fire-burns-part-of-northern-michigan-nature-preserve.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 11:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "The Cookware Industry Has a Major Fight Brewing Over PFAS Claims",
       "desc": "There’s a new front in the war over the safety of chemicals used to make nonstick pans.",
       "link": "https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/",
@@ -488,9 +479,9 @@
       "tag": "technology"
     },
     {
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "desc": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "desc": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
       "source": "Wired",
@@ -515,18 +506,18 @@
       "tag": "technology"
     },
     {
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "desc": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "desc": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "desc": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "desc": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 10:00:00 +0000",
       "source": "Wired",
@@ -547,15 +538,6 @@
       "link": "https://thehill.com/policy/international/5894245-us-iran-peace-deal/",
       "date": "May 25, 2026",
       "rawDate": "Mon, 25 May 2026 23:14:35 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump outlines options for disposal of Iran&#039;s enriched uranium",
-      "desc": "President Trump on Monday outlined options for the fate of Iran's enriched uranium stockpile if both countries sign on to a peace agreement currently under negotiation with Tehran. \"The Enriched Urani",
-      "link": "https://thehill.com/homenews/administration/5894298-trump-iran-enriched-uranium-deal/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 22:38:28 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

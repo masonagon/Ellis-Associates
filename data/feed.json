@@ -1,9 +1,27 @@
 {
-  "generated": "2026-05-25T23:58:47.521Z",
+  "generated": "2026-05-26T03:46:12.039Z",
   "news": [
     {
+      "title": "John Bolton: US, Iran peace talks are ‘a mistake’",
+      "desc": "Former White House national security adviser John Bolton on Monday said the negotiations to end the war in Iran are \"a mistake.\" Bolton, an outspoken critic of President Trump's handling of the confli",
+      "link": "https://thehill.com/policy/international/5894497-bolton-us-iran-peace-talks-mistake/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 03:11:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate Democrat pepper sprayed at protest outside ICE detention facility in New Jersey",
+      "desc": "Sen. Andy Kim (D-N.J.) on Monday was pepper-sprayed by Immigration and Customs Enforcement (ICE) officers while demonstrators gathered outside an immigration detention facility in Newark, N.J. Videos ",
+      "link": "https://thehill.com/homenews/senate/5894457-andy-kim-pepper-sprayed-delaney-hall/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 02:35:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "US forces conduct strikes in Iran, Centcom says",
-      "desc": "U.S. Central Command (Centcom) on Monday said U.S. forces fired \"defensive strikes\" in southern Iran amid negotiations to bring the U.S.-Israeli conflict with Tehran to an end. These strikes were inte",
+      "desc": "U.S. Central Command (Centcom) on Monday said U.S. forces fired \"defensive strikes\" in southern Iran amid discussions to bring the U.S.-Israeli conflict with Tehran to an end. These strikes were inten",
       "link": "https://thehill.com/policy/defense/5894404-us-strikes-iran-centcom/",
       "date": "May 25, 2026",
       "rawDate": "Mon, 25 May 2026 23:53:43 +0000",
@@ -12,7 +30,7 @@
     },
     {
       "title": "What to know about the emerging US-Iran deal to end war, reopen Strait of Hormuz",
-      "desc": "Iranian officials are in Qatar for talks amid efforts between the U.S. and Iran to bring about an end to the nearly three-month-long war and reopen the Strait of Hormuz, with a risk that hostilities c",
+      "desc": "Iranian officials are in Qatar for talks amid efforts between the U.S. and Iran to bring about an end to the nearly three-month long war and reopen the Strait of Hormuz, with a risk that hostilities c",
       "link": "https://thehill.com/policy/international/5894245-us-iran-peace-deal/",
       "date": "May 25, 2026",
       "rawDate": "Mon, 25 May 2026 23:14:35 +0000",
@@ -106,24 +124,6 @@
       "link": "https://thehill.com/opinion/campaign/5893417-trump-ego-republican-senate/",
       "date": "May 25, 2026",
       "rawDate": "Mon, 25 May 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Maryland Senate president softens stance on redistricting: &#039;The rules have changed&#039;",
-      "desc": "Maryland Senate President Bill Ferguson (D) signaled a shift this week on mid-decade redistricting, softening his earlier skepticism as battles over congressional maps intensify nationwide ahead of No",
-      "link": "https://thehill.com/homenews/campaign/5894019-bill-ferguson-maryland-redistricting-2026-midterms-stance/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 16:42:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP hopes for legislative wins show signs of slipping away",
-      "desc": "Some Republicans are growing increasingly worried that the delay in passing a major immigration enforcement funding bill could force them to punt other key priorities, as the party works to lock in as",
-      "link": "https://thehill.com/homenews/house/5892237-republican-reconciliation-bill-concerns/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 16:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -371,18 +371,18 @@
       "tag": "technology"
     },
     {
-      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
-      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
+      "title": "Rose Run at Jackson College returns next month",
+      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Rose Run at Jackson College returns next month",
-      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
-      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
+      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
+      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
@@ -551,9 +551,9 @@
       "tag": "education"
     },
     {
-      "title": "Kalamazoo Candle Company files for bankruptcy to shed debt, focus on flagship store",
-      "desc": "After rapid expansion and rising costs, the Kalamazoo business has been forced to restructure its debts. The business is now returning to its roots with a renewed focus on its downtown location.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-candle-company-files-for-bankruptcy-to-shed-debt-focus-on-flagship-store.html",
+      "title": "Popular Bay City homemade ice cream shop finds new home in City Market",
+      "desc": "The Polar Lab is owned and operated by the same family that ran MaMa Lupo’s.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/popular-bay-city-homemade-ice-cream-shop-finds-new-home-in-city-market.html",
       "date": "May 23, 2026",
       "rawDate": "Sat, 23 May 2026 11:15:00 +0000",
       "source": "MLive Business",

@@ -1,32 +1,194 @@
 {
-  "generated": "2026-05-27T17:54:00.394Z",
+  "generated": "2026-05-27T20:03:50.040Z",
   "news": [
     {
-      "title": "Joe Scarborough goes off over NJ ICE facility after lawmakers turned away",
-      "desc": "people can support border security. People can support immigration enforcement. But cruelty should never become policy.",
-      "link": "https://thehill.com/opinion/lindseys-lens/5897701-detainee-conditions-delaney-hall/",
+      "title": "Former juvenile lifer sentenced to prison again for daylong crime spree",
+      "desc": "Cody Skaggs was emotional in Kent County Circuit Court as he pleaded for help. He served 27 years for a 1996 murder before being paroled and committing new crimes last October.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/former-juvenile-lifer-sentenced-to-prison-again-for-daylong-crime-spree.html",
       "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 17:33:49 +0000",
+      "rawDate": "Wed, 27 May 2026 19:56:07 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "What are the enhanced Ebola screening procedures at US airports",
+      "desc": "Americans who have visited the Congo, South Sudan or Uganda in the past 21 days must reenter the country through select airports for enhanced screening during an Ebola outbreak in these African nation",
+      "link": "https://thehill.com/policy/healthcare/5898063-ebola-outbreak-african-screening/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 19:54:37 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "I just got back from Uganda. No one checked me for Ebola",
+      "desc": "I was traveling through Uganda just as the Trump administration announced new restrictive measures to guard against the Ebola virus outbreak for travelers coming from that country, Democratic Republic",
+      "link": "https://thehill.com/policy/international/5898012-cdc-ebola-uganda-screening-process/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 19:51:14 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Food insecurity increase for many Americans &#039;remarkable&#039;: NY Fed",
-      "desc": "An increasing number of American households have struggled to afford enough food since 2020 because of rising economic strains, according to an analysis released by the Federal Reserve Bank of New Yor",
-      "link": "https://thehill.com/business/personal-finance/5897598-food-insecurity-new-york-fed/",
+      "title": "18-year-old charged with killing teen in Ann Arbor to stand trial",
+      "desc": "He will next appear in court in July.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/18-year-old-charged-with-killing-teen-in-ann-arbor-to-stand-trial.html",
       "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 17:22:01 +0000",
+      "rawDate": "Wed, 27 May 2026 19:43:57 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump on Oman, Strait of Hormuz: Behave &#039;or we’ll have to blow ’em up&#039;",
+      "desc": "President Trump on Wednesday suggested the U.S. would attack Oman if it sought to control the Strait of Hormuz with Iran, saying they would have to \"behave or we'll have to blow 'em up.\" Trump quickly",
+      "link": "https://thehill.com/policy/defense/5898045-trump-threatens-oman-strait/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 19:40:27 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Maher: Trump administration missed window to overthrow Iran regime",
+      "desc": "Comedian Bill Maher, who previously was \"cautiously optimistic\" about President Trump's conflict with Iran, said Wednesday the Trump administration missed its chance to overthrow the Middle Eastern co",
+      "link": "https://thehill.com/blogs/in-the-know/5897817-bill-maher-trump-iran-regime/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 19:37:03 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Food insecurity increase for many Americans &#8216;remarkable&#8217;: NY Fed",
-      "desc": "An increasing number of American households have struggled to afford enough food since 2020 because of rising economic strains, according to an analysis released by the Federal Reserve Bank of New Yor",
-      "link": "https://thehill.com/business/personal-finance/5897598-food-insecurity-new-york-fed/",
+      "title": "Al Green to Trump: &#039;You will hear from me again&#039;",
+      "desc": "Rep. Al Green (D-Texas) on Wednesday fired back at President Trump after the president attacked the Texas Democrat following Green's primary loss the night before. Green on Tuesday lost the Democratic",
+      "link": "https://thehill.com/homenews/campaign/5897978-al-green-responds-to-trump/",
       "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 17:22:01 +0000",
+      "rawDate": "Wed, 27 May 2026 19:24:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fired University of Michigan professor now suing over alleged discrimination",
+      "desc": "Scott Piper was a professor and chair of the voice department at the UM School of Music, Theatre and Dance before he was fired last July.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/fired-university-of-michigan-professor-now-suing-over-alleged-discrimination.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 19:13:47 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Judge permanently blocks radioactive waste shipments to Wayne County landfill",
+      "desc": "The waste is part of the federal Formerly Utilized Sites Remedial Action Program, or FUSRAP, which oversees cleanup of contaminated sites connected to early atomic weapons development during World War",
+      "link": "https://www.mlive.com/news/detroit/2026/05/judge-permanently-blocks-radioactive-waste-shipments-to-wayne-county-landfill.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 19:11:38 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Mackinac Island businesses urge Whitmer to sign ferry regulation bill, citing tourism pain",
+      "desc": "Mackinac Island business owners say a continued legal battle between the island and its ferry services over prices is threatening tourism revenues.",
+      "link": "https://www.mlive.com/news/2026/05/mackinac-island-businesses-urge-whitmer-to-sign-ferry-regulation-bill-citing-tourism-pain.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 19:04:58 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "CEO of major grocery store chain says its cutting prices: ‘Has to come down’",
+      "desc": "The company is looking at cutting prices on thousands of items in an effort to lower the overall cost for customers.",
+      "link": "https://www.mlive.com/business/2026/05/ceo-of-major-grocery-store-chain-says-its-cutting-prices-has-to-come-down.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:55:31 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Michigan lawmakers push prison oversight reform after 4 deaths",
+      "desc": "If passed, the Ombudsman would be able to investigate complaints from corrections employees, family members of prisoners or corrections officers, and prisoners’ advocates. Current law only allows pris",
+      "link": "https://www.mlive.com/politics/2026/05/michigan-lawmakers-push-prison-oversight-reform-after-4-deaths.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:43:24 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Sharyn Alfonsi to depart &#8217;60 Minutes&#8217;",
+      "desc": "Journalist Sharyn Alfonsi is departing &#8220;60 Minutes&#8221; after criticizing CBS News&#8217;s leadership under its new corporate owner Paramount. Alfonsi&#8217;s contract with the weekly news pro",
+      "link": "https://thehill.com/homenews/media/5897820-sharon-alfonsi-to-depart-60-minutes/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:43:12 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
+    },
+    {
+      "title": "Right to Life lawsuit dismissed by federal appeals court",
+      "desc": "A federal appeals court has rejected an attempt to overturn Michigan’s constitutional right to reproductive freedom, finding that anti-abortion plaintiffs lacked legal standing to bring their challeng",
+      "link": "https://www.mlive.com/politics/2026/05/right-to-life-lawsuit-dismissed-by-federal-appeals-court.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:30:14 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Uganda closes its border with Congo as cases of a rare Ebola type surge",
+      "desc": "KAMPALA, Uganda (AP) — Ugandan authorities on Wednesday ordered its border with Congo closed “with immediate effect” as suspected cases of a rare type of Ebola surge near 1,000 there and others emerge",
+      "link": "https://thehill.com/policy/international/ebola-uganda-congo-border/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:30:10 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "American doctor battling Ebola is weak but stable, officials say",
+      "desc": "German officials say Stafford hasn't experienced any organ failure as his viral counts decline.",
+      "link": "https://thehill.com/policy/healthcare/5897641-american-doctor-battling-ebola-is-weak-but-stable-officials-say/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:24:09 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump teases attending NY Knicks NBA finals game at Madison Square Garden",
+      "desc": "President Trump on Wednesday teased taking a trip to New York to see the Knicks play in the NBA finals next week at Madison Square Garden. Trump told reporters at a Cabinet meeting at the White House ",
+      "link": "https://thehill.com/homenews/administration/5897780-trump-plans-knicks-game/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:18:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "More than half of Americans say they &#039;definitely will vote&#039; in midterms: Poll",
+      "desc": "More than half of Americans say they “definitely will vote” in November's midterms, according to a new survey. In the Economist/YouGov poll, released this week, 57 percent of respondents said they “de",
+      "link": "https://thehill.com/homenews/campaign/5897749-2026-midterms-likely-voters-survey/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:17:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Replenishing advanced weapons stockpiles used in Iran war will take years: Analysis",
+      "desc": "The Center for Strategic and International Studies (CSIS) said in a report published Wednesday that it will take years to replenish the advanced weapons used by the U.S. during the Iran war.  CSIS pre",
+      "link": "https://thehill.com/policy/defense/5897710-iran-war-weapons-replenishment/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:09:08 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Talarico: GOP voters &#039;whisper&#039; support for him &#039;like they&#039;re in ... witness protection&#039;",
+      "desc": "Texas state Rep. James Talarico (D) said Tuesday that his campaign for Senate is attracting some support from previous President Trump voters who are becoming more disillusioned with the president’s p",
+      "link": "https://thehill.com/homenews/campaign/5897756-talarico-trump-texas-senate-race/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:02:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "VA studying MDMA as treatment for veterans&#039; PTSD",
+      "desc": "The Department of Veterans Affairs said Tuesday it was launching a trial review on the safety and efficacy of methylenedioxymethamphetamine, or MDMA, assisted therapy for post-traumatic stress disorde",
+      "link": "https://thehill.com/policy/healthcare/5897490-va-launches-mdma-trial/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 18:01:33 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Washtenaw ISD school board looking to fill vacancy ahead of member’s resignation",
@@ -38,22 +200,13 @@
       "tag": "education"
     },
     {
-      "title": "Senators unveil Protect College Sports Act as calls for reform grow",
-      "desc": "A bipartisan group of Senators have introduced legislation that would pave the way for the National Collegiate Athletic Association (NCAA) to create new rules around key issues like the transfer porta",
-      "link": "https://thehill.com/policy/keeping-score/5897555-protect-college-sports-act-unveiled/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 17:12:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Massachusetts becomes first state to recognize union for Uber, Lyft drivers",
       "desc": "Massachusetts became the first state to certify that ride-hailing drivers with Uber and Lyft, who are considered independent contract workers under federal law, can organize and form a union. Ride-hai",
       "link": "https://thehill.com/homenews/state-watch/5897377-massachusetts-rideshare-drivers-unionize/",
       "date": "May 27, 2026",
       "rawDate": "Wed, 27 May 2026 17:05:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "See 125 photos from Saginaw United’s 2026 commencement",
@@ -63,42 +216,6 @@
       "rawDate": "Wed, 27 May 2026 17:00:57 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Illinois and Colorado are coming for your airline miles",
-      "desc": "Politicians in Illinois and Colorado are threatening the credit-card rewards system that increasingly powers airlines, which could have a devastating effect on the airline industry and consumers.",
-      "link": "https://thehill.com/opinion/finance/5896594-interchange-fees-airline-rewards/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 17:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "All eyes on Iran in Trump’s Cabinet meeting",
-      "desc": "🥊 Plus: GOP picks up the pieces of bruising Cornyn-Paxton fight {beacon} &#8202; It’s Wednesday. Have you seen the photos of the White House South Lawn being turned into a UFC fight night venue, with",
-      "link": "https://thehill.com/newsletters/1230-report/5897459-donald-trump-iran-war-cabinet/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 16:57:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Woman fired by university over Charlie Kirk post settles lawsuit for $225K",
-      "desc": "A university in Indiana will pay a former employee $225,000 to settle a lawsuit after she was fired over a social media post criticizing conservative commentator Charlie Kirk after he was killed last ",
-      "link": "https://thehill.com/homenews/education/5897531-social-media-lawsuit-charlie-kirk/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 16:50:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump: &#039;I don&#039;t care about the midterms&#039;",
-      "desc": "President Trump said he did not care about the midterms during his Cabinet meeting on Wednesday, referring to concerns over how the Iran war will impact Republican candidates in November.  “They thoug",
-      "link": "https://thehill.com/homenews/administration/5897526-trump-paxton-texas-victory-midterms/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 16:47:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Canada selects Swedish surveillance planes over US bid",
@@ -171,15 +288,6 @@
       "rawDate": "Wed, 27 May 2026 15:06:59 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Uganda closes its border with Congo as cases of a rare Ebola type surge",
-      "desc": "KAMPALA, Uganda (AP) — Ugandan authorities on Wednesday ordered the closure of the border with Congo “with immediate effect” as suspected cases surge near 1,000 in its neighbor of a rare type of Ebola",
-      "link": "https://thehill.com/policy/international/ebola-uganda-congo-border/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 15:04:44 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Drone Ports and Funding Mayhem: Trump's Ballroom Has Turned Toxic",
@@ -488,15 +596,6 @@
       "tag": "safety"
     },
     {
-      "title": "Flint teen accused of killing 14-year-old girl rejects plea deal",
-      "desc": "A Flint teen faces trial for first-degree murder after allegedly shooting a 14-year-old girl in March 2025.",
-      "link": "https://www.mlive.com/news/flint/2026/05/flint-teen-accused-of-killing-14-year-old-girl-rejects-plea-deal.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 19:11:05 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Putin adviser threatens European diplomats in Kyiv: &#039;Trim the headcount&#039;",
       "desc": "Dmitry Medvedev, the deputy chair of the Security Council of Russia and the country’s former president, threatened European Union diplomats in Ukraine’s capital of Kyiv. “The EU has said it will maint",
       "link": "https://thehill.com/policy/defense/5895742-medvedev-threatens-eu-diplomats/",
@@ -524,15 +623,6 @@
       "tag": "health"
     },
     {
-      "title": "Bay Animal Hospital’s ex-manager jailed for embezzling five-figure sum",
-      "desc": "Lindsay Everett received 272 days in jail and must pay $25,000 in restitution after being convicted of stealing from the Hampton Township veterinary practice.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/bay-animal-hospitals-ex-manager-jailed-for-embezzling-five-figure-sum.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 17:35:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump says 6-month physical &#039;checked out perfectly&#039;",
       "desc": "President Trump gave himself a stellar health review Tuesday after he left the Walter Reed National Military Medical Center, where he got his annual medical and dental exam. “Just finished my 6 month ",
       "link": "https://thehill.com/homenews/administration/5894696-donald-trump-walter-reed-medical-center-exam/",
@@ -540,24 +630,6 @@
       "rawDate": "Tue, 26 May 2026 17:13:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Fire heavily damages vacant trailer off Dort Highway in Flint",
-      "desc": "Crews were called out shortly after 11 a.m. Tuesday, May 26, to 2801 S. Dort Highway for a report of a residential structure fire.",
-      "link": "https://www.mlive.com/news/flint/2026/05/fire-heavily-damages-vacant-trailer-off-dort-highway-in-flint.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 17:00:12 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "2 Saginaw men charged with murder in fatal shooting of one’s brother",
-      "desc": "Donjuan Anderson and Samuel Riley Jr. face open murder charges in the fatal shooting of Torrance McMurren, who was killed in front of his father at his Saginaw home in April.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/2-saginaw-men-charged-with-murder-in-fatal-shooting-of-ones-half-brother.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 16:58:29 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Aquinas College to offer AI degrees, citing ‘rapidly evolving job market’",
@@ -587,15 +659,6 @@
       "tag": "safety"
     },
     {
-      "title": "Pentagon knocks DNC over Memorial Day post on Iran war: &#039;Classless&#039;",
-      "desc": "The Pentagon is bashing the Democratic National Committee (DNC) as “classless” over a Memorial Day post on social media honoring service members killed during the Trump administration’s Iran war. The ",
-      "link": "https://thehill.com/policy/defense/5895287-pentagon-dnc-memorial-day-iran-war/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 15:58:12 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "University of Michigan repairs bell inside iconic tower",
       "desc": "Charles Baird Carillon inside Burton Memorial Tower in Ann Arbor will have new clappers amid a summer renovation project.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-repairs-bell-inside-iconic-tower.html",
@@ -603,15 +666,6 @@
       "rawDate": "Tue, 26 May 2026 15:45:51 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "House Democrat perplexed by Trump Abraham Accords push amid Iran talks",
-      "desc": "Rep. Jake Auchincloss (D-Mass.) on Monday expressed confusion over President Trump’s push for other countries to join the Abraham Accords as he seeks a deal with Iran to end the war. Earlier in the da",
-      "link": "https://thehill.com/homenews/house/5895169-trump-abraham-accords-auchincloss/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 15:43:39 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Coca-Cola to be University of Michigan’s exclusive beverage partner",
@@ -630,15 +684,6 @@
       "rawDate": "Tue, 26 May 2026 14:24:05 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Iran: New US strike violated ceasefire",
-      "desc": "Iran on Tuesday accused the U.S. of violating a ceasefire put in place on April 8 following fresh military strikes carried out by the American military, which described the strikes as defensive action",
-      "link": "https://thehill.com/policy/defense/5894888-iran-us-military-strikes-ceasefire/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 13:55:23 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Trump calls for permanent daylight saving time, vote could come soon",
@@ -740,15 +785,6 @@
       "tag": "education"
     },
     {
-      "title": "Dearborn Schools weigh $1.5B bond plan for new schools, major upgrades",
-      "desc": "The proposal would be rolled out in four phases, beginning with about $366 million in work over the first several years.",
-      "link": "https://www.mlive.com/news/detroit/2026/05/dearborn-schools-weigh-15b-bond-plan-for-new-schools-major-upgrades.html",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 11:30:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Trump&#039;s former COVID adviser: US equipped to handle response to Ebola outbreak",
       "desc": "A former adviser to President Trump during the COVID-19 pandemic said Sunday that the U.S. is equipped to handle an Ebola outbreak. “The U.S. right now does not have a confirmed head of the CDC [Cente",
       "link": "https://thehill.com/policy/healthcare/5893722-trump-adviser-ebola-response/",
@@ -763,15 +799,6 @@
       "link": "https://thehill.com/policy/healthcare/5893589-who-hantavirus-update-stable/",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 22:17:34 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Ebola response hobbled by US withdrawal from global health",
-      "desc": "The Ebola outbreak spreading throughout Central Africa is the first major outbreak since the Trump administration demolished its global health programs and largely withdrew from the world stage last y",
-      "link": "https://thehill.com/policy/healthcare/5892230-ebola-outbreak-trump-cuts/",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 21:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -803,15 +830,6 @@
       "tag": "government"
     },
     {
-      "title": "Ebola resurgence sparks global concern, travel restrictions: What to know",
-      "desc": "The resurgence of Ebola in central Africa is prompting international concern, with health officials issuing urgent warnings and travel restrictions as an outbreak linked to the rare Bundibugyo strain ",
-      "link": "https://thehill.com/policy/healthcare/5893068-ebola-resurgence-central-africa/",
-      "date": "May 24, 2026",
-      "rawDate": "Sun, 24 May 2026 00:32:29 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Reports of shots fired near White House",
       "desc": "The Secret Service posted on X that it was “aware of reports of shots fired near 17th Street and Pennsylvania Avenue NW” — one block from the White House.",
       "link": "https://www.mlive.com/news/2026/05/reports-of-shots-fired-near-white-house.html",
@@ -830,15 +848,6 @@
       "tag": "government"
     },
     {
-      "title": "US adds Atlanta airport as enhanced screening location for travelers from Ebola outbreak countries",
-      "desc": "The Centers for Disease Control and Prevention (CDC) has expanded its enhanced Ebola screening to Hartsfield-Jackson Atlanta International Airport for passengers coming from Congo, Uganda and South Su",
-      "link": "https://thehill.com/policy/healthcare/5892834-ebola-screening-atlanta-airport/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 18:45:27 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "New York official warns AI could cost city thousands of jobs",
       "desc": "A New York City official warned this week that those working in the Big Apple could face the brunt of the negative impacts of artificial intelligence, possibly costing the city thousands of jobs.  Com",
       "link": "https://thehill.com/policy/technology/5892828-new-york-city-comptroller-mark-levine-ai-jobs/",
@@ -848,33 +857,6 @@
       "tag": "technology"
     },
     {
-      "title": "Trump administration expands Ebola travel restrictions to green card holders",
-      "desc": "The Trump administration updated its travel restrictions amid the Ebola outbreak to temporarily include the entry of lawful permanent residents who have been in the Democratic Republic of Congo (DRC),",
-      "link": "https://thehill.com/policy/healthcare/5892561-trump-administration-ebola-outbreak-restrictions-green-card-holders/",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 12:14:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "How much do Michigan lawmakers and their staff earn? See their salaries.",
-      "desc": "The median pay for staff in the House and Senate was about $57,500.",
-      "link": "https://www.mlive.com/data/2026/05/how-much-do-michigan-lawmakers-and-their-staff-earn-see-their-salaries.html",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 11:05:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Where will Mike Duggan’s voters go? What his supporters are saying.",
-      "desc": "Former Detroit Mayor Mike Duggan announced this week he's ending his independent campaign for governor. What does that mean for the other candidates?",
-      "link": "https://www.mlive.com/politics/2026/05/where-will-mike-duggans-voters-go-what-his-supporters-are-saying.html",
-      "date": "May 23, 2026",
-      "rawDate": "Sat, 23 May 2026 10:45:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Comer launches investigation into prediction markets insider trading",
       "desc": "House Oversight and Government Reform Committee Chair James Comer (R-Ky.) launched an investigation Friday into prediction market platforms Kalshi and Polymarket to determine whether their users are u",
       "link": "https://thehill.com/homenews/house/5891863-congressional-probe-prediction-markets/",
@@ -882,15 +864,6 @@
       "rawDate": "Fri, 22 May 2026 19:20:41 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Ann Arbor mayoral candidates to take stage at 2 more forums",
-      "desc": "Hear Mayor Christopher Taylor and challenger Yousef Rabhi debate city issues ahead of the Aug. 4 Democratic primary election.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/ann-arbor-mayoral-candidates-to-take-stage-at-2-more-forums.html",
-      "date": "May 22, 2026",
-      "rawDate": "Fri, 22 May 2026 13:55:53 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     }
   ]
 }

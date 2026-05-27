@@ -1,23 +1,149 @@
 {
-  "generated": "2026-05-27T10:55:18.965Z",
+  "generated": "2026-05-27T14:22:41.858Z",
   "news": [
     {
-      "title": "Senate Republicans battle over future of parliamentarian",
-      "desc": "Some Senate Republican aides say there is growing support within the Senate GOP conference for ousting the parliamentarian, Elizabeth MacDonough, after she ruled against a proposal to provide $1 billi",
-      "link": "https://thehill.com/homenews/senate/5896290-senate-republicans-frustration-parliamentarian/",
+      "title": "Frankenmuth tourism leader takes key role on Michigan Travel Commission",
+      "desc": "Jamie Furbush will serve as vice chair as the state begins rolling out a tourism master plan shaped by input from more than 600 industry professionals and partners.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/frankenmuth-tourism-leader-takes-key-role-on-michigan-travel-commission.html",
       "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 10:00:00 +0000",
+      "rawDate": "Wed, 27 May 2026 14:12:31 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "RNC chief on slipping Trump approval rating: &#039;The base loves the president&#039;",
+      "desc": "The chair of the Republican National Committee (RNC) said recent primary wins for candidates backed by President Trump demonstrate the president's political influence even as polls show his approval r",
+      "link": "https://thehill.com/homenews/campaign/5896988-rnc-trump-ken-paxton/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 14:08:45 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Corsair Galleon 100 SD Review: Stream Deck Now Included",
-      "desc": "Corsair unites Stream Deck functionality with Drop keyboard design expertise on its latest Galleon SD 100.",
-      "link": "https://www.wired.com/review/review-corsair-galleon-100-sd/",
+      "title": "‘They’re shooting at the VFW!’ 911 calls detail chaotic scene at after-prom party",
+      "desc": "Audio obtained by MLive shows callers reporting up to 30 gunshots in Muskegon County as teens scrambled for safety.",
+      "link": "https://www.mlive.com/news/muskegon/2026/05/theyre-shooting-at-the-vfw-911-calls-detail-chaotic-scene-at-after-prom-party.html",
       "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 10:00:00 +0000",
+      "rawDate": "Wed, 27 May 2026 14:04:48 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+      "desc": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 14:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
+    },
+    {
+      "title": "Entertainers unveiled for 250th US birthday bash on National Mall",
+      "desc": "An eclectic mix of entertainers is poised to join a massive bash on the National Mall marking America's 250th birthday that's being billed as a \"once-in-a-generation celebration.\" Country music star M",
+      "link": "https://thehill.com/blogs/in-the-know/5896900-national-mall-america-250-dc-great-american-state-fair/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:46:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Israel says it killed new Hamas military leader in Gaza",
+      "desc": "DEIR AL-BALAH, Gaza Strip (AP) — Israel said Wednesday it targeted and killed the new leader of Hamas' military wing during airstrikes in Gaza City less than two weeks after killing his predecessor. I",
+      "link": "https://thehill.com/policy/international/israel-new-hamas-military-leader-killed-gaza/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:44:04 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "&#8216;Resume Botox&#8217;? Millennial job seekers trimming resumes to avoid ageism",
+      "desc": "'Resume Botox' and 'resume age-proofing' have become new trends among millennials as the job market worsens.",
+      "link": "https://thehill.com/business/5895495-resume-botox-millennial-job-seekers-trimming-resumes/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:40:40 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Southern Poverty Law Center labels DOJ indictment vindictive prosecution in dismissal bid",
+      "desc": "The Southern Poverty Law Center (SPLC) is asking a judge to toss a case the Trump administration launched against the civil rights group, arguing it has been selectively and vindictively prosecuted. T",
+      "link": "https://thehill.com/homenews/administration/5896865-southern-poverty-law-center-doj-indictment-dismissal-bid/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:35:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump&#039;s self-settlement could backfire on him after he leaves office",
+      "desc": "The real question is whether voters will one day elect an administration willing to bring cases covered by this deal anyway.",
+      "link": "https://thehill.com/opinion/white-house/5894304-slush-fund-immunity-trump/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Deputies investigating ‘suspicious death’ of man found partially in Saginaw River",
+      "desc": "Saginaw County Sheriff’s deputies on the afternoon of May 14 recovered the body of 50-year-old Robert J. “Bobby” Karas from the 2100 block of Bay City Road/M-13.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/deputies-investigating-suspicious-death-of-man-found-partially-in-saginaw-river.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:25:45 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Pro-crypto super PAC lauds Green’s loss",
+      "desc": "Leading pro-crypto super PAC Fairshake celebrated Texas Rep. Al Green’s (D) defeat in the Democratic primary runoff race on Tuesday, following his vocal advocacy against the industry.  \"Rep. Green’s d",
+      "link": "https://thehill.com/homenews/campaign/5896779-fairshake-pac-celebrates-al-green-defeat/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:13:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump&#039;s &#039;slush fund&#039; has even loyalists turning against him",
+      "desc": "As usual, Trump wants what he wants and expects his Capitol Hill colleagues to deal with the inevitable fallout. But Republicans are getting sick of being radioactive, and they certainly aren’t intere",
+      "link": "https://thehill.com/opinion/campaign/5895416-trump-blanche-justice-department-dysfunction/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump congratulates Paxton, Cornyn: &#039;John will remain my friend for a long time to come&#039;",
+      "desc": "President Trump on Wednesday congratulated Texas Attorney General Ken Paxton (R) for his win over Sen. John Cornyn (R-Texas) in the state's GOP Senate primary runoff. Despite the loss, Trump added tha",
+      "link": "https://thehill.com/homenews/campaign/5896689-donald-trump-ken-paxton-john-cornyn-texas-gop-senate-primary/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 12:57:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP Senate campaign arm deletes posts bashing Paxton after runoff win",
+      "desc": "Senate Republicans’ campaign arm quietly deleted a number of posts attacking Texas Attorney General Ken Paxton after he won the Texas Senate GOP runoff on Tuesday against Sen. John Cornyn.  The Nation",
+      "link": "https://thehill.com/homenews/campaign/5896757-ken-paxton-nrsc-posts-deleted/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 12:56:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Judge blocks West Point from enforcing faculty speech restrictions",
+      "desc": "A federal judge on Tuesday blocked restrictions imposed by the Trump administration that prevent faculty at the U.S. Military Academy at West Point (USMA) from speaking to external groups without perm",
+      "link": "https://thehill.com/policy/defense/5896734-federal-judge-blocks-trump-era-restrictions/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 12:39:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan woman accused of making bogus fundraiser for deceased teen, embezzling from adventure park",
+      "desc": "Julie Hock allegedly kept donations meant for a teen's family and later took money from Dutch Village Adventure Park, now Parkside Mini Golf.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/michigan-woman-accused-of-making-bogus-fundraiser-for-deceased-teen-embezzling-from-adventure-park.html",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 12:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Department of Labor Tells Employees to Report Anyone Prioritizing DEI",
@@ -29,8 +155,17 @@
       "tag": "technology"
     },
     {
+      "title": "Corsair Galleon 100 SD Review: Stream Deck Now Included",
+      "desc": "Corsair unites Stream Deck functionality with Drop keyboard design expertise on its latest Galleon SD 100.",
+      "link": "https://www.wired.com/review/review-corsair-galleon-100-sd/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "Ebola’s threat in Uganda extends far beyond public health",
-      "desc": "QUEEN ELIZABETH NATIONAL PARK, Uganda — Located about 200 miles from the epicenter of the Ebola outbreak in the Congo, the fears of infection here are low.  Yet the anxiety over the consequences of th",
+      "desc": "QUEEN ELIZABETH NATIONAL PARK, Uganda — Located about 200 miles from the epicenter of the Ebola outbreak in the Congo, the fears of infection here are low.  Yet the anxiety over the consequences of th",
       "link": "https://thehill.com/policy/international/5895648-uganda-tourism-ebola-fears/",
       "date": "May 27, 2026",
       "rawDate": "Wed, 27 May 2026 10:00:00 +0000",
@@ -47,6 +182,15 @@
       "tag": "technology"
     },
     {
+      "title": "NASA lays out moon base plans with landers, buggies and drones at the top of the list",
+      "desc": "CAPE CANAVERAL, Fla. (AP) — NASA is already ordering landers, rovers and drones for a sprawling moon base, less than two months after the Artemis II's record-breaking lunar flyaround. The space agency",
+      "link": "https://thehill.com/homenews/space/nasa-moon-base-plans/",
+      "date": "May 27, 2026",
+      "rawDate": "Wed, 27 May 2026 07:36:41 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "Dell Coupon Codes: 20% Off for June 2026",
       "desc": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
       "link": "https://www.wired.com/story/dell-coupon-code/",
@@ -56,85 +200,13 @@
       "tag": "technology"
     },
     {
-      "title": "Uplift Promo Codes: $570 Off",
-      "desc": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories during the Spring Setup Sale.",
-      "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "title": "Canada will require self-isolation for people traveling from Congo, Sudan and Uganda due to Ebola",
+      "desc": "TORONTO (AP) — The Canadian government said Tuesday that travelers from Ebola-affected regions will be required to self-isolate for 21 days, and that immigration authorities are temporarily suspending",
+      "link": "https://thehill.com/policy/international/canada-ebola-congo-sudan-uganda-self-isolation/",
       "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Paxton trounces Cornyn: 5 takeaways from Texas&#039;s primary runoffs",
-      "desc": "Sen. John Cornyn (R-Texas) became the latest casualty of President Trump’s revenge tour on Tuesday after Texas Attorney General Ken Paxton (R) easily trounced the incumbent in the Senate GOP runoff.  ",
-      "link": "https://thehill.com/homenews/campaign/5896153-paxton-cornyn-texas-runoffs-takeaways/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 04:30:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Allred defeats Johnson in Texas Democratic House primary runoff",
-      "desc": "Former Rep. Colin Allred (D-Texas) is projected to defeat Rep. Julie Johnson (D-Texas) in the Democratic primary runoff for Texas’s newly drawn 33rd Congressional District, according to Decision Desk ",
-      "link": "https://thehill.com/homenews/campaign/5894334-allred-johnson-texas-house-democratic-primary-runoff/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 03:07:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Clyburn on South Carolina record-breaking early voter turnout: People were ‘very angry’",
-      "desc": "Rep. Jim Clyburn (D-S.C.) on Tuesday said the Palmetto State’s record-breaking early voter turnout was attributed to residents' anger over Republicans’ redistricting measure.  “People were upset that ",
-      "link": "https://thehill.com/homenews/house/5896480-clyburn-redistricting-anger-voters/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 03:06:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cornyn pledges to support Republican Senate ticket in Texas after losing runoff",
-      "desc": "Sen. John Cornyn (R-Texas) on Tuesday pledged to support the Republican ticket after losing his Senate primary runoff to Texas Attorney General Ken Paxton (R). \"I've spent most of my time in the Senat",
-      "link": "https://thehill.com/homenews/senate/5896456-cornyn-pledges-support-republican-ticket/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 01:56:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cook Political Report shifts Texas Senate rating toward Democrats after Paxton runoff victory",
-      "desc": "The nonpartisan election handicapper Cook Political Report shifted its rating of the Texas Senate race toward Democrats on Tuesday, from “likely Republican” to “lean Republican,” after state Attorney ",
-      "link": "https://thehill.com/homenews/campaign/5896436-texas-senate-race-rating-shift/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 01:48:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Garcia beats Texas Democrat accused of antisemitism in House primary runoff",
-      "desc": "Democrat Johnny Garcia is projected to win his House primary runoff in Texas, defeating a candidate that came under fire for remarks seen as antisemitic, according to Decision Desk HQ.  Garcia, a publ",
-      "link": "https://thehill.com/homenews/campaign/5895781-democrat-garcia-defeats-galindo-texas/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 01:14:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Paxton defeats Cornyn in Texas GOP Senate runoff",
-      "desc": "Texas Attorney General Ken Paxton (R), with a last-minute endorsement from President Trump, is projected to beat incumbent Sen. John Cornyn (R-Texas) in the bitter Republican runoff for Senate in the ",
-      "link": "https://thehill.com/homenews/campaign/5894321-paxton-defeats-cornyn-texas-runoff/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 01:00:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump administration sues University of California over antisemitism at UCLA",
-      "desc": "The Trump administration on Tuesday filed a lawsuit against the University of California for alleged “deliberate indifference” to harassment against Jewish and Israeli students at the University of Ca",
-      "link": "https://thehill.com/homenews/administration/5896349-ucla-antisemitism-lawsuit-trump/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 00:54:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Wed, 27 May 2026 00:28:32 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Mother accepts slain son’s diploma at Saginaw graduation",
@@ -146,22 +218,13 @@
       "tag": "education"
     },
     {
-      "title": "Trump-backed candidate wins GOP primary runoff for new Texas House seat",
-      "desc": "Former oil and gas executive Alex Mealer, who was backed by President Trump, is projected to defeat state Rep. Briscoe Cain and win the GOP primary for Texas’s newly drawn 9th Congressional District, ",
-      "link": "https://thehill.com/homenews/campaign/5895340-trump-candidate-wins-texas-gop-runoff/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 00:25:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Green loses Texas Democratic House primary runoff to Menefee",
-      "desc": "Rep. Christian Menefee (D-Texas) is projected to defeat Rep. Al Green (D-Texas) in a Democratic primary runoff for the Houston-based 18th Congressional District, according to Decision Desk HQ.  Menefe",
-      "link": "https://thehill.com/homenews/campaign/5894330-green-menefee-texas-democratic-house-primary-runoff/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 00:23:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "title": "Trump: ‘Critically important’ CFTC has exclusive authority over prediction markets",
+      "desc": "President Trump on Tuesday said it was “critically important” for the Commodity Futures Trading Commission (CFTC) to maintain exclusive authority over prediction markets, following several lawsuits ag",
+      "link": "https://thehill.com/homenews/administration/5896316-trump-cftc-prediction-markets/",
+      "date": "May 26, 2026",
+      "rawDate": "Tue, 26 May 2026 23:54:40 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Bride sentenced to probation in Flint wedding night groomsman death",
@@ -434,33 +497,6 @@
       "tag": "safety"
     },
     {
-      "title": "Burglar steals 53 valuable Pokémon cards from Saginaw Township store",
-      "desc": "Surveillance footage captured a hooded burglar breaking into Curveball Collectibles and ransacking a display case of valuable cards ranging from $75 to $3,500 each.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/burglar-steals-53-valuable-pokemon-cards-from-saginaw-township-store.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 15:03:52 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "3 teens led police on a chase that ended with a crashed car, a concealed weapon, and an injured officer",
-      "desc": "Three juveniles were arrested Sunday following dual vehicle pursuits that began with a morning crash and ended with the recovery of two stolen vehicles and an illegal handgun in Jackson.",
-      "link": "https://www.mlive.com/news/jackson/2026/05/3-teens-led-police-on-a-chase-that-ended-with-a-crashed-car-a-concealed-weapon-and-an-injured-officer.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 15:00:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Man shot, killed inside Oakland County home",
-      "desc": "Shell casings were later found outside the bedroom window.",
-      "link": "https://www.mlive.com/news/detroit/2026/05/man-shot-killed-inside-oakland-county-home.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 14:57:07 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Coca-Cola to be University of Michigan’s exclusive beverage partner",
       "desc": "University officials selected the multi-billion dollar brand over other popular drink companies, including Keurig Dr Pepper, Pepsi and Red Bull.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/coca-cola-to-be-university-of-michigans-exclusive-beverage-partner.html",
@@ -533,24 +569,6 @@
       "tag": "technology"
     },
     {
-      "title": "US forces conduct strikes in Iran, Centcom says",
-      "desc": "U.S. Central Command (Centcom) on Monday said U.S. forces fired \"defensive strikes\" in southern Iran amid discussions to bring the U.S.-Israeli conflict with Tehran to an end. These strikes were inten",
-      "link": "https://thehill.com/policy/defense/5894404-us-strikes-iran-centcom/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 23:53:43 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "What to know about the emerging US-Iran deal to end war, reopen Strait of Hormuz",
-      "desc": "Iranian officials are in Qatar for talks amid efforts between the U.S. and Iran to bring about an end to the nearly three-month long war and reopen the Strait of Hormuz, with a risk that hostilities c",
-      "link": "https://thehill.com/policy/international/5894245-us-iran-peace-deal/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 23:14:35 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "West Michigan high school band makes history at National Memorial Day Parade",
       "desc": "The performance in Washingon, D.C. on Monday was the first time the Kelloggsville High School Rocket Marching Band had played outside of Michigan. The district is in a Grand Rapids suburb.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/west-michigan-high-school-band-makes-history-at-national-memorial-day-parade.html",
@@ -603,15 +621,6 @@
       "rawDate": "Mon, 25 May 2026 13:30:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Developer appeals after judge tosses lawsuit over denied Walker townhome project",
-      "desc": "Jade Pig Ventures is challenging a judge's ruling that said the company failed to fully pursue the city's revision process for its 162-unit project on the former Greenridge Country Club site.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/05/developer-appeals-after-judge-tosses-lawsuit-over-denied-walker-townhome-project.html",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 13:00:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Pilot program seeks to address ‘wild west’ of AI in state government",
@@ -695,9 +704,9 @@
       "tag": "technology"
     },
     {
-      "title": "Fewer Ann Arbor-area students going to college, continuing long-term slide",
-      "desc": "About 69% of Washtenaw County graduates enrolled within six months in 2025 — down 4 points from the previous year and well below a 2017 peak.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/less-ann-arbor-area-students-going-to-college-continuing-long-term-slide.html",
+      "title": "Rose Run at Jackson College returns next month",
+      "desc": "The event, now in its 56th year, will feature eight different race options ranging from a half-mile kids run to a 10-mile course.",
+      "link": "https://www.mlive.com/news/jackson/2026/05/rose-run-at-jackson-college-returns-june-13.html",
       "date": "May 24, 2026",
       "rawDate": "Sun, 24 May 2026 10:00:00 +0000",
       "source": "MLive Education",
@@ -839,38 +848,11 @@
       "tag": "health"
     },
     {
-      "title": "Moderna mRNA flu vaccine to get FDA panel review",
-      "desc": "Moderna’s experimental mRNA flu shot will be reviewed by a Food and Drug Administration (FDA) advisory panel next month, a move that suggests a more stable approach to drug reviews after the firing of",
-      "link": "https://thehill.com/homenews/5890296-fda-panel-moderna-flu-vaccine/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 21:53:39 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "The Trump administration expands its use of AI in the hunt for healthcare fraud",
       "desc": "NEW YORK (AP) — The U.S. Department of Health and Human Services on Thursday announced it is supercharging its use of artificial intelligence to police how states and other recipients of federal healt",
       "link": "https://thehill.com/policy/healthcare/hhs-ai-health-care-fraud/",
       "date": "May 21, 2026",
       "rawDate": "Thu, 21 May 2026 21:09:39 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Meta becomes latest to settle social media addiction case ahead of June bellwether trial",
-      "desc": "Meta has settled a federal lawsuit over social media addiction just weeks before the bellwether trial was slated to start in June, joining three other technology firms that settled earlier this month.",
-      "link": "https://thehill.com/policy/technology/5889651-meta-settles-social-media-addiction-lawsuit/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 18:46:09 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Newsom signs order aimed at tackling AI job displacement",
-      "desc": "California Gov. Gavin Newsom (D) signed an executive order Thursday aimed at addressing potential job losses from AI, as workers face an uncertain future with a technology that industry leaders themse",
-      "link": "https://thehill.com/policy/technology/5889582-california-ai-job-losses/",
-      "date": "May 21, 2026",
-      "rawDate": "Thu, 21 May 2026 17:24:58 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

@@ -1,6 +1,51 @@
 {
-  "generated": "2026-05-27T23:55:45.402Z",
+  "generated": "2026-05-28T02:35:57.142Z",
   "news": [
+    {
+      "title": "Bipartisan group of former judges asks court to investigate Trump&#039;s IRS deal",
+      "desc": "A group of former federal judges on Wednesday asked a federal court to reopen President Trump’s lawsuit against the Internal Revenue Service (IRS), arguing that the administration circumvented the cou",
+      "link": "https://thehill.com/regulation/court-battles/5898575-trump-lawsuit-irs-fund-reopen/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 01:27:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US military struck Iran&#039;s ground control station; shot down 4 drones",
+      "desc": "The U.S. military intercepted and shot down four Iranian one-way attack drones and struck an Iranian ground control station in Bandar Abbas that was about to launch a fifth drone, a U.S. official, spe",
+      "link": "https://thehill.com/policy/defense/5898570-us-military-intercepts-iranian-drones/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 00:20:15 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Court allows Mahmoud Khalil to remain free while he petitions Supreme Court",
+      "desc": "A federal appeals court judge on Tuesday allowed pro-Palestinian activist Mahmoud Khalil to remain free as he takes his case against the Trump administration to the Supreme Court.  Judge Thomas Hardim",
+      "link": "https://thehill.com/regulation/court-battles/5898557-mahmoud-khalil-detention-case/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 00:13:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "desc": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 00:10:42 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Man accused of trying to grab teen in Kentwood has history of voyeuristic behavior: records",
+      "desc": "John Marcus Moore is charged with assault and battery and attempted unlawful imprisonment and assault and battery for two separate incidents.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/man-accused-of-trying-to-grab-teen-in-kentwood-has-history-of-voyeuristic-behavior.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 00:00:31 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Andy Kim responds to Mullin on ICE facility protest: &#039;This was never about me&#039;",
       "desc": "Democratic Sen. Andy Kim (N.J.) fired back at Homeland Security Markwayne Mullin on Wednesday, after the latter slammed the senator for attending a protest outside of a migrant detention facility in t",
@@ -137,15 +182,6 @@
       "tag": "government"
     },
     {
-      "title": "Thune urges Senate GOP to &#039;pivot&#039; from Cornyn, help Paxton win in Texas",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) is throwing his support behind Texas Attorney General Ken Paxton after Paxton’s primary defeat of incumbent Sen. John Cornyn (R) on Tuesday. In a radio inter",
-      "link": "https://thehill.com/homenews/senate/5898339-thune-backs-paxton-senate/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 21:24:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump in Iran leaders&#039; &#039;head&#039;: Retired US general",
       "desc": "Retired Lt. Gen. Keith Kellogg said on Wednesday that President Trump was in the heads of Iranian theocratic rulers, arguing that the fractured state of Tehran’s inner circle was the Trump administrat",
       "link": "https://thehill.com/policy/defense/5898260-trump-in-iran-leaders-head-retired-us-general/",
@@ -153,24 +189,6 @@
       "rawDate": "Wed, 27 May 2026 21:16:32 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "SpaceX ordered to investigate Starship booster mishap",
-      "desc": "The Federal Aviation Administration (FAA) has ordered SpaceX to investigate the cause of its Starship booster losing control and crashing into the Gulf of Mexico during a test flight last week, the ag",
-      "link": "https://thehill.com/policy/technology/5898198-starship-spacex-mishap-faa/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 21:11:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Hochul, Trump Jr. trade jabs over New York Knicks knowledge",
-      "desc": "New York Gov. Kathy Hochul (D) and Donald Trump Jr. traded barbs Wednesday after the former questioned President Trump’s allegiances to the NBA Finals-bound New York Knicks.  When a reporter asked Hoc",
-      "link": "https://thehill.com/homenews/administration/5898293-governor-hochul-knicks-jab/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 21:10:45 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Whitmer signs bill providing $152M for Selfridge during Mackinac Island visit",
@@ -551,15 +569,6 @@
       "tag": "safety"
     },
     {
-      "title": "Michigan woman accused of making bogus fundraiser for deceased teen, embezzling from adventure park",
-      "desc": "Julie Hock allegedly kept donations meant for a teen's family and later took money from Dutch Village Adventure Park, now Parkside Mini Golf.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/michigan-woman-accused-of-making-bogus-fundraiser-for-deceased-teen-embezzling-from-adventure-park.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 12:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Department of Labor Tells Employees to Report Anyone Prioritizing DEI",
       "desc": "The email instructs workers to report behavior that predates Donald Trump’s second inauguration. One employee tells WIRED it felt like a “reminder to narc on your coworkers.”",
       "link": "https://www.wired.com/story/department-of-labor-tells-employees-to-report-anyone-prioritizing-dei/",
@@ -585,15 +594,6 @@
       "rawDate": "Wed, 27 May 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "NASA Details Its Plan to Build a Lunar Base at the Moon’s South Pole",
-      "desc": "The project’s first mission could arrive as soon as this year, with a little help from Blue Origin.",
-      "link": "https://www.wired.com/story/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "NASA lays out moon base plans with landers, buggies and drones at the top of the list",
@@ -700,15 +700,6 @@
       "link": "https://thehill.com/policy/defense/5895742-medvedev-threatens-eu-diplomats/",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 18:55:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Hassett: Energy prices will drop &#039;like nothing you&#039;ve ever seen before&#039; when strait is reopened",
-      "desc": "National Economic Council Director Kevin Hassett said energy prices are going to fall “like nothing you’ve ever seen before” once Iran reopens the Strait of Hormuz. “Well, you know, I can't really tal",
-      "link": "https://thehill.com/business/5895540-kevin-hassett-energy-prices-drop-strait-of-hormuz-iran-war/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 18:05:04 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

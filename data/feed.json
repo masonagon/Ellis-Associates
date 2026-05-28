@@ -1,6 +1,96 @@
 {
-  "generated": "2026-05-28T06:45:56.976Z",
+  "generated": "2026-05-28T10:47:20.707Z",
   "news": [
+    {
+      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+      "desc": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+      "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ebola spreads as concerns grow over US response",
+      "desc": "An Ebola outbreak in the Democratic Republic of Congo (DRC) is fast outpacing containment efforts in the region as questions and concerns mount in the U.S. over the Trump administration’s preparedness",
+      "link": "https://thehill.com/policy/healthcare/5898444-trump-administration-ebola-response/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Latino voters set to play key role in Texas Senate battle",
+      "desc": "Ken Paxton’s victory in Texas is putting the spotlight on Hispanic voters, who could play a key role in November as Democrats set out to flip the state’s Senate seat. Democrats increasingly see Texas ",
+      "link": "https://thehill.com/homenews/campaign/5898547-hispanic-voters-texas-senate-race/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Buttigieg leads crowded 2028 Democratic field in new poll",
+      "desc": "Former Transportation Secretary Pete Buttigieg is leading in new polling on a hypothetical Democratic presidential primary as the party seeks a new path after 2024 losses.  An Emerson College Polling ",
+      "link": "https://thehill.com/homenews/campaign/5898010-pete-buttigieg-democratic-presidential-primary-poll/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats think they can turn Texas blue with Paxton vs. Talarico Senate race",
+      "desc": "State Attorney General Ken Paxton's win in the Texas Senate primary exhilarated President Trump and the MAGA base on Tuesday night. But the victory also electrified Democrats, who say the seat is not ",
+      "link": "https://thehill.com/homenews/campaign/5898191-talarico-challenges-paxton-texas/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP’s populists flex muscles with wins on Capitol Hill",
+      "desc": "Populist and union-friendly Republicans are flexing their muscles on Capitol Hill, notching wins in the House despite furious pushback from traditional free-market conservatives and opposition from GO",
+      "link": "https://thehill.com/homenews/house/5898341-populist-republicans-union-bills-rail-safety-house/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump victory in Texas gives him new leverage with Senate GOP",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) and other Senate Republicans are under new pressure to deliver on President Trump’s agenda after Sen. John Cornyn (R-Texas) suffered a blowout loss in the Te",
+      "link": "https://thehill.com/homenews/senate/5898537-trump-pressure-thune-senate/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rubio, Vance neck-and-neck in 2028 GOP matchup: Poll",
+      "desc": "Vice President Vance and Secretary of State Marco Rubio are neck-and-neck in a new poll on a hypothetical Republican presidential primary as chatter builds about who could lead the GOP in 2028.  An Em",
+      "link": "https://thehill.com/homenews/campaign/5898008-2028-gop-primary-vance-rubio-poll/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
+      "desc": "Customer data from more than 350 hotels around the world may have been accessed as part of realistic reservation-hijacking scams.",
+      "link": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent",
+      "desc": "The beleaguered luxury phone maker is pushing the AlphaFold, which has decent specs and comes with Vertu’s new Hermes Agent on board, to wealthy would-be buyers.",
+      "link": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 07:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Dell Coupon Codes: 20% Off for June 2026",
       "desc": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
@@ -56,15 +146,6 @@
       "tag": "government"
     },
     {
-      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-      "desc": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 00:10:42 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Man accused of trying to grab teen in Kentwood has history of voyeuristic behavior: records",
       "desc": "John Marcus Moore is charged with assault and battery and attempted unlawful imprisonment and assault and battery for two separate incidents.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/man-accused-of-trying-to-grab-teen-in-kentwood-has-history-of-voyeuristic-behavior.html",
@@ -92,24 +173,6 @@
       "tag": "safety"
     },
     {
-      "title": "Zelensky pleads with Trump, Congress to supply Patriot missile interceptors",
-      "desc": "Ukrainian President Volodymyr Zelensky on Wednesday urged President Trump and members of Congress to supply Kyiv with Patriot missile interceptors to help end its conflict with Russia.  “Frankly, whil",
-      "link": "https://thehill.com/policy/international/5898469-zelensky-urges-trump-patriot-missiles/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 23:04:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
-      "desc": "According to federal prosecutors, Michele Spagnuolo made more than $1 million on the prediction market platform using confidential information about Google Search traffic.",
-      "link": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 22:22:23 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Hegseth heads to Asia with Taiwan questions swirling",
       "desc": "Defense Secretary Pete Hegseth is headed to Asia this week, where he will attend the continent’s biggest defense forum as questions swirl about the U.S.’s support for Taiwan.  Hegseth, who is departin",
       "link": "https://thehill.com/policy/defense/5898423-hegseth-shangri-la-dialogue-taiwan/",
@@ -117,15 +180,6 @@
       "rawDate": "Wed, 27 May 2026 22:17:46 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "US &#8216;disappointed&#8217; after Netherlands blocks takeover of online ID platform",
-      "desc": "The U.S. said Wednesday that it was “disappointed” in a decision by the Dutch government to block New York-based Kyndryl��s planned acquisition of a cloud services provider over concerns about nationa",
-      "link": "https://thehill.com/homenews/5898407-dutch-block-us-tech-acquisition/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 22:15:05 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Uganda closes its border with Congo, where suspected cases of a rare Ebola type are surging",
@@ -425,15 +479,6 @@
       "tag": "safety"
     },
     {
-      "title": "8 Best Computer Speakers (2026) After Testing 25+ Pairs",
-      "desc": "These WIRED-tested computer speakers, from stereo speakers to surround sound, will suit any budget.",
-      "link": "https://www.wired.com/gallery/best-computer-speakers/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 16:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Packaging company seeks incentive for $53.7M expansion expected to create 55 jobs",
       "desc": "Profile Films plans to break ground this summer on an industrial building at 701 Ann St. NW in Grand Rapids, where new workers are expected to earn an average annual wage of about $45,760.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/packaging-company-seeks-incentive-for-537m-expansion-expected-to-create-55-jobs.html",
@@ -486,15 +531,6 @@
       "rawDate": "Wed, 27 May 2026 15:06:59 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Drone Ports and Funding Mayhem: Trump's Ballroom Has Turned Toxic",
-      "desc": "“Republicans are just going to have to suck it up and get it done,” says one Trump aide about the funding melee. The votes, though, may simply not be there.",
-      "link": "https://www.wired.com/story/drone-ports-and-funding-mayhem-trumps-ballroom-takes-on-congress/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 15:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump appoints former Attorney General Pam Bondi to White House science panel",
@@ -819,15 +855,6 @@
       "rawDate": "Mon, 25 May 2026 13:30:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump&#039;s former COVID adviser: US equipped to handle response to Ebola outbreak",
-      "desc": "A former adviser to President Trump during the COVID-19 pandemic said Sunday that the U.S. is equipped to handle an Ebola outbreak. “The U.S. right now does not have a confirmed head of the CDC [Cente",
-      "link": "https://thehill.com/policy/healthcare/5893722-trump-adviser-ebola-response/",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 02:50:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

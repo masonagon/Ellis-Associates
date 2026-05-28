@@ -1,77 +1,203 @@
 {
-  "generated": "2026-05-28T10:47:20.707Z",
+  "generated": "2026-05-28T14:31:40.060Z",
   "news": [
     {
+      "title": "Gretchen Whitmer rules out running for president in 2028",
+      "desc": "Whitmer said she’s still got a “lot of energy,” but wants to wait and think before jumping into another race.",
+      "link": "https://www.mlive.com/news/2026/05/gretchen-whitmer-rules-out-running-for-president-in-2028.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 14:31:03 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: US, Iran trade strikes as Trump dismisses political pressure around deal",
+      "desc": "The U.S. military launched another defensive strike against Iran on Wednesday, shooting down four Iranian one-way attack drones and striking a ground control station in Bandar Abbas that was about to ",
+      "link": "https://thehill.com/homenews/administration/5897673-live-updates-trump-iran-bessent-briefing/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 14:30:10 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "University of Michigan physicist wins up to $2M for insulator research",
+      "desc": "Professor Lu Li is one of eight scientists nationwide named to the 2026 class of Brown Investigators.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-physicist-wins-up-to-2m-for-insulator-research.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 14:22:10 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "House Dems launch ‘End Corruption Caucus’ with eyes on Trump",
+      "desc": "A small band of House Democrats has formed a new group designed to combat corruption in Washington — a move that comes amid growing criticism that President Trump is abusing his powers for personal ga",
+      "link": "https://thehill.com/homenews/house/5899142-house-end-corruption-caucus/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 14:06:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump better watch out for Lisa Murkowski",
+      "desc": "Donald Trump may well congratulate himself on another primary win, but he might have second thoughts when the Senate convenes in 2027.",
+      "link": "https://thehill.com/opinion/campaign/5898167-trump-murkowski-republican-future/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 14:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Grand Rapids police identify victim in May 24 shooting",
+      "desc": "Angel Rivas, 32, died in a shooting in the 1900 block of South Division Avenue.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/grand-rapids-police-identify-victim-in-may-24-shooting.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:59:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Murphy knocks new bipartisan college sports deal",
+      "desc": "Sen. Chris Murphy (D-Conn.) is casting doubt on a new piece of legislation introduced by lawmakers in the upper chamber of Congress that would regulate the big business of college sports. The bill's \"",
+      "link": "https://thehill.com/policy/keeping-score/5898958-chris-murphy-senate-bill-college-sports/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:58:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House X account posts tribute to Harambe: &#039;Forever in our hearts&#039;",
+      "desc": "The White House paid tribute this week to Harambe, the gorilla whose 2016 death resulted in him becoming an internet meme. On Wednesday, which would have been his 27th birthday, the White House wrote ",
+      "link": "https://thehill.com/blogs/in-the-know/5898959-white-house-harambe/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:56:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Florida nurse pleads to stabbing man in groin during Saginaw bar fight",
+      "desc": "Aaron Gann, 47, pleaded no contest to three felonies on the day his trial was scheduled to begin, avoiding a life-offense charge of assault with intent to murder.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/florida-nurse-pleads-to-stabbing-man-in-groin-during-saginaw-bar-fight.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:54:55 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Judge clears way for Trump mail-in ballot executive order",
+      "desc": "A federal judge on Thursday cleared the way for President Trump’s March executive order beefing up rules surrounding mail-in ballots to stand in the face of legal challenges from Democrats.  The order",
+      "link": "https://thehill.com/homenews/administration/5898998-court-ruling-trump-mail-in-ballot-order/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:40:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Talarico says he brought in $3M in 24 hours after GOP runoff",
+      "desc": "Texas Senate Democratic candidate James Talarico announced Thursday that his campaign brought in over $3 million after Texas Attorney General Ken Paxton (R) won the GOP runoff against Sen. John Cornyn",
+      "link": "https://thehill.com/homenews/campaign/5898994-talarico-campaign-record-fundraising/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:33:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘You took my son’: Man sentenced for 2018 Kalamazoo killing",
+      "desc": "\"I still don’t know why,\" the victim's mother said.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/you-took-my-son-man-sentenced-for-2018-kalamazoo-killing.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:31:29 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Former CIA official accused of stealing hundreds of gold bars from federal government",
+      "desc": "A former CIA official allegedly stole hundreds of gold bars from the federal government, amounting to over $40 million. David Rush, who had top secret-level clearance during his tenure at the CIA, was",
+      "link": "https://thehill.com/homenews/administration/5898887-former-cia-official-gold-bar-theft/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:23:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DNC X account tells Miller: &#039;Shut up you ugly f---&#039;",
+      "desc": "The Democratic National Committee (DNC) fired back at White House deputy chief of staff Stephen Miller Wednesday, urging him to “shut up” after criticizing Texas Senate hopeful James Talarico (D). “Fi",
+      "link": "https://thehill.com/homenews/campaign/5898874-democratic-national-committee-stephen-miller-criticism/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 13:21:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "More than half of Wayne County residents say they’d like to move elsewhere, survey finds",
+      "desc": "Among the findings, Detroit residents reported significantly lower satisfaction rates with schools, healthcare access, jobs and affordable housing compared to regional and national averages.",
+      "link": "https://www.mlive.com/news/2026/05/more-than-half-of-wayne-county-residents-say-theyd-like-to-move-elsewhere-survey-finds.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 12:59:58 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Central Command: Iran attack on Kuwait an &#039;egregious ceasefire violation&#039;",
+      "desc": "U.S. Central Command (Centcom) early Thursday accused Iran of violating the temporary ceasefire with a ballistic missile attack aimed at Kuwait. “At 10:17 p.m. ET on May 27, Iran launched a ballistic ",
+      "link": "https://thehill.com/policy/defense/5898902-central-command-iran-attack-kuwait-ceasefire-violation/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 12:57:55 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Iran voices support for Oman after Trump &#039;blow &#039;em up&#039; remark",
+      "desc": "Iran reupped its backing for Oman on Thursday, after President Trump warned the latter nation to “behave” or face consequences. Iranian Foreign Ministry spokesperson Esmail Baghaei said in a statement",
+      "link": "https://thehill.com/policy/international/5898818-iran-oman-support-trump-administration-middle-east-conflict/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 12:21:38 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Detroit man involved in police shooting dies from self-inflicted gunshot wound, police say",
+      "desc": "Police officials initially said the man was and shot killed by an officer.",
+      "link": "https://www.mlive.com/news/detroit/2026/05/detroit-man-involved-in-police-shooting-dies-from-self-inflicted-gunshot-wound-police-say.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 12:20:08 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
+      "desc": "It’s slimmer, lighter, and more durable. But the real upgrade is Oura’s push into AI-powered health insights and proactive monitoring.",
+      "link": "https://www.wired.com/story/oura-ring-5/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 12:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic",
+      "desc": "Created from fabric scraps that would otherwise end up in a landfill, this thoughtfully constructed bag looks great and can carry everything you need for a weeklong trip.",
+      "link": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 11:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "desc": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+      "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
-      "desc": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+      "desc": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
       "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
       "date": "May 28, 2026",
       "rawDate": "Thu, 28 May 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Ebola spreads as concerns grow over US response",
-      "desc": "An Ebola outbreak in the Democratic Republic of Congo (DRC) is fast outpacing containment efforts in the region as questions and concerns mount in the U.S. over the Trump administration’s preparedness",
-      "link": "https://thehill.com/policy/healthcare/5898444-trump-administration-ebola-response/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Latino voters set to play key role in Texas Senate battle",
-      "desc": "Ken Paxton’s victory in Texas is putting the spotlight on Hispanic voters, who could play a key role in November as Democrats set out to flip the state’s Senate seat. Democrats increasingly see Texas ",
-      "link": "https://thehill.com/homenews/campaign/5898547-hispanic-voters-texas-senate-race/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Buttigieg leads crowded 2028 Democratic field in new poll",
-      "desc": "Former Transportation Secretary Pete Buttigieg is leading in new polling on a hypothetical Democratic presidential primary as the party seeks a new path after 2024 losses.  An Emerson College Polling ",
-      "link": "https://thehill.com/homenews/campaign/5898010-pete-buttigieg-democratic-presidential-primary-poll/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats think they can turn Texas blue with Paxton vs. Talarico Senate race",
-      "desc": "State Attorney General Ken Paxton's win in the Texas Senate primary exhilarated President Trump and the MAGA base on Tuesday night. But the victory also electrified Democrats, who say the seat is not ",
-      "link": "https://thehill.com/homenews/campaign/5898191-talarico-challenges-paxton-texas/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP’s populists flex muscles with wins on Capitol Hill",
-      "desc": "Populist and union-friendly Republicans are flexing their muscles on Capitol Hill, notching wins in the House despite furious pushback from traditional free-market conservatives and opposition from GO",
-      "link": "https://thehill.com/homenews/house/5898341-populist-republicans-union-bills-rail-safety-house/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump victory in Texas gives him new leverage with Senate GOP",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) and other Senate Republicans are under new pressure to deliver on President Trump’s agenda after Sen. John Cornyn (R-Texas) suffered a blowout loss in the Te",
-      "link": "https://thehill.com/homenews/senate/5898537-trump-pressure-thune-senate/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Rubio, Vance neck-and-neck in 2028 GOP matchup: Poll",
-      "desc": "Vice President Vance and Secretary of State Marco Rubio are neck-and-neck in a new poll on a hypothetical Republican presidential primary as chatter builds about who could lead the GOP in 2028.  An Em",
-      "link": "https://thehill.com/homenews/campaign/5898008-2028-gop-primary-vance-rubio-poll/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
@@ -81,6 +207,15 @@
       "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
+    },
+    {
+      "title": "Ebola spreads as concerns grow over US response",
+      "desc": "An Ebola outbreak in the Congo is fast outpacing containment efforts in the region as questions and concerns mount in the U.S. over the Trump administration’s preparedness and response.  Health expert",
+      "link": "https://thehill.com/policy/healthcare/5898444-trump-administration-ebola-response/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent",
@@ -101,31 +236,13 @@
       "tag": "technology"
     },
     {
-      "title": "B&amp;H Photo Promo Codes and Deals This June",
-      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Google employee charged with insider trading on Polymarket",
       "desc": "Federal prosecutors on Wednesday charged a Google employee with insider trading on Polymarket.  In a seven-page complaint filed in federal court in the Southern District of New York (SNDY), the Depart",
       "link": "https://thehill.com/business/5898642-google-employee-insider-trading/",
       "date": "May 28, 2026",
       "rawDate": "Thu, 28 May 2026 03:13:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bipartisan group of former judges asks court to investigate Trump&#039;s IRS deal",
-      "desc": "A group of former federal judges on Wednesday asked a federal court to reopen President Trump’s lawsuit against the Internal Revenue Service (IRS), arguing that the administration circumvented the cou",
-      "link": "https://thehill.com/regulation/court-battles/5898575-trump-lawsuit-irs-fund-reopen/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 01:27:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "US military struck Iran&#039;s ground control station; shot down 4 drones",
@@ -137,15 +254,6 @@
       "tag": "safety"
     },
     {
-      "title": "Court allows Mahmoud Khalil to remain free while he petitions Supreme Court",
-      "desc": "A federal appeals court panel on Tuesday allowed pro-Palestinian activist Mahmoud Khalil to remain free as he takes his case against the Trump administration to the Supreme Court.  Judges Stephanos Bi",
-      "link": "https://thehill.com/regulation/court-battles/5898557-mahmoud-khalil-detention-case/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 00:13:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Man accused of trying to grab teen in Kentwood has history of voyeuristic behavior: records",
       "desc": "John Marcus Moore is charged with assault and battery and attempted unlawful imprisonment and assault and battery for two separate incidents.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/man-accused-of-trying-to-grab-teen-in-kentwood-has-history-of-voyeuristic-behavior.html",
@@ -153,15 +261,6 @@
       "rawDate": "Thu, 28 May 2026 00:00:31 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Andy Kim responds to Mullin on ICE facility protest: &#039;This was never about me&#039;",
-      "desc": "Democratic Sen. Andy Kim (N.J.) fired back at Homeland Security Markwayne Mullin on Wednesday, after the latter slammed the senator for attending a protest outside of a migrant detention facility in t",
-      "link": "https://thehill.com/homenews/senate/5898462-andy-kim-protests-ice/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 23:32:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Flint teen arrested after trooper spots handgun during traffic stop",
@@ -506,24 +605,6 @@
       "tag": "health"
     },
     {
-      "title": "Police investigating Bay County crash that claimed Belleville teen’s life",
-      "desc": "Aiden Dornbos, 17, of Belleville died after a head-on collision Saturday on M-13 in Kawkawlin Township. Three others were hospitalized.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/police-investigating-bay-county-crash-that-claimed-belleville-teens-life.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 15:08:33 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Detroit Grand Prix road closures expand: What drivers need to know",
-      "desc": "City officials said access to downtown businesses and residences remains available, with sidewalks staying open and alternative transportation options encouraged.",
-      "link": "https://www.mlive.com/news/detroit/2026/05/detroit-grand-prix-road-closures-expand-what-drivers-need-to-know.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 15:07:22 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "MSU President Kevin Guskiewicz departing for Clemson University, despite $1 million raise",
       "desc": "MSU President Kevin Guskiewiecz has been hired as the 16th president of Clemson University in South Carolina.",
       "link": "https://www.mlive.com/education/2026/05/msu-president-kevin-guskiewicz-departing-for-clemson-university-despite-1-million-raise.html",
@@ -557,42 +638,6 @@
       "date": "May 27, 2026",
       "rawDate": "Wed, 27 May 2026 14:49:50 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Man accused of starting fire that burned 40 acres of Northern Michigan nature preserve",
-      "desc": "He is charged with arson and other crimes related to the fire at Duncan Bay Nature Preserve along the Lake Huron shoreline.",
-      "link": "https://www.mlive.com/news/2026/05/man-accused-of-starting-fire-that-burned-40-acres-of-northern-michigan-nature-preserve.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 14:43:08 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Frankenmuth tourism leader takes key role on Michigan Travel Commission",
-      "desc": "Jamie Furbush will serve as vice chair as the state begins rolling out a tourism master plan shaped by input from more than 600 industry professionals and partners.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/frankenmuth-tourism-leader-takes-key-role-on-michigan-travel-commission.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 14:12:31 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "‘They’re shooting at the VFW!’ 911 calls detail chaotic scene at after-prom party",
-      "desc": "Audio obtained by MLive shows callers reporting up to 30 gunshots in Muskegon County as teens scrambled for safety.",
-      "link": "https://www.mlive.com/news/muskegon/2026/05/theyre-shooting-at-the-vfw-911-calls-detail-chaotic-scene-at-after-prom-party.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 14:04:48 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Deputies investigating ‘suspicious death’ of man found partially in Saginaw River",
-      "desc": "Saginaw County Sheriff’s deputies on the afternoon of May 14 recovered the body of 50-year-old Robert J. “Bobby” Karas from the 2100 block of Bay City Road/M-13.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/deputies-investigating-suspicious-death-of-man-found-partially-in-saginaw-river.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 13:25:45 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -677,15 +722,6 @@
       "tag": "safety"
     },
     {
-      "title": "Energy Department takes steps toward allowing plutonium, historically used in weapons, in nuclear fuel",
-      "desc": "The Energy Department may allow up to five companies to use its surplus plutonium — which it has historically been used in nuclear warheads — as fuel. The department has selected the firms for “advanc",
-      "link": "https://thehill.com/policy/energy-environment/5896154-energy-department-plutonium-nuclear-power/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 21:26:41 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Whitmer approval rating remains high in final year as governor",
       "desc": "The governor, which is finishing up her second term, maintains 52% approval among likely voters, including majority support from independents.",
       "link": "https://www.mlive.com/politics/2026/05/whitmer-approval-rating-remains-high-in-final-year-as-governor.html",
@@ -718,8 +754,8 @@
       "link": "https://thehill.com/policy/technology/5895819-pope-leo-vance-ai-risks/",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 20:02:41 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Kennedy faces anti-vaccine anger over hantavirus treatment legal protections",
@@ -776,15 +812,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump calls for permanent daylight saving time, vote could come soon",
-      "desc": "The House Energy and Commerce Committee passed a bill last week that would make daylight saving time permanent.",
-      "link": "https://www.mlive.com/news/us-world/2026/05/trump-calls-for-permanent-daylight-saving-vote-could-come-soon.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 13:31:17 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "See designs for $54 million Spanish immersion school planned near Kalamazoo",
       "desc": "Kalamazoo Public Schools plans to build a $54 million Spanish immersion school for pre-K through eighth grade. Construction starts in July.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/05/see-designs-for-54-million-spanish-immersion-school-planned-near-kalamazoo.html",
@@ -830,15 +857,6 @@
       "tag": "health"
     },
     {
-      "title": "This time travel graduation video from a Michigan school district will have you in your feels",
-      "desc": "The video featuring Taylor Swift’s song “Never Grow Up” shows current preschoolers enter one side of the contraption, only to emerge as graduates from the Class of 2026, all decked out in their caps a",
-      "link": "https://www.mlive.com/news/flint/2026/05/this-time-travel-graduation-video-from-a-michigan-school-district-will-have-you-in-your-feels.html",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 14:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Pope Leo encyclical: World leaders should be ‘slowing things down’ on AI",
       "desc": "Pope Leo XIV on Monday warned about the risks posed by AI in his first encyclical.  In the encyclical, titled \"Magnifica Humanitas,\" the pontiff wrote that policymakers must address the widespread ava",
       "link": "https://thehill.com/policy/technology/5893886-pope-leo-xiv-encyclical-artificial-intelligence-warning/",
@@ -846,15 +864,6 @@
       "rawDate": "Mon, 25 May 2026 13:40:43 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Kalamazoo’s top young speller heads to Scripps National Spelling Bee",
-      "desc": "Kalamazoo fifth grader Heron Bothwell will compete in the Scripps National Spelling Bee this week after winning the regional bee.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoos-top-young-speller-heads-to-scripps-national-spelling-bee.html",
-      "date": "May 25, 2026",
-      "rawDate": "Mon, 25 May 2026 13:30:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     }
   ]
 }

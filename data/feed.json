@@ -1,6 +1,78 @@
 {
-  "generated": "2026-05-28T20:24:55.775Z",
+  "generated": "2026-05-28T22:28:21.871Z",
   "news": [
+    {
+      "title": "These 6 hopefuls applied to fill an Ann Arbor School Board vacancy",
+      "desc": "All the applicants have ties to AAPS as past or present parents with backgrounds as educators, school volunteers and financial professionals; interviews are set for June 3.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/these-6-hopefuls-applied-to-fill-an-ann-arbor-school-board-vacancy.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 22:15:45 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "US Ebola quarantine facility in Kenya to open Friday",
+      "desc": "Trump administration officials confirmed Thursday that they will not allow any American who was exposed to Ebola back into the country.  A 50-bed field hospital quarantine facility for Americans that ",
+      "link": "https://thehill.com/policy/healthcare/5900320-field-hospital-quarantine-kenya/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 21:54:19 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Google employee charged with insider trading on Polymarket",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Google employee charged with insider trading on Polymarket Federal prosecutors on Wednesday charged a Google employee with insider trading on Poly",
+      "link": "https://thehill.com/newsletters/technology/5900308-google-employee-charged-with-insider-trading-on-polymarket/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 21:49:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan Democratic candidates square off in Senate debate: Key takeaways",
+      "desc": "The Democratic candidates in Michigan’s Senate race squared off in a combative Thursday debate, clashing over foreign and corporate campaign donations. Rep. Haley Stevens (Mich.), state Sen. Mallory M",
+      "link": "https://thehill.com/homenews/campaign/5900248-michigan-democratic-senate-debate/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 21:44:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hakeem Jeffries a &#039;Hard No&#039; on a Trump $250 bill: &#039;Get over yourself&#039;",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Thursday slammed the reported push from Trump administration officials for the Bureau of Engraving and Printing to design a $250 bill with President T",
+      "link": "https://thehill.com/homenews/house/5900187-treasury-push-trump-currency/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 21:11:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Snow day forgiveness plan for weather-worn Michigan schools gets final OK",
+      "desc": "Gov. Gretchen Whitmer signed the bipartisan bill this week. It allows schools and districts in more than half of Michigan's counties to count up to four or five days missed this spring.",
+      "link": "https://www.mlive.com/education/2026/05/snow-day-forgiveness-plan-for-weather-worn-michigan-schools-gets-final-ok.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 21:10:57 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Never say never:’ Whitmer walks back her stance on 2028 presidential run",
+      "desc": "During a first panel question on Mackinac Island, Michigan Governor Gretchen Whitmer said she needed to “correct the record.”",
+      "link": "https://www.mlive.com/news/2026/05/never-say-never-whitmer-walks-back-her-stance-on-2028-presidential-run.html",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 21:05:10 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Court orders Customs chief to appear at tariff refunds hearing",
+      "desc": "The U.S. Court of International Trade on Wednesday ordered the commissioner for Customs and Border Protection (CBP) to appear at a hearing next month to testify about the tariff refunds process being ",
+      "link": "https://thehill.com/business/5900102-customs-commissioner-tariff-refunds-hearing/",
+      "date": "May 28, 2026",
+      "rawDate": "Thu, 28 May 2026 20:21:31 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Anthropic hits $965B valuation with latest funding round, overtaking OpenAI",
       "desc": "Anthropic raked in $65 billion from investors at a $965 billion valuation in its latest funding round, overtaking OpenAI’s most recent valuation as the two AI startups race to go public. The company a",
@@ -11,8 +83,8 @@
       "tag": "government"
     },
     {
-      "title": "Bessent fields 2028 question in light of taking over White House briefing",
-      "desc": "Treasury Secretary Scott Bessent on Thursday dismissed a question about his presidential ambitions during a White House press briefing.  While filing in for Press Secretary Karoline Leavitt, who is on",
+      "title": "Bessent fields 2028 question during White House briefing",
+      "desc": "Treasury Secretary Scott Bessent on Thursday dismissed a question about his presidential ambitions during a White House press briefing.  While filing in for press secretary Karoline Leavitt, who is on",
       "link": "https://thehill.com/homenews/campaign/5899956-scott-bessent-2028-press-briefing/",
       "date": "May 28, 2026",
       "rawDate": "Thu, 28 May 2026 20:13:46 +0000",
@@ -29,7 +101,7 @@
       "tag": "safety"
     },
     {
-      "title": "Bessent blasts Washington Post reporting on Trump appearing on $250 bank note",
+      "title": "Bessent blasts Washington Post reporting on Trump appearing on $250 banknote",
       "desc": "Treasury Secretary Scott Bessent was the latest host of the White House press briefing, where on Thursday he took aim at reporting from The Washington Post about a planned commemorative $250 bill with",
       "link": "https://thehill.com/homenews/5900065-trump-bessent-250-bill-treasury-department/",
       "date": "May 28, 2026",
@@ -79,15 +151,6 @@
       "link": "https://thehill.com/homenews/5899984-trump-iran-nuclear-deal/",
       "date": "May 28, 2026",
       "rawDate": "Thu, 28 May 2026 19:42:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "FEMA acting head: &#039;We&#039;re ready for hurricane season&#039;",
-      "desc": "Bob Fenton, the acting administrator of the Federal Emergency Management Agency (FEMA), is reassuring the public that the agency is prepared for hurricane season, even as the Trump administration push",
-      "link": "https://thehill.com/homenews/administration/5899923-fema-bob-fenton-2026-hurricane-season/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 19:27:44 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -144,15 +207,6 @@
       "rawDate": "Thu, 28 May 2026 18:49:48 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Southern Democratic leaders say South Carolina should hold first primary in 2028",
-      "desc": "A group of Democratic leaders from Southern states advocated Thursday for South Carolina voters to cast the first ballots in the next presidential primaries. The Democratic Party chairs from Alabama, ",
-      "link": "https://thehill.com/homenews/campaign/5899800-southern-states-democrats-2028-primaries-south-carolina/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 18:29:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "More than $40 million in gold found in home of ex-CIA agent",
@@ -497,15 +551,6 @@
       "tag": "technology"
     },
     {
-      "title": "Google employee charged with insider trading on Polymarket",
-      "desc": "Federal prosecutors on Wednesday charged a Google employee with insider trading on Polymarket.  In a seven-page complaint filed in federal court in the Southern District of New York (SNDY), the Depart",
-      "link": "https://thehill.com/business/5898642-google-employee-insider-trading/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 03:13:01 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "US military struck Iran&#039;s ground control station; shot down 4 drones",
       "desc": "The U.S. military intercepted and shot down four Iranian one-way attack drones and struck an Iranian ground control station in Bandar Abbas that was about to launch a fifth drone, a U.S. official, spe",
       "link": "https://thehill.com/policy/defense/5898570-us-military-intercepts-iranian-drones/",
@@ -673,15 +718,6 @@
       "link": "https://www.mlive.com/politics/2026/05/michigan-lawmakers-push-prison-oversight-reform-after-4-deaths.html",
       "date": "May 27, 2026",
       "rawDate": "Wed, 27 May 2026 18:43:24 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Right to Life lawsuit dismissed by federal appeals court",
-      "desc": "A federal appeals court has rejected an attempt to overturn Michigan’s constitutional right to reproductive freedom, finding that anti-abortion plaintiffs lacked legal standing to bring their challeng",
-      "link": "https://www.mlive.com/politics/2026/05/right-to-life-lawsuit-dismissed-by-federal-appeals-court.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 18:30:14 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
@@ -857,47 +893,11 @@
       "tag": "technology"
     },
     {
-      "title": "Whitmer approval rating remains high in final year as governor",
-      "desc": "The governor, which is finishing up her second term, maintains 52% approval among likely voters, including majority support from independents.",
-      "link": "https://www.mlive.com/politics/2026/05/whitmer-approval-rating-remains-high-in-final-year-as-governor.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 20:52:26 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "FDA advisers to weigh updated COVID vaccine targeting XFG subvariant",
-      "desc": "The Food and Drug Administration's (FDA) advisory committee on vaccines this week will consider whether to change the COVID-19 vaccine to target the XFG subvariant for the upcoming 2026-2027 respirato",
-      "link": "https://thehill.com/homenews/5895599-fda-covid-19-vaccine-update-subvariant/",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 20:22:31 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Aquinas College to offer AI degrees, citing ‘rapidly evolving job market’",
       "desc": "Aquinas College will begin offering majors in artificial intelligence literacy in the fall of 2026.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/05/aquinas-college-to-offer-ai-degrees-citing-rapidly-evolving-job-market.html",
       "date": "May 26, 2026",
       "rawDate": "Tue, 26 May 2026 16:28:32 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan repairs bell inside iconic tower",
-      "desc": "Charles Baird Carillon inside Burton Memorial Tower in Ann Arbor will have new clappers amid a summer renovation project.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/university-of-michigan-repairs-bell-inside-iconic-tower.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 15:45:51 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Coca-Cola to be University of Michigan’s exclusive beverage partner",
-      "desc": "University officials selected the multi-billion dollar brand over other popular drink companies, including Keurig Dr Pepper, Pepsi and Red Bull.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/coca-cola-to-be-university-of-michigans-exclusive-beverage-partner.html",
-      "date": "May 26, 2026",
-      "rawDate": "Tue, 26 May 2026 14:32:51 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

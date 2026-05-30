@@ -1,6 +1,33 @@
 {
-  "generated": "2026-05-30T11:14:36.054Z",
+  "generated": "2026-05-30T13:07:47.085Z",
   "news": [
+    {
+      "title": "Hegseth disputes claim Iran war delayed Taiwan arms sale",
+      "desc": "Defense Secretary Pete Hegseth on Saturday pushed back against a statement from a U.S. military official that the Iran war has delayed a $14 billion arms sale to Taiwan.  Acting Navy Secretary Hung Ca",
+      "link": "https://thehill.com/policy/defense/5902335-pete-hegseth-trump-administration-taiwan-arms-sale-iran-war/",
+      "date": "May 30, 2026",
+      "rawDate": "Sat, 30 May 2026 12:45:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lead bartender at North America’s top bar in New York hails from Ann Arbor",
+      "desc": "Victoria Garcia was 19 when she first moved to New York to be a model. Now 29, she brought her bartending skills to Echelon Kitchen and Bar.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/lead-bartender-at-north-americas-top-bar-in-new-york-hails-from-ann-arbor.html",
+      "date": "May 30, 2026",
+      "rawDate": "Sat, 30 May 2026 11:30:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Navy plans to use Ford-class aircraft carrier to power Naval Station Norfolk",
+      "desc": "The U.S. Navy is planning to use the nuclear-powered U.S.S. Gerald R. Ford to help charge Naval Station Norfolk, in an effort to provide a reliable source of power for energy resilience and mission as",
+      "link": "https://thehill.com/policy/defense/5902199-navy-norfolk-virginia-ford-class-aircraft-carrier/",
+      "date": "May 30, 2026",
+      "rawDate": "Sat, 30 May 2026 11:16:47 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth",
       "desc": "Kane Parsons was just 16 years old when he created a viral YouTube horror series based on a 4chan meme. Now he’s ready to conquer the big screen.",
@@ -102,7 +129,7 @@
     },
     {
       "title": "White House memo says Trump &#039;remains in excellent health&#039; after physical",
-      "desc": "President Trump \"remains in excellent health,” his physician wrote in a memo released by the White House late Friday following the president's annual physical exam earlier this week. Trump visited Wal",
+      "desc": "President Trump \"remains in excellent health,” his physician wrote in a memo released by the White House late Friday following Trump‘s annual physical and dental exam earlier this week. The president ",
       "link": "https://thehill.com/homenews/administration/5902211-trump-physical-report-released/",
       "date": "May 30, 2026",
       "rawDate": "Sat, 30 May 2026 03:40:19 +0000",
@@ -147,19 +174,10 @@
     },
     {
       "title": "Trump snubs Mace with endorsement of Pam Evette for South Carolina governor",
-      "desc": "President Trump endorsed a GOP challenger to Rep. Nancy Mace’s (R-S.C.) campaign for South Carolina governor on Friday, backing Lt. Gov. Pam Evette in the contest.  The president lauded Evette as an “",
+      "desc": "President Trump endorsed a GOP challenger to Rep. Nancy Mace’s (R-S.C.) campaign for South Carolina governor on Friday, backing Lt. Gov. Pam Evette in the contest.  The president lauded Evette as an “",
       "link": "https://thehill.com/homenews/campaign/5902146-trump-endorses-pam-evette-over-mace/",
       "date": "May 30, 2026",
       "rawDate": "Sat, 30 May 2026 00:45:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Judge agrees to reopen Trump’s $10B IRS case for further scrutiny",
-      "desc": "A federal judge in Florida agreed to reopen President Trump’s bid to sue the IRS for $10 billion, siding with intervenors who said a settlement to create an “anti-weaponization” fund tainted the case.",
-      "link": "https://thehill.com/regulation/court-battles/5902065-trump-irs-lawsuit-reopened/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 23:02:44 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -173,24 +191,6 @@
       "tag": "safety"
     },
     {
-      "title": "Talarico leads Paxton by 3 points in Texas Senate race post-runoff poll",
-      "desc": "The Democratic candidate in the Texas Senate race has a slight edge over his Republican opponent in a new poll released Friday.   Forty-seven percent of likely general election voters in the state bac",
-      "link": "https://thehill.com/homenews/campaign/5902035-texas-senate-race-poll/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 22:49:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bessent: &#8216;President Trump should be on&#8217; $250 bill",
-      "desc": "Treasury Secretary Scott Bessent on Friday endorsed a $250 bill to commemorate the U.S. semiquincentennial featuring President Trump.  Larry Kudlow, a conservative contributor for Fox Business, asked ",
-      "link": "https://thehill.com/homenews/administration/5901929-bessent-president-trump-should-be-on-250-bill/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 22:01:56 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Pentagon&#039;s $9B Dell deal sparks Trump conflict of interest concerns",
       "desc": "The Pentagon’s new $9.7 billion contract with Dell is raising questions about potential conflicts of interest after President Trump touted the company’s products and purchased significant amounts of i",
       "link": "https://thehill.com/policy/technology/5901889-pentagon-dell-deal-trump-conflict-of-interest/",
@@ -198,15 +198,6 @@
       "rawDate": "Fri, 29 May 2026 21:41:29 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Pentagon&#8217;s $9B Dell deal sparks Trump conflict of interest concerns",
-      "desc": "The Pentagon’s new $9.7 billion contract with Dell is raising questions about potential conflicts of interest after President Trump touted the company’s products and purchased significant amounts of i",
-      "link": "https://thehill.com/policy/technology/5901889-pentagon-dell-deal-trump-conflict-of-interest/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 21:41:29 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Randy Houser performs for Genesee County Jail inmates as IGNITE expands to fifth floor",
@@ -461,15 +452,6 @@
       "tag": "safety"
     },
     {
-      "title": "Kalamazoo brewery, taproom will continue to operate as landlord puts building on market",
-      "desc": "The building that houses Apoptosis Brewing Company, at 3811 S. Westnedge Ave. was officially listed for sale on Friday, May 29.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-brewery-taproom-will-continue-to-operate-as-landlord-puts-building-on-market.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 15:22:32 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Ohio data center tax break suspended amid battle over paying cost for AI power",
       "desc": "Ohio Gov. Mike DeWine (R) suspended the state's tax exemption for new data centers, which has drawn developers of the power facilities to the Buckeye State amid the boom of artificial intelligence. De",
       "link": "https://thehill.com/homenews/state-watch/5900974-data-center-tax-exemption-ohio-mike-dewine/",
@@ -477,15 +459,6 @@
       "rawDate": "Fri, 29 May 2026 14:41:20 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Walmart expands 30-minute delivery service to 33 markets",
-      "desc": "Customers in select markets can shop for more than 100,000 eligible items that can be delivered in as little as 30 minutes.",
-      "link": "https://www.mlive.com/news/2026/05/walmart-expands-30-minute-delivery-service-to-33-markets.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 14:31:37 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Fire forces Auburn Greenhouses to close for 2026 season",
@@ -781,17 +754,8 @@
       "link": "https://thehill.com/business/5898642-google-employee-insider-trading/",
       "date": "May 28, 2026",
       "rawDate": "Thu, 28 May 2026 03:13:01 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US military struck Iran&#039;s ground control station; shot down 4 drones",
-      "desc": "The U.S. military intercepted and shot down four Iranian one-way attack drones and struck an Iranian ground control station in Bandar Abbas that was about to launch a fifth drone, a U.S. official, spe",
-      "link": "https://thehill.com/policy/defense/5898570-us-military-intercepts-iranian-drones/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 00:20:15 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "US &#039;disappointed&#039; after Netherlands blocks takeover of online ID platform",
@@ -900,15 +864,6 @@
       "rawDate": "Wed, 27 May 2026 17:05:05 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "See 125 photos from Saginaw United’s 2026 commencement",
-      "desc": "The ceremony at The Dow Event Center included a tribute to Deon Wiley III, who died in an unsolved shooting days before graduation.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/05/see-125-photos-from-saginaw-uniteds-2026-commencement.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 17:00:57 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Trump appoints former Attorney General Pam Bondi to White House science panel",

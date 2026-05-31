@@ -1,6 +1,33 @@
 {
-  "generated": "2026-05-31T11:28:59.047Z",
+  "generated": "2026-05-31T13:20:10.767Z",
   "news": [
+    {
+      "title": "Newark mayor orders curfew around Delaney Hall as protesters, police clash",
+      "desc": "Newark Mayor Ras Baraka (D) on Sunday ordered a curfew around an immigration detention center in the city where protesters and law enforcement officers have clashed for days. “To ensure the safety and",
+      "link": "https://thehill.com/homenews/state-watch/5902915-newark-mayor-orders-curfew-delaney-hall/",
+      "date": "May 31, 2026",
+      "rawDate": "Sun, 31 May 2026 12:19:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo to welcome Michigan’s first QuikTrip as company closes on property",
+      "desc": "A shuttered restaurant building will be torn down to make way for the new gas station and convenience store.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/05/kalamazoo-to-welcome-michigans-first-quiktrip-as-company-closes-on-property.html",
+      "date": "May 31, 2026",
+      "rawDate": "Sun, 31 May 2026 12:05:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Local college welder to be first woman representing U.S. at international contest",
+      "desc": "Mikala Sposito, 21, earned her spot after winning national trials and is now training intensively for September’s WordSkills competition in Shanghai. She's a Washtenaw Community College student and De",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/05/local-college-welder-to-be-first-woman-representing-us-at-international-contest.html",
+      "date": "May 31, 2026",
+      "rawDate": "Sun, 31 May 2026 12:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
       "desc": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
@@ -135,24 +162,6 @@
       "rawDate": "Sat, 30 May 2026 19:52:11 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "White House denies NYT report alleging Wiles urged Vance to take social media break",
-      "desc": "The White House on Saturday denied a report by The New York Times alleging chief of staff Susie Wiles advised Vice President Vance to step back from social media, calling it “complete fake news.” “Thi",
-      "link": "https://thehill.com/homenews/administration/5902621-white-house-denies-nyt-report-alleging-wiles-urged-vance-to-take-social-media-break/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 19:48:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Pratt says he doesn’t need ‘anyone’s endorsement’ after Trump backs his LA mayor bid",
-      "desc": "Los Angeles mayoral candidate Spencer Pratt has brushed aside a possible endorsement from President Trump, saying national politics has no place in local elections. “I don’t need anyone’s endorsement ",
-      "link": "https://thehill.com/homenews/campaign/5902589-spencer-pratt-trump-endorsement/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 19:03:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Hegseth walks tightrope on China, urging Asian allies to share burden against threats",
@@ -515,15 +524,6 @@
       "tag": "health"
     },
     {
-      "title": "Beloved burger chain sells 30 company-owned restaurants in $23.5 million deal",
-      "desc": "The cash from the sale will be used to pay down debt as part of the company's ongoing plan to drive shareholder value.",
-      "link": "https://www.mlive.com/business/2026/05/beloved-burger-chain-sells-30-company-owned-restaurants-in-235-million-deal.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 17:15:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Utah man arrested in Brighton child abduction attempt",
       "desc": "The 21-year-old suspect allegedly approached an 8-year-old girl on Rosemary Lane and asked her to go into the woods for \"a surprise\" before fleeing",
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/utah-man-arrested-in-brighton-child-abduction-attempt.html",
@@ -873,15 +873,6 @@
       "rawDate": "Wed, 27 May 2026 20:55:23 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Fired University of Michigan professor now suing over alleged discrimination",
-      "desc": "Scott Piper was a professor and chair of the voice department at the UM School of Music, Theatre and Dance before he was fired last July.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/fired-university-of-michigan-professor-now-suing-over-alleged-discrimination.html",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 19:13:47 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Massachusetts becomes first state to recognize union for Uber, Lyft drivers",

@@ -1,30 +1,75 @@
 {
-  "generated": "2026-06-01T20:51:53.090Z",
+  "generated": "2026-06-01T22:57:45.649Z",
   "news": [
+    {
+      "title": "Powell&#039;s warning",
+      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Powell warns of political pressure on Fed Former Federal Reserv",
+      "link": "https://thehill.com/newsletters/business-economy/5904912-powells-warning/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 22:54:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Optimism over US-Iran deal fades; Trump scrambles to secure Lebanon truce",
+      "desc": "The optimism that President Trump projected last week toward securing a deal with Iran to reopen the Strait of Hormuz has quickly faded, with Tehran on Monday suspending talks in protest of Israel’s p",
+      "link": "https://thehill.com/homenews/administration/5904862-trump-iran-deal-fades-lebanon/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 22:34:35 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "The Memo: Do voters care about the Graham Platner sexting furor?",
+      "desc": "The compelling but controversial candidacy of Maine Democrat Graham Platner has taken yet another turn with little more than a week left before the Senate primary in the Pine Tree State. Platner is en",
+      "link": "https://thehill.com/homenews/campaign/5904793-platner-sexting-furore-maine-senate/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 22:01:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Sexting scandal is latest Graham Platner controversy to threaten his chances in Maine",
+      "desc": "A sexting scandal is threatening to torpedo the insurgent Senate campaign of Democrat Graham Platner, who may represent the party’s best chance of ousting longtime GOP incumbent Sen. Susan Collins (Ma",
+      "link": "https://thehill.com/homenews/senate/5904697-sexting-scandal-threatens-platner-senate-bid/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 21:44:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump issues final rule requiring most Medicaid beneficiaries to work",
+      "desc": "A new final rule from the Trump administration will require most Medicaid beneficiaries between the ages of 19 and 64 to prove they work, complete community service, or participate in a work program t",
+      "link": "https://thehill.com/policy/healthcare/5904780-medicaid-beneficiaries-work-requirements/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 21:35:18 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Rights groups allege abuses at largest US immigration detention center",
+      "desc": "Human rights groups, including the American Civil Liberties Union (ACLU), on Friday filed a lawsuit accusing Immigration and Customs Enforcement (ICE) of abuse and \"inhumane conditions\" at Camp East M",
+      "link": "https://thehill.com/regulation/court-battles/5904627-ice-detention-abuses-lawsuit/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 21:16:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pentagon designates press office as off-limits to journalists",
+      "desc": "The Pentagon has barred reporters from entering the building’s press office and designated the facility as a classified space, curtailing access to an area within the department that journalists have ",
+      "link": "https://thehill.com/policy/defense/5904725-pentagon-bars-reporters-press-office/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 21:14:29 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Mills reminds Maine voters she&#039;s on ballot amid Platner sexting story",
       "desc": "Maine Gov. Janet Mills (D) on Monday reminded voters that she’s on the ballot for the Democratic Senate primary in the Pine Tree State as they weigh the fallout from reports of Graham Platner sexting ",
       "link": "https://thehill.com/homenews/campaign/5904650-maine-mills-senate-primary-platner/",
       "date": "Jun 1, 2026",
       "rawDate": "Mon, 01 Jun 2026 20:46:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Southwest walks back part of its plus-size seating policy, but advocacy group says it&#039;s not enough",
-      "desc": "Southwest Airlines is apparently rethinking its guidelines for plus-size travelers, walking back a key part of the new seating policy just months after implementation.",
-      "link": "https://thehill.com/policy/transportation/5904489-southwest-walks-back-part-of-its-plus-size-seating-policy-but-advocacy-group-says-its-not-enough/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 20:42:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Head of GOP women&#039;s caucus: &#039;Billion-dollar-plus slush fund&#039; not answer to weaponization",
-      "desc": "GOP Rep. Kat Cammack (Fla.) on Monday morning criticized the Trump administration’s $1.776 billion “anti-weaponization” fund, which the administration scrapped later in the day after intense backlash ",
-      "link": "https://thehill.com/homenews/house/5904516-cammack-trump-anti-weaponization-fund/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 20:40:20 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -56,33 +101,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump administration walks away from anti-weaponization fund",
-      "desc": "The Trump administration will scrap its nearly $1.8 billion “anti-weaponization” fund amid pushback from GOP members of Congress and a lingering court battle demanding an explanation for the arrangeme",
-      "link": "https://thehill.com/homenews/administration/5904594-trump-administration-scraps-anti-weaponization-fund/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 20:00:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Oregon governor halts undercover license plates for ICE",
-      "desc": "Oregon Gov. Tina Kotek (D) has halted Immigration and Customs Enforcement’s (ICE) ability to acquire undercover license plates. According to a release from her press office, the Oregon Driver and Moto",
-      "link": "https://thehill.com/homenews/state-watch/5904548-oregon-halts-ice-license-plates/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 19:43:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Thune calls on White House to ditch $1.8B anti-weaponization fund",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) told reporters at the Capitol on Monday that his preference would be that the White House shut down the proposed $1.8 billion so-called anti-weaponization fu",
-      "link": "https://thehill.com/homenews/senate/5904547-thune-opposes-anti-weaponization-fund/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 19:30:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "University of Michigan library wins statewide energy award for reducing carbon emissions",
       "desc": "The A. Alfred Taubman Health Sciences Library in Ann Arbor achieved a 23% year-over-year energy reduction rate.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-library-wins-statewide-energy-award-for-reducing-carbon-emissions.html",
@@ -90,15 +108,6 @@
       "rawDate": "Mon, 01 Jun 2026 19:10:33 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Kash Patel girlfriend alleges MS Now defamed her",
-      "desc": "Alexis Wilkins, the girlfriend of FBI director Kash Patel filed a lawsuit this week against MS Now, arguing the outlet defamed her with a report it published last year alleging Patel directed a securi",
-      "link": "https://thehill.com/homenews/media/5904461-kash-patel-girlfriend-defamation-lawsuit/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 18:55:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "These 4 companies planned nearly 900 Michigan layoffs in May",
@@ -119,15 +128,6 @@
       "tag": "safety"
     },
     {
-      "title": "Tina Peters doubles down on debunked election claims hours after release",
-      "desc": "Former Mesa County, Colo., elections clerk Tina Peters, hours after she was released from prison on Monday, doubled down on her debunked claims about the outcome of the 2020 presidential election. Pet",
-      "link": "https://thehill.com/homenews/state-watch/5904308-peters-prison-release-2020-election/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 18:49:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Moderna gets $50M investment for Ebola vaccine candidate",
       "desc": "Global health foundation Coalition for Epidemic Preparedness Innovations (CEPI) will invest $50 million to support development and initial clinical testing of Moderna's investigational vaccine against",
       "link": "https://thehill.com/policy/healthcare/5904431-ebola-vaccine-moderna-cepi/",
@@ -142,8 +142,8 @@
       "link": "https://thehill.com/policy/defense/5904405-transgender-troop-ban-court-hegseth/",
       "date": "Jun 1, 2026",
       "rawDate": "Mon, 01 Jun 2026 18:41:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Man seeks to withdraw pleas of raping, killing Birch Run woman in 2003 cold case",
@@ -668,24 +668,6 @@
       "tag": "health"
     },
     {
-      "title": "US military kills 3 in latest strike on suspected drug boat in eastern Pacific",
-      "desc": "The U.S. military on Friday killed three men in its latest strike on a boat accused of carrying drugs in the eastern Pacific Ocean. U.S. Southern Command (Southcom) wrote in a post on the social platf",
-      "link": "https://thehill.com/policy/defense/5902179-southcom-strikes-suspected-drug-boat/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 02:18:18 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Southcom commander meets with Cuban military officials as Trump amps up pressure on island",
-      "desc": "The head of U.S. Southern Command (Southcom) met with senior leaders of the Cuban military on Friday amid heightened tensions between the two countries' governments.  Commander Gen. Francis L. Donovan",
-      "link": "https://thehill.com/policy/defense/5902181-us-southcom-cuba-military-talks/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 01:51:42 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "‘What we are is together’: Grand Blanc grads reflect on high school days while looking ahead",
       "desc": "“Class of 2026, no matter where life takes you, I hope you always keep that with you. Keep building communities, keep choosing people, keep redefining what success truly means, and keep always strivin",
       "link": "https://www.mlive.com/news/flint/2026/05/what-we-are-is-together-grand-blanc-grads-reflect-on-high-school-days-while-looking-ahead.html",
@@ -765,15 +747,6 @@
       "rawDate": "Fri, 29 May 2026 14:41:20 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Trump&#039;s baby boom goal sees few signs of progress",
-      "desc": "More than one year into the second term of President Trump, who declared he would be the “fertilization president,” experts say becoming a parent hasn’t become easier, and the number of people who wan",
-      "link": "https://thehill.com/policy/healthcare/5898372-trump-fertilization-policies-birth-rates/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test",

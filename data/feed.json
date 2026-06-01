@@ -1,23 +1,230 @@
 {
-  "generated": "2026-06-01T10:13:39.597Z",
+  "generated": "2026-06-01T16:32:47.921Z",
   "news": [
+    {
+      "title": "Who is pro-Trump Colombian presidential candidate Aberaldo de la Espriella?",
+      "desc": "Voters in Colombia are embracing a new conservative presidential candidate and political outsider in Aberaldo de la Espriella, who’s branded himself as the latest ally of President Trump in Latin Amer",
+      "link": "https://thehill.com/policy/international/5904067-aberaldo-de-la-espriella-colombia-trump/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 16:25:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Utah man charged for trying to lure girl into woods near Brighton",
+      "desc": "The man, accused of a felony, was arraigned over the weekend in Livingston County.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/utah-man-charged-for-trying-to-lure-girl-into-woods-near-brighton.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 16:07:05 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "US moves to close potential AI chip sales loophole",
+      "desc": "The Trump administration is moving to close a potential loophole in U.S. export restrictions, clarifying that a license is needed to sell advanced AI chips to firms with Chinese parent companies even ",
+      "link": "https://thehill.com/policy/technology/5903991-us-moves-to-close-potential-ai-chip-sales-loophole/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 15:57:07 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "CMU student pleads guilty to embezzling $27,000 from fraternity, athletics club",
+      "desc": "Elliott Darr, 20, admitted to using organization debit cards for rent, veterinary bills, tuition, and personal expenses over nearly a year.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/cmu-student-pleads-guilty-to-embezzling-27000-from-fraternity-athletics-club.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 15:46:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "US kills 3 in fourth strike on alleged drug boat in a week",
+      "desc": "The U.S. military over the weekend carried out another strike on a boat it claimed was carrying drugs in the eastern Pacific Ocean, killing three men aboard in the fourth such attack within a week. U.",
+      "link": "https://thehill.com/policy/defense/5904030-us-military-strikes-drug-boat/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 15:45:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "1 injured in Ypsilanti shooting",
+      "desc": "The man is in stable condition.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/1-injured-in-ypsilanti-shooting.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 15:39:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Using AI for just minutes reduces focus and persistence, new study warns",
+      "desc": "A study conducted by scientists found AI can compromise cognitive function and problem-solving abilities in a relatively short period.",
+      "link": "https://thehill.com/policy/technology/5903891-ai-mental-health-study/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 15:19:26 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Flint-area flight instructor changes attorneys as hidden camera case nears trial",
+      "desc": "A Flint-area flight instructor accused of secretly recording women in a hangar bathroom changed attorneys as his case heads toward trial.",
+      "link": "https://www.mlive.com/news/flint/2026/06/flint-area-flight-instructor-changes-attorneys-as-hidden-camera-case-nears-trial.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 15:16:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Becerra holds 6-point lead as Californians prepare to vote for governor",
+      "desc": "A new poll shows former Health and Human Services Secretary Xavier Becerra (D) holding a 6-point lead as the frontrunner in the final days leading up to the June 2 California gubernatorial primary rac",
+      "link": "https://thehill.com/homenews/campaign/5903751-becerra-leads-california-gubernatorial-race/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:58:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan gas prices are dipping. Here’s why the trend could soon reverse",
+      "desc": "Prices fell 26 cents in a week but remain $1.27 higher than last year, with uncertainty surrounding U.S.-Iran talks and continued geopolitical tensions affecting the oil market.",
+      "link": "https://www.mlive.com/news/2026/06/michigan-gas-prices-are-dipping-heres-why-the-trend-could-soon-reverse.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:48:27 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Iran halts ceasefire talks with US, says it will keep Strait of Hormuz closed",
+      "desc": "Iran has accused the Trump administration of ceasefire violations and will move to close the Strait of Hormuz and stop exchanging messages with the U.S. through intermediaries, Iran’s state-affiliated",
+      "link": "https://thehill.com/policy/defense/5903844-iran-accuses-trump-ceasefire-violations/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:44:25 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Senate Democrat defends Platner despite &#039;mistakes&#039; in personal life",
+      "desc": "Sen. Chris Murphy (D-Conn.) on Sunday defended Maine Senate candidate Graham Platner amid a string of controversies, including a new bombshell report about him sending sexually explicit texts to women",
+      "link": "https://thehill.com/homenews/senate/5903805-murphy-backs-platner-senate-race/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:33:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Powell warns against political pressure on Fed",
+      "desc": "Former Federal Reserve Chair Jerome Powell on Sunday warned against political pressure on the central bank, saying it \"has been undergoing a stress test.” “If any administration finds a way to remove ",
+      "link": "https://thehill.com/business/5903759-powell-warns-fed-independence/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:32:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flint workshop teaches entrepreneurs to pitch effectively",
+      "desc": "The Flint & Genesee Small Business Support Hub will host a free evening event this month designed to help entrepreneurs turn their business visions into compelling narratives that attract funding and ",
+      "link": "https://www.mlive.com/news/flint/2026/06/flint-workshop-teaches-entrepreneurs-to-pitch-effectively.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:29:20 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Saginaw high-rise apartment shooting leaves woman wounded, man jailed",
+      "desc": "A 33-year-old man was arrested after allegedly shooting his neighbor during a dispute within Rosien Towers on South Harrison Street.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-high-rise-apartment-shooting-leaves-woman-wounded-man-jailed.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:28:46 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Long-awaited brewery opens in Bay City, new Dairy Queen coming to Saginaw County and more business news",
+      "desc": "Learn more about these stories and other Saginaw and Bay City area business news with these recent headlines.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/long-awaited-brewery-opens-in-bay-city-new-dairy-queen-coming-to-saginaw-county-and-more-business-news.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 14:02:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Detroit man charged in kidnapping, armed robbery case",
+      "desc": "The charges stem from a May 24 incident that happened at People’s Market in Pontiac.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/detroit-man-charged-in-kidnapping-armed-robbery-case.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 13:56:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan entrepreneurs can now win more than $500K from this revamped Grand Rapids competition",
+      "desc": "After eight years of focusing on new business ideas, The 100 now supports existing businesses alongside startups. The program has connected more than 800 Michigan founders with resources since incepti",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/michigan-entrepreneurs-can-now-win-more-than-500k-from-this-revamped-grand-rapids-competition.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 13:53:06 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Nvidia bets on AI personal computers with new &#039;superchip&#039; powering Windows laptops",
+      "desc": "TAIPEI, Taiwan (AP) — Nvidia on Monday unveiled new powerful chips that would bring advanced artificial intelligence functions into laptops and desktop computers, with the new personal computer models",
+      "link": "https://thehill.com/policy/technology/nvidia-ai-chip-personal-computers/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 13:51:34 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Shooting within Baytown Family Neighborhood leaves Saginaw man wounded",
+      "desc": "The shooting occurred near where a 26-year-old man was fatally shot in October 2024.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/shooting-within-baytown-family-neighborhood-leaves-saginaw-man-wounded.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 13:30:34 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "MillerKnoll CEO who told workers to ‘leave pity city’ to retire",
+      "desc": "The head of Zeeland-based furniture maker MillerKnoll plans to leave the company end of the month.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/millerknoll-ceo-who-told-workers-to-leave-pity-city-to-retire.html",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 12:59:16 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Google wants to release up to 32 million &#039;good&#039; mosquitoes in California and Florida",
+      "desc": "When you think of Google “debugging” something, you probably think of software – not actual bugs.",
+      "link": "https://thehill.com/policy/technology/5903579-google-mosquito-debugging-program/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 12:11:32 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "US bombs radar, drone sites in Iran",
+      "desc": "The U.S. military over the weekend struck radar and drone sites in Iran, U.S. Central Command (Centcom) said late Sunday. “U.S. Central Command (CENTCOM) conducted self-defense strikes on Iranian rada",
+      "link": "https://thehill.com/policy/defense/5903614-us-military-strikes-iran/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 11:45:35 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "desc": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.",
+      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+      "date": "Jun 1, 2026",
+      "rawDate": "Mon, 01 Jun 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Trump’s Iran peace deal pits Republican vs. Republican",
       "desc": "President Trump’s serious consideration of a peace deal with Iran that would open the Strait of Hormuz but also ease sanctions on Iran, a longtime U.S. adversary, is pitting Republican against Republi",
       "link": "https://thehill.com/homenews/senate/5901912-trump-iran-peace-deal-senate-republicans/",
       "date": "Jun 1, 2026",
       "rawDate": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "This week on the Hill: Reconciliation bill runs up against Republican infighting",
-      "desc": "Monday was supposed to be the deadline for getting an immigration enforcement funding package on President Trump’s desk.   Instead, the Senate will return Monday evening, preparing for a showdown over",
-      "link": "https://thehill.com/homenews/senate/5901961-reconciliation-immigration-war-powers-iran-fisa/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Hackers more focused on misleading voters than ballot tampering: Report",
@@ -25,8 +232,8 @@
       "link": "https://thehill.com/policy/technology/5903411-ai-amplified-misinformation-voter/",
       "date": "Jun 1, 2026",
       "rawDate": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Trump wades into GOP fight over prediction market regulation",
@@ -34,8 +241,8 @@
       "link": "https://thehill.com/policy/technology/5901031-trump-supports-prediction-markets/",
       "date": "Jun 1, 2026",
       "rawDate": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "The Painful Truth About Long Covid",
@@ -54,42 +261,6 @@
       "rawDate": "Mon, 01 Jun 2026 09:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Paxton set to meet with Thune after Cornyn loss",
-      "desc": "Texas Attorney General Ken Paxton (R) on Sunday said he will meet with Senate Majority Leader John Thune (R) after winning the GOP runoff to replace incumbent Sen. John Cornyn.  Since beating Cornyn, ",
-      "link": "https://thehill.com/homenews/campaign/5903466-texas-ag-ken-paxton-senate/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 01:50:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump responds to NYT article, says it&#039;s &#039;very good&#039; administration is losing legal talent",
-      "desc": "President Trump on Sunday said it is \"very good\" that thousands of lawyers have chosen to no longer work for the administration, referring to The New York Times's reporting on the exodus. The Times st",
-      "link": "https://thehill.com/homenews/administration/5903296-lawyers-leaving-trump-administration/",
-      "date": "May 31, 2026",
-      "rawDate": "Sun, 31 May 2026 22:12:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Pence: There’s ‘clearly&#039; been an effort to ‘rewrite’ Jan. 6 history",
-      "desc": "Former Vice President Mike Pence on Sunday said there has “clearly” been an effort to “rewrite” the history of the Jan. 6, 2021, Capitol riot. “Look, I'm very confident that of the judgment of history",
-      "link": "https://thehill.com/homenews/administration/5903309-mike-pence-capitol-riot-rewrite/",
-      "date": "May 31, 2026",
-      "rawDate": "Sun, 31 May 2026 21:34:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Republicans battle déjà vu as they return to tackle reconciliation bill, FISA extension",
-      "desc": "Republicans on Capitol Hill are battling a bad case of déjà vu, as intraparty disputes over an immigration enforcement funding package and an extension of the government’s warrantless spying powers ha",
-      "link": "https://thehill.com/homenews/house/5901883-republicans-immigration-reconciliation-fisa/",
-      "date": "May 31, 2026",
-      "rawDate": "Sun, 31 May 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Senate Democrat: Iran is &#039;stronger&#039; than before war",
@@ -344,38 +515,11 @@
       "tag": "safety"
     },
     {
-      "title": "‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth",
+      "title": "‘Backrooms’ Takes You Deeper Inside the Internet���s Most Uncanny Horror Myth",
       "desc": "Kane Parsons was just 16 years old when he created a viral YouTube horror series based on a 4chan meme. Now he’s ready to conquer the big screen.",
       "link": "https://www.wired.com/story/backrooms-movie-kane-parsons-interview/",
       "date": "May 30, 2026",
       "rawDate": "Sat, 30 May 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Want to open a business? Here are 18 downtown Ann Arbor spaces up for sale, lease",
-      "desc": "Some listings start at $20 per square foot annually, whereas others come for several millions of dollars for sale.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/want-to-open-a-business-here-are-18-downtown-ann-arbor-spaces-up-for-sale-lease.html",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 11:00:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
-      "desc": "With inflation and gas prices rising, I’m trying to save money wherever I can. I tested Tello’s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
-      "link": "https://www.wired.com/review/tello-mobile-custom-plans/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 10:39:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow",
-      "desc": "Plus: A ransomware group is now stealing data in person, BusPatrol wants to hand its license plate surveillance data to the cops, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -396,15 +540,6 @@
       "rawDate": "Sat, 30 May 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Do You Actually Need to Pay for Transcription Software?",
-      "desc": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
-      "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "White House memo says Trump &#039;remains in excellent health&#039; after physical",
@@ -470,15 +605,6 @@
       "tag": "safety"
     },
     {
-      "title": "17-year-old charged with murder in fatal Grand Rapids stabbing",
-      "desc": "A 17-year-old was charged with second-degree murder after a fatal stabbing that killed a recent high school graduate in Grand Rapids.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/05/17-year-old-charged-with-murder-in-fatal-grand-rapids-stabbing.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 21:15:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say",
       "desc": "BUCHAREST, Romania (AP) — A Russian drone that was part of an attack on Ukraine went astray and struck an apartment building in eastern Romania, injuring two people in the NATO member country, Romania",
       "link": "https://thehill.com/policy/international/romania-russia-drone-ukraine/",
@@ -506,24 +632,6 @@
       "tag": "education"
     },
     {
-      "title": "Bulgaria to end US military aircraft stay after visa program dispute",
-      "desc": "Bulgarian Prime Minister Rumen Radev said ​Friday that his country will cut the stay of the U.S. military aircraft in Sofia at the end of June after the Trump administration did not greenlight a visa-",
-      "link": "https://thehill.com/policy/defense/5901808-radev-ends-us-military-aircraft/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 20:09:15 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Driver who crashed into DTW terminal said he wanted to ‘save his dad’ from Tom Cruise",
-      "desc": "The vehicle crashed through the entrance at Door 4 on the departures level of the Warren C. Evans Terminal.",
-      "link": "https://www.mlive.com/news/detroit/2026/05/driver-who-crashed-into-dtw-terminal-said-he-wanted-to-save-his-dad-from-tom-cruise.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 20:02:16 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "UnitedHealthcare removing prior approval for most pediatric services",
       "desc": "Insurance giant UnitedHealthcare said it will drastically cut down its prior authorization requirements for pediatric care, as the company further scales back a process that physicians say adds an unn",
       "link": "https://thehill.com/policy/healthcare/5901791-unitedhealthcare-prior-authorization-changes/",
@@ -542,15 +650,6 @@
       "tag": "health"
     },
     {
-      "title": "Mt. Morris Township man who stabbed victim to death seeks release from prison",
-      "desc": "A Mt. Morris Township man is asking the Michigan Parole Board to release him from prison 25 years after he was sentenced for stabbing a Flint man to death.",
-      "link": "https://www.mlive.com/news/flint/2026/05/mt-morris-township-man-who-stabbed-victim-to-death-seeks-release-from-prison.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 18:59:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Flint adjusts budget by $3M to cover court judgments against police",
       "desc": "The city of Flint will transfer $3 million from its general fund to pay for two court judgments and the cost of outside legal help.",
       "link": "https://www.mlive.com/news/flint/2026/05/flint-adjusts-budget-by-3m-to-cover-court-judgments-against-police.html",
@@ -560,33 +659,6 @@
       "tag": "government"
     },
     {
-      "title": "Family cat dies in wildlife trap as humane society warns of dangers",
-      "desc": "A Chelsea man’s cat died after becoming caught in a neighbor’s steel-jawed leghold trap, prompting the Humane Society of Huron Valley to warn residents about the dangers of inhumane wildlife control m",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/family-cat-dies-in-wildlife-trap-as-humane-society-warns-of-dangers.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 18:28:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Michigan Walmart stabbing spree suspect found competent to stand trial",
-      "desc": "The suspect, who was initially found incompetent to stand trial after last year's attack, was sent to the state Center for Forensic Psychiatry in Saline for treatment.",
-      "link": "https://www.mlive.com/news/2026/05/michigan-walmart-stabbing-spree-suspect-found-competent-to-stand-trial.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 17:45:35 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Car crashes into Detroit Metro Airport for second time this year",
-      "desc": "No serious injuries were reported, according to an official.",
-      "link": "https://www.mlive.com/news/detroit/2026/05/car-crashes-into-detroit-metro-airport-for-second-time-this-year.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 17:37:20 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "JFK Airport to screen airline passengers from Ebola outbreak nations",
       "desc": "John F. Kennedy International Airport in New York City will now begin enhanced Ebola screenings for travelers arriving from countries affected by the ongoing outbreak in Central and East Africa, the C",
       "link": "https://thehill.com/policy/healthcare/5901477-ebola-screening-jfk-cdc/",
@@ -594,33 +666,6 @@
       "rawDate": "Fri, 29 May 2026 17:30:05 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Utah man arrested in Brighton child abduction attempt",
-      "desc": "The 21-year-old suspect allegedly approached an 8-year-old girl on Rosemary Lane and asked her to go into the woods for \"a surprise\" before fleeing",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/utah-man-arrested-in-brighton-child-abduction-attempt.html",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 17:02:17 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Esper: US-Iran deal would lift &#039;pressure on both sides&#039; over energy prices, Strait of Hormuz closure",
-      "desc": "Former Defense Secretary Mark Esper on Friday said he believes a memorandum of understanding (MOU) between the U.S. and Iran — meant to get the two countries to an eventual peace deal — would lift “pr",
-      "link": "https://thehill.com/policy/defense/5901317-esper-iran-negotiations-strait/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 16:06:18 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Guatemala president denies deal with US on striking suspected drug groups",
-      "desc": "Guatemalan President Bernardo Arévalo on Thursday denied that his country has agreed to carry out joint anti-drug trafficking strikes with the U.S. military on Guatemalan soil, but he confirmed a coll",
-      "link": "https://thehill.com/policy/defense/5901190-guatemala-denies-joint-us-strikes-deal/",
-      "date": "May 29, 2026",
-      "rawDate": "Fri, 29 May 2026 15:24:51 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Ohio data center tax break suspended amid battle over paying cost for AI power",
@@ -821,15 +866,6 @@
       "tag": "education"
     },
     {
-      "title": "Experimental hepatitis B drug may offer &#039;functional cure&#039; for some patients",
-      "desc": "WASHINGTON (AP) — A first-of-its-kind drug for hepatitis B is letting some patients stop treatment without showing signs of the dangerous liver virus, what’s called a “functional cure,” researchers re",
-      "link": "https://thehill.com/homenews/ap/ap-science/experimental-hepatitis-b-drug-functional-cure/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 13:25:40 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "More than half of Wayne County residents say they’d like to move elsewhere, survey finds",
       "desc": "Among the findings, Detroit residents reported significantly lower satisfaction rates with schools, healthcare access, jobs and affordable housing compared to regional and national averages.",
       "link": "https://www.mlive.com/news/2026/05/more-than-half-of-wayne-county-residents-say-theyd-like-to-move-elsewhere-survey-finds.html",
@@ -837,42 +873,6 @@
       "rawDate": "Thu, 28 May 2026 12:59:58 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Ebola spreads as concerns grow over US response",
-      "desc": "An Ebola outbreak in the Congo is fast outpacing containment efforts in the region as questions and concerns mount in the U.S. over the Trump administration’s preparedness and response.  Health expert",
-      "link": "https://thehill.com/policy/healthcare/5898444-trump-administration-ebola-response/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Google employee charged with insider trading on Polymarket",
-      "desc": "Federal prosecutors on Wednesday charged a Google employee with insider trading on Polymarket.  In a seven-page complaint filed in federal court in the Southern District of New York (SNDY), the Depart",
-      "link": "https://thehill.com/business/5898642-google-employee-insider-trading/",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 03:13:01 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "US &#039;disappointed&#039; after Netherlands blocks takeover of online ID platform",
-      "desc": "The U.S. said Wednesday that it was “disappointed” in a decision by the Dutch government to block New York-based Kyndryl’s planned acquisition of a cloud services provider over concerns about national",
-      "link": "https://thehill.com/homenews/5898407-dutch-block-us-tech-acquisition/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 22:15:05 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Cyber attackers are hijacking Microsoft Outlook, Teams and 365 log-ins, FBI says",
-      "desc": "A new phishing tool is allowing cyber attackers to get access to Microsoft 365 users' accounts without even needing to know your password, the FBI said in a warning issued to the public on Thursday.",
-      "link": "https://thehill.com/policy/technology/5897640-cyber-attackers-are-hijacking-microsoft-outlook-teams-and-365-log-ins-fbi-says/",
-      "date": "May 27, 2026",
-      "rawDate": "Wed, 27 May 2026 21:34:16 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     }
   ]
 }

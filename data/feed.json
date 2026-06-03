@@ -1,37 +1,217 @@
 {
-  "generated": "2026-06-03T08:16:22.504Z",
+  "generated": "2026-06-03T13:10:23.673Z",
   "news": [
     {
-      "title": "Bass heads to runoff in Los Angeles mayoral race",
-      "desc": "Los Angeles Mayor Karen Bass (D) is slated to advance to the general election in her bid to hang on to her seat, Decision Desk HQ projected early Wednesday. Her opponent has yet to be determined. The ",
-      "link": "https://thehill.com/homenews/campaign/5907283-bass-los-angeles-mayor-election/",
+      "title": "Macomb County man arraigned on 20 felony counts, including child abuse",
+      "desc": "The suspect is scheduled to appear for a probable cause conference at the 41B District Court on Monday, June 8.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/macomb-county-man-arraigned-on-20-federal-charges-including-child-abuse.html",
       "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 06:21:16 +0000",
+      "rawDate": "Wed, 03 Jun 2026 13:01:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Congress must reject Trump&#039;s indefensible foreign affairs budget",
+      "desc": "The real-life consequences of these foreign policy decisions are cruel, devastating and shortsighted.",
+      "link": "https://thehill.com/opinion/congress-blog/economy-budget/5905898-draconic-cuts-foreign-policy/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 13:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Watch live: Nick Saban, others testify before Senate on protecting college sports",
+      "desc": "Former University of Alabama football coach Nick Saban and others will testify before the Senate Commerce, Science and Transportation Committee on Wednesday morning about college sports and how to pro",
+      "link": "https://thehill.com/video-clips/5907407-watch-live-nick-saban-ncaa-rules-college-sports-senate-hearing/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:57:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Doeden, Rhoden head to GOP runoff in South Dakota governor’s race",
+      "desc": "South Dakota’s crowded GOP primary for governor advanced to a July runoff on Tuesday after no candidate was able to secure at least 35 percent of the vote. Business owner Toby Doeden led the four-way ",
+      "link": "https://thehill.com/homenews/campaign/5907499-south-dakota-gop-governor-race-doeden-rhoden-runoff/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:56:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Rubio, Mullin return to Hill; Bass awaits runoff opponent in LA race",
+      "desc": "One of the busiest primary election nights in the cycle yielded some upset wins and changes of fortune. It's too early to call the full fields for California governor and Los Angeles mayor, though inc",
+      "link": "https://thehill.com/homenews/administration/5905933-live-updates-trump-rubio-primary-elections/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:45:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Key questions linger as California wraps up primaries",
+      "desc": "The closely watched primaries for California governor and Los Angeles mayor were too close to call early Wednesday as half a dozen states held key contests set to shape the November midterms.   Former",
+      "link": "https://thehill.com/homenews/campaign/5907437-california-gubernatorial-primaries-too-close/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:35:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Eastern Michigan students head to New York for national racing competition",
+      "desc": "The Ypsilanti team will hold a send-off event from 9 a.m. to 5 p.m. Tuesday, June 9, at the Jack E. Roush Automotive Lab in Sill Hall near Ann Arbor.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/eastern-michigan-students-head-to-new-york-for-national-racing-competition.html",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:30:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Booker to face off against Justin Murphy in New Jersey Senate race",
+      "desc": "Sen. Cory Booker (D-N.J.) is set to face off against GOP nominee Justin Murphy in November after both candidates secured victories in New Jersey’s Senate primaries Tuesday. Murphy, a Navy veteran and ",
+      "link": "https://thehill.com/homenews/campaign/5907440-cory-booker-justin-murphy-new-jersey-senate-race-2026/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:16:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iowa Senate race shifts toward Democrats after Turek win: Cook Political Report",
+      "desc": "The Cook Political Report late Tuesday shifted its rating of the Iowa Senate race toward Democrats, moving the needle from “likely Republican” to “lean Republican.” The shift comes after Democrats’ pr",
+      "link": "https://thehill.com/homenews/campaign/5907416-iowa-senate-race-josh-turek-cook-political-report-shift/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:04:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Obama-era judge in Atlanta under pressure over sex scandal",
+      "desc": "Pressure is growing on a federal judge after an investigation discovered she lied about being in an extramarital affair with a high-ranking police officer and having sex within earshot of her clerks. ",
+      "link": "https://thehill.com/newsletters/the-gavel/5906511-obama-era-judge-in-atlanta-under-pressure-over-sex-scandal/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats are outraising Republicans in 2026 — and it might not matter",
+      "desc": "Money matters immensely in campaign politics, but donor dollars are not destiny.",
+      "link": "https://thehill.com/opinion/campaign/5905830-gop-republicans-fundraising-strategy/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Senate we killed in 1913",
+      "desc": "The 17th Amendment didn't start the federal expansion of the past century, but it cleared the institutional space that made it possible.",
+      "link": "https://thehill.com/opinion/congress-blog/5905591-senate-election-federalism-impact/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 11:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Establishment Democrats notch key wins; GOP looking good in California",
+      "desc": "In today's issue: ▪ Republicans looking good in California  ▪ Trump’s DNI pick draws GOP backlash ▪ Blanche drops anti-weaponization fund ▪ Tariffs test farmers’ loyalty to Trump Republican candidates",
+      "link": "https://thehill.com/newsletters/morning-report/5907398-establishment-democrats-california-gop-wins-2026-primaries/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 11:20:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+      "desc": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "A Crash Course in Mountain Bike Suspension (2026)",
+      "desc": "How your front fork and rear shock work, so you can hurt less and have more fun.",
+      "link": "https://www.wired.com/story/what-is-bike-suspension/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 10:38:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Florida GOP ramps up AI crackdown under DeSantis",
+      "desc": "Top Florida Republican leaders and candidates are doubling down on their push to regulate artificial intelligence as Florida Gov. Ron DeSantis (R), a fierce critic of the technology, prepares to leave",
+      "link": "https://thehill.com/policy/technology/5906305-florida-republicans-regulate-ai/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+      "desc": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+      "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Monica Lewinsky Has Always Hated Notifications",
+      "desc": "The writer and anti-bullying activist is on social media, but to protect her nervous system, she prefers not to be alerted.",
+      "link": "https://www.wired.com/story/monica-lewinsky-user-behavior/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Data Center Operators Are Trying to Fix Their Water Use Problems",
+      "desc": "Google, Microsoft, and other hyperscalers have come under scrutiny for their impact on water quality and availability.",
+      "link": "https://www.wired.com/story/data-center-operators-fix-water-use-problems/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "5 takeaways on Trump&#039;s divisive Medicaid work requirements",
+      "desc": "A new rule explaining how states need to implement Medicaid work requirements may make it much harder for low-income sick people to maintain health coverage next year.  The long-anticipated rule issue",
+      "link": "https://thehill.com/policy/healthcare/5906718-medcaid-work-requirements-rule/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+      "desc": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
+      "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 09:59:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Enclayve Is a Drab Black Box for Your Private Group Chats",
+      "desc": "I put my family on a private social network, and all I got was this lousy group chat. At least it’s secure.",
+      "link": "https://www.wired.com/story/enclayve-is-a-drab-black-box-for-your-private-group-chats/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+      "desc": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
+      "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Valvoline Coupons and Promo Codes for June 2026",
       "desc": "We've gathered all the top Valvoline coupons and promo codes for June 2026, including deals on full synthetic oil changes and other essential maintenance.",
       "link": "https://www.wired.com/story/valvoline-coupons/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Dyson Promo Codes: 25% Off in June 2026",
-      "desc": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "AT&amp;T Promo Codes: $50 Off This June 2026",
-      "desc": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "link": "https://www.wired.com/story/att-promo-code/",
       "date": "Jun 3, 2026",
       "rawDate": "Wed, 03 Jun 2026 05:00:00 +0000",
       "source": "Wired",
@@ -45,78 +225,6 @@
       "rawDate": "Wed, 03 Jun 2026 04:02:56 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Lahn, Sand poised for head-to-head matchup for Iowa governor",
-      "desc": "Businessman Zach Lahn and State Auditor Rob Sand are projected to face off in November for Iowa governor, according to Decision Desk HQ.  Lahn, who was endorsed by Turning Point Action, defeated four ",
-      "link": "https://thehill.com/homenews/campaign/5906068-zach-lahn-rob-sand-iowa-governor/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 03:36:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Texas voters split 50-50 on stopping voter fraud vs. protecting access: Poll",
-      "desc": "A new survey shows that Texas voters are split between stopping voter fraud and protecting access to the polls.  The Barbara Jordan Public Policy Research and Survey Center at Texas Southern Universit",
-      "link": "https://thehill.com/homenews/state-watch/5907069-texas-voters-split-election-integrity/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 02:57:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Haaland wins Democratic primary in New Mexico&#039;s governor race",
-      "desc": "Former Interior Secretary Deb Haaland (D) is projected to win the Democratic primary in the race to succeed Gov. Michelle Lujan Grisham in New Mexico, according to Decision Desk HQ. Haaland, who would",
-      "link": "https://thehill.com/homenews/campaign/5905885-haaland-new-mexico-governor-race/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 02:08:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Miller-Meeks, Bohannan set for House rematch in Iowa",
-      "desc": "GOP Rep. Mariannette Miller-Meeks and Democrat Christina Bohannan are projected to face off again in Iowa’s 1st Congressional District in November, according to Decision Desk HQ. Miller-Meeks and Boha",
-      "link": "https://thehill.com/homenews/campaign/5903035-miller-meeks-bohannan-iowa-house/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 01:57:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Canada calls on US, Mexico to renew free-trade deal for another 16 years",
-      "desc": "Canada is urging the United States and Mexico to renew a joint trade agreement between the three countries amid ongoing economic and political pressure from the Trump administration.&#160; In a Tuesda",
-      "link": "https://thehill.com/business/5906983-canada-calls-on-us-mexico-to-renew-free-trade-deal-for-another-16-years/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 01:36:36 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Hinson, Turek set to vie for Ernst Senate seat in Iowa",
-      "desc": "Rep. Ashley Hinson (R-Iowa) and state Rep. Josh Turek (D) are projected to go head-to-head for retiring Sen. Joni Ernst’s (R-Iowa) Senate seat this fall, according to Decision Desk HQ.  Hinson, a form",
-      "link": "https://thehill.com/homenews/campaign/5904433-ashley-hinson-josh-turek-iowa-senate/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 01:32:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "California primary vote count could take days or even weeks — Here&#039;s why",
-      "desc": "While Tuesday marks Election Day in California, the results for races across the state may not come in for days, or even weeks. In the Golden State, mail-in ballots are valid so long as they are postm",
-      "link": "https://thehill.com/homenews/campaign/5906565-vote-counting-process-california/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 01:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Supreme Court clears way for Alabama Republicans to use congressional map for midterms",
-      "desc": "The Supreme Court on Tuesday cleared the way for Alabama Republicans to remove the state’s second majority-Black congressional district for the midterms, handing the party a pickup opportunity in an a",
-      "link": "https://thehill.com/regulation/court-battles/5907001-supreme-court-alabama-redistricting/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 01:28:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "US shoots down drones, missiles in response to ‘attempted attack by Iran’",
@@ -137,33 +245,6 @@
       "tag": "safety"
     },
     {
-      "title": "Nunn, Trone Garrett to face off in Iowa House election",
-      "desc": "GOP Rep. Zach Nunn (Iowa) and state Sen. Sarah Trone Garriott (D) are projected to face off in Iowa’s 3rd Congressional District in November, according to Decision Desk HQ.  Nunn and Trone Garriott ra",
-      "link": "https://thehill.com/homenews/campaign/5903037-nunn-trone-garrett-iowa-house-election/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 01:16:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: California, Iowa head to primary polls; Blanche confirms White House won’t resurrect anti-weaponization fund",
-      "desc": "Voters in six states are headed to the polls on Tuesday, with the main focus on the gubernatorial race in California to replace outgoing Gov. Gavin Newsom (D).  Ahead of polls closing in the Golden St",
-      "link": "https://thehill.com/homenews/administration/5904025-live-updates-trump-iran-iowa-california-primary/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 00:34:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bennett wins Democratic House primary to take on Kean in New Jersey",
-      "desc": "Democrat Rebecca Bennett is projected to win her party’s primary and will face incumbent GOP Rep. Tom Kean Jr. in New Jersey’s 7th Congressional District this fall, according to Decision Desk HQ.  Ben",
-      "link": "https://thehill.com/homenews/campaign/5903044-bennett-kean-new-jersey-house-election/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 00:22:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Dozens protest outside DeVos Place during Economic Club event featuring Bush, Clinton",
       "desc": "Demonstrators outside the black-tie event featuring former Presidents Bill Clinton and George W. Bush distributed pamphlets arguing the real American divide is between democracy and oligarchy, not pol",
       "link": "https://www.mlive.com/news/grand-rapids/2026/06/dozens-protest-outside-devos-place-during-economic-club-event-featuring-bush-clinton.html",
@@ -171,24 +252,6 @@
       "rawDate": "Tue, 02 Jun 2026 23:20:35 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Judge blocks DC outlet NOTUS from rebranding as &#039;The Star,’ after rival&#039;s lawsuit",
-      "desc": "A federal judge issued a temporary restraining order on Tuesday blocking the NOTUS news outlet from rebranding as The Star due to a lawsuit from The Washington Star. District Judge Rossie D. Alston Jr",
-      "link": "https://thehill.com/homenews/media/5906861-washington-star-lawsuit-notus/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 23:12:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn",
-      "desc": "A government committee says that the country’s growing dependence on the data analytics company is a serious liability.",
-      "link": "https://www.wired.com/story/uk-government-palantir-warning-report/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 23:05:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Pentagon hires convicted Jan. 6 rioter for counterterrorism post",
@@ -353,15 +416,6 @@
       "tag": "technology"
     },
     {
-      "title": "He Blew the Whistle on DOGE. Then His Brakes Were Cut",
-      "desc": "A federal IT staffer filed a complaint about DOGE, then went public. Shortly after Elon Musk boosted a post calling his claims false, his brake lines were cut. Now he’s suing for defamation.",
-      "link": "https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 19:16:01 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Gov. Whitmer serves ‘The Big Gretch’ signature smoothie to North Muskegon students",
       "desc": "Gov. Gretchen Whitmer joined North Muskegon students to make and deliver smoothies promoting healthy choices and local produce.",
       "link": "https://www.mlive.com/news/muskegon/2026/06/gov-whitmer-serves-the-big-gretch-signature-smoothie-to-north-muskegon-students.html",
@@ -461,24 +515,6 @@
       "tag": "technology"
     },
     {
-      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-      "desc": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-      "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 18:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling",
-      "desc": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be.",
-      "link": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 18:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Cruz on high gas prices: &#039;I don&#039;t think it&#039;s gonna impact the midterms&#039;",
       "desc": "Sen. Ted Cruz (R-Texas) said Tuesday that he did not think recently high gas prices amid the Iran war will have an impact on November's midterms. “I don't think national security decisions should be d",
       "link": "https://thehill.com/homenews/campaign/5905777-ted-cruz-high-gas-prices-iran-war-2026-midterms/",
@@ -569,15 +605,6 @@
       "tag": "safety"
     },
     {
-      "title": "Michigan man extradited from California on charges of recording rape of unconscious woman",
-      "desc": "The Bay County prosecutor described the suspect as a serial sexual abuser. Phone records show his device's internet search history included \"what did Bill Cosby do.\"",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/michigan-man-extradited-from-california-on-charges-of-recording-rape-of-unconscious-woman.html",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 16:04:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Kenyan president defends US Ebola quarantine center amid protests",
       "desc": "NAIROBI, Kenya (AP) — Kenya’s President William Ruto has defended the establishment of an Ebola quarantine facility by the U.S., a move that led to further protests on Tuesday despite a court order bl",
       "link": "https://thehill.com/policy/international/ebola-kenya-president-us-quarantine-facility-protests/",
@@ -585,15 +612,6 @@
       "rawDate": "Tue, 02 Jun 2026 15:57:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Metro Detroit DirecTV customers lose access to WXYZ, WMYD",
-      "desc": "The blackout began Sunday after the previous agreement between the two companies expired.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/metro-detroit-directv-customers-lose-access-to-wxyz-wmyd.html",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 15:52:28 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "New superintendent chosen for Lapeer County school district",
@@ -839,15 +857,6 @@
       "tag": "technology"
     },
     {
-      "title": "Trump wades into GOP fight over prediction market regulation",
-      "desc": "President Trump is throwing his weight behind an effort to block state restrictions on prediction markets, as federal and state regulators vie for authority over the platforms in a legal dispute that ",
-      "link": "https://thehill.com/policy/technology/5901031-trump-supports-prediction-markets/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Grand Blanc shines in more than 100 photos at 2026 graduation ceremony",
       "desc": "Filled with memorable speeches and once-in-a-lifetime moments, 563 students received their diplomas during the commencement ceremony",
       "link": "https://www.mlive.com/news/flint/2026/05/grand-blanc-shines-in-more-than-100-photos-at-2026-graduation-ceremony.html",
@@ -889,15 +898,6 @@
       "link": "https://thehill.com/policy/healthcare/5901575-vibrio-season-is-here-how-can-you-avoid-the-flesh-eating-bacterial-infection/",
       "date": "May 30, 2026",
       "rawDate": "Sat, 30 May 2026 15:05:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump backs HHS overhaul of childhood vaccine schedule with new order",
-      "desc": "President Trump is signing off on a decision from the Department of Health and Human Services (HHS) earlier this year to cut down on the number of required vaccinations for children.  The president en",
-      "link": "https://thehill.com/policy/healthcare/5902436-trump-backs-hhs-childhood-vaccine-overhaul/",
-      "date": "May 30, 2026",
-      "rawDate": "Sat, 30 May 2026 15:02:21 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -952,15 +952,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/05/these-6-hopefuls-applied-to-fill-an-ann-arbor-school-board-vacancy.html",
       "date": "May 28, 2026",
       "rawDate": "Thu, 28 May 2026 22:15:45 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Snow day forgiveness plan for weather-worn Michigan schools gets final OK",
-      "desc": "Gov. Gretchen Whitmer signed the bipartisan bill this week. It allows schools and districts in more than half of Michigan's counties to count up to four or five days missed this spring.",
-      "link": "https://www.mlive.com/education/2026/05/snow-day-forgiveness-plan-for-weather-worn-michigan-schools-gets-final-ok.html",
-      "date": "May 28, 2026",
-      "rawDate": "Thu, 28 May 2026 21:10:57 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

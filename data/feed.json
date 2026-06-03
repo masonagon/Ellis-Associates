@@ -1,6 +1,105 @@
 {
-  "generated": "2026-06-02T23:29:11.147Z",
+  "generated": "2026-06-03T02:57:34.352Z",
   "news": [
+    {
+      "title": "Haaland wins Democratic primary in New Mexico&#039;s governor race",
+      "desc": "Former Interior Secretary Deb Haaland (D) is projected to win the Democratic primary in the race to succeed Gov. Michelle Lujan Grisham in New Mexico, according to Decision Desk HQ. Haaland, who would",
+      "link": "https://thehill.com/homenews/campaign/5905885-haaland-new-mexico-governor-race/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 02:08:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Miller-Meeks, Bohannan set for House rematch in Iowa",
+      "desc": "GOP Rep. Mariannette Miller-Meeks and Democrat Christina Bohannan are projected to face off again in Iowa’s 1st Congressional District in November, according to Decision Desk HQ. Miller-Meeks and Boha",
+      "link": "https://thehill.com/homenews/campaign/5903035-miller-meeks-bohannan-iowa-house/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:57:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Canada calls on US, Mexico to renew free-trade deal for another 16 years",
+      "desc": "Canada is urging the United States and Mexico to renew a joint trade agreement between the three countries amid ongoing economic and political pressure from the Trump administration.&#160; In a Tuesda",
+      "link": "https://thehill.com/business/5906983-canada-calls-on-us-mexico-to-renew-free-trade-deal-for-another-16-years/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:36:36 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Hinson, Turek set to vie for Ernst Senate seat in Iowa",
+      "desc": "Rep. Ashley Hinson (R-Iowa) and state Rep. Josh Turek (D) are projected to go head-to-head for retiring Sen. Joni Ernst’s (R-Iowa) Senate seat this fall, according to Decision Desk HQ.  Hinson, a form",
+      "link": "https://thehill.com/homenews/campaign/5904433-ashley-hinson-josh-turek-iowa-senate/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:32:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "California primary vote count could take days or even weeks — Here&#039;s why",
+      "desc": "While Tuesday marks Election Day in California, the results for races across the state may not come in for days, or even weeks. In the Golden State, mail-in ballots are valid so long as they are postm",
+      "link": "https://thehill.com/homenews/campaign/5906565-vote-counting-process-california/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Supreme Court clears way for Alabama Republicans to use congressional map for midterms",
+      "desc": "The Supreme Court on Tuesday cleared the way for Alabama Republicans to remove the state’s second majority-Black congressional district for the midterms, handing the party a pickup opportunity in an a",
+      "link": "https://thehill.com/regulation/court-battles/5907001-supreme-court-alabama-redistricting/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:28:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US shoots down drones, missiles in response to ‘attempted attack by Iran’",
+      "desc": "The U.S. Central Command (CENTCOM) on Tuesday said it shot down multiple Iranian drones launched in an “attempted attack” on its regional neighbors. CENTCOM said all of the Iranian ballistic missiles ",
+      "link": "https://thehill.com/policy/defense/5906982-us-central-command-intercepts-iranian-drones/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:26:01 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Cass City man fired shotgun at his roommate before hours-long standoff, police say",
+      "desc": "The 41-year-old suspect arrested over the weekend has been arraigned on multiple felonies, including assault with intent murder and assault with a dangerous weapon.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/cass-city-man-fired-shotgun-at-his-roommate-before-hours-long-standoff-police-say.html",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:16:10 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Nunn, Trone Garrett to face off in Iowa House election",
+      "desc": "GOP Rep. Zach Nunn (Iowa) and state Sen. Sarah Trone Garriott (D) are projected to face off in Iowa’s 3rd Congressional District in November, according to Decision Desk HQ.  Nunn and Trone Garriott ra",
+      "link": "https://thehill.com/homenews/campaign/5903037-nunn-trone-garrett-iowa-house-election/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 01:16:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: California, Iowa head to primary polls; Blanche confirms White House won’t resurrect anti-weaponization fund",
+      "desc": "Voters in six states are headed to the polls on Tuesday, with the main focus on the gubernatorial race in California to replace outgoing Gov. Gavin Newsom (D).  Ahead of polls closing in the Golden St",
+      "link": "https://thehill.com/homenews/administration/5904025-live-updates-trump-iran-iowa-california-primary/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 00:34:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bennett wins Democratic House primary to take on Kean in New Jersey",
+      "desc": "Democrat Rebecca Bennett is projected to win her party’s primary and will face incumbent GOP Rep. Tom Kean Jr. in New Jersey’s 7th Congressional District this fall, according to Decision Desk HQ.  Ben",
+      "link": "https://thehill.com/homenews/campaign/5903044-bennett-kean-new-jersey-house-election/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 00:22:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Dozens protest outside DeVos Place during Economic Club event featuring Bush, Clinton",
       "desc": "Demonstrators outside the black-tie event featuring former Presidents Bill Clinton and George W. Bush distributed pamphlets arguing the real American divide is between democracy and oligarchy, not pol",
@@ -38,33 +137,6 @@
       "tag": "government"
     },
     {
-      "title": "Graham Platner makes his case to Senate Democrats amid latest controversy",
-      "desc": "Democratic Maine Senate candidate Graham Platner met with Senate Democrats in Washington on Tuesday as he seeks to stem a wave of scandals and shore up support for his bid to flip a seat long at the t",
-      "link": "https://thehill.com/homenews/senate/5906668-platner-democrats-senate-controversies-maine/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 22:39:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Who is Bill Pulte, Trump&#039;s pick for new intel chief",
-      "desc": "President Trump on Tuesday named Federal Housing Finance Agency (FHFA) head Bill Pulte to be the acting head of the Office of the Director of National Intelligence, replacing Tulsi Gabbard, who resign",
-      "link": "https://thehill.com/homenews/administration/5906680-trump-names-pulte-acting-intel-chief/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 22:35:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Who is Bill Pulte, Trump&#8217;s pick for new intel chief",
-      "desc": "President Trump on Tuesday named Federal Housing Finance Agency (FHFA) head Bill Pulte to be the acting head of the Office of the Director of National Intelligence, replacing Tulsi Gabbard, who resign",
-      "link": "https://thehill.com/homenews/administration/5906680-trump-names-pulte-acting-intel-chief/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 22:35:38 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Pentagon hires convicted Jan. 6 rioter for counterterrorism post",
       "desc": "The Trump administration has hired a convicted Jan. 6, 2021, rioter to work in the Pentagon’s office that oversees sensitive special operations and irregular warfare matters.  Elias Irizarry, who was ",
       "link": "https://thehill.com/policy/defense/5906798-pentagon-appointment-jan-6-special-operations/",
@@ -90,42 +162,6 @@
       "rawDate": "Tue, 02 Jun 2026 22:14:21 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Rubio spars with Democrats over Ebola outbreak, global health cuts",
-      "desc": "Secretary of State Marco Rubio fielded criticism from Democrats on Capitol Hill on Tuesday about the impact of the Trump administration’s cuts to global health programs on the response to an Ebola out",
-      "link": "https://thehill.com/homenews/administration/5906723-trump-cuts-ebola-response/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 22:13:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump&#039;s new AI order",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story  Trump signs scaled-back AI executive order President Trump on Tuesday signed an executive order directing federal agencies to shore up their defen",
-      "link": "https://thehill.com/newsletters/technology/5906781-trumps-new-ai-order/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 22:11:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Court says climate lab can keep using supercomputer",
-      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Court says climate lab can keep using supercomputer A federal judge temporarily halted a Trump administration effort",
-      "link": "https://thehill.com/newsletters/energy-environment/5906755-court-says-climate-lab-can-keep-using-supercomputer/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 22:10:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Kean says he&#039;ll reveal medical condition in &#039;matter of weeks&#039; amid absence from Congress",
-      "desc": "Rep. Tom Kean Jr. (R-N.J.) on Tuesday said he’ll soon explain his absence from Congress after receiving an endorsement for reelection from President Trump.  Kean, son of the former New Jersey Gov. Tom",
-      "link": "https://thehill.com/homenews/campaign/5906730-rep-tom-kean-jr-congress-absence/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 22:02:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Democratic senators push for AI guardrails on military in NDAA",
@@ -560,15 +596,6 @@
       "tag": "technology"
     },
     {
-      "title": "Teenage boy, 16, shot in Detroit alley",
-      "desc": "The teen was transported to a Metro Detroit hospital and is listed in stable condition.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/teenage-boy-16-shot-in-alley-in-detroit.html",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 13:28:09 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Dr. Oz to helm White House press briefing",
       "desc": "Dr. Mehmet Oz, Centers for Medicare and Medicaid Services (CMS) administrator, will host the White House press briefing on Tuesday, becoming the latest Trump administration official to fill in for pre",
       "link": "https://thehill.com/homenews/administration/5905227-mehmet-oz-white-house-briefing/",
@@ -736,15 +763,6 @@
       "link": "https://thehill.com/policy/defense/5904405-transgender-troop-ban-court-hegseth/",
       "date": "Jun 1, 2026",
       "rawDate": "Mon, 01 Jun 2026 18:41:47 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump says Iran did not inform US it was ceasing negotiations, says talks will go on",
-      "desc": "President Trump said Monday that talks with Iran are continuing after earlier reports out of Tehran said talks were being cut off over Israeli military advancements in Lebanon. Trump on Truth Social s",
-      "link": "https://thehill.com/homenews/administration/5904329-trump-iran-talks-suspended/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 17:51:02 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

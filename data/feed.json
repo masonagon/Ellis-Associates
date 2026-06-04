@@ -1,86 +1,230 @@
 {
-  "generated": "2026-06-04T13:57:11.383Z",
+  "generated": "2026-06-04T16:52:43.872Z",
   "news": [
     {
+      "title": "South Carolina draws attention with competitive GOP primary for governor",
+      "desc": "ATLANTA — The Republican primary for governor in South Carolina has emerged as a closely watched contest to succeed term-limited Gov. Henry McMaster (R). The open race in the reliably conservative sta",
+      "link": "https://thehill.com/homenews/campaign/5909752-south-carolina-gop-primary-evette-graham/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:45:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "For the second time in 2 months, digital billboard truck erupts in flames in downtown Bay City",
+      "desc": "The mobile billboard fire is the second in six weeks, and one resident has started a petition to ban the vehicles from downtown.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/for-the-second-time-in-2-months-digital-billboard-truck-erupts-in-flames-in-downtown-bay-city.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:44:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "John Thune breaks with Trump on DNI pick Bill Pulte, weaponization fund",
+      "desc": "Leadership isn't measured only by the votes you cast. Sometimes it's measured by the moments when you're willing to speak up.",
+      "link": "https://thehill.com/opinion/lindseys-lens/5910068-john-thune-public-disagreement-trump/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:42:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New York Democrats advance redistricting ballot measure, tee up second vote",
+      "desc": "New York Democrats advanced a redistricting ballot measure on Wednesday making it easier for Democrats to redraw the state’s congressional lines — putting the state a step closer toward creating a mor",
+      "link": "https://thehill.com/homenews/campaign/5910001-new-york-democrats-redistricting-vote/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:38:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vote-a-rama kicks off with Schumer forcing $1.8B MAGA fund vote",
+      "desc": "🎂 Plus: Viral ‘dot cakes’ take over the internet {beacon} &#8202; It’s Thursday. I can’t escape these viral “dot cakes” that have taken over my social media feeds. They seem *so* overhyped. If you do",
+      "link": "https://thehill.com/newsletters/1230-report/5910057-vote-a-rama-immigration-todd-blanche-senate-confirmation-viral-dot-cakes/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:37:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cassidy slams RFK Jr. over resurgence in vaccine-preventable diseases",
+      "desc": "Sen. Bill Cassidy (R-La.) directly blamed Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. for a resurgence in vaccine-preventable illnesses Thursday. On the social media platform X, Ca",
+      "link": "https://thehill.com/homenews/5909705-vaccine-illnesses-resurge-kennedy-criticism/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:32:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Government information gathering and sharing are in peril",
+      "desc": "The Trump administration is proposing a government-wide non-disclosure agreement for federal workers, which has been protested by free speech and open government groups as an assault on the First Amen",
+      "link": "https://thehill.com/opinion/congress-blog/5908130-gagging-federal-employees/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Marines retire Harrier &#039;jump jet&#039;",
+      "desc": "The U.S. Marine Corps this week celebrated the retirement of the AV-8B Harrier II, the fighter jet that can take off and land vertically and without a runway. In a “sundown” ceremony on Wednesday at M",
+      "link": "https://thehill.com/homenews/5910012-av-8b-harrier-jet-marines-retires/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:25:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Live updates: Senate vote-a-rama underway on reconciliation",
+      "desc": "The Senate launched a voting blitz on Thursday as it moves toward passing a $70 billion budget reconciliation package that would fund immigration enforcement agencies. A party-line vote on Wednesday k",
+      "link": "https://thehill.com/homenews/administration/5908695-live-updates-donald-trump-supreme-court-senate-reconciliation/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:22:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Gabbard says husband&#039;s surgery was successful: &#039;Now the recovery begins&#039;",
+      "desc": "Tulsi Gabbard, who announced her resignation as director of national intelligence after her husband was diagnosed with bone cancer, said he underwent successful surgery and is recovering.  “My husband",
+      "link": "https://thehill.com/homenews/administration/5909831-tulsi-gabbard-husband-bone-cancer-surgery-update/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:17:02 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Senate drama: Republicans wrestle over Schumer amendment on &#039;anti-weaponization&#039; fund",
+      "desc": "Senate Republicans are wresting over how to handle a Democratic amendment that would ban implementing the Department of Justice's \"anti-weaponization\" fund. Senate Democratic Leader Chuck Schumer (N.Y",
+      "link": "https://thehill.com/homenews/senate/5909993-schumer-amendment-targets-doj-fund/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:15:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw man faces federal ghost gun charge after state case dropped",
+      "desc": "Emilio G. Zamora served less than two years in prison for driving two killers from a Father's Day homicide scene before his arrest in May.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-man-faces-federal-ghost-gun-charge-after-state-case-dropped.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:13:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Panetta on Pulte: Intelligence community getting &#039;a political hack&#039;",
+      "desc": "Former CIA Director Leon Panetta on Thursday morning derided President Trump’s new pick to lead national intelligence operations: Bill Pulte. Panetta, who also served as Defense secretary under former",
+      "link": "https://thehill.com/homenews/administration/5909930-leon-panetta-bill-pulte-intelligence-community/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 16:03:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Colorado student wins national Constitution speech contest at Hillsdale College",
+      "desc": "The contest awarded more than $203,000 in college scholarships this year.",
+      "link": "https://www.mlive.com/news/jackson/2026/06/colorado-student-wins-national-constitution-speech-contest-at-hillsdale-college.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 15:52:57 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "‘It’s shocking’: Fire destroys beloved Lapeer area market, community staple",
+      "desc": "Slaterville Market, owned by Ken Shango for 38 years, was totaled after the roof collapsed amidst an overnight fire.",
+      "link": "https://www.mlive.com/news/flint/2026/06/its-shocking-fire-destroys-beloved-lapeer-area-market-community-staple.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 15:33:14 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "MillerKnoll CEO caps legacy marked by controversy, $1.8B merger",
+      "desc": "Andi Owen, CEO of Michigan-based furniture manufacturer MillerKnoll, has announced her resignation and upcoming retirement following a tenure marked by a significant corporate merger and a viral contr",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/millerknoll-ceo-caps-legacy-marked-by-controversy-18b-merger.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 15:11:45 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Melinda French Gates donates $215 million to improve women&#039;s health worldwide",
+      "desc": "Philanthropist Melinda French Gates will expand her giving to improve women’s health globally, pledging another $215 million to support contraceptive access and maternal care, as well as initiatives a",
+      "link": "https://thehill.com/policy/healthcare/melinda-french-gates-womens-health-donation/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 15:09:47 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Saginaw ex-con charged on state, federal levels with brandishing gun at local businesses",
+      "desc": "The man initially faced six charges on the state level, before a federal grand jury indicted him on another count.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-ex-con-charged-on-state-federal-levels-with-brandishing-gun-at-local-businesses.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 15:06:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Attempted murder charges dropped in Jackson shooting case",
+      "desc": "The charges were dropped without prejudice, meaning they may be filed again in the future.",
+      "link": "https://www.mlive.com/news/jackson/2026/06/attempted-murder-charges-dropped-in-jackson-shooting-case.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 15:03:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "2 arrested for breaking into car at Brighton-area dealership",
+      "desc": "The pair had tools used to break into vehicles, police said.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/2-arrested-for-breaking-into-car-at-brighton-area-dealership.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 14:30:59 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Strike on alleged drug boat kills 2 in eastern Pacific",
+      "desc": "The U.S. launched a Wednesday strike on another alleged drug boat traveling through the eastern Pacific, resulting in the death of two people. U.S. Southern Command (Southcom) said the vessel was oper",
+      "link": "https://thehill.com/policy/defense/5909598-pentagon-drug-boat-strike-pacific-2-killed/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 14:28:51 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Supreme Court upholds FCC’s fines against Verizon, AT&#038;T",
+      "desc": "The Supreme Court rejected Verizon and AT&#38;T’s constitutional challenge to massive fines imposed by the Federal Communications Commission (FCC) in an 8-1 vote on Thursday.  Chief Justice John Rober",
+      "link": "https://thehill.com/regulation/court-battles/5909636-fcc-verizon-att-fines-supreme-court/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 14:25:57 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Overnight fire destroys Lapeer Township convenience store",
+      "desc": "The roof at Slaterville Market collapsed during the fire.",
+      "link": "https://www.mlive.com/news/flint/2026/06/overnight-fire-destroys-lapeer-township-convenience-store.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 14:01:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "LA-area city sees first voter-approved measure to ban data centers",
+      "desc": "Voters in a city near Los Angeles appear to be the first in the nation to approve an all-out ban on data centers. About 86 percent of voters in Monterey Park, Calif., voted in favor of the measure in ",
+      "link": "https://thehill.com/policy/technology/5909486-los-angeles-voters-data-center-ban/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 14:00:48 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "Screwworm fly detected in Texas for first time in decades",
-      "desc": "A flesh-eating parasite has been detected in Texas, the U.S. Department of Agriculture (USDA) Animal and Plant Inspection Service confirmed Wednesday.  A New World screwworm (NWS) was found in a young",
+      "desc": "A flesh-eating parasite has been detected in Texas, the U.S. Department of Agriculture (USDA) Animal and Plant Inspection Service confirmed Wednesday.  A New World screwworm (NWS) was found in a young",
       "link": "https://thehill.com/policy/healthcare/5909483-new-world-screwworm-texas/",
       "date": "Jun 4, 2026",
       "rawDate": "Thu, 04 Jun 2026 13:50:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Watch live: Rollins faces House questioning over USDA budget",
-      "desc": "U.S. Department of Agriculture (USDA) Secretary Brooke Rollins will testify before a House panel on Thursday morning on USDA‘s domestic priorities and President Trump's fiscal 2027 budget request. The",
-      "link": "https://thehill.com/video-clips/5909343-watch-live-brooke-rollins-house-hearing-usda-priorities-trump-budget/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 13:50:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Bessent testifies before House on Treasury Department priorities, budget",
-      "desc": "Treasury Secretary Scott Bessent will testify before the House Ways and Means Committee on Thursday morning about President Trump’s fiscal 2027 budget request and priorities for the department as affo",
-      "link": "https://thehill.com/video-clips/5909344-watch-live-scott-bessent-treasury-department-house-hearing-trump-budget/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 13:45:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Boebert on &#039;embarrassing&#039; Kean absence: &#039;Where is he?&#039;",
-      "desc": "Rep. Lauren Boebert (R-Colo.) slammed fellow GOP Rep. Tom Kean Jr. (N.J.) for his extended absence from Capitol Hill and the campaign trail. “Where is he? No, seriously. It’s embarrassing,” Boebert to",
-      "link": "https://thehill.com/homenews/house/5909475-lauren-boebert-tom-kean-jr-absence-house-gop/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 13:44:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump rips &#039;meaningless&#039; House vote on resolution to end Iran war",
-      "desc": "President Trump on Thursday panned the House for passing a resolution designed to force him to end the Iran war, calling the action \"meaningless.\" “Yesterday, in a meaningless vote, the House voted, 4",
-      "link": "https://thehill.com/homenews/administration/5909327-donald-trump-war-powers-resolution-house-passage-criticism-iran-war/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 13:06:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Spencer Pratt&#039;s LA mayoral chances; Senate map shifts in Iowa, Maine: Join the live discussion",
-      "desc": "Former reality TV star Spencer Pratt is close to advancing to the Los Angeles mayoral runoff, raising new questions about his viability in the final stretch. Meanwhile, Democrats are weighing concerns",
-      "link": "https://thehill.com/homenews/campaign/data-nerds/5909321-spencer-pratt-karen-bass-los-angeles-mayoral-race-maine-iowa-midterms-live-discussion/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 12:49:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Senate poised for vote-a-rama on reconciliation; Trump to boost coal",
-      "desc": "The Senate is expected to launch into a voting blitz on Thursday as it moves toward passing a budget reconciliation package that would fund immigration enforcement agencies. A party-line vote kicked o",
-      "link": "https://thehill.com/homenews/administration/5908695-live-updates-donald-trump-supreme-court-senate-reconciliation/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats bullish on flipping missing New Jersey Republican&#039;s House seat",
-      "desc": "Democrats are feeling bullish about their chances of flipping a critical New Jersey battleground district amid a Republican congressman’s prolonged absence from Washington. Rep. Thomas Kean, Jr. (R-N.",
-      "link": "https://thehill.com/newsletters/on-the-ballot/5908099-democrats-kean-bennett-new-jersey-house/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Banning transgender athletes has never been about protecting women",
-      "desc": "It is no accident that the same politicians are pushing both anti-transgender legislation and a rollback of women's other protections.",
-      "link": "https://thehill.com/opinion/judiciary/5904083-supreme-court-transgender-athletes/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "143 deaths: Lansing-region offers glimpse into Michigan’s overdose trends",
@@ -153,6 +297,15 @@
       "rawDate": "Thu, 04 Jun 2026 05:04:40 +0000",
       "source": "MLive Education",
       "tag": "education"
+    },
+    {
+      "title": "USAID&#039;s closure led to &#039;entirely preventable&#039; deaths, latest Ebola outbreak: House Dem report",
+      "desc": "The Trump administration’s decision to kill the U.S. Agency for International Development (USAID) likely contributed to 600,000 “entirely preventable” deaths, left the globe faltering in responding to",
+      "link": "https://thehill.com/policy/international/5909940-deaths-ebola-trump-usaid-report/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 04:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
@@ -407,42 +560,6 @@
       "tag": "government"
     },
     {
-      "title": "Utility truck hit stopped Jeep at 55 mph in fatal Richfield Township crash",
-      "desc": "An eight-month-old child died and a 4-year-old suffered a traumatic brain injury in the March 12 crash.",
-      "link": "https://www.mlive.com/news/flint/2026/06/utility-truck-hit-stopped-jeep-at-55-mph-in-fatal-richfield-township-crash.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 17:15:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Saginaw man charged with trying to kill neighbors in Rosien Towers shooting",
-      "desc": "Police recovered 36 spent shell casings from the defendant's apartment and shared hallway.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-man-charged-with-trying-to-kill-neighbors-in-rosien-towers-shooting.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 17:12:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Saginaw County Sheriff’s deputy crashes into woman’s SUV in  intersection",
-      "desc": "The deputy had his patrol vehicle's emergency lights activated, though there was no siren.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-county-sheriffs-deputy-crashes-into-womans-suv-in-intersection.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 17:02:02 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "More than $1M in grants to help breathe new life into 100+ year-old Michigan hardware store",
-      "desc": "A former hardware store in a mid-Michigan community is getting new life breathed into it as apartments and commercial space.",
-      "link": "https://www.mlive.com/news/flint/2026/06/more-than-1m-in-grants-to-help-breathe-new-life-into-100-year-old-michigan-hardware-store.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 16:36:13 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Privacy hawks rail against Senate FISA proposal with 3-year CBDC ban",
       "desc": "Privacy-minded conservatives in the House are pushing back against a Senate proposal to pair a temporary ban on the creation of central bank digital currency (CBDC) with a long-term extension of the f",
       "link": "https://thehill.com/homenews/house/5907896-fisa-cbdc-house-conservatives/",
@@ -479,24 +596,6 @@
       "tag": "government"
     },
     {
-      "title": "Saginaw woman dropped off at Bay City hospital with 2 gunshot wounds",
-      "desc": "The wounded woman refused to tell police how or where she suffered her injuries.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-woman-dropped-off-at-bay-city-hospital-with-2-gunshot-wounds.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 15:55:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "St. Clair County construction worker injured after being hit by car",
-      "desc": "A construction worker was hospitalized with non-life-threatening injuries after being struck on King Road.",
-      "link": "https://www.mlive.com/news/2026/06/st-clair-county-construction-worker-injured-after-being-hit-by-car.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 15:49:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "GOP congressman blames staffer for homophobic message posted on social media account",
       "desc": "The now deleted message read \"Homosexuality has no place in America. Happy Nuclear Family Month.”",
       "link": "https://www.mlive.com/news/2026/06/gop-congressman-blames-staffer-for-homophobic-message-posted-on-social-media-account.html",
@@ -531,24 +630,6 @@
       "rawDate": "Wed, 03 Jun 2026 14:43:05 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Shooting suspect flees police, crashes into gas station pumps causing large fire, police say",
-      "desc": "After a shooting in Marquette, a police chase ended with the suspect crashing into gas pumps, sparking a fire.",
-      "link": "https://www.mlive.com/news/2026/06/shooting-suspect-flees-police-crashes-into-gas-station-pumps-causing-large-fire-police-say.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 14:26:27 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Saginaw boy, 8, crosses M-13 seeking help after man allegedly beat, choked him",
-      "desc": "The boy's mother's boyfriend is facing two charges of child abuse.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-boy-8-crosses-m-13-seeking-help-after-man-allegedly-beat-choked-him.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 14:23:58 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "&#039;Queen of Versailles&#039; star Jackie Siegel to mark annual Naloxone Awareness Day in DC",
@@ -731,15 +812,6 @@
       "tag": "government"
     },
     {
-      "title": "Whitmer praises coffee company’s $567M expansion in West Michigan",
-      "desc": "Gov. Gretchen Whitmer on Tuesday, June 2, joined Chobani founder and CEO Hamdi Ulukaya to celebrate La Colombe Coffee Roasters’ $567 million expansion creating 337 new jobs in Norton Shores.",
-      "link": "https://www.mlive.com/news/muskegon/2026/06/whitmer-praises-coffee-companys-567m-expansion-in-west-michigan.html",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 18:41:35 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Oz sidesteps questions on Pulte’s lack of intel background",
       "desc": "Dr. Mehmet Oz sidestepped questions on Tuesday about President Trump’s appointment of Bill Pulte, the homebuilder and director of the Federal Housing Finance Agency (FHFA), to serve as acting head of ",
       "link": "https://thehill.com/homenews/administration/5906170-mehmet-oz-pulte-appointment/",
@@ -756,42 +828,6 @@
       "rawDate": "Tue, 02 Jun 2026 18:06:24 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Amazon Ring sued over facial recognition",
-      "desc": "Amazon was sued Monday by a Virginia man over allegations that facial recognition software in the company’s Ring doorbell cameras collected and stored images of his face without his consent. The plain",
-      "link": "https://thehill.com/regulation/court-battles/5906046-amazon-sued-over-ring-facial-recognition/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 18:02:18 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Cruz on high gas prices: &#039;I don&#039;t think it&#039;s gonna impact the midterms&#039;",
-      "desc": "Sen. Ted Cruz (R-Texas) said Tuesday that he did not think recently high gas prices amid the Iran war will have an impact on November's midterms. “I don't think national security decisions should be d",
-      "link": "https://thehill.com/homenews/campaign/5905777-ted-cruz-high-gas-prices-iran-war-2026-midterms/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 17:31:09 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "DC National Guard surge didn&#039;t reduce violent crime: Research",
-      "desc": "The nearly 10-month presence of National Guard troops in Washington has not helped reduce violent crime in the nation’s capital, according to a new study from the Niskanen Center, a Washington policy ",
-      "link": "https://thehill.com/policy/defense/5905888-national-guard-dc-crime-study/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 17:04:32 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump signs scaled-back AI executive order",
-      "desc": "President Trump on Tuesday signed an executive order directing federal agencies to shore up their defenses against more advanced AI models and develop a voluntary testing framework. The new order appe",
-      "link": "https://thehill.com/policy/technology/5905712-trump-executive-order-ai-model-testing/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 16:07:49 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Kenyan president defends US Ebola quarantine center amid protests",
@@ -821,24 +857,6 @@
       "tag": "health"
     },
     {
-      "title": "5 American cruise ship passengers leave Nebraska quarantine facility",
-      "desc": "OMAHA, Neb. (AP) — Five of the 18 American cruise ship passengers who have been staying at a national quarantine facility in Nebraska after being exposed to hantavirus are going home, U.S. health offi",
-      "link": "https://thehill.com/policy/healthcare/hantavirus-nebraska-quarantine-facility/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 23:51:27 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump issues final rule requiring most Medicaid beneficiaries to work",
-      "desc": "A new final rule from the Trump administration will require most Medicaid beneficiaries between the ages of 19 and 64 to prove they work, complete community service or participate in a work program to",
-      "link": "https://thehill.com/policy/healthcare/5904780-medicaid-beneficiaries-work-requirements/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 21:35:18 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "University of Michigan doctor says he was suspended over views on nonbinary patient surgery",
       "desc": "Dr. Steven Buchman alleges that he was suspended from his teaching responsibilities, despite the university allegedly not launching a formal investigation in 2023.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-doctor-says-he-was-suspended-over-views-on-nonbinary-patient-surgery.html",
@@ -846,33 +864,6 @@
       "rawDate": "Mon, 01 Jun 2026 20:02:57 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "University of Michigan library wins statewide energy award for reducing carbon emissions",
-      "desc": "The A. Alfred Taubman Health Sciences Library in Ann Arbor achieved a 23% year-over-year energy reduction rate.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-library-wins-statewide-energy-award-for-reducing-carbon-emissions.html",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 19:10:33 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Moderna gets $50M investment for Ebola vaccine candidate",
-      "desc": "Global health foundation Coalition for Epidemic Preparedness Innovations (CEPI) will invest $50 million to support development and initial clinical testing of Moderna's investigational vaccine against",
-      "link": "https://thehill.com/policy/healthcare/5904431-ebola-vaccine-moderna-cepi/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 18:48:28 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Personalized mRNA vaccine shows promise in reducing melanoma return: Research",
-      "desc": "Study results released on Monday revealed that a personalized mRNA vaccine manufactured by Moderna and Merck has shown promise in reducing the return of melanoma, the deadliest form of skin cancer.  T",
-      "link": "https://thehill.com/policy/healthcare/5904187-melanoma-vaccine-recurrence-study/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 16:59:10 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

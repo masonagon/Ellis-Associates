@@ -1,6 +1,87 @@
 {
-  "generated": "2026-06-03T23:28:07.997Z",
+  "generated": "2026-06-04T02:52:39.258Z",
   "news": [
+    {
+      "title": "Jill Biden hits back at Democratic critic of her book: &#039;Say it to my face&#039;",
+      "desc": "Jill Biden is responding to criticism from at least one Democrat who worked in her husband's administration, saying that her new memoir could be unnecessarily igniting a \"painful conversation\" for the",
+      "link": "https://thehill.com/blogs/in-the-know/5909129-jill-biden-responds-democrat-criticism-book-tour/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 02:50:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Remote work may be locking younger workers out of labor force: NY Fed",
+      "desc": "Rising youth unemployment rates since the 2020 pandemic may be tied to a trend in remote work, the New York Federal Reserve Bank said in an analysis published on Monday.  In the report, the regional F",
+      "link": "https://thehill.com/business/5909105-remote-work-youth-unemployment/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 02:24:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Plan for us’: Hundreds rally for Ann Arbor teachers as contract stalemate drags on",
+      "desc": "A massive crowd amassed outside Ann Arbor Public Schools' administrative building on Earhart Road Wednesday night with tthe same message advocates have trumpted for months ― more competitive wages for",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/plan-for-us-hundreds-rally-for-ann-arbor-teachers-as-contract-stalemate-drags-on.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 02:12:52 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
+      "desc": "DUBAI, United Arab Emirates (AP) — Iranian drones heavily damaged a passenger terminal at Kuwait's main airport Wednesday, killing one person, wounding dozens and briefly closing the airfield — the la",
+      "link": "https://thehill.com/policy/defense/iran-drone-strike-kuwait-airport/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 01:54:27 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "NASA ends MAVEN mission after Mars orbiter goes silent",
+      "desc": "NASA on Wednesday announced that its Mars Atmosphere and Volatile Evolution (MAVEN) orbiter mission has ended, almost half a year after scientists last heard from the spacecraft. All systems were work",
+      "link": "https://thehill.com/homenews/space/5909020-nasa-maven-orbiter-mission-ends/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 01:03:32 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "desc": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 01:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Michigan House rejects plan to change university board selection process",
+      "desc": "A Michigan House resolution to replace elected university boards with appointed ones failed, despite bipartisan interest in reform.",
+      "link": "https://www.mlive.com/politics/2026/06/michigan-house-rejects-plan-to-change-university-board-selection-process.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 00:49:52 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Altman distances himself from campaign lobbying efforts in Capitol Hill visit",
+      "desc": "OpenAI CEO and co-founder Sam Altman tried to distance himself from the artificial intelligence industry's massive lobbying efforts this cycle as scrutiny mounts over the millions of dollars the secto",
+      "link": "https://thehill.com/homenews/5908955-openai-ceo-altman-lobbying-concerns/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 00:01:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Prolonged energy disruption from Iran war would be severe blow to global economy: Research",
+      "desc": "A new economic outlook released Wednesday indicates that a prolonged disruption of energy supplies resulting from the war in Iran would deliver a severe blow to the global economy, likely causing coun",
+      "link": "https://thehill.com/policy/energy-environment/5908973-energy-disruption-economic-impact/",
+      "date": "Jun 3, 2026",
+      "rawDate": "Wed, 03 Jun 2026 23:55:18 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Trump takes double whammy with Iran, Ukraine votes",
       "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Trump takes double whammy with Iran, Ukraine vote",
@@ -56,33 +137,6 @@
       "tag": "government"
     },
     {
-      "title": "Trump formalizes move of career federal workers into &#039;at will&#039; roles",
-      "desc": "President Trump formally moved to implement his plan for making it easier to fire federal workers in policy roles, signing an executive order moving them into a new class that critics say will be akin",
-      "link": "https://thehill.com/homenews/5908761-trump-federal-workers-schedule-pc/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 21:54:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Florida GOP ramps up AI crackdown as DeSantis exits",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story  Florida GOP ramps up AI crackdown as DeSantis exits Top Florida Republican leaders and candidates are doubling down on their push to regulate arti",
-      "link": "https://thehill.com/newsletters/technology/5908773-florida-gop-ramps-up-ai-crackdown-as-desantis-exits/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 21:48:28 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump congratulates Hilton on yet-to-be called California governor&#039;s race",
-      "desc": "President Trump on Wednesday congratulated Republican Steve Hilton for “coming in first” in the California gubernatorial primary, but Decision Desk HQ has not called the race yet. “Congratulations to ",
-      "link": "https://thehill.com/homenews/campaign/5908712-trump-congratulates-hilton-california/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 21:46:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Portage breaks ground on Amberly Elementary School, part of $132M bond",
       "desc": "The groundbreaking marks progress in the district's three-schools-in-three-years plan funded by a 2025 bond, with renderings unveiled showing modern facilities including air conditioning throughout th",
       "link": "https://www.mlive.com/news/kalamazoo/2026/06/portage-breaks-ground-on-amberly-elementary-school-part-of-132m-bond.html",
@@ -90,24 +144,6 @@
       "rawDate": "Wed, 03 Jun 2026 21:44:51 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump on whether anti-weaponization fund is dead: &#039;I&#039;d have to ask the lawyers&#039;",
-      "desc": "President Trump sidestepped a question Wednesday about whether his $1.8 billion anti-weaponization fund is a dead idea or just on hold after acting Attorney General Todd Blanche said there were no pla",
-      "link": "https://thehill.com/homenews/administration/5908746-trump-18b-fund-halted/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 21:34:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House moves forward on new aid for Ukraine package, spurning Trump",
-      "desc": "Six Republicans joined Democrats on Wednesday to push through a vote on military aid for Ukraine, a blow to President Trump’s handling of Russia’s war against the country and his withdrawal of U.S. su",
-      "link": "https://thehill.com/homenews/house/5908723-house-vote-ukraine-military-aid-trump/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 21:33:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "University of Michigan researcher seen arguing prior to suicidal fall",
@@ -134,15 +170,6 @@
       "date": "Jun 3, 2026",
       "rawDate": "Wed, 03 Jun 2026 21:14:34 +0000",
       "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
-      "desc": "DUBAI, United Arab Emirates (AP) — Kuwait said Iranian drones heavily damaged a passenger terminal at its main airport Wednesday, killing one person, wounding dozens and briefly closing the airfield —",
-      "link": "https://thehill.com/policy/defense/iran-drone-strike-kuwait-airport/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 20:43:13 +0000",
-      "source": "The Hill Defense",
       "tag": "safety"
     },
     {
@@ -569,15 +596,6 @@
       "tag": "technology"
     },
     {
-      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-      "desc": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
-      "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Massive Russian attack kills 22 people across Ukraine, officials say, as Moscow escalates fighting",
       "desc": "KYIV, Ukraine (AP) — Russia launched hundreds of drones and dozens of missiles against Kyiv and other Ukrainian cities overnight, killing at least 22 civilians and wounding 138 others, authorities sai",
       "link": "https://thehill.com/policy/international/russia-attack-ukraine-kyiv/",
@@ -794,15 +812,6 @@
       "tag": "government"
     },
     {
-      "title": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire",
-      "desc": "Business leaders and Gretchen Whitmer have called data centers a big part of Michigan’s future. One Democrat called this a “complete betrayal of the working class.”",
-      "link": "https://www.mlive.com/politics/2026/06/whitmer-poses-next-to-openai-ceo-for-michigan-data-center-groundbreaking-drawing-ire.html",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 16:23:07 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump signs scaled-back AI executive order",
       "desc": "President Trump on Tuesday signed an executive order directing federal agencies to shore up their defenses against more advanced AI models and develop a voluntary testing framework. The new order appe",
       "link": "https://thehill.com/policy/technology/5905712-trump-executive-order-ai-model-testing/",
@@ -920,15 +929,6 @@
       "tag": "health"
     },
     {
-      "title": "Florida attorney general files first-of-its-kind state lawsuit against OpenAI, Altman",
-      "desc": "Florida Attorney General James Uthmeier (R) has filed suit against OpenAI, alleging the artificial intelligence firm and its CEO, Sam Altman, promoted a product they knew could harm users. The complai",
-      "link": "https://thehill.com/policy/technology/5904127-florida-lawsuit-openai-altman/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 17:24:55 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Personalized mRNA vaccine shows promise in reducing melanoma return: Research",
       "desc": "Study results released on Monday revealed that a personalized mRNA vaccine manufactured by Moderna and Merck has shown promise in reducing the return of melanoma, the deadliest form of skin cancer.  T",
       "link": "https://thehill.com/policy/healthcare/5904187-melanoma-vaccine-recurrence-study/",
@@ -954,24 +954,6 @@
       "rawDate": "Mon, 01 Jun 2026 15:19:26 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Grand Blanc shines in more than 100 photos at 2026 graduation ceremony",
-      "desc": "Filled with memorable speeches and once-in-a-lifetime moments, 563 students received their diplomas during the commencement ceremony",
-      "link": "https://www.mlive.com/news/flint/2026/05/grand-blanc-shines-in-more-than-100-photos-at-2026-graduation-ceremony.html",
-      "date": "May 31, 2026",
-      "rawDate": "Sun, 31 May 2026 15:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Local college welder to be first woman representing U.S. at international contest",
-      "desc": "Mikala Sposito, 21, earned her spot after winning national trials and is now training intensively for September’s WordSkills competition in Shanghai. She's a Washtenaw Community College student and De",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/05/local-college-welder-to-be-first-woman-representing-us-at-international-contest.html",
-      "date": "May 31, 2026",
-      "rawDate": "Sun, 31 May 2026 12:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     }
   ]
 }

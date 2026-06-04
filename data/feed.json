@@ -1,6 +1,42 @@
 {
-  "generated": "2026-06-04T02:52:39.258Z",
+  "generated": "2026-06-04T07:18:55.496Z",
   "news": [
+    {
+      "title": "Ann Arbor School Board appointee aims to ‘lower the temperature’ amid budget woes",
+      "desc": "The 4-2 vote selecting Steve Norton Wednesday followed a teacher-led protest over pay and financial concerns; he fills a vacancy left by Don Wilkerson but doesn’t plan to run for the full term.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbor-school-board-appointee-aims-to-lower-the-temperature-amid-budget-woes.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 05:04:40 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
+      "desc": "DUBAI, United Arab Emirates (AP) — Iranian drones heavily damaged a passenger terminal at Kuwait's main airport Wednesday, killing one person, wounding dozens and briefly closing the airfield — the la",
+      "link": "https://thehill.com/policy/defense/iran-drone-strike-kuwait-airport/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 03:28:25 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats question reported White House intervention in loan for Donald Trump Jr.",
+      "desc": "Several Democratic lawmakers are demanding answers following a report that a White House official intervened to grant a $620 million Pentagon loan to a company linked to President Trump’s eldest son. ",
+      "link": "https://thehill.com/homenews/senate/5909127-democrats-question-reported-white-house-intervention-in-loan-for-donald-trump-jr/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 03:01:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Army identifies soldier killed in training accident in Iraq",
+      "desc": "The Army has identified the American soldier who died Sunday, along with a British Army soldier, during a military training accident in Iraq. Sgt. Devin A. Seibel, 26, of Robinson, Texas, died on May ",
+      "link": "https://thehill.com/policy/defense/5909137-army-soldier-dies-iraq-training-identified/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 02:55:39 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Jill Biden hits back at Democratic critic of her book: &#039;Say it to my face&#039;",
       "desc": "Jill Biden is responding to criticism from at least one Democrat who worked in her husband's administration, saying that her new memoir could be unnecessarily igniting a \"painful conversation\" for the",
@@ -29,30 +65,12 @@
       "tag": "education"
     },
     {
-      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
-      "desc": "DUBAI, United Arab Emirates (AP) — Iranian drones heavily damaged a passenger terminal at Kuwait's main airport Wednesday, killing one person, wounding dozens and briefly closing the airfield — the la",
-      "link": "https://thehill.com/policy/defense/iran-drone-strike-kuwait-airport/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 01:54:27 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "NASA ends MAVEN mission after Mars orbiter goes silent",
       "desc": "NASA on Wednesday announced that its Mars Atmosphere and Volatile Evolution (MAVEN) orbiter mission has ended, almost half a year after scientists last heard from the spacecraft. All systems were work",
       "link": "https://thehill.com/homenews/space/5909020-nasa-maven-orbiter-mission-ends/",
       "date": "Jun 4, 2026",
       "rawDate": "Thu, 04 Jun 2026 01:03:32 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-      "desc": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 01:01:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -110,15 +128,6 @@
       "tag": "safety"
     },
     {
-      "title": "Hurricane season arrives after tumultuous year at FEMA",
-      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  FEMA staff losses raise questions about prep Federal Emergency Management Agency (FEMA) staffing losses after a tumu",
-      "link": "https://thehill.com/newsletters/energy-environment/5908906-hurricane-season-arrives-after-tumultuous-year-at-fema/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 22:30:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Older model black Ford Taurus sought in Southwest Michigan fatal hit-and-run",
       "desc": "Police are seeking a black 2010 to 2012 Ford Taurus with driver's side damage believed to have struck and killed 24-year-old Timothy Johnson.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/06/older-model-black-ford-taurus-sought-in-southwest-michigan-fatal-hit-and-run.html",
@@ -126,15 +135,6 @@
       "rawDate": "Wed, 03 Jun 2026 22:16:43 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump says UFC arena outside White House could be permanent",
-      "desc": "President Trump suggested on Wednesday that the UFC arena currently under construction on the White House’s South Lawn could be a permanent addition.  “I’m looking at it and maybe we’ll never ever tak",
-      "link": "https://thehill.com/homenews/administration/5908763-trump-suggests-permanent-ufc-arena/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 22:08:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Portage breaks ground on Amberly Elementary School, part of $132M bond",
@@ -254,15 +254,6 @@
       "tag": "associations"
     },
     {
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-      "desc": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-      "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 18:49:32 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "First new facility in 60 years opens at Detroit City Airport",
       "desc": "The new Avflight complex includes a 5,000-square-foot fixed-base operator terminal and a 20,000-square-foot heated hangar designed to accommodate private and corporate aircraft traveling through the a",
       "link": "https://www.mlive.com/news/detroit/2026/06/first-new-facility-in-60-years-opens-at-detroit-city-airport.html",
@@ -297,24 +288,6 @@
       "rawDate": "Wed, 03 Jun 2026 18:10:25 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Amazon Employees Show Up to City Council Meetings to Demand Limits on Data Centers",
-      "desc": "Activists say it’s the first time Big Tech employees have publicly called for regulations governing data center projects.",
-      "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 18:07:11 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-      "desc": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-      "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 18:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Masked suspect robs employees at gunpoint at Oakland County Jimmy John’s",
@@ -434,15 +407,6 @@
       "tag": "safety"
     },
     {
-      "title": "This Is How Trump Finally Signed the AI Executive Order",
-      "desc": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
-      "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 15:46:52 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "GOP congressman blames staffer for homophobic message posted on social media account",
       "desc": "The now deleted message read \"Homosexuality has no place in America. Happy Nuclear Family Month.”",
       "link": "https://www.mlive.com/news/2026/06/gop-congressman-blames-staffer-for-homophobic-message-posted-on-social-media-account.html",
@@ -515,57 +479,12 @@
       "tag": "education"
     },
     {
-      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-      "desc": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "A Crash Course in Mountain Bike Suspension (2026)",
-      "desc": "How your front fork and rear shock work, so you can hurt less and have more fun.",
-      "link": "https://www.wired.com/story/what-is-bike-suspension/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 10:38:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Florida GOP ramps up AI crackdown under DeSantis",
       "desc": "Top Florida Republican leaders and candidates are doubling down on their push to regulate artificial intelligence as Florida Gov. Ron DeSantis (R), a fierce critic of the technology, prepares to leave",
       "link": "https://thehill.com/policy/technology/5906305-florida-republicans-regulate-ai/",
       "date": "Jun 3, 2026",
       "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Data Center Operators Are Trying to Fix Their Water Use Problems",
-      "desc": "Google, Microsoft, and other hyperscalers have come under scrutiny for their impact on water quality and availability.",
-      "link": "https://www.wired.com/story/data-center-operators-fix-water-use-problems/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-      "desc": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
-      "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Monica Lewinsky Has Always Hated Notifications",
-      "desc": "The writer and anti-bullying activist is on social media, but to protect her nervous system, she prefers not to be alerted.",
-      "link": "https://www.wired.com/story/monica-lewinsky-user-behavior/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -576,24 +495,6 @@
       "rawDate": "Wed, 03 Jun 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
-      "desc": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
-      "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 09:59:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Enclayve Is a Drab Black Box for Your Private Group Chats",
-      "desc": "I put my family on a private social network, and all I got was this lousy group chat. At least it’s secure.",
-      "link": "https://www.wired.com/story/enclayve-is-a-drab-black-box-for-your-private-group-chats/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Massive Russian attack kills 22 people across Ukraine, officials say, as Moscow escalates fighting",
@@ -866,15 +767,6 @@
       "tag": "health"
     },
     {
-      "title": "Senators still hope for details on a deal to pause the war in Iran as talks falter",
-      "desc": "Senate Democrats and Republicans alike have high hopes for a deal to end the Iran War and reopen the Strait of Hormuz. But a shaky ceasefire between Israel and Hezbollah, a proxy of Iran, is complicat",
-      "link": "https://thehill.com/homenews/senate/5905001-strait-hormuz-iran-israel/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 10:03:47 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Nvidia bets on AI personal computers with new &#039;superchip&#039; powering Windows laptops",
       "desc": "TAIPEI, Taiwan (AP) — Nvidia on Monday unveiled new powerful chips that would bring advanced artificial intelligence functions into laptops and desktop computers, with the new personal computer models",
       "link": "https://thehill.com/policy/technology/nvidia-ai-chip-personal-computers/",
@@ -936,15 +828,6 @@
       "rawDate": "Mon, 01 Jun 2026 16:59:10 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Ann Arbor voting spots changing for Aug. 4 primary due to school construction",
-      "desc": "Ann Arbor voters will help decide contested primary races for Michigan governor, U.S. Senate, Michigan Senate, Ann Arbor mayor and City Council, as well as a 10-year renewal of Ann Arbor Public School",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbor-voting-spots-changing-for-aug-4-primary-due-to-school-construction.html",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 16:41:18 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Using AI for just minutes reduces focus and persistence, new study warns",

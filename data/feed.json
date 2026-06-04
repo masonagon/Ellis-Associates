@@ -1,6 +1,105 @@
 {
-  "generated": "2026-06-04T07:18:55.496Z",
+  "generated": "2026-06-04T10:56:59.001Z",
   "news": [
+    {
+      "title": "3 Michigan Democrats are eyeing 2028. What is their message to voters?",
+      "desc": "In speeches on the island, three possible Democratic candidates for president painted themselves as moderates capable of reaching across the aisle.",
+      "link": "https://www.mlive.com/news/2026/06/3-michigan-democrats-are-eyeing-2028-what-is-their-message-to-voters.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:45:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Segway Myon Electric Bike Review: Too Smart?",
+      "desc": "From app-controlled security to electronic shifting and radar alerts, Segway’s Myon may have more tech than you need. That’s not always a bad thing.",
+      "link": "https://www.wired.com/review/segway-myon-electric-bike/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:35:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+      "desc": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+      "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Washington, Silicon Valley brace for AI job losses",
+      "desc": "Washington and Silicon Valley are bracing for the fallout from AI’s potential displacement of workers, floating everything from transition assistance to universal basic income as Americans express gro",
+      "link": "https://thehill.com/policy/technology/5908251-ai-job-displacement-solutions/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:10:55 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Pulte pick to lead DNI further jeopardizes path to renewing warrantless spy powers",
+      "desc": "President Trump’s bid to install a controversial ally to head the intelligence community without the blessing of Congress is giving lawmakers pause about renewing the nation’s warrantless spy powers. ",
+      "link": "https://thehill.com/policy/national-security/5908699-trump-pulte-section-702-controversy/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:07:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "FEMA staff losses leave questions about hurricane season",
+      "desc": "Federal Emergency Management Agency (FEMA) staffing losses after a tumultuous year at the agency are raising questions about whether it will be able to effectively respond to this hurricane season. Wh",
+      "link": "https://thehill.com/policy/energy-environment/5908735-fema-dhs-hurricane-season/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republicans see trouble with independents for Trump",
+      "desc": "Republican senators are growing increasingly concerned about President Trump’s weak polling numbers with independent voters and warn that the GOP may be headed for a political wipeout in the November ",
+      "link": "https://thehill.com/homenews/senate/5908814-gop-poll-numbers-decline/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republicans rocked by Trump’s midterm approach",
+      "desc": "Republicans hoping to keep control of Congress in a tough election year have been thrown off-balance by President Trump’s focus on foreign policy, pet projects, and statements dismissing the importanc",
+      "link": "https://thehill.com/homenews/campaign/5908757-trump-republicans-midterms-focus/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rubio, Vance, Bessent, Oz: White House’s &#039;guest&#039; briefers step into different spotlight",
+      "desc": "There’s a new, favorite Beltway game: evaluating the performance of the big figures in the Trump administration who have stepped to the lectern to conduct White House briefings. Centers for Medicare a",
+      "link": "https://thehill.com/homenews/administration/5908621-trump-administration-briefings-performance/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "This Streamer Has Convinced the Internet Guy Fieri Never Swallows Food on TV",
+      "desc": "A video creator known as Doctor Spaghetti has scrutinized hours of Diners, Drive-Ins and Dives to get to the bottom of an explosive culinary conspiracy theory.",
+      "link": "https://www.wired.com/story/this-streamer-has-convinced-the-internet-guy-fieri-never-swallows-food-on-diners-driveins-dives/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
+      "desc": "SEOUL, South Korea (AP) — North Korea on Thursday unveiled a new facility to produce nuclear bomb fuels, with leader Kim Jong Un announcing plans to bolster the country’s nuclear forces “at an exponen",
+      "link": "https://thehill.com/policy/international/north-korea-nuclear-weapons-fuel-plant/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 08:43:06 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Ann Arbor School Board appointee aims to ‘lower the temperature’ amid budget woes",
       "desc": "The 4-2 vote selecting Steve Norton Wednesday followed a teacher-led protest over pay and financial concerns; he fills a vacancy left by Don Wilkerson but doesn’t plan to run for the full term.",
@@ -99,24 +198,6 @@
       "rawDate": "Wed, 03 Jun 2026 23:55:18 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Trump takes double whammy with Iran, Ukraine votes",
-      "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Trump takes double whammy with Iran, Ukraine vote",
-      "link": "https://thehill.com/newsletters/defense-national-security/5908961-trump-iran-ukraine-votes/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 23:09:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "These Republicans bucked the party on Iran, Ukraine votes",
-      "desc": "Several GOP lawmakers joined House Democrats on Wednesday afternoon to pass a resolution to force the Trump administration to end its war against Iran and to advance legislation to support Ukraine in ",
-      "link": "https://thehill.com/homenews/house/5908913-gop-house-lawmakers-join-democrats-iran-ukraine/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 22:57:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Pentagon sued over Stars and Stripes restrictions",
@@ -704,15 +785,6 @@
       "tag": "safety"
     },
     {
-      "title": "Flint council adopts on-time budget but questions linger about DDA",
-      "desc": "Flint has a new budget for the fiscal year that starts on July 1 and the City Council has ended a three-year streak of missing a charter deadline for adopting a spending plan.",
-      "link": "https://www.mlive.com/news/flint/2026/06/flint-council-adopts-on-time-budget-but-questions-linger-about-dda.html",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 16:45:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump signs scaled-back AI executive order",
       "desc": "President Trump on Tuesday signed an executive order directing federal agencies to shore up their defenses against more advanced AI models and develop a voluntary testing framework. The new order appe",
       "link": "https://thehill.com/policy/technology/5905712-trump-executive-order-ai-model-testing/",
@@ -740,15 +812,6 @@
       "tag": "education"
     },
     {
-      "title": "Axelrod on reported Trump outburst at Netanyahu: &#039;His analysis is not wrong&#039;",
-      "desc": "Democratic strategist David Axelrod said Monday night that President Trump's reported outburst at Israeli Prime Minister Benjamin Netanyahu on a phone call earlier in the day was justified. Trump repo",
-      "link": "https://thehill.com/homenews/administration/5905569-trump-netanyahu-outburst-axeledrod/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 15:31:33 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "SEC defends settlement with Musk over Twitter, saying it reflected &#039;compromises&#039;",
       "desc": "The Securities and Exchange Commission (SEC) on Monday defended its decision to settle with billionaire Elon Musk over the delayed disclosure of his stake in Twitter, now known as X, after the judge r",
       "link": "https://thehill.com/policy/technology/5905432-securities-and-exchange-commision-elon-musk-twitter-settlement/",
@@ -765,15 +828,6 @@
       "rawDate": "Tue, 02 Jun 2026 12:03:17 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Nvidia bets on AI personal computers with new &#039;superchip&#039; powering Windows laptops",
-      "desc": "TAIPEI, Taiwan (AP) — Nvidia on Monday unveiled new powerful chips that would bring advanced artificial intelligence functions into laptops and desktop computers, with the new personal computer models",
-      "link": "https://thehill.com/policy/technology/nvidia-ai-chip-personal-computers/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 02:01:39 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "5 American cruise ship passengers leave Nebraska quarantine facility",

@@ -1,9 +1,99 @@
 {
-  "generated": "2026-06-04T10:56:59.001Z",
+  "generated": "2026-06-04T13:57:11.383Z",
   "news": [
     {
+      "title": "Screwworm fly detected in Texas for first time in decades",
+      "desc": "A flesh-eating parasite has been detected in Texas, the U.S. Department of Agriculture (USDA) Animal and Plant Inspection Service confirmed Wednesday.  A New World screwworm (NWS) was found in a young",
+      "link": "https://thehill.com/policy/healthcare/5909483-new-world-screwworm-texas/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 13:50:40 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Watch live: Rollins faces House questioning over USDA budget",
+      "desc": "U.S. Department of Agriculture (USDA) Secretary Brooke Rollins will testify before a House panel on Thursday morning on USDA‘s domestic priorities and President Trump's fiscal 2027 budget request. The",
+      "link": "https://thehill.com/video-clips/5909343-watch-live-brooke-rollins-house-hearing-usda-priorities-trump-budget/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 13:50:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Bessent testifies before House on Treasury Department priorities, budget",
+      "desc": "Treasury Secretary Scott Bessent will testify before the House Ways and Means Committee on Thursday morning about President Trump’s fiscal 2027 budget request and priorities for the department as affo",
+      "link": "https://thehill.com/video-clips/5909344-watch-live-scott-bessent-treasury-department-house-hearing-trump-budget/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 13:45:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Boebert on &#039;embarrassing&#039; Kean absence: &#039;Where is he?&#039;",
+      "desc": "Rep. Lauren Boebert (R-Colo.) slammed fellow GOP Rep. Tom Kean Jr. (N.J.) for his extended absence from Capitol Hill and the campaign trail. “Where is he? No, seriously. It’s embarrassing,” Boebert to",
+      "link": "https://thehill.com/homenews/house/5909475-lauren-boebert-tom-kean-jr-absence-house-gop/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 13:44:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump rips &#039;meaningless&#039; House vote on resolution to end Iran war",
+      "desc": "President Trump on Thursday panned the House for passing a resolution designed to force him to end the Iran war, calling the action \"meaningless.\" “Yesterday, in a meaningless vote, the House voted, 4",
+      "link": "https://thehill.com/homenews/administration/5909327-donald-trump-war-powers-resolution-house-passage-criticism-iran-war/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 13:06:56 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Spencer Pratt&#039;s LA mayoral chances; Senate map shifts in Iowa, Maine: Join the live discussion",
+      "desc": "Former reality TV star Spencer Pratt is close to advancing to the Los Angeles mayoral runoff, raising new questions about his viability in the final stretch. Meanwhile, Democrats are weighing concerns",
+      "link": "https://thehill.com/homenews/campaign/data-nerds/5909321-spencer-pratt-karen-bass-los-angeles-mayoral-race-maine-iowa-midterms-live-discussion/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 12:49:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Senate poised for vote-a-rama on reconciliation; Trump to boost coal",
+      "desc": "The Senate is expected to launch into a voting blitz on Thursday as it moves toward passing a budget reconciliation package that would fund immigration enforcement agencies. A party-line vote kicked o",
+      "link": "https://thehill.com/homenews/administration/5908695-live-updates-donald-trump-supreme-court-senate-reconciliation/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 12:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats bullish on flipping missing New Jersey Republican&#039;s House seat",
+      "desc": "Democrats are feeling bullish about their chances of flipping a critical New Jersey battleground district amid a Republican congressman’s prolonged absence from Washington. Rep. Thomas Kean, Jr. (R-N.",
+      "link": "https://thehill.com/newsletters/on-the-ballot/5908099-democrats-kean-bennett-new-jersey-house/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Banning transgender athletes has never been about protecting women",
+      "desc": "It is no accident that the same politicians are pushing both anti-transgender legislation and a rollback of women's other protections.",
+      "link": "https://thehill.com/opinion/judiciary/5904083-supreme-court-transgender-athletes/",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "143 deaths: Lansing-region offers glimpse into Michigan’s overdose trends",
+      "desc": "A seven-county region reported 143 drug deaths in 2025, with fentanyl involved in most cases and polysubstance use accounting for nearly 70% of overdoses.",
+      "link": "https://www.mlive.com/news/2026/06/143-deaths-lansing-region-offers-glimpse-into-michigans-overdose-trends.html",
+      "date": "Jun 4, 2026",
+      "rawDate": "Thu, 04 Jun 2026 11:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
       "title": "3 Michigan Democrats are eyeing 2028. What is their message to voters?",
-      "desc": "In speeches on the island, three possible Democratic candidates for president painted themselves as moderates capable of reaching across the aisle.",
+      "desc": "In speeches on Mackinac Island, three possible Democratic candidates for president painted themselves as moderates capable of reaching across the aisle.",
       "link": "https://www.mlive.com/news/2026/06/3-michigan-democrats-are-eyeing-2028-what-is-their-message-to-voters.html",
       "date": "Jun 4, 2026",
       "rawDate": "Thu, 04 Jun 2026 10:45:00 +0000",
@@ -36,51 +126,6 @@
       "rawDate": "Thu, 04 Jun 2026 10:10:55 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Pulte pick to lead DNI further jeopardizes path to renewing warrantless spy powers",
-      "desc": "President Trump’s bid to install a controversial ally to head the intelligence community without the blessing of Congress is giving lawmakers pause about renewing the nation’s warrantless spy powers. ",
-      "link": "https://thehill.com/policy/national-security/5908699-trump-pulte-section-702-controversy/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 10:07:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "FEMA staff losses leave questions about hurricane season",
-      "desc": "Federal Emergency Management Agency (FEMA) staffing losses after a tumultuous year at the agency are raising questions about whether it will be able to effectively respond to this hurricane season. Wh",
-      "link": "https://thehill.com/policy/energy-environment/5908735-fema-dhs-hurricane-season/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Republicans see trouble with independents for Trump",
-      "desc": "Republican senators are growing increasingly concerned about President Trump’s weak polling numbers with independent voters and warn that the GOP may be headed for a political wipeout in the November ",
-      "link": "https://thehill.com/homenews/senate/5908814-gop-poll-numbers-decline/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Republicans rocked by Trump’s midterm approach",
-      "desc": "Republicans hoping to keep control of Congress in a tough election year have been thrown off-balance by President Trump’s focus on foreign policy, pet projects, and statements dismissing the importanc",
-      "link": "https://thehill.com/homenews/campaign/5908757-trump-republicans-midterms-focus/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Rubio, Vance, Bessent, Oz: White House’s &#039;guest&#039; briefers step into different spotlight",
-      "desc": "There’s a new, favorite Beltway game: evaluating the performance of the big figures in the Trump administration who have stepped to the lectern to conduct White House briefings. Centers for Medicare a",
-      "link": "https://thehill.com/homenews/administration/5908621-trump-administration-briefings-performance/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "This Streamer Has Convinced the Internet Guy Fieri Never Swallows Food on TV",
@@ -119,15 +164,6 @@
       "tag": "safety"
     },
     {
-      "title": "Democrats question reported White House intervention in loan for Donald Trump Jr.",
-      "desc": "Several Democratic lawmakers are demanding answers following a report that a White House official intervened to grant a $620 million Pentagon loan to a company linked to President Trump’s eldest son. ",
-      "link": "https://thehill.com/homenews/senate/5909127-democrats-question-reported-white-house-intervention-in-loan-for-donald-trump-jr/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 03:01:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Army identifies soldier killed in training accident in Iraq",
       "desc": "The Army has identified the American soldier who died Sunday, along with a British Army soldier, during a military training accident in Iraq. Sgt. Devin A. Seibel, 26, of Robinson, Texas, died on May ",
       "link": "https://thehill.com/policy/defense/5909137-army-soldier-dies-iraq-training-identified/",
@@ -135,24 +171,6 @@
       "rawDate": "Thu, 04 Jun 2026 02:55:39 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Jill Biden hits back at Democratic critic of her book: &#039;Say it to my face&#039;",
-      "desc": "Jill Biden is responding to criticism from at least one Democrat who worked in her husband's administration, saying that her new memoir could be unnecessarily igniting a \"painful conversation\" for the",
-      "link": "https://thehill.com/blogs/in-the-know/5909129-jill-biden-responds-democrat-criticism-book-tour/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 02:50:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Remote work may be locking younger workers out of labor force: NY Fed",
-      "desc": "Rising youth unemployment rates since the 2020 pandemic may be tied to a trend in remote work, the New York Federal Reserve Bank said in an analysis published on Monday.  In the report, the regional F",
-      "link": "https://thehill.com/business/5909105-remote-work-youth-unemployment/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 02:24:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "‘Plan for us’: Hundreds rally for Ann Arbor teachers as contract stalemate drags on",
@@ -184,20 +202,11 @@
     {
       "title": "Altman distances himself from campaign lobbying efforts in Capitol Hill visit",
       "desc": "OpenAI CEO and co-founder Sam Altman tried to distance himself from the artificial intelligence industry's massive lobbying efforts this cycle as scrutiny mounts over the millions of dollars the secto",
-      "link": "https://thehill.com/homenews/5908955-openai-ceo-altman-lobbying-concerns/",
+      "link": "https://thehill.com/policy/technology/5908955-openai-ceo-altman-lobbying-concerns/",
       "date": "Jun 4, 2026",
       "rawDate": "Thu, 04 Jun 2026 00:01:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Prolonged energy disruption from Iran war would be severe blow to global economy: Research",
-      "desc": "A new economic outlook released Wednesday indicates that a prolonged disruption of energy supplies resulting from the war in Iran would deliver a severe blow to the global economy, likely causing coun",
-      "link": "https://thehill.com/policy/energy-environment/5908973-energy-disruption-economic-impact/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 23:55:18 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Pentagon sued over Stars and Stripes restrictions",
@@ -236,8 +245,8 @@
       "tag": "education"
     },
     {
-      "title": "House passes resolution to end Iran War, challenging Trump",
-      "desc": "House lawmakers on Wednesday passed legislation designed to force President Trump to end the Iran War, marking a victory for Democrats and the constitutional purists who say the conflict is illegal wi",
+      "title": "House passes resolution to end Iran war, challenging Trump",
+      "desc": "House lawmakers on Wednesday passed legislation designed to force President Trump to end the Iran war, marking a victory for Democrats and the constitutional purists who say the conflict is illegal wi",
       "link": "https://thehill.com/homenews/house/5908560-iran-war-resolution-house/",
       "date": "Jun 3, 2026",
       "rawDate": "Wed, 03 Jun 2026 21:19:08 +0000",
@@ -642,7 +651,7 @@
     },
     {
       "title": "Meta expands safety features to limit harmful content for teens",
-      "desc": "Meta is rolling out a new feature to limit harmful content shown to teenagers as part of a broader push to better protect kids online in the wake of two landmark verdicts against the company. The sett",
+      "desc": "Meta is rolling out a new feature to limit harmful content shown to teenagers as part of a broader push to better protect kids online in the wake of two landmark verdicts against the company. The feat",
       "link": "https://thehill.com/policy/technology/5906373-limiting-harmful-content-teens/",
       "date": "Jun 2, 2026",
       "rawDate": "Tue, 02 Jun 2026 21:00:12 +0000",
@@ -731,15 +740,6 @@
       "tag": "government"
     },
     {
-      "title": "Michigan GOP governor candidate appeals removal from ballot",
-      "desc": "GOP governor candidate Ralph Rebandt is appealing the decision to remove him from the primary election ballot due to an insufficient number of valid signatures.",
-      "link": "https://www.mlive.com/politics/2026/06/michigan-gop-governor-candidate-appeals-removal-from-ballot.html",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 18:29:31 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Oz sidesteps questions on Pulte’s lack of intel background",
       "desc": "Dr. Mehmet Oz sidestepped questions on Tuesday about President Trump’s appointment of Bill Pulte, the homebuilder and director of the Federal Housing Finance Agency (FHFA), to serve as acting head of ",
       "link": "https://thehill.com/homenews/administration/5906170-mehmet-oz-pulte-appointment/",
@@ -812,15 +812,6 @@
       "tag": "education"
     },
     {
-      "title": "SEC defends settlement with Musk over Twitter, saying it reflected &#039;compromises&#039;",
-      "desc": "The Securities and Exchange Commission (SEC) on Monday defended its decision to settle with billionaire Elon Musk over the delayed disclosure of his stake in Twitter, now known as X, after the judge r",
-      "link": "https://thehill.com/policy/technology/5905432-securities-and-exchange-commision-elon-musk-twitter-settlement/",
-      "date": "Jun 2, 2026",
-      "rawDate": "Tue, 02 Jun 2026 14:12:24 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Dr. Oz to helm White House press briefing",
       "desc": "Dr. Mehmet Oz, Centers for Medicare and Medicaid Services (CMS) administrator, will host the White House press briefing on Tuesday, becoming the latest Trump administration official to fill in for pre",
       "link": "https://thehill.com/homenews/administration/5905227-mehmet-oz-white-house-briefing/",
@@ -880,15 +871,6 @@
       "link": "https://thehill.com/policy/healthcare/5904187-melanoma-vaccine-recurrence-study/",
       "date": "Jun 1, 2026",
       "rawDate": "Mon, 01 Jun 2026 16:59:10 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Using AI for just minutes reduces focus and persistence, new study warns",
-      "desc": "A study conducted by scientists found AI can compromise cognitive function and problem-solving abilities in a relatively short period.",
-      "link": "https://thehill.com/policy/technology/5903891-ai-mental-health-study/",
-      "date": "Jun 1, 2026",
-      "rawDate": "Mon, 01 Jun 2026 15:19:26 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

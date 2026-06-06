@@ -1,6 +1,42 @@
 {
-  "generated": "2026-06-06T00:11:27.429Z",
+  "generated": "2026-06-06T04:48:23.510Z",
   "news": [
+    {
+      "title": "USDA confirms second screwworm fly found in Texas",
+      "desc": "The U.S. Department of Agriculture (USDA) confirmed a second case of a flesh-eating screwworm parasite in Texas on Friday, as it races to contain and eradicate the outbreak before it severely impacts ",
+      "link": "https://thehill.com/policy/healthcare/5913003-usda-confirms-second-screwworm-fly-texas/",
+      "date": "Jun 6, 2026",
+      "rawDate": "Sat, 06 Jun 2026 02:59:37 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "DOJ confirms in court filing &#039;anti-weaponization&#039; fund &#039;will not&#039; continue",
+      "desc": "The Trump administration’s nearly $1.8 billion “anti-weaponization” fund is effectively dead, the Justice Department (DOJ) told a federal court on Friday, while also asking it to reject a challenge br",
+      "link": "https://thehill.com/regulation/court-battles/5912975-trump-anti-weaponization-fund-dead/",
+      "date": "Jun 6, 2026",
+      "rawDate": "Sat, 06 Jun 2026 01:57:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Company fined $500K for asbestos violation amid demo of old Saginaw auto site",
+      "desc": "Prosecutors say Applied Partners LLC failed to properly remove hazards before demolition, exposing contracted workers to health risks.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/company-fined-500k-for-asbestos-violation-amid-demo-of-old-saginaw-auto-site.html",
+      "date": "Jun 6, 2026",
+      "rawDate": "Sat, 06 Jun 2026 01:27:20 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "New York passes data center moratorium and consumer protections",
+      "desc": "The New York State Senate and Assembly passed three bills regulating data centers, surveillance pricing, and digital stalking, while abandoning other environmental, housing, and entertainment measures",
+      "link": "https://thehill.com/homenews/state-watch/5912788-new-york-data-center-moratorium/",
+      "date": "Jun 6, 2026",
+      "rawDate": "Sat, 06 Jun 2026 01:11:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Hawaii man charged after threats to kill Whitmer, carry out State Capitol shooting",
       "desc": "Federal authorities say a 48-year-old from Honolulu emailed MSP and Whitmer's office that he planned to target the Democratic official over her political affiliation and take an AR-15 into the Capitol",
@@ -65,15 +101,6 @@
       "tag": "safety"
     },
     {
-      "title": "Top Democrats urge Treasury Department to halt production of gold coins with Trump image",
-      "desc": "Two Senate Democrats on Thursday called on the Trump administration to stop the production of a 24-karat gold coin bearing President Trump’s image to commemorate America’s 250th birthday, with the law",
-      "link": "https://thehill.com/homenews/senate/5912566-democrats-demand-trump-coin-halt/",
-      "date": "Jun 5, 2026",
-      "rawDate": "Fri, 05 Jun 2026 20:09:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Chobani CEO: $567M expansion aims to pull wave of food makers to Michigan",
       "desc": "Chobani is expanding its La Colombe facility in Muskegon County, aiming to spur food industry growth and create hundreds of local jobs.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/06/chobani-ceo-567m-expansion-aims-to-pull-wave-of-food-makers-to-michigan.html",
@@ -106,8 +133,8 @@
       "link": "https://thehill.com/policy/defense/5912531-house-ndaa-pentagon-hegseth-department-war/",
       "date": "Jun 5, 2026",
       "rawDate": "Fri, 05 Jun 2026 19:44:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Prison administration, officer union clash over Upper Peninsula officer wages",
@@ -434,15 +461,6 @@
       "tag": "safety"
     },
     {
-      "title": "Large fire destroys Lapeer County business, visible for miles",
-      "desc": "Smoke could be seen as far as Davison from the fire that began around 4 p.m. Thursday, June 4, at Pallets N More off Shaw Road in Goodland Township, north of Imlay City.",
-      "link": "https://www.mlive.com/news/flint/2026/06/large-fire-destroys-lapeer-county-business-visible-for-miles.html",
-      "date": "Jun 5, 2026",
-      "rawDate": "Fri, 05 Jun 2026 02:02:22 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "UN nuclear watchdog says it&#039;s been unable to inspect Iranian facilities",
       "desc": "VIENNA (AP) — The U.N. nuclear watchdog has been unable to inspect nuclear facilities in Iran affected by the war last June according to a confidential report by the U.N. nuclear watchdog circulated t",
       "link": "https://thehill.com/policy/international/un-nuclear-watchdog-iran-war/",
@@ -651,7 +669,7 @@
     },
     {
       "title": "Supreme Court upholds FCC’s fines against Verizon, AT&#038;T",
-      "desc": "The Supreme Court rejected Verizon and AT&#38;T���s constitutional challenge to massive fines imposed by the Federal Communications Commission (FCC) in an 8-1 vote on Thursday.  Chief Justice John Rob",
+      "desc": "The Supreme Court rejected Verizon and AT&#38;T’s constitutional challenge to massive fines imposed by the Federal Communications Commission (FCC) in an 8-1 vote on Thursday.  Chief Justice John Rober",
       "link": "https://thehill.com/regulation/court-battles/5909636-fcc-verizon-att-fines-supreme-court/",
       "date": "Jun 4, 2026",
       "rawDate": "Thu, 04 Jun 2026 14:25:57 +0000",
@@ -821,15 +839,6 @@
       "tag": "health"
     },
     {
-      "title": "AI policy groups call for NDAA guardrails on lethal autonomous weapons",
-      "desc": "AI policy groups are urging leaders on the House and Senate Armed Services Committees to add guardrails to an annual defense policy bill on the military’s use of lethal autonomous weapons.  Americans ",
-      "link": "https://thehill.com/policy/technology/5908512-congress-add-ai-guardrails-ndaa/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 20:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Two finalists advance in Bangor Township Schools superintendent search",
       "desc": "Stephan Clark from Vassar Public Schools and Stephen Bouvy from Millington Community Schools will participate in a second round of interviews Monday.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/two-finalists-advance-in-bangor-township-schools-superintendent-search.html",
@@ -853,15 +862,6 @@
       "link": "https://thehill.com/policy/healthcare/5907909-rubio-state-department-gavi/",
       "date": "Jun 3, 2026",
       "rawDate": "Wed, 03 Jun 2026 16:08:09 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "&#039;Queen of Versailles&#039; star Jackie Siegel to mark annual Naloxone Awareness Day in DC",
-      "desc": "The so-called Queen of Versailles is trading her kingdom for Capitol Hill, heading to Congress to mark a day she championed dedicated to bringing attention to naloxone, commonly known as the brand nam",
-      "link": "https://thehill.com/blogs/in-the-know/5906367-queen-of-versailles-jackie-siegel-to-mark-narcan-naloxone-awareness-day/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 13:30:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

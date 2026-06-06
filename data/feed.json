@@ -1,9 +1,36 @@
 {
-  "generated": "2026-06-05T22:59:33.160Z",
+  "generated": "2026-06-06T00:11:27.429Z",
   "news": [
     {
+      "title": "Hawaii man charged after threats to kill Whitmer, carry out State Capitol shooting",
+      "desc": "Federal authorities say a 48-year-old from Honolulu emailed MSP and Whitmer's office that he planned to target the Democratic official over her political affiliation and take an AR-15 into the Capitol",
+      "link": "https://www.mlive.com/news/2026/06/hawaii-man-charged-after-threats-to-kill-whitmer-carry-out-state-capitol-shooting.html",
+      "date": "Jun 5, 2026",
+      "rawDate": "Fri, 05 Jun 2026 23:49:52 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Texas GOP House member&#039;s chief of staff faces firearm charges",
+      "desc": "A top staffer for Rep. Pete Sessions (R-Texas) is facing several firearm charges months after he allegedly attempted to bring a firearm into the U.S. Capitol complex. Luis Vega, Sessions’s chief of st",
+      "link": "https://thehill.com/homenews/house/5912882-rep-pete-sessions-staffer-firearm-charges/",
+      "date": "Jun 5, 2026",
+      "rawDate": "Fri, 05 Jun 2026 23:26:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US military shoots down 4 Iranian drones heading toward Strait of Hormuz",
+      "desc": "The U.S. military shot down four Iranian one-way attack drones Friday that were heading toward the Strait of Hormuz and posed an imminent threat to maritime traffic, according to the U.S. Central Comm",
+      "link": "https://thehill.com/policy/defense/5912849-us-military-shoots-down-iranian-drones/",
+      "date": "Jun 5, 2026",
+      "rawDate": "Fri, 05 Jun 2026 23:01:14 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
       "title": "House Democrat says Platner has &#039;disqualified himself&#039; from Maine Senate race",
-      "desc": "Rep. Madeleine Dean (D-Pa.) said on Friday that she believes Democrat Graham Platner has “disqualified himself” from the Maine Senate race amid a series of escalating allegations about his past behavi",
+      "desc": "Rep. Madeleine Dean (D-Pa.) said Friday that she believes Democrat Graham Platner has “disqualified himself” from the Maine Senate race amid a series of escalating allegations about his past behavior ",
       "link": "https://thehill.com/homenews/campaign/5912815-madeleine-dean-on-platner-allegations/",
       "date": "Jun 5, 2026",
       "rawDate": "Fri, 05 Jun 2026 22:42:50 +0000",
@@ -83,15 +110,6 @@
       "tag": "government"
     },
     {
-      "title": "Live updates: Trump heads to Wisconsin; Senate funds immigration enforcement through 2029",
-      "desc": "The Senate pulled an all-nighter Thursday, voting just before dawn to pass the $69.5 billion budget reconciliation package that funds immigration enforcement operations through 2029. The night was not",
-      "link": "https://thehill.com/homenews/administration/5910453-live-updates-senate-trump-budget-ballroom-midterms/",
-      "date": "Jun 5, 2026",
-      "rawDate": "Fri, 05 Jun 2026 19:21:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Prison administration, officer union clash over Upper Peninsula officer wages",
       "desc": "The Michigan Corrections Organization, the union representing state correctional officers, was in negotiations over matching pay increases when the Michigan Department of Corrections issued a press re",
       "link": "https://www.mlive.com/news/2026/06/prison-administration-officer-union-clash-over-upper-peninsula-officer-wages.html",
@@ -99,15 +117,6 @@
       "rawDate": "Fri, 05 Jun 2026 19:13:10 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "ICE to stop reporting deaths of newly released detainees: &#039;This is common sense&#039;",
-      "desc": "The U.S. Immigration and Customs Enforcement (ICE) will no longer publicly report the deaths of released detainees under a newly revised policy, according to an internal memo sent to agency employees ",
-      "link": "https://thehill.com/homenews/administration/5912449-ice-released-detainee-death-policy/",
-      "date": "Jun 5, 2026",
-      "rawDate": "Fri, 05 Jun 2026 19:09:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "US has passed 2K measles cases this year",
@@ -443,15 +452,6 @@
       "tag": "safety"
     },
     {
-      "title": "Flint woman charged with murder, weapons felonies in fatal late-night shooting",
-      "desc": "O’Kneea Hellems, 29, was arraigned on Wednesday in Genesee County and faces up to life in prison over the fatal May 2 shooting of a 34-year-old Flint man.",
-      "link": "https://www.mlive.com/news/flint/2026/06/flint-woman-charged-with-murder-weapons-felonies-in-fatal-late-night-shooting.html",
-      "date": "Jun 5, 2026",
-      "rawDate": "Fri, 05 Jun 2026 01:19:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "FCC reviewing school internet subsidies amid kids’ screen time concerns",
       "desc": "The Federal Communications Commission (FCC) is reviewing a $3 billion annual program that subsidizes internet access for schools and libraries, citing concerns over excessive screen time among childre",
       "link": "https://thehill.com/homenews/education/5911207-fcc-reviews-school-internet-subsidies/",
@@ -772,8 +772,8 @@
       "link": "https://www.mlive.com/politics/2026/06/michigan-house-rejects-plan-to-change-university-board-selection-process.html",
       "date": "Jun 4, 2026",
       "rawDate": "Thu, 04 Jun 2026 00:49:52 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Altman distances himself from campaign lobbying efforts in Capitol Hill visit",
@@ -810,15 +810,6 @@
       "rawDate": "Wed, 03 Jun 2026 21:32:54 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "House passes resolution to end Iran war, challenging Trump",
-      "desc": "House lawmakers on Wednesday passed legislation designed to force President Trump to end the Iran war, marking a victory for Democrats and the constitutional purists who say the conflict is illegal wi",
-      "link": "https://thehill.com/homenews/house/5908560-iran-war-resolution-house/",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 21:19:08 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Conservative think tank alleges widespread ObamaCare enrollment fraud",

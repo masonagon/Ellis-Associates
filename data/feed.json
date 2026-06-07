@@ -1,6 +1,51 @@
 {
-  "generated": "2026-06-07T14:47:51.797Z",
+  "generated": "2026-06-07T16:08:23.420Z",
   "news": [
+    {
+      "title": "Senate Republican casts doubt on Pulte as long-term DNI pick",
+      "desc": "Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is “not qualified” to permanently serve as Director of National Intelligence pointing to his lack",
+      "link": "https://thehill.com/homenews/senate/5913759-lankford-questions-pulte-qualifications/",
+      "date": "Jun 7, 2026",
+      "rawDate": "Sun, 07 Jun 2026 15:26:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw Township schools launch survey after third bond defeat",
+      "desc": "The 32-question SurveyMonkey questionnaire asks residents whether they would support less-expensive proposals or multiple bonds on the same ballot in future elections.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-township-schools-launch-survey-after-third-bond-defeat.html",
+      "date": "Jun 7, 2026",
+      "rawDate": "Sun, 07 Jun 2026 15:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "This Juneteenth weekend celebration in Muskegon brings together 80+ Black-owned businesses",
+      "desc": "Black Wall Street Muskegon's 6th Annual Black Business Expo features live music, a community car show, and food vendors alongside entrepreneurs showcasing the economic power of the city's diverse busi",
+      "link": "https://www.mlive.com/news/muskegon/2026/06/this-juneteenth-weekend-celebration-in-muskegon-brings-together-80-black-owned-businesses.html",
+      "date": "Jun 7, 2026",
+      "rawDate": "Sun, 07 Jun 2026 15:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Fitzpatrick on Platner: &#039;We have to set a higher bar&#039; in Congress",
+      "desc": "Rep. Brian Fitzpatrick (R-Pa.) on Sunday warned of what actions Congress can take if Maine Senate candidate Graham Platner (D) unseats Sen. Susan Collins (R-Maine), saying that lawmakers \"have to set ",
+      "link": "https://thehill.com/homenews/house/5913717-fitzpatrick-on-platner-we-have-to-set-a-higher-bar-in-congress/",
+      "date": "Jun 7, 2026",
+      "rawDate": "Sun, 07 Jun 2026 14:54:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump denies campaign push to finish endless wars: &#039;I didn&#039;t promise anything&#039;",
+      "desc": "President Trump denied Friday that he campaigned on avoiding “endless” wars, as he seeks to reach a deal to end hostilities with Iran.  “I didn't promise anything. I don't like these endless wars. Thi",
+      "link": "https://thehill.com/homenews/administration/5913750-trump-denies-endless-wars/",
+      "date": "Jun 7, 2026",
+      "rawDate": "Sun, 07 Jun 2026 14:52:33 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Warner frets about &#039;grossly unqualified&#039; Pulte",
       "desc": "Sen. Mark Warner (D-Va.) on Sunday fretted about Federal Housing Finance Agency (FHFA) Director Bill Pulte’s appointment as the acting head of the Office of the Director of National Intelligence, desc",
@@ -9,6 +54,15 @@
       "rawDate": "Sun, 07 Jun 2026 14:25:13 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Warner frets about &#8216;grossly unqualified&#8217; Pulte",
+      "desc": "Sen. Mark Warner (D-Va.) on Sunday fretted about Federal Housing Finance Agency (FHFA) Director Bill Pulte’s appointment as the acting head of the Office of the Director of National Intelligence, desc",
+      "link": "https://thehill.com/homenews/senate/5913721-warner-warns-pulte-national-security/",
+      "date": "Jun 7, 2026",
+      "rawDate": "Sun, 07 Jun 2026 14:25:13 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Man shot on Grand Rapids’ northwest side",
@@ -83,24 +137,6 @@
       "tag": "technology"
     },
     {
-      "title": "Intoxicating hemp industry seeks rescue in Congress as ban looms",
-      "desc": "The intoxicating hemp industry and its allies are quickly running out of time to convince Congress to delay or stop a looming ban on their products.  Without action, a ban on hemp-derived intoxicants ",
-      "link": "https://thehill.com/policy/healthcare/5912845-hemp-derived-intoxicants-congress/",
-      "date": "Jun 7, 2026",
-      "rawDate": "Sun, 07 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democratic confidence surges with Turek&#039;s Iowa Senate primary",
-      "desc": "Democrats are eyeing Iowa’s U.S. Senate race with renewed optimism after state Rep. Josh Turek secured his party’s nomination on Tuesday. They consider it their best chance to compete for the seat in ",
-      "link": "https://thehill.com/homenews/campaign/5913157-josh-turek-iowa-senate-democrats/",
-      "date": "Jun 7, 2026",
-      "rawDate": "Sun, 07 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump drags feet on drone deal with Ukraine, mystifying experts",
       "desc": "The Trump administration’s hesitancy in signing a major drone deal with Ukraine is slowing the U.S. military down in an area where it’s already trying to play catch-up. Even as Ukrainian President Vol",
       "link": "https://thehill.com/policy/defense/5911039-trump-drone-deal-ukraine/",
@@ -110,6 +146,15 @@
       "tag": "safety"
     },
     {
+      "title": "Intoxicating hemp industry seeks rescue in Congress as ban looms",
+      "desc": "The intoxicating hemp industry and its allies are quickly running out of time to convince Congress to delay or stop a looming ban on their products.  Without action, a ban on hemp-derived intoxicants ",
+      "link": "https://thehill.com/policy/healthcare/5912845-hemp-derived-intoxicants-congress/",
+      "date": "Jun 7, 2026",
+      "rawDate": "Sun, 07 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
       "title": "How to Watch Apple’s WWDC 2026 Keynote—and What to Expect",
       "desc": "The annual developer event is where Apple announces operating system updates—like iOS 27—and maybe even teases future hardware. Here’s how to see it all.",
       "link": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
@@ -117,33 +162,6 @@
       "rawDate": "Sun, 07 Jun 2026 09:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "White House AI policy adviser to leave role at end of month",
-      "desc": "A top White House adviser on artificial intelligence confirmed Saturday that he will be stepping down from his position at the end of this month.  Sriram Krishnan, a tech investor and senior policy ad",
-      "link": "https://thehill.com/homenews/administration/5913508-ai-policy-expert-leaves-white-house/",
-      "date": "Jun 7, 2026",
-      "rawDate": "Sun, 07 Jun 2026 02:54:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mamdani: Democratic Party has ‘lost its focus on working people’",
-      "desc": "New York City Mayor Zohran Mamdani (D) said Saturday that Democrats have lost sight of the important economic issues facing working-class Americans as the party works to rebuild itself after a devasta",
-      "link": "https://thehill.com/homenews/campaign/5913496-mayor-mamdani-democrats-economic-issues/",
-      "date": "Jun 7, 2026",
-      "rawDate": "Sun, 07 Jun 2026 01:51:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
-      "desc": "President Trump is sitting down for an interview Sunday on NBC’s “Meet the Press” following a turbulent week marked by new lows in his approval ratings and growing tensions with Senate Republicans tha",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
-      "date": "Jun 6, 2026",
-      "rawDate": "Sat, 06 Jun 2026 23:31:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "1 arrested after crash between car, horse-drawn buggy injures 2 children, pregnant woman",
@@ -488,15 +506,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump plans $700M investment in the coal industry, using emergency wartime powers",
-      "desc": "Under the president's orders, coal-fired power plants in Michigan, Indiana and other states were required to keep operating past their retirement dates with power demands for data centers and AI.",
-      "link": "https://www.mlive.com/politics/2026/06/trump-plans-700m-investment-in-the-coal-industry-using-emergency-wartime-powers.html",
-      "date": "Jun 5, 2026",
-      "rawDate": "Fri, 05 Jun 2026 15:04:42 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Pritzker pauses data center tax incentives in Illinois",
       "desc": "Illinois Gov. JB Pritzker (D) said Friday he is pausing the state’s data center tax incentives starting in July amid a push to address concerns about electricity costs and water resources that have pl",
       "link": "https://thehill.com/policy/technology/5911899-pritzker-pauses-data-center-tax-incentives-in-illinois/",
@@ -821,15 +830,6 @@
       "tag": "education"
     },
     {
-      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
-      "desc": "DUBAI, United Arab Emirates (AP) — Iranian drones heavily damaged a passenger terminal at Kuwait's main airport Wednesday, killing one person, wounding dozens and briefly closing the airfield — the la",
-      "link": "https://thehill.com/policy/defense/iran-drone-strike-kuwait-airport/",
-      "date": "Jun 4, 2026",
-      "rawDate": "Thu, 04 Jun 2026 03:28:25 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "‘Plan for us’: Hundreds rally for Ann Arbor teachers as contract stalemate drags on",
       "desc": "A massive crowd amassed outside Ann Arbor Public Schools' administrative building on Earhart Road Wednesday night with tthe same message advocates have trumpted for months ― more competitive wages for",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/plan-for-us-hundreds-rally-for-ann-arbor-teachers-as-contract-stalemate-drags-on.html",
@@ -880,15 +880,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-researcher-seen-arguing-prior-to-suicidal-fall.html",
       "date": "Jun 3, 2026",
       "rawDate": "Wed, 03 Jun 2026 21:32:54 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Two finalists advance in Bangor Township Schools superintendent search",
-      "desc": "Stephan Clark from Vassar Public Schools and Stephen Bouvy from Millington Community Schools will participate in a second round of interviews Monday.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/two-finalists-advance-in-bangor-township-schools-superintendent-search.html",
-      "date": "Jun 3, 2026",
-      "rawDate": "Wed, 03 Jun 2026 19:27:25 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

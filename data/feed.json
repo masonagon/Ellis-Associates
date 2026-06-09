@@ -1,6 +1,42 @@
 {
-  "generated": "2026-06-08T23:58:41.833Z",
+  "generated": "2026-06-09T03:40:04.696Z",
   "news": [
+    {
+      "title": "Vance: LA mayoral result &#039;seems pretty shady to me&#039;",
+      "desc": "Vice President Vance said Monday that the recent result of the Los Angeles mayoral election primary appeared “pretty shady to me,” with two Democrats set to face off in November. “The problem here wit",
+      "link": "https://thehill.com/homenews/campaign/5915742-vance-la-mayoral-result-seems-pretty-shady-to-me/",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 02:52:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man found guilty in 1989 Northern Michigan cold case murder",
+      "desc": "Steven Koon was convicted Monday in the killing of Linda Marie Meeter, a mother of five whose body was found in Hoosier Valley 37 years ago.",
+      "link": "https://www.mlive.com/news/2026/06/man-found-guilty-in-1989-northern-michigan-cold-case-murder.html",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 00:47:59 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Becerra, Trump-backed Hilton set to duke it out in California governor&#039;s race",
+      "desc": "Former state Attorney General Xavier Becerra (D) and former Fox News host Steve Hilton, a Republican, are projected to advance to the general election for governor of California, according to Decision",
+      "link": "https://thehill.com/homenews/campaign/5902991-becerra-hilton-california-governor-election/",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 00:46:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Perrigo CEO resigns over personal conduct issues",
+      "desc": "Patrick Lockwood-Taylor stepped down immediately after the board determined his conduct violated company values, though the issues didn't involve operations or finances.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/perrigo-ceo-resigns-over-personal-conduct-issues.html",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 00:10:42 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
     {
       "title": "U.S. Coast Guard ends Bahamas search for missing Michigan woman",
       "desc": "The Lenawee County woman was reportedly last seen being carried away by strong currents after falling from an 8-foot dinghy on April 4. The investigation into her disappearance remains ongoing.",
@@ -119,48 +155,12 @@
       "tag": "education"
     },
     {
-      "title": "How DDHQ projected Raman over Pratt in Los Angeles mayoral race",
-      "desc": "Los Angeles's registered Democrats waited until \"the last minute\" to cast their ballots in the June 2 primary election as they sorted out their options for California governor. And that down-to-the-wi",
-      "link": "https://thehill.com/homenews/campaign/5915016-los-angeles-election-count-democrats-ddhq/",
-      "date": "Jun 8, 2026",
-      "rawDate": "Mon, 08 Jun 2026 21:02:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democratic socialist leading DC mayoral race by double digits in new poll",
-      "desc": "Residents in the nation’s capital are leaning toward voting for City Councilmember Janeese Lewis-George, a Democratic socialist, to serve as its new mayor according to a recent polling.  Lewis-George ",
-      "link": "https://thehill.com/homenews/state-watch/5915303-democratic-socialist-leading-dc-mayoral-race-by-double-digits-in-new-poll/",
-      "date": "Jun 8, 2026",
-      "rawDate": "Mon, 08 Jun 2026 20:47:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Judge axes Trump guidance restricting green credits",
-      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Judge axes Trump guidance restricting green credits A federal judge over the weekend struck down a Trump administrat",
-      "link": "https://thehill.com/newsletters/energy-environment/5915358-judge-axes-trump-guidance-restricting-green-credits/",
-      "date": "Jun 8, 2026",
-      "rawDate": "Mon, 08 Jun 2026 20:40:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pro-life groups say Michigan law could force hiring workers who support abortion",
       "desc": "Right to Life of Michigan and the Pregnancy Resource Center of Grand Rapids filed a federal lawsuit  against the attorney general and state civil-rights officials in February. A hearing was held June ",
       "link": "https://www.mlive.com/news/grand-rapids/2026/06/pro-life-groups-say-michigan-law-could-force-hiring-workers-who-support-abortion.html",
       "date": "Jun 8, 2026",
       "rawDate": "Mon, 08 Jun 2026 20:39:19 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Thune urges passage of FISA extension before deadline amidst Pulte uproar",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) said conversations are taking place over President Trump's appointment of Bill Pulte as acting national intelligence director as the GOP leader seeks to rall",
-      "link": "https://thehill.com/homenews/senate/5915347-thune-pulte-fisa-reforms/",
-      "date": "Jun 8, 2026",
-      "rawDate": "Mon, 08 Jun 2026 20:37:03 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -506,15 +506,6 @@
       "tag": "technology"
     },
     {
-      "title": "1 arrested after crash between car, horse-drawn buggy injures 2 children, pregnant woman",
-      "desc": "Police believe drug use was a factor in the crash.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/1-arrested-after-crash-between-car-horse-drawn-buggy-injures-2-children-pregnant-woman.html",
-      "date": "Jun 6, 2026",
-      "rawDate": "Sat, 06 Jun 2026 19:51:07 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Over 160K sign petition opposing data center next to Nashville Zoo; mayor weighs in",
       "desc": "A data center larger than a football field could come to a property steps away from the Nashville Zoo. That possibility is raising very real questions for Nashville residents and zoo officials as they",
       "link": "https://thehill.com/policy/technology/5913270-petition-opposes-nashville-zoo-data-center/",
@@ -522,15 +513,6 @@
       "rawDate": "Sat, 06 Jun 2026 16:06:20 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "What’s that? Bay City restaurateur adding new cocktail lounge to business mix",
-      "desc": "The new restaurant represents the latest business venture undertaken by local restaurateur Vince Stuart, who already owns multiple eateries in the Bay City area.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/whats-that-bay-city-restaurateur-adding-new-cocktail-lounge-to-business-mix.html",
-      "date": "Jun 6, 2026",
-      "rawDate": "Sat, 06 Jun 2026 15:10:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Hegseth in D-Day speech warns Europe being ‘stormed’ by ‘dangerous ideologies’",

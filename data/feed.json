@@ -1,6 +1,42 @@
 {
-  "generated": "2026-06-09T21:42:59.254Z",
+  "generated": "2026-06-09T23:13:39.817Z",
   "news": [
+    {
+      "title": "Conviction overturned for Jackson County man found guilty in Whitmer kidnapping plot",
+      "desc": "A Michigan appeals court overturned Joseph Morrison's conviction in the Whitmer kidnapping plot, citing improper jury instructions about violent felonies.",
+      "link": "https://www.mlive.com/politics/2026/06/conviction-overturned-for-jackson-county-man-found-guilty-in-whitmer-kidnapping-plot.html",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 23:09:35 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Meta accuses Israeli spyware firm of again targeting WhatsApp users",
+      "desc": "Meta accused an Israeli spyware firm on Monday of violating a court order restricting phishing attempts on WhatsApp, a social messaging platform owned by the technology company.   In an online stateme",
+      "link": "https://thehill.com/policy/technology/5917257-meta-whatsapp-nso-group-pegasus-phishing/",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 22:24:23 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Live updates: Consequential primaries in Maine, South Carolina; House passes reconciliation bill",
+      "desc": "The Maine Senate race, roiled by controversy last week, will be formalized Tuesday, with primaries set to lock in progressive oyster farmer Graham Platner's bid to unseat Sen. Susan Collins (R). Platn",
+      "link": "https://thehill.com/homenews/administration/5915158-live-updates-trump-iran-maine-south-carolina-primary-elections/",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 22:00:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump warns hundreds of hospitals of fines over missing price information",
+      "desc": "The Trump administration has warned more than 500 hospitals nationwide that they are failing to comply with federal price transparency requirements by failing to disclose costs of medical services, ar",
+      "link": "https://thehill.com/homenews/administration/5917190-trump-administration-hospital-price-transparency/",
+      "date": "Jun 9, 2026",
+      "rawDate": "Tue, 09 Jun 2026 21:55:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "US launches strikes on Iran in retaliation for downed helicopter",
       "desc": "The U.S. military on Tuesday launched strikes against Iran in retaliation for Tehran shooting down an American Apache helicopter overnight, a response that President Trump hinted at earlier in the day",
@@ -21,7 +57,7 @@
     },
     {
       "title": "House sends reconciliation bill funding immigration enforcement to Trump&#039;s desk",
-      "desc": "House Republicans on Tuesday passed a package to fund Immigration and Customs Enforcement (ICE) and Border Patrol, marking a victory for President Trump and GOP leaders. The nearly $70 billion budget ",
+      "desc": "House Republicans on Tuesday passed a package to fund Immigration and Customs Enforcement (ICE) and Border Patrol through 2029, marking a victory for President Trump and GOP leaders. The nearly $70 bi",
       "link": "https://thehill.com/homenews/house/5916924-reconciliation-ice-border-patrol-funding/",
       "date": "Jun 9, 2026",
       "rawDate": "Tue, 09 Jun 2026 21:25:29 +0000",
@@ -56,8 +92,8 @@
       "tag": "government"
     },
     {
-      "title": "Live results: Graham poised for victory in South Carolina Senate primary",
-      "desc": "Republican Sen. Lindsey Graham is expected to comfortably advance from Tuesday's primaries in South Carolina as he seeks a fourth term in office. He's running agains Mark Lynch in the GOP primary. On ",
+      "title": "Live results: Graham faces tough South Carolina Senate primary",
+      "desc": "Republican Sen. Lindsey Graham is facing a tough Tuesday primary battle in South Carolina as he seeks a fourth term in office. He's running against Mark Lynch in the GOP primary and could head to a ru",
       "link": "https://thehill.com/homenews/campaign/5909424-live-results-south-carolina-senate-primary/",
       "date": "Jun 9, 2026",
       "rawDate": "Tue, 09 Jun 2026 21:00:00 +0000",
@@ -77,51 +113,6 @@
       "title": "Live results: North Dakota holds House primary election",
       "desc": "Rep. Julie Fedorchak (R) is slated to easily advance from a Tuesday primary in North Dakota. Democrat Trygve Hammer, a teacher, faces no challengers and is the presumptive nominee on the other side of",
       "link": "https://thehill.com/homenews/campaign/5909420-live-results-north-dakota-house-primary/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Platner seeks primary nod in Senate race to unseat Collins in Maine",
-      "desc": "The heated Senate race in Maine will come to a head Tuesday, with voters heading to the polls for primary elections. Sen. Susan Collins (Maine) is the presumptive nominee on the Republican ballot, whi",
-      "link": "https://thehill.com/homenews/campaign/5909404-live-results-maine-senate-primaries/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Republicans jockey for Amodei&#039;s seat in Nevada House primary",
-      "desc": "Voters in the Silver State are weighing in on a slate of House primary elections Tuesday. Republican Rep. Mark Amodei is retiring from his seat in the 2nd Congressional District, setting off a crowded",
-      "link": "https://thehill.com/homenews/campaign/5909418-live-updates-nevada-house-primary/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: South Carolina House primary elections underway",
-      "desc": "Voters at the polls Tuesday to weigh in on South Carolina's House primary elections. There are two open seats this cycle, with Reps. Nancy Mace of the 1st Congressional District and Ralph Norman of th",
-      "link": "https://thehill.com/homenews/campaign/5909426-live-results-south-carolina-house-primary-elections/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: South Carolina Republicans vie for primary nod to replace McMaster",
-      "desc": "The contest to replace South Carolina Gov. Henry McMaster is underway. A handful of candidates are jockeying for the GOP nod in a Tuesday primary, including Lt. Gov. Pamela Evette, Reps. Nancy Mace an",
-      "link": "https://thehill.com/homenews/campaign/5909422-live-results-south-carolina-governor-primary/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Mainers choose Mills&#039;s successor in gubernatorial primary elections",
-      "desc": "Voters are weighing in on Tuesday primaries in the race to replace Maine Gov. Janet Mills (D). It's a wide open race on both sides of the aisle, with several candidates jockeying for both parties' nod",
-      "link": "https://thehill.com/homenews/campaign/5909408-live-results-maine-gubernatorial-primary/",
       "date": "Jun 9, 2026",
       "rawDate": "Tue, 09 Jun 2026 21:00:00 +0000",
       "source": "The Hill Politics",
@@ -588,7 +579,7 @@
     },
     {
       "title": "Netanyahu defies Trump as Iran, Lebanon drive wedge",
-      "desc": "Israeli Prime Minister Benjamin Netanyahu’s open defiance in striking Iran against President Trump���s demands for a ceasefire adds to growing divisions between the U.S. and Israel over the way forwar",
+      "desc": "Israeli Prime Minister Benjamin Netanyahu’s open defiance in striking Iran against President Trump’s demands for a ceasefire adds to growing divisions between the U.S. and Israel over the way forward ",
       "link": "https://thehill.com/policy/international/5915570-israel-defies-trump-iran-strike/",
       "date": "Jun 8, 2026",
       "rawDate": "Mon, 08 Jun 2026 22:52:21 +0000",
@@ -637,15 +628,6 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/06/pro-life-groups-say-michigan-law-could-force-hiring-workers-who-support-abortion.html",
       "date": "Jun 8, 2026",
       "rawDate": "Mon, 08 Jun 2026 20:39:19 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What’s being said nationally after President Trump storms out of ‘Meet the Press’ interview",
-      "desc": "President Trump cut the interview short after being pressed about his false claims that the 2020 election was \"stolen.\"",
-      "link": "https://www.mlive.com/news/2026/06/whats-being-said-nationally-after-president-trump-storms-out-of-meet-the-press-interview.html",
-      "date": "Jun 8, 2026",
-      "rawDate": "Mon, 08 Jun 2026 19:26:48 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
@@ -810,15 +792,6 @@
       "rawDate": "Fri, 05 Jun 2026 17:19:15 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Pritzker pauses data center tax incentives in Illinois",
-      "desc": "Illinois Gov. JB Pritzker (D) said Friday he is pausing the state’s data center tax incentives starting in July amid a push to address concerns about electricity costs and water resources that have pl",
-      "link": "https://thehill.com/policy/technology/5911899-pritzker-pauses-data-center-tax-incentives-in-illinois/",
-      "date": "Jun 5, 2026",
-      "rawDate": "Fri, 05 Jun 2026 15:03:52 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "FDA reviewing safety of abortion drug mifepristone",

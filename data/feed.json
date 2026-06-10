@@ -1,14 +1,149 @@
 {
-  "generated": "2026-06-10T20:23:58.438Z",
+  "generated": "2026-06-10T22:48:32.829Z",
   "news": [
     {
-      "title": "California Republican James Gallagher sworn in to Congress, fills LaMalfa seat",
-      "desc": "Rep. James Gallagher (R-Calif.) was officially sworn into Congress on Wednesday afternoon, slightly broadening the GOP’s slim majority in the House.  Gallagher won the special election on June 2 for t",
-      "link": "https://thehill.com/homenews/house/5918833-california-republican-james-gallagher-sworn-in-doug-lamalfa-seat/",
+      "title": "Voters lean in favor of codifying Trump&#039;s MFN policy",
+      "desc": "Click in for more news from The Hill {beacon} Health Care The Big Story  Voters lean in favor of codifying Trump's MFN policy A new poll shows there is strong bipartisan support among battleground vot",
+      "link": "https://thehill.com/newsletters/health-care/5919179-voters-trump-most-favored-nation-policy/",
       "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 20:10:42 +0000",
+      "rawDate": "Wed, 10 Jun 2026 22:27:36 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "US military launches fresh round of Iran strikes",
+      "desc": "The U.S. military began launching another round of strikes Wednesday evening against multiple targets in Iran, less than an hour after Defense Secretary Pete Hegseth warned that forthcoming attacks wo",
+      "link": "https://thehill.com/policy/defense/5919086-us-military-launches-strikes-iran/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:56:06 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Johnson defends Trump inflation comment: &#039;Totally out of context&#039;",
+      "desc": "House Speaker Mike Johnson (R-La.) on Wednesday defended President Trump’s “I love the inflation” comment amid concerns about skyrocketing energy costs resulting from the Iran war. “It was totally out",
+      "link": "https://thehill.com/homenews/house/5919046-johnson-defends-trump-inflation/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:51:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Dairy farmers sue Trump administration over checkoff program",
+      "desc": "Three Wisconsin farmers filed a lawsuit against the Trump administration on Wednesday for requiring dairy producers to provide operational data and pay mandatory fees to the Dairy Checkoff Program.  F",
+      "link": "https://thehill.com/homenews/administration/5919012-dairy-farmers-sue-trump-administration/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:50:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Memo: Trump faces slippage back toward war in Iran",
+      "desc": "President Trump is grappling with new volatility over Iran, which threatens to complicate the political landscape at home as the midterm elections loom less than five months away. The U.S. and the Isl",
+      "link": "https://thehill.com/homenews/administration/5919075-inflation-rises-trump-iran/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:45:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Tim Tebow joins Hawley in push against child exploitation",
+      "desc": "Sen. Josh Hawley (R-Mo.) and former NFL quarterback Tim Tebow joined forces to push for a provision to combat child exploitation that became law as part of the immigration enforcement reconciliation p",
+      "link": "https://thehill.com/homenews/house/5919014-hawley-tebow-child-exploitation-law/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:44:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hegseth says coming strikes on Iran will be &#039;strong and clear&#039;",
+      "desc": "Defense Secretary Pete Hegseth said on Wednesday that the U.S. military would launch \"strong and clear\" strikes against Iran on Wednesday night and Thursday night if needed. The warning came hours aft",
+      "link": "https://thehill.com/policy/defense/5919026-hegseth-us-military-strikes-iran/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:42:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Florida high court paves the way for Republicans to use new House map",
+      "desc": "The Florida Supreme Court paved the way for Republicans to use a new House map that the party hopes will net them up to four seats in November – delivering another blow to Democrats’ efforts to push b",
+      "link": "https://thehill.com/homenews/campaign/5919055-florida-gop-house-map-approved/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:41:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI firms craft state rules as White House, Congress stall",
+      "desc": "Major artificial intelligence labs are done waiting on Washington to pass a national standard for AI, turning to state bills to carve out their own policy lines while Congress tries to catch up.  Most",
+      "link": "https://thehill.com/policy/technology/5918733-openai-anthropic-ai-regulation/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:36:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Costco responds to lawsuit over customer-favorite food item: &#039;Fatally flawed&#039;",
+      "desc": "Costco is firing back at class action-lawsuit filed in Southern California court accusing the membership club of falsely advertising.",
+      "link": "https://thehill.com/business/5918644-costco-responds-to-lawsuit-over-customer-favorite-food-item-fatally-flawed/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:31:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "States starting to see major ObamaCare coverage losses",
+      "desc": "Newly released state enrollment data show ObamaCare coverage losses could be even more severe than initially anticipated, due to Congress's unwillingness to renew enhanced subsidies.   Monthly enrollm",
+      "link": "https://thehill.com/policy/healthcare/5918956-obamacare-coverage-losses-states/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 21:16:43 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+      "desc": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
+      "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 20:55:40 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "New screwworm case confirmed in Texas",
+      "desc": "A sixth case of New World screwworm has been confirmed in a Texas calf.  It’s the second calf in La Salle County, Texas, to become infested with the parasite that threatens wildstock with larvae that ",
+      "link": "https://thehill.com/policy/healthcare/5918895-new-world-screwworm-texas-sixth-case/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 20:44:52 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Musk&#039;s xAI, SpaceX sued over &#039;pervasive and inescapable&#039; data center power plant noise",
+      "desc": "Mississippi residents are suing Elon Musk’s xAI and SpaceX over the “pervasive and inescapable” noise from their data center and accompanying power plant in a Memphis, Tenn.-area community. Three indi",
+      "link": "https://thehill.com/policy/technology/5918885-spacex-xai-data-center-noise-southaven-lawsuit/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 20:44:50 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Saginaw father testifies masked man barged into house, fatally shot his son",
+      "desc": "Torrance McMurren Sr. described the masked intruder who shot his son Torrance Jr. at their North Bond Street home in April, telling the court the gunman walked directly to the dining room and fired th",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-father-testifies-masked-man-barged-into-house-fatally-shot-his-son.html",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 20:43:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+      "desc": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools.",
+      "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
+      "date": "Jun 10, 2026",
+      "rawDate": "Wed, 10 Jun 2026 20:28:58 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Hudsonville card shop allegedly burglarized by Grand Rapids officer days before he resigned",
@@ -20,24 +155,6 @@
       "tag": "safety"
     },
     {
-      "title": "ActBlue CEO pleads the Fifth in House hearing on alleged foreign donations",
-      "desc": "ActBlue CEO Regina Wallace-Jones on Wednesday refused to answer questions during her testimony before the House Administration Committee regarding allegations of the organization funneling foreign cam",
-      "link": "https://thehill.com/homenews/house/5918791-actblue-ceo-regina-wallace-jones-testimony/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 20:01:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Four senior senators express alarm, push for ‘hard’ Social Security votes",
-      "desc": "Four senior senators, two Democrats and two Republicans, are calling on Congress to tackle the “hard” debate over how to extend the solvency of Social Security after the program’s trustees issued a ne",
-      "link": "https://thehill.com/homenews/senate/5918842-bipartisan-senators-social-security/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 20:00:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
       "desc": "Colleagues discussed the incident on internal message boards, according to documents seen by WIRED.",
       "link": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
@@ -45,15 +162,6 @@
       "rawDate": "Wed, 10 Jun 2026 19:49:26 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Platner: Political establishment agrees on &#039;love of Jeffrey Epstein and a hatred of me&#039;",
-      "desc": "Maine Democratic Senate candidate Graham Platner, who has been recently dealing with concerns around his past behavior toward women, said in a new ad that the political establishment has a “love of Je",
-      "link": "https://thehill.com/homenews/campaign/5918778-maine-senate-platner-epstein-establishment/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 19:44:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Major pizza chain has closed at least 40 locations in 2026: See the list so far",
@@ -74,30 +182,12 @@
       "tag": "government"
     },
     {
-      "title": "Push for 3-week FISA 702 extension draws swift pushback from Senate Democrats",
-      "desc": "An attempt to negotiate a three-week extension on the nation’s warrantless spy powers is already facing objections from Democrats.  Efforts to fast-track an extension of Section 702 of the Foreign Int",
-      "link": "https://thehill.com/homenews/senate/5918734-fisa-extension-senate-democrats-bill-pulte-odni/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 19:07:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "‘Death with dignity’: Medically assisted suicide proposed again in Michigan",
       "desc": "The four-bill package would require two oral requests 15 days apart, a written request with witnesses, and criminal penalties for coercion or forgery.",
       "link": "https://www.mlive.com/news/2026/06/death-with-dignity-medically-assisted-suicide-proposed-again-in-michigan.html",
       "date": "Jun 10, 2026",
       "rawDate": "Wed, 10 Jun 2026 19:04:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Dershowitz wants &#039;complete transparency&#039; if called to testify in House Epstein investigation",
-      "desc": "Lawyer Alan Dershowitz on Wednesday said he wants \"complete transparency\" if he testifies before the House Oversight and Government Reform Committee as part of its probe into convicted sex offender Je",
-      "link": "https://thehill.com/homenews/house/5918579-dershowitz-epstein-house-committee/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 18:58:04 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -137,22 +227,13 @@
       "tag": "technology"
     },
     {
-      "title": "NFL faces pressure at House hearing over rising cost of televised games",
-      "desc": "Lawmakers in both parties on Wednesday blasted the NFL over the rising costs for watching televised games, arguing their constituents are being hurt as a result of the league’s new streaming deals. Re",
-      "link": "https://thehill.com/policy/sports-gaming/5918718-lawmakers-blast-nfl-streaming/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 18:49:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Poll: Half of Americans concerned over AI&#039;s jobs impact",
       "desc": "A new Reuters/Ipsos poll found that more than half of respondents fear that they or someone in their household will lose their job because of artificial intelligence (AI). Fifty-three percent of the 4",
       "link": "https://thehill.com/policy/technology/5918589-ai-job-concerns-poll/",
       "date": "Jun 10, 2026",
       "rawDate": "Wed, 10 Jun 2026 18:48:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Man killed in shooting near Ypsilanti identified",
@@ -162,15 +243,6 @@
       "rawDate": "Wed, 10 Jun 2026 18:37:19 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Platner addresses scandals: &#039;Nothing out there that&#039;s actually concerning&#039;",
-      "desc": "Maine Senate hopeful Graham Platner (D) addressed the string of controversies about his past behavior on Wednesday, following his recent win in the state’s Democratic primary election.  “There’s nothi",
-      "link": "https://thehill.com/homenews/campaign/5918592-graham-platner-controversies-maine-senate-win/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 18:30:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
@@ -405,15 +477,6 @@
       "rawDate": "Wed, 10 Jun 2026 13:39:32 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "4 people killed in shooting in Livonia, suspect in custody",
-      "desc": "An adult male suspect, whose name has not yet been released, has been taken into custody.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/4-people-killed-in-shooting-in-livonia-suspect-in-custody.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 13:27:52 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure",
@@ -713,15 +776,6 @@
       "tag": "safety"
     },
     {
-      "title": "Most in new poll expect gas prices to keep rising",
-      "desc": "Nearly 6 in 10 adults in the U.S. expect gas prices to worsen over the next year, as the ongoing Iran war continues to roil energy markets, according to a new poll. The survey, released Monday by Reut",
-      "link": "https://thehill.com/policy/energy-environment/5916299-gas-prices-rising-survey-reuters-ipsos/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 15:40:03 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "New screwworm cases raise concern for Texas cattle, beef prices",
       "desc": "Concerns over the spread of the New World screwworm are growing after multiple new cases were confirmed on Monday, and as state and federal officials ramp up efforts to contain the parasite.",
       "link": "https://thehill.com/homenews/state-watch/5916324-screwworm-fly-texas-cattle-beef-prices/",
@@ -729,15 +783,6 @@
       "rawDate": "Tue, 09 Jun 2026 15:39:21 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Vance says US, Israeli interests ‘diverge’ on some Iran issues",
-      "desc": "Vice President Vance on Monday acknowledged divergent U.S. and Israeli interests on the way forward in the Middle East, amid public disputes between President Trump and Israeli Prime Minister Benjamin",
-      "link": "https://thehill.com/homenews/administration/5916343-us-israeli-interests-iran/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 15:22:45 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Up to $37M committed by Mott Foundation for Flint Cultural Center Academy Upper School building",
@@ -756,15 +801,6 @@
       "rawDate": "Tue, 09 Jun 2026 14:05:29 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "White House negotiating federal preemption of state AI laws in exchange for Hill priorities",
-      "desc": "The White House is negotiating with Capitol Hill to secure federal preemption of some state regulations on AI in exchange for technology policies related to kids safety and deepfake protections. Sen. ",
-      "link": "https://thehill.com/policy/technology/5916062-artificial-intelligence-federal-preemption-negotiations/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 14:00:49 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Vance referring Walz, Ellison to DOJ for criminal fraud investigation",
@@ -853,24 +889,6 @@
       "link": "https://thehill.com/policy/healthcare/5912845-hemp-derived-intoxicants-congress/",
       "date": "Jun 7, 2026",
       "rawDate": "Sun, 07 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump announces TrumpRx expansion, adding 160 more drugs",
-      "desc": "President Trump on Friday announced that over 100 prescription medications would be added to his administration's direct-to-consumer drug platform, TrumpRx, the second expansion of the initiative in a",
-      "link": "https://thehill.com/policy/healthcare/5913129-donald-trump-trumprx-expansion-160-drugs/",
-      "date": "Jun 6, 2026",
-      "rawDate": "Sat, 06 Jun 2026 13:01:30 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "USDA confirms second screwworm fly found in Texas",
-      "desc": "The U.S. Department of Agriculture (USDA) confirmed a second case of a flesh-eating screwworm parasite in Texas on Friday, as it races to contain and eradicate the outbreak before it severely impacts ",
-      "link": "https://thehill.com/policy/healthcare/5913003-usda-confirms-second-screwworm-fly-texas/",
-      "date": "Jun 6, 2026",
-      "rawDate": "Sat, 06 Jun 2026 02:59:37 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

@@ -1,18 +1,234 @@
 {
-  "generated": "2026-06-11T18:08:11.154Z",
+  "generated": "2026-06-11T21:14:20.583Z",
   "news": [
     {
-      "title": "Live updates: House leaves town without passing FISA extension; Trump talks with Tehran, cancels strikes",
-      "desc": "The U.S. and Iran traded strikes for a second night, with President Trump saying the Americans launched 49 Tomahawk missiles at targets in the Islamic Republic. On Thursday morning, Trump vowed to hit",
-      "link": "https://thehill.com/homenews/administration/5918921-live-updates-trump-iran-supreme-court/",
+      "title": "Abbott seeks new limits on Texas data centers",
+      "desc": "Texas Gov. Greg Abbott (R) is taking steps to implement new restrictions on data centers in the state, including proposals to set water-efficient technology requirements and repeal tax incentives.  Th",
+      "link": "https://thehill.com/homenews/state-watch/5920754-abbott-texas-data-center-limits/",
       "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 17:59:12 +0000",
+      "rawDate": "Thu, 11 Jun 2026 21:06:21 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Planned Parenthood affiliate sues Alaska over telehealth abortion ban",
+      "desc": "Planned Parenthood’s Northwest affiliate is suing Alaska to challenge the state’s ban on telehealth abortion.  In a lawsuit filed Thursday in Alaska state court, Planned Parenthood Great Northwest, Ha",
+      "link": "https://thehill.com/policy/healthcare/5920740-planned-parenthood-sues-alaska-telehealth-ban/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:58:01 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
+      "title": "Boy seriously injured, horse killed in Gladwin County buggy collision",
+      "desc": "An 11-year-old boy was severely injured and a horse killed when a buggy was struck by a car in Beaverton Township.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/boy-seriously-injured-horse-killed-in-gladwin-county-buggy-collision.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:57:29 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Second person charged in connection with fire that damaged Flint church",
+      "desc": "A woman faces charges for allegedly helping set fire to a Flint church in August 2025.",
+      "link": "https://www.mlive.com/news/flint/2026/06/second-person-charged-in-connection-with-fire-that-damaged-flint-church.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:52:09 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
+      "desc": "Activists raised a 40-foot-tall inflatable Elon Musk in Manhattan to draw attention to the risk he allegedly poses to investors.",
+      "link": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:50:13 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "US sanctions Cuba&#8217;s state-owned oil, gas company",
+      "desc": "The State Department on Thursday announced that it will sanction Cuba&#8217;s state-owned oil and gas company Unión Cuba-Petróleo (CUPET) amid escalating tensions between the U.S. and the island count",
+      "link": "https://thehill.com/policy/international/5920606-state-department-sanctions-cuba/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:45:54 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Senate panel moves forward &#039;Department of War&#039; name change",
+      "desc": "Republicans on the Senate Armed Services Committee this week pushed forward the Trump administration’s desired “Department of War” name change in passing their version of the annual defense policy bil",
+      "link": "https://thehill.com/homenews/senate/5920706-senate-republicans-push-department-war/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:32:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Heartless criminal’ gets decades in prison for Muskegon Heights murder",
+      "desc": "Dominique Burt was sentenced to prison for killing 47-year-old Desmond Bridgeford in December 2024.",
+      "link": "https://www.mlive.com/news/muskegon/2026/06/heartless-criminal-gets-decades-in-prison-for-muskegon-heights-murder.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:28:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Man charged with two counts of murder in shooting that killed Flint mother, newborn",
+      "desc": "A Flint man was arrested and charged after the fatal shooting of a pregnant woman and her newborn.",
+      "link": "https://www.mlive.com/news/flint/2026/06/man-charged-with-two-counts-of-murder-in-shooting-that-killed-flint-mother-newborn.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:22:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "CDC activates emergency response to screwworm infestations",
+      "desc": "The Centers for Disease Control and Prevention (CDC) activated a formal emergency response to the New World screwworm on Thursday, the Department of Health and Human Services confirmed, after the para",
+      "link": "https://thehill.com/policy/healthcare/5920664-cdc-emergency-response-screwworm/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:13:22 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Neighbors react to 4 sets of human remains found at Genesee County home",
+      "desc": "There is no timetable on how long the identification process could take, police said. Detectives are also reviewing missing person reports.",
+      "link": "https://www.mlive.com/news/flint/2026/06/neighbors-react-to-4-sets-of-human-remains-found-at-genesee-county-home.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 20:04:38 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jury deliberating if Saginaw parolee killed witness whose testimony sent him to prison",
+      "desc": "Deangelo \"North Side\" McNeal served less than two years for a 2020 shootout at Birch Park Apartments. Prosecutors allege he hunted down the young man who testified against him and killed him in the sa",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/jury-deliberating-if-saginaw-parolee-killed-witness-whose-testimony-sent-him-to-prison.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:52:44 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump snaps back to dealmaker after tempting all-out war",
+      "desc": "President Trump on Thursday whipsawed between threatening new, major attacks against Iran and touting significant progress in negotiations to end the war, the latest frantic episode in the conflict th",
+      "link": "https://thehill.com/policy/defense/5920604-trump-us-iran-negotiations-strait-hormuz/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:44:55 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Mom who tortured son to death will not get new trial, judge rules",
+      "desc": "Shanda Vander Ark will remain in prison for life after a judge denied her motion for a new trial. She was convicted of torturing her 15-year-old son, Timothy Ferguson, to death.",
+      "link": "https://www.mlive.com/news/muskegon/2026/06/mom-who-tortured-son-to-death-will-not-get-new-trial-judge-rules.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:42:08 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Bay-Arenac educators focus on student attendance strategies at regional gathering",
+      "desc": "The event at the Bay-Arenac ISD Career Center brought together school teams to develop systems to help students consistently attend school and support families across local districts.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/bay-arenac-educators-focus-on-student-attendance-strategies-at-regional-gathering.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:39:31 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "UFOs survey: 84 percent say US government knows more than it&#039;s telling",
+      "desc": "More than 8 in 10 respondents to a recent CBS News/YouGov poll said that the federal government knows more than it is disclosing to the public regarding UFOs, after the Pentagon released a trove of fi",
+      "link": "https://thehill.com/homenews/administration/5920539-ufos-poll-government-disclosure/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:32:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Gunman convicted in 1998 Muskegon gang killing has life sentence reduced",
+      "desc": "Tawon Piggee was 18 years old in 1998 when he fired into a crowd and killed Sonta Steward. A recent court ruling gave him an opportunity for a sentence with the possibility of parole.",
+      "link": "https://www.mlive.com/news/muskegon/2026/06/gunman-convicted-in-1998-muskegon-gang-killing-has-life-sentence-reduced.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:22:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Detroit artist’s exhibition explores love, daily life at Washtenaw Community College",
+      "desc": "The exhibition named “Me & You: Paintings by Brach Tiller” debuts Friday, June 12. It will remain on view through mid-September.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/detroit-artists-exhibition-explores-love-daily-life-at-washtenaw-community-college.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:09:32 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Indiana woman sent to prison for role in 2023 shooting death of child’s father in Buena Vista",
+      "desc": "The 27-year-old woman's cooperation with investigator and prior courtroom testimony was crucial in convicting Zakeem Jones of first-degree murder in the shooting death of Devon \"Chip\" Williams.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/indiana-woman-sent-to-prison-for-role-in-2023-shooting-death-of-childs-father-in-buena-vista.html",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:08:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Rubio inks public-private partnership with UFC ahead of White House cage fights",
+      "desc": "Secretary of State Marco Rubio signed a memorandum of understanding Thursday with the UFC to create a public-private partnership with the mixed martial arts company ahead of this weekend’s cage fights",
+      "link": "https://thehill.com/homenews/administration/5920532-rubio-signs-ufc-mou/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:08:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republicans add measure to strip forest protections to wildfire bill, endangering Dem support",
+      "desc": "Republican senators have thrown a wrench into an effort to pass a wildfire prevention bill, adding a controversial amendment seeking to nullify Clinton-area forest protections. It’s a move that Democr",
+      "link": "https://thehill.com/policy/energy-environment/5920524-wildfires-national-forests-roadless/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 19:00:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republicans ask FEC to probe Sullivan challenger with same name in Alaska",
+      "desc": "The Senate GOP campaign arm on Wednesday filed a complaint with the Federal Election Commission (FEC), asking it to probe an Alaskan Senate candidate who shares a name with incumbent Alaska Sen. Dan S",
+      "link": "https://thehill.com/homenews/campaign/5920506-senate-gop-alaska-probe/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 18:58:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vance chief of staff Jacob Reses to depart role",
+      "desc": "Jacob Reses, Vice President Vance’s chief of staff who has been with him since his Senate campaign, will be leaving the role at the end of the summer. Reses has served in the role since Vance took off",
+      "link": "https://thehill.com/homenews/administration/5920419-jd-vance-chief-of-staff-jacob-reses-departure/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 18:30:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate Democrats block short-term extensions of FISA 702 spy powers",
+      "desc": "Senate Democrats on Thursday blocked the GOP's attempt to pass a short-term extension of the nation's spy powers by unanimous consent. Sen. Tom Cotton (R-Ark.) asked the chamber for unanimous consent ",
+      "link": "https://thehill.com/homenews/senate/5920406-fisa-702-senate-unanimous-consent/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 18:10:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: House leaves town without passing FISA extension; Trump talks with Tehran, cancels strikes",
+      "desc": "The U.S. and Iran traded strikes for a second night, with President Trump saying the military launched 49 Tomahawk missiles at targets in the Islamic Republic. On Thursday morning, Trump vowed to hit ",
+      "link": "https://thehill.com/homenews/administration/5918921-live-updates-trump-iran-supreme-court/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 17:59:12 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
       "title": "Trump cancels strikes on Iran; claims deal almost done",
-      "desc": "President Trump said Thursday that he canceled the forthcoming strikes and bombings against Iran, citing progress in discussions with Tehran’s leadership.  “Based on the fact that discussions with the",
+      "desc": "President Trump said Thursday that he canceled the forthcoming strikes and bombings against Iran, citing progress in discussions with Tehran’s leadership.  “Based on the fact that discussions with the",
       "link": "https://thehill.com/policy/defense/5920385-trump-cancels-iran-strikes/",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 17:51:54 +0000",
@@ -63,33 +279,6 @@
       "rawDate": "Thu, 11 Jun 2026 16:50:38 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "House Democrat: Vance part of White House Epstein &#039;cover up&#039;",
-      "desc": "On Thursday, Rep. Robert Garcia (D-Calif.), Democrats' ranking member on the House Oversight and Government Reform Committee, pledged to investigate Vice President Vance’s role in the Trump administra",
-      "link": "https://thehill.com/homenews/administration/5920178-garcia-vance-investigation-epstein/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 16:49:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House leaves town with FISA set to expire",
-      "desc": "🍔 Plus: World Cup tourists marvel in experiencing US food, culture {beacon} &#8202; Happy Thursday! I cannot get enough of the social media posts of tourists coming to the U.S. for the World Cup and ",
-      "link": "https://thehill.com/newsletters/1230-report/5920231-world-cup-europeans-experiencing-american-culture-food-ranch-bucees-house-leaves-town-fisa-expirtation-ufc-fight-cost/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 16:36:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mace vows to be &#039;more of a menace than ever&#039; following election loss",
-      "desc": "Outgoing Rep. Nancy Mace (R-S.C.) vowed Thursday to be “more of a menace than ever” as her term winds down.  Responding to comedian Rob Schneider praising her as the “champion we didn’t deserve,” Mace",
-      "link": "https://thehill.com/homenews/house/5920160-mace-loss-more-menace/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 16:13:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Mike Bacigalupo files Chapter 7 bankruptcy ahead of looming imprisonment",
@@ -164,15 +353,6 @@
       "tag": "safety"
     },
     {
-      "title": "Man accused of shooting at car wash from second-floor apartment in Northern Michigan",
-      "desc": "Live drone footage was used to figure out where the shots were coming from.",
-      "link": "https://www.mlive.com/news/2026/06/man-accused-of-shooting-at-car-wash-from-second-floor-apartment-in-northern-michigan.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 15:00:21 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Free summer shuttle aims to help visitors discover local businesses across Grand Rapids",
       "desc": "The free Saturday shuttle connects Eastown, East Fulton, Wealthy Street and East Hills with downtown, running from 4 p.m. to 11 p.m. through August 8.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/06/free-summer-shuttle-aims-help-visitors-discover-local-businesses-across-grand-rapids.html",
@@ -209,30 +389,12 @@
       "tag": "health"
     },
     {
-      "title": "6 of 8 arrested in FBI raids for pro-Palestine vandalism attended University of Michigan",
-      "desc": "At least one of the others was a researcher at the university.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/6-of-8-arrested-in-fbi-raids-for-pro-palestine-vandalism-attended-university-of-michigan.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 14:13:58 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Hegseth on whether strike on civilian infrastructure is a war crime: &#039;Disingenuous question&#039;",
       "desc": "Defense Secretary Pete Hegseth on Wednesday slammed a reporter’s question about whether a U.S. strike on Iran’s civilian infrastructure would be considered a war crime.  “Well, it's precisely the kind",
       "link": "https://thehill.com/policy/defense/5919831-us-defense-secretary-iran/",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 14:11:21 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Livonia man accused of killing 4 had ‘contentious’ relationship with family, police say",
-      "desc": "Goralski said the suspect has never been reported to have any mental health issue and had no criminal history.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/livonia-man-who-allegedly-murdered-4-had-contentious-relationship-with-family.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 13:41:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -281,15 +443,6 @@
       "tag": "safety"
     },
     {
-      "title": "How much did Michigan bet on sports online in 2025? About $534 per resident",
-      "desc": "Casino revenue from online sports betting jumped 124.3% between 2024 and 2025.",
-      "link": "https://www.mlive.com/data/2026/06/how-much-did-michigan-bet-on-sports-online-in-2025-about-534-per-resident.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 11:05:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Americans Are Trading Billions of Dollars on Polymarket’s Banned Offshore Platform",
       "desc": "It’s the first estimate of how many Americans are sneaking onto Polymarket’s banned crypto-based platform.",
       "link": "https://www.wired.com/story/polymarket-study-illegal-trades-offshore-billions/",
@@ -324,42 +477,6 @@
       "rawDate": "Thu, 11 Jun 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "How Mexican World Cup Stadiums Achieved FIFA’s Environmental Certifications",
-      "desc": "Venues hosting the 2026 World Cup must meet high standards to obtain environmental certifications, but FIFA also requires that they use natural grass, which is water-intensive to maintain.",
-      "link": "https://www.wired.com/story/how-mexican-world-cup-stadiums-achieved-fifas-environmental-certifications/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "People Living Near xAI’s Dirty Data Centers Are Furious About the SpaceX IPO",
-      "desc": "Elon Musk is set to make hundreds of billions even as communities in Mississippi and Tennessee are fighting to stop the gas turbines powering xAI's supercomputers.",
-      "link": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "I Was Scammed Buying GLP-1s Online. I’m Not Alone",
-      "desc": "Customers have complained that a telehealth network selling compounded GLP-1s has been ripping them off—even after it had to pay $5 million to clients as part of a settlement with the US government.",
-      "link": "https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "5 with UM ties arrested in FBI raid appear in federal court hours later",
-      "desc": "Four of the five defendants will remain in federal custody until their next court hearing this Friday. The fifth was released on bond.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/5-appear-in-federal-court-after-arrests-tied-to-propalestinian-advocacy-at-um.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 00:25:54 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",
@@ -425,24 +542,6 @@
       "tag": "technology"
     },
     {
-      "title": "Saginaw father testifies masked man barged into house, fatally shot his son",
-      "desc": "Torrance McMurren Sr. described the masked intruder who shot his son Torrance Jr. at their North Bond Street home in April, telling the court the gunman walked directly to the dining room and fired th",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-father-testifies-masked-man-barged-into-house-fatally-shot-his-son.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 20:43:12 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Hudsonville card shop allegedly burglarized by Grand Rapids officer days before he resigned",
-      "desc": "Court documents show Bryan William Casey, 40, is accused of burglarizing the Playmakers Collectibles shop on March 25.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/hudsonville-card-shop-allegedly-burglarized-by-grand-rapids-officer-days-before-he-resigned.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 20:07:52 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Michigan House moves ‘halo’ law punishing interference with police, first responders",
       "desc": "The bill package would create new penalties for individuals who come within 25 feet of first responders and “impede, interfere with, threaten or harass them.”",
       "link": "https://www.mlive.com/news/2026/06/michigan-house-moves-halo-law-punishing-interference-with-police-first-responders.html",
@@ -459,15 +558,6 @@
       "rawDate": "Wed, 10 Jun 2026 19:04:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "What sparked gunfire at after-prom party? Questions remain 1 month later",
-      "desc": "Multiple shooters opened fire at an after-prom party at the Fruitport Township VFW last month. Police have released few details about the investigation since then.",
-      "link": "https://www.mlive.com/news/muskegon/2026/06/what-sparked-gunfire-at-after-prom-party-questions-remain-1-month-later.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 18:57:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Flint mayor had to wait but gets water fund transfer, senior center funds",
@@ -495,15 +585,6 @@
       "rawDate": "Wed, 10 Jun 2026 18:48:39 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Man killed in shooting near Ypsilanti identified",
-      "desc": "He was 23.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/man-killed-in-shooting-near-ypsilanti-identified.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 18:37:19 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Leading OB-GYN group issues vaccine recommendations, breaks with CDC",
@@ -558,24 +639,6 @@
       "rawDate": "Wed, 10 Jun 2026 17:02:47 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Trump says more Iran strikes coming today",
-      "desc": "President Trump told reporters on Wednesday that the U.S. military could continue strikes against Iran after targeting about two dozen sites, mostly near the Strait of Hormuz, in retaliatory attacks o",
-      "link": "https://thehill.com/policy/defense/5918315-trump-administration-us-military-strikes-iran/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 16:32:43 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Thune open to reconciliation 3.0 for military funding",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) says that a third budget reconciliation package to fund the military amid the ongoing conflict with Iran is on the table, even though senior Republicans on t",
-      "link": "https://thehill.com/homenews/senate/5918159-thune-budget-reconciliation-military/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 15:45:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "University of Michigan tuition down 5% for in-state residents over last decade",
@@ -758,15 +821,6 @@
       "tag": "government"
     },
     {
-      "title": "New screwworm cases raise concern for Texas cattle, beef prices",
-      "desc": "Concerns over the spread of the New World screwworm are growing after multiple new cases were confirmed on Monday, and as state and federal officials ramp up efforts to contain the parasite.",
-      "link": "https://thehill.com/homenews/state-watch/5916324-screwworm-fly-texas-cattle-beef-prices/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 15:39:21 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Up to $37M committed by Mott Foundation for Flint Cultural Center Academy Upper School building",
       "desc": "A new permanent home for ninth through 12th grade students at Flint Cultural Center Academy (FCCA) has received a commitment of up to $37 million from the C.S. Mott Foundation.",
       "link": "https://www.mlive.com/news/flint/2026/06/up-to-37m-committed-by-mott-foundation-for-flint-cultural-center-academy-upper-school-building.html",
@@ -783,15 +837,6 @@
       "rawDate": "Tue, 09 Jun 2026 14:05:29 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Vance referring Walz, Ellison to DOJ for criminal fraud investigation",
-      "desc": "Vice President Vance said late Monday that he will refer Minnesota Gov. Tim Walz (D) and state Attorney General Keith Ellison to the Department of Justice (DOJ) for a criminal fraud investigation prom",
-      "link": "https://thehill.com/homenews/administration/5916038-jd-vance-tim-walz-keith-ellison-minnesota-fraud-doj-pr/",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 13:10:24 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "First-of-its-kind childcare center opens inside Grand Rapids bus station",
@@ -817,24 +862,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-presidential-interviews-expected-soon-regents-say.html",
       "date": "Jun 8, 2026",
       "rawDate": "Mon, 08 Jun 2026 13:24:12 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Saginaw Township schools launch survey after third bond defeat",
-      "desc": "The 32-question SurveyMonkey questionnaire asks residents whether they would support less-expensive proposals or multiple bonds on the same ballot in future elections.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-township-schools-launch-survey-after-third-bond-defeat.html",
-      "date": "Jun 7, 2026",
-      "rawDate": "Sun, 07 Jun 2026 15:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Jackson College plans summer events to help students prepare for fall semester",
-      "desc": "Walk-ins are welcome and no appointments are necessary.",
-      "link": "https://www.mlive.com/news/jackson/2026/06/jackson-college-plans-summer-events-to-help-students-prepare-for-fall-semester.html",
-      "date": "Jun 7, 2026",
-      "rawDate": "Sun, 07 Jun 2026 13:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

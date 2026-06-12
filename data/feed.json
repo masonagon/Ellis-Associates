@@ -1,6 +1,69 @@
 {
-  "generated": "2026-06-11T23:15:50.334Z",
+  "generated": "2026-06-12T02:46:31.162Z",
   "news": [
+    {
+      "title": "Kennedy Center board appeals order to remove Trump&#039;s name from building",
+      "desc": "The Kennedy Center board of trustees on Thursday appealed a federal judge's order to remove President Trump's name from the exterior of the building just ahead of the judge's deadline, according to co",
+      "link": "https://thehill.com/homenews/administration/5921158-kennedy-center-appeals-trump-name-removal/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 02:26:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man dies after vehicle plunges into pond outside Grand Blanc Township hospital",
+      "desc": "He was an employee of Teachout Security and was working at the time of the incident, police said.",
+      "link": "https://www.mlive.com/news/flint/2026/06/man-dies-after-vehicle-plunges-into-pond-outside-grand-blanc-township-hospital.html",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 02:09:35 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Federal lawsuit filed to block New York&#039;s Medical Aid in Dying law",
+      "desc": "Disability rights organizations have filed a federal lawsuit in New York to block the Medical Aid in Dying law, arguing that it illegally pushes vulnerable New Yorkers towards suicide instead of provi",
+      "link": "https://thehill.com/homenews/state-watch/5921013-maid-lawsuit-ny-suicide-disability/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 01:58:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+      "desc": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
+      "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 01:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Biden ambassador considered White House bid over border frustration",
+      "desc": "Former U.S. Ambassador to Mexico Ken Salazar said in his upcoming memoir that he considered running for president in 2024 out of frustration over the Biden administration's handling of the southern bo",
+      "link": "https://thehill.com/homenews/administration/5921053-salazar-frustration-biden-border/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 00:46:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Appeals court rules Trump&#039;s 10 percent global tariff can stay, for now",
+      "desc": "On Thursday, federal appeals court ruled that President Trump’s 10 percent global tariff is likely legal, deciding it can remain in place until the court delivers its final word.  Trump imposed the ne",
+      "link": "https://thehill.com/regulation/court-battles/5921071-trump-tariffs-appeal-court/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 00:08:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+      "desc": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+      "date": "Jun 11, 2026",
+      "rawDate": "Thu, 11 Jun 2026 23:37:49 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Student group may have funded pro-Palestine vandalism, 4 other takeaways from indictment",
       "desc": "There are 10 charges listed in the indictment against eight college-aged defendants.",
@@ -84,12 +147,12 @@
     },
     {
       "title": "Trump rips McConnell, Murkowski from Oval Office",
-      "desc": "President Trump offered stark criticism from the Oval Office of Sen. Mitch McConnell (R-Ky.) on Thursday, calling him an “angry man” and launching into his grievances with the former Senate Republican",
+      "desc": "President Trump offered stark criticism of Sen. Mitch McConnell (R-Ky.) on Thursday, calling him an “angry man” and launching into his grievances with the former Senate Republican Leader from the Oval",
       "link": "https://thehill.com/homenews/administration/5920756-trump-criticizes-mitch-mcconnell/",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 21:17:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "China likely behind anti-data center campaign in US: OpenAI",
@@ -97,8 +160,8 @@
       "link": "https://thehill.com/policy/technology/5920573-openai-chinese-influence-operators/",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 21:16:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Abbott seeks new limits on Texas data centers",
@@ -111,12 +174,12 @@
     },
     {
       "title": "Planned Parenthood affiliate sues Alaska over telehealth abortion ban",
-      "desc": "Planned Parenthood’s Northwest affiliate is suing Alaska to challenge the state’s ban on telehealth abortion.  In a lawsuit filed Thursday in Alaska state court, Planned Parenthood Great Northwest, Ha",
+      "desc": "Planned Parenthood’s Northwest affiliate is suing Alaska to challenge the state’s ban on telehealth abortion.  In a lawsuit filed Thursday in Alaska state court, Planned Parenthood Great Northwest, Ha",
       "link": "https://thehill.com/policy/healthcare/5920740-planned-parenthood-sues-alaska-telehealth-ban/",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 20:58:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Boy seriously injured, horse killed in Gladwin County buggy collision",
@@ -144,15 +207,6 @@
       "rawDate": "Thu, 11 Jun 2026 20:50:13 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "US sanctions Cuba&#8217;s state-owned oil, gas company",
-      "desc": "The State Department on Thursday announced that it will sanction Cuba&#8217;s state-owned oil and gas company Unión Cuba-Petróleo (CUPET) amid escalating tensions between the U.S. and the island count",
-      "link": "https://thehill.com/policy/international/5920606-state-department-sanctions-cuba/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 20:45:54 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "‘Heartless criminal’ gets decades in prison for Muskegon Heights murder",
@@ -353,15 +407,6 @@
       "tag": "health"
     },
     {
-      "title": "No charges for 3 Fraser police officers involved in fatal shooting of teen",
-      "desc": "The officers will all return to duty.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/no-charges-for-3-fraser-police-officers-involved-in-fatal-shooting-of-teen.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 15:52:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "3 Indian sailors confirmed dead in US strike on oil tanker",
       "desc": "Three Indian mariners were killed on board a tanker struck by U.S. forces earlier this week over allegedly violating Washington’s blockade on the Strait of Hormuz, according to New Delhi. Indian Ports",
       "link": "https://thehill.com/policy/defense/5920058-indian-mariners-killed-us-forces/",
@@ -495,15 +540,6 @@
       "rawDate": "Thu, 11 Jun 2026 10:00:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Cameras, Sensors, and 3D Body Scans: All the Tech Helping Eliminate Blown Calls",
-      "desc": "Soccer officials already rely on cameras to see who’s offside and who sent the ball out of bounds. But during this World Cup, refs will use digital twins of each player to view plays from every angle.",
-      "link": "https://www.wired.com/story/world-cup-tech-helping-eliminate-bad-calls-var-sensors-3d-body-scans/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",

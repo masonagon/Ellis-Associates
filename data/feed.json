@@ -1,9 +1,36 @@
 {
-  "generated": "2026-06-12T19:57:24.413Z",
+  "generated": "2026-06-12T21:41:47.182Z",
   "news": [
     {
+      "title": "Gaines Township supervisor, treasurer targeted for recall after fire chief controversy",
+      "desc": "Gaines Township Supervisor Daniel Jenkins and Treasurer Robert Henderson have been targeted for recall days after they voted to make a controversial fire chief hiring.",
+      "link": "https://www.mlive.com/news/flint/2026/06/gaines-township-supervisor-treasurer-targeted-for-recall-after-fire-chief-controversy.html",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 21:30:34 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "desc": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 21:16:25 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Google accuses Chinese cybercrime network of using its AI",
+      "desc": "Google has filed a lawsuit against a Chinese cybercrime network, alleging the hackers are using the company's Gemini artificial intelligence models and tools to build phishing software to rob consumer",
+      "link": "https://thehill.com/policy/technology/5922154-google-sues-chinese-hackers/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 20:19:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Comer requests Dershowitz interview in Epstein investigation",
-      "desc": "Rep. James Comer (R-Ky.) has formally requested that lawyer Alan Dershowitz testify before the House Oversight Committee as part of its ongoing probe into convicted sex offender Jeffrey Epstein’s crim",
+      "desc": "Rep. James Comer (R-Ky.) has formally requested that lawyer Alan Dershowitz testify before the House Oversight and Government Reform Committee as part of its ongoing probe into convicted sex offender ",
       "link": "https://thehill.com/homenews/house/5922246-alan-dershowitz-jeffrey-epstein-house-oversight/",
       "date": "Jun 12, 2026",
       "rawDate": "Fri, 12 Jun 2026 19:53:21 +0000",
@@ -173,15 +200,6 @@
       "tag": "safety"
     },
     {
-      "title": "Cornyn spars with conservatives online over SAVE America Act",
-      "desc": "Sen. John Cornyn (R-Texas) took to the social platform X throughout Thursday night and Friday morning to vent some frustrations with conservatives, including a Senate colleague, about their push to pa",
-      "link": "https://thehill.com/homenews/senate/5921841-cornyn-save-america-act/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 16:12:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Domestic violence suspect bitten by police K9 after chase across Northern Michigan",
       "desc": "He was found hiding in a brush pile in the woods.",
       "link": "https://www.mlive.com/news/2026/06/domestic-violence-suspect-bitten-by-police-k9-after-chase-across-northern-michigan.html",
@@ -198,15 +216,6 @@
       "rawDate": "Fri, 12 Jun 2026 16:00:25 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "SpaceX launches IPO, making Elon Musk the world&#8217;s first trillionaire",
-      "desc": "Elon Musk’s SpaceX made its highly anticipated stock market debut Friday morning, establishing him as the first person to ever be worth $1 trillion. The spacecraft and satellite communications company",
-      "link": "https://thehill.com/policy/technology/5921862-elon-musk-spacex-trillionaire/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 16:00:25 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Blackburn presses Kik on kids safety after &#039;disturbing&#039; research report",
@@ -754,15 +763,6 @@
       "link": "https://thehill.com/policy/technology/5918659-kalshi-prediction-market-participants-employer-identification/",
       "date": "Jun 10, 2026",
       "rawDate": "Wed, 10 Jun 2026 18:54:58 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Poll: Half of Americans concerned over AI&#039;s jobs impact",
-      "desc": "A new Reuters/Ipsos poll found that more than half of respondents fear that they or someone in their household will lose their job because of artificial intelligence (AI). Fifty-three percent of the 4",
-      "link": "https://thehill.com/policy/technology/5918589-ai-job-concerns-poll/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 18:48:39 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

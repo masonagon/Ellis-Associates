@@ -1,6 +1,42 @@
 {
-  "generated": "2026-06-13T11:49:08.734Z",
+  "generated": "2026-06-13T13:30:03.832Z",
   "news": [
+    {
+      "title": "Anthropic pulls plug on new AI models after Trump admin directive",
+      "desc": "Anthropic said Friday it will remove access to two AI models, Fable 5 and Mythos 5, to comply with a Trump administration directive restricting foreign nationals from using its latest systems due to s",
+      "link": "https://thehill.com/policy/technology/5922802-anthropic-mythos-ai-model-dangerous-trump-directive/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 13:18:15 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Sterling Heights man found guilty of murdering girlfriend",
+      "desc": "The 45-year-old man was convicted Friday in the beating death of his girlfriend, Dhoua Lau, who was a mother of two.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/sterling-heights-man-found-guilty-of-murdering-girlfriend.html",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 13:17:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Voters are turning out against toxic pesticides. Will the Senate listen?",
+      "desc": "Will the Senate continue subsidizing a chemical-intensive system that benefits a handful of corporations and keeps farmers dependent on their products, or will it invest in a healthier and more resili",
+      "link": "https://thehill.com/opinion/congress-blog/energy-environment/5920766-bipartisan-farm-bill-pesticides/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Strike to stalemate: Lessons from 1994 echo in Ann Arbor teachers’ contract fight",
+      "desc": "Teachers’ past walkout has resurfaced as present-day contract negotiations roll on in Ann Arbor Public Schools and district leaders face high-stakes budget decisions.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/strike-to-stalemate-lessons-from-1994-echo-in-ann-arbor-teachers-contract-fight.html",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 12:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "City buys a $237K restroom. Some business owners are upset about the process.",
       "desc": "“Please take the $500k and just burn it instead,\" one person said.",
@@ -225,15 +261,6 @@
       "rawDate": "Fri, 12 Jun 2026 22:10:04 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Democrat urges Comer to call Vance, White House officials for questioning over Epstein files report",
-      "desc": "A top Democrat on the House Oversight Committee urged Rep. James Comer (R-Ky.) on Friday to call several Trump administration officials in for testimony following an explosive report on the White Hous",
-      "link": "https://thehill.com/homenews/house/5922434-epstein-files-white-house-robert-garcia-house-testimony/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 21:44:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Gaines Township supervisor, treasurer targeted for recall after fire chief controversy",
@@ -556,15 +583,6 @@
       "link": "https://www.mlive.com/news/flint/2026/06/man-dies-after-vehicle-plunges-into-pond-outside-grand-blanc-township-hospital.html",
       "date": "Jun 12, 2026",
       "rawDate": "Fri, 12 Jun 2026 02:09:35 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Student group may have funded pro-Palestine vandalism, 4 other takeaways from indictment",
-      "desc": "There are 10 charges listed in the indictment against eight college-aged defendants.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/student-group-may-have-funded-pro-palestine-vandalism-4-other-takeaways-from-indictment.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 23:08:27 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -934,15 +952,6 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/06/grand-rapids-school-board-approves-2-million-sale-of-2-elementary-buildings-for-housing.html",
       "date": "Jun 9, 2026",
       "rawDate": "Tue, 09 Jun 2026 18:11:30 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Up to $37M committed by Mott Foundation for Flint Cultural Center Academy Upper School building",
-      "desc": "A new permanent home for ninth through 12th grade students at Flint Cultural Center Academy (FCCA) has received a commitment of up to $37 million from the C.S. Mott Foundation.",
-      "link": "https://www.mlive.com/news/flint/2026/06/up-to-37m-committed-by-mott-foundation-for-flint-cultural-center-academy-upper-school-building.html",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 14:18:40 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

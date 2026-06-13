@@ -1,6 +1,60 @@
 {
-  "generated": "2026-06-13T13:30:03.832Z",
+  "generated": "2026-06-13T15:26:53.073Z",
   "news": [
+    {
+      "title": "16-year-old girl killed in fiery Macomb County crash",
+      "desc": "The incident occurred early Saturday morning when a disabled car was struck by another vehicle on Fairchild Road in Macomb Township.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/16-year-old-girl-killed-in-fiery-macomb-county-crash.html",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 14:58:15 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Maher jabs Trump over UFC: ‘The emperor is holding gladiator games on his birthday’",
+      "desc": "Late night host Bill Maher took aim at the upcoming UFC event at the White House, ridiculing the decision to hold the event on President Trump’s birthday this Sunday.  “Our redneck president is turnin",
+      "link": "https://thehill.com/media/5922876-bill-maher-ufc-white-house-trump/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 14:50:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fetterman scoffs at Platner: &#039;He&#039;s not even a Democrat&#039;",
+      "desc": "Sen. John Fetterman (D-Pa.) rebuked the Democratic nominee in the Maine Senate race on Friday, saying scandal-plagued Graham Platner is “not even a Democrat.” “We’re the party of pearl clutching, and ",
+      "link": "https://thehill.com/homenews/campaign/5922841-john-fetterman-graham-platner-democratic-party-maine-senate-race/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 14:17:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New $8.5M kitchen will prepare millions of meals for Kalamazoo students",
+      "desc": "Kalamazoo Public Schools opened a new central kitchen to prepare millions of meals using a cook-chill system.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/06/new-85m-kitchen-will-prepare-millions-of-meals-for-kalamazoo-students.html",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 14:05:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Post-Platner Democrats must ask: &#039;Are we the baddies?&#039;",
+      "desc": "\"Are we the baddies?\" That line from a famous comedy sketch came to mind this week as Democrats struggled to embrace Graham Platner, the Nazi-tattooed, Hamas-praising, veteran-bashing, sex-texting, se",
+      "link": "https://thehill.com/opinion/campaign/5922240-platner-nazi-tattoo-controversy/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 14:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "St. Ignace man accused of stealing over $20K from animal shelter",
+      "desc": "The 63-year-old man allegedly took donations intended for the Mackinac County Animal Shelter and redirected them to a different organization.",
+      "link": "https://www.mlive.com/news/2026/06/st-ignace-man-accused-of-stealing-over-20k-from-animal-shelter.html",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 13:58:15 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Anthropic pulls plug on new AI models after Trump admin directive",
       "desc": "Anthropic said Friday it will remove access to two AI models, Fable 5 and Mythos 5, to comply with a Trump administration directive restricting foreign nationals from using its latest systems due to s",
@@ -120,7 +174,7 @@
     },
     {
       "title": "Screwworm spread tests US readiness after Trump staffing cuts",
-      "desc": "The U.S. spent decades driving the New World screwworm far into South America. But now the parasite has reemerged, and officials are working to beat it back yet again using many of the same tried-and-",
+      "desc": "The U.S. spent decades driving the New World screwworm far into South America. But now the parasite has reemerged, and officials are working to beat it back yet again using many of the same tried-and-",
       "link": "https://thehill.com/policy/healthcare/5922510-screwworm-spread-tests-us-readiness-after-trump-staffing-cuts/",
       "date": "Jun 13, 2026",
       "rawDate": "Sat, 13 Jun 2026 10:00:00 +0000",
@@ -173,15 +227,6 @@
       "tag": "safety"
     },
     {
-      "title": "Marjorie Taylor Greene: UFC fights don&#039;t belong on White House lawn",
-      "desc": "President Trump’s plan to celebrate his 80th birthday with a UFC viewing on the White House lawn is drawing skepticism from former Rep. Marjorie Taylor Greene (R-Ga.), who says the location is inappro",
-      "link": "https://thehill.com/policy/sports-gaming/5922633-mtg-trump-ufc-white-house/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 01:04:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Flint man sentenced to prison over 11 felonies related to dog fighting",
       "desc": "Casey Kidd was sentenced to up to 22 years for running a dog fighting ring and committing animal abuse in Flint.",
       "link": "https://www.mlive.com/news/flint/2026/06/flint-man-sentenced-to-prison-over-11-felonies-related-to-dog-fighting.html",
@@ -189,24 +234,6 @@
       "rawDate": "Sat, 13 Jun 2026 00:38:39 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Judge orders restoration of National Parks displays removed under Trump executive order",
-      "desc": "A federal judge in Massachusetts has ordered the Trump administration to reinstall displays it removed from National Parks sites over the past year as part of a crackdown on diversity, equity and incl",
-      "link": "https://thehill.com/regulation/court-battles/5922592-judge-rules-trump-parks-diversity/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 00:14:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Appeals panel denies last-ditch effort to keep Trump’s name on Kennedy Center",
-      "desc": "A federal appeals court panel denied the Trump administration’s last-ditch effort to halt an end-of-day deadline to remove the president’s name from the exterior of the Kennedy Center.  The U.S. Court",
-      "link": "https://thehill.com/regulation/court-battles/5922576-appeals-court-denies-kennedy-center-trump-name/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 23:53:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
@@ -227,15 +254,6 @@
       "tag": "safety"
     },
     {
-      "title": "Democrats on the lookout for their next ObamaCare",
-      "desc": "Click in for more news from The Hill {beacon} Health Care Health Care &#8202; The Big Story  Democrats on the lookout for their next ObamaCare  With healthcare costs a top concern in this election cyc",
-      "link": "https://thehill.com/newsletters/health-care/5922551-democrats-on-the-lookout-for-their-next-obamacare/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 23:17:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Police find sword hidden in cane during stop for impaired driving on Michigan highway",
       "desc": "A man pulled over for a traffic violation in Newaygo County was found with a sword concealed inside a cane and arrested for drug impairment.",
       "link": "https://www.mlive.com/news/muskegon/2026/06/police-find-sword-hidden-in-cane-during-stop-for-impaired-driving-on-michigan-highway.html",
@@ -243,15 +261,6 @@
       "rawDate": "Fri, 12 Jun 2026 23:11:50 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Justice Department approves Paramount bid to acquire Warner Bros.",
-      "desc": "The Department of Justice (DOJ) has approved Paramount’s $110 billion bid to acquire Warner Bros. Discovery, according to the DOJ’s Antitrust Division, clearing a key regulatory hurdle for the merger ",
-      "link": "https://thehill.com/media/5922500-doj-clears-paramount-warner-deal/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 22:42:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Trillionaire Elon Musk makes history with SpaceX IPO: 5 takeaways",
@@ -551,15 +560,6 @@
       "tag": "government"
     },
     {
-      "title": "A rape kit went untested for years. Justice took another decade.",
-      "desc": "A college student reported an alleged rape in 2012.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/a-rape-kit-went-untested-for-years-justice-took-another-decade.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 10:40:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Elon Musk poised to become world’s first trillionaire with SpaceX IPO",
       "desc": "Elon Musk is poised to become the world’s first trillionaire with SpaceX’s highly anticipated stock market debut. The world’s richest person, who is currently worth about $790 billion, is expected to ",
       "link": "https://thehill.com/policy/technology/5920813-elon-musk-poised-to-become-worlds-first-trillionaire-with-spacex-ipo/",
@@ -576,15 +576,6 @@
       "rawDate": "Fri, 12 Jun 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Man dies after vehicle plunges into pond outside Grand Blanc Township hospital",
-      "desc": "He was an employee of Teachout Security and was working at the time of the incident, police said.",
-      "link": "https://www.mlive.com/news/flint/2026/06/man-dies-after-vehicle-plunges-into-pond-outside-grand-blanc-township-hospital.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 02:09:35 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "The Memo: Trump announces ‘great settlement’ on Iran, but the world awaits details",
@@ -943,15 +934,6 @@
       "link": "https://www.mlive.com/news/jackson/2026/06/new-athletic-director-named-for-grass-lake-community-schools.html",
       "date": "Jun 9, 2026",
       "rawDate": "Tue, 09 Jun 2026 18:55:41 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Grand Rapids school board approves $2 million sale of 2 elementary buildings for housing",
-      "desc": "Both buildings are closed. Alexander Elementary is slated to become a mixed-use development, while Stocking Elementary will be redeveloped into housing and a health center, according to the district.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/grand-rapids-school-board-approves-2-million-sale-of-2-elementary-buildings-for-housing.html",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 18:11:30 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

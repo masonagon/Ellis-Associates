@@ -1,6 +1,24 @@
 {
-  "generated": "2026-06-13T02:39:11.438Z",
+  "generated": "2026-06-13T06:52:38.904Z",
   "news": [
+    {
+      "title": "Here’s How AI Agents Can Protect EV Chargers",
+      "desc": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
+      "link": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 06:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "US forces shoot down Iranian drones targeting ships in Stait of Hormuz: Centcom",
+      "desc": "U.S. Central Command (Centcom) said on Friday that U.S. forces shot down an unspecified number of Iranian one-way attack drones in the Strait of Hormuz, as an emerging deal between the two nations han",
+      "link": "https://thehill.com/policy/defense/5922688-us-forces-down-iranian-drones/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 03:08:07 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
       "desc": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
@@ -160,15 +178,6 @@
       "link": "https://thehill.com/regulation/court-battles/5922216-doj-virginia-mask-ban-ice/",
       "date": "Jun 12, 2026",
       "rawDate": "Fri, 12 Jun 2026 19:37:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Judge won&#039;t halt deadline to take Trump&#039;s name off Kennedy Center",
-      "desc": "A federal judge on Friday rejected an eleventh-hour attempt by the Kennedy Center to pause the removal of President Trump’s name from the renowned performing arts center while an appeal plays out. The",
-      "link": "https://thehill.com/regulation/court-battles/5922184-judge-rejects-kennedy-center-trump-name-appeal/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 19:08:06 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -461,15 +470,6 @@
       "tag": "technology"
     },
     {
-      "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
-      "desc": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional��� and “conservative” women, matchmakers tell WIRED.",
-      "link": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Elon Musk poised to become world’s first trillionaire with SpaceX IPO",
       "desc": "Elon Musk is poised to become the world’s first trillionaire with SpaceX’s highly anticipated stock market debut. The world’s richest person, who is currently worth about $790 billion, is expected to ",
       "link": "https://thehill.com/policy/technology/5920813-elon-musk-poised-to-become-worlds-first-trillionaire-with-spacex-ipo/",
@@ -673,15 +673,6 @@
       "link": "https://thehill.com/policy/defense/5920058-indian-mariners-killed-us-forces/",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 15:34:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Pentagon gives all-clear after lockdown over air quality alarm",
-      "desc": "The Pentagon went into lockdown Thursday over an air quality issue, prompting the department to execute a shelter-in-place order for the affected area.  Pentagon spokesperson Sean Parnell said at 1:31",
-      "link": "https://thehill.com/policy/defense/5920045-pentagon-air-quality-lockdown/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 15:23:26 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

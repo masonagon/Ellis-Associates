@@ -1,6 +1,96 @@
 {
-  "generated": "2026-06-12T23:09:29.616Z",
+  "generated": "2026-06-13T02:39:11.438Z",
   "news": [
+    {
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "desc": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 02:26:10 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump says US military killed Venezuelan gang leader",
+      "desc": "President Trump announced late Friday that U.S. Southern Command (Southcom) launched a strike that killed the leader of the Venezuelan gang Tren de Aragua. A \"swift and lethal kinetic strike\" killed H",
+      "link": "https://thehill.com/homenews/administration/5922648-us-military-kills-venezuelan-gang-leader/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 01:50:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Marjorie Taylor Greene: UFC fights don&#039;t belong on White House lawn",
+      "desc": "President Trump’s plan to celebrate his 80th birthday with a UFC viewing on the White House lawn is drawing skepticism from former Rep. Marjorie Taylor Greene (R-Ga.), who says the location is inappro",
+      "link": "https://thehill.com/policy/sports-gaming/5922633-mtg-trump-ufc-white-house/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 01:04:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flint man sentenced to prison over 11 felonies related to dog fighting",
+      "desc": "Casey Kidd was sentenced to up to 22 years for running a dog fighting ring and committing animal abuse in Flint.",
+      "link": "https://www.mlive.com/news/flint/2026/06/flint-man-sentenced-to-prison-over-11-felonies-related-to-dog-fighting.html",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 00:38:39 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Judge orders restoration of National Parks displays removed under Trump executive order",
+      "desc": "A federal judge in Massachusetts has ordered the Trump administration to reinstall displays it removed from National Parks sites over the past year as part of a crackdown on diversity, equity and incl",
+      "link": "https://thehill.com/regulation/court-battles/5922592-judge-rules-trump-parks-diversity/",
+      "date": "Jun 13, 2026",
+      "rawDate": "Sat, 13 Jun 2026 00:14:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Appeals panel denies last-ditch effort to keep Trump’s name on Kennedy Center",
+      "desc": "A federal appeals court panel denied the Trump administration’s last-ditch effort to halt an end-of-day deadline to remove the president’s name from the exterior of the Kennedy Center.  The U.S. Court",
+      "link": "https://thehill.com/regulation/court-battles/5922576-appeals-court-denies-kennedy-center-trump-name/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 23:53:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "desc": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 23:45:26 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "4 released on bond after FBI raids tied to University of Michigan case",
+      "desc": "The four defendants pleaded not guilty to all charges. All will be required to wear a GPS tether.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/4-released-on-bond-after-fbi-raids-tied-to-university-of-michigan-case.html",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 23:34:48 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats on the lookout for their next ObamaCare",
+      "desc": "Click in for more news from The Hill {beacon} Health Care Health Care &#8202; The Big Story  Democrats on the lookout for their next ObamaCare  With healthcare costs a top concern in this election cyc",
+      "link": "https://thehill.com/newsletters/health-care/5922551-democrats-on-the-lookout-for-their-next-obamacare/",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 23:17:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police find sword hidden in cane during stop for impaired driving on Michigan highway",
+      "desc": "A man pulled over for a traffic violation in Newaygo County was found with a sword concealed inside a cane and arrested for drug impairment.",
+      "link": "https://www.mlive.com/news/muskegon/2026/06/police-find-sword-hidden-in-cane-during-stop-for-impaired-driving-on-michigan-highway.html",
+      "date": "Jun 12, 2026",
+      "rawDate": "Fri, 12 Jun 2026 23:11:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Justice Department approves Paramount bid to acquire Warner Bros.",
       "desc": "The Department of Justice (DOJ) has approved Paramount’s $110 billion bid to acquire Warner Bros. Discovery, according to the DOJ’s Antitrust Division, clearing a key regulatory hurdle for the merger ",
@@ -83,15 +173,6 @@
       "tag": "government"
     },
     {
-      "title": "Judge finds no authority to reinstate Yosemite ranger fired for trans flag",
-      "desc": "A federal judge ruled Friday that she has no authority to reinstate a Yosemite National Park ranger who was fired for unfurling a transgender pride flag at the El Capitan rock formation last year. The",
-      "link": "https://thehill.com/regulation/court-battles/5922160-judge-finds-no-authority-to-reinstate-yosemite-ranger-fired-for-trans-flag/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 18:55:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump can host UFC fights on White House lawn this weekend, judge rules",
       "desc": "A federal judge declined Friday June 12 to stop a UFC show on Sunday, June 14 in a ring already built on the South Lawn to celebrate the nation’s 250th anniversary — President Trump’s 80th birthday.",
       "link": "https://www.mlive.com/news/2026/06/trump-can-host-ufc-fights-on-white-house-lawn-this-weekend-judge-rules.html",
@@ -137,15 +218,6 @@
       "tag": "technology"
     },
     {
-      "title": "Judge refuses to block White House UFC fight",
-      "desc": "A federal judge on Friday refused two Virginia residents’ request to block this weekend’s UFC event on the White House South Lawn, ruling they have no right to challenge the fight. U.S. District Judge",
-      "link": "https://thehill.com/regulation/court-battles/5922032-trump-ufc-white-house-fight/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 17:23:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pentagon UFO files include video recreations of UFO sightings",
       "desc": "The latest batch of UFO files from the Pentagon includes artistic renderings by credible witnesses.",
       "link": "https://thehill.com/policy/defense/5922030-pentagon-releases-ufo-files/",
@@ -162,15 +234,6 @@
       "rawDate": "Fri, 12 Jun 2026 17:20:48 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Motocross athlete Travis Pastrana says he&#039;s doing stunt on White House lawn ahead of UFC fight",
-      "desc": "The event is expected to take place Saturday, the day before a UFC flight is scheduled to be held at the White House.",
-      "link": "https://thehill.com/homenews/5921974-motocross-athlete-travis-pastrana-says-hes-doing-stunt-on-white-house-lawn-ahead-of-ufc-fight/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 17:20:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "China Didn’t Make Americans Hate Data Centers",
@@ -399,7 +462,7 @@
     },
     {
       "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
-      "desc": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.",
+      "desc": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional��� and “conservative” women, matchmakers tell WIRED.",
       "link": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
       "date": "Jun 12, 2026",
       "rawDate": "Fri, 12 Jun 2026 10:30:00 +0000",
@@ -416,15 +479,6 @@
       "tag": "technology"
     },
     {
-      "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
-      "desc": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
-      "link": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Democrats seek next ObamaCare ahead of midterms amid rising health costs",
       "desc": "There is growing momentum within the Democratic Party to find its next ObamaCare heading into the midterms, as healthcare costs become more untenable and American anger over affordability persists.  H",
       "link": "https://thehill.com/policy/healthcare/5920779-healthcare-reforms-democratic-momentum/",
@@ -432,15 +486,6 @@
       "rawDate": "Fri, 12 Jun 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
-      "desc": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
-      "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Man dies after vehicle plunges into pond outside Grand Blanc Township hospital",
@@ -529,33 +574,6 @@
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/boy-seriously-injured-horse-killed-in-gladwin-county-buggy-collision.html",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 20:57:29 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Second person charged in connection with fire that damaged Flint church",
-      "desc": "A woman faces charges for allegedly helping set fire to a Flint church in August 2025.",
-      "link": "https://www.mlive.com/news/flint/2026/06/second-person-charged-in-connection-with-fire-that-damaged-flint-church.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 20:52:09 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "‘Heartless criminal’ gets decades in prison for Muskegon Heights murder",
-      "desc": "Dominique Burt was sentenced to prison for killing 47-year-old Desmond Bridgeford in December 2024.",
-      "link": "https://www.mlive.com/news/muskegon/2026/06/heartless-criminal-gets-decades-in-prison-for-muskegon-heights-murder.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 20:28:50 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Man charged with two counts of murder in shooting that killed Flint mother, newborn",
-      "desc": "A Flint man was arrested and charged after the fatal shooting of a pregnant woman and her newborn.",
-      "link": "https://www.mlive.com/news/flint/2026/06/man-charged-with-two-counts-of-murder-in-shooting-that-killed-flint-mother-newborn.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 20:22:19 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -693,15 +711,6 @@
       "rawDate": "Thu, 11 Jun 2026 14:28:12 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Hegseth on whether strike on civilian infrastructure is a war crime: &#039;Disingenuous question&#039;",
-      "desc": "Defense Secretary Pete Hegseth on Wednesday slammed a reporter’s question about whether a U.S. strike on Iran’s civilian infrastructure would be considered a war crime.  “Well, it's precisely the kind",
-      "link": "https://thehill.com/policy/defense/5919831-us-defense-secretary-iran/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 14:11:21 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",

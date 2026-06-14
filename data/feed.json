@@ -1,6 +1,24 @@
 {
-  "generated": "2026-06-14T19:12:45.474Z",
+  "generated": "2026-06-14T21:01:52.809Z",
   "news": [
+    {
+      "title": "Hegseth, White House allies intensify attacks on Anthropic",
+      "desc": "Defense Secretary Pete Hegseth took a shot at Anthropic on Saturday, after the artificial intelligence (AI) company discontinued access to two of its models to comply with a directive from the Trump a",
+      "link": "https://thehill.com/policy/technology/5923727-defense-secretary-criticizes-anthropic/",
+      "date": "Jun 14, 2026",
+      "rawDate": "Sun, 14 Jun 2026 20:49:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iran deal comes under fire from Democrats before it is inked",
+      "desc": "Democratic lawmakers throughout the weekend have criticized a prospective deal between the U.S. and Iranian governments, before the two sides finalize an agreement.  Sen. Jack Reed (D-R.I.), the top D",
+      "link": "https://thehill.com/policy/international/5923658-democrats-criticize-us-iran-deal/",
+      "date": "Jun 14, 2026",
+      "rawDate": "Sun, 14 Jun 2026 19:19:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Jeffries questions possible Iran ceasefire: Trump has said deal is close &#039;38 or 39 different times&#039;",
       "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Sunday poked at the prospect that the U.S. and Iran will soon make a deal, accusing President Trump of saying the two countries have been close to a d",
@@ -43,8 +61,8 @@
       "link": "https://thehill.com/policy/defense/5922413-defense-budget-trump-reconciliation/",
       "date": "Jun 14, 2026",
       "rawDate": "Sun, 14 Jun 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Guide to Miss Michigan 2026, featuring 30 candidates",
@@ -704,15 +722,6 @@
       "tag": "education"
     },
     {
-      "title": "UFOs survey: 84 percent say US government knows more than it&#039;s telling",
-      "desc": "More than 8 in 10 respondents to a recent CBS News/YouGov poll said that the federal government knows more than it is disclosing to the public regarding UFOs, after the Pentagon released a trove of fi",
-      "link": "https://thehill.com/homenews/administration/5920539-ufos-poll-government-disclosure/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 19:32:36 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Detroit artist’s exhibition explores love, daily life at Washtenaw Community College",
       "desc": "The exhibition named “Me & You: Paintings by Brach Tiller” debuts Friday, June 12. It will remain on view through mid-September.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/detroit-artists-exhibition-explores-love-daily-life-at-washtenaw-community-college.html",
@@ -781,15 +790,6 @@
       "link": "https://thehill.com/policy/technology/visa-chatgpt-artificial-intelligence/",
       "date": "Jun 10, 2026",
       "rawDate": "Wed, 10 Jun 2026 22:43:52 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "AI firms craft state rules as White House, Congress stall",
-      "desc": "Major artificial intelligence labs are done waiting on Washington to pass a national standard for AI, turning to state bills to carve out their own policy lines while Congress tries to catch up.  Most",
-      "link": "https://thehill.com/policy/technology/5918733-openai-anthropic-ai-regulation/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 21:36:15 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

@@ -1,23 +1,149 @@
 {
-  "generated": "2026-06-15T08:52:44.744Z",
+  "generated": "2026-06-15T14:58:41.247Z",
   "news": [
     {
-      "title": "Graham ‘concerned’ that Iran views deal with U.S. differently than Trump administration",
-      "desc": "Republican Sen. Lindsey Graham (S.C.) said Sunday that he is “concerned” that the U.S. and Iranian governments have “different” views of the deal that the two sides have agreed to. “I am pleased to he",
-      "link": "https://thehill.com/homenews/senate/5923946-lindsey-graham-iran-deal/",
+      "title": "Anthropic sends staff to DC after model export restrictions",
+      "desc": "Senior technical staff from Anthropic are in Washington to meet with White House officials after the company pulled its latest AI models Friday in response to an order from the Trump administration. A",
+      "link": "https://thehill.com/policy/technology/5924391-fable-mythos-jailbreak-concerns/",
       "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 02:00:24 +0000",
+      "rawDate": "Mon, 15 Jun 2026 14:32:43 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Democrats hold 5-point edge over GOP ahead of midterms: Poll",
-      "desc": "A plurality of respondents to a recent NBC News survey said they want Democrats to win back control of Congress, with less than five months before the midterms.  The poll, conducted from May 29 throug",
-      "link": "https://thehill.com/homenews/campaign/5923907-democrats-hold-5-point-edge-over-gop-ahead-of-midterms-poll/",
+      "title": "Vivant event venue project set to begin construction this summer after city approval",
+      "desc": "The Grand Rapids brewery plans to open a 150-person space for weddings, corporate events and community gatherings at its Cherry Street location.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/vivant-event-venue-project-set-to-begin-construction-this-summer-after-city-approval.html",
       "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 01:20:04 +0000",
+      "rawDate": "Mon, 15 Jun 2026 14:32:43 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Big Ten Academic Alliance extends open access deal with publisher for 2 years",
+      "desc": "The University of Michigan is one of 18 members of the Big Ten Academic Alliance.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/big-ten-academic-alliance-extends-open-access-deal-with-publisher-for-2-years.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 14:12:09 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Vance says US signed Iran deal Sunday; hopes to release text this week",
+      "desc": "Vice President Vance said on Monday the U.S. has signed the preliminary agreement with Iran to open the Strait of Hormuz and that the text of the deal would be released this week.  “We’ll be releasing",
+      "link": "https://thehill.com/homenews/administration/5924374-us-iran-deal-strait-hormuz/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 14:11:37 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "52 illegal gambling machines seized in Adrian raid",
+      "desc": "State investigators raided a business in Adrian, seizing 52 illegal gambling machines following a joint investigation by the Michigan Department of Attorney General and the Michigan Gaming Control Boa",
+      "link": "https://www.mlive.com/news/jackson/2026/06/52-illegal-gambling-machines-seized-in-adrian-raid.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 14:04:09 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Supreme Court won’t hear 98-year-old judge’s bid to end suspension",
+      "desc": "The Supreme Court on Monday declined to take up the oldest active federal judge’s bid to end her suspension, which her colleagues issued after she refused their demands for mental fitness testing.  Pa",
+      "link": "https://thehill.com/regulation/court-battles/5924348-pauline-newman-mental-fitness-case/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 13:54:51 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Macomb County man convicted of first-degree murder in girlfriend’s death",
+      "desc": "The man will be sentenced Wednesday, July 28.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/macomb-county-man-convicted-of-first-degree-murder-in-girlfriends-death.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 13:33:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ocasio-Cortez appears to be recreating Obama’s multi-racial voter coalition",
+      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) is urging Black voters to turn out in the midterm elections, speaking at Dr. Martin Luther King Jr.'s former church in Atlanta, while also drawing on the energy ",
+      "link": "https://thehill.com/opinion/5923220-ocasio-cortez-black-voter-outreach/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 13:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Whitmer travels to Europe for world’s leading defense conference",
+      "desc": "Gov. Gretchen Whitmer will return to Europe on Monday, June 15 for a weeklong investment trip, her office announced today.",
+      "link": "https://www.mlive.com/news/2026/06/whitmer-travels-to-europe-for-worlds-leading-defense-conference.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 13:18:24 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Israel rules out withdrawing from seized land",
+      "desc": "Israeli Defense Minister Israel Katz and National Security Minister Itamar Ben-Gvir on Monday said their country will not withdraw from land seized in Lebanon after the U.S. and Iran agreed to an init",
+      "link": "https://thehill.com/policy/international/5924198-israel-hezbollah-iran-us-trump-deal/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 13:17:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "3-vehicle crash in Saginaw County claims infant’s life",
+      "desc": "A 26-year-old person was ejected during the collision and suffered severe injuries.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/3-vehicle-crash-in-saginaw-county-claims-infants-life.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 13:08:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump juggles Iran deal with UFC card: Join the live discussion",
+      "desc": "What stood out from Sunday night's UFC card at the White House? Plus, a new college sports bill getting attention on Capitol Hill. Meanwhile, the latest updates on the U.S.-Iran deal and President Tru",
+      "link": "https://thehill.com/homenews/editors-call/5924222-trump-iran-deal-g7-ufc-card-live-discussion/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 13:01:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump says he was &#039;p‑‑‑ed off&#039; at Netanyahu over Lebanon strikes",
+      "desc": "President Trump said in a new interview he was enraged at Israeli Prime Minister Benjamin Netanyahu for striking Lebanon as the U.S. was seeking to wrap up negotiations with Iran over the weekend.  “W",
+      "link": "https://thehill.com/homenews/administration/5924235-donald-trump-israel-lebanon-peace/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 12:56:25 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
+      "desc": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, proponents of both are fightin",
+      "link": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "US catches up to rest of world with first new FDA-approved sunscreen in decades",
+      "desc": "The Food and Drug Administration (FDA) this week approved the first new sunscreen filter in more than two decades, sparking industry wide excitement. And while this ingredient will be new to the U.S.,",
+      "link": "https://thehill.com/policy/healthcare/5922475-bemotrizinol-sunscreen-approval-fda/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "The US Government Is Letting a Key Data Center Regulation Expire",
+      "desc": "The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement.",
+      "link": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Pence cast doubt on possibility of US, Iran peace deal before Trump announcement",
@@ -29,49 +155,13 @@
       "tag": "safety"
     },
     {
-      "title": "Carville says El-Sayed can defeat Rogers in Michigan Senate race",
-      "desc": "Democratic strategist James Carville said Sunday that Democratic candidate Abdul El-Sayed can beat former Rep. Mike Rogers (R-Mich.) in Michigan's Senate race in November. “Can Abdul El-Sayed beat Mik",
-      "link": "https://thehill.com/homenews/campaign/5923737-carville-says-el-sayed-can-defeat-rogers-in-michigan-senate-race/",
-      "date": "Jun 14, 2026",
-      "rawDate": "Sun, 14 Jun 2026 22:08:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Vance says he’ll examine political future after midterms",
-      "desc": "Vice President Vance said he’ll explore next steps for his political career after the midterm elections as speculation about a potential 2028 presidential bid stirs.  “Usha and I will absolutely sit d",
-      "link": "https://thehill.com/homenews/campaign/5923763-vance-says-hell-examine-political-future-after-midterms/",
-      "date": "Jun 14, 2026",
-      "rawDate": "Sun, 14 Jun 2026 21:52:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hegseth, White House allies intensify attacks on Anthropic",
       "desc": "Defense Secretary Pete Hegseth took a shot at Anthropic on Saturday, after the artificial intelligence company discontinued access to two of its models to comply with a directive from the Trump admini",
       "link": "https://thehill.com/policy/technology/5923727-defense-secretary-criticizes-anthropic/",
       "date": "Jun 14, 2026",
       "rawDate": "Sun, 14 Jun 2026 20:49:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Iran deal comes under fire from Democrats before it is inked",
-      "desc": "Democratic lawmakers throughout the weekend have criticized a prospective deal between the U.S. and Iranian governments, before the two sides finalize an agreement.  Sen. Jack Reed (D-R.I.), the top D",
-      "link": "https://thehill.com/policy/international/5923658-democrats-criticize-us-iran-deal/",
-      "date": "Jun 14, 2026",
-      "rawDate": "Sun, 14 Jun 2026 19:19:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Jeffries questions possible Iran ceasefire: Trump has said deal is close &#039;38 or 39 different times&#039;",
-      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Sunday poked at the prospect that the U.S. and Iran will soon make a deal, accusing President Trump of saying the two countries have been close to a d",
-      "link": "https://thehill.com/homenews/house/5923552-jeffries-blasts-trump-iran-deal/",
-      "date": "Jun 14, 2026",
-      "rawDate": "Sun, 14 Jun 2026 18:18:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Senate Democrat agrees with Trump administration on Anthropic model takedown",
@@ -299,15 +389,6 @@
       "tag": "government"
     },
     {
-      "title": "How Can Soccer Players Bend Their Shots in Midair?",
-      "desc": "As World Cup action kicks off, we look at the physics of the beautiful game.",
-      "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Wayne County students surprise beloved art teacher after award win",
       "desc": "The Canton Charter Academy art teacher was named one of the top teachers in the region for charter schools.",
       "link": "https://www.mlive.com/news/detroit/2026/06/wayne-county-students-surprise-beloved-art-teacher-after-award-win.html",
@@ -315,24 +396,6 @@
       "rawDate": "Sat, 13 Jun 2026 11:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "The FCC Wants to Kill Burner Phones",
-      "desc": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
-      "desc": "Whether you want to buy cheaper electricity, store solar energy, or guard against outages, EcoFlow’s home battery might be just what you need.",
-      "link": "https://www.wired.com/review/ecoflow-powerocean-home-battery/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "3 takeaways on FBI raid of pro-Palestinian vandalism arrests",
@@ -344,15 +407,6 @@
       "tag": "safety"
     },
     {
-      "title": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
-      "desc": "RJ Scaringe, the CEO of Rivian Automotive, joined us for a wide-ranging interview about how his company’s new electric SUV fits into the current EV industry, and what comes next.",
-      "link": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Screwworm spread tests US readiness after Trump staffing cuts",
       "desc": "The U.S. spent decades driving the New World screwworm far into South America. But now the parasite has reemerged, and officials are working to beat it back yet again using many of the same tried-and-",
       "link": "https://thehill.com/policy/healthcare/5922510-screwworm-spread-tests-us-readiness-after-trump-staffing-cuts/",
@@ -362,24 +416,6 @@
       "tag": "health"
     },
     {
-      "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
-      "desc": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
-      "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Here’s How AI Agents Can Protect EV Chargers",
-      "desc": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
-      "link": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 06:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "US forces shoot down Iranian drones targeting ships in Strait of Hormuz: Centcom",
       "desc": "U.S. Central Command (Centcom) said on Friday that U.S. forces shot down an unspecified number of Iranian one-way attack drones in the Strait of Hormuz, as an emerging deal between the two nations han",
       "link": "https://thehill.com/policy/defense/5922688-us-forces-down-iranian-drones/",
@@ -387,15 +423,6 @@
       "rawDate": "Sat, 13 Jun 2026 03:08:07 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-      "desc": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 02:26:10 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump says US military killed Venezuelan gang leader",
@@ -470,24 +497,6 @@
       "tag": "government"
     },
     {
-      "title": "Jury acquits Saginaw parolee of killing man at Birch Park Apartments",
-      "desc": "Deangelo \"North Side\" McNeal's defense attorney argued during the trial that a rush to judgment led to his client being charged with murder.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/jury-acquits-saginaw-parolee-of-killing-man-at-birch-park-apartments.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 18:20:08 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Massage, aromatherapy studio relocates to Nickels Arcade in Ann Arbor",
-      "desc": "Nickels Arcade welcomed a new business in early June after it spent about four years in downtown Adrian.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/massage-aromatherapy-studio-relocates-to-nickels-arcade-in-ann-arbor.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 18:03:11 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Pentagon UFO files include video recreations of UFO sightings",
       "desc": "The latest batch of UFO files from the Pentagon includes artistic renderings by credible witnesses.",
       "link": "https://thehill.com/policy/defense/5922030-pentagon-releases-ufo-files/",
@@ -503,33 +512,6 @@
       "date": "Jun 12, 2026",
       "rawDate": "Fri, 12 Jun 2026 17:20:48 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "National Tex-Mex restaurant chain abruptly closes all company-owned locations",
-      "desc": "The chain known for its selection of fajitas, margaritas, tacos, burritos, quessadilas and more, filed for Chapter 11 bankruptcy in March 2025.",
-      "link": "https://www.mlive.com/business/2026/06/national-tex-mex-restaurant-chain-abruptly-closes-all-company-owned-locations.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 17:04:01 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Man, 25, charged with killing 3 family members, brother’s girlfriend",
-      "desc": "He was charged with four counts of first-degree murder.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/man-25-charged-with-killing-3-family-members-brothers-girlfriend.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 16:36:02 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Sheriff alleges marijuana found in car was ‘empty cardboard wrapper,’ contradicting outside report",
-      "desc": "The claim contradicts the investigation by an outside firm hired by the county.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/sheriff-alleges-marijuana-found-in-car-was-empty-cardboard-wrapper-contradicting-outside-report.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 16:28:05 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -659,22 +641,13 @@
       "tag": "health"
     },
     {
-      "title": "The Memo: Trump announces ‘great settlement’ on Iran, but the world awaits details",
-      "desc": "This time it’s different — maybe. President Trump announced a “great settlement of the war with Iran” when he spoke to reporters in the Oval Office Thursday afternoon. It was an abrupt turn, even by h",
-      "link": "https://thehill.com/homenews/administration/5920985-trump-iran-memorandum/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 22:45:13 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Senate defense policy bill excludes IVF provision",
-      "desc": "The Senate Armed Services Committee rejected a provision in the annual defense policy bill that would have expanded coverage of fertility services for military members and their families, including in",
+      "desc": "The Senate Armed Services Committee rejected a provision in the annual defense policy bill that would have expanded coverage of fertility services��for military members and their families, including i",
       "link": "https://thehill.com/policy/healthcare/5920930-senate-defense-bill-excludes-ivf-coverage/",
       "date": "Jun 11, 2026",
       "rawDate": "Thu, 11 Jun 2026 22:28:13 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "State Rep. Timmy Beson stays on ballot after Bay County clerk ruling",
@@ -684,15 +657,6 @@
       "rawDate": "Thu, 11 Jun 2026 21:24:53 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Trump rips McConnell, Murkowski from Oval Office",
-      "desc": "President Trump offered stark criticism of Sen. Mitch McConnell (R-Ky.) on Thursday, calling him an “angry man” and launching into his grievances with the former Senate Republican Leader from the Oval",
-      "link": "https://thehill.com/homenews/administration/5920756-trump-criticizes-mitch-mcconnell/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 21:17:41 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "China likely behind anti-data center campaign in US: OpenAI",
@@ -875,15 +839,6 @@
       "tag": "government"
     },
     {
-      "title": "‘No Kings’ returns: Concert watch parties to counter Trump’s White House UFC fight",
-      "desc": "See where \"Rise Up, Sing Out\" local watch parties are happening across Michigan for Sunday's national concert event in protest of President Donald Trump.",
-      "link": "https://www.mlive.com/politics/2026/06/no-kings-returns-concert-watch-parties-to-counter-trumps-white-house-ufc-fight.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 17:02:47 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "University of Michigan tuition down 5% for in-state residents over last decade",
       "desc": "The average debt load for undergraduates has fallen by nearly $10,000 over the past decade, according to a June 10 University Record update.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-tuition-down-5-for-in-state-residents-over-last-decade.html",
@@ -898,17 +853,8 @@
       "link": "https://www.mlive.com/news/muskegon/2026/06/muskegon-community-college-to-host-town-halls-ahead-of-operating-millage-vote.html",
       "date": "Jun 10, 2026",
       "rawDate": "Wed, 10 Jun 2026 13:41:19 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump officials play Biden blame game as screwworm spreads",
-      "desc": "As cases of New World screwworm spread and threaten the beef and cattle industry, the Trump administration is rolling out a familiar playbook: Blame former President Biden.   The parasitic fly had bee",
-      "link": "https://thehill.com/policy/healthcare/5917187-trump-blames-biden-screwworm/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "University of Michigan alum part of NASA’s Artemis III mission",
@@ -916,15 +862,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-alum-part-of-nasas-artemis-iii-mission.html",
       "date": "Jun 9, 2026",
       "rawDate": "Tue, 09 Jun 2026 20:46:51 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "The plan to turn Saginaw into a medical education hub just added a New York City professor with a big résumé",
-      "desc": "Dr. Joshua Nosanchuk will lead Central Michigan University's expansion in Saginaw, where the medical college is becoming a cornerstone of the city's planned healthcare renaissance along the riverside.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/the-plan-to-turn-saginaw-into-a-medical-education-hub-just-added-a-new-york-city-professor-with-a-big-resume.html",
-      "date": "Jun 9, 2026",
-      "rawDate": "Tue, 09 Jun 2026 20:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

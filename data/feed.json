@@ -1,23 +1,194 @@
 {
-  "generated": "2026-06-15T19:04:24.716Z",
+  "generated": "2026-06-15T22:11:12.978Z",
   "news": [
     {
-      "title": "US blockade of Iranian ports it stay &#039;pending execution&#039; of Strait of Hormuz ceasefire deal",
+      "title": "SVSU approves tuition increase, housing renovations for upcoming year",
+      "desc": "The university will spend up to $6.4 million renovating University Village apartments while implementing a 4.4% tuition increase for the coming academic year.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/svsu-approves-tuition-increase-housing-renovations-for-upcoming-year.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:45:10 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "desc": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:33:46 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Warsh faces bind between Trump, inflation",
+      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Warsh faces bind between Trump, inflation Federal Reserve Chair",
+      "link": "https://thehill.com/newsletters/business-economy/5925335-warsh-faces-bind-between-trump-inflation/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:28:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US strategic oil reserve hits lowest level since 1983",
+      "desc": "The U.S. supply of emergency oil has hit its lowest level since 1983, according to newly released federal data. The U.S. Strategic Petroleum Reserve (SPR) is down to 340.3 million barrels, according t",
+      "link": "https://thehill.com/policy/energy-environment/5925310-spr-strategic-oil-reserve-iran-strait-of-hormuz/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:24:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Alaska election official rules Senate candidate with same name as Sullivan is ineligible on ballot",
+      "desc": "An Alaskan election official determined Monday that a candidate with the same name as incumbent Sen. Dan Sullivan (R-Alaska) is ineligible to appear on the ballot.  “On review of the complaints and ot",
+      "link": "https://thehill.com/homenews/campaign/5925260-dan-sullivan-alaska-candidate-denied-ballot/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:23:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police investigate weekend shooting near Flint gas station",
+      "desc": "Flint police are investigating a shooting that left one man hospitalized in good condition.",
+      "link": "https://www.mlive.com/news/flint/2026/06/police-investigate-weekend-shooting-near-flint-gas-station.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:23:30 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Thune says Congress needs more information about US-Iran peace deal",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) says he doesn’t yet have enough information to make a judgment about the peace deal between the United States and Iran announced by President Trump on Sunday",
+      "link": "https://thehill.com/homenews/senate/5925272-thune-iran-peace-deal/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:21:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump admin paying thousands of dollars per month to store ruined USAID contraceptives",
+      "desc": "Millions of dollars' worth of contraceptives meant to be distributed to low-income nations in Africa have expired, but the Trump administration is paying tens of thousands of dollars a month to keep t",
+      "link": "https://thehill.com/policy/healthcare/5925304-expired-contraceptives-trump-storage-costs/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 21:21:08 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
+      "desc": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
+      "link": "https://www.wired.com/story/the-best-fans-2026/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 20:46:39 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Carville: Trump &#039;going to walk away&#039; from presidency by next Easter",
+      "desc": "Democratic strategist James Carville on Sunday predicted that President Trump is \"going to walk away\" from the presidency and leave office by next Easter. Carville said during a discussion with his \"P",
+      "link": "https://thehill.com/homenews/administration/5924764-carville-predicts-trump-exit/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 20:29:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump calls for impeachment of Senate Democrat who called ending Obama&#039;s Iran deal &#039;bad mistake&#039;",
+      "desc": "President Trump on Sunday called for the impeachment of Democratic Sen. Jack Reed (R.I.), after the lawmaker criticized his decision to pull out of the 2015 Joint Comprehensive Plan of Action (JCPOA) ",
+      "link": "https://thehill.com/homenews/administration/5925180-trump-calls-for-reed-impeachment/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 20:21:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Thune says Senate will move FISA bill without SAVE America Act, rebuffing Trump",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) on Monday said the Senate will attempt to pass an extension of the Foreign Intelligence Surveillance Act’s (FISA) enhanced surveillance powers without the Sa",
+      "link": "https://thehill.com/homenews/senate/5925177-thune-fisa-save-act/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 20:20:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "$5M in gifts supports Eastern Michigan University faculty research, innovation",
+      "desc": "Eastern Michigan University has secured $5 million for a faculty development endowment following a $4 million estate gift from longtime university supporters.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/5m-in-gifts-supports-eastern-michigan-university-faculty-research-innovation.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 20:17:37 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "RFK Jr. demands journal explain removal of vaccine study used to support his childhood immunization changes",
+      "desc": "Health and Human Services Secretary Robert F. Kennedy Jr. is demanding answers from a science journal on why a study regarding vaccination and sudden infant death was removed from the publication. In ",
+      "link": "https://thehill.com/policy/healthcare/5924878-kennedy-demands-answers-vaccine-study/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 19:59:55 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Dana White slams UFC fighter Josh Hokit&#039;s insult of Michelle Obama: &#039;I hate that kind of nonsense&#039;",
+      "desc": "UFC boss Dana White is condemning comments made by fighter Josh Hokit after his bout at \"UFC Freedom 250\" on the White House lawn Sunday, during which he said former first lady Michelle Obama is a man",
+      "link": "https://thehill.com/policy/sports-gaming/5925072-ufc-dana-white-condemns-hokit/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 19:52:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US strategic bomber crashes shortly after takeoff in California",
+      "desc": "A U.S. Air Force B-52 Stratofortress, a nuclear-capable strategic bomber, crashed Monday shortly after taking off from an air base in California.  The long-range bomber, which can perform a variety of",
+      "link": "https://thehill.com/homenews/5925098-us-air-force-bomber-crash/",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 19:44:13 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "University of Michigan to open $165M recreation center",
+      "desc": "The five-level Hadley Family Recreation & Well-Being Center will have its soft opening Wednesday, June 17. The facility features a 52-foot climbing wall and stretches more than 200,000 square feet.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-to-open-165m-recreation-center.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 19:27:13 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "1 dead, 2 injured in Walker shooting police believe was murder-suicide attempt",
+      "desc": "Walker police said a 68-year-old man was found dead in a garage, while a 70-year-old woman and 64-year-old man had gunshot wounds.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/1-dead-2-injured-in-walker-shooting-police-believe-was-murder-suicide-attempt.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 19:13:39 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Youngest shooter sentenced for 72-year-old man’s killing in Muskegon drive-by",
+      "desc": "Junarion Weaver, 17, wiped his eyes before a Muskegon County judge sentenced him to 18-80 years for the murder of Robert Ritter.",
+      "link": "https://www.mlive.com/news/muskegon/2026/06/youngest-shooter-sentenced-for-72-year-old-mans-killing-in-muskegon-drive-by.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 19:07:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Feds back Michigan gas upgrades with $1.6B loan while clean energy funding languishes",
+      "desc": "The Trump administration has closed a Biden-era financing deal to make natural gas system upgrades cheaper for DTE Energy customers, but billions more for power utilities hasn't advanced.",
+      "link": "https://www.mlive.com/news/2026/06/feds-back-michigan-gas-upgrades-with-16b-loan-while-clean-energy-funding-languishes.html",
+      "date": "Jun 15, 2026",
+      "rawDate": "Mon, 15 Jun 2026 19:06:58 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US blockade of Iranian ports still in place &#039;pending execution&#039; of Strait of Hormuz ceasefire deal",
       "desc": "The U.S. blockade of vessels going to or coming from Iranian ports is still in place “pending execution” of a ceasefire deal between Washington and Tehran set to be signed Friday, according to a U.S. ",
       "link": "https://thehill.com/policy/defense/5925018-us-blockade-iranian-ports-ceasefire/",
       "date": "Jun 15, 2026",
       "rawDate": "Mon, 15 Jun 2026 19:04:17 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Vance: Iran &#039;could have access to&#039; $300B reconstruction fund",
-      "desc": "Vice President Vance on Monday said Iran could have access to a $300 billion reconstruction fund under its peace agreement with the U.S. if Tehran upholds its obligations outlined in the deal.  Vance ",
-      "link": "https://thehill.com/homenews/administration/5924963-vance-iran-300b-reconstruction-fund/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 18:52:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "US military to stay in Middle East during negotiations with Iran",
@@ -29,22 +200,13 @@
       "tag": "safety"
     },
     {
-      "title": "Independents prefer Democrats for congressional control by 12-point margin: Survey",
-      "desc": "Independents want Democrats to have control of Congress after November by a 12-point margin, according to a new survey. The NBC News poll found 46 percent of independent registered voters would rather",
-      "link": "https://thehill.com/homenews/campaign/5924917-independents-favor-democrats-congress/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 18:20:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Schumer calls on Trump to brief Congress on ‘understanding’ with Iran",
       "desc": "Senate Democratic Leader Chuck Schumer (N.Y.) called on the Trump administration Monday to brief Congress immediately on the “understanding” with Iran that President Trump says would reopen the Strait",
       "link": "https://thehill.com/homenews/senate/5924890-schumer-trump-iran-deal/",
       "date": "Jun 15, 2026",
       "rawDate": "Mon, 15 Jun 2026 18:14:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Another delay looms in felony assault, domestic violence case against Flint councilman",
@@ -54,15 +216,6 @@
       "rawDate": "Mon, 15 Jun 2026 18:10:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "UFC boss Dana White on another White House event: &#039;It will never happen again&#039;",
-      "desc": "Don't expect another mixed martial arts fight on the White House lawn anytime soon. UFC President and CEO Dana White ruled out the possibility of ever hosting another event like Sunday's UFC Freedom 2",
-      "link": "https://thehill.com/policy/sports-gaming/5924863-dana-white-ufc-white-house/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 18:06:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan cold case homicide: Man gets 23-45 years in prison for raping, killing in-law in 2003",
@@ -108,15 +261,6 @@
       "rawDate": "Mon, 15 Jun 2026 17:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "China is quietly taking control of US medicine. We must stop helping it.",
-      "desc": "China is using economic leverage to dominate the global supply chain for medicines, and the U.S. must take action to protect its leadership in the biomedical industry by strengthening regulatory frame",
-      "link": "https://thehill.com/opinion/5923996-us-china-medicine-control-risk/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 17:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Saginaw man pleads guilty to gun charges, arrested days later at Freaknik with stolen pistol",
@@ -398,29 +542,11 @@
       "tag": "technology"
     },
     {
-      "title": "Škoda’s New EV Will Likely Be Its Most Expensive Yet",
-      "desc": "The Škoda Peaq, which will debut this summer as the European automaker’s flagship model, seats seven and has an intriguing design. It will almost certainly come with a hefty price tag.",
-      "link": "https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/",
-      "date": "Jun 14, 2026",
-      "rawDate": "Sun, 14 Jun 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Woman reaches 95 mph during vehicle pursuit in Monroe County",
       "desc": "Police had attempted to stop her for active warrants.",
       "link": "https://www.mlive.com/news/2026/06/woman-reaches-95-mph-during-vehicle-pursuit-in-monroe-county.html",
       "date": "Jun 13, 2026",
       "rawDate": "Sat, 13 Jun 2026 20:15:06 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Murder charges filed in Clinton Township stabbing death",
-      "desc": "Al Fairfax of Clinton Township faces several felony charges in connection with the death of 36-year-old Shamekia Kelly earlier this year.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/murder-charges-filed-in-clinton-township-stabbing-death.html",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 18:02:56 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -431,24 +557,6 @@
       "date": "Jun 13, 2026",
       "rawDate": "Sat, 13 Jun 2026 17:39:48 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Iosco County man arrested for felony domestic assault",
-      "desc": "The man is accused of assaulting his girlfriend for 24 hours, resulting in several injuries, including a broken orbital bone and a broken nose.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/iosco-county-man-arrested-for-felony-domestic-assault.html",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 16:20:58 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "16-year-old girl killed in fiery Macomb County crash",
-      "desc": "The incident occurred early Saturday morning when a disabled car was struck by another vehicle on Fairchild Road in Macomb Township.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/16-year-old-girl-killed-in-fiery-macomb-county-crash.html",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 14:58:15 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -558,24 +666,6 @@
       "rawDate": "Fri, 12 Jun 2026 18:37:39 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Pentagon UFO files include video recreations of UFO sightings",
-      "desc": "The latest batch of UFO files from the Pentagon includes artistic renderings by credible witnesses.",
-      "link": "https://thehill.com/policy/defense/5922030-pentagon-releases-ufo-files/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 17:22:35 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Pakistan: &#039;Final, agreed upon text&#039; of deal to end Iran war reached",
-      "desc": "The prime minister of Pakistan said Friday the U.S. and Iran reached an agreement on a peace framework to end the more than 100-day war. The country has been leading the mediation efforts between the ",
-      "link": "https://thehill.com/policy/international/5922005-pakistan-us-iran-peace-deal-text-agreement/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 17:20:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "SpaceX launches IPO, making Elon Musk the world&#039;s first trillionaire",
@@ -758,15 +848,6 @@
       "tag": "health"
     },
     {
-      "title": "Make-A-Wish grants Michigan cancer survivor’s request — tuition to WMU",
-      "desc": "“I just asked for tuition assistance, and they went completely above and beyond,” she said.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/make-a-wish-grants-michigan-cancer-survivors-request-tuition-to-wmu.html",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 17:14:10 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "RFK Jr. rips journalist over report he has &#039;checked out&#039;",
       "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Wednesday slammed a New York Times report alleging that some say he appears to be “checked out” from official duties during departmen",
       "link": "https://thehill.com/homenews/administration/5919889-robert-f-kennedy-jr-hhs-nyt-criticism/",
@@ -783,51 +864,6 @@
       "rawDate": "Thu, 11 Jun 2026 14:36:05 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "CDC chief: &#039;No evidence&#039; USAID cuts hampered Ebola response",
-      "desc": "The acting director of the Centers for Disease Control and Prevention (CDC) denied Wednesday that the Trump administration’s cuts to foreign aid negatively impacted the global response to the ongoing ",
-      "link": "https://thehill.com/policy/healthcare/5919775-ebola-outbreak-cdc-trump-administration-cuts/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 14:28:12 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "States starting to see major ObamaCare coverage losses",
-      "desc": "Newly released state enrollment data show ObamaCare coverage losses could be even more severe than initially anticipated, due to Congress's unwillingness to renew enhanced subsidies.   Monthly enrollm",
-      "link": "https://thehill.com/policy/healthcare/5918956-obamacare-coverage-losses-states/",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 21:16:43 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Michigan House moves ‘halo’ law punishing interference with police, first responders",
-      "desc": "The bill package would create new penalties for individuals who come within 25 feet of first responders and “impede, interfere with, threaten or harass them.”",
-      "link": "https://www.mlive.com/news/2026/06/michigan-house-moves-halo-law-punishing-interference-with-police-first-responders.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 19:19:36 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "University of Michigan tuition down 5% for in-state residents over last decade",
-      "desc": "The average debt load for undergraduates has fallen by nearly $10,000 over the past decade, according to a June 10 University Record update.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-tuition-down-5-for-in-state-residents-over-last-decade.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 15:24:19 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Muskegon Community College to host town halls ahead of operating millage vote",
-      "desc": "If approved, the proposal would amount to a tax increase of about $37 per year for an average Muskegon County home with a market value of $250,000.",
-      "link": "https://www.mlive.com/news/muskegon/2026/06/muskegon-community-college-to-host-town-halls-ahead-of-operating-millage-vote.html",
-      "date": "Jun 10, 2026",
-      "rawDate": "Wed, 10 Jun 2026 13:41:19 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     }
   ]
 }

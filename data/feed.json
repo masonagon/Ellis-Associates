@@ -1,22 +1,130 @@
 {
-  "generated": "2026-06-16T20:47:20.886Z",
+  "generated": "2026-06-16T22:49:23.166Z",
   "news": [
     {
-      "title": "Defeated GOP challenger urges voters to oppose Hinson in Iowa Senate race",
-      "desc": "Former Iowa state Sen. Jim Carlin (R), who lost his GOP primary bid for U.S. Senate this month, is refusing to endorse the race’s victor, Rep. Ashley Hinson (R-Iowa), as she kicks off her general elec",
-      "link": "https://thehill.com/homenews/campaign/5926826-carlin-refuses-endorse-hinson/",
+      "title": "Florida accuses TikTok of violating child safety law",
+      "desc": "Florida sued TikTok on Monday, alleging that the platform violates the Sunshine State’s child safety law that bans children under 14 years of age from all social media platforms. Parental consent is r",
+      "link": "https://thehill.com/policy/technology/5927153-florida-sues-tiktok-child-safety/",
       "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 20:33:46 +0000",
+      "rawDate": "Tue, 16 Jun 2026 22:47:43 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Hillary Clinton: Biden reelection campaign a &#039;terrible mistake&#039;",
-      "desc": "Former Secretary of State Hillary Clinton on Monday criticized former President Biden’s decision to go for another White House term in 2024. “He made a terrible mistake. He made a terrible mistake for",
-      "link": "https://thehill.com/homenews/campaign/5926819-biden-hillary-clinton-2024-election/",
+      "title": "Former Michigan couple sentenced in child abuse case involving cages",
+      "desc": "Police found straitjackets, dog cages, and security alarms in the bedrooms where the couple kept their severely malnourished adopted children confined with only supervised access to food.",
+      "link": "https://www.mlive.com/news/2026/06/former-michigan-couple-sentenced-in-child-abuse-case-involving-cages.html",
       "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 20:33:16 +0000",
+      "rawDate": "Tue, 16 Jun 2026 22:20:10 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Senate votes to consider bipartisan housing bill after months of GOP infighting",
+      "desc": "The Senate voted 87-8 on Tuesday to consider a bipartisan housing bill after months of haggling between the House and Senate GOP. The version ultimately agreed to by the House and Senate includes lang",
+      "link": "https://thehill.com/homenews/senate/5927130-housing-bill-limits-investor-purchases/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 22:18:30 +0000",
       "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House knocks George Conway ad promising impeachment",
+      "desc": "The White House on Tuesday knocked outspoken Trump critic and New York congressional candidate George Conway (D) for airing a congressional campaign ad where he promises to impeach President Trump. \"L",
+      "link": "https://thehill.com/homenews/campaign/5927008-white-house-criticizes-george-conway/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 22:14:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Georgia GOP runoffs lead primary night; Trump huddles with G7 leaders",
+      "desc": "Oklahoma, Alabama and the District of Columbia, are hosting primary elections and runoffs Tuesday. All eyes are on Georgia, however, where Sen. Jon Ossoff (D) and Democratic gubernatorial nominee Keis",
+      "link": "https://thehill.com/homenews/administration/5924519-live-updates-trump-iran-g7/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 22:03:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "FDA approves third over-the-counter opioid overdose nasal spray",
+      "desc": "The Food and Drug Administration (FDA) approved a third over-the-counter version of naloxone nasal spray Tuesday, in a move the agency said could save lives and reduce costs.  The agency approved anot",
+      "link": "https://thehill.com/policy/healthcare/5927054-fda-naloxone-nasal-spray-rextovy/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 21:52:24 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Sanders endorsing Cori Bush comeback bid",
+      "desc": "Sen. Bernie Sanders (I-Vt.) on Tuesday endorsed former Rep. Cori Bush (D-Mo.) as she seeks to reclaim her seat won by Rep. Wesley Ball (D-Mo.) last year. \"Cori will take on AIPAC and other billionaire",
+      "link": "https://thehill.com/homenews/campaign/5926908-sanders-endorses-cori-bush/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 21:35:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Almost half in new poll don&#039;t consider themselves Democrats or Republicans",
+      "desc": "Nearly half of Americans don’t consider themselves a Democrat or Republican, according to a new poll. In the CNN poll released Tuesday, 47 percent of respondents said they are either “independent,” pa",
+      "link": "https://thehill.com/homenews/campaign/5926967-independents-key-demographic-midterms/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 21:32:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cruz bucks Trump in Georgia, South Carolina gubernatorial runoffs",
+      "desc": "Sen. Ted Cruz (R-Texas) is backing two gubernatorial candidates who don't have President Trump's endorsement in the Georgia and South Carolina GOP primary runoffs.  Cruz endorsed Georgia billionaire R",
+      "link": "https://thehill.com/homenews/campaign/5926972-ted-cruz-endorses-gubernatorial-candidates/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 21:30:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "5 reasons Trump allies don&#039;t like his Iran deal",
+      "desc": "Some of President Trump’s most prominent allies in his war on Iran are revolting against the reported contours of his memorandum of understanding (MOU) with Tehran to end the conflict.  Conservative p",
+      "link": "https://thehill.com/policy/defense/5926899-trump-allies-oppose-iran-mou/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 21:29:24 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Blumenthal: Trump saying Syria could deal with Hezbollah &#039;absolutely absurd&#039;",
+      "desc": "Democratic Sen. Richard Blumenthal on Tuesday panned President Trump for saying that Syria would more effectively combat Hezbollah than Israel.  \"I think that idea is absolutely absurd. Remember Syria",
+      "link": "https://thehill.com/homenews/senate/5926893-blumenthal-criticizes-trump-syria-hezbollah/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 21:24:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "RFK Jr. orders continued hantavirus quarantine of American woman despite CDC advice",
+      "desc": "An American passenger exposed to the hantavirus on a cruise ship was ordered to remain in quarantine in Nebraska against her will and despite a federal medical review recommending she could leave.  He",
+      "link": "https://thehill.com/policy/healthcare/5926932-passenger-quarantine-hantavirus-cruise/",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 21:18:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Former LakeVille teacher faces five felonies for alleged sexual assaults at middle school",
+      "desc": "A former LakeVille Community Schools teacher is facing five felony charges stemming from alleged sexual abuse of a sixth-grader he taught a decade ago during her first year of middle school.",
+      "link": "https://www.mlive.com/news/flint/2026/06/former-lakeville-teacher-faces-five-felonies-for-alleged-sexual-assaults-at-middle-school.html",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 20:57:11 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ann Arbor mayor picks up additional union support for reelection campaign",
+      "desc": "Mayor Christopher Taylor, who is advancing a pro-development agenda of greater housing density in Ann Arbor, now has support for his reelection campaign from a major skilled building trades union grou",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbor-mayor-picks-up-additional-union-support-for-reelection-campaign.html",
+      "date": "Jun 16, 2026",
+      "rawDate": "Tue, 16 Jun 2026 20:55:30 +0000",
+      "source": "MLive Politics",
       "tag": "government"
     },
     {
@@ -25,8 +133,8 @@
       "link": "https://thehill.com/policy/healthcare/5926556-nih-launches-office-reduce-animal-testing/",
       "date": "Jun 16, 2026",
       "rawDate": "Tue, 16 Jun 2026 20:32:34 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Senate fails to advance measure directing Trump to end Iran conflict despite four GOP defections",
@@ -34,8 +142,8 @@
       "link": "https://thehill.com/homenews/senate/5926564-senate-iran-war-powers/",
       "date": "Jun 16, 2026",
       "rawDate": "Tue, 16 Jun 2026 20:08:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Burton man, 19, arrested in GHOST sting on child pornography crimes",
@@ -47,24 +155,6 @@
       "tag": "safety"
     },
     {
-      "title": "Federal prosecutors charge 15 people accused of impeding agents during Minnesota immigration crackdown",
-      "desc": "The Department of Justice (DOJ) on Tuesday charged 15 people for allegedly impeding federal officers during the Trump administration's immigration crackdown in Minnesota earlier this year. These 15 in",
-      "link": "https://thehill.com/homenews/administration/5926587-doj-charges-15-minnesota-protesters/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 19:34:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Justice Department unseals new charges against National Guard shooting suspect",
-      "desc": "An Afghan national is facing new federal charges in connection with the shooting of two National Guard members who were patrolling in the nation’s capital in November, according to a superseding indic",
-      "link": "https://thehill.com/homenews/5926704-afghan-national-new-federal-charges/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 19:24:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Teen rams into car, hits police vehicle with a bat in Monroe County chase",
       "desc": "He also injured a police officer.",
       "link": "https://www.mlive.com/news/2026/06/teen-rams-into-car-hits-police-vehicle-with-a-bat-in-monroe-county-chase.html",
@@ -72,15 +162,6 @@
       "rawDate": "Tue, 16 Jun 2026 19:13:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Sean Penn to direct movie about Jan. 6 Capitol riot; major actor already in talks to star",
-      "desc": "Following his Oscar-winning performance in “One Battle After Another,” Penn will direct the as-yet untitled film from his own script.",
-      "link": "https://thehill.com/blogs/in-the-know/5926643-sean-penn-bradley-cooper-jan-6/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 19:01:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Wife of ex-House Speaker Lee Chatfield admits embezzlement from nonprofit",
@@ -101,13 +182,13 @@
       "tag": "safety"
     },
     {
-      "title": "Democrats unveil drug pricing policy roadmap ahead of midterms",
+      "title": "Democrats unveil drug pricing policy road map ahead of midterms",
       "desc": "Senate Democrats on Tuesday released a blueprint of proposals to lower prescription drug costs, as Democrats focus on affordability to provide a counter message to the White House and help Democrats w",
       "link": "https://thehill.com/homenews/senate/5926593-senate-democrats-prescription-drug-plan/",
       "date": "Jun 16, 2026",
       "rawDate": "Tue, 16 Jun 2026 18:41:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "‘Destroying our country’: RFK Jr. urges healthy eating during Michigan visit",
@@ -126,15 +207,6 @@
       "rawDate": "Tue, 16 Jun 2026 18:37:02 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Jeffries urges Rubio to ensure Cape Verde goalkeeper&#039;s mother gets visa for World Cup",
-      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Tuesday urged Secretary of State Marco Rubio to ensure the mother of Cape Verde goalkeeper Vozinha can attend her son’s next FIFA World Cup match. Cap",
-      "link": "https://thehill.com/homenews/house/5926485-vozinha-goalkeeper-mother-visa-issue/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 17:56:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Couple nearly lost life savings to scammers posing as federal agents",
@@ -425,15 +497,6 @@
       "tag": "education"
     },
     {
-      "title": "Police investigate weekend shooting near Flint gas station",
-      "desc": "Flint police are investigating a shooting that left one man hospitalized in good condition.",
-      "link": "https://www.mlive.com/news/flint/2026/06/police-investigate-weekend-shooting-near-flint-gas-station.html",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 21:23:30 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Thune says Congress needs more information about US-Iran peace deal",
       "desc": "Senate Majority Leader John Thune (R-S.D.) says he doesn’t yet have enough information to make a judgment about the peace deal between the United States and Iran announced by President Trump on Sunday",
       "link": "https://thehill.com/homenews/senate/5925272-thune-iran-peace-deal/",
@@ -486,15 +549,6 @@
       "rawDate": "Mon, 15 Jun 2026 19:27:13 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "1 dead, 2 injured in Walker shooting police believe was murder-suicide attempt",
-      "desc": "Walker police said a 68-year-old man was found dead in a garage, while a 70-year-old woman and 64-year-old man had gunshot wounds.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/1-dead-2-injured-in-walker-shooting-police-believe-was-murder-suicide-attempt.html",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 19:13:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Feds back Michigan gas upgrades with $1.6B loan while clean energy funding languishes",
@@ -646,8 +700,8 @@
       "link": "https://thehill.com/policy/technology/5923727-defense-secretary-criticizes-anthropic/",
       "date": "Jun 14, 2026",
       "rawDate": "Sun, 14 Jun 2026 20:49:26 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Senate Democrat agrees with Trump administration on Anthropic model takedown",
@@ -749,47 +803,11 @@
       "tag": "technology"
     },
     {
-      "title": "Gaines Township supervisor, treasurer targeted for recall after fire chief controversy",
-      "desc": "Gaines Township Supervisor Daniel Jenkins and Treasurer Robert Henderson have been targeted for recall days after they voted to make a controversial fire chief hiring.",
-      "link": "https://www.mlive.com/news/flint/2026/06/gaines-township-supervisor-treasurer-targeted-for-recall-after-fire-chief-controversy.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 21:30:34 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Google accuses Chinese cybercrime network of using its AI",
       "desc": "Google has filed a lawsuit against a Chinese cybercrime network, alleging the hackers are using the company's Gemini artificial intelligence models and tools to build phishing software to rob consumer",
       "link": "https://thehill.com/policy/technology/5922154-google-sues-chinese-hackers/",
       "date": "Jun 12, 2026",
       "rawDate": "Fri, 12 Jun 2026 20:19:30 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump can host UFC fights on White House lawn this weekend, judge rules",
-      "desc": "A federal judge declined Friday June 12 to stop a UFC show on Sunday, June 14 in a ring already built on the South Lawn to celebrate the nation’s 250th anniversary — President Trump’s 80th birthday.",
-      "link": "https://www.mlive.com/news/2026/06/trump-can-host-ufc-fights-on-white-house-lawn-this-weekend-judge-rules.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 18:37:39 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "SpaceX launches IPO, making Elon Musk the world&#039;s first trillionaire",
-      "desc": "Elon Musk’s SpaceX made its highly anticipated stock market debut Friday morning, establishing him as the first person to ever be worth $1 trillion. The spacecraft and satellite communications company",
-      "link": "https://thehill.com/policy/technology/5921862-elon-musk-spacex-trillionaire/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 16:00:25 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Blackburn presses Kik on kids safety after &#039;disturbing&#039; research report",
-      "desc": "Sen. Marsha Blackburn (R-Tenn.) is pressing the messaging platform Kik over its dangers to users, accusing the platform of \"turning a blind eye\" or \"allowing\" the exploitation and abuse of minors. The",
-      "link": "https://thehill.com/policy/technology/5921714-marsha-blackburn-kik-kids-safety-report/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 15:59:03 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
@@ -819,33 +837,6 @@
       "rawDate": "Fri, 12 Jun 2026 13:59:17 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Ann Arbor schools eye cuts, sales and staffing changes to close $4.27M budget gap",
-      "desc": "Officials have outlined sweeping options to address a shortfall in spending over expected revenues in next year’s budget.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbor-schools-eye-cuts-sales-and-staffing-changes-to-close-427m-budget-gap.html",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 13:53:59 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Democrats seek next ObamaCare ahead of midterms amid rising health costs",
-      "desc": "There is growing momentum within the Democratic Party to find its next ObamaCare heading into the midterms, as healthcare costs become more untenable and American anger over affordability persists.  H",
-      "link": "https://thehill.com/policy/healthcare/5920779-healthcare-reforms-democratic-momentum/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Senate defense policy bill excludes IVF provision",
-      "desc": "The Senate Armed Services Committee rejected a provision in the annual defense policy bill that would have expanded coverage of fertility services for military members and their families, including in",
-      "link": "https://thehill.com/policy/healthcare/5920930-senate-defense-bill-excludes-ivf-coverage/",
-      "date": "Jun 11, 2026",
-      "rawDate": "Thu, 11 Jun 2026 22:28:13 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

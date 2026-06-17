@@ -1,6 +1,168 @@
 {
-  "generated": "2026-06-17T17:46:54.768Z",
+  "generated": "2026-06-17T20:03:13.753Z",
   "news": [
+    {
+      "title": "Justice Department sues New York over Medicaid home care &#039;fraud scheme&#039;",
+      "desc": "The Justice Department is suing the New York State Department of Health, the state’s Medicaid director and a company operating a $10 billion home health program for the state.  In the suit, filed Tues",
+      "link": "https://thehill.com/policy/healthcare/5928960-doj-sues-new-york-health/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 19:47:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Genesee County could extend contract for household hazardous waste recycling",
+      "desc": "The Genesee County Board of Commissioners could vote to extend a contract for pop-up household hazardous waste collection events while planning continues for a new $12 million recycling center.",
+      "link": "https://www.mlive.com/news/flint/2026/06/genesee-county-could-extend-contract-for-household-hazardous-waste-recycling.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 19:35:17 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump settles lawsuit against niece over tax records leak",
+      "desc": "President Trump settled a $100 million lawsuit against his niece, Mary Trump, who he accused of engaging “in an insidious plot” with The New York Times to leak confidential information for its Pulitze",
+      "link": "https://thehill.com/regulation/court-battles/5928915-trump-settles-lawsuit-niece/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 19:33:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kelly: Trump deal makes Iran &#039;more powerful&#039;",
+      "desc": "Sen. Mark Kelly (D-Ariz.) said Wednesday that President Trump’s new deal with Iran to end the war makes Tehran “more powerful.”  “Well, I think it emboldens the Iranians and makes them more powerful, ",
+      "link": "https://thehill.com/homenews/senate/5928907-kelly-trump-iran-agreement/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 19:30:45 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Ex-Michigan corrections officer, school security guard and coach accused of raping teen at YMCA",
+      "desc": "The former Michigan corrections officer and school security guard is accused of assaulting a teenage girl multiple times while coaching at the YMCA of Saginaw.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/ex-michigan-corrections-officer-school-security-guard-and-coach-accused-of-raping-teen-at-ymca.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 19:13:30 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Bezos: AI will result in labor shortages instead of replacing humans",
+      "desc": "Amazon founder Jeff Bezos on Wednesday said he thinks artificial intelligence will create a shortage of labor rather than replacing human labor. Bezos and Blue Origin CEO David Limp were both in atten",
+      "link": "https://thehill.com/policy/technology/5928754-jeff-bezos-ai-labor/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 19:05:12 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "New University of Michigan, DTE deal seeks zero emissions from purchased electricity by 2027",
+      "desc": "The University of Michigan will eliminate emissions tied to purchased electricity in 2027 through a renewable energy agreement with DTE Energy that supports development of a new solar facility in sout",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/new-university-of-michigan-dte-deal-seeks-zero-emissions-from-purchased-electricity-by-2027.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:54:49 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump administration paying another company to give up wind leases, invest in gas and geothermal",
+      "desc": "The Trump administration is paying yet another company to give up the right to build wind energy offshore, saying the firm will invest in gas plants and geothermal energy instead. The Interior Departm",
+      "link": "https://thehill.com/policy/energy-environment/5928820-invenergy-wind-power/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:38:17 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Bay City father charged with child abuse after video allegedly shows him shaking infant",
+      "desc": "The father instigated the criminal case himself by calling police to report he was receiving threats after the video circulated online.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/bay-city-father-charged-with-child-abuse-after-video-allegedly-shows-him-shaking-infant.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:35:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "FTC sues leading transgender medical group over pediatric care statements",
+      "desc": "The Federal Trade Commission (FTC) and four states on Wednesday sued the leading medical organization focused on transgender health for allegedly making false and unsubstantiated claims to parents in ",
+      "link": "https://thehill.com/policy/healthcare/5928714-ftc-sues-wpath-transgender-health/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:29:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+      "desc": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+      "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:25:35 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Flint councilman’s felony assault, domestic violence trial delayed 4 months",
+      "desc": "Flint City Council member Leon El-Alamin’s trial on felony assault and domestic violence charges has been rescheduled for Oct. 14, less than three weeks before voters decide his political fate in the ",
+      "link": "https://www.mlive.com/news/flint/2026/06/flint-councilmans-felony-assault-domestic-violence-trial-delayed-4-months.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:23:51 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "No, I Don’t Want to Watch Your Straight Hockey Show",
+      "desc": "From Amazon's “Off Campus” to Netflix’s upcoming “Icebreakers,” the recent spate of hetero-hockey romances shows Hollywood learned the wrong lessons from “Heated Rivalry.”",
+      "link": "https://www.wired.com/story/story/no-i-dont-want-to-watch-your-straight-hockey-show-heated-rivalry/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:23:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "All 8 victims of B-52 crash identified",
+      "desc": "The U.S. military on Wednesday identified the eight men killed in a B-52 Stratofortress bomber crash earlier this week during a test flight at Edwards Air Force Base in California.  Col. Gregory Watso",
+      "link": "https://thehill.com/policy/defense/5928755-b-52-crash-california/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:22:16 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "House Democrats question Wiles over reported conversations about suspending habeas corpus",
+      "desc": "Democrats on the House Oversight and Government Reform Committee sent a Wednesday letter to White House chief of staff Susie Wiles to inquire about reporting that says Trump administration officials d",
+      "link": "https://thehill.com/homenews/house/5928637-house-democrats-habeas-corpus/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:14:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Georgia Republicans table redistricting ahead of special session",
+      "desc": "Republican lawmakers in Georgia said they won’t consider mid-decade redistricting during a special session called by Gov. Brian Kemp (R) that was set to start Wednesday. “In regards to reapportionment",
+      "link": "https://thehill.com/homenews/state-watch/5928694-georgia-republicans-pause-redistricting-plans/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 18:12:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Former 3rd grade teacher in Grand Rapids accused of sexually assaulting students",
+      "desc": "George Raymond Marshall Jr. faces 10 counts of second-degree criminal sexual conduct after allegedly assaulting at least seven students at Hope Academy of West Michigan.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/former-3rd-grade-teacher-in-grand-rapids-accused-of-sexually-assaulting-students.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:59:08 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Ann Arbor’s Top of the Park in full swing on University of Michigan’s campus",
+      "desc": "Ann Arbor's Summer Festival is in full swing. Top of the Park takes place on the University of Michigan's campus near the Power Center, 915 E. Washington St. in Ann Arbor.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbors-top-of-the-park-in-full-swing-on-university-of-michigans-campus.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:57:15 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "Trump defends letting Iran maintain missile arsenal",
       "desc": "President Trump on Wednesday defended letting Iran maintain its large arsenal of ballistic missiles when discussing the emerging deal with Iran to reopen the Strait of Hormuz. The president said durin",
@@ -18,24 +180,6 @@
       "rawDate": "Wed, 17 Jun 2026 17:32:58 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Republicans more likely to celebrate upcoming US 250th anniversary: Survey",
-      "desc": "A new poll found that Americans registered as Republicans are more likely to celebrate the U.S.'s 250th birthday on the Fourth of July. Gallup and the bipartisan group With Honor, in collaboration wit",
-      "link": "https://thehill.com/homenews/5928348-poll-americans-plan-america250/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 17:20:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cape Verde goalkeeper, mother to be reunited in time for World Cup match, Jeffries says",
-      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Wednesday the mother of Cape Verdean goalkeeper Vozinha has secured a visa to join her son ahead of the team’s next FIFA World Cup match. Jeffries w",
-      "link": "https://thehill.com/homenews/house/5928524-cape-verde-goaltender-mother-to-be-reunited-in-time-for-world-cup-match-jeffries-says/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 17:19:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Flint looks to rehab three battered bridges through state program",
@@ -74,24 +218,6 @@
       "tag": "government"
     },
     {
-      "title": "Schumer: Trump &#039;holding our national security hostage&#039; over delayed Clayton nomination",
-      "desc": "Senate Minority Leader Chuck Schumer (D-N.Y.) said Wednesday that President Trump is “holding our national security hostage” by delaying the confirmation hearing for U.S. Attorney Jay Clayton to serve",
-      "link": "https://thehill.com/homenews/senate/5928425-chuck-schumer-trump-jay-clayton-dni/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 17:01:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Midterm history gives Republicans a fighting chance in November",
-      "desc": "All midterms are not the same.",
-      "link": "https://thehill.com/opinion/campaign/5926620-historical-midterm-election-trends/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
       "desc": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
       "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
@@ -108,60 +234,6 @@
       "rawDate": "Wed, 17 Jun 2026 16:59:48 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Inside the legal challenges to Trump&#039;s agenda: Join the live discussion",
-      "desc": "Federal judges are newly blocking President Trump's moves on immigration, national parks and his $1.776 billion \"anti-weaponization\" fund. Join The Hill legal affairs reporters Zach Schonfeld and Soph",
-      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5928082-federal-judges-block-trump-moves-live-discussion/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 16:54:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Top Democrats speak out on Clayton nomination delay",
-      "desc": "Senate Democratic Leader Chuck Schumer (N.Y.), Senate Intelligence Committee Vice Chair Mark Warner (Va.) and other Democrats on the panel are scheduled to hold a press conference Wednesday afternoon ",
-      "link": "https://thehill.com/homenews/senate/5928414-donald-trump-delays-clayton-confirmation/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 16:53:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump concludes G7 amid major uncertainty on Iran",
-      "desc": "🔒 Plus: Trump considers another big change to the White House {beacon} &#8202; It’s Wednesday. A 3 p.m. U.S. World Cup game on a federal holiday this Friday is going to make for quite the party — and",
-      "link": "https://thehill.com/newsletters/1230-report/5928473-trump-concludes-g7-amid-major-uncertainty-on-iran/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 16:51:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Top Senate Democrat knocks &#039;chaos and confusion&#039; from White House over delayed Clayton nomination",
-      "desc": "Sen. Mark Warner (D-Va.) sharply criticized President Trump on Wednesday for delaying the nomination of Jay Clayton to be director of national intelligence (DNI).  “What we're witnessing is an extraor",
-      "link": "https://thehill.com/homenews/senate/5928427-warner-criticizes-trump-national-security/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 16:45:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Congress should act to care for veterans before the election",
-      "desc": "Congress has the opportunity to honor veterans by passing the Take Care of America's Veterans Act, which would improve access to mental health care, increase transparency, and modernize the VA system.",
-      "link": "https://thehill.com/opinion/5927540-take-care-americas-veterans/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 16:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "JD Vance pressed on &#039;The View&#039; over Trump immigration policies",
-      "desc": "It's one thing to defend a policy. It's another to defend the real-world consequences of that policy when the facts, statistics and human stories are pushing back.",
-      "link": "https://thehill.com/opinion/lindseys-lens/5928385-jd-vance-pressed-on-the-view-over-trump-immigration-policies/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 16:26:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Pentagon AI chief: Musk&#039;s Grok chatbot used to launch thousands of missiles at Iran",
@@ -434,24 +506,6 @@
       "tag": "safety"
     },
     {
-      "title": "Burton man, 19, arrested in GHOST sting on child pornography crimes",
-      "desc": "A Burton man faces charges after a GHOST sting found evidence of child exploitation and illicit images.",
-      "link": "https://www.mlive.com/news/flint/2026/06/burton-man-19-arrested-in-ghost-sting-on-child-pornography-crimes.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 19:37:07 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Teen rams into car, hits police vehicle with a bat in Monroe County chase",
-      "desc": "He also injured a police officer.",
-      "link": "https://www.mlive.com/news/2026/06/teen-rams-into-car-hits-police-vehicle-with-a-bat-in-monroe-county-chase.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 19:13:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Wife of ex-House Speaker Lee Chatfield admits embezzlement from nonprofit",
       "desc": "Lee Chatfield, former state House speaker, awaits trial on multiple charges while his wife reached a plea deal with prosecutors to keep her out of jail.",
       "link": "https://www.mlive.com/politics/2026/06/wife-of-ex-house-speaker-lee-chatfield-admits-embezzlement-from-nonprofit.html",
@@ -459,15 +513,6 @@
       "rawDate": "Tue, 16 Jun 2026 18:52:57 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Barber recalls Flint shooting in ‘packed’ barbershop that killed 1, injured 1",
-      "desc": "A 21-year-old Flint man is accused of first-degree murder in connection with the shooting.",
-      "link": "https://www.mlive.com/news/flint/2026/06/barber-recalls-flint-shooting-in-packed-barbershop-that-killed-1-injured-1.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 18:45:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Democrats unveil drug pricing policy road map ahead of midterms",
@@ -587,15 +632,6 @@
       "tag": "technology"
     },
     {
-      "title": "Bay City mayor’s veto upheld in nonprofit funding dispute",
-      "desc": "The commission voted 9-0 to uphold Mayor Chris Girard's rejection of a resolution that would have directed city funds to Breaking Bread Village's community events.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/bay-city-mayors-veto-upheld-in-nonprofit-funding-dispute.html",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 23:11:36 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump&#039;s Iran deal triggers speculation, skepticism, market bump: 5 takeaways",
       "desc": "The agreement between the U.S. and Iran to reopen the Strait of Hormuz and kick-start 60 days of nuclear negotiations is set to be signed in person Friday, but it’s still unclear what’s in it. Senior ",
       "link": "https://thehill.com/homenews/administration/5925442-trump-iran-deal-skepticism-markets/",
@@ -659,15 +695,6 @@
       "tag": "health"
     },
     {
-      "title": "8 people onboard B-52 bomber that crashed in California",
-      "desc": "A U.S. Air Force B-52 Stratofortress, a nuclear-capable strategic bomber, that crashed on Monday shortly after taking off from an air base in California was carrying eight people on a \"routine test mi",
-      "link": "https://thehill.com/homenews/5925098-us-air-force-bomber-crash/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 19:44:13 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "University of Michigan to open $165M recreation center",
       "desc": "The five-level Hadley Family Recreation & Well-Being Center will have its soft opening Wednesday, June 17. The facility features a 52-foot climbing wall and stretches more than 200,000 square feet.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/university-of-michigan-to-open-165m-recreation-center.html",
@@ -675,15 +702,6 @@
       "rawDate": "Mon, 15 Jun 2026 19:27:13 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "US blockade of Iranian ports still in place &#039;pending execution&#039; of Strait of Hormuz ceasefire deal",
-      "desc": "The U.S. blockade of vessels going to or coming from Iranian ports is still in place “pending execution” of a ceasefire deal between Washington and Tehran set to be signed Friday, according to a U.S. ",
-      "link": "https://thehill.com/policy/defense/5925018-us-blockade-iranian-ports-ceasefire/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 19:04:17 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Trump approval in rural America slips to new low: Survey",
@@ -774,60 +792,6 @@
       "rawDate": "Sun, 14 Jun 2026 13:36:19 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "These 129 teachers earning $822K in grants for elite national certification",
-      "desc": "Grants across 41 districts cover program costs with boosts aimed at educators in high-poverty schools.",
-      "link": "https://www.mlive.com/education/2026/06/these-129-teachers-earning-822k-in-grants-for-elite-national-certification.html",
-      "date": "Jun 14, 2026",
-      "rawDate": "Sun, 14 Jun 2026 10:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "New $8.5M kitchen will prepare millions of meals for Kalamazoo students",
-      "desc": "Kalamazoo Public Schools opened a new central kitchen to prepare millions of meals using a cook-chill system.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/new-85m-kitchen-will-prepare-millions-of-meals-for-kalamazoo-students.html",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 14:05:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Anthropic pulls plug on new AI models after Trump admin directive",
-      "desc": "Anthropic said Friday it will remove access to two AI models, Fable 5 and Mythos 5, to comply with a Trump administration directive restricting foreign nationals from using its latest systems due to s",
-      "link": "https://thehill.com/policy/technology/5922802-anthropic-mythos-ai-model-dangerous-trump-directive/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 13:18:15 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Strike to stalemate: Lessons from 1994 echo in Ann Arbor teachers’ contract fight",
-      "desc": "Teachers’ past walkout has resurfaced as present-day contract negotiations roll on in Ann Arbor Public Schools and district leaders face high-stakes budget decisions.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/strike-to-stalemate-lessons-from-1994-echo-in-ann-arbor-teachers-contract-fight.html",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 12:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Screwworm spread tests US readiness after Trump staffing cuts",
-      "desc": "The U.S. spent decades driving the New World screwworm far into South America. But now the parasite has reemerged, and officials are working to beat it back yet again using many of the same tried-and-",
-      "link": "https://thehill.com/policy/healthcare/5922510-screwworm-spread-tests-us-readiness-after-trump-staffing-cuts/",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "MAP: Where have New World screwworm cases been reported in Texas?",
-      "desc": "KXAN is keeping track of the number of New World screwworm (NWS) cases across Texas.",
-      "link": "https://thehill.com/policy/healthcare/5918376-map-where-have-new-world-screwworm-cases-been-reported-in-texas/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 15:09:42 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

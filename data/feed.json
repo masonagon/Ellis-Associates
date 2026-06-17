@@ -1,14 +1,113 @@
 {
-  "generated": "2026-06-17T20:03:13.753Z",
+  "generated": "2026-06-17T22:41:14.911Z",
   "news": [
     {
-      "title": "Justice Department sues New York over Medicaid home care &#039;fraud scheme&#039;",
+      "title": "NATO chief downplays US military cutbacks",
+      "desc": "NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the event of an attack will not have an immediate impact.",
+      "link": "https://thehill.com/policy/international/5929316-us-drawdown-nato-allies/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 22:07:44 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Pope welcomes US-Iran deal, hopes for strengthened &#039;trust, security, and stability&#039;",
+      "desc": "Pope Leo XIV on Wednesday morning welcomed the new deal between the U.S. and Iran ending the war between the two countries and said he hoped for bolstered “mutual trust, security, and stability in the",
+      "link": "https://thehill.com/policy/international/5929326-pope-leo-xiv-welcomes-us-iran-deal/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 22:07:09 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Senate fumes as Clayton chaos unwinds path to renew FISA",
+      "desc": "President Trump’s scuttling of a hearing to review his pick for director of national intelligence has once again plunged Congress into chaos over who will lead the intelligence community and how lawma",
+      "link": "https://thehill.com/homenews/senate/5929200-clayton-dni-trump-fisa-702/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 21:41:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Biden&#039;s Iran envoy says Trump&#039;s MOU &#039;preferable to any of the alternatives on offer&#039;",
+      "desc": "Former President Biden’s envoy on Iran said Wednesday the deal between the Trump administration and Tehran is “far preferable to any of the alternatives.” Robert Malley, who also negotiated the 2015 J",
+      "link": "https://thehill.com/policy/international/5929232-biden-envoy-iran-mou/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 21:37:21 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "RFK Jr. announces $700M investment in addiction services, emphasizing faith-based organizations",
+      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Wednesday announced a $700 million investment into behavioral health programs, indicating an emphasis on faith-based recovery organiz",
+      "link": "https://thehill.com/policy/healthcare/5928940-rfk-jr-addiction-aa/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 21:07:56 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "DOJ uses alleged UFC plot to argue for Trump ballroom",
+      "desc": "A foiled plot to attack an outdoor UFC event at the White House over the weekend is further proof why President Trump’s proposed ballroom is needed for security reasons, a senior Department of Justice",
+      "link": "https://thehill.com/homenews/administration/5929133-trump-ballroom-ufc-event-threat/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 21:07:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Oklahoma pastor drops out of runoff for Hern&#039;s House seat after Trump withdraws endorsement",
+      "desc": "Tulsa pastor Jackson Lahmeyer, who was previously endorsed by President Trump, has withdrawn from the GOP primary runoff for Oklahoma’s solid red 1st Congressional District after being exposed in a te",
+      "link": "https://thehill.com/homenews/campaign/5929128-trump-withdraws-lahmeyer-endorsement/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 21:05:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Federal Reserve shifts away from forward guidance under new chief Kevin Warsh",
+      "desc": "New Federal Reserve Chair Kevin Warsh said Wednesday the central bank will move away from forecasting its future action under his leadership. In announcing its decision to hold interest rates steady, ",
+      "link": "https://thehill.com/business/5929155-warsh-ends-fed-forecasts/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 21:00:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senators look to jam Hegseth’s travel budget over boat strikes, Iran girls school bombing",
+      "desc": "Senators are looking to jam Defense Secretary Pete Hegseth’s travel budget until the Pentagon shares more information about the U.S. military’s strikes on alleged drug boats and the lethal bombing of ",
+      "link": "https://thehill.com/policy/defense/5929090-hegseth-travel-budget-ndaa-boat-iran-strikes/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 20:52:13 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump defends Iran deal amid criticism: 5 takeaways",
+      "desc": "President Trump defended a memorandum of understanding (MOU) released Wednesday that ends the war with Iran, even as he suggested it may not be “permanent” during a press conference from the Group of ",
+      "link": "https://thehill.com/homenews/administration/5929083-trump-defends-iran-mou/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 20:37:24 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Nvidia CEO: Society needs to change with advent of AI",
+      "desc": "Nvidia CEO Jensen Huang is emphasizing society must change with the development and increased use of artificial intelligence, urging all individuals to engage with the technology. \"We need to create n",
+      "link": "https://thehill.com/policy/technology/5928431-nvidia-jensen-huang-ai-society/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 20:32:50 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Justice Department sues New York over Medicaid home healthcare &#039;fraud scheme&#039;",
       "desc": "The Justice Department is suing the New York State Department of Health, the state’s Medicaid director and a company operating a $10 billion home health program for the state.  In the suit, filed Tues",
       "link": "https://thehill.com/policy/healthcare/5928960-doj-sues-new-york-health/",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 19:47:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Genesee County could extend contract for household hazardous waste recycling",
@@ -17,15 +116,6 @@
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 19:35:17 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump settles lawsuit against niece over tax records leak",
-      "desc": "President Trump settled a $100 million lawsuit against his niece, Mary Trump, who he accused of engaging “in an insidious plot” with The New York Times to leak confidential information for its Pulitze",
-      "link": "https://thehill.com/regulation/court-battles/5928915-trump-settles-lawsuit-niece/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 19:33:16 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -65,15 +155,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump administration paying another company to give up wind leases, invest in gas and geothermal",
-      "desc": "The Trump administration is paying yet another company to give up the right to build wind energy offshore, saying the firm will invest in gas plants and geothermal energy instead. The Interior Departm",
-      "link": "https://thehill.com/policy/energy-environment/5928820-invenergy-wind-power/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 18:38:17 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Bay City father charged with child abuse after video allegedly shows him shaking infant",
       "desc": "The father instigated the criminal case himself by calling police to report he was receiving threats after the video circulated online.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/bay-city-father-charged-with-child-abuse-after-video-allegedly-shows-him-shaking-infant.html",
@@ -88,8 +169,8 @@
       "link": "https://thehill.com/policy/healthcare/5928714-ftc-sues-wpath-transgender-health/",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 18:29:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
@@ -111,7 +192,7 @@
     },
     {
       "title": "No, I Don’t Want to Watch Your Straight Hockey Show",
-      "desc": "From Amazon's “Off Campus” to Netflix’s upcoming “Icebreakers,” the recent spate of hetero-hockey romances shows Hollywood learned the wrong lessons from “Heated Rivalry.”",
+      "desc": "From Amazon’s Off Campus to Netflix’s upcoming Icebreakers, the recent spate of hetero hockey romances shows Hollywood learned the wrong lessons from Heated Rivalry.",
       "link": "https://www.wired.com/story/story/no-i-dont-want-to-watch-your-straight-hockey-show-heated-rivalry/",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 18:23:30 +0000",
@@ -126,24 +207,6 @@
       "rawDate": "Wed, 17 Jun 2026 18:22:16 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "House Democrats question Wiles over reported conversations about suspending habeas corpus",
-      "desc": "Democrats on the House Oversight and Government Reform Committee sent a Wednesday letter to White House chief of staff Susie Wiles to inquire about reporting that says Trump administration officials d",
-      "link": "https://thehill.com/homenews/house/5928637-house-democrats-habeas-corpus/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 18:14:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Georgia Republicans table redistricting ahead of special session",
-      "desc": "Republican lawmakers in Georgia said they won’t consider mid-decade redistricting during a special session called by Gov. Brian Kemp (R) that was set to start Wednesday. “In regards to reapportionment",
-      "link": "https://thehill.com/homenews/state-watch/5928694-georgia-republicans-pause-redistricting-plans/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 18:12:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Former 3rd grade teacher in Grand Rapids accused of sexually assaulting students",
@@ -524,15 +587,6 @@
       "tag": "health"
     },
     {
-      "title": "‘Destroying our country’: RFK Jr. urges healthy eating during Michigan visit",
-      "desc": "Robert F. Kennedy Jr. appeared in a vulnerable Michigan congressman’s hometown on Tuesday, where he urged the state’s residents to eat healthier and buy directly from local farmers.",
-      "link": "https://www.mlive.com/politics/2026/06/destroying-our-country-rfk-jr-urges-healthy-eating-during-michigan-visit.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 18:39:41 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "What to know about the Anthropic models takedown",
       "desc": "Anthropic took down its newest AI models last week, after the Trump administration slapped the company with an export control order requiring it to block foreign nationals from accessing its latest te",
       "link": "https://thehill.com/policy/technology/5926417-anthropic-fable-mythos-ai/",
@@ -549,15 +603,6 @@
       "rawDate": "Tue, 16 Jun 2026 15:49:02 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump says after Zelensky meeting Russia should make peace deal",
-      "desc": "President Trump said Tuesday that Russia should make a deal with Ukraine to end its four-year invasion of its neighbor to the west. “Russia should make a deal. Russia’s lost tremendous amounts of peop",
-      "link": "https://thehill.com/policy/international/5926214-trump-pushes-russia-ukraine-peace-deal/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 15:47:04 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Justice Department backs xAI in NAACP air pollution suit",
@@ -578,15 +623,6 @@
       "tag": "health"
     },
     {
-      "title": "Trump says he&#039;ll send Iran deal to Congress for approval",
-      "desc": "President Trump said Tuesday he would send the deal to end the war with Iran and open nuclear discussions with Tehran to Congress for approval.  “I wouldn't mind,” the president said when asked by a r",
-      "link": "https://thehill.com/policy/defense/5926050-trump-iran-agreement-congress-approval/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 14:10:17 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Jackson College launches region’s first accredited blockchain education programs",
       "desc": "The college is offering two financial aid-eligible certificates designed to prepare students for careers in the rapidly expanding technology sector.",
       "link": "https://www.mlive.com/news/jackson/2026/06/jackson-college-launches-regions-first-accredited-blockchain-education-programs.html",
@@ -594,15 +630,6 @@
       "rawDate": "Tue, 16 Jun 2026 13:51:01 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "O&#039;Reilly: Israeli response to Iran deal &#039;a big tell&#039;",
-      "desc": "Pundit Bill O’Reilly said Monday that Israel’s response to the new deal to end the war between the U.S. and Iran is “a big tell” and that “the Israelis want the ability to strike back any time they wa",
-      "link": "https://thehill.com/policy/international/5925929-israeli-response-trump-iran/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 13:18:57 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Bay Area resident confirmed to have measles: public health",
@@ -632,15 +659,6 @@
       "tag": "technology"
     },
     {
-      "title": "Trump&#039;s Iran deal triggers speculation, skepticism, market bump: 5 takeaways",
-      "desc": "The agreement between the U.S. and Iran to reopen the Strait of Hormuz and kick-start 60 days of nuclear negotiations is set to be signed in person Friday, but it’s still unclear what’s in it. Senior ",
-      "link": "https://thehill.com/homenews/administration/5925442-trump-iran-deal-skepticism-markets/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 22:23:04 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Alfredo sauce distributed to dozens of states recalled due to potential salmonella contamination",
       "desc": "WASHINGTON (AP) — Federal health officials have issued a recall for alfredo sauce distributed to dozens of U.S. states by a supplier because of potential salmonella contamination. The sauce was volunt",
       "link": "https://thehill.com/policy/healthcare/alfredo-sauce-recall-fda/",
@@ -657,15 +675,6 @@
       "rawDate": "Mon, 15 Jun 2026 21:45:10 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Thune says Congress needs more information about US-Iran peace deal",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) says he doesn’t yet have enough information to make a judgment about the peace deal between the United States and Iran announced by President Trump on Sunday",
-      "link": "https://thehill.com/homenews/senate/5925272-thune-iran-peace-deal/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 21:21:53 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Trump admin paying thousands of dollars per month to store ruined USAID contraceptives",
@@ -758,29 +767,11 @@
       "tag": "education"
     },
     {
-      "title": "US catches up to rest of world with first new FDA-approved sunscreen in decades",
-      "desc": "The Food and Drug Administration (FDA) this week approved the first new sunscreen filter in more than two decades, sparking industry-wide excitement. And while this ingredient will be new to the U.S.,",
-      "link": "https://thehill.com/policy/healthcare/5922475-bemotrizinol-sunscreen-approval-fda/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Hegseth, White House allies intensify attacks on Anthropic",
       "desc": "Defense Secretary Pete Hegseth took a shot at Anthropic on Saturday, after the artificial intelligence company discontinued access to two of its models to comply with a directive from the Trump admini",
       "link": "https://thehill.com/policy/technology/5923727-defense-secretary-criticizes-anthropic/",
       "date": "Jun 14, 2026",
       "rawDate": "Sun, 14 Jun 2026 20:49:26 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Senate Democrat agrees with Trump administration on Anthropic model takedown",
-      "desc": "Sen. Mark Kelly (D-Ariz.) on Sunday backed the Trump administration’s decision to urge Anthropic to suspend access to its latest artificial intelligence models in a rare act of agreement with the pres",
-      "link": "https://thehill.com/policy/technology/5923541-kelly-trump-anthropic-models/",
-      "date": "Jun 14, 2026",
-      "rawDate": "Sun, 14 Jun 2026 17:59:14 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

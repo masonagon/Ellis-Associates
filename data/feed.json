@@ -1,9 +1,252 @@
 {
-  "generated": "2026-06-17T14:55:20.508Z",
+  "generated": "2026-06-17T17:46:54.768Z",
   "news": [
     {
-      "title": "One dead in latest strike on alleged drug boat in eastern Pacific",
-      "desc": "The U.S. military on Tuesday struck another boat it claimed was carrying drugs in the eastern Pacific Ocean, killing one man and leaving two survivors. U.S. Southern Command announced the strike on so",
+      "title": "Trump defends letting Iran maintain missile arsenal",
+      "desc": "President Trump on Wednesday defended letting Iran maintain its large arsenal of ballistic missiles when discussing the emerging deal with Iran to reopen the Strait of Hormuz. The president said durin",
+      "link": "https://thehill.com/policy/defense/5928582-trump-defends-iran-missile-arsenal/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:42:33 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Woman found guilty of 2 misdemeanors for crash that killed 6-year-old son",
+      "desc": "She faces up to a year in prison.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/woman-found-guilty-of-2-misdemeanors-for-crash-that-killed-6-year-old-son.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:32:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Republicans more likely to celebrate upcoming US 250th anniversary: Survey",
+      "desc": "A new poll found that Americans registered as Republicans are more likely to celebrate the U.S.'s 250th birthday on the Fourth of July. Gallup and the bipartisan group With Honor, in collaboration wit",
+      "link": "https://thehill.com/homenews/5928348-poll-americans-plan-america250/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:20:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cape Verde goalkeeper, mother to be reunited in time for World Cup match, Jeffries says",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Wednesday the mother of Cape Verdean goalkeeper Vozinha has secured a visa to join her son ahead of the team’s next FIFA World Cup match. Jeffries w",
+      "link": "https://thehill.com/homenews/house/5928524-cape-verde-goaltender-mother-to-be-reunited-in-time-for-world-cup-match-jeffries-says/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:19:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flint looks to rehab three battered bridges through state program",
+      "desc": "Three bridges in the city have been targeted for rehabilitation, and the Flint City Council could vote to request state funds for the repairs during a committee meeting on Wednesday, June 17.",
+      "link": "https://www.mlive.com/news/flint/2026/06/flint-looks-to-rehab-three-battered-bridges-through-state-program.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:18:07 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw teen charged with shooting 25 shots at Bridgeport house with assault rifle",
+      "desc": "No one was inside the home the 18-year-old gunman allegedly targeted.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-teen-charged-with-shooting-25-shots-at-bridgeport-house-with-assault-rifle.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:12:57 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan data center expansion would nix Bitcoin mining, launch AI computing",
+      "desc": "A Southwest Michigan data center plans to stop bitcoin mining and shift to AI computing under a 20-year contract that could generate $2.5 billion in revenue.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/06/michigan-data-center-expansion-would-nix-bitcoin-mining-launch-ai-computing.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:11:42 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Michigan governor’s race poll finds ‘dead heat’ between two candidates",
+      "desc": "A new poll released has found a statistical tie between GOP gubernatorial candidates U.S. Rep. John James, R-Shelby Township, and former Attorney General Mike Cox.",
+      "link": "https://www.mlive.com/politics/2026/06/michigan-governors-race-poll-finds-dead-heat-between-two-candidates.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:03:14 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Schumer: Trump &#039;holding our national security hostage&#039; over delayed Clayton nomination",
+      "desc": "Senate Minority Leader Chuck Schumer (D-N.Y.) said Wednesday that President Trump is “holding our national security hostage” by delaying the confirmation hearing for U.S. Attorney Jay Clayton to serve",
+      "link": "https://thehill.com/homenews/senate/5928425-chuck-schumer-trump-jay-clayton-dni/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:01:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Midterm history gives Republicans a fighting chance in November",
+      "desc": "All midterms are not the same.",
+      "link": "https://thehill.com/opinion/campaign/5926620-historical-midterm-election-trends/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "desc": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+      "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 17:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "New grocery, coffee and sandwich shop coming to Ann Arbor’s South Main Street",
+      "desc": "“I am Italian Korean by heritage and that’s going to be reflected in the prepared foods,” Brian Lee said of his new Ann Arbor business venture.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/new-grocery-coffee-and-sandwich-shop-coming-to-ann-arbors-south-main-street.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:59:48 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Inside the legal challenges to Trump&#039;s agenda: Join the live discussion",
+      "desc": "Federal judges are newly blocking President Trump's moves on immigration, national parks and his $1.776 billion \"anti-weaponization\" fund. Join The Hill legal affairs reporters Zach Schonfeld and Soph",
+      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5928082-federal-judges-block-trump-moves-live-discussion/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:54:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Top Democrats speak out on Clayton nomination delay",
+      "desc": "Senate Democratic Leader Chuck Schumer (N.Y.), Senate Intelligence Committee Vice Chair Mark Warner (Va.) and other Democrats on the panel are scheduled to hold a press conference Wednesday afternoon ",
+      "link": "https://thehill.com/homenews/senate/5928414-donald-trump-delays-clayton-confirmation/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:53:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump concludes G7 amid major uncertainty on Iran",
+      "desc": "🔒 Plus: Trump considers another big change to the White House {beacon} &#8202; It’s Wednesday. A 3 p.m. U.S. World Cup game on a federal holiday this Friday is going to make for quite the party — and",
+      "link": "https://thehill.com/newsletters/1230-report/5928473-trump-concludes-g7-amid-major-uncertainty-on-iran/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:51:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Top Senate Democrat knocks &#039;chaos and confusion&#039; from White House over delayed Clayton nomination",
+      "desc": "Sen. Mark Warner (D-Va.) sharply criticized President Trump on Wednesday for delaying the nomination of Jay Clayton to be director of national intelligence (DNI).  “What we're witnessing is an extraor",
+      "link": "https://thehill.com/homenews/senate/5928427-warner-criticizes-trump-national-security/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:45:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Congress should act to care for veterans before the election",
+      "desc": "Congress has the opportunity to honor veterans by passing the Take Care of America's Veterans Act, which would improve access to mental health care, increase transparency, and modernize the VA system.",
+      "link": "https://thehill.com/opinion/5927540-take-care-americas-veterans/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "JD Vance pressed on &#039;The View&#039; over Trump immigration policies",
+      "desc": "It's one thing to defend a policy. It's another to defend the real-world consequences of that policy when the facts, statistics and human stories are pushing back.",
+      "link": "https://thehill.com/opinion/lindseys-lens/5928385-jd-vance-pressed-on-the-view-over-trump-immigration-policies/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:26:56 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pentagon AI chief: Musk&#039;s Grok chatbot used to launch thousands of missiles at Iran",
+      "desc": "The Pentagon artificial intelligence chief on Monday said Elon Musk’s Grok chatbot is tantamount to national security in a sworn statement that noted xAI's technology has been used throughout the Iran",
+      "link": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:22:54 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Sewer overflow under 300 gallons contained at University of Michigan library",
+      "desc": "The overflow happened on the south side of the library on Catherine Street Tuesday, June 16. It was contained within a 2,300-square-foot area.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/sewer-overflow-under-300-gallons-contained-at-university-of-michigan-library.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:00:50 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "GOP senator: Trump Iran deal &#039;tremendous foreign policy blunder&#039;",
+      "desc": "Republican Sen. Bill Cassidy (La.) on Wednesday slammed the deal between the Trump administration and Iran, two days before the two sides are set to sign it. “The details that I’ve seen so far look … ",
+      "link": "https://thehill.com/homenews/senate/5928209-cassidy-blasts-trump-iran/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 16:00:33 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Police looking for driver who struck man crossing street in Ann Arbor",
+      "desc": "The man was taken to the hospital with injuries.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/police-looking-for-driver-who-struck-man-crossing-street-in-ann-arbor.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 15:56:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Case against Flint man accused of dragging trooper in traffic stop faces delay",
+      "desc": "The criminal case against a man charged after allegedly dragging a Michigan State Police trooper with his vehicle during a traffic stop has been delayed.",
+      "link": "https://www.mlive.com/news/flint/2026/06/case-against-flint-man-accused-of-dragging-trooper-in-traffic-stop-faces-delay.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 15:56:35 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Driver critically injured in Oxford Township crash with semi",
+      "desc": "The driver was taken to McLaren Oakland Hospital and listed in critical condition.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/driver-critically-injured-in-oxford-township-crash-with-semi.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 15:49:20 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ann Arbor man pleads guilty to losing $2.7M in investment scheme",
+      "desc": "He faces up to 20 years in prison.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/ann-arbor-man-pleads-guilty-losing-27m-in-investment-scheme.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 15:28:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jackson County sheriff aiding review of Michigan criminal sentencing guidelines",
+      "desc": "Jackson County Sheriff Gary Schuette was selected to serve as the law enforcement representative for the recently revitalized Michigan Sentencing Commission, an advisory body responsible for the revie",
+      "link": "https://www.mlive.com/news/jackson/2026/06/jackson-county-sheriff-aiding-review-of-michigan-criminal-sentencing-guidelines.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 15:24:44 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "$280K added to Sherrone Moore, University of Michigan athletics investigations",
+      "desc": "MLive/The Ann Arbor News obtained copies of two invoices worth hundreds of thousands of dollars from Chicago law firm Jenner & Block dated May 6 and May 15.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/280k-added-to-sherrone-moore-university-of-michigan-athletics-investigations.html",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 15:00:12 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "1 dead in latest strike on alleged drug boat in eastern Pacific",
+      "desc": "The U.S. military on Tuesday struck another boat it claimed was carrying drugs in the eastern Pacific Ocean, killing one man and leaving two survivors. U.S. Southern Command announced the strike on so",
       "link": "https://thehill.com/policy/defense/5928067-operation-southern-spear-criticized/",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 14:40:19 +0000",
@@ -11,49 +254,13 @@
       "tag": "safety"
     },
     {
-      "title": "Sen. John Kennedy not ruling out White House bid",
-      "desc": "Sen. John Kennedy (R-La.) on Tuesday said he wouldn’t rule out a White House bid after nearly a decade in the upper chamber.  His second term is set to end in January 2029.  “I'm planning on running f",
-      "link": "https://thehill.com/homenews/campaign/5928025-sen-john-kennedy-presidential-bid/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 14:30:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump may be triggering a new Cuban migration crisis",
-      "desc": "Millions of Cubans are being forced to leave their home due to the economic crisis caused by U.S. sanctions and the COVID-19 pandemic, creating a new migration crisis.",
-      "link": "https://thehill.com/opinion/international/5926555-cuban-flight-us-policies/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 14:30:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Collins does &#039;not regret&#039; support for Kavanaugh but &#039;disappointed&#039; with his landmark abortion ruling",
       "desc": "Sen. Susan Collins (R-Maine) says she does “not regret” her vote to confirm conservative Justice Brett Kavanaugh to the Supreme Court in 2018, but she says she is “disappointed” that he ruled with the",
       "link": "https://thehill.com/homenews/senate/5927934-susan-collins-kavanaugh-confirmation-abortion/",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 14:12:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democratic socialist holds wide lead in DC mayor race",
-      "desc": "City Councilmember Janeese Lewis George, a democratic socialist, holds a sizable lead in the Washington, D.C., Democratic primary in the high-stakes mayoral race to replace retiring Mayor Muriel Bowse",
-      "link": "https://thehill.com/homenews/campaign/5927896-janeese-lewis-george-democratic-socialist-dc-democratic-primary/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 14:07:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Vance: &#039;Kind of ironic&#039; GOP critics of Iran deal don&#039;t want war &#039;stopped&#039;",
-      "desc": "Vice President Vance on Tuesday said it was “kind of ironic” that GOP critics of the Iran deal don’t want the war “stopped,” as lawmakers on both sides of the aisle raise questions about the details o",
-      "link": "https://thehill.com/homenews/administration/5927749-vance-defends-iran-agreement-gop-critics/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 14:07:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Saginaw man arrested interfering with police during friend’s arrest faces federal meth charges",
@@ -72,24 +279,6 @@
       "rawDate": "Wed, 17 Jun 2026 13:55:58 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "My family lived through socialism. Most Democrats are frighteningly wrong about it.",
-      "desc": "Socialism, in practice, does not work without force and brutality, even if you give it nice adjectives like \"democratic.\" My family learned this the hard way.",
-      "link": "https://thehill.com/opinion/international/5925944-socialism-deportation-soviet-tragedy/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 13:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump administration asks judge to halt first reparations program for Black people in US",
-      "desc": "The Justice Department is seeking to intervene in a federal lawsuit challenging a Chicago suburb’s housing reparations program for Black residents, arguing it is “racially discriminatory” and unconsti",
-      "link": "https://thehill.com/regulation/court-battles/5927763-justice-department-evanston-reparations-housing-discrimination/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 13:18:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Here&#039;s what&#039;s in Trump&#039;s reported 14-point MOU with Iran",
@@ -158,15 +347,6 @@
       "title": "AirDoctor Coupon Codes: 40% Off | June 2026",
       "desc": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
       "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Valvoline Coupons and Promo Codes for June 2026",
-      "desc": "We've gathered all the top Valvoline coupons and promo codes for June 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 05:00:00 +0000",
       "source": "Wired",
@@ -308,42 +488,6 @@
       "tag": "government"
     },
     {
-      "title": "No toxic mold found at Michigan women’s prison, tests show",
-      "desc": "In a report released to the state on June 9, Mold Quest International found air quality results were normal at nearly all locations tested, and the limited HVAC vent locations that exhibited minor gro",
-      "link": "https://www.mlive.com/news/2026/06/no-toxic-mold-found-at-michigan-womens-prison-tests-show.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 18:37:02 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Couple nearly lost life savings to scammers posing as federal agents",
-      "desc": "The couple was told to convert $250,000 into gold and hand it over to imposters claiming to be federal agents, leading to two arrests in rural Kent County.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/couple-nearly-lost-life-savings-to-scammers-posing-as-federal-agents.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 17:56:06 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Massively popular global pizza chain sold for $2.7 billion",
-      "desc": "Yum! Brands will sell Pizza Hut to two different companies as part of the deal. The sales are expected to close in the third quarter of 2026.",
-      "link": "https://www.mlive.com/business/2026/06/massively-popular-global-pizza-chain-sold-for-27-billion.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 17:44:08 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Michigan drone operator fined $575 for interfering with police operations in Bay County",
-      "desc": "A Bay City man has been ordered to pay a fine after a jury convicted him of using his drone to interfere with police activity.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/michigan-drone-operator-fined-575-for-interfering-with-police-operations-in-bay-county.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 17:40:26 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "What to know about the Anthropic models takedown",
       "desc": "Anthropic took down its newest AI models last week, after the Trump administration slapped the company with an export control order requiring it to block foreign nationals from accessing its latest te",
       "link": "https://thehill.com/policy/technology/5926417-anthropic-fable-mythos-ai/",
@@ -351,24 +495,6 @@
       "rawDate": "Tue, 16 Jun 2026 17:34:20 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Flint man pleads guilty to killing mistress, dumping body near river",
-      "desc": "A Flint man pleaded guilty to killing a woman and dumping her body near the Flint River after a motel altercation.",
-      "link": "https://www.mlive.com/news/flint/2026/06/flint-man-pleads-guilty-to-killing-mistress-dumping-body-near-river.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 17:25:10 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Road closed after head-on collision in rural Muskegon County",
-      "desc": "Michigan State Police are investigating a head-on crash near Holton and Pilon roads, with no immediate details released on injuries to those involved.",
-      "link": "https://www.mlive.com/news/muskegon/2026/06/road-closed-after-head-on-collision-in-rural-muskegon-county.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 17:03:27 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "3 Michigan colleges in top 500 globally, U.S. News rankings say",
@@ -389,15 +515,6 @@
       "tag": "safety"
     },
     {
-      "title": "Saginaw mother awakes 10 days after crash to learn son, 5, was killed in US-10 crash",
-      "desc": "The second of two crashes on westbound US-10 the morning of June 3 claimed the life of 34-year-old Tyler Ostrander Karklin, a Certified Nursing Assistant at MyMichigan Medical Center in Midland.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-mother-awakes-10-days-after-crash-to-learn-son-5-was-killed-in-us-10-crash.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 15:46:01 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Justice Department backs xAI in NAACP air pollution suit",
       "desc": "The Trump administration is intervening on behalf of Elon Musk’s xAI after the NAACP accused it in court of illegally polluting the air of a Memphis-area community. In April, the civil rights organiza",
       "link": "https://thehill.com/policy/energy-environment/5926181-xai-naacp-memphis-grok/",
@@ -405,15 +522,6 @@
       "rawDate": "Tue, 16 Jun 2026 15:21:04 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Police identify body recovered from Grand River",
-      "desc": "Wyoming police are taking additional steps to confirm the man's identity before releasing his name.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/police-identify-body-recovered-from-grand-river.html",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 15:03:05 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "COVID-19 vaccine linked with lower risk of heart attack, stroke: Study",
@@ -569,38 +677,11 @@
       "tag": "education"
     },
     {
-      "title": "Feds back Michigan gas upgrades with $1.6B loan while clean energy funding languishes",
-      "desc": "The Trump administration has closed a Biden-era financing deal to make natural gas system upgrades cheaper for DTE Energy customers, but billions more for power utilities hasn't advanced.",
-      "link": "https://www.mlive.com/news/2026/06/feds-back-michigan-gas-upgrades-with-16b-loan-while-clean-energy-funding-languishes.html",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 19:06:58 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "US blockade of Iranian ports still in place &#039;pending execution&#039; of Strait of Hormuz ceasefire deal",
       "desc": "The U.S. blockade of vessels going to or coming from Iranian ports is still in place “pending execution” of a ceasefire deal between Washington and Tehran set to be signed Friday, according to a U.S. ",
       "link": "https://thehill.com/policy/defense/5925018-us-blockade-iranian-ports-ceasefire/",
       "date": "Jun 15, 2026",
       "rawDate": "Mon, 15 Jun 2026 19:04:17 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US military to stay in Middle East during negotiations with Iran",
-      "desc": "The U.S. military will maintain its current force posture in the Middle East during the 60-day negotiation period with Iran, according to senior Trump administration officials.  “We hope to draw them ",
-      "link": "https://thehill.com/policy/defense/5924960-us-military-middle-east-posture/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 18:34:20 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Schumer calls on Trump to brief Congress on ‘understanding’ with Iran",
-      "desc": "Senate Democratic Leader Chuck Schumer (N.Y.) called on the Trump administration Monday to brief Congress immediately on the “understanding” with Iran that President Trump says would reopen the Strait",
-      "link": "https://thehill.com/homenews/senate/5924890-schumer-trump-iran-deal/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 18:14:05 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },
@@ -657,15 +738,6 @@
       "rawDate": "Mon, 15 Jun 2026 14:12:09 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Vance says US signed Iran deal Sunday; hopes to release text this week",
-      "desc": "Vice President Vance said Monday the U.S. has signed the preliminary agreement with Iran to open the Strait of Hormuz and that the text of the deal would be released this week.  “We’ll be releasing th",
-      "link": "https://thehill.com/homenews/administration/5924374-us-iran-deal-strait-hormuz/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 14:11:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "US catches up to rest of world with first new FDA-approved sunscreen in decades",
@@ -740,24 +812,6 @@
       "tag": "education"
     },
     {
-      "title": "What are Michigan governor candidates’ positions on education?",
-      "desc": "The six candidates still in the running for Michigan’s open gubernatorial seat have spoken about education as among the things the state most needs to fix.",
-      "link": "https://www.mlive.com/politics/2026/06/what-are-michigan-governor-candidates-positions-on-education.html",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 11:05:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Wayne County students surprise beloved art teacher after award win",
-      "desc": "The Canton Charter Academy art teacher was named one of the top teachers in the region for charter schools.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/wayne-county-students-surprise-beloved-art-teacher-after-award-win.html",
-      "date": "Jun 13, 2026",
-      "rawDate": "Sat, 13 Jun 2026 11:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Screwworm spread tests US readiness after Trump staffing cuts",
       "desc": "The U.S. spent decades driving the New World screwworm far into South America. But now the parasite has reemerged, and officials are working to beat it back yet again using many of the same tried-and-",
       "link": "https://thehill.com/policy/healthcare/5922510-screwworm-spread-tests-us-readiness-after-trump-staffing-cuts/",
@@ -767,29 +821,11 @@
       "tag": "health"
     },
     {
-      "title": "Trillionaire Elon Musk makes history with SpaceX IPO: 5 takeaways",
-      "desc": "Elon Musk’s SpaceX went public Friday, setting a new record with its stock market debut and turning the tech mogul into the world’s first trillionaire. The highly anticipated initial public offering (",
-      "link": "https://thehill.com/policy/technology/5922382-elon-musk-trillionaire-spacex-ipo/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 22:10:04 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "MAP: Where have New World screwworm cases been reported in Texas?",
       "desc": "KXAN is keeping track of the number of New World screwworm (NWS) cases across Texas.",
       "link": "https://thehill.com/policy/healthcare/5918376-map-where-have-new-world-screwworm-cases-been-reported-in-texas/",
       "date": "Jun 12, 2026",
       "rawDate": "Fri, 12 Jun 2026 15:09:42 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Measles outbreak in Virginia county grows to nearly 90 cases",
-      "desc": "State health officials are asking anyone who may be sick, or those who are not vaccinated, to avoid large gatherings.",
-      "link": "https://thehill.com/policy/healthcare/5921668-measles-outbreak-virginia/",
-      "date": "Jun 12, 2026",
-      "rawDate": "Fri, 12 Jun 2026 14:48:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

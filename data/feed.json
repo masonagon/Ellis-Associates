@@ -1,9 +1,153 @@
 {
-  "generated": "2026-06-18T19:24:29.059Z",
+  "generated": "2026-06-18T21:59:25.364Z",
   "news": [
     {
-      "title": "Vance hits back at Iran deal critics in GOP, Israel: Five takeaways",
-      "desc": "Vice President Vance took to the White House press briefing podium on Thursday to hit back against a growing chorus of critics of the Trump administration’s deal with Iran after President Trump signed",
+      "title": "Cook Political Report shifts 7 House races toward Democrats",
+      "desc": "The nonpartisan Cook Political Report on Thursday moved seven House races toward Democrats, as the minority party looks to retake control of the lower chamber this November.  Erin Covey, the House edi",
+      "link": "https://thehill.com/homenews/campaign/5931147-house-races-shift-democrats/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 21:22:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The White House Is Making Up Its Rules for AI in Real Time",
+      "desc": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+      "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 21:03:43 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Judge sides with Nessel in Polymarket’s complaint over sports gambling",
+      "desc": "Michigan Attorney General Dana Nessel earlier filed a lawsuit against a prediction market company, Kalshi, for allegedly violating the state's sports betting laws.",
+      "link": "https://www.mlive.com/politics/2026/06/judge-sides-with-nessel-in-polymarkets-complaint-over-sports-gambling.html",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 21:02:55 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Investigation still pending in fatal shooting of 23-year-old near Ypsilanti, police say",
+      "desc": "The man's death is the first reported homicide of the year in Washtenaw County.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/investigation-still-pending-in-fatal-shooting-of-23-year-old-near-ypsilanti-police-say.html",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 21:00:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Missing New Jersey Rep. Tom Kean expected to return June 30",
+      "desc": "Rep. Tom Kean Jr. (R-N.J.) said he would return to Washington, D.C., for House votes on June 30, days before the House leaves for its Independence Day recess.  “The congressman will be back for votes ",
+      "link": "https://thehill.com/homenews/house/5931129-thomas-kean-jr-health/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 20:56:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ebola outbreak zone cases up almost 40 percent in a week",
+      "desc": "The Ebola outbreak in Congo that’s spread across parts of Africa has killed more than 200 people in its first month and is considered the worst known outbreak at this stage, the Africa Centres for Dis",
+      "link": "https://thehill.com/policy/healthcare/5931149-ebola-surge-africa-cdc/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 20:55:08 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Rove knocks Trump &#039;narcissism&#039;: &#039;He&#039;s making everything about him&#039;",
+      "desc": "Republican strategist Karl Rove on Wednesday knocked President Trump for displaying signs of “narcissism,” citing the naming of buildings in Washington as just one example. “Renaming the Kennedy Cente",
+      "link": "https://thehill.com/homenews/administration/5930925-trump-rogan-kennedy-center/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 20:29:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP&#039;s Ernst on Iran deal: &#039;I don’t want to see JCPOA 2.0&#039;",
+      "desc": "A Republican senator on Thursday expressed skepticism about the tentative agreement struck by Iran and the U.S., which replaces the previous Joint Comprehensive Plan of Action (JCPOA) dissolved under ",
+      "link": "https://thehill.com/homenews/senate/5931086-republican-senator-iran-agreement-concerns/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 20:23:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flint council members push for earlier curfews for kids under 17",
+      "desc": "There’s a push in City Hall to set earlier curfew times for children younger than 17 in Flint, a city where youth accounted for 30% of all violent crime last year.",
+      "link": "https://www.mlive.com/news/flint/2026/06/flint-council-members-push-for-earlier-curfews-for-kids-under-17.html",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 20:22:52 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan lawmakers seek to rein in data center industry with new safeguards",
+      "desc": "Bills from Senate Democrats are the latest attempt to institute statewide protections against utility bill spikes and safeguards for the environment as Big Tech eyes Michigan for power-hungry data cen",
+      "link": "https://www.mlive.com/politics/2026/06/michigan-lawmakers-seek-to-rein-in-data-center-industry-with-new-safeguards.html",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 19:58:53 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Federal judge limits challenges to Trump mail-in voting order",
+      "desc": "A federal judge on Thursday said she'll only consider parts of challenges to President Trump’s executive order that seeks to restrict mail-in voting, ruling the plaintiffs need to wait before raising ",
+      "link": "https://thehill.com/regulation/court-battles/5931005-trump-mail-in-ballot-challenges-limit/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 19:56:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "As Trump administration challenges reparations in Evanston, Ann Arbor not deterred",
+      "desc": "“The federal government can fight Evanston’s program in court. That’s their fight,” Council Member Cynthia Harrison said. “Ours is figuring out, with facts and not assumptions, what happened in our ow",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/as-trump-administration-challenges-reparations-in-evanston-ann-arbor-not-deterred.html",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 19:54:12 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Apple raising prices, CEO says",
+      "desc": "Apple CEO Tim Cook told The Wall Street Journal in an interview that his company is raising its prices. In an interview published Wednesday by the Journal, Cook said the tech company is set to increas",
+      "link": "https://thehill.com/policy/technology/5930996-apple-ceo-tim-cook-price-hike/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 19:52:12 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Reflecting Pool contract balloons up to $14.7M",
+      "desc": "The cost of a contract for work on the Lincoln Memorial's Reflecting Pool has ballooned further — now costing taxpayers a total of $14.7 million — according to federal records. The federal contract wi",
+      "link": "https://thehill.com/policy/energy-environment/5930934-reflecting-pool-algae-lincoln-memorial/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 19:44:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+      "desc": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 19:29:51 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Marijuana users may hunt again, U.S. Supreme Court rules",
+      "desc": "The unanimous decision signals a loosening of longstanding federal law that barred even casual marijuana users from possessing firearms, though it remains illegal for dangerous persons or addicts.",
+      "link": "https://www.mlive.com/cannabis/2026/06/marijuana-users-may-hunt-again-us-supreme-court-rules.html",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 19:29:03 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vance hits back at Iran deal critics in GOP, Israel: 5 takeaways",
+      "desc": "Vice President Vance took to the White House press briefing podium Thursday to hit back against a growing chorus of critics of the Trump administration’s deal with Iran after President Trump signed th",
       "link": "https://thehill.com/homenews/administration/5930853-vance-defends-trump-iran-deal/",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 19:17:52 +0000",
@@ -20,8 +164,8 @@
       "tag": "government"
     },
     {
-      "title": "Watch live: Trump participates in medal of honor ceremony",
-      "desc": "President Trump will preside over a medal of honor ceremony Thursday for heroes in the Vietnam and Afghanistan wars. Task &#38; Purpose reported Maj. James Capers Jr., who led his Marine reconnaissanc",
+      "title": "Watch live: Trump participates in Medal of Honor ceremony",
+      "desc": "President Trump will preside over a Medal of Honor ceremony Thursday for heroes in the Vietnam and Afghanistan wars. Task &#38; Purpose reported Maj. James Capers Jr., who led his Marine reconnaissanc",
       "link": "https://thehill.com/policy/defense/5929692-donald-trump-medal-of-honor-watch-live/",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 19:00:00 +0000",
@@ -38,30 +182,12 @@
       "tag": "safety"
     },
     {
-      "title": "Federal appeals court rules Interior can remove, replace Philadelphia slavery exhibits",
-      "desc": "A federal appeals court ruled Thursday that the Trump administration can remove and replace a slavery exhibit at the site of the nation’s first executive residence in Philadelphia, reversing a lower c",
-      "link": "https://thehill.com/regulation/court-battles/5929957-slavery-exhibit-philadelphia-trump-administration-lawsuit/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 18:42:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan hospitals could lose tax exemption if they don’t cut pricing",
       "desc": "Legislation would require hospitals to reduce costs by 10% and limit price increases to the rate of inflation, with a five-member board overseeing all rate changes and system mergers.",
       "link": "https://www.mlive.com/news/2026/06/michigan-hospitals-could-lose-tax-exemption-if-they-dont-cut-pricing.html",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 18:37:15 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bipartisan Senate duo looks to help more small businesses sell goods overseas",
-      "desc": "A bipartisan pair of lawmakers, Sens. Angela Alsobrooks (D-Md.) and Dave McCormick (R-Pa.), will introduce a bill Thursday aimed at helping American small businesses get loans to export their goods ab",
-      "link": "https://thehill.com/homenews/senate/5930721-bipartisan-senate-bill-small-business-export/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 18:34:33 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -79,17 +205,8 @@
       "link": "https://thehill.com/policy/international/5930692-senate-democrat-slams-us-iran-deal/",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 18:22:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ossoff: Trump &#039;making a terrorist attack more likely&#039; with Pulte nomination",
-      "desc": "Sen. Jon Ossoff (D-Ga.) on Wednesday slammed President Trump for appointing Bill Pulte as acting director of national intelligence, arguing the move increases the risk of a terrorist attack on the U.S",
-      "link": "https://thehill.com/homenews/senate/5930510-ossoff-slams-trump-dni-nominee-pulte/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 18:12:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts",
@@ -115,17 +232,8 @@
       "link": "https://thehill.com/policy/defense/5930596-wicker-us-iran-deal/",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 17:36:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Slotkin introduces bill limiting deployment of troops, federal agents to polling sites",
-      "desc": "Sen. Elissa Slotkin (D-Mich.) on Thursday introduced the Protect Our Polls Act in an effort to block President Trump from deploying soldiers and federal law enforcement agents ahead of midterm electio",
-      "link": "https://thehill.com/homenews/campaign/5930544-slotkin-introduces-election-protection-bill/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 17:23:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned",
@@ -313,15 +421,6 @@
       "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 06:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 50% Off in June 2026",
-      "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -560,15 +659,6 @@
       "tag": "government"
     },
     {
-      "title": "New grocery, coffee and sandwich shop coming to Ann Arbor’s South Main Street",
-      "desc": "“I am Italian Korean by heritage and that’s going to be reflected in the prepared foods,” Brian Lee said of his new Ann Arbor business venture.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/new-grocery-coffee-and-sandwich-shop-coming-to-ann-arbors-south-main-street.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 16:59:48 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Pentagon AI chief: Musk&#039;s Grok chatbot used to launch thousands of missiles at Iran",
       "desc": "The Pentagon artificial intelligence chief on Monday said Elon Musk’s Grok chatbot is tantamount to national security in a sworn statement that noted xAI's technology has been used throughout the Iran",
       "link": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/",
@@ -623,15 +713,6 @@
       "tag": "safety"
     },
     {
-      "title": "Jackson County sheriff aiding review of Michigan criminal sentencing guidelines",
-      "desc": "Jackson County Sheriff Gary Schuette was selected to serve as the law enforcement representative for the recently revitalized Michigan Sentencing Commission, an advisory body responsible for the revie",
-      "link": "https://www.mlive.com/news/jackson/2026/06/jackson-county-sheriff-aiding-review-of-michigan-criminal-sentencing-guidelines.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 15:24:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "$280K added to Sherrone Moore, University of Michigan athletics investigations",
       "desc": "MLive/The Ann Arbor News obtained copies of two invoices worth hundreds of thousands of dollars from Chicago law firm Jenner & Block dated May 6 and May 15.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/280k-added-to-sherrone-moore-university-of-michigan-athletics-investigations.html",
@@ -648,15 +729,6 @@
       "rawDate": "Wed, 17 Jun 2026 14:12:19 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Saginaw man arrested interfering with police during friend’s arrest faces federal meth charges",
-      "desc": "The defendant was on probation for possessing meth at the time of his latest arrest. He now faces up to 20 years in federal prison.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-man-arrested-interfering-with-police-during-friends-arrest-faces-federal-meth-charges.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 13:56:07 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Inside the new $12M ‘permanent home’ for Boys & Girls Clubs of Greater Kalamazoo",
@@ -821,15 +893,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump admin paying thousands of dollars per month to store ruined USAID contraceptives",
-      "desc": "Millions of dollars' worth of contraceptives meant to be distributed to low-income nations in Africa have expired, but the Trump administration is paying tens of thousands of dollars a month to keep t",
-      "link": "https://thehill.com/policy/healthcare/5925304-expired-contraceptives-trump-storage-costs/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 21:21:08 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "$5M in gifts supports Eastern Michigan University faculty research, innovation",
       "desc": "Eastern Michigan University has secured $5 million for a faculty development endowment following a $4 million estate gift from longtime university supporters.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/5m-in-gifts-supports-eastern-michigan-university-faculty-research-innovation.html",
@@ -837,15 +900,6 @@
       "rawDate": "Mon, 15 Jun 2026 20:17:37 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "FBI issues urgent Kali365 security warning for Teams, Outlook, OneDrive users",
-      "desc": "The FBI released an urgent security warning to the public about a fast-acting scam targeting Microsoft 365 users on Teams, Outlook and OneDrive. The agency warned that the hacking platform Kali365 see",
-      "link": "https://thehill.com/policy/technology/5924655-microsoft-365-phishing-threat/",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 17:04:06 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     }
   ]
 }

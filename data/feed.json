@@ -1,6 +1,33 @@
 {
-  "generated": "2026-06-17T22:41:14.911Z",
+  "generated": "2026-06-18T00:09:45.965Z",
   "news": [
+    {
+      "title": "Federal Reserve holds rates steady at Warsh’s first meeting",
+      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Federal Reserve holds rates steady at Warsh’s first meeting The",
+      "link": "https://thehill.com/newsletters/business-economy/5929479-warsh-inflation-interest-rates/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 00:05:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Strait of Hormuz reopening likely to be delayed to sweep Iranian mines",
+      "desc": "Mines placed in the Strait of Hormuz during the Iran war are putting a damper on plans to quickly return shipping traffic to normal under a memorandum of understanding signed this week. President Trum",
+      "link": "https://thehill.com/policy/defense/5929435-iran-war-shipping-mines/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 23:16:03 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "desc": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "date": "Jun 17, 2026",
+      "rawDate": "Wed, 17 Jun 2026 22:52:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "NATO chief downplays US military cutbacks",
       "desc": "NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the event of an attack will not have an immediate impact.",
@@ -45,33 +72,6 @@
       "rawDate": "Wed, 17 Jun 2026 21:07:56 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "DOJ uses alleged UFC plot to argue for Trump ballroom",
-      "desc": "A foiled plot to attack an outdoor UFC event at the White House over the weekend is further proof why President Trump’s proposed ballroom is needed for security reasons, a senior Department of Justice",
-      "link": "https://thehill.com/homenews/administration/5929133-trump-ballroom-ufc-event-threat/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 21:07:28 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Oklahoma pastor drops out of runoff for Hern&#039;s House seat after Trump withdraws endorsement",
-      "desc": "Tulsa pastor Jackson Lahmeyer, who was previously endorsed by President Trump, has withdrawn from the GOP primary runoff for Oklahoma’s solid red 1st Congressional District after being exposed in a te",
-      "link": "https://thehill.com/homenews/campaign/5929128-trump-withdraws-lahmeyer-endorsement/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 21:05:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Federal Reserve shifts away from forward guidance under new chief Kevin Warsh",
-      "desc": "New Federal Reserve Chair Kevin Warsh said Wednesday the central bank will move away from forecasting its future action under his leadership. In announcing its decision to hold interest rates steady, ",
-      "link": "https://thehill.com/business/5929155-warsh-ends-fed-forecasts/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 21:00:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Senators look to jam Hegseth’s travel budget over boat strikes, Iran girls school bombing",
@@ -128,8 +128,8 @@
       "tag": "safety"
     },
     {
-      "title": "Ex-Michigan corrections officer, school security guard and coach accused of raping teen at YMCA",
-      "desc": "The former Michigan corrections officer and school security guard is accused of assaulting a teenage girl multiple times while coaching at the YMCA of Saginaw.",
+      "title": "Saginaw coach accused of raping teen at YMCA",
+      "desc": "The Saginaw man is accused of assaulting a teenage girl multiple times while coaching at the YMCA of Saginaw.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/ex-michigan-corrections-officer-school-security-guard-and-coach-accused-of-raping-teen-at-ymca.html",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 19:13:30 +0000",
@@ -165,7 +165,7 @@
     },
     {
       "title": "FTC sues leading transgender medical group over pediatric care statements",
-      "desc": "The Federal Trade Commission (FTC) and four states on Wednesday sued the leading medical organization focused on transgender health for allegedly making false and unsubstantiated claims to parents in ",
+      "desc": "The Federal Trade Commission (FTC) and four states on Wednesday sued the leading��medical organization focused on transgender health for allegedly making false and unsubstantiated claims to parents in",
       "link": "https://thehill.com/policy/healthcare/5928714-ftc-sues-wpath-transgender-health/",
       "date": "Jun 17, 2026",
       "rawDate": "Wed, 17 Jun 2026 18:29:09 +0000",
@@ -558,15 +558,6 @@
       "rawDate": "Tue, 16 Jun 2026 20:32:34 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Senate fails to advance measure directing Trump to end Iran conflict despite four GOP defections",
-      "desc": "The Senate on Tuesday failed to advance a measure directing President Trump to withdraw U.S.  forces from hostilities against Iran despite four Republican senators breaking ranks and voting in favor. ",
-      "link": "https://thehill.com/homenews/senate/5926564-senate-iran-war-powers/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 20:08:26 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Wife of ex-House Speaker Lee Chatfield admits embezzlement from nonprofit",

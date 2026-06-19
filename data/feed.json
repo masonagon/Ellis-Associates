@@ -1,6 +1,60 @@
 {
-  "generated": "2026-06-19T16:28:39.981Z",
+  "generated": "2026-06-19T18:28:37.053Z",
   "news": [
+    {
+      "title": "Over 160 troops contract flu at Texas base after Hegseth lifts vaccine order",
+      "desc": "More than 160 troops have contracted influenza at Lackland Air Force Base in Texas in the last few weeks following Defense Secretary Pete Hegseth's decision earlier this year to end mandatory flu vacc",
+      "link": "https://thehill.com/policy/defense/5932135-flu-outbreak-lackland-air-force/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 18:09:59 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "NATO chief, Trump to meet at White House amid tensions",
+      "desc": "NATO Secretary-General Mark Rutte is set to travel next week to Washington to meet with President Trump amid tensions over the U.S. cutting the number of troops and equipment it would provide to its E",
+      "link": "https://thehill.com/policy/defense/5932136-nato-trump-mark-rutte-meeting/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 18:07:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Free enterprise built America — here’s why we must sustain it.",
+      "desc": "The Congressional Free Enterprise Caucus, formed by four leaders from different ideological backgrounds, is dedicated to promoting economic growth, fiscal responsibility, and thoughtful regulation in ",
+      "link": "https://thehill.com/opinion/finance/5931422-bipartisan-free-enterprise-growth/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 18:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "November fight set for Golden&#039;s vulnerable House seat in Maine",
+      "desc": "Former Maine Gov. Paul LePage (R) will face off this fall against state auditor Matthew Dunlap (D) in the open race for what’s seen as a prime House pickup opportunity for the GOP in the midterms, acc",
+      "link": "https://thehill.com/homenews/campaign/5915030-november-fight-set-for-goldens-vulnerable-house-seat-in-maine/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 17:39:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "West Michigan grassroots organizer on data center fight: ‘There’s no intimidation here’",
+      "desc": "Betsy López-Wagner formed Residents United for a Healthy Lowell with two other concerned citizens after Microsoft's proposed a $1 billion data center in the township.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/west-michigan-grassroots-organizer-on-data-center-fight-theres-no-intimidation-here.html",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 17:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How did we get Graham Platner and Ken Paxton? Voters can demand better.",
+      "desc": "Despite his controversial past, Graham Platner was chosen by Democratic voters in Maine to be their party's Senate nominee, demonstrating a trend of voters rewarding bad behavior and lowering the bar ",
+      "link": "https://thehill.com/opinion/campaign/5930520-voters-reward-bad-behavior/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "See photos as the competition kicks off for Miss Michigan 2026",
       "desc": "These stunning photos capture the 30 contestants competing for Miss Michigan 2026 on opening night Thursday, June 18, at the historic Frauenthal Theater in Muskegon.",
@@ -21,28 +75,10 @@
     },
     {
       "title": "White House officials bid farewell to Air Force One plane used since 1990",
-      "desc": "President Trump became the last president to fly aboard one of the heavily customized Boeing 747-200s operating as Air Force One, as it made its final flight to bring the commander in chief back from ",
+      "desc": "Editor's note: This story has been corrected to indicate the Boeing 747 \"29000\" is not being retired by the Air Force. President Trump became the last president to fly aboard one of the heavily custom",
       "link": "https://thehill.com/policy/defense/5931982-air-force-one-boeing-747-trump-vc-25a/",
       "date": "Jun 19, 2026",
       "rawDate": "Fri, 19 Jun 2026 15:20:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "James Carville on Trump&#039;s Iran MOU: ‘Happy 250th, America. You just lost a war’",
-      "desc": "Democratic strategist James Carville mocked the memorandum of understanding reached by the Trump administration with Iran, arguing it effectively shows that the U.S. lost the war just as the country r",
-      "link": "https://thehill.com/policy/international/5931948-trump-iran-deal-carville-analysis/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 14:43:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Defense authorization bill puts US-Israel relations on more solid footing",
-      "desc": "The U.S. and Israel are seeking to enter a new phase of their relationship, one that treats the Israelis as a contributing partner to mutual defense and intelligence needs, with the goal of expanding ",
-      "link": "https://thehill.com/opinion/national-security/5929383-us-israel-defense-tech-cooperation/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 14:30:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -53,15 +89,6 @@
       "date": "Jun 19, 2026",
       "rawDate": "Fri, 19 Jun 2026 14:00:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump&#039;s Iran deal is a big fat flop",
-      "desc": "This is one of the worst disasters in decades for American foreign policy. And it was all avoidable and unnecessary.",
-      "link": "https://thehill.com/opinion/white-house/5930138-iran-nuclear-deal-trump/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 14:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -524,24 +551,6 @@
       "tag": "safety"
     },
     {
-      "title": "NATO chief downplays US military cutbacks",
-      "desc": "NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the event of an attack will not have an immediate impact.",
-      "link": "https://thehill.com/policy/international/5929316-us-drawdown-nato-allies/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 22:07:44 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Pope welcomes US-Iran deal, hopes for strengthened &#039;trust, security, and stability&#039;",
-      "desc": "Pope Leo XIV on Wednesday morning welcomed the new deal between the U.S. and Iran ending the war between the two countries and said he hoped for bolstered “mutual trust, security, and stability in the",
-      "link": "https://thehill.com/policy/international/5929326-pope-leo-xiv-welcomes-us-iran-deal/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 22:07:09 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "RFK Jr. announces $700M investment in addiction services, emphasizing faith-based organizations",
       "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Wednesday announced a $700 million investment into behavioral health programs, indicating an emphasis on faith-based recovery organiz",
       "link": "https://thehill.com/policy/healthcare/5928940-rfk-jr-addiction-aa/",
@@ -808,15 +817,6 @@
       "link": "https://thehill.com/policy/healthcare/5926083-covid-19-vaccine-cardiovascular-benefits/",
       "date": "Jun 16, 2026",
       "rawDate": "Tue, 16 Jun 2026 14:29:47 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Bay Area resident confirmed to have measles: public health",
-      "desc": "(KRON) -- The County of Santa Clara Public Health Department is warning of a public measles exposure in San Francisco International Airport (SFO) and Santa Clara County. Santa Clara Public Health said",
-      "link": "https://thehill.com/policy/healthcare/5925936-measles-exposure-san-francisco/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 13:16:32 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

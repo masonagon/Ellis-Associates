@@ -1,6 +1,69 @@
 {
-  "generated": "2026-06-18T23:47:47.506Z",
+  "generated": "2026-06-19T03:33:50.694Z",
   "news": [
+    {
+      "title": "Medication abortion restored in Missouri following court ruling",
+      "desc": "A state judge opened the door for Missourians to access medication abortion in a Thursday ruling that comes over a year after state residents voted to legalize abortion access.  Missouri circuit judge",
+      "link": "https://thehill.com/homenews/state-watch/5931572-missouri-abortion-access-ruling/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 03:02:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House confirms Vance trip to Switzerland delayed",
+      "desc": "Vice President Vance’s trip to Switzerland for technical talks on the Iran deal has been postponed, the White House confirmed on Thursday.  There were talks the top U.S. official would depart for Euro",
+      "link": "https://thehill.com/homenews/administration/5931551-vice-president-vance-switzerland-trip/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 02:05:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Special election for Swalwell&#039;s open House seat heads to runoff",
+      "desc": "The special election for former California Rep. Eric Swalwell’s (D) House seat is headed to a runoff, after no candidate in the race received a majority of the vote, DDHQ projected on Thursday evening",
+      "link": "https://thehill.com/homenews/state-watch/5931540-california-14th-congressional-runoff/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 01:42:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan Supreme Court allows controversial budget rule tied to school safety funds",
+      "desc": "Gov. Gretchen Whitmer's office said the state court ruling preserves 'historic' investments in school safety and student mental health, while schools ask a federal court challenge to proceed.",
+      "link": "https://www.mlive.com/education/2026/06/michigan-supreme-court-allows-controversial-budget-rule-tied-to-school-safety-funds.html",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 01:27:02 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump awards 3 Medals of Honor to war heroes",
+      "desc": "",
+      "link": "https://thehill.com/newsletters/defense-national-security/5931487-trump-awards-3-medals-of-honor-to-war-heroes/",
+      "date": "Jun 19, 2026",
+      "rawDate": "Fri, 19 Jun 2026 00:42:45 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Top Senate Democrat calls on FAA to reject White House arch approval pressure",
+      "desc": "Sen. Tammy Duckworth (D-Ill.) urged the Federal Aviation Administration (FAA) on Thursday to reject the White House’s plans to erect a triumphal arch near the Lincoln Memorial. The ranking member of t",
+      "link": "https://thehill.com/homenews/senate/5931473-faa-duckworth-trump-arch/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 23:50:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "FDA panel gives nod to Moderna flu shot",
+      "desc": "Presented by Planned Parenthood {beacon} Healthcare Health Care   PRESENTED BY  The Big Story  FDA panel gives nod to Moderna flu shot  The FDA’s independent vaccine advisors voted unanimously 9-0 tha",
+      "link": "https://thehill.com/newsletters/health-care/5931469-fda-panel-moderna-flu-shot/",
+      "date": "Jun 18, 2026",
+      "rawDate": "Thu, 18 Jun 2026 23:37:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "GOP embraces speculation about China’s role in data center backlash",
       "desc": "Presented by Philip Morris International {beacon} Technology Technology PRESENTED BY  The Big Story  GOP embraces speculation about China’s role in data center backlash Republicans are embracing alleg",
@@ -39,7 +102,7 @@
     },
     {
       "title": "FDA panel recommends mRNA flu vaccine for older adults",
-      "desc": "A first-of-its-kind flu shot is a step closer to being available to the public after a Food and Drug Administration (FDA) advisory panel voted Thursday to recommend Moderna’s mRNA-based vaccine for ap",
+      "desc": "A first-of-its-kind flu shot is one step closer to being available to the public after a Food and Drug Administration (FDA) advisory panel voted Thursday to recommend Moderna’s mRNA-based vaccine for ",
       "link": "https://thehill.com/policy/healthcare/5931348-moderna-mrna-flu-shot/",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 22:31:25 +0000",
@@ -92,15 +155,6 @@
       "tag": "safety"
     },
     {
-      "title": "Cook Political Report shifts 7 House races toward Democrats",
-      "desc": "The nonpartisan Cook Political Report on Thursday moved seven House races toward Democrats, as the minority party looks to retake control of the lower chamber this November.  Erin Covey, the House edi",
-      "link": "https://thehill.com/homenews/campaign/5931147-house-races-shift-democrats/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 21:22:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "The White House Is Making Up Its Rules for AI in Real Time",
       "desc": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
       "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
@@ -128,15 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "Missing New Jersey Rep. Tom Kean expected to return June 30",
-      "desc": "Rep. Tom Kean Jr. (R-N.J.) said he would return to Washington, D.C., for House votes on June 30, days before the House leaves for its Independence Day recess.  “The congressman will be back for votes ",
-      "link": "https://thehill.com/homenews/house/5931129-thomas-kean-jr-health/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 20:56:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Ebola outbreak zone cases up almost 40 percent in a week",
       "desc": "The Ebola outbreak in Congo that’s spread across parts of Africa has killed more than 200 people in its first month and is considered the worst known outbreak at this stage, the Africa Centres for Dis",
       "link": "https://thehill.com/policy/healthcare/5931149-ebola-surge-africa-cdc/",
@@ -144,24 +189,6 @@
       "rawDate": "Thu, 18 Jun 2026 20:55:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Rove knocks Trump &#039;narcissism&#039;: &#039;He&#039;s making everything about him&#039;",
-      "desc": "Republican strategist Karl Rove on Wednesday knocked President Trump for displaying signs of “narcissism,” citing the naming of buildings in Washington as just one example. “Renaming the Kennedy Cente",
-      "link": "https://thehill.com/homenews/administration/5930925-trump-rogan-kennedy-center/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 20:29:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP&#039;s Ernst on Iran deal: &#039;I don’t want to see JCPOA 2.0&#039;",
-      "desc": "A Republican senator on Thursday expressed skepticism about the tentative agreement struck by Iran and the U.S., which replaces the previous Joint Comprehensive Plan of Action (JCPOA) dissolved under ",
-      "link": "https://thehill.com/homenews/senate/5931086-republican-senator-iran-agreement-concerns/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 20:23:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Flint council members push for earlier curfews for kids under 17",
@@ -578,15 +605,6 @@
       "tag": "government"
     },
     {
-      "title": "Kelly: Trump deal makes Iran &#039;more powerful&#039;",
-      "desc": "Sen. Mark Kelly (D-Ariz.) said Wednesday that President Trump’s new deal with Iran to end the war makes Tehran “more powerful.”  “Well, I think it emboldens the Iranians and makes them more powerful, ",
-      "link": "https://thehill.com/homenews/senate/5928907-kelly-trump-iran-agreement/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 19:30:45 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Saginaw coach accused of raping teen at YMCA",
       "desc": "The Saginaw man is accused of assaulting a teenage girl multiple times while coaching at the YMCA of Saginaw.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/ex-michigan-corrections-officer-school-security-guard-and-coach-accused-of-raping-teen-at-ymca.html",
@@ -693,15 +711,6 @@
       "rawDate": "Wed, 17 Jun 2026 17:11:42 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Michigan governor’s race poll finds ‘dead heat’ between two candidates",
-      "desc": "A new poll has found a statistical tie between GOP gubernatorial candidates U.S. Rep. John James, R-Shelby Township, and former Attorney General Mike Cox.",
-      "link": "https://www.mlive.com/politics/2026/06/michigan-governors-race-poll-finds-dead-heat-between-two-candidates.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 17:03:14 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Pentagon AI chief: Musk&#039;s Grok chatbot used to launch thousands of missiles at Iran",
@@ -898,15 +907,6 @@
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/svsu-approves-tuition-increase-housing-renovations-for-upcoming-year.html",
       "date": "Jun 15, 2026",
       "rawDate": "Mon, 15 Jun 2026 21:45:10 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "$5M in gifts supports Eastern Michigan University faculty research, innovation",
-      "desc": "Eastern Michigan University has secured $5 million for a faculty development endowment following a $4 million estate gift from longtime university supporters.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/5m-in-gifts-supports-eastern-michigan-university-faculty-research-innovation.html",
-      "date": "Jun 15, 2026",
-      "rawDate": "Mon, 15 Jun 2026 20:17:37 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

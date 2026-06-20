@@ -1,6 +1,33 @@
 {
-  "generated": "2026-06-20T09:58:52.473Z",
+  "generated": "2026-06-20T11:57:55.251Z",
   "news": [
+    {
+      "title": "GOP bullish on political impact for Republicans of Trump MOU with Iran",
+      "desc": "Republicans are largely skeptical that President Trump's deal with Iran will deliver a geopolitical win, but they are bullish about its impact on the midterms, with gas prices already dropping. One na",
+      "link": "https://thehill.com/homenews/administration/5931261-gas-prices-midterms-republican-boost/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "World Cup brings political issues to the surface: 5 takeaways",
+      "desc": "The first week of the FIFA World Cup has been underscored by tensions over geopolitics, U.S. immigration policy and dramatic group stage action that is priming viewers around the world for what promis",
+      "link": "https://thehill.com/policy/sports-gaming/5929954-us-immigration-world-cup/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "desc": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
       "desc": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.",
@@ -70,17 +97,8 @@
       "link": "https://thehill.com/policy/defense/5932136-nato-trump-mark-rutte-meeting/",
       "date": "Jun 19, 2026",
       "rawDate": "Fri, 19 Jun 2026 18:07:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Free enterprise built America — here’s why we must sustain it.",
-      "desc": "The Congressional Free Enterprise Caucus, formed by four leaders from different ideological backgrounds, is dedicated to promoting economic growth, fiscal responsibility, and thoughtful regulation in ",
-      "link": "https://thehill.com/opinion/finance/5931422-bipartisan-free-enterprise-growth/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "West Michigan grassroots organizer on data center fight: ‘There’s no intimidation here’",
@@ -178,33 +196,6 @@
       "link": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/",
       "date": "Jun 19, 2026",
       "rawDate": "Fri, 19 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "An Open Strait of Hormuz Won’t Fix Gas Prices Overnight",
-      "desc": "Even if peace holds up between the US and Iran, oil prices aren’t going back down to where they were any time soon.",
-      "link": "https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Canada Missed Chances to Inspect Titan Before Fatal Implosion",
-      "desc": "A new report shows that government agencies failed to communicate and includes recommendations for stronger oversight in a bid to avert future disasters.",
-      "link": "https://www.wired.com/story/canada-missed-chances-titan-fatal-implosion/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Pseudoscientific Cancer ‘Treatment’ Involves Gassing Naked People in Plastic Bags With Bleach",
-      "desc": "A London clinic owner has claimed he is treating people with stage 4 cancer by sealing them into a plastic bag while they're naked from the waist down and gassing them with chlorine dioxide.",
-      "link": "https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 07:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },

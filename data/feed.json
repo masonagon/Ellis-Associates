@@ -1,6 +1,69 @@
 {
-  "generated": "2026-06-20T14:03:09.035Z",
+  "generated": "2026-06-20T16:12:55.103Z",
   "news": [
+    {
+      "title": "Will AOC suffer the same fate as Bernie and RFK Jr. in the next Democratic primary?",
+      "desc": "In 2016, the entrenched Democratic leadership wanted Hillary Clinton over Sanders.  Got her. In 2020, they wanted Joe Biden over Sanders. Got him. In 2024, they wanted Biden and then eventually Kamala",
+      "link": "https://thehill.com/opinion/campaign/5932038-aoc-socialist-political-rise/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump cabinet&#039;s fermented food craze should be balanced, doctor says",
+      "desc": "Members of Trump's cabinet are swearing by expensive fermented food diets.",
+      "link": "https://thehill.com/policy/healthcare/5932663-fermented-diet-trump-officials/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 15:30:46 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Jackson County deputies searching for wanted man who removed tether",
+      "desc": "The Jackson County Sheriff's Department is searching for Locadio Eugene Ruiz, 46, who police officials say cut off his electronic monitoring device and is wanted on four felony warrants.",
+      "link": "https://www.mlive.com/news/jackson/2026/06/jackson-county-deputies-searching-for-wanted-man-who-removed-tether.html",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 15:18:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "America&#039;s Honduras veterans served honorably. We owe them recognition.",
+      "desc": "Congress should examine this issue and take steps to ensure these veterans receive the recognition they have long been denied.",
+      "link": "https://thehill.com/opinion/national-security/5929276-honduras-veterans-recognition-gap/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ypsilanti woman recognized for volunteering at elementary school for 13 years",
+      "desc": "Rubye Ogburn was inspired to volunteer at Carpenter Elementary School through Foster Grandparents near Ann Arbor because of her late mother's volunteer work.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ypsilanti-woman-recognized-for-volunteering-at-elementary-school-for-13-years.html",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 14:30:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Which GLP-1 works best? New meta-study puts them head-to-head",
+      "desc": "The study compared three types of the medication: tirzepatide (better known under the brand names Zepbound and Mounjaro), semaglutide (sold as Wegovy and Ozempic), and liraglutide (aka Saxenda and Vic",
+      "link": "https://thehill.com/policy/healthcare/5932371-which-glp-1-works-best-new-meta-study-puts-them-head-to-head/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 14:25:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump defends Iran MOU, slams Obama amid criticism of deal",
+      "desc": "President Trump on Saturday morning slammed “fools” who criticized the terms of the memorandum of understanding (MOU) between the U.S. and Iran after several lawmakers and former President Obama spoke",
+      "link": "https://thehill.com/homenews/administration/5932607-trump-slams-obama-iran-mou-critics/",
+      "date": "Jun 20, 2026",
+      "rawDate": "Sat, 20 Jun 2026 14:11:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Ann Arbor seeks business input for plan to reduce waste, boost sustainability",
       "desc": "The city’s Office of Sustainability and Innovations has launched a digital survey to gather feedback on its emerging Circular Economy Action Plan.",
@@ -56,24 +119,6 @@
       "tag": "government"
     },
     {
-      "title": "GOP bullish on political impact for Republicans of Trump MOU with Iran",
-      "desc": "Republicans are largely skeptical that President Trump's deal with Iran will deliver a geopolitical win, but they are bullish about its impact on the midterms, with gas prices already dropping. One na",
-      "link": "https://thehill.com/homenews/administration/5931261-gas-prices-midterms-republican-boost/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "World Cup brings political issues to the surface: 5 takeaways",
-      "desc": "The first week of the FIFA World Cup has been underscored by tensions over geopolitics, U.S. immigration policy and dramatic group stage action that is priming viewers around the world for what promis",
-      "link": "https://thehill.com/policy/sports-gaming/5929954-us-immigration-world-cup/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "desc": "The new Siri AI is conversational, omnipresent, and actually helpful.",
       "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
@@ -90,33 +135,6 @@
       "rawDate": "Sat, 20 Jun 2026 09:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Dem senators call on FCC to pause Paramount-Warner Bros deal on national security grounds",
-      "desc": "Three Democratic senators are pressing the Federal Communications Commission (FCC) to halt a merger between Paramount and Warner Bros. Discovery, warning that the deal could pose a national security r",
-      "link": "https://thehill.com/media/5932485-paramount-warner-merger-democrats/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 03:03:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump endorses both GOP runoff candidates in South Carolina",
-      "desc": "President Trump on Friday offered a rare dual endorsement for both Republican contenders in the race for South Carolina governor, an unexpected twist that comes just days before voters are set to retu",
-      "link": "https://thehill.com/homenews/campaign/5932424-trump-backs-evette-wilson/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 23:24:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trust in federal government at all-time low: Poll",
-      "desc": "Public trust in the federal government has reached its lowest level in more than two decades as nearly two-thirds of U.S. voters say they are not satisfied with the direction of the country, according",
-      "link": "https://thehill.com/homenews/administration/5932387-public-trust-federal-government-low/",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 22:16:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "More than 160 troops contract flu at Texas base after Hegseth lifts vaccine order",
@@ -731,15 +749,6 @@
       "tag": "education"
     },
     {
-      "title": "Police looking for driver who struck man crossing street in Ann Arbor",
-      "desc": "The man was taken to the hospital with injuries.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/police-looking-for-driver-who-struck-man-crossing-street-in-ann-arbor.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 15:56:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "$280K added to Sherrone Moore, University of Michigan athletics investigations",
       "desc": "MLive/The Ann Arbor News obtained copies of two invoices worth hundreds of thousands of dollars from Chicago law firm Jenner & Block dated May 6 and May 15.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/280k-added-to-sherrone-moore-university-of-michigan-athletics-investigations.html",
@@ -756,15 +765,6 @@
       "rawDate": "Wed, 17 Jun 2026 14:12:19 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Inside the new $12M ‘permanent home’ for Boys & Girls Clubs of Greater Kalamazoo",
-      "desc": "One unique goal for the new space, spurred by teen feedback: \"It can't smell like a school cafeteria.\"",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/inside-the-new-12m-permanent-home-for-boys-girls-clubs-of-greater-kalamazoo.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 12:26:35 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Great Britain risks new battle with Trump over social media ban",
@@ -812,15 +812,6 @@
       "tag": "technology"
     },
     {
-      "title": "Democrats unveil drug pricing policy road map ahead of midterms",
-      "desc": "Senate Democrats on Tuesday released a blueprint of proposals to lower prescription drug costs, as Democrats focus on affordability to provide a counter message to the White House and help Democrats w",
-      "link": "https://thehill.com/homenews/senate/5926593-senate-democrats-prescription-drug-plan/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 18:41:04 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "What to know about the Anthropic models takedown",
       "desc": "Anthropic took down its newest AI models last week, after the Trump administration slapped the company with an export control order requiring it to block foreign nationals from accessing its latest te",
       "link": "https://thehill.com/policy/technology/5926417-anthropic-fable-mythos-ai/",
@@ -837,15 +828,6 @@
       "rawDate": "Tue, 16 Jun 2026 15:21:04 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "COVID-19 vaccine linked with lower risk of heart attack, stroke: Study",
-      "desc": "The COVID-19 vaccine lowered the risk of cardiovascular issues associated with the virus by around 40 percent, according to new research.  The study, which was published in JAMA Internal Medicine on M",
-      "link": "https://thehill.com/policy/healthcare/5926083-covid-19-vaccine-cardiovascular-benefits/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 14:29:47 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

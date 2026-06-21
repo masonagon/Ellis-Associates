@@ -1,8 +1,107 @@
 {
-  "generated": "2026-06-21T12:06:25.873Z",
+  "generated": "2026-06-21T15:08:39.537Z",
   "news": [
     {
-      "title": "Miss Michigan 2026 Grace Hanke: ‘I’m so proud of myself’",
+      "title": "Woman, 77, crashes into tree while trying to pass other vehicles",
+      "desc": "The woman swerved to avoid a bicyclist while passing other vehicles and crashed into a tree, police said.",
+      "link": "https://www.mlive.com/news/2026/06/woman-77-crashes-into-tree-while-trying-to-pass-other-vehicles.html",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 14:48:57 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Is hearing loss an Alzheimer&#039;s warning sign? Research shows new risk factors",
+      "desc": "The number of people living with Alzheimer's disease is expected to double by 2060. New research is shedding light on warning signs and risk factors that could signal cognitive decline ahead.",
+      "link": "https://thehill.com/policy/healthcare/5932154-is-hearing-loss-an-alzheimers-warning-sign-research-shows-new-risk-factors/",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 14:17:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Motorcyclist dies after medical emergency during charity ride",
+      "desc": "Police said a 66-year-old man died after suffering a medical emergency while riding in a charity event.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/motorcyclist-dies-after-medical-emergency-during-charity-ride.html",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 14:11:42 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "See photos as Miss Michigan 2026 is crowned",
+      "desc": "Miss Oakland County Grace Hanke, of Hazel Park, was crowned Miss Michigan 2026 on Saturday at the Frauenthal Theater in downtown Muskegon. There were 30 contestants.",
+      "link": "https://www.mlive.com/news/2026/06/see-photos-as-miss-michigan-2026-is-crowned.html",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 14:07:25 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Ingredient needed for pretty much all food just got way more expensive. Your grocery bill may soar too",
+      "desc": "The commodity is a crucial ingredient in growing or producing pretty much everything you put in your grocery cart or serve up on your dinner plate.",
+      "link": "https://thehill.com/business/personal-finance/5926563-ingredient-needed-for-pretty-much-all-food-just-got-way-more-expensive-your-grocery-bill-may-soar-too/",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 14:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Shooting in Flint under investigation",
+      "desc": "Michigan State Police are investigating a shooting that occurred Saturday night.",
+      "link": "https://www.mlive.com/news/flint/2026/06/shooting-in-flint-under-investigation.html",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 13:47:04 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Boy recovered from water after going under in Southwest Michigan",
+      "desc": "Police said a bystander rescued one boy but the second went under and was found hours later.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/06/boy-recovered-from-water-after-going-under-in-southwest-michigan.html",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 13:27:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "School budgets are confusing. Here’s 10 terms Michiganders should know.",
+      "desc": "Local school boards face a July 1 deadline amid fears state lawmakers will once again miss theirs. Some key phrases may help families follow what's at stake.",
+      "link": "https://www.mlive.com/education/2026/06/school-budgets-are-confusing-heres-10-terms-michiganders-should-know.html",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 13:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vance arrives in Switzerland as US-Iran nuclear talks get underway",
+      "desc": "Vice President Vance is now in Switzerland for talks over Iran’s nuclear program following an escalation in fighting between Israel and Hezbollah. Vance, alongside special envoy Steve Witkoff and Pres",
+      "link": "https://thehill.com/homenews/administration/5933067-vice-president-vance-iran-talks/",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 12:32:04 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "4 years after crash near Ypsilanti that could have killed her, this deputy is back on road",
+      "desc": "Washtenaw County Sheriff's Deputy Jessica VanBynen has returned to duty after five surgeries, three broken bones, two blood clots and a \"no\" from almost every doctor.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/4-years-after-crash-near-ypsilanti-that-could-have-killed-her-this-deputy-is-back-on-road.html",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 12:15:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Raising taxes on the superrich is popular with voters.  So why is it so hard to get done?",
+      "desc": "Americans are deeply divided on many issues. But taxing billionaires isn’t one of them.",
+      "link": "https://thehill.com/opinion/campaign/5931167-wealth-gap-tax-reform/",
+      "date": "Jun 21, 2026",
+      "rawDate": "Sun, 21 Jun 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Miss Michigan 2026 Grace Hanke: ‘I’m so proud of myself’ for winning the crown",
       "desc": "Grace Hanke, of Hazel Park, was crowned Miss Michigan 2026 during the scholarship competition on Saturday at the historic Frauenthal Center in downtown Muskegon.",
       "link": "https://www.mlive.com/news/2026/06/miss-michigan-2026-grace-hanke-im-so-proud-of-myself.html",
       "date": "Jun 21, 2026",
@@ -101,15 +200,6 @@
       "tag": "education"
     },
     {
-      "title": "Sunday shows preview: Iran’s Strait of Hormuz closure threatens Trump MOU ahead of planned Switzerland peace talks",
-      "desc": "Vice President Vance left for Switzerland Saturday evening to join special envoy Steve Witkoff and the president’s son-in-law, Jared Kushner, for technical talks with Iran in hopes of reaching a poten",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/5932841-vance-switzerland-nuclear-deal/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 21:27:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Fatal hit and run arrest made after month-long investigation",
       "desc": "The Cass County Sheriff’s Office announced Saturday, June 20, that investigators have arrested a suspect in connection with the hit and run crash that killed Timothy Johnson in May.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/06/fatal-hit-and-run-arrest-made-after-month-long-investigation.html",
@@ -119,33 +209,6 @@
       "tag": "safety"
     },
     {
-      "title": "Black Democrats push back on Wasserman Schultz&#039;s bid in Florida&#039;s 20th District",
-      "desc": "Some Black Democrats are frustrated with Rep. Debbie Wasserman Schultz’s (D-Fla.) decision to run in a South Florida congressional district home to a large Black voting population, sparking an intrapa",
-      "link": "https://thehill.com/homenews/house/5931183-black-democrats-wasserman-schultz-florida/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Talarico dismisses ‘corny nicknames,’ attacks from Trump, Paxton",
-      "desc": "The Democratic candidate in Texas's U.S. Senate race, state Rep. James Talarico, brushed aside insults elevated by President Trump and his Republican opponent, Texas Attorney General Ken Paxton.  “I h",
-      "link": "https://thehill.com/homenews/state-watch/5932778-tatarico-texas-senate-insults/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 18:56:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Maher swipes at Trump over Iran MOU: ‘What happened to the art of the deal?’",
-      "desc": "Late-night host Bill Maher slammed President Trump over his administration’s negotiations with Iran, just days after U.S. officials signed a memorandum of understanding (MOU) with the Middle East coun",
-      "link": "https://thehill.com/blogs/in-the-know/5932751-bill-maher-slams-trump-iran-deal/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 18:00:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Chicago man arrested in Coldwater jet ski fraud attempt",
       "desc": "A Chicago man was arrested Friday morning after trying to buy a pair of jet skis and a trailer using a stolen identity.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/06/chicago-man-arrested-in-coldwater-jet-ski-fraud-attempt.html",
@@ -153,15 +216,6 @@
       "rawDate": "Sat, 20 Jun 2026 17:45:54 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Maher urges viewers to celebrate US 250th anniversary despite Trump: ‘He isn&#039;t America’",
-      "desc": "Comedian Bill Maher urged Americans not to boycott July 4 because of President Trump, saying no political side “owns being psyched about the country” ahead of the U.S.'s 250th anniversary. On Friday’s",
-      "link": "https://thehill.com/blogs/in-the-know/5932719-bill-maher-urges-patriotism-250th/",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 17:13:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "133 pounds of cocaine seized near bridge to Canada",
@@ -488,15 +542,6 @@
       "tag": "technology"
     },
     {
-      "title": "Marijuana users may hunt again, U.S. Supreme Court rules",
-      "desc": "The unanimous decision signals a loosening of longstanding federal law that barred even casual marijuana users from possessing firearms, though it remains illegal for dangerous persons or addicts.",
-      "link": "https://www.mlive.com/cannabis/2026/06/marijuana-users-may-hunt-again-us-supreme-court-rules.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 19:29:03 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Watch live: Trump participates in Medal of Honor ceremony",
       "desc": "President Trump will preside over a Medal of Honor ceremony Thursday for heroes in the Vietnam and Afghanistan wars. Task &#38; Purpose reported Maj. James Capers Jr., who led his Marine reconnaissanc",
       "link": "https://thehill.com/policy/defense/5929692-donald-trump-medal-of-honor-watch-live/",
@@ -513,15 +558,6 @@
       "rawDate": "Thu, 18 Jun 2026 18:53:57 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Michigan hospitals could lose tax exemption if they don’t cut pricing",
-      "desc": "Legislation would require hospitals to reduce costs by 10% and limit price increases to the rate of inflation, with a five-member board overseeing all rate changes and system mergers.",
-      "link": "https://www.mlive.com/news/2026/06/michigan-hospitals-could-lose-tax-exemption-if-they-dont-cut-pricing.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 18:37:15 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "RFK Jr. promotes healthy food access, defends Medicaid cuts during Holland visit",
@@ -601,17 +637,8 @@
       "link": "https://www.mlive.com/news/flint/2026/06/more-potential-victims-come-forward-in-sexual-assault-case-against-ex-lakeville-teacher.html",
       "date": "Jun 18, 2026",
       "rawDate": "Thu, 18 Jun 2026 16:34:31 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Family sells iconic hot sauce brand founded in 1971",
-      "desc": "The family will retain a minority position in the company.",
-      "link": "https://www.mlive.com/business/2026/06/family-sells-iconic-hot-sauce-brand-founded-in-1971.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 16:24:27 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Army sergeant convicted of attempted murder in Georgia base shootings that wounded 5",
@@ -632,15 +659,6 @@
       "tag": "education"
     },
     {
-      "title": "Police car chase ends in 1 person dead, four minors arrested in Warren",
-      "desc": "The investigation into Thursday’s crash is ongoing.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/police-car-chase-ends-in-1-person-dead-four-minors-arrested-in-warren.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 14:45:14 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Sanders unveils bill to create AI sovereign wealth fund",
       "desc": "Sen. Bernie Sanders (I-Vt.) unveiled new legislation Thursday to create an AI sovereign wealth fund that would provide Americans with annual payouts by taking 50 percent stakes in the country’s larges",
       "link": "https://thehill.com/policy/technology/5930035-sanders-ai-wealth-fund/",
@@ -657,15 +675,6 @@
       "rawDate": "Thu, 18 Jun 2026 14:27:41 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Case dismissed against man accused of shooting 2 cats",
-      "desc": "A witness declined to testify for fear of retribution.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/case-dismissed-against-man-accused-of-shooting-2-cats.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 13:39:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Hegseth announces review of US forces in Europe, rips NATO allies",
@@ -704,15 +713,6 @@
       "tag": "safety"
     },
     {
-      "title": "Strait of Hormuz reopening likely to be delayed to sweep Iranian mines",
-      "desc": "Mines placed in the Strait of Hormuz during the Iran war are putting a damper on plans to quickly return shipping traffic to normal under a memorandum of understanding signed this week. President Trum",
-      "link": "https://thehill.com/policy/defense/5929435-iran-war-shipping-mines/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 23:16:03 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "RFK Jr. announces $700M investment in addiction services, emphasizing faith-based organizations",
       "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Wednesday announced a $700 million investment into behavioral health programs, indicating an emphasis on faith-based recovery organiz",
       "link": "https://thehill.com/policy/healthcare/5928940-rfk-jr-addiction-aa/",
@@ -740,15 +740,6 @@
       "tag": "health"
     },
     {
-      "title": "Saginaw coach accused of raping teen at YMCA",
-      "desc": "The Saginaw man is accused of assaulting a teenage girl multiple times while coaching at the YMCA of Saginaw.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/ex-michigan-corrections-officer-school-security-guard-and-coach-accused-of-raping-teen-at-ymca.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 19:13:30 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Bezos: AI will result in labor shortages instead of replacing humans",
       "desc": "Amazon founder Jeff Bezos on Wednesday said he thinks artificial intelligence will create a shortage of labor rather than replacing human labor. Bezos and Blue Origin CEO David Limp were both in atten",
       "link": "https://thehill.com/policy/technology/5928754-jeff-bezos-ai-labor/",
@@ -767,15 +758,6 @@
       "tag": "education"
     },
     {
-      "title": "Bay City father charged with child abuse after video allegedly shows him shaking infant",
-      "desc": "The father instigated the criminal case himself by calling police to report he was receiving threats after the video circulated online.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/bay-city-father-charged-with-child-abuse-after-video-allegedly-shows-him-shaking-infant.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 18:35:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "FTC sues leading transgender medical group over pediatric care statements",
       "desc": "The Federal Trade Commission (FTC) and four states on Wednesday sued the leading medical organization focused on transgender health for allegedly making false and unsubstantiated claims to parents in ",
       "link": "https://thehill.com/policy/healthcare/5928714-ftc-sues-wpath-transgender-health/",
@@ -785,24 +767,6 @@
       "tag": "health"
     },
     {
-      "title": "Former 3rd grade teacher in Grand Rapids accused of sexually assaulting students",
-      "desc": "George Raymond Marshall Jr. faces 10 counts of second-degree criminal sexual conduct after allegedly assaulting at least seven students at Hope Academy of West Michigan.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/former-3rd-grade-teacher-in-grand-rapids-accused-of-sexually-assaulting-students.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 17:59:08 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Ann Arbor’s Top of the Park in full swing on University of Michigan’s campus",
-      "desc": "Ann Arbor's Summer Festival is in full swing. Top of the Park takes place on the University of Michigan's campus near the Power Center, 915 E. Washington St. in Ann Arbor.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbors-top-of-the-park-in-full-swing-on-university-of-michigans-campus.html",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 17:57:15 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Pentagon AI chief: Musk&#039;s Grok chatbot used to launch thousands of missiles at Iran",
       "desc": "The Pentagon artificial intelligence chief on Monday said Elon Musk’s Grok chatbot is tantamount to national security in a sworn statement that noted xAI's technology has been used throughout the Iran",
       "link": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/",
@@ -810,15 +774,6 @@
       "rawDate": "Wed, 17 Jun 2026 16:22:54 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Collins does &#039;not regret&#039; support for Kavanaugh but &#039;disappointed&#039; with his landmark abortion ruling",
-      "desc": "Sen. Susan Collins (R-Maine) says she does “not regret” her vote to confirm conservative Justice Brett Kavanaugh to the Supreme Court in 2018, but she says she is “disappointed” that he ruled with the",
-      "link": "https://thehill.com/homenews/senate/5927934-susan-collins-kavanaugh-confirmation-abortion/",
-      "date": "Jun 17, 2026",
-      "rawDate": "Wed, 17 Jun 2026 14:12:19 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Great Britain risks new battle with Trump over social media ban",

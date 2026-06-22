@@ -1,23 +1,212 @@
 {
-  "generated": "2026-06-22T14:30:41.753Z",
+  "generated": "2026-06-22T18:41:56.638Z",
   "news": [
     {
-      "title": "Federal appeals court blocks CFPB job cuts: Report",
-      "desc": "A federal appeals court on Friday blocked the Trump administration from immediately cutting the workforce at the Consumer Financial Protection Bureau (CFPB), according to Reuters. The outlet reported ",
-      "link": "https://thehill.com/regulation/court-battles/5933996-trump-administration-cfpb-workforce/",
+      "title": "Flint man, 23, dies after driver runs red light crash at township intersection",
+      "desc": "A Flint man, 23, died after his vehicle was struck by a driver who ran a red light at Maple Avenue and Fenton Road.",
+      "link": "https://www.mlive.com/news/flint/2026/06/flint-man-23-dies-after-driver-runs-red-light-crash-at-township-intersection.html",
       "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 14:20:11 +0000",
+      "rawDate": "Mon, 22 Jun 2026 18:37:22 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Former mid-Michigan Rite Aid transitioning from medication to meats",
+      "desc": "The market is expected to include meat, produce and dairy products.",
+      "link": "https://www.mlive.com/news/flint/2026/06/vacant-mid-michigan-rite-aid-transitioning-from-medication-to-meats.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 18:30:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Elizabeth Hertel stepping down as Michigan DHHS director",
+      "desc": "Gov. Gretchen Whitmer announced the leadership change Monday, tapping a veteran state administrator with decades of budget and financial experience to take over.",
+      "link": "https://www.mlive.com/news/2026/06/elizabeth-hertel-stepping-down-as-michigan-dhhs-director.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 18:28:12 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Judge voids DOJ&#039;s Minnesota subpoenas; Vance optimistic on Iran talks",
+      "desc": "A federal judge in Minnesota on Monday set aside Department of Justice (DOJ) grand jury subpoenas aimed at Minnesota Gov. Tim Walz (D), Minneapolis Mayor Jacob Frey (D) and other officials in the stat",
+      "link": "https://thehill.com/homenews/administration/5933152-live-updates-donald-trump-vance-iran/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 18:25:54 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "A flawed Iran deal could give investors second thoughts",
-      "desc": "It remains to be seen whether investors will remain upbeat amid widespread criticism of the deal.",
-      "link": "https://thehill.com/opinion/finance/5932662-us-iran-oil-agreement-investors/",
+      "title": "Federal judge quashes Trump DOJ subpoenas aimed at Minnesota&#039;s Walz, Frey",
+      "desc": "A federal judge in Minnesota has tossed out multiple Department of Justice (DOJ) grand jury subpoenas aimed at Minnesota Gov. Tim Walz (D), Minneapolis Mayor Jacob Frey (D) and other officials in the ",
+      "link": "https://thehill.com/regulation/court-battles/5934530-judge-tosses-trump-subpoenas/",
       "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 14:00:00 +0000",
+      "rawDate": "Mon, 22 Jun 2026 17:28:55 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Hassett: Warsh &#039;not asking the White House for advice&#039; on interest rates",
+      "desc": "National Economic Council (NEC) Director Kevin Hassett said Monday that Federal Reserve Chair Kevin Warsh is not soliciting advice from the White House on monetary policy.  “We’re very close friends,”",
+      "link": "https://thehill.com/business/5934465-nec-hasset-warsh-fed/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 17:03:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hassett: Warsh &#8216;not asking the White House for advice&#8217; on interest rates",
+      "desc": "National Economic Council (NEC) Director Kevin Hassett said Monday that Federal Reserve Chair Kevin Warsh is not soliciting advice from the White House on monetary policy.&#160; “We’re very close frie",
+      "link": "https://thehill.com/business/5934465-nec-hasset-warsh-fed/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 17:03:13 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "The Ninja Slushi Is Only $200: Early Amazon Prime Day Deal 2026",
+      "desc": "Two years after it turned Marg Monday into a daily, the Ninja Slushi is only $200. That’s the cheapest deal ever.",
+      "link": "https://www.wired.com/story/ninja-slushi-amazon-prime-day-deal-2026/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 17:02:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "New federal rule exposes rift between unions and their members",
+      "desc": "The Department of Labor has finalized a new regulation to increase union members' access to financial information about their union, which the AFL-CIO is attempting to block in court, despite the fact",
+      "link": "https://thehill.com/opinion/congress-blog/labor/5933641-union-dues-takers-interests/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "desc": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+      "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 17:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "GROW UP campaign aims to curb retaliatory youth violence in Genesee County",
+      "desc": "A new campaign in Genesee County aims to prevent youth retaliation and violence through outreach and community partnerships.",
+      "link": "https://www.mlive.com/news/flint/2026/06/grow-up-campaign-aims-to-curb-retaliatory-youth-violence-in-genesee-county.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 16:45:14 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "They’re Making Clip-On Frames for Smart Glasses Now",
+      "desc": "Smart glasses are hitting the mainstream, so companies are now getting into the accessories game.",
+      "link": "https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 16:41:32 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Confirmed Ebola cases in outbreak zone top 1,000",
+      "desc": "Congo’s Ministry of Health on Sunday confirmed that there are more than 1,000 cases of Ebola in the country. The ministry reported that there have been 1,003 cumulative confirmed cases and 254 cumulat",
+      "link": "https://thehill.com/policy/healthcare/5934325-ebola-outbreak-congo/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 16:33:01 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Judge denies correspondents&#039; dinner shooting suspect&#039;s bid to disqualify Blanche, Pirro",
+      "desc": "A federal judge on Monday denied a request from Cole Allen, the alleged White House Correspondents' dinner shooter, to bar acting Attorney General Todd Blanche and U.S. Attorney Jeanine Pirro from bei",
+      "link": "https://thehill.com/regulation/court-battles/5934404-cole-allen-jeanine-pirro-todd-blanche-no-conflict/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 16:32:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2 children seriously injured in Northern Michigan crash; police suspect impaired driver",
+      "desc": "Toxicology results are pending. Charges have not been filed.",
+      "link": "https://www.mlive.com/news/2026/06/2-children-seriously-injured-in-northern-michigan-crash-police-suspect-impaired-driver.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 16:31:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Suspect in Saginaw man’s January homicide surrenders to police, charged with murder",
+      "desc": "Prosecutors allege Marcelo Pilar beat 49-year-old Armando Garcia Jr. unconscious in January. Garcia died of his injuries two days later.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/suspect-in-saginaw-mans-january-homicide-surrenders-to-police-charged-with-murder.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 16:03:45 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "House unveils bipartisan kids online safety deal",
+      "desc": "House lawmakers announced a bipartisan deal on a package for protecting kids online on Monday, months after negotiations on digital and social media regulation fell apart between the two parties. Hous",
+      "link": "https://thehill.com/policy/technology/5934266-bipartisan-deal-kids-online-protection/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 15:31:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Alleged drunken driver faces 10 charges for crash that killed 2 teens",
+      "desc": "Bond was set at $2 million for the 49-year-old arraigned on charges stemming from a multi-vehicle crash. The collision killed two teens who leave behind a 5-month-old baby.",
+      "link": "https://www.mlive.com/news/muskegon/2026/06/alleged-drunken-driver-faces-10-charges-for-crash-that-killed-2-teens.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 15:27:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Plurality in new polling says prediction market betting on elections should be illegal",
+      "desc": "A plurality of respondents to a new poll believes placing prediction market bets on election outcomes should be illegal.  The Politico survey found that 44 percent of 1,167 respondents believe betting",
+      "link": "https://thehill.com/business/5934236-prediction-markets-poll-results/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 15:17:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Netanyahu: &#039;No restrictions&#039; on Israel military acting to thwart Hezbollah threat",
+      "desc": "Israeli Prime Minister Benjamin Netanyahu on Monday said its military has “no restrictions” regarding its efforts to target Hezbollah in Lebanon. Israel's continued operations against the militant gro",
+      "link": "https://thehill.com/policy/international/5934180-hezbollah-israel-lebanon-netanyahu/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 15:13:55 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "1 dead, 1 injured after U.P. shooting, police say",
+      "desc": "The gunman fatally shot himself.",
+      "link": "https://www.mlive.com/news/2026/06/1-dead-1-injured-after-up-shooting-police-say.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 14:49:02 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "China restricts exports to US defense firms",
+      "desc": "China added 10 companies to its export control list on Monday, blocking its exporters from selling any dual-use items to U.S. defense firms.  The items range from drones to robotic hardware and swarm ",
+      "link": "https://thehill.com/policy/defense/5934082-china-export-control-dual-use-items-us-defense-firms/",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 14:35:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Life sciences company earns gold-level sustainability certification for Ann Arbor facility",
+      "desc": "The company invested multiple millions of dollars in sustainability features for the brownfield site’s design and construction, per a June 18 press release.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/life-sciences-company-earns-gold-level-sustainability-certification-for-ann-arbor-facility.html",
+      "date": "Jun 22, 2026",
+      "rawDate": "Mon, 22 Jun 2026 14:31:04 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
     },
     {
       "title": "2 killed in latest strike on alleged drug boat in eastern Pacific",
@@ -56,15 +245,6 @@
       "tag": "safety"
     },
     {
-      "title": "Barney Frank offers Democrats an important warning before the midterms",
-      "desc": "Barney Frank and Rahm Emanuel have warned Democrats to avoid becoming victims of cultural issues and to focus on the cost of living, jobs and public safety in order to win elections.",
-      "link": "https://thehill.com/opinion/civil-rights/5933009-barney-frank-democrats-warning/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 13:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Police release name of Munger man, 80, killed in crash near home",
       "desc": "Ronald A. Dummeldinger, 80, was pronounced dead at the scene after a two-vehicle collision at Knight and West Kinney roads in Merritt Township on June 18.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/police-release-name-of-munger-man-80-killed-in-crash-near-home.html",
@@ -72,15 +252,6 @@
       "rawDate": "Mon, 22 Jun 2026 13:13:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Senate readies to vote on housing; New York primaries take center stage: Join the live discussion",
-      "desc": "The Senate is expected to pass a major housing bill later this evening, while voters go to the polls in New York to pick candidates for the fall in primary races where progressives and Democratic Soci",
-      "link": "https://thehill.com/homenews/editors-call/5933893-senate-housing-bill-vote/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 13:04:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "2 Michigan colleges rank among top 200 universities in the world",
@@ -98,33 +269,6 @@
       "date": "Jun 22, 2026",
       "rawDate": "Mon, 22 Jun 2026 13:04:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Affordable internet is a cost-of-living success story",
-      "desc": "American households still find themselves in a financial crunch when it comes to the cost of housing, healthy food, healthcare, and more. But there is at least one major household expense moving in th",
-      "link": "https://thehill.com/opinion/finance/5932080-internet-service-affordability-improves/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Tim Tebow says he’s not interested in running for office as he takes on human trafficking",
-      "desc": "Tim Tebow is best known as a Heisman Trophy winner, college football national champion and sports broadcaster.   But in recent months, the athlete turned activist has spent time with lawmakers on Capi",
-      "link": "https://thehill.com/newsletters/keeping-score/5933823-tim-tebow-fights-human-trafficking/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 12:26:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Woman, 76, killed after Tesla crashes into home: Texas sheriff",
-      "desc": "Video from the home shows the Tesla speeding across the lawn and colliding with the building.",
-      "link": "https://thehill.com/homenews/state-watch/5933434-tesla-crash-katy-texas-investigation/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 12:10:51 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -173,7 +317,7 @@
       "tag": "health"
     },
     {
-      "title": "GOP embraces speculation about China’s role in data center backlash",
+      "title": "GOP embraces speculation about China’s role in data center backlash",
       "desc": "Republicans are embracing allegations that data center opposition in the U.S. is being fueled by foreign actors, raising questions over how influence operators are contributing to one of the fiercest ",
       "link": "https://thehill.com/policy/technology/5931292-data-centers-influence-campaigns-china-republicans/",
       "date": "Jun 22, 2026",
@@ -326,42 +470,6 @@
       "tag": "health"
     },
     {
-      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-      "desc": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
-      "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-      "date": "Jun 21, 2026",
-      "rawDate": "Sun, 21 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "The Best NAS Devices for Your Home After Months of Testing",
-      "desc": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
-      "link": "https://www.wired.com/story/best-nas-devices/",
-      "date": "Jun 21, 2026",
-      "rawDate": "Sun, 21 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "If You’re Searching for a New Skillet, Consider Stainless Steel",
-      "desc": "Stainless-steel pans may lack nonstick coatings, but they’re unfussy, they sear well, and they’re built for a lifetime of hard work.",
-      "link": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
-      "date": "Jun 21, 2026",
-      "rawDate": "Sun, 21 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Buying a Used iPhone Makes More Sense Than Ever",
-      "desc": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it’ll last longer than ever.",
-      "link": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
-      "date": "Jun 21, 2026",
-      "rawDate": "Sun, 21 Jun 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "White House puts RFK Jr. on road ahead of crucial midterms",
       "desc": "The White House has put Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on the road ahead of November's midterm elections.  Kennedy has been showing up in key battleground House distri",
       "link": "https://thehill.com/policy/healthcare/5931217-kennedy-white-house-midterms/",
@@ -407,15 +515,6 @@
       "tag": "safety"
     },
     {
-      "title": "133 pounds of cocaine seized near bridge to Canada",
-      "desc": "A commercial truck and trailer bound for Canada was selected for inspection, revealing the illicit drug concealed inside.",
-      "link": "https://www.mlive.com/crime/2026/06/133-pounds-of-cocaine-seized-near-bridge-to-canada.html",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 16:38:21 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump cabinet&#039;s fermented food craze should be balanced, doctor says",
       "desc": "Members of Trump's cabinet are swearing by expensive fermented food diets.",
       "link": "https://thehill.com/policy/healthcare/5932663-fermented-diet-trump-officials/",
@@ -423,15 +522,6 @@
       "rawDate": "Sat, 20 Jun 2026 15:30:46 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Jackson County deputies searching for wanted man who removed tether",
-      "desc": "The Jackson County Sheriff's Department is searching for Locadio Eugene Ruiz, 46, who police officials say cut off his electronic monitoring device and is wanted on four felony warrants.",
-      "link": "https://www.mlive.com/news/jackson/2026/06/jackson-county-deputies-searching-for-wanted-man-who-removed-tether.html",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 15:18:03 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Ypsilanti woman recognized for volunteering at elementary school for 13 years",
@@ -450,15 +540,6 @@
       "rawDate": "Sat, 20 Jun 2026 14:25:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Ann Arbor seeks business input for plan to reduce waste, boost sustainability",
-      "desc": "The city’s Office of Sustainability and Innovations has launched a digital survey to gather feedback on its emerging Circular Economy Action Plan.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbor-seeks-business-input-for-plan-to-reduce-waste-boost-sustainability.html",
-      "date": "Jun 20, 2026",
-      "rawDate": "Sat, 20 Jun 2026 13:00:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Ann Arbor teachers want higher pay. How do their salaries stack up in Michigan?",
@@ -542,15 +623,6 @@
       "tag": "government"
     },
     {
-      "title": "I went on a sting with child predator hunters in Kalamazoo. Here’s how it went.",
-      "desc": "Using decoy accounts on a dating app, the predator hunters found a target in Kalamazoo within hours.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/i-went-on-a-sting-with-child-predator-hunters-in-kalamazoo-heres-how-it-went.html",
-      "date": "Jun 19, 2026",
-      "rawDate": "Fri, 19 Jun 2026 11:40:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Miss Michigan 2026 preliminary awards go to Miss Great Lakes Bay, Miss Oakland County",
       "desc": "The Miss Michigan scholarship competition, featuring 30 contestants, kicked off Thursday with preliminary awards for talent, on-stage interviews and evening gowns.",
       "link": "https://www.mlive.com/news/2026/06/miss-michigan-2026-preliminary-awards-go-to-miss-great-lakes-bay-miss-oakland-county.html",
@@ -587,15 +659,6 @@
       "tag": "safety"
     },
     {
-      "title": "West Michigan man misled 18-year-old about his identity before sexual assault, police say",
-      "desc": "The 29-year-old subject from the Muskegon area is facing criminal charges after he reportedly met the woman online and met her this week in a secluded area of Northern Michigan, where police said the ",
-      "link": "https://www.mlive.com/news/2026/06/west-michigan-man-misled-18-year-old-about-his-identity-before-sexual-assault-police-say.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 23:14:37 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "FDA panel recommends mRNA flu vaccine for older adults",
       "desc": "A first-of-its-kind flu shot is one step closer to being available to the public after a Food and Drug Administration (FDA) advisory panel voted Thursday to recommend Moderna’s mRNA-based vaccine for ",
       "link": "https://thehill.com/policy/healthcare/5931348-moderna-mrna-flu-shot/",
@@ -612,33 +675,6 @@
       "rawDate": "Thu, 18 Jun 2026 22:11:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Man, 43, critically injured in Clinton County stabbing, police say",
-      "desc": "The 23-year-old alleged to be behind the stabbing also sustained major injuries in an altercation Thursday. Both were hospitalized.",
-      "link": "https://www.mlive.com/news/2026/06/man-43-critically-injured-in-clinton-county-stabbing-police-say.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 22:09:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Judge sides with Nessel in Polymarket’s complaint over sports gambling",
-      "desc": "Michigan Attorney General Dana Nessel earlier filed a lawsuit against a prediction market company, Kalshi, for allegedly violating the state's sports betting laws.",
-      "link": "https://www.mlive.com/politics/2026/06/judge-sides-with-nessel-in-polymarkets-complaint-over-sports-gambling.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 21:02:55 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Investigation still pending in fatal shooting of 23-year-old near Ypsilanti, police say",
-      "desc": "The man's death is the first reported homicide of the year in Washtenaw County.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/investigation-still-pending-in-fatal-shooting-of-23-year-old-near-ypsilanti-police-say.html",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 21:00:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Ebola outbreak zone cases up almost 40 percent in a week",
@@ -695,24 +731,6 @@
       "tag": "safety"
     },
     {
-      "title": "GOP Senate Armed Services chair comes out against Iran deal",
-      "desc": "Sen. Roger Wicker (R-Miss.), the chair of the powerful Senate Armed Services Committee, said Thursday he was \"concerned\" the U.S.-negotiated memorandum of understanding (MOU) with Iran to reopen the S",
-      "link": "https://thehill.com/policy/defense/5930596-wicker-us-iran-deal/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 17:36:13 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned",
-      "desc": "Ivermectin, the anti-parasitic medication most commonly used as a dewormer in animals, is back in the limelight. This time it has nothing to do with COVID-19.",
-      "link": "https://thehill.com/policy/healthcare/5928905-cancer-patients-are-choosing-ivermectin-over-chemo-and-doctors-are-concerned/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 17:14:16 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "&#039;People-powered&#039; super PAC launches to counter AI industry spending",
       "desc": "A new political organization launched Thursday to \"confront the efforts\" of the pro-AI super PAC Leading the Future, which has poured millions of dollars into congressional primaries across the countr",
       "link": "https://thehill.com/homenews/campaign/5930207-guardrails-alliance-launches-to-counter-ai-spending/",
@@ -720,15 +738,6 @@
       "rawDate": "Thu, 18 Jun 2026 16:58:57 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
-      "desc": "Ukraine struck a major Moscow oil refinery Thursday for a second time in a week, sending huge plumes of black smoke over the capital and disrupting hundreds of flights at its airports in one of its bi",
-      "link": "https://thehill.com/policy/international/ukraine-drone-attack-moscow/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 16:53:46 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "More potential victims come forward in sexual assault case against ex-LakeVille teacher",
@@ -808,15 +817,6 @@
       "link": "https://thehill.com/policy/technology/5927153-florida-sues-tiktok-child-safety/",
       "date": "Jun 16, 2026",
       "rawDate": "Tue, 16 Jun 2026 22:47:43 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "NIH launches new office to reduce animal research testing",
-      "desc": "The National Institutes of Health (NIH) on Monday announced the launch of a new office aimed at reducing the use of animal-based research testing and boosting the use of testing methods that \"better r",
-      "link": "https://thehill.com/policy/healthcare/5926556-nih-launches-office-reduce-animal-testing/",
-      "date": "Jun 16, 2026",
-      "rawDate": "Tue, 16 Jun 2026 20:32:34 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

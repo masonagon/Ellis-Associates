@@ -1,57 +1,147 @@
 {
-  "generated": "2026-06-23T21:25:46.907Z",
+  "generated": "2026-06-23T23:01:37.659Z",
   "news": [
     {
+      "title": "US and Iran dispute whether Tehran has agreed to nuclear inspections",
+      "desc": "ISLAMABAD (AP) — The U.S. and Iran were in dispute Tuesday over whether Tehran had agreed to allow U.N. inspections of its nuclear sites. As officials negotiated over how to permanently end the war in",
+      "link": "https://thehill.com/homenews/ap/ap-international/iran-president-pakistan-us-war/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:42:54 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "AI proxy war in NY race",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Proxy war between AI industry, in NY House race New York City voters are set to deliver their verdict Tuesday in one of the most prominent electio",
+      "link": "https://thehill.com/newsletters/technology/5937133-ai-proxy-war-in-ny-race/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:42:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House bats down speculation that Trump got access to Eli Lilly obesity drug for ‘compassionate use’",
+      "desc": "White House officials on Tuesday shot down a report speculating that President Trump gained access to the retatrutide weight-loss drug under the Food and Drug Administration’s (FDA) “compassionate use",
+      "link": "https://thehill.com/homenews/administration/5937098-white-house-denies-trump-retatrutide/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:20:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Last American hantavirus cruise ship passenger released from quarantine",
+      "desc": "As of Sunday, all U.S. citizens on a cruise ship that was the center of a deadly hantavirus outbreak are out of quarantine, according to the Centers for Disease Control and Prevention (CDC). The 18 Am",
+      "link": "https://thehill.com/policy/healthcare/5937145-hondius-cruise-hantavirus-quarantine/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:17:49 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Court halts MAHA&#039;s SNAP junk food fight",
+      "desc": "Presented by HealthyWomen {beacon} Healthcare   PRESENTED BY  The Big Story  Court halts MAHA's SNAP junk food fight A federal judge blocked the Trump administration’s efforts to approve state efforts",
+      "link": "https://thehill.com/newsletters/healthcare/5937128-court-maha-snap-junk-food-fight/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:16:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "M&#038;M&#8217;s without artificial dyes are coming soon. These other brands are following suit",
+      "desc": "Several companies have announced plans or taken steps to remove artificial dyes from their products.",
+      "link": "https://thehill.com/homenews/5936900-mms-without-artificial-dyes-are-coming-soon-these-other-brands-are-following-suit/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:14:41 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Energy to loan $17.5B for nuclear supply chains",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Energy to loan $17.5B for nuclear supply chains The Trump administration will loan $17.5 billion out to try to speed",
+      "link": "https://thehill.com/newsletters/energy-environment/5937099-energy-to-loan-17-5b-for-nuclear-supply-chains/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:09:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Only 24 percent say Iran war was worth the cost: Survey",
+      "desc": "Less than a quarter of Americans ​believe President Trump's war with Iran was worth its costs, according to a new poll by Reuters/Ipsos out Tuesday. The five-day poll — which closed Monday and include",
+      "link": "https://thehill.com/policy/defense/5937114-iran-war-trump-americans-skeptical-poll/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:04:21 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Lawn care company pledges $1M repair damage to the White House South Lawn from the UFC fight",
+      "desc": "A private Ohio-based company run by a longtime supporter of President Trump has reportedly pledged $1 million to restore the South Lawn of the White House after the UFC Freedom 250 event held on Trump",
+      "link": "https://thehill.com/homenews/administration/5937086-lawn-care-company-pledges-1m-repair-damage-to-the-white-house-south-lawn-from-the-ufc-fight/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 22:01:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump touts economy, oil prices in Pennsylvania stop",
+      "desc": "President Trump touted affordability, investments and jobs Tuesday as he hit the campaign trail once again, this time in key swing state Pennsylvania. The president visited the Mack Truck facility in ",
+      "link": "https://thehill.com/homenews/administration/5937061-trump-affordability-gas-prices-pennsylvania/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 21:45:13 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "101 cats found in ‘reprehensible’ conditions at Dryden Township home, prosecutor says",
+      "desc": "A woman faces felony charges after 101 cats, mostly dead, were found in bad conditions at her Dryden Township home.",
+      "link": "https://www.mlive.com/news/flint/2026/06/101-cats-found-in-reprehensible-conditions-at-dryden-township-home-prosecutor-says.html",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 21:45:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "CFTC sues Kentucky over prediction market lawsuits",
+      "desc": "The Trump administration sued Kentucky on Tuesday over the state’s recent push to rein in prediction markets. The Commodity Futures Trading Commission (CFTC), which argues it has exclusive jurisdictio",
+      "link": "https://thehill.com/policy/technology/5937031-cftc-lawsuit-kentucky-prediction-markets/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 21:39:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DC funds semi-open primaries for 2028 elections",
+      "desc": "The D.C. Council voted Tuesday to allow independents to vote in district primaries starting in 2028, more than 18 months after voters in the nation’s capital passed a measure in support of the change.",
+      "link": "https://thehill.com/homenews/campaign/5937013-dc-council-allows-independents-vote/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 21:35:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "3 businesses near Ann Arbor, Jackson get $75K from Michigan program",
+      "desc": "Gov. Gretchen Whitmer named the three small businesses along 66 others as part of a statewide program awarding more than $1.5 million in grants to them, according to a Tuesday, June 23 press release.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/3-businesses-near-ann-arbor-jackson-get-75k-from-michigan-program.html",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 21:31:49 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Pulte’s first days in office set off alarms with lawmakers",
+      "desc": "Acting Director of National Intelligence Bill Pulte is already delivering on the controversial tenure feared by critics when President Trump selected him to step into the role. Pulte began his new job",
+      "link": "https://thehill.com/homenews/administration/5936923-pulte-firings-counterterrorism-center/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 21:28:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "These four GOP senators voted for Democrats&#039; Iran war powers resolution",
-      "desc": "Four Republican senators broke ranks to join nearly all Democrats in supporting a war powers resolution calling on the Trump administration to withdraw U.S. troops from the war with Iran.  GOP Sens. S",
+      "desc": "Four Republican senators broke ranks to join nearly all Democrats in supporting a war powers resolution calling on the Trump administration to withdraw U.S. troops from the war with Iran.  GOP Sens. S",
       "link": "https://thehill.com/homenews/senate/5936904-iran-war-powers-trump/",
       "date": "Jun 23, 2026",
       "rawDate": "Tue, 23 Jun 2026 21:00:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Fiery New York House primaries test Mamdani&#039;s influence",
-      "desc": "New Yorkers are at the polls Tuesday to vote in a series of House elections. There are handful of open seats up for grabs this cycle, including the 7th, 12th and 21st Congressional Districts. Democrat",
-      "link": "https://thehill.com/homenews/campaign/5923286-live-results-new-york-house-primary/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Maryland House primary elections underway",
-      "desc": "Voters in Maryland are weighing in on a slate of House primary elections Tuesday. Rep. Steny Hoyer's (D-Md.) retirement has opened the seat representing the 5th Congressional District for the first ti",
-      "link": "https://thehill.com/homenews/campaign/5923281-live-results-maryland-house-primary-elections/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Evette, Wilson duke it out in South Carolina GOP gubernatorial runoff",
-      "desc": "Lt. Gov. Pamela Evette and Attorney General Alan Wilson are duking it out Tuesday in the Republican runoff to succeed South Carolina Gov. Henry McMaster (R). Wilson secured a last minute endorsement f",
-      "link": "https://thehill.com/homenews/campaign/5923288-live-results-south-carolina-republican-gubernatorial-runoff/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Utah Democrats jockey for redrawn House seat in primary",
-      "desc": "Voters in Utah are heading to the polls Tuesday to vote in the state's House primary elections. There is one open seat up from grabs after Blake Moore opted to not seek reelection in the 1st Congressi",
-      "link": "https://thehill.com/homenews/campaign/5928557-live-results-utah-house-primary/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Republicans vye to take on Moore in Maryland governor&#039;s race",
-      "desc": "Gov. Wes Moore (D) is running for a second term leading Maryland in a Tuesday primary. Moore faces one primary challenger, but is expected to sail through to the November general election. On the othe",
-      "link": "https://thehill.com/homenews/campaign/5923280-live-results-maryland-governor-primary/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 21:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -92,24 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "ACLU plans to monitor election certification with $50M midterms push",
-      "desc": "The American Civil Liberties Union (ACLU) announced plans Tuesday to monitor election certification as a part of a $50 million investment in midterm races, citing potential threats to voters' ability ",
-      "link": "https://thehill.com/homenews/campaign/5936861-aclu-monitors-election-certification/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 20:31:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Alaska Senate candidate with same name as Sullivan sues to stay on primary ballot",
-      "desc": "A man with the same first and last name as Sen. Dan Sullivan (R-Alaska) that was removed from the ballot due to that similarity has sued to keep his name listed. Daniel J. Sullivan Jr., who is not rel",
-      "link": "https://thehill.com/homenews/campaign/5936869-dan-sullivan-ballot-challenge/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 20:31:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "New Grand Rapids police chief vows to finish his career with department",
       "desc": "Joseph Trigg has spent his entire 25-year career with the Grand Rapids Police Department and promised he's not going anywhere.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/06/new-grand-rapids-police-chief-vows-to-finish-his-career-with-department.html",
@@ -128,31 +200,13 @@
       "tag": "safety"
     },
     {
-      "title": "US and Iran dispute whether Tehran has agreed to nuclear inspections",
-      "desc": "ISLAMABAD (AP) — The U.S. and Iran were in dispute Tuesday over whether Tehran had agreed to allow U.N. inspections of its nuclear sites. As officials negotiated over how to permanently end the war in",
-      "link": "https://thehill.com/homenews/ap/ap-international/iran-president-pakistan-us-war/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 20:00:33 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Watch live: Data Nerds track and analyze primary elections in Maryland, New York and Utah",
-      "desc": "The Hill presents one-and-a-half hours of live, real-time primary night coverage, diving deep into the 2026 primaries in Maryland, New York and Utah on Tuesday from 8:30-10 p.m. EDT. The Hill’s covera",
-      "link": "https://thehill.com/homenews/campaign/data-nerds/5936516-2026-primaries-live-coverage-data-nerds/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 19:57:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Senate votes to direct Trump to withdraw troops from Iran conflict, 4 Republicans break ranks",
       "desc": "The Senate on Tuesday approved a House-passed resolution directing President Trump to withdraw U.S. armed forces from hostilities against Iran after four GOP senators broke ranks and voted to undercut",
       "link": "https://thehill.com/homenews/senate/5936650-iran-war-powers-senate/",
       "date": "Jun 23, 2026",
       "rawDate": "Tue, 23 Jun 2026 19:53:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Why SNAP soda and candy bans are controversial",
@@ -180,15 +234,6 @@
       "rawDate": "Tue, 23 Jun 2026 18:58:15 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Even the Internet’s Favorite Pool Guy Doesn’t Know How to Fix the Reflecting Pool",
-      "desc": "Algae blooms, peeling paint, and a host of fixes from hydrogen peroxide to nanobubblers have made it hard to diagnose what’s wrong with the Reflecting Pool—let alone how to clean up the mess.",
-      "link": "https://www.wired.com/story/internets-favorite-pool-guy-doesnt-know-how-to-fix-reflecting-pool/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 18:56:22 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Senate NDAA adds protections for &#039;political speech&#039; by military retirees amid Hegseth-Kelly battle",
@@ -380,6 +425,15 @@
       "tag": "health"
     },
     {
+      "title": "Amazon's Best Fire TV Stick Is Almost Half Off (2026)",
+      "desc": "The Fire TV Stick 4K Max is a cheap way to stream content and is especially tailored for Prime Video devotees.",
+      "link": "https://www.wired.com/story/amazon-fire-tv-stick-4k-max-deal-6-2026-apd/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 15:19:29 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "Michigan approves tax break for Muskegon-area coffee company’s $567M expansion",
       "desc": "The Michigan Strategic Fund Board has approved a 30-year renaissance zone designation to benefit La Colombe Coffee Roasters’ $567 million expansion in Norton Shores.",
       "link": "https://www.mlive.com/news/muskegon/2026/06/michigan-approves-tax-break-for-muskegon-area-coffee-companys-567m-expansion.html",
@@ -452,6 +506,15 @@
       "tag": "safety"
     },
     {
+      "title": "Netgear’s Excellent Wi-Fi 7 Mesh Is 23% Off a Two-Pack for Prime Day",
+      "desc": "WIRED’s favorite Wi-Fi 7 mesh system from Netgear is cheaper than ever on Prime Day.",
+      "link": "https://www.wired.com/story/netgear-orbi-770-series-prime-day-sale-june-2026/",
+      "date": "Jun 23, 2026",
+      "rawDate": "Tue, 23 Jun 2026 12:19:50 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "WMU’s mid-year buyout plan creates ‘uncertainty,’ faculty union says",
       "desc": "WMU’s mid-year faculty buyout plan causes uncertainty as departments and students await clarity on retirements.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/06/wmus-mid-year-buyout-plan-creates-uncertainty-faculty-union-says.html",
@@ -494,15 +557,6 @@
       "date": "Jun 23, 2026",
       "rawDate": "Tue, 23 Jun 2026 00:10:16 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Man, 22, charged in fatal Southwest Michigan hit-and-run a month after crash",
-      "desc": "The Dowagiac man alleged struck and killed 24-year-old Benton Harbor man Timothy Johnson in late May.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/man-22-charged-in-fatal-southwest-michigan-hit-and-run-a-month-after-crash.html",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 23:23:14 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -668,15 +722,6 @@
       "tag": "safety"
     },
     {
-      "title": "2 killed in latest strike on alleged drug boat in eastern Pacific",
-      "desc": "A U.S. military strike killed two men accused of being \"narco-terrorists\" while aboard a boat in the eastern Pacific Ocean on Sunday. U.S. Southern Command (Southcom) stated in a post on the social pl",
-      "link": "https://thehill.com/policy/defense/5933889-us-military-strike-narco-terrorists/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 13:39:12 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Michigan House pitches $50M fund covering psychedelic treatment trial for veterans",
       "desc": "The bill was voted out of a committee this month as lawmakers and policy groups expressed concern about the use of opioid settlement dollars to fund clinical trials.",
       "link": "https://www.mlive.com/politics/2026/06/michigan-house-pitches-50m-fund-covering-psychedelic-treatment-trial-for-veterans.html",
@@ -794,15 +839,6 @@
       "tag": "health"
     },
     {
-      "title": "White House puts RFK Jr. on road ahead of crucial midterms",
-      "desc": "The White House has put Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on the road ahead of November's midterm elections.  Kennedy has been showing up in key battleground House distri",
-      "link": "https://thehill.com/policy/healthcare/5931217-kennedy-white-house-midterms/",
-      "date": "Jun 21, 2026",
-      "rawDate": "Sun, 21 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Miss Michigan 2026 is Miss Oakland County Grace Hanke",
       "desc": "Thirty contestants competed in Muskegon for Miss Michigan 2026 at the historic Frauenthal Theater. On Saturday, the field was narrowed to 11 semi-finalists.",
       "link": "https://www.mlive.com/news/muskegon/2026/06/miss-michigan-2026-is-oakland-countys-grace-hanke.html",
@@ -819,15 +855,6 @@
       "rawDate": "Sat, 20 Jun 2026 14:30:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Regulators greenlight plan for quick AI data center grid connections",
-      "desc": "Federal regulators on Thursday took steps aimed at both speeding up the buildout of AI data centers and reducing costs. The Federal Energy Regulatory Commission (FERC) directed regional electric grid ",
-      "link": "https://thehill.com/policy/energy-environment/5931287-ai-data-centers-grid-operators-ferc/",
-      "date": "Jun 18, 2026",
-      "rawDate": "Thu, 18 Jun 2026 22:11:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     }
   ]
 }

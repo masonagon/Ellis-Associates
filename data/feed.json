@@ -1,131 +1,167 @@
 {
-  "generated": "2026-06-25T14:07:58.054Z",
+  "generated": "2026-06-25T17:05:17.408Z",
   "news": [
     {
-      "title": "Mamdani-endorsed Avila Chevalier says she won&#039;t respond to being called a communist",
-      "desc": "New York House candidate Darializa Avila Chevalier (D) said Wednesday that she will not respond to being called a communist, arguing her campaign ideals were deeply connected to the Democratic Party’s",
-      "link": "https://thehill.com/homenews/campaign/5940090-darializa-avila-chevalier-new-york-primary-win-mandani-endorsement-communist-rhetoric/",
+      "title": "Lockheed Martin strikes $35B deal to restock depleted THAAD interceptor stockpile",
+      "desc": "The Pentagon has awarded Lockheed Martin a seven-year contract worth up to $35 billion to churn out hundreds of Terminal High Altitude Area Defense (THAAD) interceptors a year, in an effort to repleni",
+      "link": "https://thehill.com/policy/defense/5940861-lockheed-martin-thaad-contract/",
       "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 14:05:36 +0000",
+      "rawDate": "Thu, 25 Jun 2026 17:01:28 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Cambodia&#039;s crackdown on online scams shows that nobody is above the law",
+      "desc": "Cambodia has made significant progress in combating online scams, with the government enacting a new law, increasing law enforcement, and deporting nearly 19,000 foreign nationals linked to scam opera",
+      "link": "https://thehill.com/opinion/international/5939192-cambodia-online-scams-crackdown/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 17:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Trump&#039;s approval worsens; democratic socialists gain ground: Join the live discussion",
-      "desc": "New polling averages put President Trump’s approval at around 20 points underwater and trending downward as voters sour on the economy and the Iran war. Meanwhile, are democratic socialists becoming t",
-      "link": "https://thehill.com/homenews/campaign/data-nerds/5940157-donald-trump-approval-rating-democratic-socialists-primary-wins-live-discussion/",
+      "title": "Hardliners grind House agenda to a halt over SAVE America Act demands",
+      "desc": "A group of conservative hardliners have effectively ground most House floor action to a halt until Congress acts on the Safeguard American Voter Eligibility (SAVE) America Act, delivering a new challe",
+      "link": "https://thehill.com/homenews/house/5940772-save-america-act-gridlock-house/",
       "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:49:48 +0000",
+      "rawDate": "Thu, 25 Jun 2026 16:54:10 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Trump&#8217;s approval worsens; democratic socialists gain ground: Join the live discussion",
-      "desc": "New polling averages put President Trump’s approval at around 20 points underwater and trending downward as voters sour on the economy and the Iran war. Meanwhile, are democratic socialists becoming t",
-      "link": "https://thehill.com/homenews/campaign/data-nerds/5940157-donald-trump-approval-rating-democratic-socialists-primary-wins-live-discussion/",
+      "title": "Trump holding housing reform hostage over Save America Act",
+      "desc": "Housing affordability is one of the issues Americans consistently say they care about. It's also one of the few issues where lawmakers from both parties actually found common ground and produced legis",
+      "link": "https://thehill.com/opinion/lindseys-lens/5940839-save-act-stalls-housing/",
       "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:49:48 +0000",
-      "source": "The Hill Economy",
+      "rawDate": "Thu, 25 Jun 2026 16:48:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo County man sentenced for firing gun from vehicle across Gull Road",
+      "desc": "Rayshawn Heath-Pratcher was sentenced to a maximum of 12 years in prison after police witnessed him firing a gun from a moving vehicle across multiple lanes of traffic in December 2025.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/06/kalamazoo-county-man-sentenced-for-firing-gun-from-vehicle-across-gull-road.html",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:42:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Hunter Biden on democratic socialists&#039; wins: &#039;Country is tired of being managed&#039;",
+      "desc": "Hunter Biden said the Democratic Party should rethink its political strategy after a slate of progressive and socialist candidates backed by New York City Mayor Zohran Mamdani (D) won their primary ra",
+      "link": "https://thehill.com/homenews/campaign/5940783-mamdani-influence-new-york/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:41:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Judge halts Trump order seeking to create federal voter list",
+      "desc": "A federal judge on Thursday issued the fourth order striking down President Trump’s March executive action seeking to overhaul elections by creating an internal list of eligible voters based on availa",
+      "link": "https://thehill.com/homenews/administration/5940622-judge-strikes-down-trump-election-order/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:38:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DeWine vetoes 2 bills in Ohio, including one requiring photo ID to mail in ballots",
+      "desc": "Ohio Gov. Mike DeWine vetoed two bills, including one that would add would add a new requirement for absentee voters.",
+      "link": "https://thehill.com/homenews/state-watch/5940769-dewine-ohio-absentee-voting-bill/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:37:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House asks Congress for $1.4B to fight Ebola outbreak",
+      "desc": "The Trump administration is seeking $1.4 billion from Congress to address the worsening Ebola outbreak in Africa, including $800 million for the construction of a controversial quarantine facility in ",
+      "link": "https://thehill.com/policy/healthcare/5940594-trump-seeks-14b-ebola-funding/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:34:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "No charges following Saginaw diocese abuse probe, AG’s office says",
+      "desc": "The release of a 258-page report Thursday marked the sixth of seven planned reports on Michigan's Catholic dioceses, with the Archdiocese of Detroit report still pending.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/no-charges-following-saginaw-diocese-abuse-probe-ags-office-says.html",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:20:51 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Sotomayor offers blistering dissent on Supreme Court asylum decision: &#039;More people will die&#039;",
+      "desc": "Justice Sonia Sotomayor delivered a blistering dissent from the bench Thursday after the Supreme Court opened the door for the Trump administration to revive an immigration policy that allows border o",
+      "link": "https://thehill.com/regulation/court-battles/5940732-supreme-court-immigration-policy/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:12:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
+      "desc": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
+      "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:05:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Climate accountability deserves its day in court",
+      "desc": "For years, lawyers working for the fossil fuel industry have done everything in their power to keep state courts from weighing the factual evidence in climate accountability cases. During just the pas",
+      "link": "https://thehill.com/opinion/energy-environment/5936892-extreme-weather-lawsuits-big-oil/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Oil tankers exit Strait of Hormuz despite Iran threats",
+      "desc": "Dozens of tankers passed through the Strait of Hormuz on Thursday, via a route along the coast of Oman promoted by a United Nations maritime agency. Confirmed strait crossings rose to 70 on Thursday, ",
+      "link": "https://thehill.com/policy/international/5940531-strait-of-hormuz-iran-war-tensions-oil-tankers/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 15:46:48 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "These 11 restaurants to compete in Burger Battle 10 at Detroit’s Eastern Market",
+      "desc": "Restaurants from Detroit, Westland, Warren, Hazel Park, Dearborn and more will compete.",
+      "link": "https://www.mlive.com/business/2026/06/these-11-restaurants-to-compete-in-burger-battle-10-at-detroits-eastern-market.html",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 15:17:41 +0000",
+      "source": "MLive Business",
       "tag": "associations"
     },
     {
-      "title": "Carville says he wouldn&#039;t seat Mamdani-backed Avila Chevalier in caucus: &#039;She&#039;s not a Democrat&#039;",
-      "desc": "Democratic strategist James Carville said he wouldn’t place Darializa Avila Chevalier, the Democratic nominee for New York’s 13th Congressional District, in the House Democratic Caucus if she wins in ",
-      "link": "https://thehill.com/blogs/in-the-know/5940133-james-carville-dems-avila-chevalier/",
+      "title": "Florida man sentenced for Jackson County ATM fraud scheme",
+      "desc": "Working with the credit union, investigators were able to immediately identify the man as a suspect and arrested him before he could flee the state.",
+      "link": "https://www.mlive.com/news/jackson/2026/06/florida-man-sentenced-for-jackson-county-atm-fraud-scheme.html",
       "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:46:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Thu, 25 Jun 2026 14:44:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
-      "title": "Watch live: Mullin testifies before House panel on DHS oversight",
-      "desc": "Department of Homeland Security (DHS) Secretary Markwayne Mullin will testify before a House Appropriations Committee panel on oversight of the agency. The hearing comes after months of turmoil betwee",
-      "link": "https://thehill.com/video-clips/5939954-watch-live-markwayne-dhs-oversight-house-appropriations-committee/",
+      "title": "Wolverine Human Services targeted in another lawsuit alleging staff sexually abused minors",
+      "desc": "Three more former residents of a shuttered Wolverine Human Services facility in Saginaw County have filed a lawsuit, alleging staff subjected them to prolonged sexual abuse.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/wolverine-human-services-targeted-in-another-lawsuit-alleging-staff-sexually-abused-minors.html",
       "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:34:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Thu, 25 Jun 2026 14:22:47 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
-      "title": "Mamdani on election wins: New Yorkers exhausted with &#039;status quo politics&#039;",
-      "desc": "New York City Mayor Zohran Mamdani (D) said voters showed they were exhausted with “status quo politics” by backing democratic socialists in New York state and federal primaries on Tuesday. Three Mamd",
-      "link": "https://thehill.com/homenews/campaign/5939932-zohran-mandani-new-york-primaries-democratic-wins-status-quo/",
+      "title": "Supreme Court protects pesticides from some health claims in key Roundup case",
+      "desc": "The Supreme Court on Thursday restricted Americans’ ability to sue pesticide makers over alleged health harms stemming from their products. In a 7-2 ruling, the court held that some claims that pestic",
+      "link": "https://thehill.com/policy/energy-environment/5940264-supreme-pesticides-roundup-bayer-maha/",
       "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:31:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fetterman on Larry David White House UFC event criticism: &#039;Lighten up, Francis&#039;",
-      "desc": "Democratic Sen. John Fetterman (Pa.) on Wednesday mocked comedian Larry David for calling the UFC fights at the White House \"embarrassing.\" When TMZ’s Jacob Wasserman asked Fetterman how he would resp",
-      "link": "https://thehill.com/blogs/in-the-know/5940032-fetterman-mocks-larry-david-ufc/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:30:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Congressional Democrats are playing &#039;war party&#039; on Iran. It will backfire on them.",
-      "desc": "The doubletalk coming from many congressional Democrats in response to President Trump’s peace initiative with Iran has been a political wonder to behold. While correctly declaring that Trump should n",
-      "link": "https://thehill.com/opinion/international/5938456-democratic-leaders-criticize-iran-peace/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Trump pick to lead economic advisory panel faces confirmation hearing before Senate",
-      "desc": "Christopher Phelan, President Trump's pick to lead the White House Council of Economic Advisers, will testify before the Senate Housing, Banking and Urban Affairs Committee on Thursday morning for his",
-      "link": "https://thehill.com/video-clips/5939911-watch-live-christopher-phelan-national-economic-council-confirmation-hearing-senate/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:15:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Inflation hits 4.1 percent in May, highest level in 3 years",
-      "desc": "Annual inflation hit the highest level in more than three years last month as prices across the economy rose at an even quicker pace, according to data released Thursday by the Commerce Department. Pr",
-      "link": "https://thehill.com/business/5940002-prices-rise-inflation-spikes/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:00:43 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Massie and Greene could help conservatism survive Trumpism",
-      "desc": "Together, Massie and Greene paint a picture of conservative voters who are disappointed in Trump and who are not MAGA true believers.",
-      "link": "https://thehill.com/opinion/campaign/5938543-trump-massie-greene-conservatism/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump: Senate war powers vote &#039;puts Iran on notice&#039;",
-      "desc": "President Trump said late Wednesday that the Senate striking down another war powers resolution “puts Iran on notice” amid negotiations between the two nations for a long-term deal to end the conflict",
-      "link": "https://thehill.com/homenews/administration/5939950-donald-trump-senate-war-powers-vote-failure-iran/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 12:56:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Major Supreme Court decisions wait in the wings; Trump, Johnson to talk path forward",
-      "desc": "The Supreme Court will hand down opinions Thursday as suspense builds before its summer recess, with a dozen high-profile cases awaiting decisions. President Trump will meet with House Speaker Mike Jo",
-      "link": "https://thehill.com/homenews/administration/5938814-live-updates-trump-supreme-court-senate-gop-tensions/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 12:30:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Is a Democrat-majority Senate a good bet in the midterms?",
-      "desc": "The polling points to a nail-biter of an election night.",
-      "link": "https://thehill.com/opinion/campaign/5939273-betting-markets-midterm-election-odds/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Thu, 25 Jun 2026 14:11:34 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Cassidy on Trump meeting: &#039;I’m not going to be bullied into silence&#039;",
@@ -133,8 +169,8 @@
       "link": "https://thehill.com/homenews/senate/5939924-bill-cassidy-donald-trump-heated-exchange-senate-gop/",
       "date": "Jun 25, 2026",
       "rawDate": "Thu, 25 Jun 2026 12:25:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "New Holland gets 50% base rent cut at Grand Rapids taproom amid financial struggles",
@@ -191,13 +227,13 @@
       "tag": "technology"
     },
     {
-      "title": "World Cup Teams Are in a Race for AI Dominance",
-      "desc": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+      "title": "Vermont is the first state to ban paraquat, a weed killer linked to Parkinson&#039;s disease",
+      "desc": "MONTPELIER, Vt. (AP) — Vermont has become the first U.S. state to ban paraquat, one of the most commonly used herbicides, with lawmakers citing a possible link between the weed killer and Parkinson’s ",
+      "link": "https://thehill.com/homenews/state-watch/vermont-paraquat-ban-parkinsons-disease/",
       "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
+      "rawDate": "Thu, 25 Jun 2026 10:05:05 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Democrats see midterm opportunity in abortion ballot measures",
@@ -210,12 +246,21 @@
     },
     {
       "title": "Senate GOP gets back in line with Trump over the Iran war",
-      "desc": "The Senate late Wednesday night in a 47-50-1 vote opted not to rebuke the Trump administration a second time over its military conflict in Iran, as leaders convinced some Republican swing votes that d",
+      "desc": "The Senate late Wednesday night in a 47-50 vote opted not to rebuke the Trump administration a second time over its military conflict in Iran, as leaders convinced some Republican swing votes that doi",
       "link": "https://thehill.com/homenews/senate/5939699-senate-gop-gets-back-in-line-with-trump-over-the-iran-war/",
       "date": "Jun 25, 2026",
       "rawDate": "Thu, 25 Jun 2026 03:07:47 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
+    },
+    {
+      "title": "New Mexico governor calls for criminal probe of DEA allowing fentanyl shipments to hit streets",
+      "desc": "New Mexico’s governor on Wednesday called for a criminal investigation into the Drug Enforcement Administration after an Associated Press investigation found federal agents allowed hundreds of thousan",
+      "link": "https://thehill.com/homenews/state-watch/new-mexico-fentanyl-dea/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 03:03:16 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "West Michigan town tables data center vote after residents demand stricter rules",
@@ -470,24 +515,6 @@
       "tag": "safety"
     },
     {
-      "title": "Warren man sentenced for his role in death of teen with autism",
-      "desc": "The 46-year-old man was sentenced for failing to stop at the scene of a fatal crash.",
-      "link": "https://www.mlive.com/news/detroit/2026/06/warren-man-sentenced-for-his-role-in-death-of-teen-with-autism.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 15:43:33 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Tribal economic development leader to step down after decade of growth",
-      "desc": "Deidra Mitchell became Waséyabek's first full-time CEO in 2016 and oversaw investments spanning defense software, manufacturing, real estate and healthcare across the country.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/tribal-economic-development-leader-to-step-down-after-decade-of-growth.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 15:38:38 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Saginaw County schools sound the alarm about a looming budget crisis that could disrupt the school year",
       "desc": "All 12 public school superintendents in the county have issued a joint letter warning parents and community members that state lawmakers are once again missing critical funding deadlines.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-county-schools-sound-the-alarm-about-a-looming-budget-crisis-that-could-disrupt-the-school-year.html",
@@ -495,15 +522,6 @@
       "rawDate": "Wed, 24 Jun 2026 15:33:28 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Kalamazoo’s Edison neighborhood is making sure its local businesses don’t get left behind",
-      "desc": "The Edison Business Association offers entrepreneurs access to resources, connections, and support as the community expands. Business owners and residents can learn more at a July 8 networking event w",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/kalamazoos-edison-neighborhood-is-making-sure-its-local-businesses-dont-get-left-behind.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 15:02:27 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Musk on fatal Tesla crash in Texas: &#039;This makes no sense&#039;",
@@ -515,15 +533,6 @@
       "tag": "technology"
     },
     {
-      "title": "An Oregon man sold pills online — they killed a young Michigan man within hours",
-      "desc": "Kai Packer operated drug storefronts on Snapchat and Telegram from his Eugene home, using stolen identities to hide his tracks while selling fentanyl disguised as oxycodone, authorities said.",
-      "link": "https://www.mlive.com/news/2026/06/an-oregon-man-sold-pills-online-they-killed-a-young-michigan-man-within-hours.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 13:33:37 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Kawkawlin Township crematorium dispute nears end",
       "desc": "Steve Dennis's use variance was denied by the Zoning Board of Appeals, while his civil lawsuit against the township faces dismissal for lack of progress.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/kawkawlin-township-crematorium-dispute-nears-end.html",
@@ -533,15 +542,6 @@
       "tag": "government"
     },
     {
-      "title": "Saginaw man, 19, shot multiple times in Saginaw Township apartment parking lot",
-      "desc": "A 19-year-old man is in stable condition after being shot multiple times behind an apartment building. Police say they have several strong leads but no suspects in custody yet.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-man-19-shot-multiple-times-in-saginaw-township-apartment-parking-lot.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 12:39:10 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "French health ministry confirms Ebola virus in doctor who worked in Congo",
       "desc": "PARIS (AP) — A positive case of Ebola virus has been identified in France in a doctor traveling back from Congo, the French Ministry of Health said Wednesday. The individual, who has not been identifi",
       "link": "https://thehill.com/policy/international/france-ebola-case-patient-worked-in-congo/",
@@ -549,15 +549,6 @@
       "rawDate": "Wed, 24 Jun 2026 12:38:36 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Michigan man charged in snowmobile collision that killed his brother",
-      "desc": "The crash occurred in Grand Traverse County this past Februrary.",
-      "link": "https://www.mlive.com/news/2026/06/michigan-man-charged-in-snowmobile-collision-that-killed-his-brother.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 11:49:21 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Trump administration can resume speedy deportations, federal appeals court rules",
@@ -776,15 +767,6 @@
       "tag": "education"
     },
     {
-      "title": "Sheriff on using drone to disarm felon: &#039;Definitely the future&#039;",
-      "desc": "Jim Cooper, the sheriff of Sacramento County, California, said Monday that drones will continue to play a major role in law enforcement, after his department disarmed a suspect using a drone earlier t",
-      "link": "https://thehill.com/policy/technology/5936248-sacramento-sheriff-drone-disarmed-suspect/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 17:00:16 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Trump meeting major defense contractors amid munitions stockpiles concerns",
       "desc": "President Trump is set to meet with the heads of the biggest U.S. defense firms on Wednesday amid concerns of America’s dwindling stockpile of sophisticated munitions. Trump has summoned the top milit",
       "link": "https://thehill.com/policy/defense/5936260-trump-defense-firms-munitions/",
@@ -801,15 +783,6 @@
       "rawDate": "Tue, 23 Jun 2026 16:14:02 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Rand Paul issues subpoena for Anthony Fauci",
-      "desc": "Dr. Anthony Fauci is facing a subpoena from Senate Homeland Security and Governmental Affairs Committee Chair Rand Paul (R-Ky.) to appear before his panel in July.  In a post online late Monday, Paul ",
-      "link": "https://thehill.com/policy/healthcare/5936032-rand-paul-subpoena-anthony-fauci-covid-19/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 15:24:17 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "O&#039;Reilly: Pentagon not war-gaming Strait of Hormuz a strategic error",
@@ -839,24 +812,6 @@
       "tag": "education"
     },
     {
-      "title": "Federal judge blocks bans on SNAP use for soda",
-      "desc": "A federal judge has blocked bans on the usage of the Supplemental Nutrition Assistance Program (SNAP) for soda enacted by the Trump administration. “Congress defined what ‘food’ is supposed to be, and",
-      "link": "https://thehill.com/policy/healthcare/5935279-judge-blocks-soda-snap-ban/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 00:47:22 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Pentagon seeks $80 billion from Congress for Iran war",
-      "desc": "WASHINGTON (AP) — The Pentagon has told senators it needs roughly $80 billion, mostly to cover the cost of the U.S. war against Iran, adding to what is already a sizable military spending boost being ",
-      "link": "https://thehill.com/policy/defense/pentagon-80-billion-dollars-iran-war/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 00:10:16 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "3 more Michigan school districts targeted by feds in Title IX investigations",
       "desc": "The U.S. Department of Education’s Civil Rights Office launched probes into districts’ rules allowing transgender students to participate in school sports. It comes months after a slate of other issue",
       "link": "https://www.mlive.com/education/2026/06/3-more-michigan-school-districts-targeted-by-feds-in-title-ix-investigations.html",
@@ -864,33 +819,6 @@
       "rawDate": "Mon, 22 Jun 2026 21:34:30 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Vance says Iran to allow nuclear inspectors into country",
-      "desc": "Vice President Vance said on Monday that Iran will allow nuclear inspectors back into its country as negotiations between Washington and Iran continue to end the conflict in the Middle East.  Iran has",
-      "link": "https://thehill.com/homenews/administration/5935033-iran-iaea-nuclear-inspectors-vance/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 21:25:13 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Flu cases rise to 222 at Texas base in outbreak blamed on Hegseth scrapping of vaccine mandate",
-      "desc": "More than 220 troops have contracted influenza at Lackland Air Force Base in Texas, up from 160 reported last week in a major outbreak that comes less than two months after Defense Secretary Pete Hegs",
-      "link": "https://thehill.com/policy/healthcare/5934928-influenza-cases-lackland-base/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 20:44:30 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Health officials launch clinical trial reforms to counter China threat",
-      "desc": "The Food and Drug Administration (FDA) on Monday launched a new initiative to speed up early-stage clinical trials as part of an effort to reduce development timelines and reverse a growing trend of c",
-      "link": "https://thehill.com/policy/healthcare/5934886-us-china-clinical-trial-competition/",
-      "date": "Jun 22, 2026",
-      "rawDate": "Mon, 22 Jun 2026 20:24:50 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Fundraising effort launched for student-athlete detained by ICE in Michigan",

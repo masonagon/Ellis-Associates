@@ -1,6 +1,51 @@
 {
-  "generated": "2026-06-25T23:09:51.452Z",
+  "generated": "2026-06-26T02:36:48.046Z",
   "news": [
+    {
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "desc": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "date": "Jun 26, 2026",
+      "rawDate": "Fri, 26 Jun 2026 00:49:13 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Dearborn Heights man charged in online child predator investigation",
+      "desc": "A Dearborn Heights man was charged after allegedly trying to meet a minor for immoral purposes following online communication.",
+      "link": "https://www.mlive.com/news/detroit/2026/06/dearborn-heights-man-charged-in-online-child-predator-investigation.html",
+      "date": "Jun 26, 2026",
+      "rawDate": "Fri, 26 Jun 2026 00:21:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Sanders releases trove of internal HHS emails showing RFK Jr. pressured CDC over vaccine messaging",
+      "desc": "Sen. Bernie Sanders (I-Vt.) on Thursday released a tranche of Health and Human Services (HHS) emails that appear to show HHS Secretary Robert F. Kennedy Jr. pressuring the Centers for Disease Control ",
+      "link": "https://thehill.com/policy/healthcare/5941650-sanders-releases-hhs-emails/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 23:55:22 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Crash injures boy on bicycle at Grandville crosswalk",
+      "desc": "A bicyclist was hospitalized with non-life-threatening injuries after being struck by a vehicle at a Grandville crosswalk.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/crash-injures-boy-on-bicycle-at-grandville-crosswalk.html",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 23:36:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "desc": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "date": "Jun 25, 2026",
+      "rawDate": "Thu, 25 Jun 2026 23:13:45 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Flint man, woman arrested after fatal shooting at Mac’s Food Fair parking lot",
       "desc": "Two suspects face homicide charges after a 36-year-old man was shot dead over the weekend.",
@@ -12,7 +57,7 @@
     },
     {
       "title": "Judge orders DOJ to produce, unredact sought after Epstein files",
-      "desc": "A D.C.-based federal judge on Thursday ordered the Justice Department to unredact additional pages of the Epstein files in a suit brought by attorney and independent journalist Katie Phang. The prelim",
+      "desc": "On Thursday, a federal judge based in Washington, D.C., ordered the Justice Department to unredact additional pages of the Epstein files in a suit brought by attorney and independent journalist Katie ",
       "link": "https://thehill.com/regulation/court-battles/5941665-doj-epstein-files-lawsuit/",
       "date": "Jun 25, 2026",
       "rawDate": "Thu, 25 Jun 2026 22:49:55 +0000",
@@ -151,8 +196,8 @@
       "link": "https://thehill.com/policy/defense/5941484-defense-spending-bill-department-war/",
       "date": "Jun 25, 2026",
       "rawDate": "Thu, 25 Jun 2026 21:01:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Judge blocks new professional student loan restrictions",
@@ -353,15 +398,6 @@
       "tag": "safety"
     },
     {
-      "title": "Wolverine Human Services targeted in another lawsuit alleging staff sexually abused minors",
-      "desc": "Three more former residents of a shuttered Wolverine Human Services facility in Saginaw County have filed a lawsuit, alleging staff subjected them to prolonged sexual abuse.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/wolverine-human-services-targeted-in-another-lawsuit-alleging-staff-sexually-abused-minors.html",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 14:22:47 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Supreme Court protects pesticides from some health claims in key Roundup case",
       "desc": "The Supreme Court on Thursday restricted Americans’ ability to sue pesticide makers over alleged health harms stemming from their products. In a 7-2 ruling, the court held that some claims that pestic",
       "link": "https://thehill.com/policy/energy-environment/5940264-supreme-pesticides-roundup-bayer-maha/",
@@ -485,15 +521,6 @@
       "date": "Jun 24, 2026",
       "rawDate": "Wed, 24 Jun 2026 21:39:58 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Zippy Pizza will reopen ‘as soon as we can’ after truck drives through wall",
-      "desc": "A truck crashed into Zippy Pizza before opening hours, causing major damage and forcing the restaurant to close for repairs.",
-      "link": "https://www.mlive.com/news/flint/2026/06/zippy-pizza-will-reopen-as-soon-as-we-can-after-truck-drives-through-wall.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 21:35:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -702,15 +729,6 @@
       "rawDate": "Tue, 23 Jun 2026 22:42:54 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Last American hantavirus cruise ship passenger released from quarantine",
-      "desc": "As of Sunday, all U.S. citizens on a cruise ship that was the center of a deadly hantavirus outbreak are out of quarantine, according to the Centers for Disease Control and Prevention (CDC). The 18 Am",
-      "link": "https://thehill.com/policy/healthcare/5937145-hondius-cruise-hantavirus-quarantine/",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 22:17:49 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Only 24 percent say Iran war was worth the cost: Survey",

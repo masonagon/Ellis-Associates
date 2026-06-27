@@ -1,6 +1,51 @@
 {
-  "generated": "2026-06-27T15:09:37.840Z",
+  "generated": "2026-06-27T17:00:21.691Z",
   "news": [
+    {
+      "title": "Thanks, Mamdani: 4 reasons the &#039;dirtbag left&#039; will keep winning",
+      "desc": "Like lemmings marching off a cliff, a certain percentage of voters, most especially the disenfranchised, will always vote for the candidate promising a “chicken in every pot.”",
+      "link": "https://thehill.com/opinion/campaign/5942938-socialist-uprising-democrat-party/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vance defends Iran strategy amid peace negotiations: ‘America wins either way’",
+      "desc": "Vice President Vance stood by the administration’s Iran strategy Friday, saying the U.S. will come out on top regardless of whether peace negotiations with Tehran produce a deal. “If we make the final",
+      "link": "https://thehill.com/homenews/administration/5943855-jd-vance-iran-strategy-strikes-peace-negotiations/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 15:55:02 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "CBC pushes back on Slotkin&#039;s call for &#039;new leadership&#039; among Democrats",
+      "desc": "The Congressional Black Caucus (CBC) expressed its support for House Minority Leader Hakeem Jeffries (D-N.Y.) on Friday evening in response to Sen. Elissa Slotkin’s (D-Mich.) call for “new leadership”",
+      "link": "https://thehill.com/homenews/house/5943837-congressional-black-caucus-elissa-slotkin-democratic-party-rhetoric/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 15:32:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why Michigan flood victims had no insurance when record waters destroyed their homes",
+      "desc": "The Federal Emergency Management Agency hasn't developed flood plain maps — which determine who must buy flood insurance — for many less-populated areas.",
+      "link": "https://www.mlive.com/news/2026/06/why-michigan-flood-victims-had-no-insurance-when-record-waters-destroyed-their-homes.html",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 15:13:34 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Delta College expands CMU transfer options with latest transfer pact",
+      "desc": "The new agreement for organizational leadership creates a new route to a bachelor's degree, with final coursework completed online so students don't need to relocate or pause their careers, college of",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/delta-college-expands-cmu-transfer-options-with-latest-transfer-pact.html",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 15:03:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "Man arrested after placing backpack with ‘suspicious device’ in Paw Paw dumpster",
       "desc": "The police department said there is no danger to the public at this time.",
@@ -119,15 +164,6 @@
       "tag": "technology"
     },
     {
-      "title": "House Democrats brace for headaches with growing left wing",
-      "desc": "The election of a trio of far-left candidates in New York’s primaries could create headaches for House Democratic leadership determined to stage a unified and effective pushback to President Trump sho",
-      "link": "https://thehill.com/homenews/house/5943192-democratic-primaries-new-york-house/",
-      "date": "Jun 27, 2026",
-      "rawDate": "Sat, 27 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Jackson College offers free professional development workshop for K-12 teachers",
       "desc": "Teachers who attend can earn six state continuing education clock hours.",
       "link": "https://www.mlive.com/news/jackson/2026/06/jackson-college-offers-free-professional-development-workshop-for-k-12-teachers.html",
@@ -146,22 +182,13 @@
       "tag": "safety"
     },
     {
-      "title": "Trump rips former national security adviser after guilty plea: &quot;Hopefully, he will be dealt with harshly!&quot;",
-      "desc": "President Trump slammed his former national security adviser after he pleaded guilty on Friday to improperly retaining sensitive materials from his time in the White House.  “John Bolton, a very dumb,",
-      "link": "https://thehill.com/homenews/administration/5943575-trump-rips-former-national-security-adviser-after-guilty-plea-hopefully-he-will-be-dealt-with-harshly/",
-      "date": "Jun 27, 2026",
-      "rawDate": "Sat, 27 Jun 2026 02:46:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Federal government permits release of Anthropic’s Mythos model to select companies",
       "desc": "Anthropic can now share its most advanced AI model with over 100 companies after the U.S. government lifted its export ban on Claude Mythos 5 on Friday, a spokesperson for Anthropic confirmed in a sta",
       "link": "https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/",
       "date": "Jun 27, 2026",
       "rawDate": "Sat, 27 Jun 2026 01:46:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
@@ -677,15 +704,6 @@
       "tag": "health"
     },
     {
-      "title": "West Michigan town tables data center vote after residents demand stricter rules",
-      "desc": "Solon Township officials on Wednesday didn't vote on a draft of a data center-regulating zoning ordinance amendment while a potentially massive project looms on the horizon.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/west-michigan-town-tables-data-center-vote-after-residents-demand-stricter-rules.html",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 02:22:44 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump requests $88 billion from Congress for Iran war, Ebola outbreak and farmers aid",
       "desc": "The White House on Wednesday officially asked Congress for $87.6 billion in supplemental funding to pay for the Iran war, curtail the ongoing Ebola outbreak and provide aid to U.S. farmers, among othe",
       "link": "https://thehill.com/policy/defense/5939421-congress-asked-iran-war-ebola/",
@@ -729,15 +747,6 @@
       "rawDate": "Wed, 24 Jun 2026 20:25:37 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "6 in 10 say military action against Iran not worth it: Survey",
-      "desc": "The signing of a memorandum of understanding last week between the U.S. and Iran signaled a positive step toward negotiations to end this months-long conflict. A majority of Americans in a new survey ",
-      "link": "https://thehill.com/policy/defense/5939073-iran-conflict-memorandum-poll/",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 20:08:04 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Judge blocks subpoenas in transgender care investigation at NY hospitals",
@@ -826,15 +835,6 @@
       "link": "https://www.mlive.com/news/2026/06/superintendent-says-lakeville-had-no-evidence-of-teachers-alleged-sex-crimes.html",
       "date": "Jun 23, 2026",
       "rawDate": "Tue, 23 Jun 2026 20:33:34 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Washtenaw ISD extends application deadline to fill school board vacancy",
-      "desc": "The intermediate school district is still on the hunt for prospective candidates to fill a seat left open by Sarena Shivers. As of early this week, one application had been submitted.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/washtenaw-isd-extends-application-deadline-to-fill-school-board-vacancy.html",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 18:18:55 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

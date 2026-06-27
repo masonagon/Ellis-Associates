@@ -1,6 +1,33 @@
 {
-  "generated": "2026-06-27T11:22:05.670Z",
+  "generated": "2026-06-27T13:15:32.262Z",
   "news": [
+    {
+      "title": "This Michigan community is quietly reimagining life after a private college’s closure",
+      "desc": "No single idea or preference has seemed to emerge among esidents and leaders in Adrian on the future of Siena Heights University's campus before a review committee issues a request for proposals later",
+      "link": "https://www.mlive.com/news/jackson/2026/06/this-michigan-community-is-quietly-reimagining-life-after-a-private-colleges-closure.html",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 12:30:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "What it costs to survive in Michigan and where folks are struggling most",
+      "desc": "New ALICE data reveals 40% of state households struggle to afford basics like housing, food and healthcare, far exceeding the 13% living in poverty.",
+      "link": "https://www.mlive.com/news/2026/06/what-it-costs-to-survive-in-michigan-and-where-folks-are-struggling-most.html",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 12:25:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iran launches retaliatory strikes on Bahrain after latest US attacks",
+      "desc": "Iran launched a drone attack against Bahrain early Saturday, hours after the U.S. military carried out strikes on Iranian military sites. Bahrain, which hosts the U.S. Navy’s Fifth Fleet, said it was ",
+      "link": "https://thehill.com/policy/international/5943693-iran-retaliatory-strikes-bahrain-us-attacks/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 12:17:52 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Summer has brought small uptick in violence, sparking concern, Washtenaw County sheriff says",
       "desc": "Although overall amount of crime has wavered slightly, some areas are seeing an uptick in assaults.",
@@ -542,15 +569,6 @@
       "tag": "safety"
     },
     {
-      "title": "These 11 restaurants to compete in Burger Battle 10 at Detroit’s Eastern Market",
-      "desc": "Restaurants from Detroit, Westland, Warren, Hazel Park, Dearborn and more will compete.",
-      "link": "https://www.mlive.com/business/2026/06/these-11-restaurants-to-compete-in-burger-battle-10-at-detroits-eastern-market.html",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 15:17:41 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Supreme Court protects pesticides from some health claims in key Roundup case",
       "desc": "The Supreme Court on Thursday restricted Americans’ ability to sue pesticide makers over alleged health harms stemming from their products. In a 7-2 ruling, the court held that some claims that pestic",
       "link": "https://thehill.com/policy/energy-environment/5940264-supreme-pesticides-roundup-bayer-maha/",
@@ -695,15 +713,6 @@
       "tag": "safety"
     },
     {
-      "title": "State lawmaker seeks $1.2 million to replace Jackson’s 65-year-old fire training tower",
-      "desc": "State Rep. Kathy Schmaltz has requested $1.2 million in state funding to replace the Jackson Fire Department’s deteriorating training tower, a facility that serves as a regional training hub for first",
-      "link": "https://www.mlive.com/news/jackson/2026/06/state-lawmaker-seeks-12-million-to-replace-jacksons-65-year-old-fire-training-tower.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 19:44:45 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Judge blocks subpoenas in transgender care investigation at NY hospitals",
       "desc": "A federal judge on Wednesday blocked Justice Department (DOJ) prosecutors from accessing the medical records of transgender individuals treated at New York City hospitals.  U.S. District Judge Katheri",
       "link": "https://thehill.com/policy/healthcare/5938824-court-ruling-subpoenas-transgender-care-new-york-hospitals-block/",
@@ -776,15 +785,6 @@
       "tag": "health"
     },
     {
-      "title": "Army commander in Europe, Africa set to depart Pentagon",
-      "desc": "Gen. Chris Donahue, commander of U.S. Army Europe and Africa, submitted his paperwork to retire after a little over a year in his position, a Pentagon official told The Hill.   The Pentagon official s",
-      "link": "https://thehill.com/homenews/administration/5937459-donahue-exit-army-europe/",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 02:43:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "‘Always been a JPS kid’: Jackson school board taps 2026 grad to fill vacancy",
       "desc": "Tyshon Gray, 18, replaces Cheryl Simonetti, who resigned this spring; the school board election this fall will decide the future of the seat long term.",
       "link": "https://www.mlive.com/news/jackson/2026/06/always-been-a-jps-kid-jackson-school-board-taps-2026-grad-to-fill-vacancy.html",
@@ -808,15 +808,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/washtenaw-isd-extends-application-deadline-to-fill-school-board-vacancy.html",
       "date": "Jun 23, 2026",
       "rawDate": "Tue, 23 Jun 2026 18:18:55 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Washtenaw Community College hosts fifth annual veterans festival with gaming, resources",
-      "desc": "The Ann Arbor event runs from 10 a.m. to 2 p.m. near the college’s main entrance. Pre-registration is required through the event registration page.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/washtenaw-community-college-hosts-fifth-annual-veterans-festival-with-gaming-resources.html",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 18:12:31 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

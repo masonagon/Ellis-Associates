@@ -1,6 +1,33 @@
 {
-  "generated": "2026-06-26T23:57:12.668Z",
+  "generated": "2026-06-27T02:53:10.168Z",
   "news": [
+    {
+      "title": "Trump rips former national security adviser after guilty plea: &quot;Hopefully, he will be dealt with harshly!&quot;",
+      "desc": "President Trump slammed his former national security adviser after he pleaded guilty on Friday to improperly retaining sensitive materials from his time in the White House.  “John Bolton, a very dumb,",
+      "link": "https://thehill.com/homenews/administration/5943575-trump-rips-former-national-security-adviser-after-guilty-plea-hopefully-he-will-be-dealt-with-harshly/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 02:46:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Federal government permits release of Anthropic’s Mythos model to select companies",
+      "desc": "Anthropic can now share its most advanced AI model with over 100 companies after the U.S. government lifted its export ban on Claude Mythos 5 on Friday, a spokesperson for Anthropic confirmed in a sta",
+      "link": "https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 01:46:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "desc": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 00:26:14 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled",
       "desc": "With discourse about Christopher Nolan’s epic already raging, first viewer reactions will come from mainstream press, not content creators. Some critics are gloating over this break from the norm.",
@@ -43,17 +70,8 @@
       "link": "https://thehill.com/policy/technology/5942670-kids-act-opposed-by-safety-groups/",
       "date": "Jun 26, 2026",
       "rawDate": "Fri, 26 Jun 2026 20:12:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "DACA renewal delays under Trump spark lawsuit",
-      "desc": "Deferred Action for Childhood Arrivals (DACA) recipients sued the federal government Thursday, citing significant delays in renewals of their status under the Trump administration. Those brought to th",
-      "link": "https://thehill.com/homenews/administration/5943072-daca-renewals-face-delays/",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 19:35:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Michigan mother charged with starving 4-year-old son to death bound over for trial",
@@ -137,15 +155,6 @@
       "tag": "safety"
     },
     {
-      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "desc": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 17:05:40 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Police arrest suspect in 2 burglaries of Saginaw Township collectibles store",
       "desc": "The suspect, who has an address in Carrollton Township, turned 37 just three days before the second burglary of Curveball Collectibles.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/police-arrest-suspect-in-2-burglaries-of-saginaw-township-collectibles-store.html",
@@ -153,15 +162,6 @@
       "rawDate": "Fri, 26 Jun 2026 16:58:29 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
-      "desc": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special operations officer.",
-      "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 16:30:33 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Construction of new Kalamazoo school will start in July",

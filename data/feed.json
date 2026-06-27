@@ -1,6 +1,60 @@
 {
-  "generated": "2026-06-27T09:24:15.945Z",
+  "generated": "2026-06-27T11:22:05.670Z",
   "news": [
+    {
+      "title": "Summer has brought small uptick in violence, sparking concern, Washtenaw County sheriff says",
+      "desc": "Although overall amount of crime has wavered slightly, some areas are seeing an uptick in assaults.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/summer-has-brought-small-uptick-in-violence-sparking-concern-washtenaw-county-sheriff-says.html",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 11:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Does DeleteMe Actually Get Your Info off the Internet? I Tried It",
+      "desc": "Everyone is sick of spam calls and creeper sites that show weirdos where you live—but can any service solve it?",
+      "link": "https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 10:31:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
+      "desc": "Plus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The 37 Best Outdoor Deals From the REI 4th of July Sale",
+      "desc": "Whether you need a tent, sleeping pad, rain jacket, or new pack, REI’s Independence Day sale has something for everyone.",
+      "link": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 10:06:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "House Democrats brace for headaches with growing left wing",
+      "desc": "The election of a trio of far-left candidates in New York’s primaries could create headaches for House Democratic leadership determined to stage a unified and effective pushback to President Trump sho",
+      "link": "https://thehill.com/homenews/house/5943192-democratic-primaries-new-york-house/",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jackson College offers free professional development workshop for K-12 teachers",
+      "desc": "Teachers who attend can earn six state continuing education clock hours.",
+      "link": "https://www.mlive.com/news/jackson/2026/06/jackson-college-offers-free-professional-development-workshop-for-k-12-teachers.html",
+      "date": "Jun 27, 2026",
+      "rawDate": "Sat, 27 Jun 2026 10:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "Motorcyclist dies after collision with SUV in Saginaw Township",
       "desc": "Officers with the Saginaw Township Police Department responded at 6:31 p.m. Friday, June 26, to the intersection of Tittabawassee and North Center roads for a crash involving a 2016 Harley Davidson an",
@@ -333,15 +387,6 @@
       "rawDate": "Thu, 25 Jun 2026 23:55:22 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Crash injures boy on bicycle at Grandville crosswalk",
-      "desc": "A bicyclist was hospitalized with non-life-threatening injuries after being struck by a vehicle at a Grandville crosswalk.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/crash-injures-boy-on-bicycle-at-grandville-crosswalk.html",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 23:36:53 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Flu cases at Texas base hit 275 as services again require recruits to get shots",
@@ -772,15 +817,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/washtenaw-community-college-hosts-fifth-annual-veterans-festival-with-gaming-resources.html",
       "date": "Jun 23, 2026",
       "rawDate": "Tue, 23 Jun 2026 18:12:31 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Ann Arbor school board officials hosting informal community chat Wednesday",
-      "desc": "A few tustees will meet at Traverwood Library, offering a no-agenda conversation. The gathering comes a week after the board adopted next year's budget.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbor-school-board-officials-hosting-informal-community-chat-wednesday.html",
-      "date": "Jun 23, 2026",
-      "rawDate": "Tue, 23 Jun 2026 17:18:39 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

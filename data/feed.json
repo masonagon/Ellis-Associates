@@ -1,8 +1,80 @@
 {
-  "generated": "2026-06-29T05:24:26.611Z",
+  "generated": "2026-06-29T10:26:22.243Z",
   "news": [
     {
-      "title": "AOC calls to &#039;break up&#039; big tech companies amid price hikes",
+      "title": "GOP lawmakers fear Trump is out of sync with voters on the economy",
+      "desc": "GOP lawmakers fear that President Trump is out of sync with them and many American voters on the economy, the biggest issue of the 2024 midterm elections. Trump’s refusal to sign the 21st Century ROAD",
+      "link": "https://thehill.com/homenews/senate/5943260-gop-lawmakers-trump-economy/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Memo: Trump, GOP race the clock to bring inflation down before midterms",
+      "desc": "President Trump and his Republican colleagues are in a race against time, hoping that inflation can be bent downward in time to revive their chances in November’s midterm elections. Seen through one l",
+      "link": "https://thehill.com/homenews/administration/5943334-trump-republicans-inflation-gas-prices-midterms/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "This week on The Hill: House aims to move priorities after conservative SAVE America Act rebellion",
+      "desc": "Speaker Mike Johnson (R-La.) has an ambitious legislative agenda this week, but it’s unclear whether he can move those priorities forward as a group of conservative hard-liners demand action on the Sa",
+      "link": "https://thehill.com/homenews/house/5943234-house-ndaa-appropriations-save-america-act-reconciliation/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change",
+      "desc": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.",
+      "link": "https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "I Found Jesus at a Drone Show",
+      "desc": "Drone shows are the new fireworks—and possibly a new kind of religion. I traveled to Texas to be converted.",
+      "link": "https://www.wired.com/story/i-found-jesus-at-a-drone-show/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Bipartisan show of support for Bill Maher at Kennedy Center, as Trump looms large",
+      "desc": "It's an award fully focused on comedy, yet some serious drama surrounded the Kennedy Center as Bill Maher received this year's Mark Twain Prize. But the controversy about the name and future of the Ke",
+      "link": "https://thehill.com/blogs/in-the-know/5945053-bill-maher-kennedy-center-controversy/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 09:41:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory",
+      "desc": "Nine major suspected cargo thefts happened at Tesla’s Nevada battery factory in January alone, according to sheriff’s records obtained by WIRED.",
+      "link": "https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "desc": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+      "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 08:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ocasio-Cortez calls to &#039;break up&#039; big tech companies amid price hikes",
       "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said that large technology companies want to have \"totally unchecked power\" and should be split up. “The problem that we have is that these big companies, they t",
       "link": "https://thehill.com/policy/technology/5944920-ocasio-cortez-tech-companies-split/",
       "date": "Jun 29, 2026",
@@ -11,7 +83,7 @@
       "tag": "technology"
     },
     {
-      "title": "AOC calls to &#8216;break up&#8217; big tech companies amid price hikes",
+      "title": "Ocasio-Cortez calls to &#8216;break up&#8217; big tech companies amid price hikes",
       "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said that large technology companies want to have &#8220;totally unchecked power&#8221; and should be split up. “The problem that we have is that these big compa",
       "link": "https://thehill.com/policy/technology/5944920-ocasio-cortez-tech-companies-split/",
       "date": "Jun 29, 2026",
@@ -74,15 +146,6 @@
       "tag": "safety"
     },
     {
-      "title": "GOP governor urges Trump to reconsider Haiti TPS after Supreme Court decision",
-      "desc": "Ohio Gov. Mike DeWine (R) on Sunday called on the Trump administration to reconsider pushing for the elimination of temporary protected status (TPS) for Haitian migrants following the Supreme Court's ",
-      "link": "https://thehill.com/homenews/state-watch/5944404-ohio-gov-dewine-trump-tps/",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 20:23:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "What to know about a judge barring Trump’s proof-of-citizenship requirement for voting",
       "desc": "Trump's executive order would have required documentary proof of citizenship to register to vote and prevented the counting of mail ballots received after Election Day.",
       "link": "https://www.mlive.com/politics/2026/06/what-to-know-about-a-judge-barring-trumps-proof-of-citizenship-requirement-for-voting.html",
@@ -101,15 +164,6 @@
       "tag": "safety"
     },
     {
-      "title": "Johnson to send housing bill to Trump on Monday",
-      "desc": "House Speaker Mike Johnson (R-La.) on Sunday said he will send the bipartisan housing bill passed overwhelmingly by both chambers of Congress to President Trump on Monday. Trump last week said he woul",
-      "link": "https://thehill.com/homenews/administration/5944621-bipartisan-housing-bill-congress/",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 18:34:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Girl drowns in Detroit River",
       "desc": "The incident happened Saturday night at Maheras-Gentry Park.",
       "link": "https://www.mlive.com/news/detroit/2026/06/girl-drowns-in-detroit-river.html",
@@ -124,8 +178,8 @@
       "link": "https://thehill.com/homenews/house/5944582-gop-rep-mark-harris-iran-war-funding/",
       "date": "Jun 28, 2026",
       "rawDate": "Sun, 28 Jun 2026 18:14:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "GOP Sen. Cassidy seeks to explain RFK Jr. confirmation vote for Health and Human Services",
@@ -362,15 +416,6 @@
       "tag": "technology"
     },
     {
-      "title": "The 37 Best Outdoor Deals From the REI 4th of July Sale",
-      "desc": "Whether you need a tent, sleeping pad, rain jacket, or new pack, REI’s Independence Day sale has something for everyone.",
-      "link": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
-      "date": "Jun 27, 2026",
-      "rawDate": "Sat, 27 Jun 2026 10:06:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Jackson College offers free professional development workshop for K-12 teachers",
       "desc": "Teachers who attend can earn six state continuing education clock hours.",
       "link": "https://www.mlive.com/news/jackson/2026/06/jackson-college-offers-free-professional-development-workshop-for-k-12-teachers.html",
@@ -395,15 +440,6 @@
       "date": "Jun 27, 2026",
       "rawDate": "Sat, 27 Jun 2026 01:46:00 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-      "desc": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "date": "Jun 27, 2026",
-      "rawDate": "Sat, 27 Jun 2026 00:26:14 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {

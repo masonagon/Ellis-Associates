@@ -1,32 +1,158 @@
 {
-  "generated": "2026-06-29T14:43:16.385Z",
+  "generated": "2026-06-29T17:29:41.535Z",
   "news": [
     {
-      "title": "Live updates: Supreme Court rules on mail ballot timing; Trump says Iran wants to meet",
-      "desc": "The Supreme Court rules Monday morning that mail-in ballots may be counted even if they arrive after Election Day, handing a blow to President Trump's efforts to crack down on mail-in voting. But Trum",
+      "title": "Cassidy calls out Trump&#039;s staff over SAVE America Act insult",
+      "desc": "Sen. Bill Cassidy (R-La.) punched back at President Trump on Monday after Trump called out Cassidy and other GOP senators for not supporting the SAVE America Act, even though Cassidy has consistently ",
+      "link": "https://thehill.com/homenews/senate/5945912-cassidy-calls-out-trump-staff/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 17:25:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Top House Republican says Pentagon misled him about troop reduction plans in Europe",
+      "desc": "House Armed Services Committee Chair Mike Rogers (R-Ala.) believes the Pentagon’s policy chief misled him about a plan to reduce by thousands the number of U.S. soldiers in Romania. Rogers accused Elb",
+      "link": "https://thehill.com/policy/defense/5945906-pentagon-troop-reduction-romania/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 17:19:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House Democrat: Idea of Democratic Party going hard left &#039;frankly overblown&#039;",
+      "desc": "Rep. Glenn Ivey (D-Md.) said Friday that talk about the Democratic Party taking a hard-left turn is “frankly overblown,” comments that came after notable wins by democratic socialists in Democratic pr",
+      "link": "https://thehill.com/homenews/campaign/5945883-democratic-socialists-rising-influence/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 17:14:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Parking at Eastern Michigan: New rates to know on Ypsilanti campus",
+      "desc": "The Ypsilanti university's regents approved the new parking rates during its Thursday, June 25 meeting.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/parking-at-eastern-michigan-new-rates-to-know-on-ypsilanti-campus.html",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 17:01:04 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "New York&#039;s no-bid contracting scandal: A quarter-billion dollars, awarded by race",
+      "desc": "New York City's Racial Equity Plan, released by Mayor Zohran Mamdani, commits the city to using racial classifications to guide over 200 goals across nearly every agency, including setting aside hundr",
+      "link": "https://thehill.com/opinion/civil-rights/5944989-nyc-racial-equity-plan/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump says SAVE America Act more important than ever following SCOTUS ruling on mail-in ballots",
+      "desc": "President Trump on Monday slammed the Supreme Court ruling allowing states to count mail-in ballots received after Election Day, arguing it is now even more important for Congress to pass the Safeguar",
+      "link": "https://thehill.com/homenews/administration/5945634-trump-supreme-court-mail-ballots-ruling/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 16:36:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police release names of Saginaw man, woman killed in collision with utility pole",
+      "desc": "Investigators have identified Brandon P. Vanwormer-Shepard, 29, and Aaliyah Olivarez, 24, as the persons who suffered fatal injuries in a single-vehicle crash that occurred about 11:45 p.m. on Sunday,",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/police-release-names-of-saginaw-man-woman-killed-in-collision-with-utility-pole.html",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 16:30:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Missing Wayne County woman found deceased in Bay County",
+      "desc": "The 87-year-old woman, who was experiencing memory issues, was found Sunday morning in her car that had crashed into a rural ditch.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/missing-wayne-county-woman-found-deceased-in-bay-county.html",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 16:24:08 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democratic Project 2029 calls for child social media ban, strict kids safety rules on tech",
+      "desc": "Democrats working on a policy blueprint ahead of the 2028 presidential election released their kids online safety proposal Monday, calling for a ban on social media for kids under 16 and stronger priv",
+      "link": "https://thehill.com/policy/technology/5945564-democratic-project-2029-calls-for-child-social-media-ban-strict-kids-safety-rules-on-tech/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 16:22:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Supreme Court rules for Trump in expanding power over agencies, against him on mail ballots",
+      "desc": "The Supreme Court ruled Monday morning that mail-in ballots may be counted even if they arrive after Election Day, handing a blow to President Trump's efforts to crack down on mail-in voting. But Trum",
       "link": "https://thehill.com/homenews/administration/5944338-iran-us-meeting-qatar-assets/",
       "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:43:03 +0000",
+      "rawDate": "Mon, 29 Jun 2026 16:15:12 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Leavitt: Midterms a choice &#039;between communism and common sense&#039;",
-      "desc": "White House press secretary Karoline Leavitt on Monday described the upcoming midterm elections as a choice \"between communism and common sense\" following a string of recent progressive wins in Democr",
-      "link": "https://thehill.com/homenews/administration/5945500-progressive-candidates-democratic-primaries/",
+      "title": "Bay County man charged with enticing teens to send him nude images, threatening to rape one",
+      "desc": "Jacob Wibirt, 30, is accused of using multiple fake social media profiles to stalk and harass two teenage girls after coercing them into sending illicit imagery over a seven-month period.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/bay-county-man-charged-with-enticing-teens-to-send-him-nude-images-threatening-to-rape-one.html",
       "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:34:49 +0000",
+      "rawDate": "Mon, 29 Jun 2026 16:15:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "State rep, LGBTQ advocate compete in Aug. 4 primary for West Michigan Senate seat",
+      "desc": "State Rep. Carol Glanville, D-Walker, faces LGBTQ advocate Rickie Kreuzer in the Democratic primary for Michigan’s 30th District state Senate seat, which spans part of Kent and Ottawa counties.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/06/state-rep-lgbtq-advocate-compete-in-aug-4-primary-for-west-michigan-senate-seat.html",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 16:10:15 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Poll finds bipartisan support for tighter AI regulation",
+      "desc": "There is bipartisan support for tighter regulation on AI, according to a new poll. In the Artificial Intelligence Policy Institute (AIPI) poll, 68 percent of respondents said they would be in favor of",
+      "link": "https://thehill.com/policy/technology/5945724-bipartisan-support-ai-regulation/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 16:03:44 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Haberman: Vance&#039;s opposition to Iran war cost him with Trump",
-      "desc": "New York Times White House correspondent Maggie Haberman on Sunday said Vice President Vance’s opposition to the war was unique among President Trump's advisers, and ultimately hurt his relationship w",
-      "link": "https://thehill.com/homenews/administration/5945314-haberman-vance-trump-relationship-iran-war/",
+      "title": "US Steel 1 year later: A bet on allies that is paying off",
+      "desc": "Nippon Steel's acquisition of U.S. Steel has been successful so far, with workers receiving promised bonuses, investment flowing into American mills, U.S. Steel remaining headquartered in Pittsburgh, ",
+      "link": "https://thehill.com/opinion/international/5944756-us-steel-investment-success/",
       "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:32:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Mon, 29 Jun 2026 16:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Police searching for mother linked to dead baby found at Electric Forest",
+      "desc": "Investigators are concerned for the health of the mother and are vetting the thousands of Electric Forest festivalgoers as they determine whether the death was criminal.",
+      "link": "https://www.mlive.com/news/2026/06/police-searching-for-mother-linked-to-dead-baby-found-at-electric-forest.html",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 15:49:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Eastern Michigan approves lowest tuition increase in more than a decade",
+      "desc": "The Ypsilanti university's tuition increase was approved at the June 25 regents meeting.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/eastern-michigan-approves-lowest-tuition-increase-in-more-than-a-decade.html",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 15:32:05 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Supreme Court sends geofence warrant case back to lower court",
+      "desc": "The Supreme Court ruled on Monday that an individual has a reasonable expectation of privacy when it comes to their cellphone location data, tossing out a ruling against a man convicted in a Virginia ",
+      "link": "https://thehill.com/regulation/court-battles/5945441-supreme-court-geofence-warrant-fourth-amendment/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 14:57:54 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Jared Kushner, Steve Witkoff headed to Qatar for Iran talks",
@@ -34,26 +160,8 @@
       "link": "https://thehill.com/homenews/administration/5945491-iran-peace-talks-kushner-witkoff/",
       "date": "Jun 29, 2026",
       "rawDate": "Mon, 29 Jun 2026 14:30:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Blanche test is a red alert moment for the rule of law",
-      "desc": "Todd Blanche is everything an attorney general should not be.",
-      "link": "https://thehill.com/opinion/criminal-justice/5942785-blanche-doj-corruption-rule-law/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Supreme Court halts Trump&#039;s firing of Fed&#039;s Lisa Cook",
-      "desc": "The Supreme Court blocked President Trump’s firing of Federal Reserve board member Lisa Cook on Monday in a 5-4 vote, ruling she can remain on the job as her legal challenge moves forward.   Trump bec",
-      "link": "https://thehill.com/regulation/court-battles/5935213-supreme-court-federal-reserve-lisa-cook-trump/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:26:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Hillsdale College student dominates para shooting at national championships",
@@ -74,24 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "Supreme Court strengthens Trump’s firing power at independent agencies",
-      "desc": "The Supreme Court strengthened President Trump’s control over independent agencies in a 6-3 decision along ideological lines, overruling 91 years of precedent that allowed Congress to insulate certain",
-      "link": "https://thehill.com/regulation/court-battles/5935135-supreme-court-trump-independent-agencies-firing-protections/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:22:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Stephen A. Smith: Democrats will likely win midterms, but they &#039;will mess up anything&#039;",
-      "desc": "Stephen A. Smith predicted that Democrats have a 75 percent chance of winning the midterm elections and gaining control of at least one of the chambers of Congress — but that they could still blow it.",
-      "link": "https://thehill.com/blogs/in-the-know/5945419-stephen-smith-democrats-republicans/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:17:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Family argument turns physical, leads to stabbing in Southwest Michigan",
       "desc": "A 56-year-old was put in jail for stabbing a 23-year-old family member Sunday evening.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/06/family-argument-turns-physical-leads-to-stabbing-in-southwest-michigan.html",
@@ -99,15 +189,6 @@
       "rawDate": "Mon, 29 Jun 2026 14:13:14 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Supreme Court rules states can accept mail ballots after Election Day",
-      "desc": "The Supreme Court on Monday ruled 5-4 that states can accept mail ballots after polls close in federal races, rejecting the Republican National Committee’s (RNC) push to defeat the practice. More than",
-      "link": "https://thehill.com/regulation/court-battles/5943129-supreme-court-mail-ballots-election-day-rnc/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 14:08:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Howell High School students raise over $291,000 for local animal shelter",
@@ -119,24 +200,6 @@
       "tag": "education"
     },
     {
-      "title": "Supreme Court declines to review Texas voter assistance restrictions, in blow to civil rights groups",
-      "desc": "The Supreme Court on Monday declined to review a pair of challenges to Texas’s ban on paid voter assistance, leaving in place an appeals court ruling that upheld the restrictions.   The decision is a ",
-      "link": "https://thehill.com/regulation/court-battles/5945375-texas-voter-aid-ban-upheld/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 13:53:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Supreme Court agrees to take up part of Arizona proof-of-citizenship voter law dispute",
-      "desc": "The Supreme Court agreed Monday to take up a long-running dispute regarding a pair of Arizona voting laws that require Americans to provide proof of U.S. citizenship to vote. The justices granted the ",
-      "link": "https://thehill.com/regulation/court-battles/5945359-supreme-court-arizona-voting-laws/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 13:51:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Fox News apologizes for airing O&#039;Leary claims about data centers",
       "desc": "Fox News issued an apology over the weekend for airing unsubstantiated claims made by businessman and television personality Kevin O’Leary alleging opponents of a data center project he is involved in",
       "link": "https://thehill.com/homenews/media/5945270-fox-news-apologizes-kevin-oleary-china-data-center-claims/",
@@ -144,15 +207,6 @@
       "rawDate": "Mon, 29 Jun 2026 13:44:47 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Fox News apologizes for airing O&#8217;Leary claims about data centers",
-      "desc": "Fox News issued an apology over the weekend for airing unsubstantiated claims made by businessman and television personality Kevin O’Leary alleging opponents of a data center project he is involved in",
-      "link": "https://thehill.com/homenews/media/5945270-fox-news-apologizes-kevin-oleary-china-data-center-claims/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 13:44:47 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Serial killer Jeffrey Willis returns to Muskegon court seeking new trials: What to know",
@@ -515,15 +569,6 @@
       "tag": "safety"
     },
     {
-      "title": "Felon arrested after police seize 39 guns, meth in search near Lansing",
-      "desc": "The suspect was booked and is being held at the Delta County Jail.",
-      "link": "https://www.mlive.com/news/jackson/2026/06/felon-arrested-after-police-seize-39-guns-meth-in-search-near-lansing.html",
-      "date": "Jun 27, 2026",
-      "rawDate": "Sat, 27 Jun 2026 13:55:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "This Michigan community is quietly reimagining life after a private college’s closure",
       "desc": "No single idea or preference has seemed to emerge among esidents and leaders in Adrian on the future of Siena Heights University's campus before a review committee issues a request for proposals later",
       "link": "https://www.mlive.com/news/jackson/2026/06/this-michigan-community-is-quietly-reimagining-life-after-a-private-colleges-closure.html",
@@ -551,15 +596,6 @@
       "tag": "safety"
     },
     {
-      "title": "Summer has brought small uptick in violence, sparking concern, Washtenaw County sheriff says",
-      "desc": "Although overall amount of crime has wavered slightly, some areas are seeing an uptick in assaults.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/summer-has-brought-small-uptick-in-violence-sparking-concern-washtenaw-county-sheriff-says.html",
-      "date": "Jun 27, 2026",
-      "rawDate": "Sat, 27 Jun 2026 11:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Jackson College offers free professional development workshop for K-12 teachers",
       "desc": "Teachers who attend can earn six state continuing education clock hours.",
       "link": "https://www.mlive.com/news/jackson/2026/06/jackson-college-offers-free-professional-development-workshop-for-k-12-teachers.html",
@@ -567,15 +603,6 @@
       "rawDate": "Sat, 27 Jun 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Motorcyclist dies after collision with SUV in Saginaw Township",
-      "desc": "Officers with the Saginaw Township Police Department responded at 6:31 p.m. Friday, June 26, to the intersection of Tittabawassee and North Center roads for a crash involving a 2016 Harley Davidson an",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/motorcyclist-dies-after-collision-with-suv-in-saginaw-township.html",
-      "date": "Jun 27, 2026",
-      "rawDate": "Sat, 27 Jun 2026 04:31:10 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Federal government permits release of Anthropic’s Mythos model to select companies",
@@ -603,15 +630,6 @@
       "rawDate": "Fri, 26 Jun 2026 20:12:37 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Michigan mother charged with starving 4-year-old son to death bound over for trial",
-      "desc": "After three days of testimony spread across five months, a Bay City mother accused of starving her son with special needs to death is a step closer to having her case heard by a jury.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/michigan-mother-charged-with-starving-4-year-old-son-to-death-bound-over-for-trial.html",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 19:32:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "CDC elevates Ebola response to highest level",
@@ -767,15 +785,6 @@
       "tag": "education"
     },
     {
-      "title": "House panel advances $1.1 trillion defense spending bill with Department of War name change",
-      "desc": "The House Appropriations Committee has advanced its $1.1 trillion defense spending bill for fiscal 2027, legislation that includes a provision to rename the Defense Department as the Department of War",
-      "link": "https://thehill.com/policy/defense/5941484-defense-spending-bill-department-war/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 21:01:45 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Judge blocks new professional student loan restrictions",
       "desc": "A federal judge in Washington, D.C., on Wednesday temporarily blocked the Education Department from imposing new loan borrowing limits on graduate and professional students one week before they were s",
       "link": "https://thehill.com/homenews/education/5941405-federal-judge-blocks-loan-limits/",
@@ -864,51 +873,6 @@
       "rawDate": "Thu, 25 Jun 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "New consumer advocacy group launches to highlight crypto risks",
-      "desc": "A new cryptocurrency-focused consumer advocacy group launched Tuesday, aiming to highlight the risks associated with the industry and educate Americans about them. The non-profit known as Crypto Watch",
-      "link": "https://thehill.com/policy/technology/5939157-new-consumer-advocacy-group-launches-to-highlight-crypto-risks/",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "YouTube settles case brought by minor alleging harm",
-      "desc": "Google's YouTube reached a settlement with a minor who sued multiple social media platforms for allegedly impacting his mental health, lawyers announced Tuesday. The settlement, the terms of which are",
-      "link": "https://thehill.com/policy/technology/5938058-social-media-lawsuit-youtube/",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 20:29:13 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Pallone, top Energy Democrat, backs AI data center moratorium",
-      "desc": "The top Democrat on the House Energy and Commerce Committee is backing a moratorium on AI data centers — a show of support from a mainstream, influential Democrat for a policy that has thus far been e",
-      "link": "https://thehill.com/policy/energy-environment/5939124-ai-data-center-moratorium/",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 20:25:37 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Ann Arbor college extends roofers union training partnership to 2035",
-      "desc": "Washtenaw Community College and the United Union of Roofers, Waterproofers and Allied Workers signed a 10-year extension of their training partnership Wednesday, ensuring the union’s National Instruct",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/ann-arbor-college-extends-roofers-union-training-partnership-to-2035.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 17:21:17 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Saginaw County schools sound the alarm about a looming budget crisis that could disrupt the school year",
-      "desc": "All 12 public school superintendents in the county have issued a joint letter warning parents and community members that state lawmakers are once again missing critical funding deadlines.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/saginaw-county-schools-sound-the-alarm-about-a-looming-budget-crisis-that-could-disrupt-the-school-year.html",
-      "date": "Jun 24, 2026",
-      "rawDate": "Wed, 24 Jun 2026 15:33:28 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     }
   ]
 }

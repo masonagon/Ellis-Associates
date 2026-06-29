@@ -1,6 +1,24 @@
 {
-  "generated": "2026-06-29T22:48:47.839Z",
+  "generated": "2026-06-29T23:56:03.421Z",
   "news": [
+    {
+      "title": "Ex-attorney, 62, takes plea deal in fatal U.P. bar shooting",
+      "desc": "Evan Dixon pleaded no contest to second-degree murder. He returns to court this August.",
+      "link": "https://www.mlive.com/news/2026/06/ex-attorney-62-takes-plea-deal-in-fatal-up-bar-shooting.html",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 23:47:26 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "House passes kids online safety package despite watchdog pushback",
+      "desc": "The House passed a sprawling package of kids online safety bills Monday night, marking the first time a version of the landmark Kids Online Safety Act (KOSA) made it out of the lower chamber. The Hous",
+      "link": "https://thehill.com/homenews/house/5946180-house-passes-kids-online-safety-package/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 23:12:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "SCOTUS spares Lisa Cook",
       "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Supreme Court halts Trump’s firing of Lisa Cook The ",
@@ -66,7 +84,7 @@
     },
     {
       "title": "Trump calls housing bill &#039;a yawn,&#039; concedes SAVE America Act unlikely to pass",
-      "desc": "President Trump referred to a bipartisan housing bill as a “yawn” on Monday, arguing that the Safeguard American Voter Eligibility (SAVE America) Act is more important.  \"It's so unimportant compared ",
+      "desc": "President Trump referred to a bipartisan housing bill as a “yawn” on Monday, arguing that the Safeguard American Voter Eligibility (SAVE America) Act is more important.  \"It's so unimportant compared ",
       "link": "https://thehill.com/homenews/administration/5946313-trump-housing-bill-save-america-act/",
       "date": "Jun 29, 2026",
       "rawDate": "Mon, 29 Jun 2026 20:42:00 +0000",
@@ -101,15 +119,6 @@
       "tag": "associations"
     },
     {
-      "title": "Colorado high court tosses redistricting ballot measures",
-      "desc": "The Colorado Supreme Court on Monday tossed out two cases involving new redistricting ballot measures that would have favored Democrats.  One ruling said the redistricting measure violated the state c",
-      "link": "https://thehill.com/homenews/state-watch/5946166-democrats-redistricting-measures-rejected/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 20:29:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Police investigating fatal crash on Bristol Road in Flint Township",
       "desc": "Police are investigating a deadly crash that shut down Bristol Road at Bristolwood Drive in Flint Township.",
       "link": "https://www.mlive.com/news/flint/2026/06/police-investigating-fatal-crash-on-bristol-road-in-flint-township.html",
@@ -124,8 +133,8 @@
       "link": "https://thehill.com/policy/healthcare/5946249-pharmacy-benefit-managers-lobbying-offensive/",
       "date": "Jun 29, 2026",
       "rawDate": "Mon, 29 Jun 2026 20:22:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "4 Democrats compete for 11th District Congressional seat in Michigan",
@@ -143,15 +152,6 @@
       "date": "Jun 29, 2026",
       "rawDate": "Mon, 29 Jun 2026 19:59:25 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Johnson: Blocking House agenda over SAVE America Act is &#039;self-defeating&#039;",
-      "desc": "Speaker Mike Johnson (R-La.) warned his Republican colleagues on Monday that it would be a “self-defeating” strategy to hold up legislative action in the House over their demands surrounding the Safeg",
-      "link": "https://thehill.com/homenews/house/5946184-save-america-act-johnson-republicans/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 19:56:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -531,15 +531,6 @@
       "rawDate": "Sun, 28 Jun 2026 19:26:55 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Newborn baby found dead in camping area at Electric Forest",
-      "desc": "The body of a newborn baby was found in a portable bathroom at Electric Forest on Sunday morning, Michigan State Police said.",
-      "link": "https://www.mlive.com/news/muskegon/2026/06/newborn-baby-found-dead-in-camping-area-at-electric-forest.html",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 18:56:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "House Republican says Congress &#039;probably&#039; will have to use reconciliation for Iran war funding",

@@ -1,6 +1,42 @@
 {
-  "generated": "2026-06-29T00:10:01.248Z",
+  "generated": "2026-06-29T05:24:26.611Z",
   "news": [
+    {
+      "title": "AOC calls to &#039;break up&#039; big tech companies amid price hikes",
+      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said that large technology companies want to have \"totally unchecked power\" and should be split up. “The problem that we have is that these big companies, they t",
+      "link": "https://thehill.com/policy/technology/5944920-ocasio-cortez-tech-companies-split/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 01:59:46 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "AOC calls to &#8216;break up&#8217; big tech companies amid price hikes",
+      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said that large technology companies want to have &#8220;totally unchecked power&#8221; and should be split up. “The problem that we have is that these big compa",
+      "link": "https://thehill.com/policy/technology/5944920-ocasio-cortez-tech-companies-split/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 01:59:46 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Coons released from hospital after car crash caused minor injuries",
+      "desc": "Sen. Chris Coons (D-Del.) has been released from the hospital after a car crash that resulted in minor injuries, he said Sunday. “Earlier today, a Delaware driver experienced a medical incident and co",
+      "link": "https://thehill.com/homenews/senate/5944894-coons-hospitalized-minor-injuries/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 00:43:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US, Iran agree to &#039;stand down for now,&#039; resume peace talks: Official",
+      "desc": "The U.S. and Iran have agreed to “stand down for now” and allow ships to pass through the Strait of Hormuz after renewed fighting in the past few days, a U.S. official told The Hill on Sunday. “Techni",
+      "link": "https://thehill.com/policy/defense/5944869-us-iran-stand-down-talks/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 00:11:52 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Tillis has &#039;positive predisposition&#039; toward Blanche&#039;s confirmation",
       "desc": "Republican Sen. Thom Tillis (N.C.) said Sunday he has a “positive predisposition” toward acting Attorney General Todd Blanche, whom President Trump has nominated for the full-time post. “I'm going to ",
@@ -92,40 +128,13 @@
       "tag": "government"
     },
     {
-      "title": "Tillis: Passing SAVE America Act before midterms is an &#039;impossible task&#039;",
-      "desc": "Sen. Thom Tillis (R-N.C.) on Sunday said ensuring the Safeguard American Voter Eligibility (SAVE America) Act gets passed in the Senate is an \"impossible task.\" \"You know, I have people telling me I n",
-      "link": "https://thehill.com/homenews/senate/5944561-tillis-save-act-impossible/",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 17:45:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Murphy backs $25 minimum wage bill",
-      "desc": "Sen. Chris Murphy (D-Conn.) on Sunday touted his minimum wage bill that aims to gradually increase worker pay from $7.25 to $25 hourly.  “I think our party should have bigger ideas. I put one on the t",
-      "link": "https://thehill.com/homenews/senate/5944554-chris-murphy-minimum-wage/",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 17:35:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrat says he &#039;wouldn&#039;t be surprised&#039; if Trump does not sign bipartisan housing bill",
-      "desc": "Democratic Rep. Suhas Subramanyam (Va.) on Sunday criticized President Trump for canceling the signing of a bipartisan housing bill.  “I don't know with this president, because he's said that he doesn",
-      "link": "https://thehill.com/homenews/house/5944555-bipartisan-housing-bill-criticized/",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 17:23:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "GOP Sen. Cassidy seeks to explain RFK Jr. confirmation vote for Health and Human Services",
       "desc": "Sen. Bill Cassidy (R-La.) in a Sunday interview sought to explain his controversial vote to confirm Health and Human Services (HHS) Secretary Robert F. Kennedy Jr., as he said Kennedy is dug in on his",
       "link": "https://thehill.com/policy/healthcare/5944508-kennedy-vaccine-views-controversy/",
       "date": "Jun 28, 2026",
       "rawDate": "Sun, 28 Jun 2026 17:15:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Social Security&#039;s insolvency is No. 1 issue, says Sen. Bill Cassidy",
@@ -246,7 +255,7 @@
     },
     {
       "title": "US, Iran test each other’s red lines in new fighting",
-      "desc": "The delicate ceasefire between the U.S. and Iran was put to the test on Friday when the U.S. military reopened strikes against the Middle Eastern nation over an alleged infringement of the agreement’s",
+      "desc": "The delicate ceasefire between the U.S. and Iran was put to the test on Friday when the U.S. military reopened strikes against the Middle Eastern nation over an alleged infringement of the agreement��",
       "link": "https://thehill.com/policy/international/5943931-us-iran-test-each-others-red-lines-in-new-fighting/",
       "date": "Jun 27, 2026",
       "rawDate": "Sat, 27 Jun 2026 17:06:42 +0000",
@@ -718,15 +727,6 @@
       "link": "https://thehill.com/policy/international/5940918-us-military-aid-venezuela-earthquakes/",
       "date": "Jun 25, 2026",
       "rawDate": "Thu, 25 Jun 2026 17:21:46 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Lockheed Martin strikes $35B deal to restock depleted THAAD interceptor stockpile",
-      "desc": "The Pentagon has awarded Lockheed Martin a seven-year contract worth up to $35 billion to churn out hundreds of Terminal High Altitude Area Defense (THAAD) interceptors a year, in an effort to repleni",
-      "link": "https://thehill.com/policy/defense/5940861-lockheed-martin-thaad-contract/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 17:01:28 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

@@ -1,6 +1,42 @@
 {
-  "generated": "2026-06-29T21:18:26.630Z",
+  "generated": "2026-06-29T22:48:47.839Z",
   "news": [
+    {
+      "title": "SCOTUS spares Lisa Cook",
+      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Supreme Court halts Trump’s firing of Lisa Cook The ",
+      "link": "https://thehill.com/newsletters/business-economy/5946475-scotus-spares-lisa-cook/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 22:20:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "desc": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 21:49:26 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Dozens of states sue Trump administration over &#039;frail&#039; Medicaid work requirement exemption",
+      "desc": "A coalition of 25 states and the District of Columbia is suing the Trump administration over a new rule implementing Medicaid work requirement exemptions for medically frail people.  According to the ",
+      "link": "https://thehill.com/policy/healthcare/5946392-lawsuit-trump-medicaid-exemptions/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 21:25:44 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Pulte renews mortgage fraud allegations against Lisa Cook after Supreme Court ruling",
+      "desc": "Bill Pulte, the director of the Federal Housing Finance Agency (FHFA), reiterated his allegations of mortgage fraud against Federal Reserve board member Lisa Cook on Monday, after the Supreme Court bl",
+      "link": "https://thehill.com/regulation/court-battles/5946344-cook-denies-wrongdoing-mortgage-fraud/",
+      "date": "Jun 29, 2026",
+      "rawDate": "Mon, 29 Jun 2026 21:25:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Justice Thomas makes appearance on Capitol Hill amid major rulings",
       "desc": "Supreme Court Justice Clarence Thomas was spotted Monday on Capitol Hill, amid the high court releasing a slate of opinions before it heads on recess for the summer. While Thomas, surrounded by a Metr",
@@ -119,24 +155,6 @@
       "tag": "government"
     },
     {
-      "title": "Trump renews call to force Lisa Cook from Federal Reserve board after Supreme Court decision",
-      "desc": "President Trump doubled down on his push to remove Lisa Cook from the Federal Reserve board after a divided Supreme Court blocked him from doing so immediately Monday.  In a post on Truth Social, Trum",
-      "link": "https://thehill.com/homenews/administration/5946056-trump-supreme-court-lisa-cook/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 19:52:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Trump calls everything but SAVE America Act &#039;a big yawn&#039; after Supreme Court upholds mail ballots",
-      "desc": "The Supreme Court ruled Monday morning that mail-in ballots may be counted even if they arrive after Election Day, handing a blow to President Trump's efforts to crack down on mail-in voting. Speaking",
-      "link": "https://thehill.com/homenews/administration/5944338-iran-us-meeting-qatar-assets/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 19:41:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Candidates for 4th Ward Ann Arbor council seat discuss top priorities",
       "desc": "Aidan Sova and Dave Zeglen are competing for an open 4th Ward Ann Arbor City Council seat in the Aug. 4 Democratic primary.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/candidates-for-4th-ward-ann-arbor-council-seat-discuss-top-priorities.html",
@@ -160,17 +178,8 @@
       "link": "https://thehill.com/homenews/house/5946120-rep-jahana-hayes-hospitalized-blood-clot/",
       "date": "Jun 29, 2026",
       "rawDate": "Mon, 29 Jun 2026 19:19:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ex-FTC commissioner calls on Congress to reassert authority after SCOTUS decision",
-      "desc": "Former Federal Trade Commissioner Rebecca Slaughter on Monday called on Congress to reassert its authority as a coequal branch of government after the Supreme Court ruled that President Trump had the ",
-      "link": "https://thehill.com/regulation/court-battles/5945806-rebecca-slaughter-congress-supreme-court-ruling/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 19:18:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Jackson County judge dismisses case against mother charged in infant co-sleeping death",
@@ -180,15 +189,6 @@
       "rawDate": "Mon, 29 Jun 2026 19:17:29 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "JetBlue flight reports striking drone while landing at JFK",
-      "desc": "A JetBlue Airways pilot reported striking a drone while approaching John F. Kennedy International Airport (JFK) on Monday morning, according to the Federal Aviation Administration (FAA). The pilot of ",
-      "link": "https://thehill.com/policy/transportation/5946049-drone-jetblue-jfk-las-vegas-flight/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 18:59:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Genesee County indigent health millage heads to November ballot",
@@ -605,24 +605,6 @@
       "tag": "technology"
     },
     {
-      "title": "This Is the Most Detailed Image Yet of the Milky Way's Center",
-      "desc": "The Euclid space telescope's stunning photo of our galaxy's “crowded heart” captures more than 60 million stars.",
-      "link": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Why this judge said no to the Trump administration obtaining Michigan voter data",
-      "desc": "A federal court ruled Michigan need not release voters' personal data, rejecting Trump administration efforts to access it.",
-      "link": "https://www.mlive.com/news/2026/06/why-this-judge-said-no-to-the-trump-administration-obtaining-michigan-voter-data.html",
-      "date": "Jun 28, 2026",
-      "rawDate": "Sun, 28 Jun 2026 00:12:59 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Centcom: US conducts additional strikes on Iran",
       "desc": "U.S. Central Command (Centcom) said on Saturday that U.S. forces conducted additional strikes against multiple Iranian targets in response to an attack against a Panama-flagged tanker near the Strait ",
       "link": "https://thehill.com/policy/defense/5944131-centcom-us-conducts-additional-strikes-on-iran/",
@@ -889,15 +871,6 @@
       "link": "https://thehill.com/policy/healthcare/5940594-trump-seeks-14b-ebola-funding/",
       "date": "Jun 25, 2026",
       "rawDate": "Thu, 25 Jun 2026 16:34:29 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Supreme Court protects pesticides from some health claims in key Roundup case",
-      "desc": "The Supreme Court on Thursday restricted Americans’ ability to sue pesticide makers over alleged health harms stemming from their products. In a 7-2 ruling, the court held that some claims that pestic",
-      "link": "https://thehill.com/policy/energy-environment/5940264-supreme-pesticides-roundup-bayer-maha/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 14:11:34 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

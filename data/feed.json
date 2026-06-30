@@ -1,6 +1,105 @@
 {
-  "generated": "2026-06-30T16:17:28.328Z",
+  "generated": "2026-06-30T18:29:53.021Z",
   "news": [
+    {
+      "title": "House conservatives block rule advancing NDAA over SAVE America Act",
+      "desc": "A band of conservative hardliners blocked a procedural rule that would have teed up debate and final votes on a slate of legislation Tuesday, dealing a huge blow to Speaker Mike Johnson (R-La.) as he ",
+      "link": "https://thehill.com/homenews/house/5947441-save-america-act-stalled/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 18:18:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "FDA allows Zyn pouches to be marketed as less harmful than cigarettes",
+      "desc": "The Food and Drug Administration (FDA) will allow Zyn nicotine pouches to be marketed as less harmful to human health than cigarettes, the agency said Tuesday.  The ‌agency allowed the company to mark",
+      "link": "https://thehill.com/policy/healthcare/5947959-fda-zyn-pouches-marketing-less-harmful-than-cigarettes/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 18:09:03 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Former VP of Southwest Michigan First returns as CEO after 12 years at Lakeshore Advantage",
+      "desc": "Jennifer Owens returns to lead Southwest Michigan First after driving major economic growth at Lakeshore Advantage.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/06/former-vp-of-southwest-michigan-first-returns-as-ceo-after-12-years-at-lakeshore-advantage.html",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 18:06:46 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Bill Maher: Democrats could lose midterms because of &#039;really crazy&#039; New York candidates",
+      "desc": "Bill Maher recently predicted that Democrats \"couldn't help but win\" in this year's midterm elections, but now he says a trio of \"really crazy\" far-left candidates winning their New York primaries cou",
+      "link": "https://thehill.com/blogs/in-the-know/5947912-bill-maher-democratic-socialists-new-york/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 17:58:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats spar with Vought over USAID cuts, federal grants in tense hearing",
+      "desc": "White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration’s spending cuts to foreign aid and grant approvals. The heated",
+      "link": "https://thehill.com/homenews/house/5947905-vought-clashes-democrats-spending-cuts/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 17:51:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Putin admits no agreement was reached with Trump to end Ukraine war",
+      "desc": "Russian President Vladimir Putin has admitted that there was no deal with President Trump to end Moscow’s more than four-year-long war in Ukraine, after Kremlin officials insisted such an agreement wa",
+      "link": "https://thehill.com/policy/international/5947915-vladimir-putin-donald-trump-ukraine-war-agreement/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 17:49:11 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump says Supreme Court loss on birthright citizenship &#039;too bad,&#039; calls on Congress to act",
+      "desc": "President Trump suggested Tuesday that he would use Congress to end birthright citizenship after the Supreme Court ruled against his order to restrict the policy. “The Supreme Court upheld Birthright ",
+      "link": "https://thehill.com/homenews/administration/5947829-donald-trump-reaction-supreme-court-birthright-citizenship/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 17:24:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Long-time Ann Arbor principal to take reins at Washtenaw International middle, high schools",
+      "desc": "Ché Carter, who's long been a principal in Ann Arbor schools, has been tapped to head the Ypsilanti-based Washtenaw International High School and Middle Academy starting in August.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/long-time-ann-arbor-principal-to-take-reins-at-washtenaw-international-middle-high-schools.html",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 17:17:04 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Strait of Hormuz shipping traffic rebounds after strikes between Iran, US",
+      "desc": "Shipping traffic through the Strait of Hormuz began to rebound Monday following weekend tit-for-tat strikes between the U.S. and Iran. Reports from the maritime tracking firm Kpler said 40 vessels pas",
+      "link": "https://thehill.com/policy/international/5947633-strait-of-hormuz-shipping-traffic-rebound-weekend-strikes/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 17:01:39 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "‘Freedom will come to an end today, sir.’ Man gets 7-15 years in prison for drunkenly killing Bay County mother of 4",
+      "desc": "Kelvin Trask had a blood-alcohol level of 0.157 and was traveling 87 mph when he struck Polly Ann Christensen's minivan in her driveway, killing her and critically injuring her son Mason.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/freedom-will-come-to-an-end-today-sir-man-gets-7-15-years-in-prison-for-drunkenly-killing-bay-county-mother-of-4.html",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 17:01:29 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Platner campaign &#039;being blown completely out of the water&#039; by outside GOP spending: Memo",
+      "desc": "A Monday memo from Graham Platner’s campaign shows the Democratic nominee for Senate in Maine is battling an onslaught of outside GOP spending. The memo, obtained by Politico, says Republicans spent $",
+      "link": "https://thehill.com/homenews/campaign/5947680-graham-platner-gop-outspending-democrats-maine-senate-race/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 16:33:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Hillsdale College professors release guide to literary analysis",
       "desc": "Drawing on more than 50 years of combined teaching experience, the authors set out to create an accessible resource that works across multiple educational levels.",
@@ -18,15 +117,6 @@
       "rawDate": "Tue, 30 Jun 2026 16:01:01 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Speaker Johnson: Birthright citizenship ruling subjects US to &#039;serious challenges&#039;",
-      "desc": "House Speaker Mike Johnson (R-La.) responded to the Supreme Court’s Tuesday ruling that found the Trump administration’s efforts to place new restrictions on birthright citizenship are unconstitutiona",
-      "link": "https://thehill.com/homenews/house/5947594-mike-johnson-supreme-court-birthright-citizenship-ruling/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:54:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Motorcyclist dies in Flint Township crash with speeding vehicle",
@@ -47,24 +137,6 @@
       "tag": "safety"
     },
     {
-      "title": "Rove says Iran may create &#039;problems&#039; before midterms to hurt Trump",
-      "desc": "Republican strategist Karl Rove on Monday said Iran could create \"problems\" to hurt President Trump ahead of November's midterm elections. \"The Iranians are not dumb,\" Rove told Fox News's Paul Gigot.",
-      "link": "https://thehill.com/homenews/administration/5947317-karl-rove-iran-war-donald-trump-gop-midterms/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:43:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House set to vote as GOP leaders hope NDAA, SAVE America Act gambit unlocks floor",
-      "desc": "House Republican leaders on Tuesday afternoon will find out whether their plan to tie the annual defense authorization bill to a voter ID bill pushed by President Trump will be enough to satisfy hardl",
-      "link": "https://thehill.com/homenews/house/5947533-ndaa-save-america-act-house-vote/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:40:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "One of five men charged in Hanover armed robbery pleads guilty to lesser charge",
       "desc": "The men were arrested after being identified as suspects in a pair of robberies where 10 guns were stolen in what appeared to be a pair of planned robberies that occurred on Feb. 23 and Feb. 24 in Han",
       "link": "https://www.mlive.com/news/jackson/2026/06/one-of-five-men-charged-in-hanover-armed-robbery-pleads-guilty-to-lesser-charge.html",
@@ -72,42 +144,6 @@
       "rawDate": "Tue, 30 Jun 2026 15:36:31 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Lisa Cook&#039;s lawyer fires back at Bill Pulte: &#039;They won&#039;t succeed&#039;",
-      "desc": "The attorney for Federal Reserve board member Lisa Cook on Monday said President Trump and Federal Housing Finance Agency (FHFA) Director Bill Pulte “won’t succeed” in pursuing her prosecution on alle",
-      "link": "https://thehill.com/regulation/court-battles/5947378-trump-pulte-threats-lisa-cook-lawyer/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:33:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Lisa Cook&#8217;s lawyer fires back at Bill Pulte: &#8216;They won&#8217;t succeed&#8217;",
-      "desc": "The attorney for Federal Reserve board member Lisa Cook on Monday said President Trump and Federal Housing Finance Agency (FHFA) Director Bill Pulte “won’t succeed” in pursuing her prosecution on alle",
-      "link": "https://thehill.com/regulation/court-battles/5947378-trump-pulte-threats-lisa-cook-lawyer/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:33:58 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "The SAVE Act won’t save Republicans",
-      "desc": "President Trump has repeatedly claimed that the 2020 election was stolen, despite evidence to the contrary, and has now warned that Republicans will never win another election unless the SAVE Act is p",
-      "link": "https://thehill.com/opinion/white-house/5946767-trump-voter-fraud-claims-save/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "READ: Supreme Court&#039;s opinion on birthright citizenship, including Thomas dissent",
-      "desc": "The Supreme Court on Tuesday struck down President Trump’s birthright citizenship restrictions, ruling that his banner immigration policy is unconstitutional. The majority ruling, written by Chief Jus",
-      "link": "https://thehill.com/regulation/court-battles/5947428-read-supreme-court-birthright-citizenship-ruling-thomas-dissent/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:24:28 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Cult-favorite hot chicken chain to open more than 50 restaurants in overseas market",
@@ -128,24 +164,6 @@
       "tag": "health"
     },
     {
-      "title": "Trump using $500M no-bid contract to build his White House ballroom",
-      "desc": "The White House gave a no-bid contract worth up to $500 million for the construction of the East Wing ballroom, The Washington Post reported. The contract for the project was routed through the Execut",
-      "link": "https://thehill.com/homenews/administration/5947494-white-house-no-bid-contract/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:12:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Women hold the key to the 2026 elections — especially &#039;skippers&#039; and &#039;flippers&#039;",
-      "desc": "Donald Trump has a serious problem when it comes to women’s votes.",
-      "link": "https://thehill.com/opinion/campaign/5946073-democrats-midterm-skippers-flippers/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Central Michigan University raises tuition rates across all levels",
       "desc": "The Board of Trustees approved increases ranging from $20 to $33 per credit hour for the upcoming academic year.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/central-michigan-university-raises-tuition-rates-across-all-levels.html",
@@ -153,24 +171,6 @@
       "rawDate": "Tue, 30 Jun 2026 15:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Supreme Court rules Trump&#039;s birthright citizenship restrictions are unconstitutional",
-      "desc": "The Supreme Court shut the door on President Trump’s birthright citizenship restrictions on Tuesday, ruling that his banner immigration policy is unconstitutional. Chief Justice John Roberts, joined b",
-      "link": "https://thehill.com/regulation/court-battles/5935548-birthright-citizenship-supreme-court-trump-14th-amendment/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 14:39:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New Jersey Republican Tom Kean reveals depression diagnosis after returning from lengthy absence",
-      "desc": "Rep. Thomas Kean Jr. (R-N.J.) said on Tuesday that his lengthy and previously unexplained absence from the House was due to being treated for depression, publicly elaborating on the for the first time",
-      "link": "https://thehill.com/homenews/house/5947103-rep-tom-kean-returns-capitol-absence/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 14:38:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Killed at his favorite park: How the Kalamazoo community is reclaiming it for him",
@@ -461,15 +461,6 @@
       "tag": "education"
     },
     {
-      "title": "Police release names of Saginaw man, woman killed in collision with utility pole",
-      "desc": "Investigators have identified Brandon P. Vanwormer-Shepard, 29, and Aaliyah Olivarez, 24, as the persons who suffered fatal injuries in a single-vehicle crash that occurred about 11:45 p.m. on Sunday,",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/police-release-names-of-saginaw-man-woman-killed-in-collision-with-utility-pole.html",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 16:30:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Democratic Project 2029 calls for child social media ban, strict kids safety rules on tech",
       "desc": "Democrats working on a policy blueprint ahead of the 2028 presidential election released their kids online safety proposal Monday, calling for a ban on social media for kids under 16 and stronger priv",
       "link": "https://thehill.com/policy/technology/5945564-democratic-project-2029-calls-for-child-social-media-ban-strict-kids-safety-rules-on-tech/",
@@ -549,15 +540,6 @@
       "rawDate": "Mon, 29 Jun 2026 13:44:47 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "3 Democrats compete in Michigan 29th District primary Aug. 4",
-      "desc": "Ivan Diaz, Abbie Groff-Blaszak and Phil Skaggs are running in the Democratic primary for the state Senate seat representing southern Kent County.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/3-democrats-compete-in-michigan-29th-district-primary-aug-4.html",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 12:15:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
@@ -794,15 +776,6 @@
       "tag": "health"
     },
     {
-      "title": "US military stumped by UFO sightings over bases: Ex-defense official",
-      "desc": "He estimates hundreds of incidents occur annually that baffle military leaders.",
-      "link": "https://thehill.com/policy/defense/5942796-pentagon-us-bases-ufo-sightings/",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 18:05:36 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "OpenAI slow rolls new model release at &#039;request&#039; of government",
       "desc": "OpenAI announced Friday it will preview its newest GPT-5.6 model series with only a group of partners before a public rollout, at the behest of the U.S. government. The ChatGPT maker said it previewed",
       "link": "https://thehill.com/policy/technology/5942770-openai-staggers-gpt-56/",
@@ -846,33 +819,6 @@
       "rawDate": "Fri, 26 Jun 2026 14:04:50 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "KVCC is shutting down its brewing program after 12 years",
-      "desc": "KVCC will close its brewing program due to low enrollment and industry decline, though its brewpub and related events will continue.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/06/kvcc-is-shutting-down-its-brewing-program-after-12-years.html",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 12:32:26 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "GOP lawmakers divided over Hegseth’s ouster of top Army commander",
-      "desc": "Republican lawmakers are divided over Defense Secretary Pete Hegseth’s ouster of Gen. Chris Donahue, the commander of U.S. Army Europe and Africa. Some GOP lawmakers hammered Hegseth, who served in th",
-      "link": "https://thehill.com/policy/defense/5941693-hegseth-ousts-general-donahue-pentagon/",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Sanders releases trove of internal HHS emails showing RFK Jr. pressured CDC over vaccine messaging",
-      "desc": "Sen. Bernie Sanders (I-Vt.) on Thursday released a tranche of Health and Human Services (HHS) emails that appear to show HHS Secretary Robert F. Kennedy Jr. pressuring the Centers for Disease Control ",
-      "link": "https://thehill.com/policy/healthcare/5941650-sanders-releases-hhs-emails/",
-      "date": "Jun 25, 2026",
-      "rawDate": "Thu, 25 Jun 2026 23:55:22 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Apple raises prices on Macs and iPads",

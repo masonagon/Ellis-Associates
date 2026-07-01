@@ -1,6 +1,60 @@
 {
-  "generated": "2026-06-30T22:10:30.694Z",
+  "generated": "2026-07-01T00:00:03.651Z",
   "news": [
+    {
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "desc": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 23:23:04 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Police look to ID people of interest in Flint fatal stabbing as 1-year anniversary looms",
+      "desc": "Newly released surveillance video shows two men near the scene where Taswala Williams was found severely beaten and stabbed in the early morning hours of July 1, 2025.",
+      "link": "https://www.mlive.com/news/flint/2026/06/police-look-to-id-people-of-interest-in-flint-fatal-stabbing-as-1-year-anniversary-looms.html",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 23:07:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "White House upends AI model release",
+      "desc": "{beacon} View Online Technology Technology &#8202; The Big Story  White House halts new AI models, spurring confusion The Trump administration's request for OpenAI to delay the release of its new mode",
+      "link": "https://thehill.com/newsletters/technology/5948632-white-house-upends-ai-model-release/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 22:55:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lara Trump: Not enough &#039;reasonable&#039; Democrats like Fetterman to save party from socialist takeover",
+      "desc": "President Trump’s daughter-in-law, Lara Trump, said not enough “reasonable” Democrats like Sen. John Fetterman (D-Pa.) are there to save the Democratic Party from a takeover by socialists. “Look at wh",
+      "link": "https://thehill.com/homenews/campaign/5948561-lara-trump-warns-socialist-democrats/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 22:18:21 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump administration cancels millions of dollars in teen pregnancy prevention grants",
+      "desc": "The Trump administration has terminated millions of dollars in teen pregnancy prevention grants that the Department of Health and Human Services (HHS) said were no longer aligned with the agency’s pri",
+      "link": "https://thehill.com/policy/healthcare/5948545-hhs-terminates-millions-teen-pregnancy-funding/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 22:15:59 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "House sinks Tlaib&#039;s Lebanon war powers resolution",
+      "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  House sinks Tlaib's Lebanon war powers resolution",
+      "link": "https://thehill.com/newsletters/defense-national-security/5948508-house-rejects-tlaib-lebanon-resolution/",
+      "date": "Jun 30, 2026",
+      "rawDate": "Tue, 30 Jun 2026 22:11:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "AI, deepfakes used in 12 percent of successful scams: Survey",
       "desc": "A new report released on Tuesday found that 12 percent of successful scams last year involved artificial intelligence or deepfakes.  The analysis, which was conducted jointly by Gallup and the Stop Sc",
@@ -74,15 +128,6 @@
       "tag": "technology"
     },
     {
-      "title": "Mike Lawler, Jamie Raskin get into shouting match at sanctuary cities hearing",
-      "desc": "A House hearing on sanctuary city policies erupted into a chaos on Tuesday after a screaming match over immigration policies between Rep. Mike Lawler (R-N.Y.) and Rep. Jamie Raskin (D-Md.). The confro",
-      "link": "https://thehill.com/homenews/house/5948389-mike-lawler-jamie-raskin-get-into-shouting-match-at-sanctuary-cities-hearing/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 21:01:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Early searches for woman tied to baby’s death at Electric Forest come up empty",
       "desc": "Police are still trying to determine if the baby died at the festival or was stillborn, and whether the death was criminal.",
       "link": "https://www.mlive.com/news/muskegon/2026/06/early-searches-for-woman-tied-to-babys-death-at-electric-forest-come-up-empty.html",
@@ -92,57 +137,12 @@
       "tag": "safety"
     },
     {
-      "title": "Live results: Bennet, Weiser duke it out in  Democratic primary for Colorado governor",
-      "desc": "Sen. Michael Bennet and state Attorney General Phil Weiser are duking it out in a Tuesday Democratic primary to succeed term-limited Gov. Jared Polis. (D). Bennet holds key endorsements from state Dem",
-      "link": "https://thehill.com/homenews/campaign/5928897-live-results-colorado-governor-primary/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Hickenlooper faces progressive challenger in Colorado Senate primary",
-      "desc": "Colorado Sen. John Hickenlooper (D) is competing in a Tuesday primary as he seeks a second term in Capitol Hill. State Sen. Julie Gonzales is mounting a primary challenge from the left against the Sen",
-      "link": "https://thehill.com/homenews/campaign/5928894-live-results-colorado-senate-primary/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Colorado voters head to polls for House primaries",
-      "desc": "Voters in Colorado are at the polls Tuesday for House primary elections. All eyes are on the battleground 8th Congressional District where Republican Rep. Gabe Evans will learn his Democratic opponent",
-      "link": "https://thehill.com/homenews/campaign/5928899-live-results-colorado-house-primaries/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House cuts work short for second week as rebels freeze floor",
-      "desc": "House Republican leaders are set to send the chamber home early for the second week in a row amid mounting tensions after GOP rebels on Tuesday again blocked action on the House floor. Leaders will se",
-      "link": "https://thehill.com/homenews/house/5948378-house-early-recess-defense-bill/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 20:50:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Ex-White House lawyer says Trump should leave office ‘as quickly as possible’",
       "desc": "He said that the “hatred” Trump shows for immigrants and Democrats is “shocking.”",
       "link": "https://www.mlive.com/politics/2026/06/ex-white-house-lawyer-says-trump-should-be-removed-from-office-as-quickly-as-possible.html",
       "date": "Jun 30, 2026",
       "rawDate": "Tue, 30 Jun 2026 20:40:51 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Supreme Court hands Trump a loss on birthright citizenship; House to leave early for recess as GOP blocks NDAA",
-      "desc": "The Supreme Court on Tuesday ruled that President Trump could not fundamentally change how people can become American citizens, upholding the guarantees of the 14th Amendment and handing Trump a defea",
-      "link": "https://thehill.com/homenews/administration/5946516-live-updates-trump-iran-supreme-court-birthright-citizenship/",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 20:38:13 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -434,15 +434,6 @@
       "tag": "safety"
     },
     {
-      "title": "Ex-attorney, 62, takes plea deal in fatal U.P. bar shooting",
-      "desc": "Evan Dixon pleaded no contest to second-degree murder. He returns to court this August.",
-      "link": "https://www.mlive.com/news/2026/06/ex-attorney-62-takes-plea-deal-in-fatal-up-bar-shooting.html",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 23:47:26 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
       "desc": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
       "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
@@ -650,15 +641,6 @@
       "tag": "technology"
     },
     {
-      "title": "The Anti-Data-Center Movement Is Reshaping Michigan Politics",
-      "desc": "Climate activist Will Lawrence cofounded the Sunrise Movement. Now, he has shifted his focus in his attempt to compete for a swing-district seat by calling for a data center moratorium.",
-      "link": "https://www.wired.com/story/anti-data-center-movement-reshaping-michigan-politics/",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Ocasio-Cortez calls to &#039;break up&#039; big tech companies amid price hikes",
       "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said that large technology companies want to have \"totally unchecked power\" and should be split up. “The problem that we have is that these big companies, they t",
       "link": "https://thehill.com/policy/technology/5944920-ocasio-cortez-tech-companies-split/",
@@ -837,15 +819,6 @@
       "rawDate": "Fri, 26 Jun 2026 20:12:37 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "CDC elevates Ebola response to highest level",
-      "desc": "The Centers for Disease Control and Prevention (CDC) is raising its Ebola response to the highest level, agency officials said Friday, as the outbreak continues to spread uncontrolled across Congo and",
-      "link": "https://thehill.com/policy/healthcare/5943031-cdc-raises-ebola-response/",
-      "date": "Jun 26, 2026",
-      "rawDate": "Fri, 26 Jun 2026 19:16:22 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "OpenAI slow rolls new model release at &#039;request&#039; of government",

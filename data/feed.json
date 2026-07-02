@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-02T20:56:39.882Z",
+  "generated": "2026-07-02T22:03:38.365Z",
   "news": [
+    {
+      "title": "Resigned Ann Arbor school board official seeking return 2 months after departure",
+      "desc": "Don Wilkerson says the personal challenges that prompted his May resignation have stabilized, and he's running to reclaim his seat as five board positions open this fall.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-seeking-return-2-months-after-departure.html",
+      "date": "Jul 2, 2026",
+      "rawDate": "Thu, 02 Jul 2026 21:30:49 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Nearly 1 in 3 Americans would vote for a democratic socialist: Poll",
+      "desc": "A little under 1 in 3 Americans say they would be willing to back a democratic socialist in an election, according to a new poll. In The Economist/YouGov poll, 29 percent of respondents said they woul",
+      "link": "https://thehill.com/homenews/campaign/5952147-poll-democratic-socialist-support/",
+      "date": "Jul 2, 2026",
+      "rawDate": "Thu, 02 Jul 2026 21:30:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House Democrats accuse Trump&#039;s Freedom 250 of misleading donors, potential wire fraud",
+      "desc": "Democrats on the House Natural Resources Committee released an interim report on Thursday alleging Freedom 250 potentially misled donors, directing them to complete payments that were rerouted. “Accor",
+      "link": "https://thehill.com/homenews/administration/5952038-democrats-allege-freedom250-fraud/",
+      "date": "Jul 2, 2026",
+      "rawDate": "Thu, 02 Jul 2026 21:05:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Police identify adults killed in I-75 crash in Oakland County",
       "desc": "Two adults and two children died in a multi-vehicle I-75 crash.",
@@ -83,15 +110,6 @@
       "tag": "government"
     },
     {
-      "title": "Appeals court reverses order requiring removed signs to be restored at National Park sites",
-      "desc": "A federal appeals court reversed a lower court’s order requiring the National Park Service (NPS) to restore signs and exhibits that were removed by the Trump administration. The 1st Circuit Court of A",
-      "link": "https://thehill.com/policy/energy-environment/5951950-nps-national-park-displays/",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 19:30:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Fire chiefs urge caution after I-75 crash that killed 4",
       "desc": "A suspected road-rage crash in a construction zone on I-75 killed two adults and two children.",
       "link": "https://www.mlive.com/news/detroit/2026/07/fire-chiefs-urge-caution-after-i-75-crash-that-killed-4.html",
@@ -115,8 +133,8 @@
       "link": "https://thehill.com/policy/healthcare/5951898-democrats-demand-hhs-reinstate-teen-pregnancy-grants/",
       "date": "Jul 2, 2026",
       "rawDate": "Thu, 02 Jul 2026 19:13:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Jackson toddler was shot by another child after finding gun, prosecutor says",
@@ -126,24 +144,6 @@
       "rawDate": "Thu, 02 Jul 2026 19:02:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "De Blasio, Hannity tangle over democratic socialist candidates: &#039;Let me finish!&#039;",
-      "desc": "Former New York City Mayor Bill de Blasio (D) and Fox News host Sean Hannity on Wednesday tangled with each other over the surge of democratic socialist candidates winning primaries this election seas",
-      "link": "https://thehill.com/homenews/campaign/5951687-deblasio-hannity-debate-democratic-socialists/",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 18:59:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Hillary Clinton knocks Pulte: &#039;We should definitely be worried about everything&#039;",
-      "desc": "Former Secretary of State Hillary Clinton went after acting Director of National Intelligence (DNI) Bill Pulte, saying that she wished there were career and political appointees across agencies that w",
-      "link": "https://thehill.com/policy/national-security/5951787-hillary-clinton-pulte-criticism/",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 18:27:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Castro says Air Force confirmed death from flu outbreak at Texas base",
@@ -380,15 +380,6 @@
       "tag": "technology"
     },
     {
-      "title": "Dell Coupon Codes: 20% Off for July 2026",
-      "desc": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Mid Michigan College names longtime administrator as president",
       "desc": "Scott Mertes, former provost and a 20-year college veteran, succeeds retiring President Tim Hood.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/mid-michigan-college-names-longtime-administrator-as-president.html",
@@ -405,6 +396,15 @@
       "rawDate": "Wed, 01 Jul 2026 22:53:59 +0000",
       "source": "MLive Politics",
       "tag": "government"
+    },
+    {
+      "title": "Trump talks to AI Teddy Roosevelt during presidential library visit",
+      "desc": "President Trump had a little chat with an artificial intelligence version of one of his predecessors Wednesday while touring the new Theodore Roosevelt Presidential Library in North Dakota. “Every day",
+      "link": "https://thehill.com/homenews/administration/5950575-trump-ai-teddy-roosevelt-chat/",
+      "date": "Jul 1, 2026",
+      "rawDate": "Wed, 01 Jul 2026 22:02:15 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Supreme Court action sparks new demand in Trump civil case",
@@ -799,15 +799,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/parking-at-eastern-michigan-new-rates-to-know-on-ypsilanti-campus.html",
       "date": "Jun 29, 2026",
       "rawDate": "Mon, 29 Jun 2026 17:01:04 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Eastern Michigan approves lowest tuition increase in more than a decade",
-      "desc": "The Ypsilanti university's tuition increase was approved at the June 25 regents meeting.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/eastern-michigan-approves-lowest-tuition-increase-in-more-than-a-decade.html",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 15:32:05 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

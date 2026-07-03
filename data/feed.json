@@ -1,9 +1,63 @@
 {
-  "generated": "2026-07-03T15:03:20.775Z",
+  "generated": "2026-07-03T17:15:32.223Z",
   "news": [
     {
+      "title": "Are Ann Arbor schools losing more teachers and staff? Here’s what the numbers say.",
+      "desc": "The number of employee exits fell this year, though educators and advocates say compensation is still increasingly driving some departures.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/are-ann-arbor-schools-losing-more-teachers-and-staff-heres-what-the-numbers-say.html",
+      "date": "Jul 3, 2026",
+      "rawDate": "Fri, 03 Jul 2026 17:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "High school hockey coach charged after alleged sexual assault on boat",
+      "desc": "The 38-year-old is accused of sexually assaulting a victim on his docked boat.",
+      "link": "https://www.mlive.com/news/flint/2026/07/high-school-hockey-coach-charged-after-alleged-sexual-assault-on-boat.html",
+      "date": "Jul 3, 2026",
+      "rawDate": "Fri, 03 Jul 2026 16:24:18 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats seize on Trump earnings to go after GOP on affordability",
+      "desc": "President Trump raked in billions of dollars while in office over the past year, setting up a split screen ahead of the midterm elections as Americans confront rising prices and a lackluster jobs envi",
+      "link": "https://thehill.com/homenews/administration/5952199-trump-financial-disclosures-criticism/",
+      "date": "Jul 3, 2026",
+      "rawDate": "Fri, 03 Jul 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How to keep the American republic another 250 years and beyond",
+      "desc": "Franklin understood that keeping America a democratic republic was a far harder task than establishing it.",
+      "link": "https://thehill.com/opinion/congress-blog/politics/5951119-preserving-democratic-republic-responsibility/",
+      "date": "Jul 3, 2026",
+      "rawDate": "Fri, 03 Jul 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Mamdani addresses America&#039;s 250th: &#039;Patriotism is every act of righteous dissent&#039;",
+      "desc": "New York City Mayor Zohran Mamdani (D) called on Americans to confront the nation’s flaws rather than ignore them on the eve of the 250th anniversary of U.S. independence, framing “righteous dissent” ",
+      "link": "https://thehill.com/homenews/state-watch/5952794-nyc-zohran-mamdani-patriotism-righteous-dissent/",
+      "date": "Jul 3, 2026",
+      "rawDate": "Fri, 03 Jul 2026 15:50:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "3 face off for open seat on Walker City Commission in August primary election",
+      "desc": "Trevor Granger, Gloria Lara and Mark Ratering are running to represent Walker's northeast side. The top two finishers in the Aug. 4 primary will advance to the November general election.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/3-face-off-for-open-seat-on-walker-city-commission-in-august-primary-election.html",
+      "date": "Jul 3, 2026",
+      "rawDate": "Fri, 03 Jul 2026 15:30:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
       "title": "Justice Department defends decision not to release, unredact more Epstein files",
-      "desc": "The Justice Department (DOJ) declined on Thursday to release additional unredacted records from its investigation into convicted sex offender Jeffrey Epstein, telling a federal judge that it has alrea",
+      "desc": "The Department of Justice (DOJ) declined Thursday to release additional unredacted records from its investigation into convicted sex offender Jeffrey Epstein, telling a federal judge that it has alrea",
       "link": "https://thehill.com/regulation/court-battles/5952687-justice-department-epstein-files-phang-suit/",
       "date": "Jul 3, 2026",
       "rawDate": "Fri, 03 Jul 2026 14:53:53 +0000",
@@ -57,7 +111,7 @@
     },
     {
       "title": "Iran threatens response without &#039;full implementation&#039; of US deal",
-      "desc": "Iran’s Parliament Speaker Mohammad Bagher Ghalibaf has warned of an Iranian response if the U.S. and Israel breach the interim peace deal, as Tehran prepares to bury its former supreme leader, Ayatoll",
+      "desc": "Iran’s Parliament Speaker Mohammad Bagher Qalibaf has warned of an Iranian response if the U.S. and Israel breach the interim peace deal, as Tehran prepares to bury its former supreme leader, Ayatolla",
       "link": "https://thehill.com/policy/international/5952638-iran-us-israel-mou-ghalibaf/",
       "date": "Jul 3, 2026",
       "rawDate": "Fri, 03 Jul 2026 12:28:21 +0000",
@@ -101,15 +155,6 @@
       "tag": "associations"
     },
     {
-      "title": "America at 250: Why 1776 still matters",
-      "desc": "The Hill’s senior vice president of editorial content, Bill Sammon, and political editor, Chris Stirewalt, mark the 250th Independence Day with a look at the revolutionary promise of 1776. From Thomas",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/5952630-whole-hog-live-briefing-america-250-1776/",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 11:56:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
       "desc": "Thanks to the AI-driven chip shortage, prices for phones, computers, and consoles are sky-high—and still climbing.",
       "link": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
@@ -135,15 +180,6 @@
       "rawDate": "Fri, 03 Jul 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "FOR INSIDERS &#124; GOP lawmakers eye legislation challenging birthright citizenship ruling",
-      "desc": "Republican lawmakers are game planning legislative ways to try to challenge the Supreme Court’s ruling this week that upheld birthright citizenship as a constitutional right. Several GOP members have ",
-      "link": "https://thehill.com/homenews/house/5952184-birthright-citizenship-legislation-republicans/",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "When the Law Kills Your Electric Car Dealership",
@@ -327,7 +363,7 @@
     },
     {
       "title": "Air Force major arrested after calling for Trump impeachment on Capitol steps",
-      "desc": "An Air Force major was arrested on the steps of the Capitol on Wednesday after calling for President Trump and Vice President Vance’s impeachments. Peaceful demonstrations are permitted on Capitol gro",
+      "desc": "An Air Force major was arrested on the steps of the Capitol on Wednesday after calling for President Trump's and Vice President Vance’s impeachments. Peaceful demonstrations are permitted on Capitol g",
       "link": "https://thehill.com/policy/defense/5951658-air-force-major-arrested-capitol/",
       "date": "Jul 2, 2026",
       "rawDate": "Thu, 02 Jul 2026 17:55:29 +0000",
@@ -354,7 +390,7 @@
     },
     {
       "title": "DEA moves to ban opioid-like kratom compound 7-OH",
-      "desc": "The Drug Enforcement Administration (DEA) is planning to temporarily ban products containing certain synthetic versions of kratom, placing them in the same category as heroin and LSD.  The agency on W",
+      "desc": "The Drug Enforcement Administration (DEA) is planning to temporarily ban products containing certain synthetic versions of kratom, placing them in the same category as heroin and LSD.  The agency on W",
       "link": "https://thehill.com/policy/healthcare/5951668-dea-temporarily-bans-synthetic-kratom/",
       "date": "Jul 2, 2026",
       "rawDate": "Thu, 02 Jul 2026 17:20:54 +0000",
@@ -461,15 +497,6 @@
       "tag": "government"
     },
     {
-      "title": "When will N.J. serial killer face justice? Trial inches closer for young predator.",
-      "desc": "A bonus podcast episode reveals new updates and a surprising personal connection in the case against serial killer Khalil Wheeler-Weaver.",
-      "link": "https://www.mlive.com/news/2026/07/when-will-nj-serial-killer-face-justice-that-and-more-in-bonus-episode-of-someones-hunting-us.html",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 13:30:46 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Potato chip recall elevated to FDA&#039;s highest risk level",
       "desc": "Consumers are advised to discard affected products and contact Utz for refunds.",
       "link": "https://thehill.com/policy/healthcare/5951086-zapps-dirty-chips-recall-fda/",
@@ -547,15 +574,6 @@
       "link": "https://www.mlive.com/politics/2026/07/michigan-budget-talks-continue-as-july-1-deadline-creeps-by.html",
       "date": "Jul 1, 2026",
       "rawDate": "Wed, 01 Jul 2026 21:30:58 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New details emerge about Mitch McConnell’s medical emergency",
-      "desc": "Former Senate Majority Leader Mitch McConnell was reportedly found unconscious before being hospitalized in June, according to newly released emergency dispatch records.",
-      "link": "https://www.mlive.com/news/us-world/2026/07/new-details-emerge-about-mitch-mcconnells-medical-emergency.html",
-      "date": "Jul 1, 2026",
-      "rawDate": "Wed, 01 Jul 2026 21:09:13 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
@@ -853,15 +871,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/06/these-ann-arbor-area-school-districts-have-big-questions-for-voters-aug-4.html",
       "date": "Jun 30, 2026",
       "rawDate": "Tue, 30 Jun 2026 11:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Parking at Eastern Michigan: New rates to know on Ypsilanti campus",
-      "desc": "The Ypsilanti university's regents approved the new parking rates during its Thursday, June 25 meeting.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/06/parking-at-eastern-michigan-new-rates-to-know-on-ypsilanti-campus.html",
-      "date": "Jun 29, 2026",
-      "rawDate": "Mon, 29 Jun 2026 17:01:04 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

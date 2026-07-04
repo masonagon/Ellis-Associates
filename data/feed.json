@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-04T11:19:28.271Z",
+  "generated": "2026-07-04T13:04:36.125Z",
   "news": [
+    {
+      "title": "2 arrested after fatal shooting in Dearborn mall",
+      "desc": "Two people were killed and one injured in the Friday afternoon shooting.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/2-arrested-after-fatal-shooting-in-dearborn-mall.html",
+      "date": "Jul 4, 2026",
+      "rawDate": "Sat, 04 Jul 2026 12:21:10 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "As America turns 250, Michigan leaders favor secrecy over transparency",
+      "desc": "Michigan is one of just two states that still exempt their governors and legislatures from releasing documents and other records to the public.",
+      "link": "https://www.mlive.com/politics/2026/07/as-america-turns-250-michigan-leaders-favor-secrecy-over-transparency.html",
+      "date": "Jul 4, 2026",
+      "rawDate": "Sat, 04 Jul 2026 12:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Are Democrats proud to be Americans? New poll shows stunning numbers.",
+      "desc": "The poll found that Americans were divided along partisan lines when it came to how proud they were to be an American.",
+      "link": "https://www.mlive.com/politics/2026/07/are-democrats-proud-to-be-americans-new-poll-shows-stunning-numbers.html",
+      "date": "Jul 4, 2026",
+      "rawDate": "Sat, 04 Jul 2026 12:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
     {
       "title": "Happy Independence Day, America: Your revolution inspired ours",
       "desc": "Robert Emmet, the Irish republican leader. said he wished to secure for Ireland “the guarantee which Washington procured for America.\"",
@@ -81,33 +108,6 @@
       "rawDate": "Fri, 03 Jul 2026 20:50:08 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump may weigh pardon for Diddy while granting clemency to pollution violators",
-      "desc": "President Trump announced Friday that he has pardoned several people convicted in federal vehicle emissions cases and is reportedly considering pardons for celebrities, including for rapper Sean “Didd",
-      "link": "https://thehill.com/homenews/administration/5953040-trump-may-weigh-pardon-for-diddy-while-granting-clemency-to-pollution-violators/",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 20:12:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bessent brushes off critics of Trump&#039;s crypto haul",
-      "desc": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. “I don’t think there’s an appe",
-      "link": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 20:03:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Justice Department urges states to probe possible gas price gouging",
-      "desc": "The Justice Department on Friday called on states to “use all tools available” to investigate whether oil companies and individuals are intentionally inflating gas prices amid complaints from Presiden",
-      "link": "https://thehill.com/homenews/administration/5953013-justice-dept-urges-gas-price-probe/",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 19:36:14 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Motorcyclist in critical condition after crash with bus in Ottawa County",
@@ -407,15 +407,6 @@
       "tag": "safety"
     },
     {
-      "title": "Saginaw man accused of leaving toddler, infant unattended in car near courthouse",
-      "desc": "Police responded after a 911 caller reported two children, ages 3 months and 2 years, locked in a car for about a half-hour while their guardian attended a hearing.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/saginaw-man-accused-of-leaving-toddler-infant-unattended-in-car-near-courthouse.html",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 17:41:10 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "DEA moves to ban opioid-like kratom compound 7-OH",
       "desc": "The Drug Enforcement Administration (DEA) is planning to temporarily ban products containing certain synthetic versions of kratom, placing them in the same category as heroin and LSD.  The agency on W",
       "link": "https://thehill.com/policy/healthcare/5951668-dea-temporarily-bans-synthetic-kratom/",
@@ -551,15 +542,6 @@
       "tag": "technology"
     },
     {
-      "title": "Supreme Court action sparks new demand in Trump civil case",
-      "desc": "Donald Trump is facing renewed legal pressure after E. Jean Carroll asked a federal judge to require payment of nearly $5.8 million following the U.S. Supreme Court’s decision not to hear his appeal.",
-      "link": "https://www.mlive.com/news/us-world/2026/07/supreme-court-action-sparks-new-demand-in-trump-civil-case.html",
-      "date": "Jul 1, 2026",
-      "rawDate": "Wed, 01 Jul 2026 21:43:42 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Parasitic illness cases are spiking: The symptoms to watch for, including &#039;explosive&#039; diarrhea",
       "desc": "While cases are common this time of year, the number of cases is causing concern.",
       "link": "https://thehill.com/policy/healthcare/5950436-parasitic-illness-cases-are-spiking-the-symptoms-to-watch-for-including-explosive-diarrhea/",
@@ -574,17 +556,8 @@
       "link": "https://www.mlive.com/politics/2026/07/michigan-budget-talks-continue-as-july-1-deadline-creeps-by.html",
       "date": "Jul 1, 2026",
       "rawDate": "Wed, 01 Jul 2026 21:30:58 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Five farmers markets offer fresh local produce across Livingston County",
-      "desc": "Markets in Howell, Brighton, Hartland, Fowlerville and Whitmore Lake operate weekends through October, with the Whitmore Lake location accepting SNAP for the first time this year.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/five-farmers-markets-offer-fresh-local-produce-across-livingston-county.html",
-      "date": "Jul 1, 2026",
-      "rawDate": "Wed, 01 Jul 2026 20:10:12 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Zelensky warns of massive Russian strike planned for Ukraine",
@@ -642,7 +615,7 @@
     },
     {
       "title": "Democrats rail against corruption after Trump financial disclosure",
-      "desc": "Democrats are accusing President Trump of improperly profiting from his and his family���s cryptocurrency ventures after he reported more than $1 billion in income tied to the industry. In his annual ",
+      "desc": "Democrats are accusing President Trump of improperly profiting from his and his family’s cryptocurrency ventures after he reported more than $1 billion in income tied to the industry. In his annual fi",
       "link": "https://thehill.com/business/5949910-trump-democrats-crypto-corruption/",
       "date": "Jul 1, 2026",
       "rawDate": "Wed, 01 Jul 2026 18:18:34 +0000",

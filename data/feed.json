@@ -1,6 +1,24 @@
 {
-  "generated": "2026-07-04T14:59:01.060Z",
+  "generated": "2026-07-04T16:04:42.533Z",
   "news": [
+    {
+      "title": "Trump battles time in bid to boost weapons stockpiles",
+      "desc": "President Trump’s talk of boosting U.S. munitions stockpiles is facing the harsh reality of America’s production capacity.  Even if Congress passes his enormous $1.5 trillion request for defense spend",
+      "link": "https://thehill.com/policy/defense/5948623-trump-munitions-stockpiles-hurdles-time-congress/",
+      "date": "Jul 4, 2026",
+      "rawDate": "Sat, 04 Jul 2026 16:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump’s $1K investment accounts roll out for eligible newborns",
+      "desc": "The Trump administration on Saturday launched its newborn investment program, called “Trump Accounts,” opening the federal savings accounts for millions of children in line with America’s 250th annive",
+      "link": "https://thehill.com/homenews/administration/5953424-donald-trump-newborn-investment-accounts-live/",
+      "date": "Jul 4, 2026",
+      "rawDate": "Sat, 04 Jul 2026 15:31:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Here’s who’s on the final August 2026 primary ballot for Flint mayor and council",
       "desc": "Residents will narrow down the candidates to lead the city for the next four years in the primary election for Flint mayor and Flint City Council on Aug. 4.",
@@ -65,15 +83,6 @@
       "tag": "government"
     },
     {
-      "title": "Happy Independence Day, America: Your revolution inspired ours",
-      "desc": "Robert Emmet, the Irish republican leader. said he wished to secure for Ireland “the guarantee which Washington procured for America.\"",
-      "link": "https://thehill.com/opinion/international/5951225-happy-independence-day-america-your-revolution-inspired-ours/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Jackson College to host adjunct hiring fair seeking part-time instructors",
       "desc": "The college is recruiting adjunct instructors to teach one or two classes each semester or serve as clinical instructors for health programs.",
       "link": "https://www.mlive.com/news/jackson/2026/07/jackson-college-to-host-adjunct-hiring-fair-seeking-part-time-instructors.html",
@@ -92,15 +101,6 @@
       "tag": "technology"
     },
     {
-      "title": "Kean&#039;s depression disclosure prompts questions about mental health stigma",
-      "desc": "When Rep. Tom Kean Jr. (R-N.J.) disclosed that his monthslong disappearance from the House was due to depression, he opened a delicate but difficult conversation: How much information about their pers",
-      "link": "https://thehill.com/policy/healthcare/5950576-rep-tom-kean-jr-depression-disclosure/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "‘It is a crisis’: Putin under increasing pressure from Ukraine war",
       "desc": "Russian President Vladimir Putin is coming under rare public criticism at home, a significant signal of how the pressures from the more than four-year war in Ukraine are hurting the country.  Fuel sho",
       "link": "https://thehill.com/policy/international/5953000-putin-russia-ukraine-war-pressure/",
@@ -110,13 +110,13 @@
       "tag": "safety"
     },
     {
-      "title": "5 cities missing out on hosting FIFA World Cup matches in 2026",
-      "desc": "Some major&#160;U.S. cities are getting&#160;an&#160;economic boost from the World Cup,&#160;with places like&#160;Los Angeles,&#160;Miami&#160;and Dallas&#160;flooded with thousands of&#160;overseas&",
-      "link": "https://thehill.com/policy/sports-gaming/5951879-world-cup-boost-us-cities/",
+      "title": "Kean&#039;s depression disclosure prompts questions about mental health stigma",
+      "desc": "When Rep. Tom Kean Jr. (R-N.J.) disclosed that his monthslong disappearance from the House was due to depression, he opened a delicate but difficult conversation: How much information about their pers",
+      "link": "https://thehill.com/policy/healthcare/5950576-rep-tom-kean-jr-depression-disclosure/",
       "date": "Jul 4, 2026",
       "rawDate": "Sat, 04 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "2 dead, 1 injured in Dearborn mall shooting",
@@ -259,15 +259,6 @@
       "link": "https://www.wired.com/story/the-fda-ruled-that-zyn-pouches-are-safer-than-cigarettes-that-doesnt-mean-theyre-safe/",
       "date": "Jul 3, 2026",
       "rawDate": "Fri, 03 Jul 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "When the Law Kills Your Electric Car Dealership",
-      "desc": "Dealers who invested in Polestar won’t be able to sell in the US next year after the federal government denied an authorization that would have allowed the company to avoid a Chinese tech ban.",
-      "link": "https://www.wired.com/story/when-the-law-kills-your-polestar-electric-car-dealership/",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 09:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -711,15 +702,6 @@
       "rawDate": "Wed, 01 Jul 2026 12:48:28 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "FOR INSIDERS: Iran&#039;s flex in Strait of Hormuz puts Trump on back foot",
-      "desc": "Iran is flexing its leverage in the Strait of Hormuz, putting the U.S. on its back foot as it looks to resume shipping through the key passageway and curb Tehran's nuclear program. Tehran ratcheted up",
-      "link": "https://thehill.com/policy/defense/5948517-iran-leveraging-strait-hormuz-trump/",
-      "date": "Jul 1, 2026",
-      "rawDate": "Wed, 01 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "FOR INSIDERS: Trump White House holds back new AI models, spurring confusion",

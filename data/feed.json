@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-05T13:13:38.945Z",
+  "generated": "2026-07-05T15:06:50.261Z",
   "news": [
+    {
+      "title": "Shooting at Fourth of July block party leaves 5 injured, police say",
+      "desc": "Police said three adults and two juveniles were injured in the late-night shooting.",
+      "link": "https://www.mlive.com/news/flint/2026/07/shooting-at-fourth-of-july-block-party-leaves-5-injured-police-say.html",
+      "date": "Jul 5, 2026",
+      "rawDate": "Sun, 05 Jul 2026 14:13:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "4 injured in Grand Rapids shooting on southeast side",
+      "desc": "Investigators are working to identify suspects and determine what sparked the gunfire.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/4-injured-in-grand-rapids-shooting-on-southeast-side.html",
+      "date": "Jul 5, 2026",
+      "rawDate": "Sun, 05 Jul 2026 13:49:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Driver, 85, dies after collision with semi in Midland",
+      "desc": "An 85-year-old passenger was also injured but is expected to survive, according to police.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/driver-85-dies-after-collision-with-semi-in-midland.html",
+      "date": "Jul 5, 2026",
+      "rawDate": "Sun, 05 Jul 2026 13:29:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Man injured in Kalamazoo shooting",
       "desc": "Police are asking anyone with information to come forward as the investigation continues.",
@@ -88,24 +115,6 @@
       "link": "https://thehill.com/homenews/5953724-paul-pelosi-in-hit-and-run-crash-could-face-misdemeanor-charges/",
       "date": "Jul 4, 2026",
       "rawDate": "Sat, 04 Jul 2026 23:31:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "White supremacist group marches on mall",
-      "desc": "Masked demonstrators were seen marching through Washington, D.C.’s Eastern Market neighborhood on Saturday as the nation celebrated its 250th anniversary of independence. Dressed in khakis, white face",
-      "link": "https://thehill.com/blogs/in-the-know/5953665-white-supremacist-group-marches-on-mall/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 21:33:30 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "5 governor’s seats most likely to flip",
-      "desc": "Three dozen states are holding elections for governor in November, teeing up a test in several of the battleground states President Trump won in 2024. Swing states like Nevada, Georgia and Wisconsin a",
-      "link": "https://thehill.com/homenews/campaign/5952091-governor-races-battleground-states/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 21:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -389,15 +398,6 @@
       "tag": "associations"
     },
     {
-      "title": "Woman, 62, incarcerated at Michigan’s only female prison dies unexpectedly",
-      "desc": "MDOC authorities are investigating what preceded the death, which is the latest of multiple at the Washtenaw County-based correctional facility within the last couple of years.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/woman-62-incarcerated-at-michigans-only-female-prison-dies-unexpectedly.html",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 20:10:14 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Top Army commander in Europe, Africa relinquishes role",
       "desc": "Army Gen. Christopher Donahue on Thursday relinquished command of U.S. Army Europe and Africa in Wiesbaden, Germany, after he was unexpectedly ousted by Defense Secretary Pete Hegseth last month.  Don",
       "link": "https://thehill.com/policy/defense/5952031-donahue-relinquishes-command-europe/",
@@ -423,24 +423,6 @@
       "rawDate": "Thu, 02 Jul 2026 19:47:54 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Fire chiefs urge caution after I-75 crash that killed 4",
-      "desc": "A suspected road-rage crash in a construction zone on I-75 killed two adults and two children.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/fire-chiefs-urge-caution-after-i-75-crash-that-killed-4.html",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 19:18:08 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Warren man bound over on first-degree murder charge in fatal stabbing case",
-      "desc": "The suspect remains held in the Macomb County Jail on a $2 million bond.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/warren-man-bound-over-on-first-degree-murder-charge-in-fatal-stabbing-case.html",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 19:15:42 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Democrats demand HHS reinstate canceled teen pregnancy prevention grants",

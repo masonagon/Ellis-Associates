@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-05T11:24:38.610Z",
+  "generated": "2026-07-05T13:13:38.945Z",
   "news": [
+    {
+      "title": "Man injured in Kalamazoo shooting",
+      "desc": "Police are asking anyone with information to come forward as the investigation continues.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/man-injured-in-kalamazoo-shooting.html",
+      "date": "Jul 5, 2026",
+      "rawDate": "Sun, 05 Jul 2026 13:08:39 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Here are the tax proposals Wayne County voters will decide Aug. 4",
+      "desc": "Among the largest proposals on the ballot is a Wayne County transit millage that would authorize the Wayne County Transit Authority to levy up to 0.9831 mills for 10 years.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/here-are-the-tax-proposals-wayne-county-voters-will-decide-aug-4.html",
+      "date": "Jul 5, 2026",
+      "rawDate": "Sun, 05 Jul 2026 13:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hillsdale College releases documentary on American Revolution for free on streaming",
+      "desc": "The film examines the experiences and principles that drove early Americans to fight for independence and establish a new form of government.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/hillsdale-college-releases-documentary-on-american-revolution-for-free-on-streaming.html",
+      "date": "Jul 5, 2026",
+      "rawDate": "Sun, 05 Jul 2026 11:30:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Manchin blames Democratic divisions on &#039;void of leadership&#039;",
+      "desc": "Former independent Sen. Joe Manchin (W.V.) blamed the Democratic Party’s “void in leadership” on internal splits over the rise of democratic socialist candidates in a new radio interview on Sunday mor",
+      "link": "https://thehill.com/homenews/campaign/5953621-manchin-blames-democratic-splits/",
+      "date": "Jul 5, 2026",
+      "rawDate": "Sun, 05 Jul 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
       "desc": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
@@ -70,33 +106,6 @@
       "link": "https://thehill.com/homenews/campaign/5952091-governor-races-battleground-states/",
       "date": "Jul 4, 2026",
       "rawDate": "Sat, 04 Jul 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump pardons 11 people ahead of July 4, including Clean Air Act violators: What to know",
-      "desc": "President Donald Trump pardoned 11 people on Friday, including nine people who were convicted of violating a federal air pollution law, a White House official confirmed. It’s the latest acts of clemen",
-      "link": "https://thehill.com/homenews/administration/5953633-trump-grants-clemency-allies/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 20:14:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Celebrities counter Trump&#039;s America 250 rhetoric with ‘On Tyranny’ reading",
-      "desc": "A star-studded cast released a reading of Timothy Snyder’s popular anti-propagandist book “On Tyranny” as counterprogramming to the White House-led celebrations for America’s 250th on Saturday.  The v",
-      "link": "https://thehill.com/blogs/in-the-know/5953527-sarah-jessica-parker-celebrities-donald-trump-america-250-counterprogram/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 18:26:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Former presidents reflect on America at 250: ‘Constant work in progress’",
-      "desc": "Former Presidents Joe Biden, Barack Obama, George W. Bush and Bill Clinton on Saturday marked the U.S.’s 250th birthday with messages reflecting on both U.S. history and the future of the country. The",
-      "link": "https://thehill.com/homenews/administration/5953530-bill-clinton-george-bush-barack-obama-joe-biden-america-250/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 18:15:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -441,15 +450,6 @@
       "rawDate": "Thu, 02 Jul 2026 19:13:48 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Jackson toddler was shot by another child after finding gun, prosecutor says",
-      "desc": "Devon’te Marcellous Rowe, 25, is accused of leaving a gun unattended where several children were playing, leading to one of the children finding the gun and firing it, critically wounding a toddler.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/jackson-toddler-was-shot-by-another-child-after-finding-gun-prosecutor-says.html",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 19:02:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Castro says Air Force confirmed death from flu outbreak at Texas base",
@@ -826,15 +826,6 @@
       "link": "https://www.mlive.com/news/jackson/2026/06/hillsdale-college-professors-release-guide-to-literary-analysis.html",
       "date": "Jun 30, 2026",
       "rawDate": "Tue, 30 Jun 2026 16:16:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Central Michigan University raises tuition rates across all levels",
-      "desc": "The Board of Trustees approved increases ranging from $20 to $33 per credit hour for the upcoming academic year.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/06/central-michigan-university-raises-tuition-rates-across-all-levels.html",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 15:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

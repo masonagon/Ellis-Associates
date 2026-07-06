@@ -1,9 +1,81 @@
 {
-  "generated": "2026-07-06T18:50:54.265Z",
+  "generated": "2026-07-06T20:48:06.637Z",
   "news": [
     {
+      "title": "NAACP spending more on midterms than any other election in its history",
+      "desc": "The NAACP will be spending more on midterms than any other election in history following the Supreme Court’s April ruling that effectively limited the Voting Rights Act's power against racial vote dil",
+      "link": "https://thehill.com/homenews/campaign/5955560-naacp-midterms-spending-record/",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 20:43:21 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Platner assessing &#039;path&#039; as new assault allegations surface; Trump explains call to FIFA over Balogun red card",
+      "desc": "Maine Senate candidate Graham Platner on Monday denied new sexual assault allegations while saying his Democratic campaign was “taking the time to reflect on the best path forward.” “I wanted to direc",
+      "link": "https://thehill.com/homenews/administration/5954481-trump-inquiry-fifa-penalty-balogun/",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 20:41:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DOGE officially shuts down",
+      "desc": "The Department of Government Efficiency (DOGE), which spearheaded job and funding cuts throughout the federal government, shut down operations on July 4.  The department wrote Saturday on X,“‘Far and ",
+      "link": "https://thehill.com/homenews/administration/5955468-doge-shuts-down-operations/",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 20:40:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "MSU will keep president after Kevin Guskiewicz reverses decision to leave",
+      "desc": "Guskiewicz was named the new president of Clemson in May.",
+      "link": "https://www.mlive.com/education/2026/07/msu-will-keep-president-after-kevin-guskiewicz-reverses-decision-to-leave.html",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 20:24:49 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Platner &#039;taking the time to reflect on the best path forward&#039; in Maine Senate race after assault allegation",
+      "desc": "Maine Senate Democratic candidate Graham Platner on Monday said his campaign is “taking the time to reflect on the best path forward,” just minutes after Politico published a story in which a woman wh",
+      "link": "https://thehill.com/homenews/campaign/5955624-graham-platner-maine-assault-accusation/",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 20:06:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Illinois becomes first state to require third-party audit of AI models",
+      "desc": "Illinois Gov. JB Pritzker (D) on Monday signed a bill making the state the country's first to mandate that the largest artificial intelligence labs obtain third-party audits of their safety plans. Pri",
+      "link": "https://thehill.com/policy/technology/5955442-illinois-ai-safety-bill/",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 19:12:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man charged in string of Kalamazoo knife attacks",
+      "desc": "The victims and the alleged attacker are homeless, police said.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/man-charged-in-string-of-kalamazoo-knife-attacks.html",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 19:04:21 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Comer knocks &#039;weak&#039; Republicans who won&#039;t support Trump-backed SAVE America Act",
+      "desc": "On Sunday, House Oversight and Government Reform Committee Chair James Comer (R-Ky.) bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility (SAVE America) Ac",
+      "link": "https://thehill.com/homenews/house/5955458-comer-criticizes-senate-republicans-save-act/",
+      "date": "Jul 6, 2026",
+      "rawDate": "Mon, 06 Jul 2026 19:00:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "US troops returning to Poland in ‘coming weeks,’ defense minister says",
-      "desc": "The rotation of U.S. service members in Poland, which was paused by the Pentagon earlier this year, will return to the Central European country in the “coming weeks,” Poland’s Defense Minister Wladysl",
+      "desc": "The rotation of U.S. service members in Poland, which was paused by the Pentagon earlier this year, will return to the Central European country in the “coming weeks,” Poland’s Defense Minister Władysł",
       "link": "https://thehill.com/policy/defense/5955466-us-troops-rotation-poland/",
       "date": "Jul 6, 2026",
       "rawDate": "Mon, 06 Jul 2026 18:45:23 +0000",
@@ -61,8 +133,8 @@
       "link": "https://thehill.com/policy/healthcare/5955263-gop-loses-planned-parenthood-fight/",
       "date": "Jul 6, 2026",
       "rawDate": "Mon, 06 Jul 2026 17:14:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Saginaw man charged with murder in friend’s shooting death",
@@ -83,15 +155,6 @@
       "tag": "safety"
     },
     {
-      "title": "FOR INSIDERS &#124; Trump: Sikorsky paying $6M for new White House helipad",
-      "desc": "President Trump said Monday that the cost of the new White House helipad is being covered by Sikorsky Aircraft, the company that manufactures the helicopters used as Marine One. The president said the",
-      "link": "https://thehill.com/homenews/administration/5955205-trump-white-house-helipad/",
-      "date": "Jul 6, 2026",
-      "rawDate": "Mon, 06 Jul 2026 16:19:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Man charged with burglarizing collectibles shop of $65K in Pokémon cards, sports memorabilia, cash",
       "desc": "Quincy Melton allegedly broke into Curveball Collectibles twice in one month, with surveillance capturing him smashing display cases and making off with items signed by Ben Roethlisberger, Shohei Ohta",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/man-charged-with-burglarizing-collectibles-shop-of-65k-in-pokemon-cards-sports-memorabilia-cash.html",
@@ -108,15 +171,6 @@
       "rawDate": "Mon, 06 Jul 2026 16:07:58 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Do democratic socialists really want socialism? If so, they have no place in America",
-      "desc": "The Democratic Party needs to offer practical solutions to the problems facing the American people, and should distance itself from the idea of socialism and embrace a Nordic model of free markets and",
-      "link": "https://thehill.com/opinion/campaign/5954347-democratic-party-socialism-debate/",
-      "date": "Jul 6, 2026",
-      "rawDate": "Mon, 06 Jul 2026 16:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Woman seriously injured after collision with semi in Ottawa County",
@@ -317,15 +371,6 @@
       "tag": "safety"
     },
     {
-      "title": "Woman killed, 2 others injured after head-on crash in Barry County",
-      "desc": "Investigators believe drug use may have been a contributing factor in the crash.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/07/woman-killed-2-others-injured-after-head-on-crash-in-barry-county.html",
-      "date": "Jul 5, 2026",
-      "rawDate": "Sun, 05 Jul 2026 20:10:53 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Mallory McMorrow suspends U.S. Senate campaign",
       "desc": "The state senator announced she's suspending her U.S. Senate campaign but insists she's not leaving the political fight that made her a national figure.",
       "link": "https://www.mlive.com/politics/2026/07/mallory-mcmorrow-suspends-us-senate-campaign.html",
@@ -488,6 +533,15 @@
       "tag": "health"
     },
     {
+      "title": "Bessent brushes off critics of Trump&#039;s crypto haul",
+      "desc": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. “I don’t think there’s an appe",
+      "link": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
+      "date": "Jul 3, 2026",
+      "rawDate": "Fri, 03 Jul 2026 20:03:43 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "Are Ann Arbor schools losing more teachers and staff? Here’s what the numbers say.",
       "desc": "The number of employee exits fell this year, though educators and advocates say compensation is still increasingly driving some departures.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/are-ann-arbor-schools-losing-more-teachers-and-staff-heres-what-the-numbers-say.html",
@@ -502,15 +556,6 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/07/3-face-off-for-open-seat-on-walker-city-commission-in-august-primary-election.html",
       "date": "Jul 3, 2026",
       "rawDate": "Fri, 03 Jul 2026 15:30:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michigan lawmakers pulled all-nighter to pass $75.2B plus budget before holiday weekend",
-      "desc": "Gov. Gretchen Whitmer’s office put the total at $75.2 billion, but with boilerplate language the budget appears to total close to $84 billion.",
-      "link": "https://www.mlive.com/news/2026/07/michigan-lawmakers-pulled-all-nighter-to-pass-752b-plus-budget-before-holiday-weekend.html",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 13:31:04 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
@@ -774,42 +819,6 @@
       "rawDate": "Wed, 01 Jul 2026 13:05:34 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Concerns rise over rise of near collisions between planes, drones",
-      "desc": "A JetBlue plane and a United plane have had near collisions or near misses with drones in the last couple of days.",
-      "link": "https://thehill.com/policy/transportation/5948765-drone-sightings-airports-concerning-faa-data-shows/",
-      "date": "Jul 1, 2026",
-      "rawDate": "Wed, 01 Jul 2026 12:48:28 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "FOR INSIDERS: Trump White House holds back new AI models, spurring confusion",
-      "desc": "The Trump administration's request for OpenAI to delay the release of its new models is sparking more confusion over White House AI policy and keeping private firms on their toes. The government asked",
-      "link": "https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/",
-      "date": "Jul 1, 2026",
-      "rawDate": "Wed, 01 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump administration lifts limits on Anthropic’s new AI models",
-      "desc": "The Trump administration lifted Tuesday the restrictions placed on Anthropic's new Fable and Mythos models, restoring access just over two weeks since the export controls on the artificial intelligenc",
-      "link": "https://thehill.com/homenews/5948719-anthropic-fable-mythos-models-restored/",
-      "date": "Jul 1, 2026",
-      "rawDate": "Wed, 01 Jul 2026 00:15:13 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "West Michigan construction company makes investment in its workers’ futures",
-      "desc": "Rockford Construction employees and their families now have access to scholarship opportunities through a partnership with Davenport University.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/06/west-michigan-construction-company-makes-investment-in-its-workers-futures.html",
-      "date": "Jun 30, 2026",
-      "rawDate": "Tue, 30 Jun 2026 21:39:28 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     }
   ]
 }

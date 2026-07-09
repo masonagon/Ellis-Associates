@@ -1,21 +1,156 @@
 {
-  "generated": "2026-07-09T08:20:04.905Z",
+  "generated": "2026-07-09T11:52:45.686Z",
   "news": [
+    {
+      "title": "Millions of eye drops recalled nationwide due to potential foreign substance",
+      "desc": "Millions of bottles of eye drop medication widely used to treat allergies and inflammation are being recalled across the country, according to the Food and Drug Administration.",
+      "link": "https://thehill.com/business/5960408-millions-eye-drops-recall-contamination/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 11:38:51 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump’s escalating attacks on Iran pose risks at home",
+      "desc": "In today's issue: ▪ Platner drops Senate candidacy ▪ Trump’s promises at NATO summit ▪ Kentucky governor requests McConnell update ▪ ObamaCare hikes give fuel to Democrats The latest rounds of U.S. at",
+      "link": "https://thehill.com/newsletters/morning-report/5960387-donald-trump-attacks-iran-war-risks/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 11:11:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Amseatec Criss Cross Office Chair Review: Just Right",
+      "desc": "The Amseatec Criss Cross Office Chair gives you room to sit cross-legged, sideways, or however your body actually wants to sit.",
+      "link": "https://www.wired.com/review/amseatec-criss-cross-office-chair/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 11:06:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic",
+      "desc": "Thousands of new fossil-fuel power sources are quietly firing up across the state to power the AI boom, thanks to a regulatory loophole, leaving residents feeling blindsided.",
+      "link": "https://www.wired.com/story/data-centers-taking-over-texas-pollution-could-be-catastrophic/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Best Microsoft Surface Laptop (2026): Which Model to Buy or Avoid",
+      "desc": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
+      "link": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:31:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Influencers Are Promoting $50 Straws They Claim Will Protect Against Electromagnetic Radiation",
+      "desc": "“EMF straws” and similar products are being sold as a way to block electromagnetic frequencies that come from common electronic devices, even without scientific evidence that they work.",
+      "link": "https://www.wired.com/story/wellness-influencers-are-promoting-dollar50-straws-to-protect-against-electromagnetic-radiation/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Voters in Muskegon County to weigh in on White Lake Ambulance funding Aug. 4",
+      "desc": "The White Lake Ambulance Authority was founded in 1968.",
+      "link": "https://www.mlive.com/news/muskegon/2026/07/voters-in-muskegon-county-to-weigh-in-on-white-lake-ambulance-funding-aug-4.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:20:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
     {
       "title": "The $28 Million Mistake That Inspired Estonia's AI “Fuckup Finder”",
       "desc": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
       "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
       "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 07:00:00 +0000",
+      "rawDate": "Thu, 09 Jul 2026 10:01:30 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Corsair Discount Code: Up to 50% Off for July 2026",
-      "desc": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-      "link": "https://www.wired.com/story/corsair-coupon/",
+      "title": "McConnell, Kean absences revive debate about what information lawmakers owe voters",
+      "desc": "Lawmakers’ extended and sometimes unexplained absences from Washington are raising questions about how much transparency elected officials owe the public about their health. Sen. Mitch McConnell (R-Ky",
+      "link": "https://thehill.com/homenews/senate/5959769-mcconnell-kean-absences-health-debate/",
       "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+      "rawDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Renewed war with Iran threatens to derail congressional agenda",
+      "desc": "The faltering of President Trump’s peace deal with Iran throws a wrench into Congress’s agenda as Republican leaders’ plans to pass a defense authorization bill and an emergency supplemental defense s",
+      "link": "https://thehill.com/homenews/senate/5960059-trump-iran-peace-deal-congress/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump&#039;s pledge to lift Turkey sanctions sets up fight with Congress, allies",
+      "desc": "President Trump is setting up a fight with Congress and regional allies over his announcement Tuesday that he will remove sanctions on Turkey and potentially welcome Ankara back into the F-35 fighter ",
+      "link": "https://thehill.com/policy/defense/5959945-trump-turkey-sanctions-fight-f35s-congress-fight/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rising Obamacare premiums fuel Democrats&#039; affordability attacks against GOP",
+      "desc": "Obamacare premiums are poised for a double-digit increase in 2027, putting more Americans on the hook for hundreds of dollars in additional costs per month and adding fuel to Democratic attacks over a",
+      "link": "https://thehill.com/policy/healthcare/5959964-obamacare-premiums-climb-affordability-midterms/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bipartisan Senate duo wants to help students get federal aid for learning outside college",
+      "desc": "Sens. Amy Klobuchar (D-Minn.) and Tim Sheehy (R-Mont.) are pairing up on a new bill that would pave a way for students to use financial aid to pay for prior learning assessments, a category of tests t",
+      "link": "https://thehill.com/homenews/senate/5960078-credit-prior-learning-act-klobuchar-sheehy/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Madison Square Garden Kept a List of Gay Celebrities",
+      "desc": "An MSG database tracked and categorized hundreds of celebs, famous Knicks superfans, and even some of Taylor Swift’s wedding guests. Labels included “LGBTQIA,” “DO NOT HOST,” and low to high “risk.”",
+      "link": "https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Federal Investigators Say Certain DOGE Records Were Deleted",
+      "desc": "A government report claims DOGE didn’t access sensitive systems. It also says the agency deleted records that would show if they had.",
+      "link": "https://www.wired.com/story/federal-investigators-say-certain-doge-records-were-deleted/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The 4 Best Home Air Conditioners to Buy Right Now",
+      "desc": "It's too hot. There, we said it. Protect your health and keep your home cool with one of these top-rated air conditioners.",
+      "link": "https://www.wired.com/story/the-best-at-home-air-con-units-to-buy-right-now/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 08:49:47 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Is an Air-Conditioning Revolution Coming to Europe?",
+      "desc": "As extreme heat becomes the norm on the continent, the AC culture wars may be solved by advances in environmentally friendly technology.",
+      "link": "https://www.wired.com/story/is-an-air-conditioning-revolution-coming-to-europe/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 08:44:57 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -61,8 +196,8 @@
       "link": "https://thehill.com/policy/defense/5960143-top-pentagon-lawyer-exits-early/",
       "date": "Jul 8, 2026",
       "rawDate": "Wed, 08 Jul 2026 23:48:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Security cameras catch burglars in the act at Calhoun County home, leading to arrest",
@@ -79,8 +214,8 @@
       "link": "https://thehill.com/homenews/campaign/5960051-maine-brewery-owner-senate-bid/",
       "date": "Jul 8, 2026",
       "rawDate": "Wed, 08 Jul 2026 23:09:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "One Bourbon whiskey bar, restaurant closing after 9 years on Grand Rapids’ West Side",
@@ -101,33 +236,6 @@
       "tag": "safety"
     },
     {
-      "title": "Actor Patrick Dempsey pours cold water on possible Senate bid in Maine",
-      "desc": "Patrick Dempsey will not attempt to go from the fictional Seattle Grace Hospital to the real U.S. Senate. Dempsey, a native of Lewiston, Maine, who is perhaps best known for his role on ABC's \"Grey's ",
-      "link": "https://thehill.com/homenews/campaign/5960042-patrick-dempsey-not-running-senate/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 22:34:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Lawmakers demand answers after fatal ICE shooting in Texas",
-      "desc": "Lawmakers on Capitol Hill are calling for an investigation after an Immigration and Customs Enforcement (ICE) officer fatally shot a Mexican immigrant in Houston on Tuesday. An ICE spokesperson said o",
-      "link": "https://thehill.com/homenews/house/5960024-ice-shooting-texas-lawmakers/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 22:31:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Republicans prepare $8 million ad campaign against possible Platner replacement",
-      "desc": "Republicans are preparing to launch an $8 million ad blitz against the candidate selected to replace Maine Senate Democratic nominee Graham Platner in the wake of sexual assault allegations.  In May, ",
-      "link": "https://thehill.com/homenews/campaign/5959963-republicans-launch-ad-blitz-maine/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 22:13:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Iran ceasefire&#039;s end drives up oil prices and uncertainty",
       "desc": "The end of the U.S.-Iran ceasefire is driving oil prices higher and fueling uncertainty over future energy prices. On Tuesday and again Wednesday, the U.S. said it was striking Iran in retaliation for",
       "link": "https://thehill.com/policy/energy-environment/5960020-iran-ceasefire-gas-prices-strait-of-hormuz/",
@@ -135,15 +243,6 @@
       "rawDate": "Wed, 08 Jul 2026 22:05:17 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "These products could be impacted if Trump ends trade with Spain",
-      "desc": "President Trump on Wednesday said the U.S. will cut off trade with Spain, a move that would impact billions of dollars in goods across a swath of industries if carried out.  “Spain is a wasted cause. ",
-      "link": "https://thehill.com/business/5959993-us-embargo-spain-impact/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 21:54:24 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "University of Michigan launches interactive map for campus facilities, parking in Ann Arbor",
@@ -533,15 +632,6 @@
       "tag": "government"
     },
     {
-      "title": "5 NATO flash points as Trump meets anxious allies in Turkey",
-      "desc": "President Trump and other world leaders will confront a number of key issues facing NATO during the group’s tension-filled summit in Ankara, Turkey, this week.  Trump’s pressure campaign to get other ",
-      "link": "https://thehill.com/homenews/administration/5958037-trump-nato-summit-flashpoints/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Stevens and El-Sayed trade barbs over finances, campaign funds at Michigan Senate debate",
       "desc": "When asked about everything from artificial intelligence and data centers to affordability, both El-Sayed and Stevens continued to bring the conversation back to attacks over financial disclosures and",
       "link": "https://www.mlive.com/politics/2026/07/stevens-and-el-sayed-trade-barbs-over-finances-campaign-funds-at-michigan-senate-debate.html",
@@ -585,15 +675,6 @@
       "rawDate": "Tue, 07 Jul 2026 21:42:20 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Pete Buttigieg endorses Michigan governor candidate at Traverse City event",
-      "desc": "Buttigieg, who worked under former President Joe Biden and is on Democrats’ 2028 presidential short list, has joined those lining up behind Secretary of State Jocelyn Benson.",
-      "link": "https://www.mlive.com/politics/2026/07/pete-buttigieg-endorses-michigan-governor-candidate-at-traverse-city-event.html",
-      "date": "Jul 7, 2026",
-      "rawDate": "Tue, 07 Jul 2026 20:32:12 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Researchers easily obtain GLP-1 prescriptions online, clinician interaction lower than expected",
@@ -801,24 +882,6 @@
       "rawDate": "Fri, 03 Jul 2026 20:03:43 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Cruise ship docked in San Francisco hit by norovirus outbreak",
-      "desc": "A Princess Cruises cruise ship docked in San Francisco has seen an outbreak of norovirus, according to the U.S. Centers for Disease Control and Prevention. The CDC said that 102 out of the over 3,000 ",
-      "link": "https://thehill.com/policy/healthcare/5952379-princess-cruises-norovirus-outbreak/",
-      "date": "Jul 3, 2026",
-      "rawDate": "Fri, 03 Jul 2026 00:27:53 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Planned Parenthood set to regain federal funding as GOP ban expires",
-      "desc": "Planned Parenthood will regain access to federal funding on Saturday, one year after Republicans were able to cut its clinics off from Medicaid.  Last year, Republicans were successful in using the pa",
-      "link": "https://thehill.com/policy/healthcare/5952223-planned-parenthood-regains-funding/",
-      "date": "Jul 2, 2026",
-      "rawDate": "Thu, 02 Jul 2026 22:03:51 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

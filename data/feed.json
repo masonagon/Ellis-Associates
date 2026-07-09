@@ -1,41 +1,185 @@
 {
-  "generated": "2026-07-09T14:36:15.551Z",
+  "generated": "2026-07-09T17:13:40.761Z",
   "news": [
     {
-      "title": "Trump Air Force One switch excuse &#039;a little hard to believe&#039;: Haberman",
-      "desc": "New York Times White House correspondent Maggie Haberman cast doubt on President Trump’s explanation on Wednesday for why he returned to the old Air Force One on his way back from Turkey.  The preside",
-      "link": "https://thehill.com/homenews/administration/5960710-air-force-one-trump-maggie-haberman/",
+      "title": "Cancel culture for cancer research: Proposed rule politicizes federal grantmaking",
+      "desc": "The proposed federal regulation would shift the process of awarding federal grants from a merit-based, apolitical, expert-driven system to a partisan political one, allowing political appointees in th",
+      "link": "https://thehill.com/opinion/white-house/5959962-federal-grants-political-control/",
       "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 14:35:01 +0000",
+      "rawDate": "Thu, 09 Jul 2026 17:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "House is jarred by a procedural implosion",
-      "desc": "The House of Representatives experienced a \"procedural implosion\" as a special rule to pass four major measures, including the SAVE Act, was defeated due to a lack of votes, resulting in the House adj",
-      "link": "https://thehill.com/opinion/congress-blog/5959568-house-gop-leadership-struggles/",
+      "title": "Rogan: Trump &#039;might&#039;ve f---ed it up&#039; with Iran war",
+      "desc": "Podcaster Joe Rogan on Wednesday said President Trump may have “f***ed it up” with the Iran war after the U.S. resumed military strikes on Iran, following Tehran’s attacks on ships transiting the Stra",
+      "link": "https://thehill.com/homenews/administration/5961073-joe-rogan-trump-iran-war/",
       "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 14:30:00 +0000",
+      "rawDate": "Thu, 09 Jul 2026 16:59:18 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "White House says Trump&#039;s Air Force One switch was a &#039;misdirection&#039;",
+      "desc": "The White House on Thursday defended the new retrofitted Air Force One as safe and secure after reports emerged indicating President Trump switched to the older model to leave Turkey out of an abundan",
+      "link": "https://thehill.com/homenews/administration/5961144-trump-air-force-one-security/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:34:34 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Republican Study Committee members send letter to WNBA about Caitlin Clark",
-      "desc": "The House Republican Study Committee is pressing the WNBA to further investigate the on-court treatment of standout player Caitlin Clark. In a letter to league Commissioner Cathy Engelbert, Chairman A",
-      "link": "https://thehill.com/policy/sports-gaming/5960640-house-republican-study-committee-wnba-caitlin-clark-probe/",
+      "title": "Gov. Gretchen Whitmer makes endorsement in Ann Arbor mayoral race",
+      "desc": "Michigan Gov. Gretchen Whitmer is weighing in on Ann Arbor's mayoral race.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/gov-gretchen-whitmer-makes-endorsement-in-ann-arbor-mayoral-race.html",
       "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 14:24:39 +0000",
+      "rawDate": "Thu, 09 Jul 2026 16:30:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The SEC can and should use AI to create a fairer market",
+      "desc": "A properly resourced, technologically capable SEC can make American capitalism fairer today.",
+      "link": "https://thehill.com/homenews/5959540-ai-sec-regulation-opportunities/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:30:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Here&#039;s who could replace Platner to take on Collins in Maine",
+      "desc": "All eyes have turned to a handful of Maine Democrats who could take the mantle after Graham Platner stepped back as the party’s Senate nominee amid growing pressure to withdraw, leaving Democrats with",
+      "link": "https://thehill.com/homenews/campaign/5957082-graham-platner-maine-senate-candidate-replacements/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:28:46 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Judge approves SEC settlement with Musk despite &#039;significant misgivings&#039;",
-      "desc": "A federal judge approved the Securities and Exchange Commission’s (SEC) $1.5 million settlement with Elon Musk on Wednesday, saying the agreement did not meet the “high threshold” for the court to str",
-      "link": "https://thehill.com/policy/technology/5960627-elon-musk-sec-settlement-twitter/",
+      "title": "Kudlow: US entered Iran MOU too quickly",
+      "desc": "Fox Business host Larry Kudlow on Wednesday said the U.S. entered its interim deal with Iran too quickly. &#8220;Well, it just seemed to me we were really pulling that trigger too fast,&#8221; he said",
+      "link": "https://thehill.com/policy/international/5961010-kudlow-iran-deal-mou/",
       "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 14:14:55 +0000",
+      "rawDate": "Thu, 09 Jul 2026 16:27:12 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Man accused of exposing, fondling himself at U.P. library",
+      "desc": "He is also accused of exposing himself to two women while walking on a Lake Superior boardwalk.",
+      "link": "https://www.mlive.com/news/2026/07/man-accused-of-exposing-fondling-himself-at-up-library.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:26:24 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "University of Michigan’s top lawyer to leave for West Coast",
+      "desc": "University President Domenico Grasso appointed an internal employee to replace UM's vice president and general counsel for a two-year term.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/university-of-michigans-top-lawyer-to-leave-for-west-coast.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:24:53 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Saginaw jury duty scam: Woman loses $4,000 to fraudsters",
+      "desc": "Scammers posing as law enforcement officials are demanding cash payments from residents who supposedly missed jury duty.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/saginaw-jury-duty-scam-woman-loses-4000-to-fraudsters.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:08:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Platner &#039;betrayed&#039; the people of Maine: Former Biden aide",
+      "desc": "Neera Tanden, a political consultant and former Biden adviser, criticized how former Maine Senate candidate Graham Platner handled his dramatic exit from the race on Wednesday.  Platner announced he w",
+      "link": "https://thehill.com/homenews/campaign/5960956-graham-platner-neera-tanden-maine-senate/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:06:48 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "A new era of partnership with Iraq",
+      "desc": "Iraq is no longer the country it was 20 years ago, and U.S. policy should reflect that reality.",
+      "link": "https://thehill.com/opinion/international/5959813-us-iraq-relationship-reset/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Talarico raises record $30M in second quarter",
+      "desc": "The campaign of Texas Democratic Senate nominee James Talarico raised more than $30 million in the second quarter of this year, as the 37-year-old looks to become the first Democrat from the state ele",
+      "link": "https://thehill.com/homenews/campaign/5960979-texas-senate-talarico-campaign/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 15:43:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Massie: Might as well call ObamaCare &#039;Trumpcare&#039;",
+      "desc": "Kentucky Rep. Thomas Massie (R) on Wednesday said ObamaCare might as well be renamed “Trumpcare” as premiums increase and Republicans haven’t moved to repeal the Affordable Care Act (ACA). “Might as w",
+      "link": "https://thehill.com/homenews/house/5960829-thomas-massie-republicans-obamacare/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 15:38:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Retired meteorologist faces businessman in GOP primary for West Michigan U.S. House seat",
+      "desc": "See where Republican candidates for the 3rd Congressional District, Terri DeBoer and Ryan Cushman, stand on issues like the economy, healthcare, energy, and immigration.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/retired-meteorologist-faces-businessman-in-gop-primary-for-west-michigan-us-house-seat.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 15:30:38 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police investigating assault caught on video in downtown Jackson",
+      "desc": "The assault occurred in the street on W. Michigan Avenue in front of Horace Blackman Park in downtown Jackson, according to landmarks visible in the video.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/police-investigating-assault-caught-on-video-in-downtown-jackson.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 15:23:11 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Crash on M-13 in Bay County claims motorcyclist’s life",
+      "desc": "Sheriff's deputies say an SUV driven by an 81-year-old man crashed into a Suzuki motorcycle driven by a 53-year-old local man.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/crash-on-m-13-in-bay-county-claims-motorcyclists-life.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 15:21:57 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan pork projects 2026: See the full list of $125M in earmarks",
+      "desc": "Lawmakers requested more than $4 billion in pork project spending, but only a fraction of it was approved.",
+      "link": "https://www.mlive.com/politics/2026/07/michigan-pork-projects-2026-see-the-full-list-of-125m-in-earmarks.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 15:06:03 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lawmakers tell HHS to crack down on discrimination in medically assisted suicide",
+      "desc": "A bipartisan group of lawmakers is urging Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. to set up new monitoring rules for hospices to root out discrimination against vulnerable popu",
+      "link": "https://thehill.com/homenews/senate/5960713-assisted-suicide-monitoring-rules-hospices/",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 14:56:18 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "University of Michigan nurses reach tentative deal, avoiding possible strike",
+      "desc": "The tentative three-year agreement cancels a strike authorization vote that was previously set to take place next week.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/university-of-michigan-nurses-reach-tentative-deal-avoiding-possible-strike.html",
+      "date": "Jul 9, 2026",
+      "rawDate": "Thu, 09 Jul 2026 14:38:34 +0000",
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Brighton schools approve $8,200 traffic study to address drop-off congestion",
@@ -47,15 +191,6 @@
       "tag": "education"
     },
     {
-      "title": "Fetterman on Platner campaign suspension: &#039;The trash took itself out&#039;",
-      "desc": "Sen. John Fetterman (D-Pa.) on Wednesday praised the suspension of Maine Senate candidate Graham Platner's (D) campaign, saying that the \"trash took itself out.\" Platner announced his decision to susp",
-      "link": "https://thehill.com/homenews/campaign/5960500-john-fetterman-graham-platner-campaign-suspension-maine/",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 13:58:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Southeast Michigan students can explore aviation careers at free event near Ypsilanti",
       "desc": "Eastern Michigan University's Aerospace Day will take place from 9:30 a.m. to 4 p.m. Friday, Aug. 7.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/southeast-michigan-students-can-explore-aviation-careers-at-free-event-near-ypsilanti.html",
@@ -65,8 +200,8 @@
       "tag": "education"
     },
     {
-      "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway.",
-      "desc": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “chat control” bill to find child abuse material online.",
+      "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway",
+      "desc": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “Chat Control” bill to find child abuse material online.",
       "link": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
       "date": "Jul 9, 2026",
       "rawDate": "Thu, 09 Jul 2026 13:55:08 +0000",
@@ -92,31 +227,13 @@
       "tag": "safety"
     },
     {
-      "title": "Second person in 4 days fatally shot by federal task force member in Memphis",
-      "desc": "Agents from the Drug Enforcement Administration (DEA) fatally shot a man in Memphis on Wednesday, while on deployment in the Tennessee city as part of a federal crime-fighting task force.  The U.S. Ma",
-      "link": "https://thehill.com/homenews/state-watch/5960486-memphis-crime-task-force/",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 13:15:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Esper: Iranians want to &#039;get what they can&#039; before midterms",
       "desc": "Former Defense Secretary Mark Esper said late Wednesday that Iran will attempt to leverage as much as it can in peace negotiations with the U.S. ahead of midterm elections, after which he predicted Pr",
       "link": "https://thehill.com/policy/defense/5960514-iran-us-war-negotiations-esper-midterms/",
       "date": "Jul 9, 2026",
       "rawDate": "Thu, 09 Jul 2026 13:14:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Former Maine state senator announces campaign after Platner suspension",
-      "desc": "Former Maine state Sen. Troy Jackson (D) on Wednesday announced his campaign to run against Sen. Susan Collins (R-Maine), not long after Democratic Senate nominee Graham Platner dropped out of the rac",
-      "link": "https://thehill.com/homenews/campaign/5960448-troy-jackson-maine-senate-race-platner-withdrawal/",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 13:06:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "WIRED World Fair",
@@ -126,15 +243,6 @@
       "rawDate": "Thu, 09 Jul 2026 12:51:16 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Live updates: Trump flies on old Air Force One over security concerns; Maine Democrats seek Platner successor",
-      "desc": "President returned from Turkey overnight Thursday, traveling on the first leg of the trip on an older Air Force One jet, on the guidance of Secret Service. The move quickly elevated concern about the ",
-      "link": "https://thehill.com/homenews/administration/5959432-president-returns-from-turkey/",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 12:47:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Epilogue SN Operator Review: Super Nintendo Fun",
@@ -264,7 +372,7 @@
     },
     {
       "title": "Top lawyer for military joint chiefs stepping down early, citing &#039;personal reasons&#039;",
-      "desc": "The senior legal counsel to Joint Chiefs of Staff Chair Gen. Dan Caine is stepping down nearly a year ahead of schedule — the latest top official to leave or be pushed out of the Pentagon since the st",
+      "desc": "The senior legal counsel to Joint Chiefs of Staff Chair Gen. Dan Caine is stepping down nearly a year ahead of schedule — the latest top official to leave or be pushed out of the Pentagon since the st",
       "link": "https://thehill.com/policy/defense/5960143-top-pentagon-lawyer-exits-early/",
       "date": "Jul 8, 2026",
       "rawDate": "Wed, 08 Jul 2026 23:48:00 +0000",
@@ -542,15 +650,6 @@
       "tag": "safety"
     },
     {
-      "title": "Michigan State Police arrest 9 people during Saginaw July 4 event",
-      "desc": "One of the arrestees has been charged with having a stolen gun, telling police he bought it off the street.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/michigan-state-police-arrest-9-people-during-saginaw-july-4-event.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 14:47:22 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Gene therapy for children with sickle cell disease approved by FDA",
       "desc": "A new treatment for children aged 2 or older with sickle cell disease has been approved by the U.S. Food &#38; Drug Administration.",
       "link": "https://thehill.com/policy/healthcare/5958574-fda-approves-gene-therapy-sickle-cell-disease/",
@@ -558,15 +657,6 @@
       "rawDate": "Wed, 08 Jul 2026 14:31:09 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "5-year-old boy shot while riding bike near Detroit park, police say",
-      "desc": "The child was riding his bike outside of his home, near Fargo-Oakfield Park, at around 9 p.m. on Tuesday, July 7.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/5-year-old-boy-shot-while-riding-bike-near-detroit-park-police-say.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 14:20:38 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Bernie Sanders, AOC will rally in Michigan for U.S. Senate candidate Abdul El-Sayed",
@@ -587,24 +677,6 @@
       "tag": "safety"
     },
     {
-      "title": "Maine Democrat praised for breaking silence on Graham Platner: ‘Good for her’",
-      "desc": "Maine Democrats accused its Senate candidate Graham Platner of wanting to influence the pick for his possible replacement.",
-      "link": "https://www.mlive.com/politics/2026/07/maine-democrat-praised-for-breaking-silence-on-graham-platner-good-for-her.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 14:15:15 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Nearly 200 new homes coming, another former Rite Aid to be repurposed and more local business news",
-      "desc": "Learn more about these stories and other local business news with these recent headlines.",
-      "link": "https://www.mlive.com/news/flint/2026/07/nearly-200-new-homes-coming-another-former-rite-aid-to-be-repurposed-and-more-local-business-news.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 14:05:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "OpenAI will publicly release advanced GPT model after government-requested delay",
       "desc": "OpenAI will release its most advanced model series, GPT 5.6, to the public Thursday after delaying the public rollout at the request of the Trump administration. The company announced the move on the ",
       "link": "https://thehill.com/policy/technology/5958647-openai-releases-gpt56-trump/",
@@ -614,33 +686,6 @@
       "tag": "technology"
     },
     {
-      "title": "Virginia man denied bond after I-75 crash that left 4 dead",
-      "desc": "A Virginia man faces murder and OWI charges after a crash on I-75 killed four family members.",
-      "link": "https://www.mlive.com/detroit/2026/07/virginia-man-denied-bond-after-i-75-crash-that-left-4-dead.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 13:44:43 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump says Ukraine will be allowed to manufacture Patriot missile interceptors",
-      "desc": "President Trump on Wednesday said the U.S. is granting Ukraine the ability to co-produce key air-defense weapons, the Patriot missiles, which are critical to defending against Russian ballistic weapon",
-      "link": "https://thehill.com/homenews/administration/5958742-us-ukraine-co-produce-patriots/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 13:30:28 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Behind the bench: Upholding the law isn’t a job, but a privilege to Judge Brittany Dicken",
-      "desc": "Judge Dicken discusses her path from legal secretary to Family Court judge, sharing insights on the challenges and rewards of presiding over domestic relations cases in Saginaw County.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/behind-the-bench-upholding-the-law-isnt-a-job-but-a-privilege-to-judge-brittany-dicken.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 13:03:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "ObamaCare premiums poised for another big hike",
       "desc": "The cost of ObamaCare coverage could shoot up even higher next year as insurers are proposing a median increase of 14 percent, according to an analysis of initial filings from KFF. If the preliminary ",
       "link": "https://thehill.com/policy/healthcare/5958559-obamacare-premiums-rise-again/",
@@ -648,24 +693,6 @@
       "rawDate": "Wed, 08 Jul 2026 12:04:19 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Road millage, operations millage on Aug. 4 ballot for Whitehall Township voters",
-      "desc": "Whitehall Township voters will decide on two millages to fund operations and road improvements amid budget concerns.",
-      "link": "https://www.mlive.com/news/muskegon/2026/07/road-millage-operations-millage-on-aug-4-ballot-for-whitehall-township-voters.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 11:10:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Meet the Democrats battling for the right to take on Michigan House Speaker Matt Hall",
-      "desc": "Bill Korb, of Galesburg, and Nick Rowe, of Gull Lake, are squaring off in the Democratic House District 42 primary.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/07/meet-the-democrats-battling-for-the-right-to-take-on-michigan-house-speaker-matt-hall.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 10:40:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Kalamazoo breaks ground on new $54 million elementary school",
@@ -767,15 +794,6 @@
       "tag": "technology"
     },
     {
-      "title": "Hillsdale College honors alumni for service and achievement",
-      "desc": "Hillsdale College recognized four individuals and one alumni group with awards during its June 27 banquet, celebrating graduates who have made significant contributions in their fields.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/hillsdale-college-honors-alumni-for-service-and-achievement.html",
-      "date": "Jul 7, 2026",
-      "rawDate": "Tue, 07 Jul 2026 14:17:16 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "&#039;Explosive&#039; diarrhea parasite cases surge as health officials seek source",
       "desc": "Outbreaks of cyclosporiasis are typically traced back to prepackaged food and fresh produce.",
       "link": "https://thehill.com/policy/healthcare/5956170-explosive-diarrhea-parasite-cases-surge-cdc/",
@@ -792,15 +810,6 @@
       "rawDate": "Tue, 07 Jul 2026 09:30:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Michigan’s school budget delivers funding wins, advocates say, but sparks other concerns",
-      "desc": "School administators and advocates across the state have welcomed a new weighted funding formula that adds extra support for English-learner and at-risk students in addition to a 2.5% per-student fund",
-      "link": "https://www.mlive.com/education/2026/07/michigans-school-budget-delivers-funding-wins-advocates-say-but-sparks-other-concerns.html",
-      "date": "Jul 7, 2026",
-      "rawDate": "Tue, 07 Jul 2026 01:04:06 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
@@ -839,15 +848,6 @@
       "tag": "technology"
     },
     {
-      "title": "Former CDC chief medical officer says RFK Jr. caused ‘irreparable harm’",
-      "desc": "Dr. Debra Houry, the former chief medical officer at the Centers for Disease Control and Prevention (CDC), decried the direction of the agency under Department of Health and Human Services (HHS) Secre",
-      "link": "https://thehill.com/policy/healthcare/5954352-cdc-robert-f-kennedy-debra-houry-hhs/",
-      "date": "Jul 5, 2026",
-      "rawDate": "Sun, 05 Jul 2026 22:05:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Trump restrictions on private AI models turn attention to open source",
       "desc": "The Trump administration’s latest restrictions on private AI model releases are ramping up the push for open-source alternatives. Under President Trump, the federal government has restricted the relea",
       "link": "https://thehill.com/policy/technology/5952253-trump-administration-ai-restrictions-opens/",
@@ -864,15 +864,6 @@
       "rawDate": "Sun, 05 Jul 2026 18:02:15 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Kean&#039;s depression disclosure prompts questions about mental health stigma",
-      "desc": "When Rep. Tom Kean Jr. (R-N.J.) disclosed that his monthslong disappearance from the House was due to depression, he opened a delicate but difficult conversation: How much information about their pers",
-      "link": "https://thehill.com/policy/healthcare/5950576-rep-tom-kean-jr-depression-disclosure/",
-      "date": "Jul 4, 2026",
-      "rawDate": "Sat, 04 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

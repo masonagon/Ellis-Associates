@@ -1,104 +1,194 @@
 {
-  "generated": "2026-07-10T13:05:40.223Z",
+  "generated": "2026-07-10T16:16:39.761Z",
   "news": [
     {
-      "title": "Congress could have shielded Roe; now it must act to protect free speech",
-      "desc": "Whatever threats defamation cases might have posed to the First Amendment in the 18th century, the landscape is now completely different.",
-      "link": "https://thehill.com/opinion/judiciary/supreme-court/5961095-defamation-threat-free-speech/",
+      "title": "Florida nurse gets prison time for stabbing Saginaw man in groin during bar fight",
+      "desc": "The Florida man will be incarcerated in a Michigan prison for two to 12 years.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/florida-nurse-gets-prison-time-for-stabbing-saginaw-man-in-groin-during-bar-fight.html",
       "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 13:00:00 +0000",
+      "rawDate": "Fri, 10 Jul 2026 16:09:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Top Democrats bash Trump over cryptocurrency income",
+      "desc": "Top Senate Democrats slammed President Trump on Friday over the more than $1 billion in cryptocurrency-related income he reported last year, calling for investigations into the national security ramif",
+      "link": "https://thehill.com/homenews/senate/5962664-senate-dems-elizabeth-warren-richard-blumenthal-dick-durbin-gary-peters-donald-trump-crypto-criticism/",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 16:02:22 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "8 indicted in White House UFC event attack plot",
-      "desc": "Eight men were indicted on federal charges Thursday for their alleged involvement in a planned drone and sniper attack on the White House’s UFC cage-fighting event last month.  The indictment, which w",
-      "link": "https://thehill.com/regulation/court-battles/5962235-white-house-ufc-attack-plot-indictments/",
+      "title": "Goldman Sachs bans employees from some prediction market contracts",
+      "desc": "Goldman Sachs is placing restrictions on employee trading on some prediction markets, a source familiar confirmed to The Hill on Friday. Staff at the investment banking giant are permitted to place wa",
+      "link": "https://thehill.com/policy/technology/5962630-goldman-sachs-restricts-employee-trading/",
       "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:50:55 +0000",
+      "rawDate": "Fri, 10 Jul 2026 15:59:58 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "A teammate once paid for his books — now this ex-WMU CB is giving out scholarships",
+      "desc": "The former WMU defensive back and Kalamazoo native helped award the first 10 scholarships of his new program last month.",
+      "link": "https://www.mlive.com/broncos/2026/07/a-teammate-once-paid-for-his-books-now-this-ex-wmu-cb-is-giving-out-scholarships.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 15:46:52 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump says Iran talks will continue, but ceasefire &#039;is OVER!&#039;",
+      "desc": "President Trump on Friday declared the U.S. ceasefire with Iran is over, even as he said talks to find a peace deal will continue.  “The Islamic Republic of Iran has asked us to continue ‘talks.’ We h",
+      "link": "https://thehill.com/homenews/administration/5962657-trump-us-iran-ceasefire-talks/",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 15:43:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "With alarming rise in antisemitism, Congress must pass the Jewish American Security Act",
+      "desc": "The Senate Bipartisan Task Force for Combating Antisemitism was formed in response to the Tree of Life Synagogue shooting, and has since passed legislation to invest in Holocaust education, protect ho",
+      "link": "https://thehill.com/opinion/civil-rights/5961807-senate-task-force-antisemitism/",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 15:30:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Schumer on Trump election board firings: &#039;Brazen attempt to seize control&#039;",
-      "desc": "Senate Democratic Leader Chuck Schumer (N.Y.) on Thursday blasted President Trump’s decision to fire members of the bipartisan Election Assistance Commission, accusing the president of making a “braze",
-      "link": "https://thehill.com/homenews/senate/5962253-chuck-schumer-donald-trump-election-board-firings/",
+      "title": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
+      "desc": "Take on sand, snow, mud, gravel—this is the ebike for all your off-roading adventures.",
+      "link": "https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/",
       "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:45:19 +0000",
+      "rawDate": "Fri, 10 Jul 2026 15:22:13 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Michigan bills withheld by GOP-lead House must go to Gov. Whitmer",
+      "desc": "The state Supreme Court denied appeals Friday, upholding a lower court ruling that nine bills passed by lawmakers in 2024 should have been sent to Gov. Gretchen Whitmer immediately.",
+      "link": "https://www.mlive.com/news/2026/07/michigan-bills-withheld-by-gop-lead-house-must-go-to-gov-whitmer.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 15:22:09 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Violent crime is falling — now is the wrong time to cut federal prison funding",
+      "desc": "A proposed budget cut is threatening to undo this progress, and if it passes, Americans will be less safe.",
+      "link": "https://thehill.com/opinion/criminal-justice/5961332-bureau-prisons-budget-threat/",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 15:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "The fallout from Graham Platner&#039;s exit and what&#039;s next: Join Friday&#039;s Whole Hog",
-      "desc": "The Maine Senate race was thrown into turmoil after Graham Platner suspended his campaign as the Democratic nominee after facing sexual assault allegations. The discussion will break down the politica",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/5962234-political-fallout-graham-platners-senate-race-exit-live-discussion/",
+      "title": "Detroit man charged in fatal shooting of girlfriend",
+      "desc": "Police say the defendant and the victim were living together at the time of the shooting.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/detroit-man-charged-in-fatal-shooting-of-girlfriend.html",
       "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:38:42 +0000",
+      "rawDate": "Fri, 10 Jul 2026 14:40:21 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Cook Political Report moving 4 of 5 gubernatorial races toward Democrats",
+      "desc": "The nonpartisan Cook Political Report on Friday shifted its ratings in five gubernatorial races, moving all but one race in favor of Democrats, as the left gains momentum in several key states ahead o",
+      "link": "https://thehill.com/homenews/campaign/5962472-cook-political-report-race-updates-democrats-midterms/",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 14:34:15 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Trump fires election board Democrats",
-      "desc": "President Trump fired the remaining Democratic members of the independent Election Assistance Commission on Thursday, the White House confirmed to The Hill.  Trump fired the remaining Democrats on the",
-      "link": "https://thehill.com/homenews/administration/5962237-donald-trump-fires-election-commission-members/",
+      "title": "Ohio man shot by Taylor police after allegedly ramming stolen U-Haul truck into police car",
+      "desc": "Officers then said they saw the suspect fumbling with an object that resembled a handgun.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/ohio-man-shot-by-taylor-police-after-ramming-stolen-u-haul-truck-into-police-car.html",
       "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:30:03 +0000",
-      "source": "The Hill Politics",
+      "rawDate": "Fri, 10 Jul 2026 14:32:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Police investigating apparent drowning of fisherman in rural Saginaw County",
+      "desc": "The 55-year-old man was fishing in water near the West Curtis Road bridge in Spaulding Township.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/police-investigating-apparent-drowning-of-fisherman-in-rural-saginaw-county.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 14:28:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "3 juveniles charged in May 31 double-shooting near Rosa Parks Circle",
+      "desc": "Grand Rapids police said two people were injured in the shooting. One was shot in a forearm and the other in a foot.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/3-juveniles-charged-in-may-31-double-shooting-near-rosa-parks-circle.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 14:11:39 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Man, 24, accused of sexual assaults against 12-year-old girl",
+      "desc": "A 24-year-old man is charged with raping a child in Menominee County, Mich.",
+      "link": "https://www.mlive.com/news/2026/07/man-24-accused-of-sexual-assaults-against-12-year-old-girl.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 14:09:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jackson man charged with distributing sexually abusive material of child",
+      "desc": "If convicted, he faces up to 20 years in prison.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/jackson-man-charged-with-distributing-sexually-abusive-material-of-child.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 14:04:38 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Former Trump staffer: Vance &#039;set up&#039; as &#039;fall guy&#039; for Iran deal",
+      "desc": "Caroline Sunshine, who served as an aide to President Trump during his first term, suggested Thursday that Vice President Vance was set up to take the blame for the failed memorandum of understanding ",
+      "link": "https://thehill.com/homenews/administration/5962326-caroline-sunshine-donald-trump-jd-vance-iran-war-peace-talks/",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 13:39:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan State Police to host hiring event Aug. 1 in Flint",
+      "desc": "Michigan State Police will hold a hiring event Aug. 1 in Flint, offering on-site applications, testing, and interviews for law enforcement roles.",
+      "link": "https://www.mlive.com/news/flint/2026/07/michigan-state-police-to-host-hiring-event-aug-1-in-flint.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 13:34:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "4 Republicans are running to represent Kent County in the Michigan House",
+      "desc": "The winner will face Democrat Rachel Crowther in November for the seat currently held by Rep. Bryan Posthumus, who is not seeking reelection.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/4-republicans-are-running-to-represent-kent-county-in-the-michigan-house.html",
+      "date": "Jul 10, 2026",
+      "rawDate": "Fri, 10 Jul 2026 13:27:00 +0000",
+      "source": "MLive Politics",
       "tag": "government"
     },
     {
-      "title": "Live updates: Iran reportedly developed plot to target Trump; housing bill reaches veto deadline",
-      "desc": "Iran was developing a plan to kill President Trump, which Israeli intelligence shared with the U.S. earlier this week, according to reports. Trump himself said on Wednesday, as he departed the NATO su",
-      "link": "https://thehill.com/homenews/administration/5961461-live-updates-trump-iran-housing-bill/",
+      "title": "Chief responds to criticism after police clash with Black partygoers at Kalamazoo park",
+      "desc": "People spoke out about the police response at a city park.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/chief-responds-to-criticism-after-police-clash-with-black-partygoers-at-kalamazoo-park.html",
       "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Fri, 10 Jul 2026 13:18:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
-      "title": "Mexican national killed in Houston ICE operation was not &#039;target,&#039; lawmaker says",
-      "desc": "The Mexican man who was fatally shot by an Immigrations and Customs Enforcement (ICE) officer in Houston earlier this week was not the person the agency was targeting in their probe, Rep. Sylvia Garci",
-      "link": "https://thehill.com/homenews/house/5962208-houston-ice-mexican-national-shooting-sylvia-garcia/",
+      "title": "Suspension lifted for Apache helicopter pilots who flew over beaches on July 4",
+      "desc": "The flight suspensions for eight Apache helicopter pilots involved in a Fourth of July flyover in South Carolina have been lifted amid pressure from Republicans and the public, chief Pentagon spokespe",
+      "link": "https://thehill.com/homenews/state-watch/5962279-south-carolina-apache-pilots-suspension-lifted/",
       "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:00:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mamdani&#039;s preening arrogance will ultimately prove his downfall",
-      "desc": "The democratic socialist balloon deflated this week.",
-      "link": "https://thehill.com/opinion/campaign/5961516-mamdani-arrogance-offends-communities/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whole Hog Politics: As goes Maine, so goes …",
-      "desc": "[Watch Whole Hog Politics live: Join us today at 9 a.m. EDT at TheHill.com as Chris Stirewalt and host Bill Sammon break down this week’s political news and answer questions from a live online audienc",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/5961630-platler-senate-candidacy-mainemaine/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP split on what Platner’s downfall means for Collins",
-      "desc": "In today's issue: ▪ Collins’s post-Platner reelection prospects ▪ Air Force One controversy ▪ Housing bill veto deadline tonight ▪ ‘Explosive’ parasitic illness outbreak Republicans see pros and cons ",
-      "link": "https://thehill.com/newsletters/morning-report/5962163-susan-collins-gop-split-graham-platner-maine-senate-race/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 11:23:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Game-changing events could reset the 2028 Republican &#039;The Apprentice&#039; nomination",
-      "desc": "The 2028 Republican presidential nomination race is already feeling stale and boring with only two choices, JD Vance and Marco Rubio, and Trump is expected to play a leading role in determining the wi",
-      "link": "https://thehill.com/opinion/campaign/5961261-trump-vance-rubio-2028/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Fri, 10 Jul 2026 13:17:34 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Summit Township asking voters to renew and increase police, fire millage",
@@ -119,26 +209,8 @@
       "tag": "technology"
     },
     {
-      "title": "Graham Platner’s exit in Maine: 5 lessons Democrats could learn",
-      "desc": "Democrats say there are lessons to be learned from Graham Platner's rapid rise and quick demise in the Maine Senate race.  In their search to run someone “different” as part of their rebuilding effort",
-      "link": "https://thehill.com/homenews/campaign/5961663-democrats-lessons-platner-campaign/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House gridlock clouds GOP push for more wins before August recess",
-      "desc": "Republicans are growing increasingly frustrated that weeks of legislative gridlock have brought much of their agenda at a standstill, leaving lawmakers with a thin list of accomplishments to tout on t",
-      "link": "https://thehill.com/homenews/house/5961902-gop-legislative-gridlock-frustration/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "desc": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its ",
+      "desc": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
       "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "date": "Jul 10, 2026",
       "rawDate": "Fri, 10 Jul 2026 06:00:00 +0000",
@@ -164,15 +236,6 @@
       "tag": "technology"
     },
     {
-      "title": "Michigan GOP gubernatorial rivals clash in primary debate",
-      "desc": "Michigan’s three leading Republican candidates for governor traded jabs at one another during Wednesday night’s heated primary debate, hurling accusations at opponents battling for an edge less than a",
-      "link": "https://thehill.com/homenews/5962062-michigan-gop-gubernatorial-rivals-clash-in-primary-debate/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 03:05:49 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Michigan governor debate: GOP candidates talk taxes, data centers, education amid jabs",
       "desc": "Republican gubernatorial candidates sparred over who would be the best leader on major issues while trading jabs, with the majority of blows aimed at frontrunner John James.",
       "link": "https://www.mlive.com/politics/2026/07/michigan-governor-debate-gop-candidates-talk-taxes-data-centers-education-amid-jabs.html",
@@ -183,7 +246,7 @@
     },
     {
       "title": "Iran recently plotted to kill Trump, per Israel: Report",
-      "desc": "Israel recently shared intelligence with the U.S. that reportedly indicted a new plot from Iran to assassinate President Trump, according to a Wall Street Journal article published Thursday. The repor",
+      "desc": "Israel recently shared intelligence with the U.S. that reportedly indicated a new plot from Iran to assassinate President Trump, according to a Wall Street Journal article published Thursday. The repo",
       "link": "https://thehill.com/homenews/administration/5962032-israel-iran-trump-security-threat/",
       "date": "Jul 10, 2026",
       "rawDate": "Fri, 10 Jul 2026 01:48:39 +0000",
@@ -299,24 +362,6 @@
       "tag": "safety"
     },
     {
-      "title": "Ex-therapist jailed for sexual relationship with patient in marriage counseling",
-      "desc": "Mario Gibson Franciscotty tearfully apologized in court as he was sentenced to jail and lost his counseling license forever.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/ex-therapist-jailed-for-sexual-relationship-with-patient-in-marriage-counseling.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 19:34:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Judge orders trial for Flint Township mom accused of child abandonment",
-      "desc": "A Flint Township woman's criminal case was bound over after her two disabled sons were found alone in unsanitary, hazardous conditions.",
-      "link": "https://www.mlive.com/news/flint/2026/07/judge-orders-trial-for-flint-township-mom-accused-of-child-abandonment.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 19:26:17 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Multiple construction projects to know this summer on the University of Michigan’s campus",
       "desc": "From the historic Diag to Lorch Hall, construction crews are reshaping infrastructure, preserving century-old buildings and preparing sites for major future investment through fall.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/multiple-construction-projects-to-know-this-summer-on-the-university-of-michigans-campus.html",
@@ -342,15 +387,6 @@
       "rawDate": "Thu, 09 Jul 2026 18:55:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "2 men charged for alleged assault in St. Clair County",
-      "desc": "Two men were charged after allegedly assaulting a woman, holding her captive, and threatening her with a gun in Wales Township.",
-      "link": "https://www.mlive.com/news/2026/07/2-men-charged-for-alleged-assault-in-st-clair-county.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 18:52:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Planned Parenthood targets vulnerable Republicans with $47 million midterm push",
@@ -389,24 +425,6 @@
       "tag": "government"
     },
     {
-      "title": "Saginaw man gets 30-50 years for killing man he shot 16 times",
-      "desc": "\"Murder doesn’t just take one life. It shatters every life connected to that person,\"  said the fiancée of homicide victim Demetrious \"Meak\" Robinson.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/saginaw-man-gets-30-50-years-for-killing-man-he-shot-16-times.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 17:24:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Flint family honors activist Pablo Lopez 15 years after unsolved homicide",
-      "desc": "Pablo Lopez’s family honors his legacy of hope and service 15 years after his unsolved 2011 homicide in Flint.",
-      "link": "https://www.mlive.com/news/flint/2026/07/flint-family-honors-activist-pablo-lopez-15-years-after-unsolved-homicide.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 17:23:53 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Rogan: Trump &#039;might&#039;ve f‑‑‑ed it up&#039; with Iran war",
       "desc": "Podcaster Joe Rogan on Wednesday said President Trump may have “f‑‑‑ed it up” with the Iran war after the U.S. resumed military strikes on Iran, following Tehran’s attacks on ships transiting the Stra",
       "link": "https://thehill.com/homenews/administration/5961073-joe-rogan-trump-iran-war/",
@@ -425,15 +443,6 @@
       "tag": "government"
     },
     {
-      "title": "Man accused of exposing, fondling himself at U.P. library",
-      "desc": "He is also accused of exposing himself to two women while walking on a Lake Superior boardwalk.",
-      "link": "https://www.mlive.com/news/2026/07/man-accused-of-exposing-fondling-himself-at-up-library.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 16:26:24 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "University of Michigan’s top lawyer to leave for West Coast",
       "desc": "University President Domenico Grasso appointed an internal employee to replace UM's vice president and general counsel for a two-year term.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/university-of-michigans-top-lawyer-to-leave-for-west-coast.html",
@@ -441,15 +450,6 @@
       "rawDate": "Thu, 09 Jul 2026 16:24:53 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Saginaw jury duty scam: Woman loses $4,000 to fraudsters",
-      "desc": "Scammers posing as law enforcement officials are demanding cash payments from residents who supposedly missed jury duty.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/saginaw-jury-duty-scam-woman-loses-4000-to-fraudsters.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 16:08:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Massie: Might as well call ObamaCare &#039;Trumpcare&#039;",
@@ -468,24 +468,6 @@
       "rawDate": "Thu, 09 Jul 2026 15:30:38 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Police investigating assault caught on video in downtown Jackson",
-      "desc": "The assault occurred in the street on W. Michigan Avenue in front of Horace Blackman Park in downtown Jackson, according to landmarks visible in the video.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/police-investigating-assault-caught-on-video-in-downtown-jackson.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 15:23:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Crash on M-13 in Bay County claims motorcyclist’s life",
-      "desc": "Sheriff's deputies say an SUV driven by an 81-year-old man crashed into a Suzuki motorcycle driven by a 53-year-old local man.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/crash-on-m-13-in-bay-county-claims-motorcyclists-life.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 15:21:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Michigan pork projects 2026: See the full list of $125M in earmarks",
@@ -606,7 +588,7 @@
     },
     {
       "title": "Top lawyer for military joint chiefs stepping down early, citing &#039;personal reasons&#039;",
-      "desc": "The senior legal counsel to Joint Chiefs of Staff Chair Gen. Dan Caine is stepping down nearly a year ahead of schedule ��� the latest top official to leave or be pushed out of the Pentagon since the ",
+      "desc": "The senior legal counsel to Joint Chiefs of Staff Chair Gen. Dan Caine is stepping down nearly a year ahead of schedule — the latest top official to leave or be pushed out of the Pentagon since the st",
       "link": "https://thehill.com/policy/defense/5960143-top-pentagon-lawyer-exits-early/",
       "date": "Jul 8, 2026",
       "rawDate": "Wed, 08 Jul 2026 23:48:00 +0000",
@@ -686,15 +668,6 @@
       "tag": "education"
     },
     {
-      "title": "Wolverine Watchmen convictions appealed in Whitmer kidnap plot",
-      "desc": "Paul Bellar and Pete Musico are seeking to overturn their terrorism convictions after a prosecutor conceded they would likely succeed in their appeal.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/wolverine-watchmen-convictions-appealed-in-whitmer-kidnap-plot.html",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 18:48:27 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump warms up to Ukraine, gets angry with Iran: 5 takeaways from the NATO summit",
       "desc": "President Trump and other leaders wrapped up the NATO alliance’s whirlwind summit in Ankara, Turkey, on Wednesday with a number of significant developments. Trump gave Ukraine the go-ahead to produce ",
       "link": "https://thehill.com/homenews/administration/5959566-trump-iran-rhetoric-shift/",
@@ -722,15 +695,6 @@
       "tag": "education"
     },
     {
-      "title": "Russian attacks kill 4 across Ukraine, striking Kyiv for second straight day",
-      "desc": "KYIV, Ukraine (AP) — Russian drones and missiles killed four people across Ukraine on Wednesday in attacks before dawn and at midday, as Moscow kept up its pressure on the capital of Kyiv in the lates",
-      "link": "https://thehill.com/policy/international/russia-attacks-kyiv-zelensky-donald-trump/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 16:33:51 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Abbott orders Texas officials to investigate hospital over &#039;birth packages&#039; for foreign nationals",
       "desc": "Texas Gov. Greg Abbott (R) directed state officials on Tuesday to “immediately” launch an investigation into a state hospital for allegedly seeking to profit from “birth tourism” practices.  Abbott sa",
       "link": "https://thehill.com/homenews/state-watch/5959235-abbott-texas-birth-tourism/",
@@ -745,17 +709,8 @@
       "link": "https://thehill.com/policy/defense/5957793-sam-eckholm-military-storyteller/",
       "date": "Jul 8, 2026",
       "rawDate": "Wed, 08 Jul 2026 16:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Sailor missing in Arabian Sea declared dead",
-      "desc": "The U.S. Navy has identified the airman lost over the Arabian Sea earlier this month as Cmdr. Gabriel Edwards, the service announced Wednesday. Edwards, originally of Oakland, Ore., was the commanding",
-      "link": "https://thehill.com/policy/defense/5959178-us-navy-identifies-commander-edwards/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 15:46:03 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Brighton schools move forward with planned security improvements at 2 sites",
@@ -848,15 +803,6 @@
       "tag": "health"
     },
     {
-      "title": "Swartz Creek school board to discuss new $40M offer to purchase Morrish Elementary for megasite",
-      "desc": "Chuck Melki, board president, shared a post in late June noting the purchase agreement proposal had been delivered by “MegaSite representatives.”",
-      "link": "https://www.mlive.com/news/flint/2026/07/swartz-creek-school-board-to-discuss-new-40m-offer-to-purchase-morrish-elementary-for-megasite.html",
-      "date": "Jul 7, 2026",
-      "rawDate": "Tue, 07 Jul 2026 18:20:13 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "SpaceX president donating stock to Trump Accounts",
       "desc": "SpaceX President Gwynne Shotwell said Monday that she and her husband are donating stock in the newly public company to Trump Accounts for more than 2 million children. “My husband and I are honored a",
       "link": "https://thehill.com/policy/technology/5956647-spacex-trump-accounts/",
@@ -880,15 +826,6 @@
       "link": "https://thehill.com/policy/technology/5955918-americans-ai-sentiment-poll/",
       "date": "Jul 7, 2026",
       "rawDate": "Tue, 07 Jul 2026 09:30:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Illinois becomes first state to require third-party audit of AI models",
-      "desc": "Illinois Gov. JB Pritzker (D) on Monday signed a bill making the state the country's first to mandate that the largest artificial intelligence labs obtain third-party audits of their safety plans. Pri",
-      "link": "https://thehill.com/policy/technology/5955442-illinois-ai-safety-bill/",
-      "date": "Jul 6, 2026",
-      "rawDate": "Mon, 06 Jul 2026 19:12:37 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

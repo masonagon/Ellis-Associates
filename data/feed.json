@@ -1,6 +1,60 @@
 {
-  "generated": "2026-07-11T12:59:42.395Z",
+  "generated": "2026-07-11T14:23:21.556Z",
   "news": [
+    {
+      "title": "Judge OKs DOJ request to toss remaining Proud Boys Jan. 6 convictions",
+      "desc": "A federal judge on Friday agreed to drop the remaining cases against four leaders of the right-wing extremist Proud Boys who were convicted for their roles in the Jan. 6, 2021, attack on the Capitol. ",
+      "link": "https://thehill.com/regulation/court-battles/5963845-federal-judge-doj-toss-proud-boys-jan-6-convictions/",
+      "date": "Jul 11, 2026",
+      "rawDate": "Sat, 11 Jul 2026 14:16:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo police investigate fatal weekend shooting",
+      "desc": "A 21-year-old man has died after being shot early Saturday morning in the 700 block of North Westnedge Avenue in Kalamazoo.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/kalamazoo-police-investigate-fatal-weekend-shooting.html",
+      "date": "Jul 11, 2026",
+      "rawDate": "Sat, 11 Jul 2026 14:08:02 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ferris State gets state support to plan $29.5M healthcare building expansion, renovation",
+      "desc": "The $29.5 million project, if given final approval in a subsequent state budget, would include the renovation of the original building, built in 1979, along with an addition.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/ferris-state-gets-state-support-to-plan-295m-healthcare-building-expansion-renovation.html",
+      "date": "Jul 11, 2026",
+      "rawDate": "Sat, 11 Jul 2026 13:25:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Amid squabble over birthplace of 172-year-old Republican Party, a Michigan city doubles down",
+      "desc": "One city has made the claim for more than a century. Another says its pivotal role has been overlooked. Neither are backing down.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/amid-squabble-over-birthplace-of-172-year-old-republican-party-a-michigan-city-doubles-down.html",
+      "date": "Jul 11, 2026",
+      "rawDate": "Sat, 11 Jul 2026 13:20:20 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Trump warns Iran over alleged assassination plot; Housing bill now law",
+      "desc": "President Trump issued a stark warning to Iran late Friday, after the Islamic Republic reportedly plotted an assassination attempt against the president. “1000 Missiles are Locked and Loaded and aimed",
+      "link": "https://thehill.com/homenews/administration/5962532-live-updates-trump-iran-war-midterms-housing-bill/",
+      "date": "Jul 11, 2026",
+      "rawDate": "Sat, 11 Jul 2026 13:07:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bipartisan housing bill becomes law after Trump&#039;s signature snub",
+      "desc": "A bipartisan housing bill automatically became law early Saturday without President Trump’s signature, after Trump sought to stall it in protest of the Senate's failure to pass his voter ID legislatio",
+      "link": "https://thehill.com/homenews/administration/5963773-bipartisan-housing-bill-now-law-donald-trump-signature-snub/",
+      "date": "Jul 11, 2026",
+      "rawDate": "Sat, 11 Jul 2026 12:59:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Ukrainian teen who fled from war to Grand Haven heading to art school",
       "desc": "Yevheniia Shmyrko arrived in West Michigan speaking limited English and has now graduated from high school and earned a scholarship to a top art school.",
@@ -191,15 +245,6 @@
       "tag": "associations"
     },
     {
-      "title": "What to know about fatal ICE shooting of Lorenzo Salgado Araujo",
-      "desc": "The fatal shooting of Lorenzo Salgado Araujo by federal immigration officers in Texas this week has reignited a firestorm over the Trump administration’s immigration crackdown and sparked calls for an",
-      "link": "https://thehill.com/homenews/state-watch/5963550-fatal-shooting-lorenzo-salgado/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 23:18:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
       "desc": "Data centers are driving up the company’s use of electricity—and carbon pollution.",
       "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
@@ -216,24 +261,6 @@
       "rawDate": "Fri, 10 Jul 2026 22:57:49 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Democratic ad hits Collins on abortion",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  De",
-      "link": "https://thehill.com/newsletters/healthcare/5963507-democratic-ad-maine-collins-abortion/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 22:26:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Conservative coalition urges Congress to protect internet freedoms in Iran",
-      "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; Your feedback matters to us. Take our brief newsletter survey to",
-      "link": "https://thehill.com/newsletters/defense-national-security/5963509-conservative-coalition-urges-congress-to-protect-internet-freedoms-in-iran/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 22:26:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Fears erupt over Iran&#039;s desire to kill Trump",
@@ -560,39 +587,12 @@
       "tag": "safety"
     },
     {
-      "title": "Summit Township asking voters to renew and increase police, fire millage",
-      "desc": "Two proposals, one to renew the current millage, and another to increase it by 1 mill appear on the Aug. 4 ballot in the township, where there is a full-time fire department and police protection spec",
-      "link": "https://www.mlive.com/news/jackson/2026/07/summit-township-asking-voters-to-renew-and-increase-police-fire-millage.html",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 10:36:40 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michigan governor debate: GOP candidates talk taxes, data centers, education amid jabs",
-      "desc": "Republican gubernatorial candidates sparred over who would be the best leader on major issues while trading jabs, with the majority of blows aimed at frontrunner John James.",
-      "link": "https://www.mlive.com/politics/2026/07/michigan-governor-debate-gop-candidates-talk-taxes-data-centers-education-amid-jabs.html",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 02:37:31 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Iran recently plotted to kill Trump, per Israel: Report",
       "desc": "Israel recently shared intelligence with the U.S. that reportedly indicated a new plot from Iran to assassinate President Trump, according to a Wall Street Journal article published Thursday. The repo",
       "link": "https://thehill.com/homenews/administration/5962032-israel-iran-trump-security-threat/",
       "date": "Jul 10, 2026",
       "rawDate": "Fri, 10 Jul 2026 01:48:39 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Man charged after Ottawa County domestic assault",
-      "desc": "Maxumis Cody Bair, 21, faces multiple charges after allegedly firing a weapon during an incident involving a pregnant woman and 18-month-old child in Chester Township.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/man-charged-after-ottawa-county-domestic-assault.html",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 01:04:47 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -718,15 +718,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/university-of-michigan-nurses-reach-tentative-deal-avoiding-possible-strike.html",
       "date": "Jul 9, 2026",
       "rawDate": "Thu, 09 Jul 2026 14:38:34 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Brighton schools approve $8,200 traffic study to address drop-off congestion",
-      "desc": "The Brighton Area Schools Board of Education approved a contract for the study near Maltby and Hornung Elementary schools during its June 25 meeting.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/brighton-schools-approve-8200-traffic-study-to-address-drop-off-congestion.html",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 14:02:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

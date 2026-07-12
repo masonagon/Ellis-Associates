@@ -1,9 +1,18 @@
 {
-  "generated": "2026-07-12T22:39:05.541Z",
+  "generated": "2026-07-12T23:44:14.400Z",
   "news": [
     {
+      "title": "McConnell says he ‘won’t be able to return to the Senate floor to vote quite yet’",
+      "desc": "Sen. Mitch McConnell (R-Ky.) on Sunday said he won’t return to the Capitol for votes “quite yet” as lawmakers prepare to return from recess.  “As much as it frustrates me, this process takes time. And",
+      "link": "https://thehill.com/homenews/senate/5965059-mitch-mcconnell-senate-absence/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 23:15:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Preliminary findings reveal Graham died of &quot;aortic dissection&quot;: Medical examiner",
-      "desc": "Sen. Lindsey Graham (R-S.C.) died on Saturday of an aortic dissection due to arteriosclerotic cardiovascular disease, the office of the D.C. Chief Medical Examiner said Sunday. “The death certificate ",
+      "desc": "Sen. Lindsey Graham (R-S.C.) died on Saturday of an aortic dissection due to arteriosclerotic cardiovascular disease, the office of the Washington, D.C., chief medical examiner said Sunday. “The death",
       "link": "https://thehill.com/homenews/senate/5964972-sen-lindsey-graham-death-cause/",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 22:00:06 +0000",
@@ -30,7 +39,7 @@
     },
     {
       "title": "Russia goes to Japan for tech in Ukraine war: Report",
-      "desc": "Russia has used Japan as a base for tech and spying in its war against Ukraine, according to a new report from The New York Times. According to the Times report, released Sunday, some Russian spies en",
+      "desc": "Russia has used Japan as a base for tech and spying in its war against Ukraine, according to a new report from The New York Times. According to the Times report released on Sunday, some Russian spies ",
       "link": "https://thehill.com/policy/technology/5964924-russia-japan-tech-spying-ukraine/",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 20:59:49 +0000",
@@ -126,15 +135,6 @@
       "rawDate": "Sun, 12 Jul 2026 17:35:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "GOP senator says Graham ‘really felt he was making great strides’ on Russia sanctions bill before death",
-      "desc": "Sen. Mike Rounds (R-S.D.) on Sunday said that the late Sen. Lindsey Graham (R-S.C.) really felt as he was “making great strides” towards a Russia sanctions bill before he died at the age of 71 due to ",
-      "link": "https://thehill.com/homenews/senate/5964699-graham-russia-sanctions-bipartisan-bill/",
-      "date": "Jul 12, 2026",
-      "rawDate": "Sun, 12 Jul 2026 17:00:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "You got the &#039;explosive&#039; diarrhea parasite. Now what?",
@@ -245,18 +245,18 @@
       "tag": "associations"
     },
     {
-      "title": "Big Tech spent thousands lobbying. Now, its Michigan data centers could get big tax breaks",
-      "desc": "Google, other tech firms and big utilities poured money into influencing Michigan lawmakers as they debated extending favorable tax treatment to large-scale AI data centers.",
-      "link": "https://www.mlive.com/news/2026/07/big-tech-spent-thousands-lobbying-now-its-michigan-data-centers-could-get-big-tax-breaks.html",
+      "title": "Democrats could flip the governor’s map for the first time since 2010, new report shows",
+      "desc": "A new analysis showed that Democrats could take the majority in 2026 when it comes to the governor’s map.",
+      "link": "https://www.mlive.com/politics/2026/07/democrats-could-flip-the-governors-map-for-the-first-time-since-2010-new-report-shows.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
     {
-      "title": "Democrats could flip the governor’s map for the first time since 2010, new report shows",
-      "desc": "A new analysis showed that Democrats could take the majority in 2026 when it comes to the governor’s map.",
-      "link": "https://www.mlive.com/politics/2026/07/democrats-could-flip-the-governors-map-for-the-first-time-since-2010-new-report-shows.html",
+      "title": "Big Tech spent thousands lobbying. Now, its Michigan data centers could get big tax breaks",
+      "desc": "Google, other tech firms and big utilities poured money into influencing Michigan lawmakers as they debated extending favorable tax treatment to large-scale AI data centers.",
+      "link": "https://www.mlive.com/news/2026/07/big-tech-spent-thousands-lobbying-now-its-michigan-data-centers-could-get-big-tax-breaks.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Politics",

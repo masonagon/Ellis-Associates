@@ -1,6 +1,51 @@
 {
-  "generated": "2026-07-12T16:49:43.396Z",
+  "generated": "2026-07-12T17:53:20.500Z",
   "news": [
+    {
+      "title": "Vehicle strikes home in Ottawa County, driver hospitalized",
+      "desc": "Police said the 54-year-old driver suffered minor injuries when his SUV left the road and struck a residence.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/vehicle-strikes-home-in-ottawa-county-driver-hospitalized.html",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 17:41:52 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Where is Frances Zaayer now? An update on the murderous ‘Worst Neighbor Ever’",
+      "desc": "'Worst Neighbor Ever' premiered on Netflix July 1",
+      "link": "https://www.mlive.com/news/2026/07/where-is-frances-zaayer-now-an-update-on-the-murderous-worst-neighbor-ever.html",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 17:35:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "GOP senator says Graham ‘really felt he was making great strides’ on Russia sanctions bill before death",
+      "desc": "Sen. Mike Rounds (R-S.D.) on Sunday said that the late Sen. Lindsey Graham (R-S.C.) really felt as he was “making great strides” towards a Russia sanctions bill before he died at the age of 71 due to ",
+      "link": "https://thehill.com/homenews/senate/5964699-graham-russia-sanctions-bipartisan-bill/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 17:00:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Allowing Russia back into the Olympics undermines what the games represent",
+      "desc": "The International Olympic Committee has provisionally lifted the 2023 suspension of the Russian Olympic Committee, allowing Russian athletes to participate in the next Olympics, despite the ongoing co",
+      "link": "https://thehill.com/opinion/international/5963342-olympics-russia-ukraine-conflict/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "You got the &#039;explosive&#039; diarrhea parasite. Now what?",
+      "desc": "(NEXSTAR) – Hundreds of people, and likely more, have fallen ill thanks to a parasite in recent weeks. While authorities continue to search for the source, you may be left fearing any fruit or vegetab",
+      "link": "https://thehill.com/policy/healthcare/5961707-you-got-the-explosive-diarrhea-parasite-now-what/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 17:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "Nancy Mace eyes run to replace Graham in Senate",
       "desc": "Rep. Nancy Mace (R-S.C.) is considering a run to replace the late Sen. Lindsey Graham (R-S.C.) in the Senate. Asked about interest in replacing Graham, a person familiar with Mace’s thinking told The ",
@@ -20,8 +65,8 @@
       "tag": "government"
     },
     {
-      "title": "Data centers become flashpoint in gubernatorial races",
-      "desc": "Political backlash to data centers is putting gubernatorial candidates in the hot seat as the presence of the massive AI infrastructure becomes a flashpoint in races up and down the ballot.  Incumbent",
+      "title": "Data centers become flash point in gubernatorial races",
+      "desc": "Political backlash to data centers is putting gubernatorial candidates in the hot seat as the presence of the massive AI infrastructure becomes a flash point in races up and down the ballot.  Incumben",
       "link": "https://thehill.com/policy/technology/5963542-data-centers-become-flashpoint-in-gubernatorial-races/",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 16:00:00 +0000",
@@ -81,15 +126,6 @@
       "rawDate": "Sun, 12 Jul 2026 13:33:33 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "What happens next after Lindsey Graham&#039;s death? South Carolina law lays out the process",
-      "desc": "South Carolina law calls for a temporary appointment to fill the current Senate vacancy and a special Republican primary to select a replacement nominee for the November election. Voters would then ch",
-      "link": "https://thehill.com/homenews/state-watch/5964544-what-happens-next-after-lindsey-grahams-death-south-carolina-law-lays-out-the-process/",
-      "date": "Jul 12, 2026",
-      "rawDate": "Sun, 12 Jul 2026 13:27:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Ada Township seeks voter approval for parks funding increase Aug. 4",
@@ -587,24 +623,6 @@
       "tag": "safety"
     },
     {
-      "title": "No abduction attempt at Clark Lake boat club, investigation finds",
-      "desc": "Following a thorough investigation conducted by the Columbia Township Police Department, it has been determined that the incident was the result of a misunderstanding and that no attempted abduction o",
-      "link": "https://www.mlive.com/news/jackson/2026/07/no-abduction-attempt-at-clark-lake-boat-club-investigation-finds.html",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 16:37:58 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Florida nurse gets prison time for stabbing Saginaw man in groin during bar fight",
-      "desc": "The Florida man will be incarcerated in a Michigan prison for two to 12 years.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/florida-nurse-gets-prison-time-for-stabbing-saginaw-man-in-groin-during-bar-fight.html",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 16:09:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Goldman Sachs bans employees from some prediction market contracts",
       "desc": "Goldman Sachs is placing restrictions on employee trading on some prediction markets, a source familiar confirmed to The Hill on Friday. Staff at the investment banking giant are permitted to place wa",
       "link": "https://thehill.com/policy/technology/5962630-goldman-sachs-restricts-employee-trading/",
@@ -862,15 +880,6 @@
       "link": "https://thehill.com/policy/healthcare/5957632-yale-researchers-obtain-glp1-prescriptions/",
       "date": "Jul 7, 2026",
       "rawDate": "Tue, 07 Jul 2026 20:31:16 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Number of Americans taking GLP-1s for weight loss hits record high: Survey",
-      "desc": "A record number of Americans are taking GLP-1 drugs for weight loss, according to a new Gallup survey released Tuesday — a massive increase over the past two years.  According to the poll, 11 percent ",
-      "link": "https://thehill.com/policy/healthcare/5957430-glp-1-drugs-weight-loss-rise/",
-      "date": "Jul 7, 2026",
-      "rawDate": "Tue, 07 Jul 2026 18:46:32 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

@@ -1,6 +1,24 @@
 {
-  "generated": "2026-07-12T10:19:15.182Z",
+  "generated": "2026-07-12T11:52:06.707Z",
   "news": [
+    {
+      "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "desc": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
+      "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 11:09:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Sen. Kennedy says democratic socialists will ‘lead their party to defeat’ in November",
+      "desc": "Sen. John Kennedy (R-La.) said the Democratic Party is now controlled by their “loon wing” of democratic socialists who will lead them to electoral disaster in November in a new interview on Sunday.  ",
+      "link": "https://thehill.com/homenews/senate/5964197-sen-kennedy-says-democratic-socialists-will-lead-their-party-to-defeat-in-november/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Data center tax breaks cost Michigan at least $13M but are shrouded in secrecy",
       "desc": "Long before large-scale AI data centers exploded onto the scene, Michigan cut taxes for smaller computing centers. The state won't say which companies benefit.",
@@ -47,15 +65,6 @@
       "tag": "technology"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
-      "date": "Jul 12, 2026",
-      "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
       "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
       "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
@@ -65,8 +74,17 @@
       "tag": "education"
     },
     {
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
       "title": "RFK Jr.’s focus on preventive health panel provokes new fears",
-      "desc": "Health and Human Services (HHS) Sec. Robert F. Kennedy Jr. has his sights set on remaking another influential health panel, one that determines what preventive medical services insurers must cover for",
+      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. has his sights set on remaking another influential health panel, one that determines what preventive medical services insurers must cove",
       "link": "https://thehill.com/policy/healthcare/5963488-kennedy-remakes-preventive-panel/",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
@@ -353,15 +371,6 @@
       "tag": "safety"
     },
     {
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "desc": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "date": "Jul 11, 2026",
-      "rawDate": "Sat, 11 Jul 2026 01:07:26 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "US demands Iran affirm Strait of Hormuz fully open after exchange of strikes, officials say",
       "desc": "The U.S. is demanding Iran affirm that the Strait of Hormuz is fully open to shipping traffic and that Iranian forces are not firing on vessels, as the two sides continue to trade strikes in and aroun",
       "link": "https://thehill.com/policy/international/5963580-u-s-demands-iran-affirm-strait-of-hormuz-is-fully-open-after-exchange-of-strikes-officials-say/",
@@ -380,15 +389,6 @@
       "tag": "associations"
     },
     {
-      "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-      "desc": "Data centers are driving up the company’s use of electricity—and carbon pollution.",
-      "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 23:16:56 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Fears erupt over Iran&#039;s desire to kill Trump",
       "desc": "A reported new threat by Iran to assassinate President Trump served as a reminder this week of the risk that the hard-line Tehran regime poses to him, especially as a tenuous ceasefire between the U.S",
       "link": "https://thehill.com/homenews/administration/5963476-iran-trump-assassination-risk-israel-air-force-one/",
@@ -396,15 +396,6 @@
       "rawDate": "Fri, 10 Jul 2026 22:08:20 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "desc": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 20:44:05 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Apple sues OpenAI over alleged theft of trade secrets",

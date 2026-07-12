@@ -1,9 +1,36 @@
 {
-  "generated": "2026-07-11T23:45:19.041Z",
+  "generated": "2026-07-12T01:57:23.196Z",
   "news": [
     {
+      "title": "Meta u-turns on AI feature amid privacy backlash",
+      "desc": "Facebook and Instagram parent company Meta took down a new artificial intelligence model for Instagram on Friday, just days after debuting this feature to immediate public backlash. The company advert",
+      "link": "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 01:35:11 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "US launches third round of strikes after Iran announces strait closure",
+      "desc": "The U.S. military launched a third round of strikes against Iran on Saturday in response to an Iranian attack on a container ship in the Strait of Hormuz, according to U.S. Central Command (Centcom). ",
+      "link": "https://thehill.com/policy/defense/5964263-iran-closes-strait-hormuz/",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 00:31:14 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Report: Man dead, woman injured in Great Lakes Crossing mall shooting",
+      "desc": "Police earlier said a suspect was in custody and there was no longer a danger to the public at the Auburn Hills shopping center.",
+      "link": "https://www.mlive.com/news/2026/07/report-man-dead-woman-injured-in-great-lakes-crossing-mall-shooting.html",
+      "date": "Jul 12, 2026",
+      "rawDate": "Sun, 12 Jul 2026 00:18:57 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "Progressive House candidate responds to criticism over past comments about Black Dems",
-      "desc": "William Lawrence, a progressive running in the Democratic primary for the U.S. House in Michigan, is responding to backlash over his previous criticism of Black political leaders.  The Huffington Post",
+      "desc": "William Lawrence, a progressive running in the Democratic primary for the U.S. House in Michigan, is responding to backlash over his previous criticism of Black political leaders.  The Huffington Post",
       "link": "https://thehill.com/homenews/campaign/5964228-progressive-house-candidate-responds-to-criticism-over-past-comments-about-black-dems/",
       "date": "Jul 11, 2026",
       "rawDate": "Sat, 11 Jul 2026 23:08:39 +0000",
@@ -79,24 +106,6 @@
       "link": "https://thehill.com/homenews/senate/5963996-sheldon-whitehouse-trump-administration-kennedy-center-investigation-spending/",
       "date": "Jul 11, 2026",
       "rawDate": "Sat, 11 Jul 2026 17:25:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "America’s AI revolution could end in disaster",
-      "desc": "Big Tech companies are spending billions to build AI data centers across the country, creating temporary jobs for blue-collar workers while draining local resources and potentially replacing them with",
-      "link": "https://thehill.com/opinion/technology/5962802-big-tech-ai-data-centers/",
-      "date": "Jul 11, 2026",
-      "rawDate": "Sat, 11 Jul 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Carville unloads on far-left Democrats over party infighting ahead of midterms",
-      "desc": "Democratic strategist James Carville tore into progressive and “insurgent” Democrats on Friday, arguing that inner-party division will lead to the same problems he believes helped the GOP elect Presid",
-      "link": "https://thehill.com/homenews/campaign/5963954-james-carville-leftist-democrats-midterms-criticism/",
-      "date": "Jul 11, 2026",
-      "rawDate": "Sat, 11 Jul 2026 16:22:50 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -569,15 +578,6 @@
       "tag": "safety"
     },
     {
-      "title": "Man, 24, accused of sexual assaults against 12-year-old girl",
-      "desc": "A 24-year-old man is charged with raping a child in Menominee County, Mich.",
-      "link": "https://www.mlive.com/news/2026/07/man-24-accused-of-sexual-assaults-against-12-year-old-girl.html",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 14:09:12 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Former Trump staffer: Vance &#039;set up&#039; as &#039;fall guy&#039; for Iran deal",
       "desc": "Caroline Sunshine, who served as an aide to President Trump during his first term, suggested Thursday that Vice President Vance was set up to take the blame for the failed memorandum of understanding ",
       "link": "https://thehill.com/homenews/administration/5962326-caroline-sunshine-donald-trump-jd-vance-iran-war-peace-talks/",
@@ -765,15 +765,6 @@
       "rawDate": "Thu, 09 Jul 2026 11:38:51 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump&#039;s pledge to lift Turkey sanctions sets up fight with Congress, allies",
-      "desc": "President Trump is setting up a fight with Congress and regional allies over his announcement Tuesday that he will remove sanctions on Turkey and potentially welcome Ankara back into the F-35 fighter ",
-      "link": "https://thehill.com/policy/defense/5959945-trump-turkey-sanctions-fight-f35s-congress-fight/",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Rising ObamaCare premiums fuel Democrats&#039; affordability attacks against GOP",

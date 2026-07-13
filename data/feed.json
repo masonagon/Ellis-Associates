@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-13T01:59:00.934Z",
+  "generated": "2026-07-13T05:40:08.949Z",
   "news": [
+    {
+      "title": "US launches additional strikes in Iran amid continued hostilities: Centcom",
+      "desc": "U.S. forces on Sunday launched additional strikes on Iranian targets, as the two sides continue their resumption of hostilities over the Strait of Hormuz. U.S. Central Command (Centcom) said Sunday ev",
+      "link": "https://thehill.com/policy/defense/5965142-centcom-launches-precision-munitions/",
+      "date": "Jul 13, 2026",
+      "rawDate": "Mon, 13 Jul 2026 03:08:56 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Prediction market users spend nearly $200 million on midterm election bets: Report",
+      "desc": "Prediction market users have wagered in excess of $197 million on midterm election results, according to NBC News. The outlet analyzed 1,408 open markets on Kalshi and Polymarket for its report, publi",
+      "link": "https://thehill.com/policy/technology/5965133-kalshi-polymarket-midterm-predictions/",
+      "date": "Jul 13, 2026",
+      "rawDate": "Mon, 13 Jul 2026 02:31:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Graham death sends shockwaves through Senate",
+      "desc": "The sudden death of Sen. Lindsey Graham (R-S.C.) on Saturday sent shockwaves through the Senate, as the upper chamber lost a 23-year veteran who shaped debate on a litany of foreign and domestic polic",
+      "link": "https://thehill.com/homenews/5965101-tributes-pour-graham-death/",
+      "date": "Jul 13, 2026",
+      "rawDate": "Mon, 13 Jul 2026 02:25:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "McConnell says he ‘won’t be able to return to the Senate floor to vote quite yet’",
       "desc": "Sen. Mitch McConnell (R-Ky.) on Sunday said he won’t return to the Capitol for votes “quite yet” as lawmakers prepare to return from recess.  “As much as it frustrates me, this process takes time. And",
@@ -97,8 +124,8 @@
       "link": "https://thehill.com/policy/national-security/5964782-himes-calls-air-force-one-risk/",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 18:39:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "‘I’m innocent’: Woman cleared in baby’s death at Electric Forest speaks out",
@@ -108,15 +135,6 @@
       "rawDate": "Sun, 12 Jul 2026 18:36:57 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Congress should share, not shield, US artificial intelligence tech",
-      "desc": "China has unveiled the world's fastest supercomputer, LineShine, which was able to bypass U.S. export restrictions by using a network of CPU standard microprocessors instead of GPUs.",
-      "link": "https://thehill.com/opinion/technology/5963691-china-tech-race-supercomputer/",
-      "date": "Jul 12, 2026",
-      "rawDate": "Sun, 12 Jul 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Vehicle strikes home in Ottawa County, driver hospitalized",
@@ -245,18 +263,18 @@
       "tag": "associations"
     },
     {
-      "title": "Big Tech spent thousands lobbying. Now, its Michigan data centers could get big tax breaks",
-      "desc": "Google, other tech firms and big utilities poured money into influencing Michigan lawmakers as they debated extending favorable tax treatment to large-scale AI data centers.",
-      "link": "https://www.mlive.com/news/2026/07/big-tech-spent-thousands-lobbying-now-its-michigan-data-centers-could-get-big-tax-breaks.html",
+      "title": "Democrats could flip the governor’s map for the first time since 2010, new report shows",
+      "desc": "A new analysis showed that Democrats could take the majority in 2026 when it comes to the governor’s map.",
+      "link": "https://www.mlive.com/politics/2026/07/democrats-could-flip-the-governors-map-for-the-first-time-since-2010-new-report-shows.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
     {
-      "title": "Democrats could flip the governor’s map for the first time since 2010, new report shows",
-      "desc": "A new analysis showed that Democrats could take the majority in 2026 when it comes to the governor’s map.",
-      "link": "https://www.mlive.com/politics/2026/07/democrats-could-flip-the-governors-map-for-the-first-time-since-2010-new-report-shows.html",
+      "title": "Big Tech spent thousands lobbying. Now, its Michigan data centers could get big tax breaks",
+      "desc": "Google, other tech firms and big utilities poured money into influencing Michigan lawmakers as they debated extending favorable tax treatment to large-scale AI data centers.",
+      "link": "https://www.mlive.com/news/2026/07/big-tech-spent-thousands-lobbying-now-its-michigan-data-centers-could-get-big-tax-breaks.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Politics",
@@ -641,15 +659,6 @@
       "tag": "safety"
     },
     {
-      "title": "Pentagon releases fourth batch of UFO files",
-      "desc": "The volume includes 40 new files, including 19 videos.",
-      "link": "https://thehill.com/homenews/administration/5962825-pentagon-releases-fourth-batch-of-ufo-files/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 18:02:15 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "GVSU to purchase Consumers Energy building for $9.7M, sell Detroit Center for $6.2M",
       "desc": "Grand Valley State University’s board approved the multi-million-dollar purchase of one Grand Rapids downtown building as it signed off on the sale of a facility in Detroit.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/07/gvsu-to-purchase-consumers-energy-building-for-97m-sell-detroit-center-for-62m.html",
@@ -684,15 +693,6 @@
       "rawDate": "Fri, 10 Jul 2026 15:46:52 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump says Iran talks will continue, but ceasefire &#039;is OVER!&#039;",
-      "desc": "President Trump on Friday declared the U.S. ceasefire with Iran is over, even as he said talks to find a peace deal will continue.  “The Islamic Republic of Iran has asked us to continue ‘talks.’ We h",
-      "link": "https://thehill.com/homenews/administration/5962657-trump-us-iran-ceasefire-talks/",
-      "date": "Jul 10, 2026",
-      "rawDate": "Fri, 10 Jul 2026 15:43:12 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "PFAS found at Portage elementary school construction site",
@@ -855,15 +855,6 @@
       "rawDate": "Wed, 08 Jul 2026 14:31:09 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "OpenAI will publicly release advanced GPT model after government-requested delay",
-      "desc": "OpenAI will release its most advanced model series, GPT 5.6, to the public Thursday after delaying the public rollout at the request of the Trump administration. The company announced the move on the ",
-      "link": "https://thehill.com/policy/technology/5958647-openai-releases-gpt56-trump/",
-      "date": "Jul 8, 2026",
-      "rawDate": "Wed, 08 Jul 2026 13:55:28 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "ObamaCare premiums poised for another big hike",

@@ -1,6 +1,24 @@
 {
-  "generated": "2026-07-14T01:45:58.856Z",
+  "generated": "2026-07-14T04:43:35.551Z",
   "news": [
+    {
+      "title": "DHS: ICE officer shot man in Maine after &#039;fearing for public safety&#039;",
+      "desc": "The Department of Homeland Security (DHS) said Monday the federal immigration officer who fatally shot a man in Maine did so out of fear for “public safety.” The department wrote on X that Immigration",
+      "link": "https://thehill.com/homenews/state-watch/5966877-immigration-shooting-public-safety/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 03:07:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "UAE says Iran hit two of its tankers, killing one crew member",
+      "desc": "The defense ministry of the United Arab Emirates (UAE) said Monday Iranian forces targeted a pair of its tankers in the Strait of Hormuz, killing one crew member.  The UAE Ministry of Defence wrote on",
+      "link": "https://thehill.com/policy/international/5966855-uae-tankers-targeted-iranian-forces/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 02:18:19 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Esper: Trump reimposing naval blockade on Iran &#039;the right move&#039;",
       "desc": "Former Defense Secretary Mark Esper said Monday that President Trump made the “right move” in resuming the U.S. naval blockade of Iranian ports.  “I agree with the president, I think it’s the right mo",
@@ -119,15 +137,6 @@
       "tag": "safety"
     },
     {
-      "title": "Appeals court revives lawsuits claiming link between acetaminophen, ADHD and autism",
-      "desc": "A federal appeals court on Monday revived hundreds of lawsuits where plaintiffs claimed to have evidence of a link between acetaminophen and neurodevelopmental disorders. The 2nd U.S. Circuit Court of",
-      "link": "https://thehill.com/regulation/court-battles/5966527-acetaminophen-autism-adhd-lawsuit/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 21:52:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Kalamazoo man, 21, identified as victim of fatal weekend shooting",
       "desc": "Police are seeking witnesses as the investigation into the early morning Saturday, July 11 shooting continues.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/07/kalamazoo-man-21-identified-as-victim-of-fatal-weekend-shooting.html",
@@ -153,15 +162,6 @@
       "rawDate": "Mon, 13 Jul 2026 21:34:53 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Data centers roil governor&#039;s races",
-      "desc": "{beacon} Technology Technology &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  Data centers become flash po",
-      "link": "https://thehill.com/newsletters/technology/5966529-data-centers-roil-governors-races/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 21:13:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "HHS watchdog expects $5.56 billion in recoveries and savings",
@@ -614,15 +614,6 @@
       "tag": "technology"
     },
     {
-      "title": "US launches additional strikes in Iran amid continued hostilities: Centcom",
-      "desc": "U.S. forces on Sunday launched additional strikes on Iranian targets, as the two sides see a resumption of hostilities over the Strait of Hormuz. U.S. Central Command (Centcom) said Sunday evening its",
-      "link": "https://thehill.com/policy/defense/5965142-centcom-launches-precision-munitions/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 03:08:56 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Preliminary findings reveal Graham died of &#039;aortic dissection&#039;: Medical examiner",
       "desc": "Sen. Lindsey Graham (R-S.C.) died on Saturday of an aortic dissection due to arteriosclerotic cardiovascular disease, the office of the Washington, D.C., chief medical examiner said Sunday. “The death",
       "link": "https://thehill.com/homenews/senate/5964972-sen-lindsey-graham-death-cause/",
@@ -677,18 +668,18 @@
       "tag": "technology"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
+      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
-      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",

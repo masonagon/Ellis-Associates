@@ -1,6 +1,60 @@
 {
-  "generated": "2026-07-14T21:50:16.263Z",
+  "generated": "2026-07-14T22:50:01.392Z",
   "news": [
+    {
+      "title": "Kagan, Barrett push Supreme Court budget with boosted security in rare testimony",
+      "desc": "Two Supreme Court justices testified side-by-side before Congress on Tuesday, telling lawmakers that they need more money to defend against the persistent rise in threats targeting themselves and thei",
+      "link": "https://thehill.com/regulation/court-battles/5968568-supreme-court-justices-kagan-barrett-testify-budget/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 22:21:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "5 takeaways as Supreme Court Justices Barrett and Kagan testify on Capitol Hill",
+      "desc": "Capitol Hill saw an unusual moment on Tuesday as Supreme Court Justices Amy Coney Barrett and Elena Kagan testified before lawmakers. The main reason for their appearance was to make the case for the ",
+      "link": "https://thehill.com/homenews/house/5968507-supreme-court-justices-security-budget-takeaways/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 22:18:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Key GOP senator concerned over Blanche involvement in Trump IRS deal",
+      "desc": "Sen. John Cornyn (R-Texas), a key member of the Senate Judiciary Committee, says he is “concerned” about acting Attorney General Todd Blanche’s role in crafting a settlement between President Trump, t",
+      "link": "https://thehill.com/homenews/senate/5968577-cornyn-blanche-irs-audit-settlement/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 22:16:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+      "desc": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
+      "link": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 22:08:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "ICE shootings spark demands for reform as critics argue agency is &#039;stalking Latinos&#039;",
+      "desc": "Two fatal shootings within the span of a week have heightened scrutiny of immigration agents and the leadership of Homeland Security Secretary Markwayne Mullin, as Democratic lawmakers argue that new ",
+      "link": "https://thehill.com/homenews/house/5968333-ice-fatal-shootings-raise-concerns/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 22:03:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How the Senate&#039;s Russia sanctions bill would squeeze Putin",
+      "desc": "A bipartisan group of senators on Tuesday released an updated version of sanctions legislation targeting Russia over its war in Ukraine, the result of a months-long negotiation led by the late Sen. Li",
+      "link": "https://thehill.com/policy/international/5968385-senate-russia-sanctions-bill-graham-trump-putin/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 21:53:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "FCC approves startup&#039;s space mirror to reflect sunlight to dark parts of Earth",
       "desc": "The Federal Communications Commission (FCC) approved a startup business's request to build and launch a mirror satellite that would reflect sunlight back toward the dark parts of Earth. Reflect Orbita",
@@ -9,6 +63,15 @@
       "rawDate": "Tue, 14 Jul 2026 21:46:15 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "FCC approves startup&#8217;s space mirror to reflect sunlight to dark parts of Earth",
+      "desc": "The Federal Communications Commission (FCC) approved a startup business&#8217;s request to build and launch a mirror satellite that would reflect sunlight back toward the dark parts of Earth. Reflect ",
+      "link": "https://thehill.com/policy/technology/5968228-fcc-approves-reflect-orbital/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 21:46:15 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Khanna: &#039;I should&#039;ve listened to by wife&#039; about Platner",
@@ -101,15 +164,6 @@
       "tag": "education"
     },
     {
-      "title": "Indiana senator’s bill would codify Trump’s birthright citizenship order",
-      "desc": "Indiana Republican Sen. Jim Banks on Monday introduced a bill that would codify President Trump's Day 1 executive order reshaping the definition of birthright citizenship in the U.S. The Citizenship A",
-      "link": "https://thehill.com/homenews/senate/5968117-indiana-republican-banks-birthright-bill/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 20:09:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Juvenile arrested for setting fire at Kalamazoo County Little League complex",
       "desc": "The fire caused more than $10,000 in damage, according to estimates from the complex.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/07/juvenile-arrested-for-setting-fire-at-kalamazoo-county-little-league-complex.html",
@@ -124,8 +178,8 @@
       "link": "https://thehill.com/policy/technology/5968111-grassley-senators-texts-trump-probe/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 19:58:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "ICE detains 3 in Ypsilanti",
@@ -142,8 +196,8 @@
       "link": "https://thehill.com/policy/defense/5967878-senate-democrats-block-ndaa/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 19:43:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Apple, OpenAI suit spotlights battle over physical AI",
@@ -151,17 +205,8 @@
       "link": "https://thehill.com/policy/technology/5968115-openai-apple-trade-secrets/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 19:32:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House Democrat shouts at Mullin over shootings: &#039;You&#039;re back on the godd--- front page now&#039;",
-      "desc": "Democratic Rep. Seth Magaziner (R.I.) on Tuesday took Homeland Security Secretary Markwayne Mullin to task over federal immigration officers fatally shooting two individuals in the last week. “When wi",
-      "link": "https://thehill.com/homenews/house/5968072-markwayne-mullin-dhs-seth-magaziner-ice-shootings/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 19:25:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Teens arrested after two women were shot in Kalamazoo",
@@ -551,15 +596,6 @@
       "tag": "technology"
     },
     {
-      "title": "B&amp;H Photo Promo Codes and Deals This July 2026",
-      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "UAE says Iran hit 2 of its tankers, killing 1 crew member",
       "desc": "The United Arab Emirates (UAE) said Monday Iranian forces targeted a pair of its tankers in the Strait of Hormuz, killing one crew member.  The UAE Ministry of Defense wrote on the social platform X t",
       "link": "https://thehill.com/policy/international/5966855-uae-tankers-targeted-iranian-forces/",
@@ -830,18 +866,18 @@
       "tag": "education"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
+      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
-      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",

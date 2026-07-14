@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-14T07:05:20.841Z",
+  "generated": "2026-07-14T09:48:40.862Z",
   "news": [
+    {
+      "title": "Sotheby’s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science",
+      "desc": "Private buyers are increasingly outbidding museums for fossils. That’s making it difficult—or even impossible—for researchers to improve our understanding of the past.",
+      "link": "https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "New York imposes first-in-the-nation statewide freeze on &#039;hyperscale&#039; data centers",
+      "desc": "New York Gov. Kathy Hochul (D) is imposing the nation’s first-ever statewide freeze on new “hyperscale” data centers. Hochul is pausing state-level environmental permits for “up to” a year to give the",
+      "link": "https://thehill.com/policy/technology/5966562-new-york-ai-data-center-moratorium/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 09:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+      "desc": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+      "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
+      "desc": "The FCC authorized Reflect Orbital to launch the mirror satellite Eärendil-1. “For optical astronomy, this poses an existential threat,” the European Southern Observatory said.",
+      "link": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 08:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "B&amp;H Photo Promo Codes and Deals This July 2026",
       "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
@@ -99,15 +135,6 @@
       "rawDate": "Mon, 13 Jul 2026 23:31:56 +0000",
       "source": "The Hill Politics",
       "tag": "government"
-    },
-    {
-      "title": "The Best Movies to Stream This Month (July 2026)",
-      "desc": "Project Hail Mary, They Will Kill You, and The Long Walk are among the films deserving of your eyeballs this month.",
-      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 23:14:30 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump wants Gulf countries on the hook for Strait of Hormuz &#039;protection&#039;",
@@ -623,18 +650,18 @@
       "tag": "education"
     },
     {
-      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
-      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
+      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
@@ -745,15 +772,6 @@
       "link": "https://thehill.com/policy/technology/5962630-goldman-sachs-restricts-employee-trading/",
       "date": "Jul 10, 2026",
       "rawDate": "Fri, 10 Jul 2026 15:59:58 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "News outlets ask court to sanction OpenAI in copyright case",
-      "desc": "Several news outlets, including The New York Times, asked a judge Thursday to sanction OpenAI for allegedly withholding evidence in a copyright dispute with the ChatGPT maker. The newspapers, which ha",
-      "link": "https://thehill.com/policy/technology/5961769-newspapers-sue-openai-evidence/",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 21:32:56 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

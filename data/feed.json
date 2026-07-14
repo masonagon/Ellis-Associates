@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-14T22:50:01.392Z",
+  "generated": "2026-07-14T23:43:39.294Z",
   "news": [
+    {
+      "title": "Man in Florida killed by truck while fleeing ICE agents",
+      "desc": "A man was struck and killed by a tractor-trailer in St. Augustine, Fla., on Tuesday following an incident involving federal immigration officers. Four people inside a car at a Wawa gas station ran off",
+      "link": "https://thehill.com/homenews/administration/5968506-man-killed-st-augustine-ice-incident/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 23:30:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Durbin says Blanche told him DOJ &#039;anti-weaponization&#039; fund was &#039;a mistake&#039;",
+      "desc": "Sen. Dick Durbin (D-Ill.) says acting Attorney General Todd Blanche called the Trump administration's $1.776 billion \"anti-weaponization\" fund “a mistake” in what the senator described as a courtesy m",
+      "link": "https://thehill.com/homenews/administration/5968667-durbin-ag-blanche-doj-anti-weaponization-fund/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 23:11:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Anthropic launches free Claude for Teachers",
+      "desc": "Anthropic on Tuesday launched a free version of its chatbot geared specifically towards teachers, as a growing number of educators utilize artificial intelligence (AI) in the classroom.  In a release,",
+      "link": "https://thehill.com/policy/technology/5968601-claude-for-teachers-launch/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 22:58:46 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
     {
       "title": "Kagan, Barrett push Supreme Court budget with boosted security in rare testimony",
       "desc": "Two Supreme Court justices testified side-by-side before Congress on Tuesday, telling lawmakers that they need more money to defend against the persistent rise in threats targeting themselves and thei",
@@ -74,20 +101,11 @@
       "tag": "associations"
     },
     {
-      "title": "Khanna: &#039;I should&#039;ve listened to by wife&#039; about Platner",
+      "title": "Khanna: &#039;I should&#039;ve listened to my wife&#039; about Platner",
       "desc": "Rep. Ro Khanna (D-Calif.), who formerly backed ex-Maine senate candidate Graham Platner, said he “should’ve listened to my wife” about the former candidate, who has been accused of sexual assault. Kha",
       "link": "https://thehill.com/homenews/campaign/5968206-khanna-admits-platner-endorsement-error/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 21:44:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Elon Musk&#039;s $1M Wisconsin voter giveaway likely was illegal, panel finds",
-      "desc": "A bipartisan elections panel found that billionaire Elon Musk likely violated Wisconsin’s election bribery law when he handed out $1 million checks to voters during the state’s Supreme Court election ",
-      "link": "https://thehill.com/homenews/state-watch/5968466-elon-musk-election-bribery/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 21:43:37 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -97,8 +115,8 @@
       "link": "https://thehill.com/policy/technology/5968359-trump-administration-ai-chip-grilling/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 21:42:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Woman hospitalized after being shot multiple times in Flint",
@@ -110,39 +128,12 @@
       "tag": "safety"
     },
     {
-      "title": "House passes bill to make daylight saving time permanent",
-      "desc": "The House on Tuesday passed with broad bipartisan support legislation that would make daylight saving time permanent nationwide. The lower chamber voted 308-117 for the Sunshine Protection Act of 2025",
-      "link": "https://thehill.com/homenews/house/5968255-house-sunshine-protection-act-daylight-saving-time/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 21:25:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Bay County library millage renewal set for November ballot",
       "desc": "Voters will decide whether to renew the six-year levy at a reduced rate from the previous 2-mill authorization that expired in 2025.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bay-county-library-millage-renewal-set-for-november-ballot.html",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 21:15:40 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: US Navy reimposes Strait of Hormuz blockade; Kagan, Barrett share justices&#039; security issues",
-      "desc": "President Trump hosted Iraqi Prime Minister Ali al-Zaidi at the White House as the conflict with Iran has returned to near-daily strikes by both sides and a fight over the Strait of Hormuz. As Trump p",
-      "link": "https://thehill.com/homenews/administration/5966162-live-updates-trump-iran-strait-hormuz-blockade-kagan-barrett/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 20:51:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump urges Republicans to confirm Blanche as attorney general",
-      "desc": "President Trump on Tuesday mounted a full-throttled defense of acting Attorney General Todd Blanche’s leadership ahead of his Senate confirmation hearing, where he will likely face tough questions on ",
-      "link": "https://thehill.com/homenews/administration/5968275-trump-defends-ag-blanche/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 20:49:58 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -812,15 +803,6 @@
       "tag": "education"
     },
     {
-      "title": "Elon Musk, Sam Altman bicker on X after Apple files OpenAI lawsuit",
-      "desc": "Technology leaders Elon Musk and Sam Altman traded barbs on social media over the weekend after the SpaceX founder used Apple's new trade secret lawsuit against OpenAI to bash Altman over an alleged \"",
-      "link": "https://thehill.com/policy/technology/5965640-apple-openai-trade-secret-lawsuit/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 15:41:20 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Second US citizen diagnosed with Ebola transferred to Germany for treatment: WHO",
       "desc": "A second U.S. citizen was diagnosed with Ebola on Friday and subsequently transferred to Germany for treatment, according to the World Health Organization (WHO). The individual, whose identity was not",
       "link": "https://thehill.com/policy/healthcare/5965532-ebola-outbreak-congo-response/",
@@ -866,18 +848,18 @@
       "tag": "education"
     },
     {
-      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
-      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
+      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",

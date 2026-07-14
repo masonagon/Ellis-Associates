@@ -1,12 +1,165 @@
 {
-  "generated": "2026-07-14T13:13:50.998Z",
+  "generated": "2026-07-14T15:17:54.683Z",
   "news": [
     {
-      "title": "Live updates: Kagan, Barrett head to Hill to testify on courts funding; US, Iran trade strikes ahead of blockade",
-      "desc": "Supreme Court Justices Elena Kagan and Amy Coney Barrett will visit Capitol Hill on Tuesday to testify on the high court's budget. The justices, as well as federal judges generally, have faced increas",
+      "title": "New York Governor Signs First Statewide Data Center Moratorium",
+      "desc": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
+      "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:54:41 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Live updates: Kagan, Barrett spell out security issues in budget testimony; Warsh calls Powell inflation policy &#039;a mistake&#039;",
+      "desc": "Supreme Court Justices Elena Kagan and Amy Coney Barrett are testifying on Capitol Hill on Tuesday on the high court's budget. The justices, as well as federal judges generally, have faced increasing ",
       "link": "https://thehill.com/homenews/administration/5966162-live-updates-trump-iran-strait-hormuz-blockade-kagan-barrett/",
       "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 13:10:23 +0000",
+      "rawDate": "Tue, 14 Jul 2026 14:47:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US military&#039;s death toll rises to 14 in Iran war",
+      "desc": "The U.S. military’s death toll during the war against Iran has officially climbed to 14 following the death of a Navy pilot in a crash earlier this month.  The Pentagon updated its casualty count to 1",
+      "link": "https://thehill.com/policy/defense/5967419-us-military-deaths-iran-war/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:46:39 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Extreme heat prompts some Flint-area businesses to close Tuesday, July 14",
+      "desc": "Tuesday’s forecast high for Flint is near 100 degrees, with a heat index value of 105 degrees expected.",
+      "link": "https://www.mlive.com/news/flint/2026/07/extreme-heat-prompts-some-flint-area-businesses-to-close-tuesday-july-14.html",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:43:49 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Massie says McConnell&#039;s calls with Republicans should be public",
+      "desc": "Rep. Thomas Massie (R-Ky.) pressed for Sen. Mitch McConnell’s (R-Ky.) calls with other Republicans to be made public, as the GOP senator from Kentucky faces questions around his health. When asked by ",
+      "link": "https://thehill.com/homenews/house/5967398-massie-presses-mcconnell-calls/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:36:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The translator of escalation: Lindsey Graham&#039;s legacy",
+      "desc": "Sen. Lindsey Graham's death leaves a void in the Senate, as he was a key translator of hawkish interventionism and an effective advocate for a moral and pragmatic approach to foreign policy.",
+      "link": "https://thehill.com/opinion/congress-blog/foreign-policy/5966586-trump-graham-alliance-fragile/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Epstein survivors urge Senate to reject Blanche as attorney general",
+      "desc": "Survivors of the convicted sex offender Jeffrey Epstein’s crimes on Monday urged the U.S. Senate to reject acting Attorney General Todd Blanche’s full-time appointment to lead the Department of Justic",
+      "link": "https://thehill.com/homenews/senate/5967362-epstein-survivors-urge-senate-reject-blanche/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:27:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Detroit man charged in car crash that killed one woman, left man critically injured",
+      "desc": "The suspect was allegedly driving 35 mph over the legal limit.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/detroit-man-charged-in-car-crash-that-killed-one-woman-left-man-critically-injured.html",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:24:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "8 officers on leave after Kalamazoo County police standoff ends with fatal shooting",
+      "desc": "Michigan State Police is investigating the incident, per standard procedure.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/8-officers-on-leave-after-kalamazoo-county-police-standoff-ends-with-fatal-shooting.html",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:14:22 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump knocks congressman he pardoned, says he is now &#039;fighting&#039; Cuellar",
+      "desc": "President Trump lashed out at Rep. Henry Cuellar (D-Texas) on Monday, saying he never expected the congressman he pardoned to run for office again as a Democrat and accusing him of disloyalty. In a le",
+      "link": "https://thehill.com/homenews/5967320-trump-slams-cuellar-democrat-loyalty/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:13:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Essexville man who taught at Vassar schools dies from injuries days after Illinois crash",
+      "desc": "Zach Rohbock suffered fatal injuries when an allegedly drunken man crashed into him on July 4. The crash killed Rohbock's mother outright.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/essexville-man-who-taught-at-vassar-schools-dies-from-injuries-days-after-illinois-crash.html",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:12:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ex-Trump official rips president’s ‘moldy and inedible’ election theory",
+      "desc": "The former DHS chief of staff siaid the 2020 fraud claims have already been thoroughly descredited.",
+      "link": "https://www.mlive.com/politics/2026/07/ex-trump-official-rips-presidents-moldy-and-inedible-election-theory.html",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 14:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Grand Rapids craft company lays off 181 after fire",
+      "desc": "Notions Marketing canceled all orders and laid off most of its workforce after fire and smoke damaged products at its warehouse on Crofton Street SE.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/grand-rapids-craft-company-lays-off-181-after-fire.html",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 13:55:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump says drained Reflecting Pool will be &#039;put back into service soon&#039;",
+      "desc": "President Trump said Monday that the Lincoln Memorial Reflecting Pool will reopen “soon” after it was drained for repairs over the weekend. The White House completed its renovations to the iconic land",
+      "link": "https://thehill.com/homenews/administration/5967236-donald-trump-lincoln-memorial-reflecting-pool-draining-update/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 13:50:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Minnesota officials say they&#039;ve obtained body camera footage, other evidence from Good, Pretti shootings",
+      "desc": "Minnesota officials said Monday that they obtained body camera footage and other evidence from the federal government of the shootings of Alex Pretti and Renee Good. “Today, I am proud to announce tha",
+      "link": "https://thehill.com/regulation/court-battles/5967170-minnesota-officials-obtain-evidence/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 13:45:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: House Democrats give remarks as party divisions take center stage",
+      "desc": "House Democratic leaders will give remarks Tuesday morning as progressive wins in recent primaries show a growing divide among the caucus — and as their GOP counterparts look for a way out of a floor ",
+      "link": "https://thehill.com/video-clips/5967109-watch-live-house-democrats-progressives-party-divisions-iran-war/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 13:45:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The twisted trail of Lindsey Graham",
+      "desc": "Lindsey Graham's life and political career was complex and full of twists and turns, from being a moderate Republican to becoming a close advisor to Donald Trump, and his death brought tributes from c",
+      "link": "https://thehill.com/opinion/white-house/5966936-lindsey-graham-political-journey/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 13:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Amie Parnes ranks the GOP White House contenders: Live discussion",
+      "desc": "Join The Fight for 2028 for a live discussion and Q&#38;A on the latest in presidential politics. President Trump is set to address the nation on Thursday, possibly about the 2020 elections. Is he pre",
+      "link": "https://thehill.com/homenews/campaign/fight-for-2028/5967142-gop-contenders-2028-rankings/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 13:22:03 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -20,36 +173,18 @@
       "tag": "government"
     },
     {
-      "title": "AI policy isn&#039;t keeping up with market realities",
+      "title": "AI policy isn&#8217;t keeping up with market realities",
       "desc": "The most important question in AI has changed. It is no longer whether models will keep improving. They will. The harder question is whether our institutions can improve fast enough to live with them.",
       "link": "https://thehill.com/opinion/technology/5965943-ai-adoption-speed-infrastructure/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: House Republicans give remarks as Johnson seeks end to floor standoff",
-      "desc": "Speaker Mike Johnson (R-La.) and Republican leaders will speak with reporters Tuesday morning as the chamber seeks to end a weekslong floor standoff. Conservative hard-liners have pushed for movement ",
-      "link": "https://thehill.com/video-clips/5967078-watch-live-mike-johnson-house-gop-press-conference-conservatives-standoff/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Watch live: Warsh testifies before House on state of US economy",
       "desc": "Federal Reserve Chair Kevin Warsh on Tuesday morning will speak on the state of the U.S. economy before the House Financial Services Committee. The hearing comes as President Trump has seen his approv",
       "link": "https://thehill.com/video-clips/5967087-watch-live-kevin-warsh-federal-reserve-state-us-economy-house-hearing/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "AI policy isn&#8217;t keeping up with market realities",
-      "desc": "The most important question in AI has changed. It is no longer whether models will keep improving. They will. The harder question is whether our institutions can improve fast enough to live with them.",
-      "link": "https://thehill.com/opinion/technology/5965943-ai-adoption-speed-infrastructure/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 13:00:00 +0000",
       "source": "The Hill Economy",
@@ -83,40 +218,13 @@
       "tag": "government"
     },
     {
-      "title": "GOP losing trust on affordability, says Americans for Prosperity",
-      "desc": "Americans for Prosperity Action is warning that Republicans risk losing not just the House, but the Senate if they don’t regain voters’ trust on affordability issues. The group suggested the issue is ",
-      "link": "https://thehill.com/newsletters/the-movement/5966803-affordability-key-gop-voters/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Investing in Trump securities involves the risk of (huge) loss",
-      "desc": "President Trump and his family have made $2.2 billion from financial schemes since entering the White House, while investors have lost millions of dollars, with some even suing for fraud and breach of",
-      "link": "https://thehill.com/opinion/finance/5966944-trumpt-coin-meme-losses/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "US, Iran trade strikes after Trump blockade threat",
-      "desc": "The U.S. and Iranian militaries exchanged fire early Tuesday following fresh threats from President Trump to take over the Strait of Hormuz. The president said Monday that the U.S military would reimp",
+      "desc": "The U.S. and Iranian militaries exchanged fire early Tuesday following fresh threats from President Trump to take over the Strait of Hormuz. The president said Monday that the U.S. military would reim",
       "link": "https://thehill.com/policy/defense/5967055-trump-us-iran-trade-strikes-naval-blockade-threat/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 11:44:37 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Dependence day: As of July 4, abortion businesses are getting your tax dollars again",
-      "desc": "Republicans will pay a political price if they fail to move a reconciliation 3.0 bill.",
-      "link": "https://thehill.com/opinion/campaign/5965841-planned-parenthood-defunding-victory/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 11:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
@@ -137,15 +245,6 @@
       "tag": "technology"
     },
     {
-      "title": "Tariffs pull, USMCA pushes: Toyota to Texas",
-      "desc": "A robust domestic auto industry with resilient supply chains enhances both national security and economic pros",
-      "link": "https://thehill.com/opinion/white-house/5965989-toyota-texas-tacoma-tariffs-impact/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 11:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
       "desc": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
       "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
@@ -153,15 +252,6 @@
       "rawDate": "Tue, 14 Jul 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Trump loses go-to Senate power broker with Graham’s death",
-      "desc": "The sudden death of Sen. Lindsey Graham (R-S.C.) marks a major loss for President Trump on Capitol Hill as he seeks to push his legislative agenda through Congress ahead of November’s midterm election",
-      "link": "https://thehill.com/homenews/administration/5966661-lindsey-graham-trump-senate-loss/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 10:15:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Russia sanctions bill may move as Congress looks to honor Graham",
@@ -200,7 +290,7 @@
       "tag": "technology"
     },
     {
-      "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
+      "title": "The US Approves Launch of Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
       "desc": "The FCC authorized Reflect Orbital to launch the mirror satellite Eärendil-1. “For optical astronomy, this poses an existential threat,” the European Southern Observatory said.",
       "link": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
       "date": "Jul 14, 2026",
@@ -218,8 +308,8 @@
       "tag": "technology"
     },
     {
-      "title": "UAE says Iran hit two of its tankers, killing one crew member",
-      "desc": "The defense ministry of the United Arab Emirates (UAE) said Monday Iranian forces targeted a pair of its tankers in the Strait of Hormuz, killing one crew member.  The UAE Ministry of Defence wrote on",
+      "title": "UAE says Iran hit 2 of its tankers, killing 1 crew member",
+      "desc": "The United Arab Emirates (UAE) said Monday Iranian forces targeted a pair of its tankers in the Strait of Hormuz, killing one crew member.  The UAE Ministry of Defense wrote on the social platform X t",
       "link": "https://thehill.com/policy/international/5966855-uae-tankers-targeted-iranian-forces/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 02:18:19 +0000",
@@ -317,8 +407,8 @@
       "tag": "safety"
     },
     {
-      "title": "HHS watchdog expects $5.56 billion in recoveries and savings",
-      "desc": "The federal watchdog for the Department of Health and Human Services generated $5.56 billion in expected recoveries and projected savings over a six-month period, according to a report issued Monday, ",
+      "title": "HHS watchdog expects $5.56B in recoveries and savings",
+      "desc": "The federal watchdog for the Department of Health and Human Services (HHS) generated $5.56 billion in expected recoveries and projected savings over a six-month period, according to a report issued Mo",
       "link": "https://thehill.com/policy/healthcare/5966489-hhs-oig-crackdown-fraud/",
       "date": "Jul 13, 2026",
       "rawDate": "Mon, 13 Jul 2026 21:08:45 +0000",
@@ -542,15 +632,6 @@
       "tag": "safety"
     },
     {
-      "title": "Shooting in rural Saginaw County leaves one man wounded, another jailed",
-      "desc": "A 33-year-old suspect surrendered without incident on seeing an armored BearCat police vehicle outside the house he was in.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/shooting-in-rural-saginaw-county-leaves-one-man-wounded-another-jailed.html",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 15:35:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Centcom dispels alleged Iranian propaganda that three Americans killed in Kuwait",
       "desc": "U.S. Central Command (Centcom) on Monday moved to dispel the allegation that three American service members were killed in Iranian strikes in Kuwait. \"CLAIM: Iranian propaganda claimed today that thre",
       "link": "https://thehill.com/policy/defense/5965563-centcom-dispels-alleged-iranian-propaganda-that-three-americans-killed-in-kuwait/",
@@ -578,15 +659,6 @@
       "tag": "associations"
     },
     {
-      "title": "12-year-old girl airlifted, woman hospitalized after Hillsdale County dog attack",
-      "desc": "Three dogs allegedly escaped a kennel and attacked the pair in Scipio Township. Police said criminal charges against the owner could be under review once the investigation is complete.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/12-year-old-girl-airlifted-woman-hospitalized-after-hillsdale-county-dog-attack.html",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 14:58:29 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Ronny Jackson running for top GOP spot on Armed Services panel",
       "desc": "Rep. Ronny Jackson (R-Texas), a former White House physician and staunch supporter of President Trump, on Monday announced his bid to serve as the top Republican on the House Armed Services Committee ",
       "link": "https://thehill.com/policy/defense/5965652-jackson-bid-house-armed-services/",
@@ -594,24 +666,6 @@
       "rawDate": "Mon, 13 Jul 2026 14:54:39 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "2 men arrested for breaking into dispensary, setting it on fire",
-      "desc": "This is the second such incident in several months.",
-      "link": "https://www.mlive.com/news/2026/07/2-men-arrested-for-breaking-into-dispensary-setting-it-on-fire.html",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 14:54:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "New Holland bringing popular pinwheels takeout restaurant to Hudsonville",
-      "desc": "New Holland Brewing Company is planning to open a second Pinwheel Kitchen this fall at Terra Square, an event venue and coworking space at 3380 Chicago Drive in Hudsonville.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/new-holland-bringing-popular-pinwheels-takeout-restaurant-to-hudsonville.html",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 14:49:19 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Essexville planning commission to review permit for new school innovation center",
@@ -641,24 +695,6 @@
       "tag": "government"
     },
     {
-      "title": "Detroit businessman invests heavily in the city’s 15,000-seat pro soccer stadium",
-      "desc": "The $200 million mixed-use stadium project is slated to open for the 2028 United Soccer League season.",
-      "link": "https://www.mlive.com/business/2026/07/detroit-businessman-invests-heavily-in-the-citys-15000-seat-pro-soccer-stadium.html",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 13:39:41 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Trump: US to become &#039;the guardian&#039; of the Strait of Hormuz",
-      "desc": "President Trump said Monday that the U.S. will take on the role of “the guardian” of the Strait of Hormuz as Washington and Tehran both claim control of the waterway after exchanging strikes over the ",
-      "link": "https://thehill.com/homenews/administration/5965399-donald-trump-guardian-strait-hormuz/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 13:19:50 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Former NFL kicker vows to ‘stand with President Trump’ after getting political endorsement",
       "desc": "The former Pro Bowl kicker thanked the president and urged voters to 'stand with President Trump' ahead of the primary.",
       "link": "https://www.mlive.com/politics/2026/07/former-nfl-kicker-vows-to-stand-with-president-trump-after-political-endorsement.html",
@@ -666,24 +702,6 @@
       "rawDate": "Mon, 13 Jul 2026 12:47:35 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Michigan Sen. Gary Peters backs Haley Stevens in contentious Democratic primary to succeed him",
-      "desc": "Retiring Sen. Gary Peters is endorsing U.S. Rep. Haley Stevens in the Democratic primary between Stevens and progressive favorite Abdul El-Sayed.",
-      "link": "https://www.mlive.com/news/2026/07/michigan-sen-gary-peters-backs-haley-stevens-in-contentious-democratic-primary-to-succeed-him.html",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 12:43:19 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New Indigenous-owned coffee shop opening this year in Grand Rapids",
-      "desc": "Abo Coffee Company is set to open its first permanent shop after success with a mobile coffee cart.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/new-indigenous-owned-coffee-shop-opening-this-year-in-grand-rapids.html",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 11:45:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Preliminary findings reveal Graham died of &#039;aortic dissection&#039;: Medical examiner",
@@ -795,7 +813,7 @@
     },
     {
       "title": "This Ann Arbor private institution is nearing capacity for its new lower school",
-      "desc": "Citing an 'incredible' response, Greenhills Head of School Peter Fayroian said they've enrollment for this coming fall that's nearly doubled that of the former Ann Arbor site the school is merging wit",
+      "desc": "Citing an 'incredible' response, Greenhills Head of School Peter Fayroian said enrollment at the new school is nearly double what it was last year before the merger.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/this-ann-arbor-private-institution-is-nearing-capacity-for-its-new-lower-school.html",
       "date": "Jul 11, 2026",
       "rawDate": "Sat, 11 Jul 2026 10:30:00 +0000",

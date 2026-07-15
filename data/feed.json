@@ -1,6 +1,69 @@
 {
-  "generated": "2026-07-15T21:51:07.522Z",
+  "generated": "2026-07-15T22:51:34.151Z",
   "news": [
+    {
+      "title": "Cassidy, Senate Democrats grill Trump health nominees over vaccine pressures",
+      "desc": "Two of President Trump’s most recent health nominees, including his newest pick to be head of the Centers for Disease Control and Prevention (CDC), appeared before the Senate on Wednesday where a relu",
+      "link": "https://thehill.com/policy/healthcare/5970727-schwartz-kaufman-cdc-aspr-testimony/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 22:44:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bay City commission to vote on proposed city manager contract",
+      "desc": "Rik Hayman would receive a $165,000 annual salary and vehicle allowance under the proposed agreement set for a Monday vote.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bay-city-commission-to-vote-on-proposed-city-manager-contract.html",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 22:36:20 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
+      "desc": "Maverick Sen. John Fetterman (D-Pa.) has said he has “no plans” to leave the Democratic Party, but he warned on Wednesday that if Democrats completely turn their backs on U.S. support for Israel, that",
+      "link": "https://thehill.com/homenews/senate/5970730-john-fetterman-democratic-party-israel/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 22:26:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Judge rules Biden-era internet grant program unconstitutionally prioritized racial minorities",
+      "desc": "A federal judge ruled Wednesday that a high-speed internet grant program signed into law by President Biden unconstitutionally used race as a factor in deciding where to dole out the funds.  U.S. Dist",
+      "link": "https://thehill.com/homenews/5970696-judge-rules-internet-grant-unconstitutional/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 22:23:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pentagon panel to study 2021 COVID vaccine mandate",
+      "desc": "The Pentagon on Wednesday announced it will convene a panel to study the “decisions, coordination, planning, and execution” of the military’s 2021 COVID-19 vaccine mandate, a rule that led to the dism",
+      "link": "https://thehill.com/policy/defense/5970694-dod-studies-military-vaccine-policy/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 22:04:58 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Nearly half of Americans think Iran war will go on for a year or beyond from now: Poll",
+      "desc": "Close to half of Americans believe the Iran war will stretch a year or beyond from now, according to a new poll, as tensions reignite between Washington and Tehran. In a poll from The Economist/YouGov",
+      "link": "https://thehill.com/policy/defense/5970611-poll-iran-war-duration/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 21:59:35 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+      "desc": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
+      "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 21:49:01 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "House passes State Department funding bill for fiscal year 2027",
       "desc": "The House on Wednesday passed an appropriations bill funding the State Department, national security and other programs for fiscal year 2027, sending the measure to the Senate for consideration. The l",
@@ -92,31 +155,13 @@
       "tag": "government"
     },
     {
-      "title": "Live updates: Blanche says Trump isn&#039;t eligible for third term in tough confirmation hearing",
-      "desc": "The Senate held confirmation hearings to examine the nominations of Todd Blanche as attorney general and Jay Clayton as director of national intelligence on Wednesday, with each nominee facing tough q",
-      "link": "https://thehill.com/homenews/administration/5968257-live-updates-trump-iran-todd-blanche-jay-clayton-hearings/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 20:44:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blanche AG confirmation rocky as Cornyn, Dems press him on &#039;anti-weaponization&#039; fund",
-      "desc": "Acting Attorney General Todd Blanche on Wednesday faced what one lawmaker said was more of a performance evaluation than a job interview as he seeks to secure his post as the top law enforcement offic",
-      "link": "https://thehill.com/homenews/senate/5970491-blanche-ag-confirmation-cornyn-anti-weaponization/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 20:39:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "CDC: Nearly 7,000 cases of cyclosporiasis being investigated",
       "desc": "Nearly 7,000 people in the country may have cyclosporiasis, a parasitic foodborne illness that can cause weeks of intestinal unrest and diarrhea, according to the latest federal figures.  There are 1,",
       "link": "https://thehill.com/policy/healthcare/5970492-cdc-investigates-foodborne-illness-outbreak/",
       "date": "Jul 15, 2026",
       "rawDate": "Wed, 15 Jul 2026 20:37:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Dow Credit Union launches partnership with Greenlight to help families teach kids about money",
@@ -126,33 +171,6 @@
       "rawDate": "Wed, 15 Jul 2026 20:32:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Nearly 200 House Democrats demand investigation into ICE deaths &#039;without interference&#039;",
-      "desc": "Nearly every member of the House Democratic Caucus signed onto a letter demanding an independent investigation into two fatal shootings carried out in the span of a week by officers at U.S. Immigratio",
-      "link": "https://thehill.com/homenews/house/5970473-house-lawmakers-call-ice-probe/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 20:27:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blanche when asked if he&#039;s Trump&#039;s friend: &#039;I’m his lawyer — was his lawyer&#039;",
-      "desc": "Acting Attorney General Todd Blanche appeared to have a verbal slip-up about his role during his confirmation hearing for attorney general on Wednesday. In the hearing, Sen. John Kennedy (R-La.) asked",
-      "link": "https://thehill.com/homenews/administration/5970421-blanche-senate-confirmation-slip-up/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 20:27:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Gottheimer introduces bill requiring facial ID for prediction markets, online sportsbooks",
-      "desc": "Rep. Josh Gottheimer (D-N.J.) introduced a bill Wednesday that would require prediction markets and online sportsbook to use facial recognition to verify users' ages to avoid minors from placing bets ",
-      "link": "https://thehill.com/policy/technology/5970311-gottheimer-bill-facial-recognition-kids/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 20:21:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "US military strikes Iran as Trump mulls attacks on bridges",
@@ -731,24 +749,6 @@
       "tag": "health"
     },
     {
-      "title": "Trump nixes 20 percent Strait of Hormuz toll  proposal",
-      "desc": "President Trump announced on Tuesday that he would scrap his proposal yesterday for a 20 percent tolling fee on cargo transiting the Strait of Hormuz, and would instead pursue trade and investment dea",
-      "link": "https://thehill.com/homenews/administration/5967519-trump-scraps-strait-toll/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 15:36:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US military&#039;s death toll rises to 14 in Iran war",
-      "desc": "The U.S. military’s death toll during the war against Iran has officially climbed to 14 following the death of a Navy pilot in a crash earlier this month.  The Pentagon updated its casualty count to 1",
-      "link": "https://thehill.com/policy/defense/5967419-us-military-deaths-iran-war/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 14:46:39 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "The foods most likely to carry diarrhea-causing parasite cyclospora (and which are safe)",
       "desc": "If you're unlucky enough to ingest a contaminated food, you may get stuck with weeks of watery diarrhea as well as \"frequent and sometimes explosive bowel movements,\" according to the CDC.",
       "link": "https://thehill.com/policy/healthcare/5966336-foods-most-likely-to-carry-parasite-cyclospora-which-are-safe/",
@@ -855,15 +855,6 @@
       "rawDate": "Mon, 13 Jul 2026 14:24:49 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Preliminary findings reveal Graham died of &#039;aortic dissection&#039;: Medical examiner",
-      "desc": "Sen. Lindsey Graham (R-S.C.) died on Saturday of an aortic dissection due to arteriosclerotic cardiovascular disease, the office of the Washington, D.C., chief medical examiner said Sunday. “The death",
-      "link": "https://thehill.com/homenews/senate/5964972-sen-lindsey-graham-death-cause/",
-      "date": "Jul 12, 2026",
-      "rawDate": "Sun, 12 Jul 2026 22:00:06 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

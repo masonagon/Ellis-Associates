@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-15T01:42:33.554Z",
+  "generated": "2026-07-15T04:43:38.005Z",
   "news": [
+    {
+      "title": "US hits &#039;dozens&#039; of military targets in additional round of strikes",
+      "desc": "U.S. Central Command (Centcom) announced on Tuesday night that it completed an additional round of strikes on \"dozens\" of military targets near the Strait of Hormuz and Iran's coastal region at 10 p.m",
+      "link": "https://thehill.com/policy/defense/5968856-us-centcom-strikes-iranian-targets/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 03:06:53 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Rubio to host diplomacy meeting &#039;critical to advancing&#039; US economy",
+      "desc": "Secretary of State Marco Rubio on Wednesday will hold the Economic Diplomacy Action Group's (EDAG) first meeting, two years after it was established during the Biden administration. The committee, mad",
+      "link": "https://thehill.com/homenews/administration/5968796-marco-rubio-chairs-edag-meeting/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 02:01:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rubio to host diplomacy meeting &#8216;critical to advancing&#8217; US economy",
+      "desc": "Secretary of State Marco Rubio on Wednesday will hold the Economic Diplomacy Action Group&#8217;s (EDAG) first meeting, two years after it was established during the Biden administration. The committe",
+      "link": "https://thehill.com/homenews/administration/5968796-marco-rubio-chairs-edag-meeting/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 02:01:54 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "EU considers social media ban for children",
       "desc": "The European Union (EU) is considering banning social media for children, following similar efforts seen in the United Kingdom and Australia to restrict children's access to social media platforms. On",
@@ -65,15 +92,6 @@
       "tag": "government"
     },
     {
-      "title": "Key GOP senator concerned over Blanche involvement in Trump IRS deal",
-      "desc": "Sen. John Cornyn (R-Texas), a key member of the Senate Judiciary Committee, says he is “concerned” about acting Attorney General Todd Blanche’s role in crafting a settlement between President Trump, t",
-      "link": "https://thehill.com/homenews/senate/5968577-cornyn-blanche-irs-audit-settlement/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 22:16:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
       "desc": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
       "link": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
@@ -81,24 +99,6 @@
       "rawDate": "Tue, 14 Jul 2026 22:08:30 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "ICE shootings spark demands for reform as critics argue agency is &#039;stalking Latinos&#039;",
-      "desc": "Two fatal shootings within the span of a week have heightened scrutiny of immigration agents and the leadership of Homeland Security Secretary Markwayne Mullin, as Democratic lawmakers argue that new ",
-      "link": "https://thehill.com/homenews/house/5968333-ice-fatal-shootings-raise-concerns/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 22:03:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "How the Senate&#039;s Russia sanctions bill would squeeze Putin",
-      "desc": "A bipartisan group of senators on Tuesday released an updated version of sanctions legislation targeting Russia over its war in Ukraine, the result of a months-long negotiation led by the late Sen. Li",
-      "link": "https://thehill.com/policy/international/5968385-senate-russia-sanctions-bill-graham-trump-putin/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 21:53:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "FCC approves startup&#8217;s space mirror to reflect sunlight to dark parts of Earth",
@@ -731,15 +731,6 @@
       "tag": "education"
     },
     {
-      "title": "In a first, US military used seaborne drones in attack on Iran port",
-      "desc": "The U.S. military used one-way attack seaborne drones in an assault on an Iranian port on Sunday — the first instance of U.S. forces utilizing sea drones in combat operations.  The military utilized t",
-      "link": "https://thehill.com/policy/defense/5966167-us-military-sea-drones-iran/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 18:09:05 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Possible teacher layoffs on the agenda of Bay City Public Schools board meeting",
       "desc": "The school board Monday, July 13, will consider eliminating two certified teaching positions as part of budget adjustments for the 2026-2027 school year.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/possible-teacher-layoffs-on-the-agenda-of-bay-city-public-schools-board-meeting.html",
@@ -848,18 +839,18 @@
       "tag": "education"
     },
     {
-      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
-      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
+      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",

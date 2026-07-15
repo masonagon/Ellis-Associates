@@ -1,23 +1,149 @@
 {
-  "generated": "2026-07-15T15:19:48.019Z",
+  "generated": "2026-07-15T17:07:54.792Z",
   "news": [
     {
-      "title": "The dark side of prediction markets is getting even darker",
-      "desc": "Prediction markets  effectively allow the digital economy to transform the entire world into a gambling casino, something that no one could have foreseen even 10 years ago.",
-      "link": "https://thehill.com/opinion/technology/5968227-insider-information-prediction-markets/",
+      "title": "FCC Chair Carr says California could drop lawsuit against Paramount, Warner Bros. merger if CNN is spun off",
+      "desc": "Federal Communications Commission (FCC) Chair Brendan Carr speculated California could drop its joint lawsuit against Paramount Skydance’s acquisition of Warner Bros. Discovery if CNN was spun off to ",
+      "link": "https://thehill.com/regulation/court-battles/5969820-fcc-chair-cnn-spinoff-rumor/",
       "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "DCCC chair predicts Democrats will take House, talk up Trump record",
-      "desc": "Rep. Suzan DelBene (D-Wash.), who chairs the Democratic Congressional Campaign Committee, predicted Democrats will take back control of the House in November. “We are absolutely going to take back the",
-      "link": "https://thehill.com/homenews/campaign/5969475-suzan-delbene-dccc-2026-democrats-house-campaigns-hill-nation-summit/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 14:57:42 +0000",
+      "rawDate": "Wed, 15 Jul 2026 17:06:22 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Lieu criticizes GOP colleagues for strategy on AI",
+      "desc": "Rep. Ted Lieu (D-Calif.) on Wednesday expressed concern about the rapid evolution of artificial intelligence (AI). “I am still freaked out by AI, and it’s actually accelerated much more quickly than I",
+      "link": "https://thehill.com/policy/technology/5969830-lieu-ai-guardrails-congress/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 17:03:30 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Congress did its job on housing. Now, let’s get to work.",
+      "desc": "Congress recently enacted the 21st Century ROAD to Housing Act, a bipartisan law designed to modernize financing tools and remove regulatory barriers to address the national housing affordability cris",
+      "link": "https://thehill.com/opinion/finance/5968917-congress-enacts-housing-act/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pentagon bars release of GAO&#039;s report on F-35 program",
+      "desc": "The Pentagon has barred the release of a government watchdog report on the F-35 fighter plane program, the Defense Department’s (DOD) most costly weapon system that has been riddled with performance i",
+      "link": "https://thehill.com/policy/defense/5969844-pentagon-bars-f35-watchdog-report/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:54:22 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "NYC Bar Association opposes Blanche nomination: &#039;Unfit&#039;",
+      "desc": "The New York City Bar Association on Monday issued a letter to the Senate Judiciary Committee opposing the nomination of acting Attorney General Todd Blanche.   Addressed to Sens. Chuck Grassley (R-Io",
+      "link": "https://thehill.com/homenews/senate/5969687-nyc-bar-todd-blanche-attorney-general-opposition/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:53:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lieu criticizes GOP colleagues for lack of strategy on AI",
+      "desc": "Rep. Ted Lieu (D-Calif.) on Wednesday expressed concern about the rapid evolution of artificial intelligence. “I am still freaked out by AI, and it’s actually accelerated much more quickly than I thou",
+      "link": "https://thehill.com/policy/technology/5969834-rep-ted-lieu-criticizes-gop-ai-inaction/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:47:56 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
+      "desc": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leav",
+      "link": "https://thehill.com/policy/technology/meta-employees-sue-ai-driven-layoff-picks/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:46:18 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Senate Republican on Supreme Court security funding request: &#039;There&#039;s not a money fairy up here&#039;",
+      "desc": "Sen. John Kennedy (R-La.) expressed skepticism Tuesday about increasing the Supreme Court’s annual budget, even as the justices say they need more money to protect them and their families against a su",
+      "link": "https://thehill.com/homenews/senate/5969818-kennedy-skeptical-supreme-court-security/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:45:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
+      "desc": "DUBAI, United Arab Emirates (AP) — The U.S. reimposed a naval blockade on Iran and intensified its airstrike campaign Wednesday in retaliation for Tehran’s attacks on ships trying to pass through the ",
+      "link": "https://thehill.com/policy/defense/iran-threatens-middle-east-oil-gas-us-blockade/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:45:13 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Four states linked to cyclosporiasis outbreak, CDC warns more could be involved",
+      "desc": "The cause remains under investigation.",
+      "link": "https://thehill.com/policy/healthcare/5969664-four-states-linked-to-cyclosporiasis-outbreak-cdc-warns-more-could-be-involved/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:43:04 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Ohio GOP senator praises bipartisan housing bill",
+      "desc": "Sen. Jon Husted (R-Ohio) on Tuesday praised a bipartisan housing bill that became law without President Trump’s signature, saying he wished Trump had publicly celebrated the measure more. “I wish the ",
+      "link": "https://thehill.com/homenews/senate/5969781-husted-praises-bipartisan-housing-bill/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:33:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Surveillance video shows ‘cold-blooded’ killing outside Jackson party store, prosecutor says",
+      "desc": "Robert Duane Poole was bound over to circuit court Wednesday, July 15, following his preliminary examination in the murder of Michael Mishaw, who was found fatally shot in January.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/surveillance-video-shows-cold-blooded-killing-outside-jackson-party-store-prosecutor-says.html",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:29:52 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Saginaw County man charged with shooting and trying to kill man, latest in a series of alleged violent acts",
+      "desc": "Devin Rieger, 33, faces the possibility of life in prison after the shooting in Albee Township. It's the fourth violent episode he's allegedly been involved in over the past year.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/saginaw-county-man-with-alleged-pattern-of-violence-charged-with-shooting-trying-to-kill-man.html",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:24:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Supreme Court justices make rare appearance testifying on the Hill: Join the live discussion",
+      "desc": "For the first time since 2019, two sitting Supreme Court justices appeared on Capitol Hill this week to testify. Join The Hill's legal affairs reporters, Zach Schonfeld and Sophie Brams, who will brea",
+      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5969712-supreme-court-elena-kagan-amy-coney-barrett-capitol-hill-live-discussion/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:19:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Warren grills Fed chair over colleague&#039;s private dinner with Wall Street bankers",
+      "desc": "Sen. Elizabeth Warren (D-Mass.) pressed new Federal Reserve Chair Kevin Warsh on Wednesday over his handling of an investigation into a top Fed official's private dinner with Wall Street bankers. At a",
+      "link": "https://thehill.com/business/5969426-warren-warsh-hearing/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:07:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Closing the loophole: Prediction markets disguised as financial derivatives",
+      "desc": "Congresswoman Dina Titus argues that prediction market platforms like Kalshi exploit a regulatory loophole by labeling sports bets as financial derivatives to avoid state-level consumer protections an",
+      "link": "https://thehill.com/opinion/finance/5968754-cftc-oversees-expanding-wagering-market/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 16:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Trump on ending Iran war: &#039;I don&#039;t want to negotiate now&#039;",
@@ -47,15 +173,6 @@
       "tag": "safety"
     },
     {
-      "title": "Congress can finish the job on healthcare price transparency",
-      "desc": "The House Energy and Commerce Committee is considering legislation to increase healthcare price transparency, which could save the country over $1 trillion annually in health expenditures and empower ",
-      "link": "https://thehill.com/opinion/healthcare/5968290-price-transparency-empower-patients/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 14:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "See early voting options, helpful tips for Ann Arbor’s Aug. 4 primary election",
       "desc": "Ann Arbor voters have three options for casting ballots: absentee voting, early voting and on Election Day.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/see-early-voting-options-helpful-tips-for-ann-arbors-aug-4-primary-election.html",
@@ -83,33 +200,6 @@
       "tag": "safety"
     },
     {
-      "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
-      "desc": "DUBAI, United Arab Emirates (AP) — The U.S. reimposed a naval blockade on Iran and intensified its airstrike campaign Wednesday in retaliation for Tehran’s attacks on ships trying to pass through the ",
-      "link": "https://thehill.com/policy/defense/iran-threatens-middle-east-oil-gas-us-blockade/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 13:54:19 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Watch live: Vought testifies before House on CFPB",
-      "desc": "Office of Management and Budget (OMB) Director Russell Vought will testify before the House Financial Services Committee on Wednesday morning on the Consumer Financial Protection Bureau's (CFPB) semia",
-      "link": "https://thehill.com/video-clips/5969005-watch-live-russ-vought-cfpb-report-house-financial-services-committee-hearing/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 13:41:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Jay Clayton faces Senate questions over ODNI nomination",
-      "desc": "Jay Clayton, President Trump's pick to replace Tulsi Gabbard at the helm of the Office of the Director of National Intelligence, will testify before the Senate Intelligence Committee on Wednesday morn",
-      "link": "https://thehill.com/video-clips/5968998-watch-live-jay-clayton-senate-confirmation-hearing-odni/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 13:32:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hillsdale College offers free online course exploring Homer’s epic tale",
       "desc": "Hillsdale College has made a new online course available to the public that examines one of Western literature’s foundational works.",
       "link": "https://www.mlive.com/news/jackson/2026/07/hillsdale-college-offers-free-online-course-exploring-homers-epic-tale.html",
@@ -119,8 +209,8 @@
       "tag": "education"
     },
     {
-      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
-      "desc": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+      "desc": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
       "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
       "date": "Jul 15, 2026",
       "rawDate": "Wed, 15 Jul 2026 12:00:00 +0000",
@@ -188,15 +278,6 @@
       "date": "Jul 15, 2026",
       "rawDate": "Wed, 15 Jul 2026 09:00:00 +0000",
       "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
-      "desc": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems to select people for layoffs, disproportionately targeting those on medical, parental or family leav",
-      "link": "https://thehill.com/policy/technology/meta-employees-sue-ai-driven-layoff-picks/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 06:06:11 +0000",
-      "source": "The Hill Tech",
       "tag": "technology"
     },
     {
@@ -515,15 +596,6 @@
       "tag": "government"
     },
     {
-      "title": "Saginaw man guilty of murdering California traveling nurse in drunken case of mistaken identity",
-      "desc": "Demetrius Williams was found guilty of first-degree murder after prosecutors say he went to his ex-girlfriend's home looking for her but instead shot and killed Eliza Vega-Aparicio, a 27-year-old trav",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/saginaw-man-guilty-of-murdering-california-traveling-nurse-in-drunken-case-of-mistaken-identity.html",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 15:51:52 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "AI could lead to large-scale job displacement, say Nobel laureates",
       "desc": "Hundreds of economics and artificial intelligence researchers warned Monday that institutions must begin preparing for the potential economic upheaval AI could unleash, while putting many jobs at risk",
       "link": "https://thehill.com/policy/technology/5967512-ai-transformation-job-displacement/",
@@ -557,15 +629,6 @@
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 14:46:39 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Detroit man charged in car crash that killed one woman, left man critically injured",
-      "desc": "The suspect was allegedly driving 35 mph over the legal limit.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/detroit-man-charged-in-car-crash-that-killed-one-woman-left-man-critically-injured.html",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 14:24:49 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -632,15 +695,6 @@
       "tag": "safety"
     },
     {
-      "title": "Esper: Trump reimposing naval blockade on Iran &#039;the right move&#039;",
-      "desc": "Former Defense Secretary Mark Esper said Monday that President Trump made the “right move” in resuming the U.S. naval blockade of Iranian ports.  “I agree with the president, I think it’s the right mo",
-      "link": "https://thehill.com/policy/defense/5966832-esper-supports-trump-blockade/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 01:35:02 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Flint councilman charged with domestic assault now faces election fraud charge",
       "desc": "Flint Councilman Leon El-Alamin is accused of living outside the city limits and committing perjury on his election affidavit. He is already facing a felony assault and domestic violence charge in ano",
       "link": "https://www.mlive.com/news/flint/2026/07/flint-councilman-charged-with-domestic-assault-now-faces-election-fraud-charge.html",
@@ -675,15 +729,6 @@
       "rawDate": "Mon, 13 Jul 2026 21:08:45 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Microsoft carbon emissions rose 25 percent in 2025 as AI data centers grow",
-      "desc": "Microsoft reported a 25 percent jump in carbon emissions in 2025 as it sets out to grow its use of artificial intelligence (AI) data centers. The emissions increase was \"driven primarily by the expans",
-      "link": "https://thehill.com/policy/technology/5966327-microsoft-emissions-jump-ai-data/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 20:30:13 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "What is aortic dissection, the medical emergency linked to Graham&#039;s death?",
@@ -785,18 +830,18 @@
       "tag": "education"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
+      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
-      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
@@ -826,15 +871,6 @@
       "link": "https://thehill.com/policy/healthcare/5961357-47m-planned-parenthood-midterms/",
       "date": "Jul 9, 2026",
       "rawDate": "Thu, 09 Jul 2026 18:34:16 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Massie: Might as well call ObamaCare &#039;Trumpcare&#039;",
-      "desc": "Kentucky Rep. Thomas Massie (R) on Wednesday said ObamaCare might as well be renamed “Trumpcare” as premiums increase and Republicans haven’t moved to repeal the Affordable Care Act (ACA). “Might as w",
-      "link": "https://thehill.com/homenews/house/5960829-thomas-massie-republicans-obamacare/",
-      "date": "Jul 9, 2026",
-      "rawDate": "Thu, 09 Jul 2026 15:38:46 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

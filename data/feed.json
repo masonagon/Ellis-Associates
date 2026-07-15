@@ -1,6 +1,24 @@
 {
-  "generated": "2026-07-14T23:43:39.294Z",
+  "generated": "2026-07-15T01:42:33.554Z",
   "news": [
+    {
+      "title": "EU considers social media ban for children",
+      "desc": "The European Union (EU) is considering banning social media for children, following similar efforts seen in the United Kingdom and Australia to restrict children's access to social media platforms. On",
+      "link": "https://thehill.com/policy/technology/5968669-eu-considering-social-media-ban/",
+      "date": "Jul 15, 2026",
+      "rawDate": "Wed, 15 Jul 2026 00:13:27 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Healthcare - Democrats, Protect Our Care to launch $5M ad campaign attacking GOP health cuts",
+      "desc": "Presented by Planned Parenthood {beacon}  View Online",
+      "link": "https://thehill.com/newsletters/healthcare/5968704-democrats-protect-our-care/",
+      "date": "Jul 14, 2026",
+      "rawDate": "Tue, 14 Jul 2026 23:57:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Man in Florida killed by truck while fleeing ICE agents",
       "desc": "A man was struck and killed by a tractor-trailer in St. Augustine, Fla., on Tuesday following an incident involving federal immigration officers. Four people inside a car at a Wawa gas station ran off",
@@ -83,15 +101,6 @@
       "tag": "government"
     },
     {
-      "title": "FCC approves startup&#039;s space mirror to reflect sunlight to dark parts of Earth",
-      "desc": "The Federal Communications Commission (FCC) approved a startup business's request to build and launch a mirror satellite that would reflect sunlight back toward the dark parts of Earth. Reflect Orbita",
-      "link": "https://thehill.com/policy/technology/5968228-fcc-approves-reflect-orbital/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 21:46:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "FCC approves startup&#8217;s space mirror to reflect sunlight to dark parts of Earth",
       "desc": "The Federal Communications Commission (FCC) approved a startup business&#8217;s request to build and launch a mirror satellite that would reflect sunlight back toward the dark parts of Earth. Reflect ",
       "link": "https://thehill.com/policy/technology/5968228-fcc-approves-reflect-orbital/",
@@ -99,15 +108,6 @@
       "rawDate": "Tue, 14 Jul 2026 21:46:15 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Khanna: &#039;I should&#039;ve listened to my wife&#039; about Platner",
-      "desc": "Rep. Ro Khanna (D-Calif.), who formerly backed ex-Maine senate candidate Graham Platner, said he “should’ve listened to my wife” about the former candidate, who has been accused of sexual assault. Kha",
-      "link": "https://thehill.com/homenews/campaign/5968206-khanna-admits-platner-endorsement-error/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 21:44:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "House lawmakers grill top Trump official over AI chip exports",
@@ -848,18 +848,18 @@
       "tag": "education"
     },
     {
-      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
-      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
+      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
+      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Potter Center announces 2026-27 entertainment lineup with country, rock and circus acts",
-      "desc": "Jackson College's Potter Center has unveiled its 2026-27 entertainment season, featuring 11 shows spanning country music, rock tributes, circus performances and wildlife education.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/potter-center-announces-2026-27-entertainment-lineup-with-country-rock-and-circus-acts.html",
+      "title": "Resigned Ann Arbor school board official sues ex-employer as he seeks return to board",
+      "desc": "Don Wilkerson, who filed to reclaim his seat June 22, alleges in a recently launched lawsuit that a former employer illegally fired him after learning of a domestic violence misdemeanor charge that wa",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/resigned-ann-arbor-school-board-official-sues-ex-employer-as-he-seeks-return-to-board.html",
       "date": "Jul 12, 2026",
       "rawDate": "Sun, 12 Jul 2026 10:00:00 +0000",
       "source": "MLive Education",

@@ -1,6 +1,60 @@
 {
-  "generated": "2026-07-16T21:57:25.932Z",
+  "generated": "2026-07-16T22:55:20.780Z",
   "news": [
+    {
+      "title": "Mike Cox sues Jocelyn Benson over FOIA request tied to civil rights group",
+      "desc": "The Republican candidate for governor's alleges the Secretary of State is seeking to avoid disclosure of public records tied to her time on the board of the Southern Poverty Law Center.",
+      "link": "https://www.mlive.com/politics/2026/07/mike-cox-sues-jocelyn-benson-over-foia-request-tied-to-civil-rights-group.html",
+      "date": "Jul 16, 2026",
+      "rawDate": "Thu, 16 Jul 2026 22:41:35 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House revives rule to deny green cards to migrants who use safety net programs",
+      "desc": "The Trump administration is reviving a policy that would allow immigration officers to deny green cards to applicants who use public benefits like Medicaid, housing assistance or food stamps.   The po",
+      "link": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
+      "date": "Jul 16, 2026",
+      "rawDate": "Thu, 16 Jul 2026 22:28:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Wall Street traders can soon pay for early looks at Truth Social posts",
+      "desc": "President Trump’s social media platform announced plans Thursday to sell Wall Street firms early access to its “most market-moving” posts. Trump Media &#38; Technology Group (TMTG), the parent company",
+      "link": "https://thehill.com/policy/technology/5972998-trump-media-technology-group-launch-truth-api/",
+      "date": "Jul 16, 2026",
+      "rawDate": "Thu, 16 Jul 2026 22:25:26 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "White House teleprompter operator on unpaid leave after alleged bets on Trump speeches",
+      "desc": "{beacon} Technology Technology &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  White House teleprompter ope",
+      "link": "https://thehill.com/newsletters/technology/5973080-trump-teleprompter-operator-suspended/",
+      "date": "Jul 16, 2026",
+      "rawDate": "Thu, 16 Jul 2026 22:19:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "desc": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "date": "Jul 16, 2026",
+      "rawDate": "Thu, 16 Jul 2026 22:17:27 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Election handicapper shifts California House seat to Dems, Maine seat to GOP",
+      "desc": "A leading election handicapper shifted its outcome projections for two U.S. House races in Maine and California on Thursday, as the Democratic and Republican parties wrestle to secure control of the l",
+      "link": "https://thehill.com/homenews/campaign/5973017-crystal-ball-shifts-projections/",
+      "date": "Jul 16, 2026",
+      "rawDate": "Thu, 16 Jul 2026 22:10:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Nicki Minaj defends Trump adviser in feud with House Republican",
       "desc": "Rapper Nicki Minaj took to social media to defend her friend Alex Bruesewitz, a top outside adviser to President Trump, after Rep. Randy Fine (R-Fla.) reportedly pushed for the president to cut ties w",
@@ -74,24 +128,6 @@
       "tag": "technology"
     },
     {
-      "title": "Blanche to meet with Epstein survivors after Tillis ultimatum",
-      "desc": "Acting Attorney General Todd Blanche will meet Thursday afternoon with survivors of convicted sex offender Jeffrey Epstein’s crimes, following pressure from lawmakers during hearings on Capitol Hill t",
-      "link": "https://thehill.com/homenews/senate/5972722-blanche-epstein-survivors-meeting/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 20:35:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Thune tees up bill to provide assistance to Ukraine, sanction Russia",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) on Thursday took procedural steps to place on the Senate calendar House-passed legislation to provide $1.3 billion in security assistance for Ukraine and exp",
-      "link": "https://thehill.com/homenews/senate/5972749-senate-ukraine-aid-russia-sanctions-vote/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 20:35:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Paroled serial stalker seeks release on bond as attorney general fights parole board’s decision",
       "desc": "Jackson County Circuit Judge John McBain heard arguments Thursday afternoon, July 16, from the Michigan Attorney General’s Office appealing the release of Trenton Lisle Solomon who was granted parole ",
       "link": "https://www.mlive.com/news/jackson/2026/07/paroled-serial-stalker-seeks-release-on-bond-as-attorney-general-fights-parole-boards-decision.html",
@@ -137,24 +173,6 @@
       "tag": "technology"
     },
     {
-      "title": "GOP fears Trump speech could boomerang if focused on 2020 election",
-      "desc": "Some House and Senate Republicans aren’t enthused over the potential that President Trump will rehash the 2020 election in a primetime speech Thursday night.  Trump is scheduled to deliver an address ",
-      "link": "https://thehill.com/homenews/administration/5972555-gop-concerns-trump-election-rhetoric/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 19:53:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "2 men plead not guilty in alleged White House UFC attack plot",
-      "desc": "Two of the eight men formally indicted in connection to the White House UFC attack plot pleaded not guilty to federal charges on Thursday in an Ohio courtroom. Tycen Proper, 19, of Danville, Ohio; and",
-      "link": "https://thehill.com/regulation/court-battles/5972530-white-house-ufc-plot-pleaded-not-guilty/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 19:52:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Muskegon approves sale of more than 155-year-old mansion for $165K",
       "desc": "The Muskegon City Commission approved the sale of the historic Nelson House this week in a 6-1 vote. The bid was the second highest of the four received.",
       "link": "https://www.mlive.com/news/muskegon/2026/07/muskegon-approves-sale-of-more-than-155-year-old-mansion-for-165k.html",
@@ -171,15 +189,6 @@
       "rawDate": "Thu, 16 Jul 2026 19:45:18 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "House plans packed week of stopgap funding, reconciliation 3.0, stock trading ban",
-      "desc": "House Republican leaders are eyeing votes on a number of big measures, including a GOP-only budget reconciliation bill and a stock trading ban next week, the last week in session before the chamber is",
-      "link": "https://thehill.com/homenews/house/5972571-house-stopgap-funding-reconciliation-3-0-stock-trading-ban/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 19:36:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Lawmakers revive tax-the-rich push to fund Michigan schools",
@@ -628,8 +637,8 @@
       "link": "https://www.mlive.com/news/flint/2026/07/election-fraud-charge-came-15-months-after-msp-started-investigation-of-flint-councilman.html",
       "date": "Jul 15, 2026",
       "rawDate": "Wed, 15 Jul 2026 21:08:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Data center electricity demand is expected to drive up costs after recent power auction",
@@ -637,15 +646,6 @@
       "link": "https://thehill.com/policy/technology/5970522-data-center-power-costs-pjm/",
       "date": "Jul 15, 2026",
       "rawDate": "Wed, 15 Jul 2026 20:52:50 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Cammack says China has deployed &#039;digital twins&#039; of every lawmaker",
-      "desc": "Rep. Kat Cammack (R-Fla.) on Wednesday addressed the international race to achieve dominance over artificial intelligence and the importance behind each country’s efforts to take the lead. “China and ",
-      "link": "https://thehill.com/homenews/house/5970422-cammack-warns-china-ai-threat/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 20:50:29 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
@@ -871,15 +871,6 @@
       "link": "https://thehill.com/policy/healthcare/5966787-cyclosporiasis-outbreak-parasite-lettuce/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 00:03:22 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "HHS watchdog expects $5.56B in recoveries and savings",
-      "desc": "The federal watchdog for the Department of Health and Human Services (HHS) generated $5.56 billion in expected recoveries and projected savings over a six-month period, according to a report issued Mo",
-      "link": "https://thehill.com/policy/healthcare/5966489-hhs-oig-crackdown-fraud/",
-      "date": "Jul 13, 2026",
-      "rawDate": "Mon, 13 Jul 2026 21:08:45 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

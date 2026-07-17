@@ -1,6 +1,69 @@
 {
-  "generated": "2026-07-17T17:02:46.216Z",
+  "generated": "2026-07-17T18:55:24.531Z",
   "news": [
+    {
+      "title": "House GOP leaders unveil stopgap funding bill ahead of expected vote next week",
+      "desc": "House Republican leaders are preparing to bring a stopgap measure that would keep federal agencies funded through Dec. 4 to the floor next week , kicking off a high-stakes effort to avert a potential ",
+      "link": "https://thehill.com/homenews/house/5975033-house-gop-stopgap-funding-cr/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 18:52:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
+      "desc": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
+      "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 18:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "A bang, then a ‘bloodcurdling cry’: Witnesses recount chaos of deputy shooting, manhunt",
+      "desc": "A person allegedly shot a Kalamazoo County sheriff's deputy, stole their vehicle and led police on a manhunt throughout the county Friday morning.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/a-bang-then-a-bloodcurdling-scream-witnesses-recount-chaos-of-deputy-shooting-manhunt.html",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 18:11:09 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
+      "desc": "A newly renewed, $25 million-per-year contract with a subsidiary of Thompson Reuters further expands the power of ICE under the Trump administration.",
+      "link": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 17:47:05 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Michigan sending $224M to K-12 schools for building repairs, but is it enough?",
+      "desc": "The state's educaiton department announced the grants on Friday, meeting just 16.5% of $1.8 billion in requests received from local districts looking to upgrade critical school infrastructure.",
+      "link": "https://www.mlive.com/education/2026/07/michigan-sending-224m-to-k-12-schools-for-building-repairs-but-is-it-enough.html",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 17:28:09 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Lake Powell could plunge near lows that threaten power production next year: Federal study",
+      "desc": "Lake Powell, a Colorado River reservoir that serves as a source of hydroelectric power, is in danger of reaching very low levels, according to a new federal analysis. A study released by the Bureau of",
+      "link": "https://thehill.com/policy/energy-environment/5974862-bureau-reclamation-projects-reservoir-decline/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 17:22:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘The Odyssey’ Backlash Failed Tremendously",
+      "desc": "For all the hysteria over “woke” casting and ahistorical choices, Christopher Nolan’s epic is on track to make $200 million globally during its opening weekend.",
+      "link": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 17:09:13 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Bomb squad called to Jackson home",
       "desc": "The bomb was disassembled by police.",
@@ -128,15 +191,6 @@
       "tag": "safety"
     },
     {
-      "title": "House Democrat: Trump &#039;lied to the American public&#039; in primetime address",
-      "desc": "Rep. Jim Himes (D-Conn.), the ranking member on the House Permanent Select Committee on Intelligence, accused President Trump of misleading the country in his Thursday evening speech about the state o",
-      "link": "https://thehill.com/homenews/house/5974560-himes-accuses-trump-lying/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 15:21:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "US targets Iranian bridges, energy sites in latest wave of strikes",
       "desc": "The U.S. military hit bridges and energy sites in Iran in its latest round of strikes against the Middle Eastern country early Friday morning.  The Islamic Revolutionary Guard Corps (IRGC) responded w",
       "link": "https://thehill.com/policy/defense/5974227-iran-us-strikes/",
@@ -144,15 +198,6 @@
       "rawDate": "Fri, 17 Jul 2026 14:34:55 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Watch live: Mullin delivers remarks on election security ahead of midterms",
-      "desc": "Homeland Security Secretary Markwayne Mullin will speak with reporters Friday morning on election security and integrity, hours after President Trump's primetime address on the topic. During his speec",
-      "link": "https://thehill.com/video-clips/5973968-watch-live-markwayne-mullin-press-conference-election-security-donald-trump-speech/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 14:16:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Second Michigan man charged in FBI’s child porn investigation that began in Florida",
@@ -189,6 +234,15 @@
       "rawDate": "Fri, 17 Jul 2026 12:28:31 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
+    },
+    {
+      "title": "China dismisses ‘groundless’ Trump election interference claim",
+      "desc": "China denied President Trump’s accusation that it interfered with the 2020 presidential election, calling the claim “entirely fabricated” and “groundless” while insisting it never had any interest in ",
+      "link": "https://thehill.com/homenews/campaign/5973681-donald-trump-china-election-interference-claim-reaction/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 11:55:36 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Valve Steam Machine Review: A Compromised Console",
@@ -233,6 +287,15 @@
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 09:30:00 +0000",
       "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "China&#039;s Xi calls for more global efforts to guide AI, chides US for its curbs on tech sharing",
+      "desc": "SHANGHAI (AP) — Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday, while reiterating China’s objections to what he called the “o",
+      "link": "https://thehill.com/policy/technology/ap-china-xi-jinping-ai-global-efforts-tech-sharing/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 07:45:43 +0000",
+      "source": "The Hill Tech",
       "tag": "technology"
     },
     {
@@ -597,7 +660,7 @@
     },
     {
       "title": "O&#039;Leary, Fox News sued over data center opposition portrayal",
-      "desc": "Businessman Kevin O'Leary and Fox News are being sued by a group opposed to data center construction in Utah, alleging it aired false statements about their funding. The suit, brought against the netw",
+      "desc": "Correction: A previous version of this story named an individual who was not involved in the lawsuit against Kevin O'Leary and Fox News. Businessman Kevin O'Leary and Fox News are being sued by a grou",
       "link": "https://thehill.com/policy/technology/5971351-kevin-oleary-fox-news-lawsuit-data-center-utah-comments/",
       "date": "Jul 16, 2026",
       "rawDate": "Thu, 16 Jul 2026 13:38:01 +0000",
@@ -621,15 +684,6 @@
       "rawDate": "Thu, 16 Jul 2026 11:35:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Michigan AG sues Portage solar firm over $81M in alleged consumer fraud",
-      "desc": "Over 1,700 consumers were impacted by the alleged scheme, Attorney General Dana Nessel states.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/07/michigan-ag-sues-portage-solar-firm-over-81m-in-alleged-consumer-fraud.html",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 10:35:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Why fully reopening the Strait of Hormuz is such a challenge",
@@ -666,15 +720,6 @@
       "rawDate": "Wed, 15 Jul 2026 22:44:37 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Judge rules Biden-era internet grant program unconstitutionally prioritized racial minorities",
-      "desc": "A federal judge ruled Wednesday that a high-speed internet grant program signed into law by President Biden unconstitutionally used race as a factor in deciding where to dole out the funds.  U.S. Dist",
-      "link": "https://thehill.com/homenews/5970696-judge-rules-internet-grant-unconstitutional/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 22:23:41 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Pentagon panel to study 2021 COVID vaccine mandate",
@@ -835,15 +880,6 @@
       "link": "https://www.mlive.com/education/2026/07/12-more-michigan-seniors-earn-thousands-in-college-backed-national-merit-scholarships.html",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 17:31:08 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "2 Bay City Public Schools employees laid off amid staffing adjustments for upcoming school year",
-      "desc": "The layoffs were approved Monday, July 13, as part of staffing adjustments for the 2026-2027 school year, with the district citing fiscal responsibility.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bay-city-arts-teacher-school-counselor-laid-off-after-school-board-vote.html",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 17:29:37 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

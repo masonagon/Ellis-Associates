@@ -1,48 +1,75 @@
 {
-  "generated": "2026-07-17T09:49:18.636Z",
+  "generated": "2026-07-17T11:15:57.369Z",
   "news": [
+    {
+      "title": "Trump’s receipts don’t back up new election claims",
+      "desc": "In today's issue: ▪ Trump points finger at China ▪ Tillis stands his ground ▪ Trump’s teleprompter operator suspended ▪ FEC deadline takeaways President Trump’s sweeping claims of election interferenc",
+      "link": "https://thehill.com/newsletters/morning-report/5973639-donald-trump-election-interference-claims-vs-white-house-docs/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 11:14:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Valve Steam Machine Review: A Compromised Console",
+      "desc": "Great for indie darlings, but Sony, Microsoft, and Nintendo remain kings of TV gaming.",
+      "link": "https://www.wired.com/review/valve-steam-machine/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "23 Best Gifts for Cooks (2026): Vitamix, Frying Pans, Air Fryers",
+      "desc": "From the best air fryer to frying pans to knife sharpeners anyone can use, these ideas will keep the curious home chef in your life tinkering away.",
+      "link": "https://www.wired.com/gallery/gift-for-the-home-chef-2026/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 10:34:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "A $10K Bounty Aims to Make Sony’s PlayStation 5 a Computer Again",
+      "desc": "Nice PlayStation you got. Bet it could probably run Linux too.",
+      "link": "https://www.wired.com/story/a-10k-bounty-aims-to-make-the-ps5-a-computer-again/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "House GOP’s $95B budget reconciliation proposal hits Senate buzzsaw",
+      "desc": "The House Republican leadership’s proposal for a $95 billion budget reconciliation package —which would include $73 billion to help pay for the Iran war and $10 billion for election reforms — is runni",
+      "link": "https://thehill.com/homenews/senate/5972968-house-gop-plans-95b-package/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House GOP floats reconciliation 4.0 amid disappointment at 3.0 plan",
+      "desc": "House Republican leaders are already starting to float reconciliation 4.0 — even with a third party-line budget bill barely out of the gate and facing an uncertain future. The idea for a fourth bill t",
+      "link": "https://thehill.com/homenews/house/5973057-house-republicans-reconciliation-4/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "desc": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+      "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film",
       "desc": "True the Vote is working with a Detroit pastor to produce a new documentary called Trap, based on claims that have already been thrown out in court.",
       "link": "https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/",
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
-      "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Dell Coupon Codes: 20% Off for July 2026",
-      "desc": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "AT&amp;T Promo Codes: $50 Off This July 2026",
-      "desc": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "link": "https://www.wired.com/story/att-promo-code/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "iRobot Promo Code: 15% Off",
-      "desc": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "link": "https://www.wired.com/story/irobot-promo-code/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -169,8 +196,8 @@
       "link": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
       "date": "Jul 16, 2026",
       "rawDate": "Thu, 16 Jul 2026 22:28:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Wall Street traders can soon pay for early looks at Truth Social posts",
@@ -180,15 +207,6 @@
       "rawDate": "Thu, 16 Jul 2026 22:25:26 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "White House teleprompter operator on unpaid leave after alleged bets on Trump speeches",
-      "desc": "{beacon} Technology Technology &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  White House teleprompter ope",
-      "link": "https://thehill.com/newsletters/technology/5973080-trump-teleprompter-operator-suspended/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 22:19:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",

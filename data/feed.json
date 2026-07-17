@@ -1,9 +1,54 @@
 {
-  "generated": "2026-07-17T19:59:51.749Z",
+  "generated": "2026-07-17T21:00:17.311Z",
   "news": [
     {
+      "title": "Vegetable supplier Taylor Farms to pull some products amid cyclosporiasis outbreak",
+      "desc": "California-based vegetable producer Taylor Farms said on Friday that it will remove products potentially linked to a growing cyclosporiasis outbreak across the country.  “Based on information provided",
+      "link": "https://thehill.com/policy/healthcare/5975363-taylor-farms-iceberg-lettuce-cyclosporiasis/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 20:52:49 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Sacks argues US is &#039;tying itself in knots&#039; over AI after release of new Chinese model",
+      "desc": "Former White House AI and cryptocurrency czar David Sacks argued Friday that the U.S. is \"tying itself in knots\" over AI and risking its competitive edge, following the release of a new Chinese model.",
+      "link": "https://thehill.com/policy/technology/5975303-david-sacks-us-artificial-intelligence-kimi-k3-moonshot-ai/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 20:41:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US military conducts strikes against Iran for seventh consecutive day",
+      "desc": "The U.S. military launched another wave of strikes against Iran on Friday, marking the seventh consecutive day of hitting the country in what U.S. officials described as efforts to degrade Tehran’s mi",
+      "link": "https://thehill.com/policy/defense/5975356-us-military-iran-strikes/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 20:38:01 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Abdul El-Sayed asks supporters to stop attacking Stevens",
+      "desc": "Michigan Democratic Senate candidate Abdul El-Sayed on Friday urged his supporters to stop making personal attacks against his primary rival, Rep. Haley Stevens (D-Mich.), after several speaking gaffe",
+      "link": "https://thehill.com/homenews/campaign/5975272-el-sayed-urges-supporters-stop-stevens-attacks/",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 20:18:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "What Muskegon is saying about Trump’s call to reinvestigate voter fraud",
+      "desc": "Here are different perspectives from Muskegon-area residents about President Trump’s revival of the alleged 2020 voter fraud scandal during his Thursday night speech.",
+      "link": "https://www.mlive.com/politics/2026/07/what-muskegon-is-saying-about-trumps-call-to-reinvestigate-voter-fraud.html",
+      "date": "Jul 17, 2026",
+      "rawDate": "Fri, 17 Jul 2026 19:59:58 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
       "title": "Trump asks Lindsey Graham&#039;s sister to run for Senate",
-      "desc": "President Trump on Friday said he met in the Oval Office with newly-appointed Sen. Darline Graham Nordone (R), the sister of the late Sen. Lindsey Graham (R), and asked her to run in the special Repub",
+      "desc": "President Trump on Friday said he met in the Oval Office with newly appointed Sen. Darline Graham Nordone (R-S.C.), the sister of the late Sen. Lindsey Graham (R-S.C.), and asked her to run in the spe",
       "link": "https://thehill.com/homenews/campaign/5975198-trump-endorses-nordone-sc-senate/",
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 19:58:36 +0000",
@@ -21,7 +66,7 @@
     },
     {
       "title": "Wisconsin lieutenant governor suspends gubernatorial bid amid financial woes",
-      "desc": "Wisconsin Lt. Gov. Sara Rodriguez (D) dropped out of the Democratic gubernatorial primary on Friday after her campaign disclosed major errors in its financial reporting. Rodriguez, who had been consid",
+      "desc": "Wisconsin Lt. Gov. Sara Rodriguez (D) dropped out of the Democratic gubernatorial primary Friday after her campaign disclosed major errors in its financial reporting. Rodriguez, who had been considere",
       "link": "https://thehill.com/homenews/campaign/5975154-wisconsin-governor-primary/",
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 19:43:56 +0000",
@@ -65,15 +110,6 @@
       "tag": "government"
     },
     {
-      "title": "House GOP leaders unveil stopgap funding bill ahead of expected vote next week",
-      "desc": "House Republican leaders are preparing to bring a stopgap measure that would keep federal agencies funded through Dec. 4 to the floor next week, kicking off a high-stakes effort to avert a potential g",
-      "link": "https://thehill.com/homenews/house/5975033-house-gop-stopgap-funding-cr/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 18:52:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
       "desc": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
       "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
@@ -108,15 +144,6 @@
       "rawDate": "Fri, 17 Jul 2026 17:28:09 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Lake Powell could plunge near lows that threaten power production next year: Federal study",
-      "desc": "Lake Powell, a Colorado River reservoir that serves as a source of hydroelectric power, is in danger of reaching very low levels, according to a new federal analysis. A study released by the Bureau of",
-      "link": "https://thehill.com/policy/energy-environment/5974862-bureau-reclamation-projects-reservoir-decline/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 17:22:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "‘The Odyssey’ Backlash Failed Tremendously",
@@ -466,8 +493,8 @@
       "link": "https://www.mlive.com/education/2026/07/lawmakers-revive-tax-the-rich-push-to-fund-michigan-schools.html",
       "date": "Jul 16, 2026",
       "rawDate": "Thu, 16 Jul 2026 19:14:42 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Charges pending for hit-and-run driver who injured 1 in Ann Arbor",
@@ -659,15 +686,6 @@
       "tag": "education"
     },
     {
-      "title": "O&#039;Leary, Fox News sued over data center opposition portrayal",
-      "desc": "Correction: A previous version of this story named an individual who was not involved in the lawsuit against Kevin O'Leary and Fox News. Businessman Kevin O'Leary and Fox News are being sued by a grou",
-      "link": "https://thehill.com/policy/technology/5971351-kevin-oleary-fox-news-lawsuit-data-center-utah-comments/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 13:38:01 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "US intensifies strikes on Iran",
       "desc": "The U.S. military continued to strike Iran early Thursday, as hostilities between the two countries ramp up after the deterioration of a brief ceasefire.  U.S. Central Command (Centcom) said it conclu",
       "link": "https://thehill.com/policy/defense/5971315-trump-resumes-hostilities-tehran/",
@@ -765,15 +783,6 @@
       "rawDate": "Wed, 15 Jul 2026 20:37:49 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "US military strikes Iran as Trump mulls attacks on bridges",
-      "desc": "The U.S. military conducted a second wave of strikes against Iran on Wednesday, targeting Tehran’s ability to threaten ships attempting to transit the Strait of Hormuz, as President Trump mulls attack",
-      "link": "https://thehill.com/policy/defense/5970405-us-military-strikes-iranian-targets/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 20:00:38 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "What to know ahead of Morgan Wallen’s Michigan Stadium concerts",
@@ -889,15 +898,6 @@
       "link": "https://thehill.com/homenews/campaign/5967360-senate-democrat-requests-investigation-into-whether-rfk-jr-broke-hatch-act/",
       "date": "Jul 14, 2026",
       "rawDate": "Tue, 14 Jul 2026 16:44:46 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "The foods most likely to carry diarrhea-causing parasite cyclospora (and which are safe)",
-      "desc": "If you're unlucky enough to ingest a contaminated food, you may get stuck with weeks of watery diarrhea as well as \"frequent and sometimes explosive bowel movements,\" according to the CDC.",
-      "link": "https://thehill.com/policy/healthcare/5966336-foods-most-likely-to-carry-parasite-cyclospora-which-are-safe/",
-      "date": "Jul 14, 2026",
-      "rawDate": "Tue, 14 Jul 2026 12:34:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

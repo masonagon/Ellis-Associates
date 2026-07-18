@@ -1,6 +1,51 @@
 {
-  "generated": "2026-07-18T08:44:06.796Z",
+  "generated": "2026-07-18T10:11:54.340Z",
   "news": [
+    {
+      "title": "Trump’s election security speech: Democrats see false claims, future threats",
+      "desc": "President Trump’s selective release of classified documents about the 2020 election doesn’t change the core conclusion of the intelligence community: that not a single vote was altered in the contest.",
+      "link": "https://thehill.com/homenews/administration/5975360-dhs-voter-roll-scrubbing/",
+      "date": "Jul 18, 2026",
+      "rawDate": "Sat, 18 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump targets Iran&#039;s infrastructure in bid to squeeze regime",
+      "desc": "The U.S. military is widening its attacks across Iran, striking a port facility, energy infrastructure and bridges as President Trump looks to squeeze the Iranian regime.  Iran has retaliated against ",
+      "link": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/",
+      "date": "Jul 18, 2026",
+      "rawDate": "Sat, 18 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "desc": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "date": "Jul 18, 2026",
+      "rawDate": "Sat, 18 Jul 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Best Tech for Back to School",
+      "desc": "Get ready to crush your coursework or scoot to class in style with these back-to-school gear picks.",
+      "link": "https://www.wired.com/story/best-tech-gear-back-to-school/",
+      "date": "Jul 18, 2026",
+      "rawDate": "Sat, 18 Jul 2026 09:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "desc": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "date": "Jul 18, 2026",
+      "rawDate": "Sat, 18 Jul 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "David Crowley set to rejoin Wisconsin governor’s race after lieutenant governor exit",
       "desc": "Milwaukee County Executive David Crowley will rejoin the Democratic primary race for Wisconsin governor following the sudden exit of Wisconsin Lt. Gov. Sara Rodriguez (D), who ended her bid on Friday ",
@@ -124,8 +169,8 @@
       "link": "https://thehill.com/policy/technology/5975303-david-sacks-us-artificial-intelligence-kimi-k3-moonshot-ai/",
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 20:41:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "US military conducts strikes against Iran for seventh consecutive day",
@@ -147,7 +192,7 @@
     },
     {
       "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
-      "desc": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
+      "desc": "An error with the cloud computing giant’s billing operation caused some customers�� monthly bills to rise from a few cents to billions of dollars.",
       "link": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 19:50:38 +0000",
@@ -341,33 +386,6 @@
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 11:55:36 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Valve Steam Machine Review: A Compromised Console",
-      "desc": "Great for indie darlings, but Sony, Microsoft, and Nintendo remain kings of TV gaming.",
-      "link": "https://www.wired.com/review/valve-steam-machine/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "23 Best Gifts for Cooks (2026): Vitamix, Frying Pans, Air Fryers",
-      "desc": "From the best air fryer to frying pans to knife sharpeners anyone can use, these ideas will keep the curious home chef in your life tinkering away.",
-      "link": "https://www.wired.com/gallery/gift-for-the-home-chef-2026/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 10:34:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "A $10K Bounty Aims to Make Sony’s PlayStation 5 a Computer Again",
-      "desc": "Nice PlayStation you got. Bet it could probably run Linux too.",
-      "link": "https://www.wired.com/story/a-10k-bounty-aims-to-make-the-ps5-a-computer-again/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 10:30:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -763,15 +781,6 @@
       "link": "https://thehill.com/policy/defense/5970611-poll-iran-war-duration/",
       "date": "Jul 15, 2026",
       "rawDate": "Wed, 15 Jul 2026 21:59:35 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US military disables first tanker in Arabian Sea since blockade was reimposed",
-      "desc": "The U.S. military disabled an unladen oil tanker attempting to sail to an Iranian port in the Arabian Gulf on Wednesday, the first instance of the U.S. forces crippling a vessel since President Trump ",
-      "link": "https://thehill.com/policy/defense/5970606-us-strikes-iranian-tanker-blockade/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 21:33:14 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

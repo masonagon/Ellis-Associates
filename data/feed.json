@@ -1,6 +1,24 @@
 {
-  "generated": "2026-07-18T23:43:47.677Z",
+  "generated": "2026-07-19T01:54:45.851Z",
   "news": [
+    {
+      "title": "Bernie Sanders, AOC stump for Abdul El-Sayed in Detroit",
+      "desc": "Vermont Sen. Bernie Sanders and New York Congresswoman Alexandria Ocasio-Cortez are in Michigan campaigning on behalf of Abdul El-Sayed.",
+      "link": "https://www.mlive.com/politics/2026/07/bernie-sanders-aoc-stump-for-abdul-el-sayed-in-detroit.html",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 01:04:19 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Taylor Farms expands lettuce recall to 27 states",
+      "desc": "Taylor Farms has expanded a voluntary recall of iceberg lettuce that was distributed to 27 states after federal health officials linked the lettuce from its supplier in central Mexico to the spread of",
+      "link": "https://thehill.com/policy/healthcare/5976484-taylor-farms-lettuce-recall/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 00:47:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Shooting on I-94 in Washtenaw County shuts down freeway",
       "desc": "No injuries have been reported.",
@@ -88,24 +106,6 @@
       "link": "https://thehill.com/homenews/campaign/5976200-evers-endorses-crowley-wisconsin-governor/",
       "date": "Jul 18, 2026",
       "rawDate": "Sat, 18 Jul 2026 17:27:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Congress, Mexico and Canada hold a USMCA trump card",
-      "desc": "The prudent course is to hold firm against any weakening of USMCA’s terms.",
-      "link": "https://thehill.com/opinion/international/5974958-protect-usmca-free-trade/",
-      "date": "Jul 18, 2026",
-      "rawDate": "Sat, 18 Jul 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Norman throws hat in ring for Graham’s Senate seat",
-      "desc": "Rep. Ralph Norman (R-S.C.) announced on Saturday that he will run for a Senate seat representing the Palmetto State following the sudden passing of longtime Sen. Lindsey Graham (R). “For years, Senato",
-      "link": "https://thehill.com/homenews/campaign/5976205-norman-sc-senate-bid/",
-      "date": "Jul 18, 2026",
-      "rawDate": "Sat, 18 Jul 2026 16:52:30 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -889,15 +889,6 @@
       "link": "https://thehill.com/policy/defense/5969935-hegseth-testosterone-testing-dod/",
       "date": "Jul 15, 2026",
       "rawDate": "Wed, 15 Jul 2026 17:21:12 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Four states linked to cyclosporiasis outbreak, CDC warns more could be involved",
-      "desc": "The cause remains under investigation.",
-      "link": "https://thehill.com/policy/healthcare/5969664-four-states-linked-to-cyclosporiasis-outbreak-cdc-warns-more-could-be-involved/",
-      "date": "Jul 15, 2026",
-      "rawDate": "Wed, 15 Jul 2026 16:43:04 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

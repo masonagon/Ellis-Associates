@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-19T16:48:09.331Z",
+  "generated": "2026-07-19T17:51:43.880Z",
   "news": [
+    {
+      "title": "Man hospitalized, suspect in custody after Grand Rapids shooting",
+      "desc": "Investigators are still piecing together what led to the violence.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/man-hospitalized-suspect-in-custody-after-grand-rapids-shooting.html",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 17:01:06 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Paying cash without pennies is confusing. That could soon change",
+      "desc": "Businesses have taken different approaches in giving back change on cash transactions. A bill that passed the House this month could improve the situation.",
+      "link": "https://thehill.com/policy/5970462-paying-cash-without-pennies-is-confusing-that-could-soon-change/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Warner: ‘Remarkable in many ways’ there aren’t more dead U.S troops in Iran war",
+      "desc": "Sen. Mark Warner (D-Va.) on Sunday slammed the current U.S. conflict with Iran, saying that “it’s remarkable in many ways” that the U.S. military hasn’t faced more death in the fighting — comments tha",
+      "link": "https://thehill.com/homenews/senate/5976859-us-military-death-toll-rises/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 16:49:02 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Fetterman on Trump election speech: &#039;Do something positive, and you are talking about 2020&#039;",
       "desc": "Sen. John Fetterman (D-Pa.) on Sunday said President Trump could \"do something positive\" instead of talking about the 2020 presidential election, clapping at the president's primetime speech on Thursd",
@@ -74,15 +101,6 @@
       "tag": "safety"
     },
     {
-      "title": "Fetterman rips Sanders over Platner, El-Sayed endorsements",
-      "desc": "Sen. John Fetterman (D-Pa.), who has increasingly bucked his party in recent years, went after Sen. Bernie Sanders (I-Vt.) for his endorsements of former Maine Senate candidate Graham Platner and curr",
-      "link": "https://thehill.com/homenews/campaign/5976688-fetterman-criticizes-sanders-endorsements/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 13:28:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pedestrian hit by vehicle in Wyoming, police investigating",
       "desc": "The man remains in critical condition at an area hospital, according to police.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/07/pedestrian-hit-by-vehicle-in-wyoming-police-investigating.html",
@@ -90,33 +108,6 @@
       "rawDate": "Sun, 19 Jul 2026 13:19:25 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump calls for Congress to add Iran to Russia sanctions bill in Graham&#039;s honor",
-      "desc": "President Trump on Sunday called on Congress to add Iran to a bipartisan Russia sanctions bill to honor the bill's late author, former Sen. Lindsey Graham (R-S.C.). The bill, first introduced in April",
-      "link": "https://thehill.com/homenews/administration/5976642-trump-calls-add-iran-russia-sanctions-bill/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 13:14:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats&#039; real vulnerability is on crime, not economics",
-      "desc": "The internal fight consuming the party misreads what is actually killing left-wing governments across the world.",
-      "link": "https://thehill.com/opinion/criminal-justice/5975011-democratic-party-crime-vulnerability/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats&#8217; real vulnerability is on crime, not economics",
-      "desc": "The internal fight consuming the party misreads what is actually killing left-wing governments across the world.",
-      "link": "https://thehill.com/opinion/criminal-justice/5975011-democratic-party-crime-vulnerability/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Live updates: Iran war rages after US soldiers killed; Trump to attend World Cup Final",
@@ -569,15 +560,6 @@
       "tag": "safety"
     },
     {
-      "title": "Flint man receives 5-year sentence for false testimony plot in federal case",
-      "desc": "Omar R. Pouncy's sentencing comes after paying another man $10,000 to falsely claim responsibility for carjackings committed more than 20 years ago.",
-      "link": "https://www.mlive.com/news/flint/2026/07/flint-man-receives-5-year-sentence-for-false-testimony-plot-in-federal-case.html",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 15:32:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "US targets Iranian bridges, energy sites in latest wave of strikes",
       "desc": "The U.S. military hit bridges and energy sites in Iran in its latest round of strikes against the Middle Eastern country early Friday morning.  The Islamic Revolutionary Guard Corps (IRGC) responded w",
       "link": "https://thehill.com/policy/defense/5974227-iran-us-strikes/",
@@ -711,15 +693,6 @@
       "rawDate": "Thu, 16 Jul 2026 18:56:50 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "House GOP pulls military benefits bill that has divided veterans groups",
-      "desc": "House Republican leadership on Thursday canceled a vote on a massive military benefits package that would pay for expanded compensation for veterans by cutting some future disability claims —a controv",
-      "link": "https://thehill.com/policy/defense/5972408-house-military-benefits-bill/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 18:54:24 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Parents express concerns as Lapeer schools move forward with reconfiguration plan",

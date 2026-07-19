@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-19T08:02:30.912Z",
+  "generated": "2026-07-19T10:19:59.656Z",
   "news": [
+    {
+      "title": "Hegseth’s testosterone mandate carries risks, raises questions",
+      "desc": "Defense Secretary Pete Hegseth kicked a hornet’s nest with his move this week to test troops’ testosterone levels.  Hegseth argues the effort, to become part of the military’s periodic health assessme",
+      "link": "https://thehill.com/policy/defense/5976381-hegseth-military-testosterone-screening-questions/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Divide grows between AI employees and executives over policy battles",
+      "desc": "Tech employees in Silicon Valley are increasingly finding themselves at odds with industry executives, who are spending millions to push for light-touch AI regulation. The latest disagreement is playi",
+      "link": "https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
+      "desc": "Astronomers have discovered a rocky exoplanet that has an atmosphere and sits within the habitable zone of a solar system.",
+      "link": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+      "desc": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
+      "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Bernie Sanders, AOC stump for Abdul El-Sayed in Detroit",
       "desc": "Vermont Sen. Bernie Sanders and New York Congresswoman Alexandria Ocasio-Cortez are in Michigan campaigning on behalf of Abdul El-Sayed.",
@@ -99,15 +135,6 @@
       "rawDate": "Sat, 18 Jul 2026 18:00:44 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Evers backs Crowley&#039;s comeback bid in Wisconsin governor&#039;s race",
-      "desc": "Wisconsin Gov. Tony Evers (D) on Saturday threw his support behind Milwaukee County Executive David Crowley's revived gubernatorial campaign, just a day after Lt. Gov. Sara Rodriguez's (D) abrupt exit",
-      "link": "https://thehill.com/homenews/campaign/5976200-evers-endorses-crowley-wisconsin-governor/",
-      "date": "Jul 18, 2026",
-      "rawDate": "Sat, 18 Jul 2026 17:27:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Complaint alleges Ann Arbor mayoral candidate broke law with endorsement mailers",
@@ -398,15 +425,6 @@
       "tag": "safety"
     },
     {
-      "title": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
-      "desc": "A newly renewed, $25 million-per-year contract with a subsidiary of Thomson Reuters further expands the power of ICE under the Trump administration.",
-      "link": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 17:47:05 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Michigan sending $224M to K-12 schools for building repairs, but is it enough?",
       "desc": "The state's educaiton department announced the grants on Friday, meeting just 16.5% of $1.8 billion in requests received from local districts looking to upgrade critical school infrastructure.",
       "link": "https://www.mlive.com/education/2026/07/michigan-sending-224m-to-k-12-schools-for-building-repairs-but-is-it-enough.html",
@@ -414,15 +432,6 @@
       "rawDate": "Fri, 17 Jul 2026 17:28:09 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "‘The Odyssey’ Backlash Failed Tremendously",
-      "desc": "For all the hysteria over “woke” casting and ahistorical choices, Christopher Nolan’s epic is on track to make $200 million globally during its opening weekend.",
-      "link": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 17:09:13 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Bomb squad called to Jackson home",
@@ -623,15 +632,6 @@
       "tag": "technology"
     },
     {
-      "title": "8 big developments in America’s booming fried chicken market",
-      "desc": "From Costco's new chicken tenders to KFC's returning popcorn chicken, restaurants nationwide are expanding their poultry offerings this summer with creative sauces and menu additions.",
-      "link": "https://www.mlive.com/business/2026/07/8-big-developments-in-americas-booming-fried-chicken-market.html",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 20:08:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Tesla driver in fatal Texas crash overrode driver assistance system: NTSB",
       "desc": "A Tesla driver in a fatal Texas crash overrode the car’s driver assistance system, the National Transportation Safety Board (NTSB) said Wednesday. The NTSB said in its preliminary findings that in mid",
       "link": "https://thehill.com/policy/technology/5972631-tesla-fsd-crash-texas/",
@@ -767,15 +767,6 @@
       "tag": "technology"
     },
     {
-      "title": "Taiwan chipmaker planning to spend another $100B on US manufacturing expansion",
-      "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) plans to spend another $100 billion in the U.S. to build more chip facilities, the company announced Thursday. The chipmaker's investment will be dire",
-      "link": "https://thehill.com/policy/technology/5971554-tsmc-chip-plant-expansion/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 14:18:19 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Three Jackson institutions team up for free daylong astronomy celebration",
       "desc": "The event allows visitors to explore astronomy through hands-on activities at three separate locations across the community.",
       "link": "https://www.mlive.com/news/jackson/2026/07/three-jackson-institutions-team-up-for-free-daylong-astronomy-celebration.html",
@@ -808,15 +799,6 @@
       "link": "https://thehill.com/policy/defense/5970655-trump-iran-blockade-hormuz/",
       "date": "Jul 16, 2026",
       "rawDate": "Thu, 16 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US airstrikes hit northern Iran as it disables ship trying to run the blockade",
-      "desc": "DUBAI, United Arab Emirates (AP) — The United States intensified its strikes targeting Iran early Thursday, hitting targets further north as American forces also fired into a ship it accused of trying",
-      "link": "https://thehill.com/policy/defense/iran-threatens-middle-east-oil-gas-us-blockade/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 03:39:53 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

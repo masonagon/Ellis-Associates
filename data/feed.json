@@ -1,6 +1,24 @@
 {
-  "generated": "2026-07-19T21:42:33.043Z",
+  "generated": "2026-07-19T22:42:45.407Z",
   "news": [
+    {
+      "title": "Maine secretary of State drops out of Senate race",
+      "desc": "Maine Secretary of State Shenna Bellows (D) on Sunday said she was dropping out of the Democratic primary for the Senate in the Pine Tree State a little more than a week after announcing her campaign.",
+      "link": "https://thehill.com/homenews/campaign/5977222-shenna-bellows-drops-senate-race/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 22:21:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police investigating robbery in elevator of GRCC parking ramp",
+      "desc": "The incident took place at approximately 10:30 a.m. Sunday, July 19, in the elevator of Ramp A while campus was closed, according to a timely warning notice issued by the college.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/police-investigating-robbery-in-elevator-of-grcc-parking-ramp.html",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 22:17:06 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "This week on the Hill: House eyes week jam-packed with major bills",
       "desc": "House lawmakers face a packed legislative agenda this week before departing for the monthlong August recess, with GOP leaders aiming to advance a stopgap funding bill, kick off work on a third reconci",
@@ -540,15 +558,6 @@
       "rawDate": "Fri, 17 Jul 2026 17:28:09 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Bomb squad called to Jackson home",
-      "desc": "The bomb was disassembled by police.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/bomb-squad-called-to-jackson-home.html",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 16:50:28 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Vandercook Lake lands ‘monumental’ $19.8M grant for school upgrades after bond defeats",

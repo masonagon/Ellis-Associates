@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-19T10:19:59.656Z",
+  "generated": "2026-07-19T11:49:48.296Z",
   "news": [
+    {
+      "title": "How to Disable Music Videos in Spotify",
+      "desc": "A recent update made video playback the default for songs and podcasts with a visual component. If you just want to listen to music—and save your data and battery—follow these tips.",
+      "link": "https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Which Michigan congressional seats are competitive in 2026? See the ratings",
+      "desc": "With an open U.S. Senate seat and several competitive House races, Michigan could play a key role in determining which party controls Congress.",
+      "link": "https://www.mlive.com/data/2026/07/which-michigan-congressional-seats-are-competitive-in-2026-see-the-ratings.html",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 10:30:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Divide grows between AI employees and executives over policy battles",
+      "desc": "Tech employees in Silicon Valley are increasingly finding themselves at odds with industry executives, who are spending millions to push for light-touch AI regulation. The latest disagreement is playi",
+      "link": "https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jon Ossoff, amid presidential chatter, hits Trump over elections",
+      "desc": "Sen. Jon Ossoff is going on offense against President Trump, emerging as one of the Democratic Party’s most aggressive critics on elections — an issue that hits close to home for the Georgia Democrat.",
+      "link": "https://thehill.com/homenews/campaign/5975467-georgia-senator-ossoff-reelection-bid/",
+      "date": "Jul 19, 2026",
+      "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Hegseth’s testosterone mandate carries risks, raises questions",
       "desc": "Defense Secretary Pete Hegseth kicked a hornet’s nest with his move this week to test troops’ testosterone levels.  Hegseth argues the effort, to become part of the military’s periodic health assessme",
@@ -9,15 +45,6 @@
       "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Divide grows between AI employees and executives over policy battles",
-      "desc": "Tech employees in Silicon Valley are increasingly finding themselves at odds with industry executives, who are spending millions to push for light-touch AI regulation. The latest disagreement is playi",
-      "link": "https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
@@ -389,33 +416,6 @@
       "tag": "government"
     },
     {
-      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
-      "desc": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
-      "link": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 19:50:38 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
-      "desc": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
-      "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 19:17:46 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
-      "desc": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
-      "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 18:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "A bang, then a ‘bloodcurdling cry’: Witnesses recount chaos of deputy shooting, manhunt",
       "desc": "A person allegedly shot a Kalamazoo County sheriff's deputy, stole their vehicle and led police on a manhunt throughout the county Friday morning.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/07/a-bang-then-a-bloodcurdling-scream-witnesses-recount-chaos-of-deputy-shooting-manhunt.html",
@@ -540,15 +540,6 @@
       "rawDate": "Fri, 17 Jul 2026 13:02:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Whitmer, Benson, Nessel defend Michigan elections after Trump speech",
-      "desc": "The governor, secretary of state and attorney general are rejecting President Trump's call on Thursday for an investigation into voter registration fraud in Muskegon County.",
-      "link": "https://www.mlive.com/politics/2026/07/whitmer-benson-nessel-defend-michigan-elections-after-trump-speech.html",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 12:30:37 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Acting Navy secretary on Blue Angels flyover at Florida beach: &#039;No problem&#039;",

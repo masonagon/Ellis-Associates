@@ -1,32 +1,131 @@
 {
-  "generated": "2026-07-21T12:24:02.931Z",
+  "generated": "2026-07-21T14:57:27.570Z",
   "news": [
     {
-      "title": "Carney blasts new Trump tariffs: &#8216;Direct violation&#8217; of trade deal",
-      "desc": "Canadian Prime Minister Mark Carney spoke out Monday after the Trump administration announced a new 50 percent tariff on a range of exports from the U.S.&#8217;s northern neighbor. President Trump sig",
-      "link": "https://thehill.com/policy/international/5979864-mark-carney-donald-trump-tariffs-canadian-wildfires/",
+      "title": "House Democrat: Trump not sharing Iran war casualty statistics with Congress",
+      "desc": "Rep. Adam Smith (D-Wash.) on Monday said President Trump has not shared Iran war casualty statistics with Congress, a point of contention after three U.S. service members were killed over the last wee",
+      "link": "https://thehill.com/homenews/house/5980309-adam-smith-trump-iran-war-transparency/",
       "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 12:01:03 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "What Trump didn’t say about election interference",
-      "desc": "Donald Trump's recent speech regarding the 2020 election was criticized for failing to provide proof of election interference while contradicting official U.S. intelligence assessments.",
-      "link": "https://thehill.com/opinion/white-house/5979616-trump-misquotes-intel-reports/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 12:00:00 +0000",
+      "rawDate": "Tue, 21 Jul 2026 14:49:31 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Clarity Act gives law enforcement the tools it needs for decentralized finance",
-      "desc": "Last month, a major U.S.-based digital asset company's compliance team discovered that more than $200 million in stablecoins were en route to North Korea. They had eight hours and the technical abilit",
-      "link": "https://thehill.com/opinion/finance/5978689-montana-ag-crypto-regulation/",
+      "title": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
+      "desc": "A federal appeals court on Monday rejected former President Biden’s request to prevent audio recordings and transcripts from decade-old interviews he gave to his memoir ghostwriter from becoming publi",
+      "link": "https://thehill.com/homenews/administration/5980498-biden-memoir-recordings-court-ruling/",
       "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 11:30:00 +0000",
+      "rawDate": "Tue, 21 Jul 2026 14:47:37 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "DNC members set to discuss early primary calendar this week in DC",
+      "desc": "Democratic National Committee (DNC) members are set to meet in Washington this week to vote on the states that will be among the first to vote in the 2028 Democratic primary.  Members of the Democrati",
+      "link": "https://thehill.com/homenews/campaign/5980502-dnc-votes-early-primary-states/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 14:41:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate Democrat proposes universal health care for children",
+      "desc": "Sen. Andy Kim (D-N.J.) on Tuesday unveiled a proposal for all American children to receive Medicare, a program he's dubbed MediKids, saying Democrats must bring new ideas to move the conversation on h",
+      "link": "https://thehill.com/homenews/5980026-sen-andy-kim-medikids-proposal/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 14:39:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats battle over first primary; Maine picks a candidate; Ossoff takes off: Live discussion",
+      "desc": "Democrats are meeting this week in Washington to debate where their 2028 presidential primary should begin. Iowa? New Hampshire? South Carolina? Nevada? Meanwhile, Sen. Jon Ossoff (D-Ga.) is raising h",
+      "link": "https://thehill.com/homenews/campaign/fight-for-2028/5980283-democrats-primary-battle-maine-senate-race-jon-ossoff-donald-trump-live-discussion/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 14:24:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fox News anchor reveals 1 reason why Trump needs to end Iran war",
+      "desc": "During the 2024 campaign, President Donald Trump vowed to not get the U.S. involved in any foreign wars if he were to return to the White House.",
+      "link": "https://www.mlive.com/politics/2026/07/fox-news-anchor-reveals-1-reason-why-trump-needs-to-end-iran-war.html",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 14:14:52 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: House Democrats push back on Trump agenda as midterms inch closer",
+      "desc": "House Democratic leaders will speak with reporters Tuesday morning as lawmakers continue to sharpen their political message heading into the 2026 midterm elections. Minority Leader Hakeem Jeffries (D-",
+      "link": "https://thehill.com/video-clips/5980222-watch-live-house-democrats-press-conference-midterms/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 14:01:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Don&#039;t listen to Democrats whining about election interference",
+      "desc": "The Election Assistance Commission does not conduct elections, count ballots, certify winners, or supervise state or local election officials.",
+      "link": "https://thehill.com/opinion/campaign/5978726-us-election-decentralization-explained/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 14:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Henry Ford Health sues CVS over alleged $29 million pricing scheme",
+      "desc": "The lawsuit, filed in federal court, alleges that since 2020, CVS and its subsidiaries manipulated reimbursements under the 340B program, underpaying Henry Ford by more than $29 million.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/henry-ford-health-sues-cvs-over-alleged-29-million-pricing-scheme.html",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 13:41:24 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Watch live: RFK Jr., Oz outline federal efforts to combat healthcare fraud",
+      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. and Centers for Medicare and Medicaid Services Administrator Dr. Mehmet Oz will deliver remarks Tuesday morning on the Trump administrat",
+      "link": "https://thehill.com/video-clips/5980064-watch-live-robert-f-kennedy-jr-mehmet-oz-anti-fraud-efforts-medicaid-healthcare/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 13:41:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fox News pundits urge Trump to get out of Iran war",
+      "desc": "A number of Fox News pundits are urging President Trump to de-escalate fighting with Iran, warning the conflict could be a liability for Republican candidates in upcoming elections. \"With the midterm ",
+      "link": "https://thehill.com/homenews/administration/5979968-fox-news-urges-trump-deescalate-iran/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 13:28:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "O&#039;Reilly: Trump has &#039;shrinking options&#039; in Iran war",
+      "desc": "Conservative political commentator Bill O’Reilly warned on Monday that President Trump has limited paths forward in the U.S. military operations against Tehran, as the months-long conflict stretches i",
+      "link": "https://thehill.com/policy/defense/5979939-bill-oreilly-donald-trump-iran-war-options/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 13:19:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Pentagon identifies US service member killed in Iranian attack on Iraq base",
+      "desc": "The Pentagon on Tuesday identified the U.S. service member who was killed over the weekend in Iraq during a “controlled detonation” of unexploded ordnance from a downed Iranian one-way attack drone. S",
+      "link": "https://thehill.com/policy/defense/5979954-pentagon-identifies-us-soldier-killed-iraq-iran-war/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 12:55:55 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "House Republican on Iran war: &#039;We should have finished this a long time ago&#039;",
+      "desc": "Rep. Rich McCormick (R-Ga.) said Monday the Trump administration should have finished the job in Iran “a long time ago” instead of negotiating a short-lived memorandum of understanding (MOU). “In my p",
+      "link": "https://thehill.com/homenews/house/5979903-rich-mccormick-donald-trump-pentagon-iran-war/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 12:50:28 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "How to tell if your lettuce is safe to eat during cyclospora outbreak",
@@ -47,24 +146,6 @@
       "tag": "technology"
     },
     {
-      "title": "South Carolina Senate candidates pile in despite Trump endorsement",
-      "desc": "In today's issue: ▪ Darline Graham running for full Senate term ▪ Houthis announce Saudi Arabia blockade ▪ Tracking the cyclospora outbreak status ▪ Inside Jackson’s rise in Maine The GOP race to repl",
-      "link": "https://thehill.com/newsletters/morning-report/5979822-south-carolina-senate-race-darline-graham-donald-trump-iran-war/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 11:01:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "MAHA voters feel betrayed — Republicans proceed at their own risk",
-      "desc": "The Centers for Disease Control and Prevention may have handed Republican leaders a political grenade with the pin pulled. On June 1, the agency awarded Pfizer contracts worth roughly $1.24 billion fo",
-      "link": "https://thehill.com/opinion/healthcare/5978536-cdc-awarded-pfizer-vaccine-contract/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
       "desc": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
       "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
@@ -74,76 +155,13 @@
       "tag": "technology"
     },
     {
-      "title": "How Jackson became Democrats’ pick to take on Collins in Maine",
-      "desc": "Former Maine Senate President Troy Jackson (D) is shifting his attention to a coming battle against incumbent Sen. Susan Collins (R-Maine) after pulling off a stunning rise to become the likely Democr",
-      "link": "https://thehill.com/homenews/campaign/5979174-jackson-maine-democrats-senate-delegates/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP faces real danger in voter enthusiasm gap",
-      "desc": "It’s halfway through the summer, and despite the midterm curse that has hammered the party with the White House in all but three midterms since the Civil War, Republicans are looking a lot better than",
-      "link": "https://thehill.com/homenews/campaign/5979298-democratic-republican-generic-ballot/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What to watch in Arizona’s primaries",
-      "desc": "The Grand Canyon State is holding an earlier-than-usual July primary on Tuesday, teeing up consequential races for governor, key statewide election offices and congressional races.  Arizona lawmakers ",
-      "link": "https://thehill.com/homenews/campaign/5979241-arizona-primary-elections-what-to-watch/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP faces new alarm over Iran as ceasefire implodes",
-      "desc": "The intensifying military conflict with Iran and its impact on gas prices is sparking fresh alarm among GOP lawmakers, who are urging President Trump to find a way to reopen the Strait of Hormuz as so",
-      "link": "https://thehill.com/homenews/senate/5979426-gop-urges-trump-open-strait/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Memo: Lebanon crisis takes center stage with White House meeting",
-      "desc": "The crisis in Lebanon will move center stage tomorrow as Lebanese President Joseph Aoun is scheduled to meet President Trump at the White House. The confab will be a vital one for Aoun as he seeks to ",
-      "link": "https://thehill.com/homenews/administration/5979365-trump-lebanon-president-meeting/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mamdani’s threat to arrest Netanyahu spotlights deepening Democratic divisions",
-      "desc": "New York City Mayor Zohran Mamdani’s threat to arrest Israeli Prime Minister Benjamin Netanyahu signals a new line in the sand for the Democratic Party and its relationship to the Jewish State. Mamdan",
-      "link": "https://thehill.com/policy/international/5979466-mamdani-threatens-netanyahu-arrest/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP seeks to avoid, for once, the shutdown trap",
-      "desc": "House GOP leaders are racing to pass a stopgap funding measure, seeking to avoid the kind of government shutdown that has brought them pain in the past. The stopgap measure would fund the government f",
-      "link": "https://thehill.com/homenews/house/5979250-congressional-shutdown-avoidance-strategy/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump health staffing, funding cuts slow cyclospora response",
-      "desc": "Cases of cyclospora are rising as the Trump administration’s historic cuts to staffing and funding at federal health agencies meet chronic underfunding at the state and local level.  It's a complicate",
+      "desc": "Cases of illness caused by cyclospora are rising as the Trump administration’s historic cuts to staffing and funding at federal health agencies meet chronic underfunding at the state and local level. ",
       "link": "https://thehill.com/policy/healthcare/5979279-cyclospora-cases-rise-cdc-cuts/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Meijer hiring more than 300 workers for new Southeast Michigan supercenter",
@@ -183,7 +201,7 @@
     },
     {
       "title": "Hegseth, Caine testify on Iran supplemental amid escalation: What to know",
-      "desc": "Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs of Staff Gen. Dan Caine are set to testify in front of the Senate Tuesday on the White House’s supplemental funding request, days after ",
+      "desc": "Defense Secretary Pete Hegseth and Gen. Dan Caine, the chair of the Joint Chiefs of Staff, are set to testify in front of the Senate on Tuesday on the White House’s supplemental funding request, days ",
       "link": "https://thehill.com/policy/defense/5979543-hegseth-caine-testify-iran-war/",
       "date": "Jul 20, 2026",
       "rawDate": "Mon, 20 Jul 2026 23:14:51 +0000",
@@ -569,15 +587,6 @@
       "tag": "health"
     },
     {
-      "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
-      "desc": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July.",
-      "link": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 10:15:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "‘Michigan, we have no time to waste’: AOC, Sanders campaign for El-Sayed in Grand Rapids",
       "desc": "Michigan Senate candidate Abdul El-Sayed campaigned with Vermont Sen. Bernie Sanders and New York Congresswoman Alexandria Ocasio-Cortez on Sunday.",
       "link": "https://www.mlive.com/politics/2026/07/michigan-we-have-no-time-to-waste-aoc-sanders-campaign-for-el-sayed-in-grand-rapids.html",
@@ -585,15 +594,6 @@
       "rawDate": "Mon, 20 Jul 2026 03:06:43 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Police investigating robbery in elevator of GRCC parking ramp",
-      "desc": "The incident took place at approximately 10:30 a.m. Sunday, July 19, in the elevator of Ramp A while campus was closed, according to a timely warning notice issued by the college.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/police-investigating-robbery-in-elevator-of-grcc-parking-ramp.html",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 22:17:06 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "US service member killed in Iraq during ‘controlled detonation’ of Iran drone: Centcom",
@@ -610,33 +610,6 @@
       "link": "https://thehill.com/homenews/administration/5976607-live-updates-iran-war-strikes-trump-world-cup-final/",
       "date": "Jul 19, 2026",
       "rawDate": "Sun, 19 Jul 2026 19:56:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Warner: ‘Remarkable in many ways’ there aren’t more dead U.S troops in Iran war",
-      "desc": "Sen. Mark Warner (D-Va.) on Sunday slammed the current U.S. conflict with Iran, saying that “it’s remarkable in many ways” that the U.S. military hasn’t faced more death in the fighting — comments tha",
-      "link": "https://thehill.com/homenews/senate/5976859-us-military-death-toll-rises/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 16:49:02 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Shaheen on House Israeli aid vote: Israel is &#039;strongest ally in the Middle East&#039;",
-      "desc": "Rep. Jeanne Shaheen (D-N.H.) said Sunday that Israel is “our strongest ally in the Middle East” after being questioned about a recent vote in the House where more than 100 Democrats voted to cut off a",
-      "link": "https://thehill.com/policy/international/5976774-shaheen-calls-israel-strongest-ally/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 15:32:02 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Retired US Navy admiral on Iran moves: &#039;Watch the Suez Canal&#039;",
-      "desc": "Retired U.S. Navy Adm. James Stavridis on Sunday warned that the U.S. should watch Iran’s actions in the Suez Canal. “It’s got more traffic flowing through it than the Strait of Hormuz, and the Irania",
-      "link": "https://thehill.com/policy/defense/5976711-stavridis-warns-iran-suez-canal/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 14:41:53 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },
@@ -729,15 +702,6 @@
       "rawDate": "Fri, 17 Jul 2026 21:52:01 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Vegetable supplier Taylor Farms to pull some products amid cyclosporiasis outbreak",
-      "desc": "California-based vegetable producer Taylor Farms said Friday that it will remove products potentially linked to a growing cyclosporiasis outbreak across the country.  “Based on information provided ye",
-      "link": "https://thehill.com/policy/healthcare/5975363-taylor-farms-iceberg-lettuce-cyclosporiasis/",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 20:52:49 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Sacks argues US is &#039;tying itself in knots&#039; over AI after release of new Chinese model",

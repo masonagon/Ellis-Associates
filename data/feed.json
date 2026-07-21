@@ -1,8 +1,53 @@
 {
-  "generated": "2026-07-21T22:54:28.420Z",
+  "generated": "2026-07-21T23:50:47.302Z",
   "news": [
     {
-      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "title": "Peters calls Hegseth a &#039;failure&#039; at hearing",
+      "desc": "Democratic Sen. Gary Peters (Mich.) on Tuesday said Defense Secretary Pete Hegseth was a “failure” and lacked the leadership necessary to win the Iran war.  “Secretary Haig said, despite your failure ",
+      "link": "https://thehill.com/homenews/senate/5982164-peters-calls-hegseth-failure/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 23:25:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The list is in: 10 Ann Arbor school board hopefuls running for 5 seats",
+      "desc": "Eight candidates are seeking one of four spots to serve a four-year term on the Ann Arbor Public Schools Board of Education, while two others are running for one partial. The list is not final until a",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/this-list-is-in-10-ann-arbor-school-board-hopefuls-running-for-5-seats.html",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 23:17:16 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "GOP bill leaves out anti-Planned Parenthood language",
+      "desc": "Presented by PhRMA {beacon}",
+      "link": "https://thehill.com/newsletters/healthcare/5982200-gop-bill-leaves-out-anti-planned-parenthood-language/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 23:02:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP links SAVE Act to Olive Garden&#039;s unlimited pasta deal",
+      "desc": "GOP leaders have recently tried to make a comparison about voter ID laws in the SAVE Act to something that is drawing more than a few eyes: Olive Garden’s never-ending pasta pass. In a hearing on Mond",
+      "link": "https://thehill.com/homenews/house/5982231-olive-garden-pasta-pass-comparison/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 23:01:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
+      "desc": "It’s “the most car-like Range Rover ever created,” but will this all-electric grand tourer spoil Jaguar’s Type 01 party?",
+      "link": "https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 23:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
       "desc": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
       "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
       "date": "Jul 21, 2026",
@@ -160,33 +205,6 @@
       "link": "https://thehill.com/homenews/5981852-cleo-fields-reelection-redistricting-louisiana/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 21:00:28 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Biggs, Schweikert duke it out to face Hobbs in Arizona governor&#039;s race",
-      "desc": "Arizona voters are at the polls Tuesday to choose the Republican nominee in the state's governor's race. Incumbent Democratic Governor Katie Hobbs is running unopposed for the Democratic nomination. S",
-      "link": "https://thehill.com/homenews/campaign/5976511-arizona-governor-primary-results/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Arizona heads to the polls for key House primaries",
-      "desc": "Arizona voters are at the polls Tuesday to pick nominees for November's congressional races. There are two open House seats up for grabs, with Republican Reps. Andy Biggs and David Schweikert jostling",
-      "link": "https://thehill.com/homenews/campaign/5976505-live-results-arizona-house-primary/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Rapper Lil Wayne praises Trump for White House ballroom plan",
-      "desc": "Rapper Dwayne Michael Carter Jr., whose stage name is Lil Wayne, on Monday praised President Trump for constructing a White House ballroom that would provide an indoor space for performers, events and",
-      "link": "https://thehill.com/blogs/in-the-know/5981696-lil-wayne-praises-trump-ballroom/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 20:58:17 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -399,7 +417,7 @@
     },
     {
       "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
-      "desc": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a ��death switch” to destroy files and keep out real users.",
+      "desc": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
       "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 16:08:44 +0000",
@@ -740,15 +758,6 @@
       "tag": "education"
     },
     {
-      "title": "Pentagon identifies 2 US service members killed in Iran attack on Jordan base",
-      "desc": "The Pentagon on Monday identified the two American soldiers killed in an Iranian attack in Jordan over the weekend as 1st Lt. Tyler Feehan and Pvt. Isabella Gonzales. Gonzales was killed in action on ",
-      "link": "https://thehill.com/policy/defense/5977739-iranian-attack-kills-two-us-soldiers/",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 13:17:09 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "FDA: Taylor Farms lettuce cyclospora finding was false positive",
       "desc": "The U.S. Food and Drug Administration (FDA) on Sunday said that a follow-up review of a lettuce sample collected from Taylor Farms determined it was a false positive for cyclospora, the diarrhea-causi",
       "link": "https://thehill.com/policy/healthcare/5977729-cdc-cyclospariosis-outbreak-update/",
@@ -925,15 +934,6 @@
       "link": "https://www.mlive.com/education/2026/07/lawmakers-revive-tax-the-rich-push-to-fund-michigan-schools.html",
       "date": "Jul 16, 2026",
       "rawDate": "Thu, 16 Jul 2026 19:14:42 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Parents express concerns as Lapeer schools move forward with reconfiguration plan",
-      "desc": "The changes were approved by the Lapeer Community Schools Board of Education last month and will take effect for the 2027-28 school year.",
-      "link": "https://www.mlive.com/news/flint/2026/07/parents-express-concerns-as-lapeer-schools-move-forward-with-reconfiguration-plan.html",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 18:49:34 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

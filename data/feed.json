@@ -1,32 +1,158 @@
 {
-  "generated": "2026-07-21T14:57:27.570Z",
+  "generated": "2026-07-21T16:21:37.041Z",
   "news": [
     {
-      "title": "House Democrat: Trump not sharing Iran war casualty statistics with Congress",
-      "desc": "Rep. Adam Smith (D-Wash.) on Monday said President Trump has not shared Iran war casualty statistics with Congress, a point of contention after three U.S. service members were killed over the last wee",
-      "link": "https://thehill.com/homenews/house/5980309-adam-smith-trump-iran-war-transparency/",
+      "title": "Trump says U.S. will ‘take care’ of Houthis if Red Sea strait blocked",
+      "desc": "President Trump on Monday said the U.S. will “take care of things” in the Red Sea if Yemen’s Houthis impose a blockade on shipping and energy exports coming from Saudi Arabia. \"So far, it hasn't happe",
+      "link": "https://thehill.com/homenews/administration/5980851-trump-red-sea-houthi-blockade/",
       "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 14:49:31 +0000",
+      "rawDate": "Tue, 21 Jul 2026 16:12:24 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "desc": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+      "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 16:08:44 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump plays down China election claims: &#039;It&#039;s not a one-way street&#039;",
+      "desc": "President Trump appeared to play down his own claims of Chinese election interference in U.S. elections on Tuesday, telling reporters “it’s not a one-way street.”  \"Well, we're going to talk to them a",
+      "link": "https://thehill.com/homenews/administration/5980832-trump-downplays-china-election-claims/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 16:04:04 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
-      "desc": "A federal appeals court on Monday rejected former President Biden’s request to prevent audio recordings and transcripts from decade-old interviews he gave to his memoir ghostwriter from becoming publi",
-      "link": "https://thehill.com/homenews/administration/5980498-biden-memoir-recordings-court-ruling/",
+      "title": "Appeals court overturns release order for foreign student arrested in Vermont",
+      "desc": "A federal appeals court on Tuesday ruled a judge erred in ordering the release of Mohsen Mahdawi, whose arrest at his naturalization interview became a flashpoint in the Trump administration’s crackdo",
+      "link": "https://thehill.com/regulation/court-battles/5980728-appeals-court-mohsen-mahdawi-release-reversed/",
       "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 14:47:37 +0000",
+      "rawDate": "Tue, 21 Jul 2026 16:00:40 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "DNC members set to discuss early primary calendar this week in DC",
-      "desc": "Democratic National Committee (DNC) members are set to meet in Washington this week to vote on the states that will be among the first to vote in the 2028 Democratic primary.  Members of the Democrati",
-      "link": "https://thehill.com/homenews/campaign/5980502-dnc-votes-early-primary-states/",
+      "title": "Congress can end the shutdown cycle for good",
+      "desc": "Shutdowns are becoming longer and more frequent and are literally disabling our government at a time of intense international competition and conflict. That is unacceptable.",
+      "link": "https://thehill.com/opinion/congress-blog/5979067-prevent-government-shutdowns-act/",
       "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 14:41:27 +0000",
+      "rawDate": "Tue, 21 Jul 2026 16:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Bessent warns China could face sanctions over AI IP theft",
+      "desc": "Treasury Secretary Scott Bessent warned Tuesday the Trump administration could sanction China over intellectual property (IP) theft amid concerns about whether Beijing is relying on American AI to dev",
+      "link": "https://thehill.com/policy/technology/5980722-scott-bessent-china-sanctions-ai-theft/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:56:11 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "GOP leaders charge ahead on uncertain vote with ambitious agenda at stake",
+      "desc": "House GOP leaders are charging ahead with a procedural vote Tuesday afternoon that will make or break their ambitious agenda for the week, despite a number of members expressing uncertainty about whet",
+      "link": "https://thehill.com/homenews/5980560-gop-leaders-procedural-vote-agenda/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:47:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "1K internet domains were used to illegally stream World Cup matches",
+      "desc": "The sites violated United States copyright law, the Department of Justice said.",
+      "link": "https://thehill.com/policy/technology/5980496-1k-internet-domains-illegally-streaming-world-cup-doj-finds/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:32:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Van Jones says phone &#039;blowing up&#039; after saying democratic socialists &#039;going too far&#039;",
+      "desc": "Liberal pundit Van Jones said Monday that his phone has been “blowing up” with praise from lawmakers and government officials from both parties after he took a swing at democratic socialists online. I",
+      "link": "https://thehill.com/homenews/campaign/5980669-van-jones-democratic-socialists-criticism-calls/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:31:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Voting rights are under attack on multiple fronts in battleground Ohio",
+      "desc": "While statehouse Republicans have been pretty clear with their intentions, the scope and severity of the FBI raids on an Ohio voting rights organization still came as a stunning surprise.",
+      "link": "https://thehill.com/opinion/campaign/5979046-ohio-voting-rights-attacks/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Trump hosts Lebanese president amid Iran conflict escalation",
+      "desc": "President Trump is holding a bilateral meeting with Lebanese President Joseph Aoun on Tuesday morning, the first time a Lebanese head of state has made a White House visit since 2009. Trump lauded the",
+      "link": "https://thehill.com/homenews/administration/5979578-live-updates-trump-iran-hegseth-caine/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:26:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bay City man gets probation for brandishing sex toy as a gun",
+      "desc": "A Bay County judge sentenced Anderson to probation after he assaulted his ex-girlfriend and her son with what appeared to be a firearm but was actually a sex toy.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bay-city-man-gets-probation-for-brandishing-sex-toy-as-a-gun.html",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:23:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Thune on Trump’s Canada tariffs: &#039;I’m not a huge fan of tariffs&#039;",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) told reporters Tuesday that he wants to know more about President Trump’s rationale for slapping additional 50-percent tariffs on Canada, adding that he’s “n",
+      "link": "https://thehill.com/homenews/senate/5980591-thune-trump-canada-tariffs/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:04:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "What exactly is &#039;explosive diarrhea&#039;?",
+      "desc": "In the case of the ongoing cyclospora outbreak, the “hallmark” symptom appears to be the more explosive type of diarrhea.",
+      "link": "https://thehill.com/policy/healthcare/5980293-what-exactly-is-explosive-diarrhea/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:00:19 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "If only Bernie Sanders had won the nomination in 2016",
+      "desc": "Author Bill Press argues that the Democratic Party's efforts to suppress Bernie Sanders during the 2016 primary prevented a strong candidate from defeating Donald Trump, a mistake he believes current ",
+      "link": "https://thehill.com/opinion/campaign/5979607-sanders-vs-trump-populism/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "desc": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+      "desc": "A flip phone with 5G, USB-C, a headphone jack, and a removable battery? Say it ain’t so.",
+      "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 15:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Senate Democrat proposes universal health care for children",
@@ -34,17 +160,8 @@
       "link": "https://thehill.com/homenews/5980026-sen-andy-kim-medikids-proposal/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 14:39:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats battle over first primary; Maine picks a candidate; Ossoff takes off: Live discussion",
-      "desc": "Democrats are meeting this week in Washington to debate where their 2028 presidential primary should begin. Iowa? New Hampshire? South Carolina? Nevada? Meanwhile, Sen. Jon Ossoff (D-Ga.) is raising h",
-      "link": "https://thehill.com/homenews/campaign/fight-for-2028/5980283-democrats-primary-battle-maine-senate-race-jon-ossoff-donald-trump-live-discussion/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 14:24:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Fox News anchor reveals 1 reason why Trump needs to end Iran war",
@@ -53,24 +170,6 @@
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 14:14:52 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: House Democrats push back on Trump agenda as midterms inch closer",
-      "desc": "House Democratic leaders will speak with reporters Tuesday morning as lawmakers continue to sharpen their political message heading into the 2026 midterm elections. Minority Leader Hakeem Jeffries (D-",
-      "link": "https://thehill.com/video-clips/5980222-watch-live-house-democrats-press-conference-midterms/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 14:01:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Don&#039;t listen to Democrats whining about election interference",
-      "desc": "The Election Assistance Commission does not conduct elections, count ballots, certify winners, or supervise state or local election officials.",
-      "link": "https://thehill.com/opinion/campaign/5978726-us-election-decentralization-explained/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 14:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -83,26 +182,8 @@
       "tag": "safety"
     },
     {
-      "title": "Watch live: RFK Jr., Oz outline federal efforts to combat healthcare fraud",
-      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. and Centers for Medicare and Medicaid Services Administrator Dr. Mehmet Oz will deliver remarks Tuesday morning on the Trump administrat",
-      "link": "https://thehill.com/video-clips/5980064-watch-live-robert-f-kennedy-jr-mehmet-oz-anti-fraud-efforts-medicaid-healthcare/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 13:41:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fox News pundits urge Trump to get out of Iran war",
-      "desc": "A number of Fox News pundits are urging President Trump to de-escalate fighting with Iran, warning the conflict could be a liability for Republican candidates in upcoming elections. \"With the midterm ",
-      "link": "https://thehill.com/homenews/administration/5979968-fox-news-urges-trump-deescalate-iran/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 13:28:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "O&#039;Reilly: Trump has &#039;shrinking options&#039; in Iran war",
-      "desc": "Conservative political commentator Bill O’Reilly warned on Monday that President Trump has limited paths forward in the U.S. military operations against Tehran, as the months-long conflict stretches i",
+      "desc": "Bill O’Reilly warned on Monday that President Trump has limited paths forward in the U.S. military operations against Tehran, as the months-long conflict stretches into another week.  “Do I know what’",
       "link": "https://thehill.com/policy/defense/5979939-bill-oreilly-donald-trump-iran-war-options/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 13:19:12 +0000",
@@ -326,15 +407,6 @@
       "tag": "safety"
     },
     {
-      "title": "Even Mild Sleep Deprivation May Lead to Weight Gain",
-      "desc": "A recent study suggests that not getting enough sleep increases the risk of weight gain, and thus of conditions like heart disease and type 2 diabetes.",
-      "link": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 19:06:08 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Bay City man gets jail time for ‘extremely violent’ assault on pregnant girlfriend",
       "desc": "The Bay City man's pregnant girlfriend was hospitalized with severe injuries, including a brain bleed, after the December 2025 attack.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bay-city-man-gets-jail-time-for-extremely-violent-assault-on-pregnant-girlfriend.html",
@@ -515,15 +587,6 @@
       "tag": "safety"
     },
     {
-      "title": "Bay City man competent to stand trial on federal bank robbery charge",
-      "desc": "Brenden Mulligan allegedly stole $6,631 from an Independent Bank location on North Euclid Avenue. FBI agents found evidence in a motel dumpster the day after the robbery, leading to his arrest.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bay-city-man-competent-to-stand-trial-on-federal-bank-robbery-charge.html",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 13:47:34 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Pentagon identifies 2 US service members killed in Iran attack on Jordan base",
       "desc": "The Pentagon on Monday identified the two American soldiers killed in an Iranian attack in Jordan over the weekend as 1st Lt. Tyler Feehan and Pvt. Isabella Gonzales. Gonzales was killed in action on ",
       "link": "https://thehill.com/policy/defense/5977739-iranian-attack-kills-two-us-soldiers/",
@@ -605,15 +668,6 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Iran war rages after another US soldier killed in Iraq; Trump attends World Cup Final",
-      "desc": "The reignited Iran war is raging after the U.S. military launched retaliatory attacks Saturday in response to Iranian strikes that killed two service members and left one missing in Jordan. U.S. Centr",
-      "link": "https://thehill.com/homenews/administration/5976607-live-updates-iran-war-strikes-trump-world-cup-final/",
-      "date": "Jul 19, 2026",
-      "rawDate": "Sun, 19 Jul 2026 19:56:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Divide grows between AI employees and executives over policy battles",
       "desc": "Tech employees in Silicon Valley are increasingly finding themselves at odds with industry executives who are spending millions to push for light-touch AI regulation. The latest disagreement is playin",
       "link": "https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/",
@@ -655,15 +709,6 @@
       "link": "https://thehill.com/business/5975926-explosive-diarrhea-parasite-cyclospora-outbreak-grocery-prices/",
       "date": "Jul 18, 2026",
       "rawDate": "Sat, 18 Jul 2026 14:41:48 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "GLP-1 insurance change impacts millions of Americans: What to know, how to tell if you&#039;re covered",
-      "desc": "Insurance coverage just changed for as many as 56 million Americans when it comes to the popular GLP-1 medications used to promote weight loss.",
-      "link": "https://thehill.com/policy/healthcare/5972729-glp-1-insurance-change-impacts-millions-of-americans-what-to-know-how-to-tell-if-youre-covered/",
-      "date": "Jul 18, 2026",
-      "rawDate": "Sat, 18 Jul 2026 12:50:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -826,24 +871,6 @@
       "link": "https://thehill.com/homenews/administration/5972297-trump-teleprompter-operator-suspended-kalshi/",
       "date": "Jul 16, 2026",
       "rawDate": "Thu, 16 Jul 2026 18:02:36 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Kalshi says it&#039;s working with feds over nearly $100K in Trump teleprompter speech bets",
-      "desc": "The prediction market platform Kalshi said Thursday that it flagged suspicious trades on President Trump's speeches to federal regulators that are reportedly connected to the president's longtime tele",
-      "link": "https://thehill.com/policy/technology/5972157-trump-teleprompter-insider-trading/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 17:27:52 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "OpenAI employees pour nearly $250K into AI safety PAC, pushing back on firm&#039;s president",
-      "desc": "A group of current and former OpenAI employees poured more than $245,000 into a super PAC focused on countering Leading the Future (LTF), a committee funded in part by the AI firm's co-founder and Pre",
-      "link": "https://thehill.com/policy/technology/5971905-openai-eployees-245k-ai-safety-pac/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 17:26:53 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

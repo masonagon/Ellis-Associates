@@ -1,6 +1,114 @@
 {
-  "generated": "2026-07-21T21:57:36.141Z",
+  "generated": "2026-07-21T22:54:28.420Z",
   "news": [
+    {
+      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "desc": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:50:01 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Voto Latino, other advocacy groups call for Congress to impeach Mullin",
+      "desc": "Voto Latino and dozens of other advocacy organizations pressed for Homeland Security Secretary Markwayne Mullin to be impeached in a letter to Congress last week. \"We write to demand the immediate int",
+      "link": "https://thehill.com/policy/national-security/5982098-groups-demand-mullin-impeachment/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:44:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Chinese model Kimi K3 adds pressure on Trump administration&#039;s AI policy",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Chinese model Kimi K3 adds pressure on Trump administration's AI policy The release of the Chinese AI model Kimi K3 is forcing Washington and Sili",
+      "link": "https://thehill.com/newsletters/technology/5982037-chinese-model-kimi-k3-adds-pressure-on-trump-administrations-ai-policy/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:41:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Top US prosecutor in Seattle sues Trump, Blanche over quick &#039;unlawful&#039; firing",
+      "desc": "A federal prosecutor in Seattle who was sacked by President Trump last week after barely an hour on the job is challenging his removal in court, setting the stage for an unprecedented legal battle tha",
+      "link": "https://thehill.com/regulation/court-battles/5982088-roger-rogoff-sues-trump-firing-western-district-washington/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:40:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Manager pleads to manslaughter after 5-year-old killed in Troy hyperbaric chamber explosion",
+      "desc": "A safety director pleaded no contest to involuntary manslaughter after a fatal hyperbaric chamber explosion killed a child at a Troy clinic.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/manager-pleads-to-manslaughter-after-5-year-old-killed-in-troy-hyperbaric-chamber-explosion.html",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:22:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "5 takeaways from Hegseth, Caine hearing on emergency Iran funding",
+      "desc": "America’s top uniformed and civilian military leaders made their case in the Senate on Tuesday for an emergency funding package of nearly $80 billion to help replenish stockpiles spent during the Iran",
+      "link": "https://thehill.com/policy/defense/5982033-emergency-funding-military-leaders-iran-war-senate-hearing/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:20:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Wisconsin&#039;s warning rankles Kalshi",
+      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Wisconsin residents could lose vote with prediction market bets",
+      "link": "https://thehill.com/newsletters/business-economy/5982048-wisconsins-warning-rankles-kalshi/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:17:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Whitmer signs new housing tax credit, bans large investors from buying single-family homes",
+      "desc": "Gov. Gretchen Whitmer signed bills to restrict large companies from buying more than 100 single-family homes and establish a state-level housing tax credit.",
+      "link": "https://www.mlive.com/politics/2026/07/whitmer-signs-new-housing-tax-credit-bans-large-investors-from-buying-single-family-homes.html",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:12:58 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Haley Stevens says ‘I don’t take it too personally’ after viral clip draws online mockery",
+      "desc": "Congresswoman Haley Stevens got a lot of attention from a viral video clip of her speaking to supporters in Ecorse. It wasn’t necessarily good attention.",
+      "link": "https://www.mlive.com/politics/2026/07/haley-stevens-says-i-dont-take-it-too-personally-after-viral-clip-draws-online-mockery.html",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:06:53 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Wisconsin residents could lose voting rights over prediction market bets",
+      "desc": "Wisconsin’s Election Commission (WEC) warned in a statement on Tuesday that betting on elections that you cast ballots in is illegal in the state and there will be consequences. “We want voters to und",
+      "link": "https://thehill.com/business/5982003-wisconsin-election-betting-illegal/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 22:02:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP blames Canada for fires, experts point to climate",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  GOP blames Canada for fires, experts point to climate President Trump and other Republicans are blaming Canada for w",
+      "link": "https://thehill.com/newsletters/energy-environment/5981978-gop-blames-canada-for-fires-experts-point-to-climate/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 21:59:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump wants US airlines to add direct flights to Lebanon",
+      "desc": "President Trump on Tuesday reauthorized US airlines to sell tickets for direct flights to Lebanon, following his White House meeting with Lebanese President Joseph Aoun.  The move marks a departure fr",
+      "link": "https://thehill.com/homenews/administration/5981950-trump-direct-lebanon-flights/",
+      "date": "Jul 21, 2026",
+      "rawDate": "Tue, 21 Jul 2026 21:58:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Six candidates face off in primary battle for Michigan’s largest congressional district",
       "desc": "On Aug 4., two Republicans will face incumbent Rep. Jack Bergman and three candidates will vie for the Democrat position on the ballot.",
@@ -83,24 +191,6 @@
       "tag": "government"
     },
     {
-      "title": "Live updates: Hegseth, Caine testify in Senate; House passes key procedural vote to move agenda forward",
-      "desc": "President Trump met with Lebanese President Joseph Aoun on Tuesday, the first time a Lebanese head of state has made a White House visit since 2009. Trump lauded the Lebanese nation and its people as ",
-      "link": "https://thehill.com/homenews/administration/5979578-live-updates-trump-iran-hegseth-caine/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 20:47:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump blames Canada for wildfires, but scientists point to climate change",
-      "desc": "President Trump and other Republicans are blaming Canada for wildfires whose smoke has choked parts of the U.S. in recent days. Experts from both countries told The Hill that climate change is the rea",
-      "link": "https://thehill.com/policy/energy-environment/5981743-trump-canada-wildfires-tariffs/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 20:40:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan expands college aid, tuition-free programs in new education budget",
       "desc": "The new education state budget, OK'd by Gov. Gretchen Whitmer Tuesday, boosts scholarship funding and increases operational support by roughly 1% for universities and community colleges.",
       "link": "https://www.mlive.com/education/2026/07/michigan-expands-college-aid-tuition-free-programs-in-new-education-budget.html",
@@ -115,8 +205,8 @@
       "link": "https://thehill.com/policy/healthcare/5980887-rfk-jr-hhs-peptide-meeting/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 20:05:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Recall language for Gaines Township treasurer rejected by Election Commission",
@@ -125,33 +215,6 @@
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 20:05:39 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Lieu asks White House to send Trump &#039;to every swing district in America&#039;",
-      "desc": "Rep. Ted Lieu (D-Calif.) on Tuesday sarcastically asked the White House to send President Trump to “every swing district” to campaign for House Republicans.  “I urge the White House to send Donald Tru",
-      "link": "https://thehill.com/homenews/house/5981495-lieu-sarcastically-urges-trump-swing-districts/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 20:04:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "White House Correspondents Association to honor Secret Service agent who stopped gunman",
-      "desc": "The White House Correspondents’ Association (WHCA) announced on Tuesday it will honor a secret service agent it said was pivotal in stopping a gunman who tried to assassinate President Trump during th",
-      "link": "https://thehill.com/homenews/media/5981579-whca-honors-secret-service-officer/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 20:00:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "David Hogg: Democratic campaign arm picking &#039;terrible candidates&#039;",
-      "desc": "Former DNC Vice Chair David Hogg recently slammed the House Democrats' campaign arm for picking “terrible candidates” months ahead of midterm elections in November.  “Imagine if there was a non-evil v",
-      "link": "https://thehill.com/homenews/campaign/5981560-david-hogg-democratic-campaign-arm-picking-terrible-candidates/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 20:00:08 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -335,8 +398,8 @@
       "tag": "safety"
     },
     {
-      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims��� Blind Spots",
-      "desc": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "desc": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a ��death switch” to destroy files and keep out real users.",
       "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 16:08:44 +0000",
@@ -497,15 +560,6 @@
       "tag": "associations"
     },
     {
-      "title": "The Army Is Burning Through Its AI Tokens",
-      "desc": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
-      "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "2 suspects charged in Lapeer County drive-by shootings",
       "desc": "Two people face charges after shots were fired from vehicles at two homes in Lapeer County.",
       "link": "https://www.mlive.com/news/flint/2026/07/2-suspects-charged-in-lapeer-county-drive-by-shootings.html",
@@ -596,15 +650,6 @@
       "tag": "safety"
     },
     {
-      "title": "Dance studio damaged in shooting at Genesee Valley Center raising funds for repairs",
-      "desc": "An 18-year-old was hospitalized after a shooting around 4 p.m. Saturday, July 18, at Genesee Valley Center in Flint Township.",
-      "link": "https://www.mlive.com/news/flint/2026/07/dance-studio-damaged-in-shooting-at-genesee-valley-center-raising-funds-for-repairs.html",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 20:50:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Brighton City Hall early voting center opens July 25",
       "desc": "Nine days of early voting will be available at Brighton City Hall ahead of the Aug. 4 primary election, with polls open 9 a.m. to 5 p.m. daily through Aug. 2.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/brighton-city-hall-early-voting-center-opens-july-25.html",
@@ -639,15 +684,6 @@
       "rawDate": "Mon, 20 Jul 2026 18:27:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Back-to-school spending ‘forecast to reach record highs.’ How big-box stores responded",
-      "desc": "The majority of consumers are concerned about the economy and are looking for bargains for back-to-school.",
-      "link": "https://www.mlive.com/business/2026/07/back-to-school-spending-forecast-to-reach-record-highs-how-big-box-stores-responded.html",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 18:14:17 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Trump to attend dignified transfer of US soldiers killed in Iran strikes",
@@ -720,15 +756,6 @@
       "rawDate": "Mon, 20 Jul 2026 12:55:16 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump: New Air Force One to be &#039;maxed out&#039; with upgrades amid questions about security features",
-      "desc": "President Trump said late Sunday the Qatari-gifted jet serving as Air Force One will undergo upgrades, weeks after the Secret Service reportedly advised him not to use it for a trip back to the U.S. f",
-      "link": "https://thehill.com/homenews/administration/5977697-donald-trump-air-force-one-upgrades/",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 12:28:32 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Does the &#039;pink salt trick&#039; help you lose weight?",
@@ -871,15 +898,6 @@
       "link": "https://thehill.com/policy/healthcare/5972792-senate-blocks-medicare-ai-pilot/",
       "date": "Jul 16, 2026",
       "rawDate": "Thu, 16 Jul 2026 20:51:17 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Anthropic CEO gave $1M to AI safety super PAC",
-      "desc": "Anthropic CEO Dario Amodei gave $1 million to Public First, a super PAC backing candidates who support stronger guardrails on AI, according to a campaign finance filing Wednesday. He was joined by sev",
-      "link": "https://thehill.com/policy/technology/5972753-anthropic-ceo-gave-1m-to-ai-safety-super-pac/",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 20:47:49 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

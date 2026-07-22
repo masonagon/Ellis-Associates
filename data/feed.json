@@ -1,14 +1,122 @@
 {
-  "generated": "2026-07-22T18:03:54.180Z",
+  "generated": "2026-07-22T20:12:58.308Z",
   "news": [
     {
-      "title": "Live updates: Trump heads to Georgia after dignified transfer in Dover; House sets up reconciliation 3.0 vote",
-      "desc": "President Trump started Wednesday at Dover Air Force Base in Delaware to attend the dignified transfer of service members killed over the weekend in Jordan and Iraq. Defense Secretary Pete Hegseth, Ar",
+      "title": "Live updates: Trump makes remarks in Georgia; House sets up reconciliation 3.0 vote",
+      "desc": "President Trump is in Marietta, Ga., on Wednesday afternoon for remarks on the economy, on the newly launched Trump Accounts and more. The visit occurs as he's increasingly at odds with Sen. Jon Ossof",
       "link": "https://thehill.com/homenews/5981942-live-updates-trump-iran-dover-house-reconciliation/",
       "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 17:48:19 +0000",
+      "rawDate": "Wed, 22 Jul 2026 20:10:27 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Democrat-backed candidate flips Chandler mayor’s office in Arizona",
+      "desc": "The City of Chandler in Arizona voted in their first mayoral election in eight years to elect independent candidate Matt Orlando in the race, flipping the seat. The nonpartisan race was between Counci",
+      "link": "https://thehill.com/homenews/5984013-chandler-arizona-mayoral-election/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 19:44:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Top Democrat erupts at Waltz over troop deaths in Iran: &#039;You should resign&#039;",
+      "desc": "Rep. Ted Lieu (D-Calif.) on Wednesday erupted at United Nations Ambassador Mike Waltz over the deaths of U.S. service members in Iran, urging that he \"should resign.\" Waltz was testifying before the H",
+      "link": "https://thehill.com/homenews/house/5983900-lieu-waltz-conflict-iran-deaths/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 19:41:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Sharpton: Democrats should keep South Carolina as first 2028 primary",
+      "desc": "Civil rights leader Rev. Al Sharpton on Wednesday pushed for South Carolina to remain the first Democratic primary in the 2028 presidential election. In a Wednesday press release from the South Caroli",
+      "link": "https://thehill.com/homenews/campaign/5983979-sharpton-democrats-should-keep-south-carolina-as-first-2028-primary/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 19:33:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cyclospora cases in US hit all time high",
+      "desc": "The Centers for Disease Control and Prevention (CDC) said it confirmed more than 2,500 additional cases of cyclosporiasis infections across dozens of states, making it the largest outbreak on record. ",
+      "link": "https://thehill.com/policy/healthcare/5983963-cdc-confirms-record-cyclosporiasis-outbreak/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 19:26:03 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Case dropped against Ann Arbor figure skating instructor accused of sexual misconduct",
+      "desc": "His case was dropped by prosecutors the day his trial was set to start in late June.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/case-dropped-against-ann-arbor-figure-skating-instructor-accused-of-sexual-misconduct.html",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 19:25:51 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "2 people sentenced to prison for threatening Mace&#039;s life",
+      "desc": "Two individuals received jail time on Tuesday for threatening Rep. Nancy Mace (R-S.C.). A federal judge in Indiana sentenced 28-year-old Shayla Addison to 27 months in federal prison, followed by thre",
+      "link": "https://thehill.com/homenews/house/5983792-two-sentenced-threats-nancy-mace/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 19:20:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "desc": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 19:01:38 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "US measles cases reach 35-year high",
+      "desc": "The number of measles cases in the U.S. this year has surpassed last year's annual total, hitting the highest number of cases recorded in more than three decades, according to Johns Hopkins University",
+      "link": "https://thehill.com/policy/healthcare/5983731-us-measles-cases-hit-record/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 18:46:14 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "3 file for November’s Bay City school board election",
+      "desc": "A retired teacher, a community member and a former board member will compete for two six-year terms on the Bay City Public Schools board.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/3-file-for-novembers-bay-city-school-board-election.html",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 18:44:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Houthi threats in Red Sea risk new front in U.S.-Iran war",
+      "desc": "The Iran-aligned Houthis in Yemen are signaling a major escalation in the war between the Islamic Republic and the U.S., threatening a blockade on a key Red Sea shipping route that facilitates about 7",
+      "link": "https://thehill.com/policy/defense/5983848-houthis-threaten-red-sea-blockade/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 18:27:39 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "GOP senator blocks Schumer request to stop Trump from using taxpayer money to ‘max out’ new Air Force One",
+      "desc": "Republican Sen. Deb Fischer (Neb.) on Wednesday objected to a request from Senate Democratic Leader Chuck Schumer (N.Y.) for unanimous consent to prohibit President Trump from using taxpayer money to ",
+      "link": "https://thehill.com/homenews/senate/5983843-schumer-fischer-airforce-one-qatar/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 18:27:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Trump in Georgia gives remarks on affordability",
+      "desc": "President Trump is set to deliver remarks in Georgia on Wednesday afternoon highlighting his administration&#8217;s economic agenda, as concerns around affordability rise ahead of the midterms. During",
+      "link": "https://thehill.com/video-clips/5983685-watch-live-trump-in-georgia-give-remarks-on-affordability/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 18:03:49 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Failed California governor candidate ditches politics for book influencing",
@@ -25,8 +133,8 @@
       "link": "https://thehill.com/homenews/administration/5983615-donald-trump-dignified-transfer-iraq-jordan-iran-war/",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 16:49:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Michigan faces up to $900M budget shortfall, report urging action warns",
@@ -45,15 +153,6 @@
       "rawDate": "Wed, 22 Jul 2026 16:41:38 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "How Trump’s expanded firing power is reshaping federal agencies: Live discussion",
-      "desc": "The Supreme Court has expanded President Trump's firing power. It's already reshaping federal agencies that regulate vast swaths of American life — from addressing workplace discrimination to credit u",
-      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5983500-supreme-court-donald-trump-expanded-firing-power-live-discussion/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 16:22:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Over 11,000 cases of cyclosporiasis suspected in US: The states seeing spikes",
@@ -90,24 +189,6 @@
       "rawDate": "Wed, 22 Jul 2026 16:07:30 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Bipartisan duo introduce bill defining regulatory framework for hemp products",
-      "desc": "Reps. Angie Craig (D-Minn.) and Andy Barr (R-Ky.) on Wednesday introduced a bill designed to set up a clear regulatory framework for hemp and hemp-derived THC products. The Lawful Hemp Protection Act ",
-      "link": "https://thehill.com/homenews/house/5981591-craig-barr-hemp-bill/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 16:04:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Congress must get the Older Americans Act reauthorization across the finish line",
-      "desc": "Following the Senate's unanimous passage of the bipartisan Older Americans Act reauthorization on July 14, advocates are calling on the House of Representatives to approve the bill to ensure continued",
-      "link": "https://thehill.com/opinion/congress-blog/5981167-house-must-pass-oaa/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Motorcyclist seriously injured in Grand Haven Township crash",
@@ -479,29 +560,11 @@
       "tag": "health"
     },
     {
-      "title": "Recall language for Gaines Township treasurer rejected by Election Commission",
-      "desc": "The Genesee County Election Commission has rejected proposed petition language to recall Gaines Township Treasurer Robert Henderson for the third time this year.",
-      "link": "https://www.mlive.com/news/flint/2026/07/recall-language-for-gaines-township-treasurer-rejected-by-election-commission.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 20:05:39 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Collins slams Hegseth’s removal of senior military officers",
       "desc": "Sen. Susan Collins (R-Maine), the chair of the Senate Appropriations Committee, slammed Defense Secretary Pete Hegseth on Tuesday for the removal of more than two dozen senior military officers since ",
       "link": "https://thehill.com/policy/defense/5981496-collins-slams-hegseth-military-firings/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 19:15:07 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Senate Democrats press Hegseth on testosterone plan details",
-      "desc": "Senate Democrats are demanding answers from Defense Secretary Pete Hegseth on the Pentagon’s new testosterone screening policy for troops, seeking specifics on how the directive would be implemented a",
-      "link": "https://thehill.com/homenews/senate/5981461-democrats-demand-pentagon-testosterone-policy/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 19:11:39 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },
@@ -542,15 +605,6 @@
       "tag": "safety"
     },
     {
-      "title": "Flint Township residents could vote to change name to Oak Hills in November",
-      "desc": "Voters will decide in November whether they want to take the Flint out of Flint Township.",
-      "link": "https://www.mlive.com/news/flint/2026/07/flint-township-residents-could-vote-to-change-name-to-oak-hills-in-november.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 18:45:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Novo Nordisk sues rival Eli Lilly over weight loss drug advertising",
       "desc": "Drugmaker Novo Nordisk sued rival Eli Lilly on Tuesday, accusing the company of false advertising over the performance of its weight loss drugs.  The lawsuit, filed in federal district court in New Je",
       "link": "https://thehill.com/policy/healthcare/5981384-novo-nordisk-sues-eli-lilly-advertising/",
@@ -587,15 +641,6 @@
       "tag": "education"
     },
     {
-      "title": "Trial begins for Saginaw man accused of fatally shooting man 11 times on Father’s Day 2024",
-      "desc": "Shavar Craft Jr. is charged with open murder and five other offenses in connection with the June 16, 2024, fatal shooting of a father of seven in front of West Side Party Store in Old Town Saginaw.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/trial-begins-for-saginaw-man-accused-of-fatally-shooting-man-11-times-on-fathers-day-2024.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 18:01:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "From sickle cell to Capitol Hill, Michigan boy uses his story to help others",
       "desc": "Having a part of his spleen removed and a rare chronic disease hasn’t stopped 12-year-old E’Shon Guy from living a normal life.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/from-sickle-cell-to-capitol-hill-michigan-boy-uses-his-story-to-help-others.html",
@@ -612,15 +657,6 @@
       "rawDate": "Tue, 21 Jul 2026 17:00:12 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
-      "desc": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
-      "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 16:08:44 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Bessent warns China could face sanctions over AI IP theft",
@@ -648,15 +684,6 @@
       "rawDate": "Tue, 21 Jul 2026 15:00:19 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-      "desc": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
-      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 15:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Senate Democrat proposes universal health care for children",
@@ -731,15 +758,6 @@
       "tag": "health"
     },
     {
-      "title": "Third person dies amid NYC Legionnaires&#039; outbreak, officials say",
-      "desc": "The Health Department had just announced a second death in connection with the disease on Saturday.",
-      "link": "https://thehill.com/policy/healthcare/5978325-nyc-legionnaires-death-toll-rises/",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 16:10:43 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Grant, Reeths-Puffer school districts ask voters to renew operating millages on Aug. 4",
       "desc": "The districts in Muskegon County emphasize the tax to fund operations is on non-homestead properties like second homes and commercial properties, not primary homes.",
       "link": "https://www.mlive.com/news/muskegon/2026/07/grant-reeths-puffer-school-districts-ask-voters-to-renew-operating-millages-on-aug-4.html",
@@ -758,29 +776,11 @@
       "tag": "education"
     },
     {
-      "title": "FDA: Taylor Farms lettuce cyclospora finding was false positive",
-      "desc": "The U.S. Food and Drug Administration (FDA) on Sunday said that a follow-up review of a lettuce sample collected from Taylor Farms determined it was a false positive for cyclospora, the diarrhea-causi",
-      "link": "https://thehill.com/policy/healthcare/5977729-cdc-cyclospariosis-outbreak-update/",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 12:55:16 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Divide grows between AI employees and executives over policy battles",
       "desc": "Tech employees in Silicon Valley are increasingly finding themselves at odds with industry executives who are spending millions to push for light-touch AI regulation. The latest disagreement is playin",
       "link": "https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/",
       "date": "Jul 19, 2026",
       "rawDate": "Sun, 19 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "TSA&#039;s new CT scanners may pose a problem for some carry-on bags: What to know",
-      "desc": "The TSA’s upgrade to 3D computed tomography (CT) scanners could create an annoying issue — and perhaps a pricey one — for certain travelers.",
-      "link": "https://thehill.com/policy/technology/5969843-tsas-new-ct-scanners-may-pose-a-problem-for-some-carry-on-bags-what-to-know/",
-      "date": "Jul 18, 2026",
-      "rawDate": "Sat, 18 Jul 2026 15:00:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
@@ -792,15 +792,6 @@
       "rawDate": "Sat, 18 Jul 2026 12:30:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump amplifies China interference claim: &#039;Unprecedented election security nightmare&#039;",
-      "desc": "President Trump on Friday doubled down on his accusations of widespread voter fraud and interference by China in the 2020 presidential election in a series of social media posts. Trump delivered a hig",
-      "link": "https://thehill.com/homenews/administration/5975954-donald-trump-china-interference-election-claims/",
-      "date": "Jul 18, 2026",
-      "rawDate": "Sat, 18 Jul 2026 12:05:09 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Fundraising arm supporting Saline Area Schools hits 40 years under new leadership",
@@ -835,15 +826,6 @@
       "link": "https://www.mlive.com/news/jackson/2026/07/vandercook-lake-lands-monumental-198m-grant-for-school-upgrades-after-bond-defeats.html",
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 16:19:45 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Muskegon approves sale of more than 155-year-old mansion for $165K",
-      "desc": "The Muskegon City Commission approved the sale of the historic Nelson House this week in a 6-1 vote. The bid was the second highest of the four received.",
-      "link": "https://www.mlive.com/news/muskegon/2026/07/muskegon-approves-sale-of-more-than-155-year-old-mansion-for-165k.html",
-      "date": "Jul 16, 2026",
-      "rawDate": "Thu, 16 Jul 2026 19:48:44 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

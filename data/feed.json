@@ -1,6 +1,51 @@
 {
-  "generated": "2026-07-22T21:58:56.519Z",
+  "generated": "2026-07-22T23:05:44.732Z",
   "news": [
+    {
+      "title": "Massachusetts voters to decide marijuana repeal question after challenge rejected",
+      "desc": "Massachusetts voters will decide in November if legal marijuana will be repealed after a challenge to the proposal was rejected Tuesday. The State Ballot Law Commission overruled an objection to the p",
+      "link": "https://thehill.com/homenews/state-watch/5984422-ma-marijuana-repeal-ballot/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 22:35:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lindell, Tafoya widening leads in Minnesota GOP primaries: Poll",
+      "desc": "A new poll shows both businessman Mike Lindell and political and cultural commentator Michele Tafoya gaining momentum in the Minnesota Republican gubernatorial and Senate primaries, respectively. The ",
+      "link": "https://thehill.com/homenews/campaign/5984540-lindell-tafoya-gains-gop-lead/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 22:29:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Davison man arrested after Richfield Township crash injures 2",
+      "desc": "A 27-year-old Davison man was arrested after a crash in Richfield Township injured a teen driver and hospitalized another passenger.",
+      "link": "https://www.mlive.com/news/flint/2026/07/davison-man-arrested-after-richfield-township-crash-injures-2.html",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 22:26:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "6 Democrats cross aisle, join GOP to back annual defense policy bill",
+      "desc": "Six Democratic House lawmakers crossed the aisle on Wednesday to join a majority of Republicans in passing a nearly $1.15 trillion annual defense policy bill.  The Democrats who backed the 2027 Nation",
+      "link": "https://thehill.com/homenews/house/5984555-democrats-join-gop-vote-ndaa/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 22:17:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jackson man faces life in prison on child pornography charges",
+      "desc": "Travis Thomas, 56, was arrested after a cyber tip led investigators to his home.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/jackson-man-faces-life-in-prison-on-child-pornography-charges.html",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 22:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Minor drops lawsuit against Meta alleging social media harm of trial",
       "desc": "A minor who sued multiple social media companies over claims that he suffered mental health problems due to his use of their platforms has dropped his lawsuit against Meta, just days before the case w",
@@ -9,6 +54,15 @@
       "rawDate": "Wed, 22 Jul 2026 21:54:11 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "US, Saudis sign nuclear partnership",
+      "desc": "The Trump administration on Wednesday announced what it described as a peaceful nuclear cooperation agreement with Saudi Arabia, hailing it as an economic triumph. But critics and nuclear experts have",
+      "link": "https://thehill.com/homenews/administration/5984502-us-saudi-arabia-nuclear-agreement/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 21:48:14 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Lapeer County police department seizes more than 200 marijuana plants",
@@ -66,7 +120,7 @@
     },
     {
       "title": "Trump rails against Ossoff and &#039;Democrat communists&#039; in Georgia speech",
-      "desc": "President Trump on Wednesday took aim at Georgia Sen. Jon Ossoff (D) and what he called \"communist\" Democrats during his speech in the Peach State, calling him “terrible” and likening him to the comed",
+      "desc": "President Trump on Wednesday took aim at Georgia Sen. Jon Ossoff (D) and what he called \"communist\" Democrats during his speech in the Peach State, calling Ossoff “terrible” and likening him to the co",
       "link": "https://thehill.com/homenews/administration/5984270-trump-attacks-ossoff-georgia-speech/",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 21:09:01 +0000",
@@ -88,17 +142,8 @@
       "link": "https://thehill.com/homenews/campaign/5984255-trump-voters-iran-war-poll/",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 21:04:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House passes reconciliation framework for Pentagon boost, voting restrictions",
-      "desc": "House Republicans on Wednesday approved a $95 billion framework for a third budget reconciliation package that would boost funding for the Pentagon, provide agriculture aid and provide money to encour",
-      "link": "https://thehill.com/homenews/house/5984069-house-approves-budget-reconciliation/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 21:00:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
@@ -110,22 +155,13 @@
       "tag": "technology"
     },
     {
-      "title": "House passes GOP stock trading ban bill",
-      "desc": "The House on Wednesday passed a GOP-backed congressional stock trading ban, overcoming months of delay after conservative hardliners repeatedly pressed House GOP leaders to bring the legislation to th",
-      "link": "https://thehill.com/homenews/house/5983948-house-passes-stock-trading-bill/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 20:53:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "House narrowly passes massive annual defense policy bill",
       "desc": "House lawmakers on Wednesday narrowly passed a nearly $1.15 trillion annual defense policy bill, advancing the measure amid increasing tension over military spending and the war in Iran. The tally was",
       "link": "https://thehill.com/homenews/house/5983971-house-passes-ndaa-defense-bill/",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 20:40:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Senate panel advances legislation capping private insurance insulin at $35",
@@ -524,15 +560,6 @@
       "tag": "safety"
     },
     {
-      "title": "Peters calls Hegseth a &#039;failure&#039; at hearing",
-      "desc": "Democratic Sen. Gary Peters (Mich.) on Tuesday said Defense Secretary Pete Hegseth was a “failure” and lacked the leadership necessary to win the Iran war.  “Secretary Hegseth despite your failure to ",
-      "link": "https://thehill.com/homenews/senate/5982164-peters-calls-hegseth-failure/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 23:25:27 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "The list is in: 12 Ann Arbor school board hopefuls running for 5 seats",
       "desc": "Nine candidates are seeking one of four spots to serve a four-year term on the Ann Arbor Public Schools Board of Education, while three others are running for one partial. The list is not final until ",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/this-list-is-in-10-ann-arbor-school-board-hopefuls-running-for-5-seats.html",
@@ -605,15 +632,6 @@
       "tag": "safety"
     },
     {
-      "title": "Patron killed after man, 87, crashes into Saginaw-area Thai, Chinese restaurant",
-      "desc": "Four people were hospitalized and one 65-year-old female patron was killed when a Lexus RX crashed into Peter & Chia's House - A Thai & Chinese Eatery.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/patron-killed-after-man-87-crashes-into-saginaw-area-thai-chinese-restaurant.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 21:13:06 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Michigan expands college aid, tuition-free programs in new education budget",
       "desc": "The new education state budget, OK'd by Gov. Gretchen Whitmer Tuesday, boosts scholarship funding and increases operational support by roughly 1% for universities and community colleges.",
       "link": "https://www.mlive.com/education/2026/07/michigan-expands-college-aid-tuition-free-programs-in-new-education-budget.html",
@@ -630,15 +648,6 @@
       "rawDate": "Tue, 21 Jul 2026 20:05:50 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Body of missing Livingston County man found",
-      "desc": "The body of 49-year-old Matthew J. Paupore was found last week about a half mile from his Genoa Township home.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/body-of-missing-livingston-county-man-found.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 19:08:45 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Novo Nordisk sues rival Eli Lilly over weight loss drug advertising",
@@ -756,15 +765,6 @@
       "rawDate": "Mon, 20 Jul 2026 18:32:09 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Head of Commerce Department&#039;s AI safety arm resigns",
-      "desc": "Dr. Chris Fall, the director of the Commerce Department's Center for AI Standards and Innovation (CAISI) is resigning after just three months in the role. The exit of Fall, who was appointed to head t",
-      "link": "https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/",
-      "date": "Jul 20, 2026",
-      "rawDate": "Mon, 20 Jul 2026 18:27:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Drinking 5 cups of coffee a day is safe and could reduce heart risk: Report",

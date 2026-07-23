@@ -1,9 +1,18 @@
 {
-  "generated": "2026-07-23T22:57:30.725Z",
+  "generated": "2026-07-23T23:58:36.300Z",
   "news": [
     {
+      "title": "FDA panel votes to add peptides to permitted compounding list despite opposition from agency scientists",
+      "desc": "The Food and Drug Administration's (FDA) committee on compounded drugs on Thursday broke with agency scientists and voted in favor of adding peptides to the list of substances compounding pharmacies c",
+      "link": "https://thehill.com/homenews/5987510-fda-committee-votes-peptides/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 23:38:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Fauci to face Rand Paul in Senate hearing next week",
-      "desc": "Dr. Anthony Fauci will testify next Wednesday in front of the Senate Homeland Security and Governmental Affairs Committee after being subpoenaed, chairman Rand Paul (R-Ky.) said Thursday.   Paul has b",
+      "desc": "Dr. Anthony Fauci will testify next Wednesday in front of the Senate Homeland Security and Governmental Affairs Committee after being subpoenaed, panel Chair Rand Paul (R-Ky.) said Thursday.   Paul ha",
       "link": "https://thehill.com/policy/healthcare/5987329-fauci-to-face-rand-paul-in-senate-hearing-next-week/",
       "date": "Jul 23, 2026",
       "rawDate": "Thu, 23 Jul 2026 22:20:55 +0000",
@@ -101,22 +110,13 @@
       "tag": "safety"
     },
     {
-      "title": "Man who pleaded guilty to killing Minnesota Democrat sentenced to life in prison",
-      "desc": "The man accused of killing former Minnesota state House Speaker Melissa Hortman (D) was sentenced Thursday to two consecutive life terms, plus 40 years in prison. Vance Boelter, 59, was sentenced to s",
-      "link": "https://thehill.com/homenews/5987044-melissa-horton-killer-vance-boelter-life-sentence/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 20:39:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Democrats urge appeals court not to overturn mifepristone regulations",
       "desc": "The entire congressional Democratic caucus filed an amicus brief urging a federal appeals court to retain the Food and Drug Administration’s current rules for prescribing abortion pills.  Forty-seven ",
       "link": "https://thehill.com/regulation/court-battles/5987003-democratic-causus-mifepristone-amicus-brief/",
       "date": "Jul 23, 2026",
       "rawDate": "Thu, 23 Jul 2026 20:19:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Americans see China as more advanced on AI than US: Pew survey",
@@ -489,7 +489,7 @@
     },
     {
       "title": "How USAID’s elimination hit US efforts on cyclospora",
-      "desc": "When the Trump administration and Elon Musk��s Department of Government Efficiency (DOGE) dismantled the U.S. Agency for International Development (USAID) last year, it set off a chain of events that ",
+      "desc": "When the Trump administration and Elon Musk’s Department of Government Efficiency (DOGE) dismantled the U.S. Agency for International Development (USAID) last year, it set off a chain of events that i",
       "link": "https://thehill.com/policy/healthcare/5984356-usaid-cuts-cyclospora-response/",
       "date": "Jul 23, 2026",
       "rawDate": "Thu, 23 Jul 2026 10:00:00 +0000",
@@ -754,15 +754,6 @@
       "link": "https://thehill.com/policy/healthcare/5980887-rfk-jr-hhs-peptide-meeting/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 20:05:50 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Novo Nordisk sues rival Eli Lilly over weight loss drug advertising",
-      "desc": "Drugmaker Novo Nordisk sued rival Eli Lilly on Tuesday, accusing the company of false advertising over the performance of its weight loss drugs.  The lawsuit, filed in federal district court in New Je",
-      "link": "https://thehill.com/policy/healthcare/5981384-novo-nordisk-sues-eli-lilly-advertising/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 18:40:35 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

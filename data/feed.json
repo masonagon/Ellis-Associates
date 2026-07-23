@@ -1,14 +1,176 @@
 {
-  "generated": "2026-07-23T13:28:08.572Z",
+  "generated": "2026-07-23T15:48:39.333Z",
   "news": [
     {
-      "title": "Arizona&#039;s primary results sharpen focus on midterm battlegrounds: Live discussion",
-      "desc": "Arizona’s primary results on Tuesday night are putting new attention on the state's governor’s race and a key House battleground. Meanwhile, a look at Senate race developments in Michigan and Maine. P",
-      "link": "https://thehill.com/homenews/campaign/data-nerds/5985252-arizona-primary-battleground-states-2026-midterms-live-discussion/",
+      "title": "200 pounds of marijuana, $346K in cash discovered in semitrailer stop",
+      "desc": "The driver was a 25-year-old from California.",
+      "link": "https://www.mlive.com/news/2026/07/200-pounds-of-marijuana-346k-in-cash-discovered-in-semitrailer-stop.html",
       "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 13:26:11 +0000",
+      "rawDate": "Thu, 23 Jul 2026 15:41:44 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "2 Saginaw women jailed, ordered to pay $5K for roles in 2 males’ captivity, torture",
+      "desc": "My'kia Dawkins and Graceeana Granger received one-year jail sentences for their roles in the 2023 kidnapping and torture of two victims, while their male codefendants face significantly longer prison ",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/2-saginaw-women-jailed-ordered-to-pay-5k-for-roles-in-2-males-captivity-torture.html",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:37:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "How far can Congress take its inherent contempt powers?",
+      "desc": "In this age of original intent, surely it means something that the people who wrote the document intended to deny Congress the authority to summarily punish third parties.",
+      "link": "https://thehill.com/opinion/congress-blog/5983782-legislative-privilege-constitutional-intent/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:30:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Live updates: Leavitt holds press briefing; House OKs war powers resolution",
+      "desc": "President Trump is threatening to intensify the war with Iran as some Republican lawmakers urge him to \"finish the job,\" but there is also widespread skepticism on Capitol Hill on both sides of the ai",
+      "link": "https://thehill.com/homenews/administration/5984908-live-updates-trump-iran-houthis-blanche-vote/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:27:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate panel vote on Trump nominees derailed after Warren raises background check concerns",
+      "desc": "Lawmakers on the Senate Banking Committee on Thursday took the unusual step of delaying a public hearing to consider three of President Trump’s nominees, after Sen. Elizabeth Warren (D-Mass.) said the",
+      "link": "https://thehill.com/homenews/senate/5986013-warren-questions-fbi-background-checks/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:23:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Thune: ‘I can’t count to 50’ GOP votes on reconciliation 3.0 framework",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) said Thursday the votes aren’t there in the Senate to advance a House-passed budget resolution that would pave the way for a $95 billion reconciliation bill ",
+      "link": "https://thehill.com/homenews/senate/5985916-thune-senate-budget-resolution-reconciliation/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:12:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Another cyclospora outbreak not linked to lettuce under investigation: FDA",
+      "desc": "At least 72 cases have been linked to this outbreak.",
+      "link": "https://thehill.com/policy/healthcare/5985697-another-cyclospora-outbreak-not-linked-to-lettuce-under-investigation-fda/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:08:49 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump ally makes shock prediction on 2 rising Democrats: ‘Dangerous’",
+      "desc": "Ted Cruz called Zohran Mamdani the “most powerful Democrat in the country.”",
+      "link": "https://www.mlive.com/politics/2026/07/trump-ally-makes-shock-prediction-on-2-rising-democrats-dangerous.html",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Overlooking Asian American voters could cost Democrats the midterms",
+      "desc": "With the 2026 midterms fast approaching, this continued oversight could prove catastrophic for Democrats.",
+      "link": "https://thehill.com/opinion/campaign/5983766-asian-american-voter-investment/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ocasio-Cortez leading potential 2028 Democratic presidential nominees in New Hampshire survey",
+      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) is leading a field of possible candidates for the 2028 Democratic presidential nomination in New Hampshire, according to a new poll. In the Granite State Poll fr",
+      "link": "https://thehill.com/homenews/campaign/5985767-ocasio-cortez-leads-nh-poll/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:54:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: House Democrats outline agenda as midterm elections loom",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) and Democratic leaders will speak with reporters Thursday morning to outline the party's accomplishments and goals as the midterms loom. Since this congr",
+      "link": "https://thehill.com/video-clips/5985727-watch-live-house-democrats-hakeem-jeffries-agenda-midterms/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:54:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Charter outage disrupts 911 service in Kalamazoo County",
+      "desc": "People experiencing an emergency who can't connect to 911 can call 269-488-8911.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/charter-outage-disrupts-911-service-in-kalamazoo-county.html",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:37:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Attorney general nomination receives intense scrutiny",
+      "desc": "The Senate Judiciary Committee recently held two days of hearings regarding the nomination of Todd Blanche as U.S. attorney general amid concerns over his potential loyalty to former President Donald ",
+      "link": "https://thehill.com/opinion/congress-blog/5983496-senate-judiciary-blanche-hearings/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "4 Republicans help House Democrats pass Iran war powers resolution",
+      "desc": "The House on Thursday passed a Democratic-backed war powers resolution aimed at limiting President Trump’s military action in Iran. The lower chamber voted 214-208 to pass the resolution, sponsored by",
+      "link": "https://thehill.com/homenews/house/5985147-iran-war-powers-resolution-house-vote/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:28:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Google hit with $1B fine in Europe",
+      "desc": "The European Union fined Google about $1 billion on Thursday for violating its digital competition law, finding the company improperly favored its own products in Google Search and limited developers ",
+      "link": "https://thehill.com/policy/technology/5985627-google-fined-eu-digital-competition/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:27:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Appeals court blocks Trump administration from revoking TPS for Haitians until at least Monday",
+      "desc": "A federal appeals court has temporarily stopped the Trump administration from ending deportation protections for hundreds of thousands of Haitian migrants living in the U.S., at least for another few ",
+      "link": "https://thehill.com/regulation/court-battles/5985571-dc-circuit-blocks-haitian-tps-revocation/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:19:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House approves &#039;Department of War&#039; renaming in annual defense bill",
+      "desc": "House lawmakers approved the renaming of the Defense Department to the “Department of War” in the body’s vote for the annual defense policy bill on Wednesday.   The fiscal 2027 National Defense Author",
+      "link": "https://thehill.com/homenews/house/5985402-house-ndaa-passage-department-of-war/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 14:10:20 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "University of Michigan closing in on next president, seeks hire by early fall",
+      "desc": "The next president will be expected to make several high-profile leadership hires, including a new athletic director.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/university-of-michigan-closing-in-on-next-president-seeks-hire-by-early-fall.html",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 13:56:17 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Nearly 1.6 million eggs recalled over salmonella concerns: Full list of products impacted",
+      "desc": "Both white and cage-free brown eggs are impacted.",
+      "link": "https://thehill.com/policy/healthcare/5985242-nearly-1-6-million-eggs-recalled-over-salmonella-concerns-full-list-of-products-impacted/",
+      "date": "Jul 23, 2026",
+      "rawDate": "Thu, 23 Jul 2026 13:33:35 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Trump says he&#039;ll hold Iran responsible for future Houthi attacks on ships",
@@ -18,24 +180,6 @@
       "rawDate": "Thu, 23 Jul 2026 13:12:10 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Live updates: Senate panel takes up Blanche nomination; Congress votes on separate war powers resolutions",
-      "desc": "The Senate Judiciary Committee is scheduled to vote Thursday morning on the nomination of acting Attorney General Todd Blanche to take the role permanently. Republican Sens. John Cornyn (Texas) and Th",
-      "link": "https://thehill.com/homenews/administration/5984908-live-updates-trump-iran-houthis-blanche-vote/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 13:00:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What&#039;s the bigger problem for today&#039;s Democrats — senility or socialism?",
-      "desc": "It’s great fun to debate socialism, and it sure gets clicks. But the Democratic establishment would be well served to ditch their sclerotic gerontocracy.",
-      "link": "https://thehill.com/opinion/campaign/5984173-democratic-gerontocracy-faces-voter-revolt/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Our Brewing Company set to open Grand Rapids taproom today",
@@ -52,17 +196,8 @@
       "link": "https://thehill.com/homenews/senate/5985144-rand-paul-iran-war/",
       "date": "Jul 23, 2026",
       "rawDate": "Thu, 23 Jul 2026 12:10:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "On the Ballot: Maine Democrats breathe sigh of relief despite steep obstacles ahead of Jackson",
-      "desc": "Democrats in Maine are breathing a sigh of relief after avoiding a divisive battle to replace Graham Platner as their Senate nominee, but the party’s biggest test lies ahead as it seeks to unseat five",
-      "link": "https://thehill.com/newsletters/on-the-ballot/5983951-on-the-ballot-maine-democrats-breathe-sigh-of-relief-despite-steep-obstacles-ahead-of-jackson/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Houthis say 2 Saudi oil tankers attacked in Red Sea",
@@ -83,15 +218,6 @@
       "tag": "technology"
     },
     {
-      "title": "Why Republicans are joining the fight against money in politics",
-      "desc": "Long assumed to be an issue exclusively of the left, it is a top issue of concern among Republican voters.",
-      "link": "https://thehill.com/opinion/congress-blog/politics/5983319-money-politics-gop-voter-concerns/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 11:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
       "desc": "The EPA has proposed a rule change that would let states decide how much input the public has on air pollution permits. It would be a huge boon for data centers increasingly reliant on fossil fuels.",
       "link": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
@@ -110,22 +236,13 @@
       "tag": "technology"
     },
     {
-      "title": "Scalise embraces House GOP’s elder statesman role amid leadership shake-up speculation",
-      "desc": "House Majority Leader Steve Scalise (R-La.) has reached his peak elder statesman era in President Trump’s second term. The No. 2 House Republican has harnessed policymaking lessons from Trump’s rocky ",
-      "link": "https://thehill.com/homenews/house/5984168-steve-scalise-trump-gop-leadership/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Ratepayer bill gains momentum in House amid data center backlash",
       "desc": "A bill that seeks to mitigate data centers’ impacts on Americans’ electric bills is gaining steam in the House, as lawmakers face pressure to act in the face of sharp backlash to the sprawling AI infr",
       "link": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
       "date": "Jul 23, 2026",
       "rawDate": "Thu, 23 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Banning Social Media for Kids Is a Bad Idea",
@@ -144,15 +261,6 @@
       "rawDate": "Thu, 23 Jul 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "GOP senators criticize Trump plan to sell access to Truth Social posts",
-      "desc": "GOP senators at odds with President Trump are slamming the plan floated by his social media company to sell faster access to the president’s market-moving online posts to wealthy trading firms, which ",
-      "link": "https://thehill.com/homenews/senate/5983678-traders-pay-trump-posts/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
@@ -533,24 +641,6 @@
       "tag": "safety"
     },
     {
-      "title": "Laura Loomer apologizes for minimizing impact of war in Ukraine",
-      "desc": "Laura Loomer posted on social media that her thoughts on the conflict shifted after experiencing an air raid and sirens blaring.",
-      "link": "https://thehill.com/policy/international/5981713-laura-loomer-apology-russia-ukraine-war-impact-criticism/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 12:53:10 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Nuclear deal with Saudi Arabia may allow uranium enrichment: Report",
-      "desc": "The Trump administration plans to announce that it reached a civilian nuclear cooperation agreement with Saudi Arabia that could potentially allow it to enrich its own uranium, according to multiple r",
-      "link": "https://thehill.com/policy/international/5982724-donald-trump-us-saudi-arabia-potential-nuclear-deal-uranium/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 12:39:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Microsoft set to invest $60M in Energy Department’s Genesis Mission",
       "desc": "Microsoft is set to invest $60 million in the Department of Energy’s (DOE) \"Genesis Mission,\" which focuses on accelerating scientific discovery and technological leadership through artificial intelli",
       "link": "https://thehill.com/policy/technology/5982443-microsoft-funds-genesis-mission-ai/",
@@ -587,29 +677,11 @@
       "tag": "government"
     },
     {
-      "title": "CNN analyst warns that 1 major issue could drag down Trump’s Republican Party",
-      "desc": "Enten also compared it to the Iraq War, explaining that in 2006, 58% of people said the war was not worth it.",
-      "link": "https://www.mlive.com/news/2026/07/cnn-analyst-warns-that-1-major-issue-could-drag-down-trumps-republican-party.html",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 10:00:01 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Chinese model Kimi K3 adds pressure on Trump administration&#039;s AI policy",
       "desc": "The release of the Chinese AI model Kimi 3 is forcing Washington and Silicon Valley to reckon with another sign of intense competition with Beijing, renewing questions over how to curb the country’s t",
       "link": "https://thehill.com/policy/technology/5981503-chinese-model-kimi-3-adds-pressure-on-trump-administrations-ai-policy/",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Kalshi launches midterm election forecasting hub",
-      "desc": "Kalshi launched a new online hub Wednesday for midterm election forecasting, displaying prediction market odds for major races alongside polling averages, fundraising data and other election informati",
-      "link": "https://thehill.com/policy/technology/5982378-kalshi-midterm-election-hub/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 09:00:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
@@ -623,13 +695,22 @@
       "tag": "technology"
     },
     {
+      "title": "Kalshi launches midterm election forecasting hub",
+      "desc": "Kalshi launched a new online hub Wednesday for midterm election forecasting, displaying prediction market odds for major races alongside polling averages, fundraising data and other election informati",
+      "link": "https://thehill.com/policy/technology/5982378-kalshi-midterm-election-hub/",
+      "date": "Jul 22, 2026",
+      "rawDate": "Wed, 22 Jul 2026 09:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "Michigan’s student safety tip line records second-highest volume in its history",
       "desc": "The system received 10,777 tips in the past year.",
       "link": "https://www.mlive.com/news/2026/07/michigans-student-safety-tip-line-records-second-highest-volume-in-its-history.html",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 00:20:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "The list is in: 12 Ann Arbor school board hopefuls running for 5 seats",
@@ -639,24 +720,6 @@
       "rawDate": "Tue, 21 Jul 2026 23:17:16 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Manager pleads to manslaughter after 5-year-old killed in Troy hyperbaric chamber explosion",
-      "desc": "A safety director pleaded no contest to involuntary manslaughter after a fatal hyperbaric chamber explosion killed a child at a Troy clinic.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/manager-pleads-to-manslaughter-after-5-year-old-killed-in-troy-hyperbaric-chamber-explosion.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 22:22:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Detroit man convicted of second-degree murder in fatal shooting",
-      "desc": "Damon Bentley was convicted of second-degree murder for fatally shooting a man outside a Detroit apartment complex.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/detroit-man-convicted-of-second-degree-murder-in-fatal-shooting.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 21:41:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Michigan expands college aid, tuition-free programs in new education budget",
@@ -684,15 +747,6 @@
       "rawDate": "Tue, 21 Jul 2026 18:40:35 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "ESPN lays off big name anchors, analysts as company restructures",
-      "desc": "ESPN is making sweeping cuts to the company's roster of employees this week as the sports media giant rolls out changes to its business that has ended the tenures of some notable names at the network.",
-      "link": "https://thehill.com/policy/sports-gaming/5981229-espn-staff-cuts-nfl-media/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 18:24:37 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Whitmer signs $22.9B education budget, touts literacy spending",
@@ -736,24 +790,6 @@
       "link": "https://thehill.com/homenews/5980026-sen-andy-kim-medikids-proposal/",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 14:39:27 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "How to tell if your lettuce is safe to eat during cyclospora outbreak",
-      "desc": "These are the types of lettuce you should toss out immediately.",
-      "link": "https://thehill.com/policy/healthcare/5978848-how-to-tell-if-your-lettuce-is-safe-to-eat-during-cyclospora-outbreak/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 11:15:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump health staffing, funding cuts slow cyclospora response",
-      "desc": "Cases of illness caused by cyclospora are rising as the Trump administration’s historic cuts to staffing and funding at federal health agencies meet chronic underfunding at the state and local level. ",
-      "link": "https://thehill.com/policy/healthcare/5979279-cyclospora-cases-rise-cdc-cuts/",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -817,15 +853,6 @@
       "link": "https://www.mlive.com/education/2026/07/michigan-sending-224m-to-k-12-schools-for-building-repairs-but-is-it-enough.html",
       "date": "Jul 17, 2026",
       "rawDate": "Fri, 17 Jul 2026 17:28:09 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Vandercook Lake lands ‘monumental’ $19.8M grant for school upgrades after bond defeats",
-      "desc": "The district announced the reimbursement award Thursday. In a letter to the school community, Superintendent Melissa Bradfield called it 'an incredible accomplishment.'",
-      "link": "https://www.mlive.com/news/jackson/2026/07/vandercook-lake-lands-monumental-198m-grant-for-school-upgrades-after-bond-defeats.html",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 16:19:45 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

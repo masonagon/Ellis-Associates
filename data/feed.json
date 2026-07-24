@@ -1,6 +1,60 @@
 {
-  "generated": "2026-07-24T10:55:27.162Z",
+  "generated": "2026-07-24T12:14:35.593Z",
   "news": [
+    {
+      "title": "Michigan awards $1.5M to spark Blue Tech, maritime innovation across Great Lakes",
+      "desc": "Each project is expected to further the new Michigan Maritime Strategy, a decade-long plan aimed at growing the state’s multi-billion-dollar maritime industry while protecting the Great Lakes.",
+      "link": "https://www.mlive.com/environment/2026/07/michigan-awards-15m-to-spark-blue-tech-maritime-innovation-across-great-lakes.html",
+      "date": "Jul 24, 2026",
+      "rawDate": "Fri, 24 Jul 2026 12:05:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Man kidnapping woman leads police on chase near Ypsilanti",
+      "desc": "The woman was able to exit the vehicle shortly before it was stopped.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/man-kidnapping-woman-leads-police-on-chase-near-ypsilanti.html",
+      "date": "Jul 24, 2026",
+      "rawDate": "Fri, 24 Jul 2026 11:37:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
+      "desc": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
+      "link": "https://www.wired.com/gallery/best-window-air-conditioners/",
+      "date": "Jul 24, 2026",
+      "rawDate": "Fri, 24 Jul 2026 11:37:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Disgruntled Senate GOP causes headaches for Trump",
+      "desc": "In today's issue: ▪ Trump faces roadblocks in Senate ▪ Mixed war powers votes ▪ Saudi Arabia nuclear deal confusion ▪ Google receives major EU fine President Trump’s damaged relationship with Senate R",
+      "link": "https://thehill.com/newsletters/morning-report/5987821-donald-trump-senate-republicans-headaches-midterms-save-america-act/",
+      "date": "Jul 24, 2026",
+      "rawDate": "Fri, 24 Jul 2026 11:11:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Candidates set for Ann Arbor-area school board races this November",
+      "desc": "Multiple contests will be a crowded choice for voters with all but one race seeing at least as many candidates listed as there are openings",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/candidates-set-for-ann-arbor-area-school-board-races-this-november.html",
+      "date": "Jul 24, 2026",
+      "rawDate": "Fri, 24 Jul 2026 11:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump&#039;s authoritarian midterm tactics",
+      "desc": "Trump is undermining faith in our elections long before the voting begins.",
+      "link": "https://thehill.com/opinion/campaign/5986159-trump-authoritarian-midterm-tactics/",
+      "date": "Jul 24, 2026",
+      "rawDate": "Fri, 24 Jul 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
       "desc": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
@@ -38,18 +92,18 @@
       "tag": "government"
     },
     {
-      "title": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-      "desc": "Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP’s inability to pass the Safeguard American Voter Eligibility (SAVE America) Act or emerge",
-      "link": "https://thehill.com/homenews/senate/5987407-trump-thune-senate-tensions/",
+      "title": "GOP hawks urge Trump to go big as he weighs &#039;massive attack&#039; on Iran",
+      "desc": "Republican defense hawks are urging President Trump to unleash major combat operations as the commander-in-chief weighs a “massive attack” on Iran.  These signals coincide with Trump’s escalatory rhet",
+      "link": "https://thehill.com/policy/defense/5987536-trump-iran-republican-hawks-combat-operations/",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 10:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "GOP hawks urge Trump to go big as he weighs &#039;massive attack&#039; on Iran",
-      "desc": "Republican defense hawks are urging President Trump to unleash major combat operations as the commander-in-chief weighs a “massive attack” on Iran.  These signals coincide with Trump’s escalatory rhet",
-      "link": "https://thehill.com/policy/defense/5987536-trump-iran-republican-hawks-combat-operations/",
+      "title": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
+      "desc": "Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP’s inability to pass the Safeguard American Voter Eligibility (SAVE America) Act or emerge",
+      "link": "https://thehill.com/homenews/senate/5987407-trump-thune-senate-tensions/",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 10:00:00 +0000",
       "source": "The Hill Politics",
@@ -84,7 +138,7 @@
     },
     {
       "title": "European researchers want to study social media’s harms but can’t get the data",
-      "desc": "EU law gives researchers unprecedented rights to scrutinize Big Tech. Researchers say Tik Tok, X, and Meta are still deciding who gets to look inside.",
+      "desc": "EU law gives researchers unprecedented rights to scrutinize Big Tech. Researchers say TikTok, X, and Meta are still deciding who gets to look inside.",
       "link": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 08:49:52 +0000",
@@ -126,15 +180,6 @@
       "rawDate": "Thu, 23 Jul 2026 22:20:55 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump to impose new double-digit tariffs on imports from 60 countries",
-      "desc": "President Trump will impose double-digit tariffs on imports from 60 countries over forced labor violations, U.S. Trade Representative Jamieson Greer announced Thursday.  The action will cover 99.4 per",
-      "link": "https://thehill.com/homenews/administration/5987343-trump-tariffs-imports-forced-labor-section-301/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 22:14:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Kentwood man injured after fleeing police, hit by car during foot chase",
@@ -515,15 +560,6 @@
       "tag": "technology"
     },
     {
-      "title": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
-      "desc": "The EPA has proposed a rule change that would let states decide how much input the public has on air pollution permits. It would be a huge boon for data centers increasingly reliant on fossil fuels.",
-      "link": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Ratepayer bill gains momentum in House amid data center backlash",
       "desc": "A bill that seeks to mitigate data centers’ impacts on Americans’ electric bills is gaining steam in the House, as lawmakers face pressure to act in the face of sharp backlash to the sprawling AI infr",
       "link": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
@@ -584,15 +620,6 @@
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 22:17:47 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Jackson man faces life in prison on child pornography charges",
-      "desc": "Travis Thomas, 56, was arrested after a cyber tip led investigators to his home.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/jackson-man-faces-life-in-prison-on-child-pornography-charges.html",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 22:00:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -817,15 +844,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/fundraising-arm-supporting-saline-area-schools-hits-40-years-under-new-leadership.html",
       "date": "Jul 18, 2026",
       "rawDate": "Sat, 18 Jul 2026 12:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Marshall elementary schools receive $150,000 to expand STEM education",
-      "desc": "The initiative builds on last year's $1.54 million statewide investment and focuses on empowering teachers while expanding student access to technology education.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/marshall-elementary-schools-receive-150000-to-expand-stem-education.html",
-      "date": "Jul 17, 2026",
-      "rawDate": "Fri, 17 Jul 2026 21:52:01 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

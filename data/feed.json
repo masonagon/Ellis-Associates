@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-25T09:29:48.760Z",
+  "generated": "2026-07-25T11:02:40.027Z",
   "news": [
+    {
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "desc": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "As signals of a &#039;massive&#039; US attack mount, experts skeptical it will break Iran",
+      "desc": "As President Trump threatens a major escalation in Iran, signs are mounting that the U.S. military is preparing for a potential return to major military operations.  But experts are skeptical that an ",
+      "link": "https://thehill.com/policy/defense/5989841-experts-skeptical-intensified-air-strikes-iran/",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan athletics investigations: See timeline from scandals to Warde Manuel’s exit",
+      "desc": "In its wake, the university replaced its head football coach and will now need to hire a new athletic director at the end of the year.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/michigan-athletics-investigations-see-timeline-from-scandals-to-warde-manuels-exit.html",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 10:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "Trump takes shots at RFK Jr, Biden, CNN&#039;s Collins in WHCA dinner speech",
       "desc": "President Trump took aim at the press, Democrats and some of his celebrity critics in a speech that received a lukewarm reception at the White House Correspondents’ Association’s (WHCA) dinner on Frid",
@@ -76,7 +103,7 @@
     {
       "title": "Panetta on Iran war: US &#039;in deep trouble&#039;",
       "desc": "Former Defense Secretary Leon Panetta said the United States is in “deep trouble” with the Iran war, comparing it to the U.S.’s drawn-out conflict in Vietnam. Panetta, who also led the CIA during the ",
-      "link": "https://thehill.com/homenews/5989591-panetta-on-iran-war-us-in-deep-trouble/",
+      "link": "https://thehill.com/policy/defense/5989591-panetta-on-iran-war-us-in-deep-trouble/",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 21:59:02 +0000",
       "source": "The Hill Defense",
@@ -144,15 +171,6 @@
       "rawDate": "Fri, 24 Jul 2026 20:48:56 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Platner recruiter: Reddit posts &#039;should&#039;ve been a red line&#039;",
-      "desc": "Morris Katz, the Democratic strategist who helped recruit Graham Platner to run for the U.S. Senate in Maine, reflected on the string of controversies that led up to Platner’s decision to exit the rac",
-      "link": "https://thehill.com/homenews/campaign/5989373-platner-recruiter-maine-senate-race/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 20:33:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Oakland County community extends data center moratorium",
@@ -533,15 +551,6 @@
       "tag": "education"
     },
     {
-      "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
-      "desc": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
-      "link": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "GOP hawks urge Trump to go big as he weighs &#039;massive attack&#039; on Iran",
       "desc": "Republican defense hawks are urging President Trump to unleash major combat operations as the commander in chief weighs a “massive attack” on Iran.  These signals coincide with Trump’s escalatory rhet",
       "link": "https://thehill.com/policy/defense/5987536-trump-iran-republican-hawks-combat-operations/",
@@ -557,24 +566,6 @@
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 10:00:00 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "desc": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
-      "desc": "If you’re tired of sponsored and AI-summarized search results, Kagi gives you a curated—and human-centric—way to find what you’re looking for.",
-      "link": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 09:30:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -749,15 +740,6 @@
       "tag": "technology"
     },
     {
-      "title": "House approves &#039;Department of War&#039; renaming in annual defense bill",
-      "desc": "House lawmakers approved the renaming of the Defense Department to the “Department of War” in the body’s vote for the annual defense policy bill on Wednesday.   The fiscal 2027 National Defense Author",
-      "link": "https://thehill.com/homenews/house/5985402-house-ndaa-passage-department-of-war/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 14:10:20 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "University of Michigan closing in on next president, seeks hire by early fall",
       "desc": "The next president will be expected to make several high-profile leadership hires, including a new athletic director.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/university-of-michigan-closing-in-on-next-president-seeks-hire-by-early-fall.html",
@@ -880,15 +862,6 @@
       "link": "https://www.mlive.com/education/2026/07/whitmer-signs-229b-education-budget-touts-literacy-spending.html",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 18:19:12 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "From sickle cell to Capitol Hill, Michigan boy uses his story to help others",
-      "desc": "Having a part of his spleen removed and a rare chronic disease hasn’t stopped 12-year-old E’Shon Guy from living a normal life.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/from-sickle-cell-to-capitol-hill-michigan-boy-uses-his-story-to-help-others.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 17:32:49 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

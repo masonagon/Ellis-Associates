@@ -1,6 +1,33 @@
 {
-  "generated": "2026-07-24T23:00:17.143Z",
+  "generated": "2026-07-25T01:55:27.049Z",
   "news": [
+    {
+      "title": "Former Trump food official calls for independent review of federal government response to Cyclospora outbreak",
+      "desc": "Former Food and Drug Administration (FDA) Deputy Commissioner Frank Yiannas, who served under both President Trump and former President Biden, criticized the federal government’s handling of a Cyclosp",
+      "link": "https://thehill.com/policy/healthcare/5989772-ex-fda-criticizes-cyclospora-outbreak/",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 00:22:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Some of 8 victims found dead in Grand Haven Township fire had gunshot wounds",
+      "desc": "Six children and two adults were found dead after a suspicious fire in Grand Haven Township. Some had gunshot wounds.",
+      "link": "https://www.mlive.com/news/muskegon/2026/07/some-of-8-victims-found-dead-in-grand-haven-township-fire-had-gunshot-wounds.html",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 00:07:51 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Grant cancellations &#039;based solely&#039; on politics: filing",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Grant cancellations 'based solely' on politics: filing Federal green grants canceled last year were selected “solely",
+      "link": "https://thehill.com/newsletters/energy-environment/5989749-grant-cancellations-based-solely-on-politics-filing/",
+      "date": "Jul 24, 2026",
+      "rawDate": "Fri, 24 Jul 2026 23:35:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Detroit-area physician’s assistant charged with child pornography offenses",
       "desc": "A Detroit-area physician's assistant was charged after authorities found hundreds of child abuse images on his phone.",
@@ -47,7 +74,7 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Trump set to return to White House correspondents&#039; dinner",
+      "title": "Live updates: Trump returns to White House correspondents&#039; dinner",
       "desc": "President Trump will speak Friday evening at the rescheduled White House Correspondents' Association dinner. The association said earlier this week it will honor a Secret Service agent who was pivotal",
       "link": "https://thehill.com/homenews/administration/5986971-live-updates-trump-iran-tariffs-white-house-correspondents-dinner/",
       "date": "Jul 24, 2026",
@@ -134,15 +161,6 @@
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 20:23:50 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "California rejected almost 150K mail-in primary ballots",
-      "desc": "California rejected nearly 150,000 mail-in ballots during its June primary, the highest total in recent election cycles, as a surge in late-postmarked ballots sparked concerns about changes to U.S. Po",
-      "link": "https://thehill.com/homenews/campaign/5989281-california-rejected-mail-ballots-primary/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 20:03:25 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -236,7 +254,7 @@
       "tag": "technology"
     },
     {
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "desc": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
       "link": "https://www.wired.com/story/uncanny-valley-podcast/",
       "date": "Jul 24, 2026",
@@ -441,15 +459,6 @@
       "rawDate": "Fri, 24 Jul 2026 13:04:28 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Man stabbed at apartment complex, juvenile arrested",
-      "desc": "Neighbors saw the aftermath of the incident.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/07/man-stabbed-at-apartment-complex-juvenile-arrested.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 13:03:55 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Deadline to file claim in $2.5B settlement over Amazon Prime coming soon",
@@ -817,15 +826,6 @@
       "link": "https://thehill.com/policy/healthcare/5984156-senate-committee-advances-insulin-cap-bill/",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 20:30:28 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Cyclospora cases in US hit all time high",
-      "desc": "The Centers for Disease Control and Prevention (CDC) said it confirmed more than 2,500 additional cases of cyclosporiasis infections across dozens of states, making it the largest outbreak on record. ",
-      "link": "https://thehill.com/policy/healthcare/5983963-cdc-confirms-record-cyclosporiasis-outbreak/",
-      "date": "Jul 22, 2026",
-      "rawDate": "Wed, 22 Jul 2026 19:26:03 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

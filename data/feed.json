@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-25T11:02:40.027Z",
+  "generated": "2026-07-25T13:05:17.485Z",
   "news": [
+    {
+      "title": "What California&#039;s nurse staffing law cannot measure",
+      "desc": "California is projected to face a shortage of tens of thousands of nurses within the decade.",
+      "link": "https://thehill.com/opinion/healthcare/5983972-california-nurse-staffing-ratios-burnout/",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iran marks first night without US strikes in two weeks as tensions persist",
+      "desc": "The U.S. and Iran militaries did not exchange fire overnight Saturday, breaking a streak of 13 consecutive days of tit-for-tat strikes over alleged violations of a ceasefire agreement signed last mont",
+      "link": "https://thehill.com/policy/defense/5989979-iran-us-strikes-quiet-night/",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 12:52:16 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Live updates: Maine Dems to replace Platner in Senate race; Quiet night in Iran",
+      "desc": "Maine Democrats on Saturday are poised to announce their nominee to replace Graham Platner in the race to unseat incumbent Sen. Susan Collins (R-Maine). Former state Sen. Troy Jackson is the likely pi",
+      "link": "https://thehill.com/homenews/campaign/5989977-live-updates-trump-iran-warm-maine-democrats-senate-race-whcd/",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 12:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hudsonville High School marching band kicks off 2026 season with ‘Gratitude’",
+      "desc": "Hudsonville High School marching band students meet for band camp, a week long experience of 12 hour days where they rehearse and learn the music and choreography for their upcoming marching band seas",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/hudsonville-high-school-marching-band-kicks-off-2026-season-with-gratitude.html",
+      "date": "Jul 25, 2026",
+      "rawDate": "Sat, 25 Jul 2026 12:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
       "desc": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
@@ -110,15 +146,6 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Trump roasts Democrats, reporters at White House correspondents&#039; dinner",
-      "desc": "President Trump spoke Friday evening at the rescheduled White House Correspondents' Association dinner, taking shots at Democrats, celebrities, members of the media and one of his own Cabinet members.",
-      "link": "https://thehill.com/homenews/administration/5986971-live-updates-trump-iran-tariffs-white-house-correspondents-dinner/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 21:36:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "6 children, 2 adults die in ‘suspicious’ Grand Haven Township fire",
       "desc": "Eight people, including six children, were found dead after a suspicious house fire in Grand Haven Township, with an investigation ongoing.",
       "link": "https://www.mlive.com/news/muskegon/2026/07/6-children-2-adults-die-in-suspicious-grand-haven-township-fire.html",
@@ -126,15 +153,6 @@
       "rawDate": "Fri, 24 Jul 2026 21:30:46 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "UK House Speaker touts stability amid political churn",
-      "desc": "U.K. House of Commons Speaker Sir Lindsay Hoyle landed in Washington this week, arriving just as the United Kingdom cycled through yet another prime minister. \"We're overachieving on prime ministers,\"",
-      "link": "https://thehill.com/policy/international/5989466-speaker-hoyle-us-visit-uk-stability/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 21:06:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Teen, 16, shot in face by teen, 15, during attempted iPhone robbery in Buena Vista Township",
@@ -151,24 +169,6 @@
       "link": "https://thehill.com/media/5989450-paramount-warner-merger-delayed/",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 20:58:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whitmer endorses Stevens in Michigan race",
-      "desc": "Michigan Gov. Gretchen Whitmer (D) made a surprise, last-minute endorsement for Rep. Haley Stevens (D-Mich.) over progressive Abdul El-Sayed in the open Michigan Senate race on Friday — highlighting D",
-      "link": "https://thehill.com/homenews/campaign/5989448-whitmer-endorses-stevens-michigan-senate/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 20:55:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "OpenAI, Hugging Face breach stokes fear on what&#8217;s next for AI",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story&#160; OpenAI, Hugging Face breach stokes fears on what&#8217;s next for AI Washington and the technology industry are on high alert this week after",
-      "link": "https://thehill.com/newsletters/technology/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 20:48:56 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
     },
@@ -497,15 +497,6 @@
       "tag": "technology"
     },
     {
-      "title": "Michigan Senator Elissa Slotkin wants ‘Planet 10′ in the Oval Office",
-      "desc": "U.S. Sen. Elissa Slotkin, D-Holly, has become a prominent Democratic voice and is considered a possible 2028 Democratic presidential contender. She thinks the party should turn towards Midwestern lead",
-      "link": "https://www.mlive.com/politics/2026/07/michigan-senator-elissa-slotkin-wants-planet-10-in-the-oval-office.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 12:57:29 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Siena Heights to bring nursing programs to university north of Ann Arbor",
       "desc": "Cleary University will transition three accredited nursing programs from Siena Heights University to Livingston County as soon as spring 2027, addressing a critical gap in local healthcare education a",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/siena-heights-to-bring-nursing-programs-to-university-north-of-ann-arbor.html",
@@ -722,15 +713,6 @@
       "tag": "health"
     },
     {
-      "title": "4 Republicans help House Democrats pass Iran war powers resolution",
-      "desc": "The House on Thursday passed a Democratic-backed war powers resolution aimed at limiting President Trump’s military action in Iran. The lower chamber voted 214-208 to pass the resolution, sponsored by",
-      "link": "https://thehill.com/homenews/house/5985147-iran-war-powers-resolution-house-vote/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 14:28:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Google hit with $1B fine in Europe",
       "desc": "The European Union fined Google about $1 billion on Thursday for violating its digital competition law, finding the company improperly favored its own products in Google Search and limited developers ",
       "link": "https://thehill.com/policy/technology/5985627-google-fined-eu-digital-competition/",
@@ -853,15 +835,6 @@
       "link": "https://www.mlive.com/education/2026/07/michigan-expands-college-aid-tuition-free-programs-in-new-education-budget.html",
       "date": "Jul 21, 2026",
       "rawDate": "Tue, 21 Jul 2026 20:36:31 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Whitmer signs $22.9B education budget, touts literacy spending",
-      "desc": "Michigan’s new education budget includes a $250 per-pupil increase, expanded support for at-risk students and English learners, and hundreds of millions for literacy initiatives backed by the governor",
-      "link": "https://www.mlive.com/education/2026/07/whitmer-signs-229b-education-budget-touts-literacy-spending.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 18:19:12 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

@@ -1,14 +1,149 @@
 {
-  "generated": "2026-07-27T10:33:45.584Z",
+  "generated": "2026-07-27T13:33:18.432Z",
   "news": [
     {
-      "title": "Congress hits a wall on reining in sports betting, prediction markets",
-      "desc": "Lawmakers appear to have stalled out on a months-long effort to pass legislation imposing new rules on the booming business of sports gambling and prediction markets, despite bipartisan agreement the ",
-      "link": "https://thehill.com/newsletters/keeping-score/5988931-congress-stalls-gambling-laws/",
+      "title": "University of Michigan nurses sign new deal, approve wage increases",
+      "desc": "The new agreement will be effective immediately and run through March 31, 2029.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/university-of-michigan-nurses-sign-new-deal-approve-wage-increases.html",
       "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "rawDate": "Mon, 27 Jul 2026 13:29:51 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Pop star ‘appalled and angry’ after White House uses her song in TikTok video",
+      "desc": "Katy Perry is hardly the first pop star to criticize the White House for the use of their music.",
+      "link": "https://www.mlive.com/politics/2026/07/pop-star-appalled-and-angry-after-white-house-uses-her-song-in-tiktok-video.html",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 13:18:53 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jeffries says DNC chief &#039;has my full support&#039; amid scrutiny",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) told reporters on Sunday that Democratic National Committee (DNC) Chair Ken Martin “has my full support” after multiple news outlets detailed an increasi",
+      "link": "https://thehill.com/homenews/campaign/5991792-jeffries-supports-dnc-chair-ken-martin/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 13:17:55 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Soft on crime? Not Gavin Newsom.",
+      "desc": "A look at the record suggests that the governor has been anything but soft on crime.",
+      "link": "https://thehill.com/opinion/campaign/5989290-sacramento-sheriff-newsom-crime/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Key Senate Republican: Passing reconciliation 3.0 &#039;a very small needle to thread&#039;",
+      "desc": "Sen. Ron Johnson (R-Wis.) on Sunday said that passing the latest iteration of a reconciliation bill through the Senate is \"a very small needle to thread.\" \"America's expecting us to govern and we're g",
+      "link": "https://thehill.com/homenews/senate/5991716-senate-thune-shutdown-pressure/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 12:56:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man linked to Dearborn ISIS case pleads guilty in plot to join terrorist group",
+      "desc": "A Washington man tied to the federal ISIS investigation involving three Dearborn defendants has pleaded guilty. Here's how his case connects to the Michigan prosecution.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/man-linked-to-dearborn-isis-case-pleads-guilty-in-plot-to-join-terrorist-group.html",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 12:47:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Senate GOP, Trump see tensions rise over SAVE America Act: Live discussion",
+      "desc": "Join Senate reporter Alexander Bolton and The Hill's editors for a Q&#38;A and live discussion as tensions rise between the GOP Senate and President Trump over the SAVE America Act and other issues.  ",
+      "link": "https://thehill.com/homenews/editors-call/5991732-senate-republicans-trump-save-america-act-tensions/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 12:46:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats must stop feeding Republicans&#039; socialist boogeyman",
+      "desc": "To win the presidency, Democrats cannot allow Republicans to fuse “Democrat” and “socialist��� in voters’ minds.",
+      "link": "https://thehill.com/opinion/campaign/5989355-republicans-weaponize-democratic-socialists/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 12:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Some GOP senators say they will vote to cancel recess over SAVE America Act",
+      "desc": "Senate conservatives led by Sen. Mike Lee (R-Utah) are calling on Senate Majority Leader John Thune (R-S.D.) to cancel the August recess so that they can debate the SAVE America Act, a sweeping electi",
+      "link": "https://thehill.com/homenews/senate/5991717-senate-republicans-save-america-act-recess-mike-lee/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 12:29:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump visits Michigan before primary amid Canada tariff backlash, Gordie Howe Bridge opening",
+      "desc": "President Donald Trump will tour a GM facility on Monday and is expected to defend his tariffs and talk about the economy during a rally before the Aug. 4 primary election.",
+      "link": "https://www.mlive.com/politics/2026/07/trump-visits-michigan-before-primary-amid-canada-tariff-backlash-gordie-howe-bridge-opening.html",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 12:14:35 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iran says it controls Strait of Hormuz after weekend pause in strikes",
+      "desc": "Iran said Monday that it controls the Strait of Hormuz after a pause in strikes in the war over the weekend. Reuters noted that multiple state media outlets in Iran, citing an unidentified source, rep",
+      "link": "https://thehill.com/policy/defense/5991703-iran-hormuz-strait/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 12:03:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Compounded GLP-1 drugs creating concern among doctors and FDA",
+      "desc": "They're often cheaper and easier to get than Ozempic, but doctors say compounded GLP-1 drugs come with serious risks.",
+      "link": "https://thehill.com/policy/healthcare/5991455-compounded-glp-1-drugs-creating-concern-among-doctors-and-fda/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 11:14:38 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump heads to Michigan to spotlight auto jobs ahead of primary",
+      "desc": "Trump is heading to Michigan to make his case on jobs, manufacturing and the economy just days before primary voting.",
+      "link": "https://thehill.com/homenews/administration/5991491-donald-trump-michigan-auto-jobs/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 11:14:13 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Tate brothers extradition case heads to Miami courtroom Monday",
+      "desc": "The White House has said Trump won't intervene to help the Tate brothers avoid extradition.",
+      "link": "https://thehill.com/regulation/court-battles/5991618-tate-brothers-extradition-case-miami/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 11:12:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
+      "desc": "Ads on Instagram, TikTok, and YouTube are painting prescription stimulants in a negative light while promoting supplements for ADHD that lack evidence.",
+      "link": "https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "‘At least every block’: Ann Arbor grapples with rising, aggressive panhandling",
+      "desc": "While city officials say people have a right to panhandle, business owners say they have a right to run a business. “There’s got to be a middle ground somewhere,” one restaurant owner said.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/at-least-every-block-ann-arbor-grapples-with-rising-aggressive-panhandling.html",
+      "date": "Jul 27, 2026",
+      "rawDate": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
     },
     {
       "title": "GOP senators warn confidence in Hegseth eroding as Iran war drags on",
@@ -16,17 +151,8 @@
       "link": "https://thehill.com/homenews/senate/5989578-senate-rnc-defense-leadership-crisis/",
       "date": "Jul 27, 2026",
       "rawDate": "Mon, 27 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Crypto bill faces Democratic backlash over new ethics rules",
-      "desc": "Key Senate Democrats are balking at the latest version of a cryptocurrency regulation bill over a White House-approved ethics provision that they argue falls short, complicating the bill's chances of ",
-      "link": "https://thehill.com/policy/technology/5988877-democrats-balk-crypto-bill/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "This Is Donald Trump’s AI Brain Trust",
@@ -47,15 +173,6 @@
       "tag": "technology"
     },
     {
-      "title": "Pulte says he completed fourth round of layoffs as acting DNI",
-      "desc": "Acting Director of National Intelligence (DNI) Bill Pulte said Sunday his office completed a fourth round of layoffs since he took over on June 19. “Since becoming Acting Director of National Intellig",
-      "link": "https://thehill.com/homenews/administration/5991559-odni-releases-election-threat-docs/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 02:51:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hundreds gather at student-led vigil for 8 family members killed in Grand Haven tragedy",
       "desc": "About 200 students, parents and community members gathered in Grand Haven Township on Sunday to honor eight family members killed in a tragedy that has stunned the lakeshore community.",
       "link": "https://www.mlive.com/news/muskegon/2026/07/hundreds-gather-at-student-led-vigil-for-8-family-members-killed-in-grand-haven-tragedy.html",
@@ -63,15 +180,6 @@
       "rawDate": "Mon, 27 Jul 2026 02:08:53 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Hakeem Jeffries doubles down on Dems&#039; and affordability ahead of midterms",
-      "desc": "House Democratic Leader Hakeem Jeffries (N.Y.) kicked off the 100-day sprint to the midterms on Sunday, arguing his party will address the cost of living if it wrestles back control of Congress. “In 1",
-      "link": "https://thehill.com/homenews/campaign/5991507-jeffries-target-gop-control/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 01:30:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Cyclospora outbreak not under control yet, says former FDA commissioner",
@@ -83,15 +191,6 @@
       "tag": "health"
     },
     {
-      "title": "DSA co-chair: &#039;Establishment Democrats should be worried about the voters&#039;",
-      "desc": "On Sunday, the Democratic Socialists of America (DSA) national co-chair said more mainstream Democrats \"should be worried about the voters.\" Megan Romer, a top DSA official, appeared on \"Fox News Sund",
-      "link": "https://thehill.com/homenews/campaign/5991320-dsa-warns-democrats-voter-discontent/",
-      "date": "Jul 26, 2026",
-      "rawDate": "Sun, 26 Jul 2026 21:40:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Nearly 8 in 10 Americans say Iran war has been harder than Trump administration expected: Poll",
       "desc": "As the U.S. war with Iran approaches the five-month mark, a new survey indicates that more than three-fourths of 2,193 respondents believe the Trump administration has had more difficulty navigating t",
       "link": "https://thehill.com/homenews/administration/5991332-trump-iran-war-poll/",
@@ -99,24 +198,6 @@
       "rawDate": "Sun, 26 Jul 2026 21:39:48 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "This week on the Hill: Senate faces a packed to-do list",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) faces a packed legislative agenda this week and growing pressure to advance a slate of high-stakes GOP priorities. At the top of his list is government fundi",
-      "link": "https://thehill.com/homenews/senate/5989718-senate-to-do-reconciliation-funding-russia-sanctions-nominations/",
-      "date": "Jul 26, 2026",
-      "rawDate": "Sun, 26 Jul 2026 21:00:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House Republicans look to silver linings for midterm playbook as they embark on recess",
-      "desc": "House Republicans are fanning out across the country for August recess hoping to capitalize on silver linings in an otherwise tough midterm environment as they kick off a 100-day sprint to Election Da",
-      "link": "https://thehill.com/homenews/house/5989533-house-gop-midterms-recess/",
-      "date": "Jul 26, 2026",
-      "rawDate": "Sun, 26 Jul 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "New UK defense secretary says Trump has shaken Europe &#039;out of our complacency&#039;",
@@ -281,18 +362,18 @@
       "tag": "technology"
     },
     {
-      "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
-      "desc": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try.",
-      "link": "https://www.wired.com/gallery/best-gopro-hero-camera/",
+      "title": "The Best Subscription-Free Home Security Cameras I’ve Tried",
+      "desc": "You don’t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally.",
+      "link": "https://www.wired.com/story/best-subscription-free-security-cameras/",
       "date": "Jul 26, 2026",
       "rawDate": "Sun, 26 Jul 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "The Best Subscription-Free Home Security Cameras I’ve Tried",
-      "desc": "You don’t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally.",
-      "link": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+      "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
+      "desc": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try.",
+      "link": "https://www.wired.com/gallery/best-gopro-hero-camera/",
       "date": "Jul 26, 2026",
       "rawDate": "Sun, 26 Jul 2026 10:00:00 +0000",
       "source": "Wired",
@@ -434,15 +515,6 @@
       "tag": "education"
     },
     {
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "desc": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "date": "Jul 25, 2026",
-      "rawDate": "Sat, 25 Jul 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "As signals of a &#039;massive&#039; US attack mount, experts skeptical it will break Iran",
       "desc": "As President Trump threatens a major escalation in Iran, signs are mounting that the U.S. military is preparing for a potential return to major military operations.  But experts are skeptical that an ",
       "link": "https://thehill.com/policy/defense/5989841-experts-skeptical-intensified-air-strikes-iran/",
@@ -484,15 +556,6 @@
       "link": "https://www.mlive.com/news/detroit/2026/07/detroit-area-physicians-assistant-charged-with-child-pornography-offenses.html",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 22:44:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "1 dead, 2 critically injured in head-on traffic crash in Oakland Township",
-      "desc": "A northbound SUV crossed into oncoming traffic, killing the driver and critically injuring two Lapeer County women in another vehicle.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/1-dead-2-critically-injured-in-head-on-traffic-crash-in-oakland-township.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 22:19:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -540,24 +603,6 @@
       "rawDate": "Fri, 24 Jul 2026 19:49:49 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Gov. Gretchen Whitmer endorses Haley Stevens in U.S. Senate race",
-      "desc": "Gov. Gretchen Whitmer has endorsed Congresswoman Haley Stevens in the race for U.S. Senate.",
-      "link": "https://www.mlive.com/politics/2026/07/gov-gretchen-whitmer-endorses-haley-stevens-in-us-senate-race.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 19:46:20 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "As community mourns clerk’s death, Thomas Township election plans remain on track, official says",
-      "desc": "Mike Thayer, a longtime township official and former Bay City Western athletic director, died July 21 at age 58.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/as-community-mourns-clerks-death-thomas-township-election-plans-remain-on-track-official-says.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 19:04:02 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "School supply giveaway planned across Livingston County",
@@ -659,15 +704,6 @@
       "tag": "health"
     },
     {
-      "title": "Explosions heard near US base in Iraq after Pentagon finishes latest strikes against Iran",
-      "desc": "Explosive-laden drones targeted a military base in northern Iraq that hosts American forces on Friday, hours after the U.S. military concluded its 13th consecutive night of strikes against Iran. Kurdi",
-      "link": "https://thehill.com/policy/international/5987887-northern-iraq-explosions-us-iran-war/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 13:06:32 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Bangor Township Schools board vice president resigns",
       "desc": "Mark Seymour has resigned from his position as vice president of the Bangor Township Schools Board of Education.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bangor-township-schools-board-vice-president-resigns.html",
@@ -738,15 +774,6 @@
       "rawDate": "Thu, 23 Jul 2026 22:13:18 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Democrats urge appeals court not to overturn mifepristone regulations",
-      "desc": "The entire congressional Democratic caucus filed an amicus brief urging a federal appeals court to retain the Food and Drug Administration’s current rules for prescribing abortion pills.  Forty-seven ",
-      "link": "https://thehill.com/regulation/court-battles/5987003-democratic-causus-mifepristone-amicus-brief/",
-      "date": "Jul 23, 2026",
-      "rawDate": "Thu, 23 Jul 2026 20:19:19 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Americans see China as more advanced on AI than US: Pew survey",
@@ -844,15 +871,6 @@
       "link": "https://www.mlive.com/news/2026/07/michigans-student-safety-tip-line-records-second-highest-volume-in-its-history.html",
       "date": "Jul 22, 2026",
       "rawDate": "Wed, 22 Jul 2026 00:20:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "The list is in: 12 Ann Arbor school board hopefuls running for 5 seats",
-      "desc": "Nine candidates are seeking one of four spots to serve a four-year term on the Ann Arbor Public Schools Board of Education, while three others are running for one partial. The list is not final until ",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/this-list-is-in-10-ann-arbor-school-board-hopefuls-running-for-5-seats.html",
-      "date": "Jul 21, 2026",
-      "rawDate": "Tue, 21 Jul 2026 23:17:16 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

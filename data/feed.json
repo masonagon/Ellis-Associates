@@ -1,21 +1,111 @@
 {
-  "generated": "2026-07-28T21:00:35.054Z",
+  "generated": "2026-07-28T22:51:45.504Z",
   "news": [
+    {
+      "title": "Jensen hits the Hill",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Nvidia's Huang hits Capitol Hill amid open-source debate Nvidia CEO Jensen Huang made a trip to Capitol Hill on Tuesday, as his company has become",
+      "link": "https://thehill.com/newsletters/technology/5995493-jensen-hits-the-hill/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 22:31:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fauci set for high-profile hearing after Paul released diaries",
+      "desc": "Former chief White House medical adviser Anthony Fauci is set to be under the microscope for a tough Senate hearing on Wednesday, just days after Sen. Rand Paul (R-Ky.) released more than 1,000 pages ",
+      "link": "https://thehill.com/policy/healthcare/5995285-fauci-diary-senate-hearing-rand-paul/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 22:22:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Boeing takes $280 million hit on troubled Air Force One program",
+      "desc": "Boeing’s contract to replace two aging Air Force One planes, a program that is now four years behind schedule, lost the defense contractor $280 million in the second quarter of 2026, according to its ",
+      "link": "https://thehill.com/business/5995418-boeing-airforce-one-program-losses/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 22:12:17 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "FDA official insists &#039;U.S. food supply is safe&#039; as cyclosporiasis cases hit 11,000",
+      "desc": "A Food and Drug Administration (FDA) official insisted on the security of the American food supply as the number of American cases of cyclosporiasis hit 11,000. “The U.S. food supply is safe,” the FDA",
+      "link": "https://thehill.com/policy/healthcare/5995350-cyclosporiasis-cyclospora-fda-food-safety/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 22:10:29 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Cyclospora concerns raise questions about produce safety",
+      "desc": "Click in for more news from The Hill {beacon} Healthcare Health Care &#8202; The Big Story  Cyclospora concerns continue to dominate  As federal health officials insist the U.S. food health supply is ",
+      "link": "https://thehill.com/newsletters/healthcare/5995370-cyclospora-concerns-raise-questions-about-produce-safety/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 21:55:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jury convicts man in fatal shooting of woman seated in vehicle outside Flint home",
+      "desc": "A 26-year-old man faces sentencing in August after a jury found him guilty of first-degree murder in the shooting death of a woman outside a Flint home.",
+      "link": "https://www.mlive.com/news/flint/2026/07/jury-convicts-man-in-fatal-shooting-of-woman-seated-in-vehicle-outside-flint-home.html",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 21:47:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Corporate boardroom diversity sinks to lowest in more than a decade: Analysis",
+      "desc": "A new analysis released Tuesday shows corporate boardroom diversity among S&#38;P 500 companies has dropped to its lowest level in more than a decade.  The analysis from global advisory search firm Sp",
+      "link": "https://thehill.com/business/5995257-corporate-boardroom-diversity-sinks-to-lowest-in-more-than-a-decade-analysis/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 21:26:20 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Judge orders release of Houston ICE shooting witness",
+      "desc": "A federal judge in Houston ordered the Department of Homeland Security (DHS) on Monday to release a man who witnessed federal immigration officers fatally shooting Lorenzo Salgado Araujo earlier this ",
+      "link": "https://thehill.com/regulation/court-battles/5995138-judge-orders-dhs-release-witness/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 21:21:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Rhoden fights to hang on to South Dakota governor&#039;s mansion in GOP primary runoff",
+      "desc": "Republican voters in South Dakota will once again head to the polls Tuesday to weigh in on a heated gubernatorial primary runoff.   Gov. Larry Rhoden (R) is vying for a full term leading the Mount Rus",
+      "link": "https://thehill.com/homenews/campaign/5983409-live-results-south-dakota-governor-gop-runoff-rhoden-doeden/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Georgia holds special election for late David Scott&#039;s House seat",
+      "desc": "Voters in Georgia's 13th Congressional District are at the polls Tuesday for a special election to fill late Rep. David Scott's (D) seat. Scott passed away in April at age 80, leaving the seat in the ",
+      "link": "https://thehill.com/homenews/campaign/5983412-live-results-georgia-house-special-election-david-scott/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "List of &#8216;best&#8217; states released by US News. These 5 rank as the very worst",
+      "desc": "The ranking is based on scores across 71 metrics, from crime to infrastructure to economic opportunities.",
+      "link": "https://thehill.com/homenews/state-watch/5995127-list-of-best-states-released-by-us-news-these-5-rank-as-the-very-worst/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 20:58:35 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Trump&#039;s teleprompter operator who bet on speeches no longer working in the government",
       "desc": "President Trump’s former teleprompter operator, who bet on his speeches, is no longer working in the federal government. A White House official confirmed to The Hill on Tuesday that Gabriel Perez was ",
       "link": "https://thehill.com/homenews/administration/5995211-trump-teleprompter-operator-out-government/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 20:52:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump, Senate give tearful goodbye to Lindsey Graham",
-      "desc": "Former Sen. Lindsey Graham (R-S.C.) received an emotional send-off Wednesday at two memorial services, where political allies and foes, some of whom had shifted back-and-forth during the South Carolin",
-      "link": "https://thehill.com/homenews/senate/5995165-trump-vance-honor-graham/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 20:39:17 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -83,15 +173,6 @@
       "tag": "government"
     },
     {
-      "title": "DeSantis says &#039;basically zero&#039; chance SAVE Act passes Senate before August recess",
-      "desc": "Florida Gov. Ron DeSantis (R) on Tuesday cast doubt on Congress’ ability to pass President Trump’s top voter reform policy bill before they break for August recess.  DeSantis wrote in a post on the so",
-      "link": "https://thehill.com/homenews/state-watch/5995061-desantis-doubts-save-act-passage/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 19:48:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Assault, animal cruelty among additional charges filed against Genesee County businessman",
       "desc": "Ronald Newton Jr. now faces three separate cases involving sexual assault, home invasion, and animal cruelty in Genesee County.",
       "link": "https://www.mlive.com/news/flint/2026/07/assault-animal-cruelty-among-additional-charges-filed-against-genesee-county-businessman.html",
@@ -99,15 +180,6 @@
       "rawDate": "Tue, 28 Jul 2026 19:41:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump remembers Graham as &#039;giant of the Senate&#039; in eulogy",
-      "desc": "President Trump lauded the late Sen. Lindsey Graham (R-S.C.) Tuesday for his work in the Senate and for his friendship. \"Today we gather in the deepest gratitude and profoundest sorrow to honor a belo",
-      "link": "https://thehill.com/homenews/senate/5995044-graham-funeral-washington-national-cathedral/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 19:35:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Laura Loomer’s Reversal on Ukraine Stirs Up the MAGA Civil War",
@@ -128,31 +200,13 @@
       "tag": "safety"
     },
     {
-      "title": "White House responds to John Mellencamp criticizing &#039;Gulf of America&#039; name change",
-      "desc": "Mellencamp, who references the Gulf of Mexico in the lyrics of his song “Pink Houses,” criticized the change during at least two recent performances on his “Dancing Words Tour.”",
-      "link": "https://thehill.com/blogs/in-the-know/5994935-white-house-responds-to-john-mellencamp-criticizing-gulf-of-america-name-change/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 19:09:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "WSJ editorial board calls Trump wrong about nixing Senate filibuster for SAVE America Act: &#039;A terrible trade&#039;",
-      "desc": "The Wall Street Journal editorial board on Monday said President Trump is wrong in his pressure campaign to get rid of the Senate filibuster for the Safeguard American Voter Eligibility (SAVE America)",
-      "link": "https://thehill.com/media/5994942-wall-street-journal-trump-senate-filibuster-save-america-act/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 19:03:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pentagon to rename Charleston base for Graham: Report",
       "desc": "The Pentagon will reportedly rename a South Carolina military base after the late Sen. Lindsey Graham (R-S.C.), an Air Force veteran, citing his “decades of distinguished service” to Congress and the ",
       "link": "https://thehill.com/policy/defense/5994966-pentagon-renames-base-charleston-lindsey-graham/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 19:01:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Michigan Attorney General investigating false child abuse report targeting Pete Buttigieg",
@@ -171,15 +225,6 @@
       "rawDate": "Tue, 28 Jul 2026 18:54:57 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Canadians spent $3.3B less on travel to US after Trump returned to White House: Report",
-      "desc": "Canadians’ trips to the U.S. declined by $3.3 billion last year as citizens remained wedged in the midst of a new economic and political arena sparked by President Trump’s second term.  Our neighbors ",
-      "link": "https://thehill.com/policy/international/5994814-canadian-us-travel-declines-report/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 18:49:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Mediators see progress in Iran war ceasefire restoration push",
@@ -443,15 +488,6 @@
       "tag": "technology"
     },
     {
-      "title": "City emails detail how aggressive panhandling reached boiling point in Ann Arbor",
-      "desc": "City emails obtained by MLive/The Ann Arbor News through the Freedom of Information Act document heightened concerns about the state of downtown, including aggressive panhandling.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/city-emails-detail-how-aggressive-panhandling-reached-boiling-point-in-ann-arbor.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 11:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Can the New York Times Save Journalism From Our AI Overlords?",
       "desc": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
       "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
@@ -524,9 +560,9 @@
       "tag": "technology"
     },
     {
-      "title": "AirDoctor Coupon Codes: 40% Off | July 2026",
-      "desc": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "title": "Corsair Discount Code: Up to 50% Off for July 2026",
+      "desc": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+      "link": "https://www.wired.com/story/corsair-coupon/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 05:00:00 +0000",
       "source": "Wired",
@@ -540,15 +576,6 @@
       "rawDate": "Tue, 28 Jul 2026 03:23:24 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Trump says stable economy is en route during speech at Michigan automaker",
-      "desc": "In front of a crowd of over a thousand, President Donald Trump told Michiganders at a GM facility in Milford on Monday that the stable economy they’re seeking is en route.",
-      "link": "https://www.mlive.com/politics/2026/07/trump-says-stable-economy-is-en-route-during-speech-at-michigan-automaker.html",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 22:57:36 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Benedict Cumberbatch, Alan Cumming and Benedict Wong urge UK to take action against Paramount-Warner Bros. merger",
@@ -668,15 +695,6 @@
       "tag": "safety"
     },
     {
-      "title": "Cyclospora outbreak not under control yet, says former FDA commissioner",
-      "desc": "Scott Gottlieb, the former commissioner of the Food and Drug Administration (FDA), said Sunday the agency does not yet have the outbreak of cyclosporiasis under control.  “I don't think it's under con",
-      "link": "https://thehill.com/policy/healthcare/5991428-gottlieb-fda-cyclospaoriasis-outbreak/",
-      "date": "Jul 26, 2026",
-      "rawDate": "Sun, 26 Jul 2026 22:51:16 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Nearly 8 in 10 Americans say Iran war has been harder than Trump administration expected: Poll",
       "desc": "As the U.S. war with Iran approaches the five-month mark, a new survey indicates that more than three-fourths of 2,193 respondents believe the Trump administration has had more difficulty navigating t",
       "link": "https://thehill.com/homenews/administration/5991332-trump-iran-war-poll/",
@@ -693,15 +711,6 @@
       "rawDate": "Sun, 26 Jul 2026 20:56:56 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Live updates: Sen. John Kennedy says US should not &#039;cut and run&#039; from Iran; Cyclospora tests Trump admin",
-      "desc": "Sen. John Kennedy (R-La.) on Sunday said President Trump likes the daily strikes on Iran, which paused going into the weekend after nearly two straight weeks of attacks on Iranian infrastructure. “I t",
-      "link": "https://thehill.com/homenews/5990529-live-updates-midterms-jackson-collins-cyclospora-trump/",
-      "date": "Jul 26, 2026",
-      "rawDate": "Sun, 26 Jul 2026 20:11:46 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "GOP rep: Trump &#039;would be derelict in his duty&#039; if Iran had nuclear weapon, despite war&#039;s unpopularity",
@@ -855,15 +864,6 @@
       "rawDate": "Fri, 24 Jul 2026 11:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "OpenAI’s breach of Hugging Face stokes fears about what’s next for AI",
-      "desc": "Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology startup Hugging Face.  The inci",
-      "link": "https://thehill.com/policy/technology/5987397-openai-hugging-face-hack/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Expect this setlist, or close to it, for Morgan Wallen’s Michigan Stadium concerts",

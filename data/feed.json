@@ -1,6 +1,87 @@
 {
-  "generated": "2026-07-28T07:35:18.167Z",
+  "generated": "2026-07-28T10:26:32.174Z",
   "news": [
+    {
+      "title": "Study links heavy TV watching to brain changes tied to Alzheimer&#039;s",
+      "desc": "Heavy TV viewers had smaller brain volumes and white matter damage tied to cognitive decline.",
+      "link": "https://thehill.com/policy/healthcare/5993349-alzheimers-disease-study-watching-tv/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 10:19:44 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Polling expert warns Trump could crush Democrats in 2026. Here are the ‘red flags’ why.",
+      "desc": "Enten said that while Democrats are favored to win the 2026 midterms, the GOP still has a number of advantages ahead of the November elections",
+      "link": "https://www.mlive.com/politics/2026/07/polling-expert-warns-trump-could-crush-democrats-in-2026-here-are-the-red-flags-why.html",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 10:00:01 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump, Thune clash over canceling August recess to debate SAVE America Act",
+      "desc": "President Trump and Senate Majority Leader John Thune (R-S.D.) clashed on Monday over the idea of canceling the Senate’s August recess to debate the Safeguard American Voter Eligibility (SAVE America)",
+      "link": "https://thehill.com/homenews/senate/5993113-save-america-act-recess-fight/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats still suffering from Bernie burnout",
+      "desc": "Sen. Bernie Sanders (I-Vt.) may not have accomplished very much in terms of policy in 35 years in Congress and two presidential runs, but Democrats are very much living in a party that is the creation",
+      "link": "https://thehill.com/homenews/campaign/5992413-new-hampshire-primary-legacy/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats lose patience with embattled DNC chair",
+      "desc": "Democrats say they have lost patience with Democratic National Committee (DNC) Chair Ken Martin amid his precarious tenure at the national party. Some members of the party see the problems facing Mart",
+      "link": "https://thehill.com/homenews/campaign/5992626-democrats-patience-dnc-ken-martin-midterms/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "5 questions as Trump faces limits of mass bombings in Iran",
+      "desc": "President Trump’s decision last week to halt the U.S. bombing campaign around the Strait of Hormuz may have revealed the limits of what the administration can accomplish through air power alone. Trump",
+      "link": "https://thehill.com/homenews/administration/5993042-us-munitions-stockpiles-dwindle-war/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "desc": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "7-OH Users Are Stockpiling and Doing Reddit Detoxes to Prep for Ban",
+      "desc": "The opioid-like compound, which is found in kratom, can cause brutal withdrawal symptoms and will soon be a controlled substance. Some users tell WIRED it has relieved their pain and anxiety.",
+      "link": "https://www.wired.com/story/7-oh-users-brace-for-dea-ban/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "House Democrats add 5 candidates to ‘Red to Blue’ list after primaries, redistricting",
+      "desc": "The Democratic Congressional Campaign Committee (DCCC) on Tuesday announced it is adding five new candidates to its “Red to Blue” slate targeting House seats that it hopes to flip from Republican to D",
+      "link": "https://thehill.com/homenews/campaign/5992984-dccc-adds-five-red-blue-candidates/",
+      "date": "Jul 28, 2026",
+      "rawDate": "Tue, 28 Jul 2026 09:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Hugging Face Has a Deepfake Nudes Problem",
       "desc": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
@@ -137,15 +218,6 @@
       "tag": "government"
     },
     {
-      "title": "Paul releases Fauci&#039;s diary entries ahead of hearing",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare Health Care &#8202; The Big Story  Paul releases Fauci's diary entries ahead of hearing Former White House chief medical adviser Anthony Fauci ",
-      "link": "https://thehill.com/newsletters/healthcare/5993022-paul-releases-faucis-diary-entries-ahead-of-hearing/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 21:57:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "‘It wasn’t a matter of if but when’: ICE activity reported in Saginaw Township",
       "desc": "The incident occurred about 11 a.m. on Saturday, July 25, on Summit Drive between North Center Road and Rolling Green Place.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/it-wasnt-a-matter-of-if-but-when-ice-activity-reported-in-saginaw-township.html",
@@ -153,15 +225,6 @@
       "rawDate": "Mon, 27 Jul 2026 21:51:21 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Canada tariff fight hands Democrats cudgel in Michigan midterm races",
-      "desc": "Escalating trade tensions between the U.S. and Canada could play into Democratic messaging around the economy, particularly in the battleground state of Michigan, which has some of the highest cross-b",
-      "link": "https://thehill.com/homenews/administration/5992967-trump-canada-tariffs-michigan-economy/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 21:49:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "40 percent report buying less produce amid cyclospora outbreak: Poll",
@@ -173,22 +236,13 @@
       "tag": "health"
     },
     {
-      "title": "Federal panel votes to propose changes to historic preservation rules that Trump administration says holds up projects",
-      "desc": "A federal panel on Friday voted to advance a revamp of the nation’s historic preservation rules that Trump administration officials say slow down projects. The Advisory Council on Historic Preservatio",
-      "link": "https://thehill.com/policy/energy-environment/5992963-donald-trump-dc-arch-historic-preservation/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 21:44:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Top Democrat calls on Taylor Farms to provide information on Trump administration cyclospora communications",
       "desc": "Rep. Robert Garcia (D-Calif.), the ranking member of the House Oversight and Government Reform Committee, on Monday called on Taylor Farms to provide information about its connections with the White H",
       "link": "https://thehill.com/homenews/house/5992816-lettuce-outbreak-white-house-influence/",
       "date": "Jul 27, 2026",
       "rawDate": "Mon, 27 Jul 2026 21:17:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Teen arrested in Grand Rapids area shooting that killed man in vehicle",
@@ -412,15 +466,6 @@
       "link": "https://www.mlive.com/politics/2026/07/pop-star-appalled-and-angry-after-white-house-uses-her-song-in-tiktok-video.html",
       "date": "Jul 27, 2026",
       "rawDate": "Mon, 27 Jul 2026 13:18:53 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump visits Michigan before primary amid Canada tariff backlash, Gordie Howe Bridge opening",
-      "desc": "President Donald Trump will tour a GM facility on Monday and is expected to defend his tariffs and talk about the economy during a rally before the Aug. 4 primary election.",
-      "link": "https://www.mlive.com/politics/2026/07/trump-visits-michigan-before-primary-amid-canada-tariff-backlash-gordie-howe-bridge-opening.html",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 12:14:35 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
@@ -695,15 +740,6 @@
       "tag": "health"
     },
     {
-      "title": "US exceeds measles cases in all of 2025 by July 2026",
-      "desc": "The Centers for Disease Control and Prevention's (CDC) tally of 2026 measles cases has officially surpassed the annual total of last year, with more then 2,300 cases reported from across most of the c",
-      "link": "https://thehill.com/policy/healthcare/5988933-us-measles-worst-three-decades/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 18:27:51 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Trump fires back at EU over Google&#039;s $1B fine, launches probe",
       "desc": "President Trump on Friday slammed the European Union for fining Google over allegedly violating its digital competition law, stating the \"illegal and highly discriminatory practice\" will be probed in ",
       "link": "https://thehill.com/policy/technology/5988736-trump-eu-google-fine-investigation/",
@@ -727,15 +763,6 @@
       "link": "https://thehill.com/policy/international/5988476-netanyahu-trump-iran-meeting-lindsey-graham/",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 17:15:35 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Romania shoots down unidentified drone breaching its airspace",
-      "desc": "A Romanian fighter jet shot down a drone that entered the country’s airspace Friday, marking the first time the NATO state has done so. The drone was detected through a radar surveillance system while",
-      "link": "https://thehill.com/policy/international/5988592-romanian-army-investigates-iran-design-drone/",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 16:36:18 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

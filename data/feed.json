@@ -1,19 +1,91 @@
 {
-  "generated": "2026-07-29T08:24:40.518Z",
+  "generated": "2026-07-29T11:15:17.356Z",
   "news": [
     {
-      "title": "B&amp;H Photo Promo Codes and Deals This July 2026",
-      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "title": "Disruptive behavior on the rise in downtown Ann Arbor, police calls show",
+      "desc": "MLive analyzed 100 calls for police response across downtown Ann Arbor.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/disruptive-behavior-on-the-rise-in-downtown-ann-arbor-police-calls-show.html",
       "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 05:00:00 +0000",
+      "rawDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Mac Mini Availability: Long Waits and Higher Prices",
+      "desc": "Thanks to the surge in local AI processing and the ongoing memory shortage, it’s incredibly difficult to buy a Mac Mini.",
+      "link": "https://www.wired.com/story/mac-mini-availability/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 11:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Hostinger Promo Code: 79% Off for August 2026",
-      "desc": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "link": "https://www.wired.com/story/hostinger-coupon-code/",
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+      "desc": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+      "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump demands throw Senate GOP into disarray",
+      "desc": "President Trump’s demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance a budget reconciliation package to fund the Iran wa",
+      "link": "https://thehill.com/homenews/senate/5995254-trump-senate-gop-recess/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lawmakers eye reforms as sexual misconduct allegations, relationship revelations shake Capitol Hill",
+      "desc": "Capitol Hill may be headed for another reckoning as sexual misconduct allegations against lawmakers — coupled with new revelations of consensual relationships between lawmakers and staffers — have rei",
+      "link": "https://thehill.com/homenews/house/5995360-congressional-sexual-misconduct-reform-push/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats fear viral DSA interview on Fox News will leave a scar",
+      "desc": "Democrats are worried that widely circulated comments from a Democratic Socialists of America (DSA) leader outlining the group's priorities could become Republican attack fodder as the midterm electio",
+      "link": "https://thehill.com/homenews/campaign/5995289-romer-fox-news-interview-blowback/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pentagon, under Trump, Hegseth, draws curtain tighter around Iran War",
+      "desc": "The Pentagon is drawing wide-ranging scrutiny over its increasing opacity about the mounting toll from the Iran war.  From reclassifying the deaths and injuries of service members and not disclosing h",
+      "link": "https://thehill.com/policy/defense/5995444-pentagon-scrutiny-iran-war-transparency/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "desc": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’",
+      "desc": "One day after a federal judge ordered an ICE detention center opened to state health inspectors, the agency posted new contract terms that would void state oversight at four facilities.",
+      "link": "https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "B&amp;H Photo Promo Codes and Deals This July 2026",
+      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 05:00:00 +0000",
       "source": "Wired",
@@ -83,15 +155,6 @@
       "tag": "government"
     },
     {
-      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "desc": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 00:15:30 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Senate confirms Jay Clayton as director of national intelligence",
       "desc": "The Senate on Tuesday confirmed Jay Clayton as director of national intelligence (DNI) in a 51-47 party-line vote, potentially reviving a stalled battle over renewing the nation’s warrantless spy powe",
       "link": "https://thehill.com/homenews/senate/5995382-senate-confirms-jay-clayton-as-intel-chief/",
@@ -119,22 +182,13 @@
       "tag": "safety"
     },
     {
-      "title": "Jensen hits the Hill",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story  Nvidia's Huang hits Capitol Hill amid open-source debate Nvidia CEO Jensen Huang made a trip to Capitol Hill on Tuesday, as his company has become",
-      "link": "https://thehill.com/newsletters/technology/5995493-jensen-hits-the-hill/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 22:31:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Fauci set for high-profile hearing after Paul released diaries",
       "desc": "Former chief White House medical adviser Anthony Fauci is set to be under the microscope for a tough Senate hearing on Wednesday, just days after Sen. Rand Paul (R-Ky.) released more than 1,000 pages ",
       "link": "https://thehill.com/policy/healthcare/5995285-fauci-diary-senate-hearing-rand-paul/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 22:22:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Boeing takes $280 million hit on troubled Air Force One program",
@@ -162,24 +216,6 @@
       "rawDate": "Tue, 28 Jul 2026 21:47:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Corporate boardroom diversity sinks to lowest in more than a decade: Analysis",
-      "desc": "A new analysis released Tuesday shows corporate boardroom diversity among S&#38;P 500 companies has dropped to its lowest level in more than a decade.  The analysis from global advisory search firm Sp",
-      "link": "https://thehill.com/business/5995257-corporate-boardroom-diversity-sinks-to-lowest-in-more-than-a-decade-analysis/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 21:26:20 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
-      "desc": "For months on end, eBay employees and contractors made life hell for a couple that had criticized the company. Six years later, the company is finally paying up.",
-      "link": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 20:15:19 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Americans support Netanyahu arrest by 22-point margin: Survey",
@@ -243,15 +279,6 @@
       "rawDate": "Tue, 28 Jul 2026 19:41:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Laura Loomer’s Reversal on Ukraine Stirs Up the MAGA Civil War",
-      "desc": "Donald Trump’s base has been increasingly spilt. Laura Loomer’s sudden embrace of Ukraine has only widened that divide.",
-      "link": "https://www.wired.com/story/laura-loomer-ukraine/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 19:30:33 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Flint woman sentenced for being teen boyfriend’s getaway driver in attempted shooting",
@@ -470,16 +497,7 @@
       "tag": "health"
     },
     {
-      "title": "Warrant issued for Saginaw man after he skips trial on child abuse charges",
-      "desc": "The man allegedly choked two children the day after his 27th birthday.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/warrant-issued-for-saginaw-man-after-he-skips-trial-on-child-abuse-charges.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 14:01:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump responds to Fauci diaries: ‘I grew tired of him&#039;",
+      "title": "Trump responds to Fauci diaries: ��I grew tired of him&#039;",
       "desc": "President Trump responded to recently released entries from Dr. Anthony Fauci on Tuesday, saying he grew tired of the former White House medical adviser.  \"He was a much bigger player in the Biden adm",
       "link": "https://thehill.com/homenews/administration/5993687-donald-trump-rand-paul-anthony-fauci-diaries/",
       "date": "Jul 28, 2026",
@@ -531,15 +549,6 @@
       "rawDate": "Tue, 28 Jul 2026 12:55:46 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
-      "desc": "Your mom never gets you a thoughtless gift, so you shouldn’t get her one, either. Here’s every cool gift WIRED writers would give their mothers.",
-      "link": "https://www.wired.com/story/best-gifts-for-mom-2026/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 12:04:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Study links heavy TV watching to brain changes tied to Alzheimer&#039;s",
@@ -682,15 +691,6 @@
       "link": "https://thehill.com/homenews/administration/5991332-trump-iran-war-poll/",
       "date": "Jul 26, 2026",
       "rawDate": "Sun, 26 Jul 2026 21:39:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "New UK defense secretary says Trump has shaken Europe &#039;out of our complacency&#039;",
-      "desc": "Wes Streeting, the new secretary of state for defense in the U.K., indicated Sunday he is willing to work with the Trump administration on matters of common interest. ���The first thing you do is, you",
-      "link": "https://thehill.com/policy/international/5991296-uk-defence-secretary-trump-nato/",
-      "date": "Jul 26, 2026",
-      "rawDate": "Sun, 26 Jul 2026 20:56:56 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

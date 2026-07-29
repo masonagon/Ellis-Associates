@@ -1,6 +1,51 @@
 {
-  "generated": "2026-07-29T20:43:34.432Z",
+  "generated": "2026-07-29T21:52:18.444Z",
   "news": [
+    {
+      "title": "4 Democrats vie for Muskegon Charter Township trustee seat",
+      "desc": "The primary election is on Aug. 4. Incumbent trustees Greg Bouwman and Dave Kieft Jr. are running alongside Cynthia Rachelle Green and Shawn Roberson.",
+      "link": "https://www.mlive.com/news/muskegon/2026/07/4-democrats-vie-for-muskegon-charter-township-trustee-seat.html",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 21:49:43 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Dow sinks 1,100 points after Fed holds off on hike",
+      "desc": "Stocks fell sharply on Wednesday as the Federal Reserve held interest rates steady again despite continued inflation pressure.  The Dow Jones Industrial Average closed 1,153.18 points, or 2.19 percent",
+      "link": "https://thehill.com/business/5998165-stocks-fall-fed-steady/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 21:34:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fauci&#039;s legal protection from pardon, Fifth Amendment is an open question",
+      "desc": "Anthony Fauci, the former COVID czar, is set to face a contempt vote in a Senate panel next week after he asserted his Fifth Amendment rights during a hearing about his response to the pandemic.  Sena",
+      "link": "https://thehill.com/homenews/5997714-anthony-fauci-fifth-amendment-pardon-contempt-vote-legal-exposure/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 21:34:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "WMU opens new $110M dorm designed for ‘students of today’",
+      "desc": "“Do they have anything like this up in Mount Pleasant?” WMU President Russ Kavalhuna asked the crowd, referencing WMU’s rival, Central Michigan University.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/07/wmu-opens-new-110m-dorm-designed-for-students-of-today.html",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 21:18:06 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
+      "desc": "Save up to $100 on Apple’s latest AirPods models before prices go back up.",
+      "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 20:44:10 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Trump shrugs off Cornyn&#039;s hold on Blanche: &#039;I heard he&#039;s going through quite nicely&#039;",
       "desc": "President Trump brushed off concerns that Sen. John Cornyn (R-Texas) could hold up acting Attorney General Todd Blanche’s nomination in the Senate on Wednesday, saying he heard the process is going “q",
@@ -12,7 +57,7 @@
     },
     {
       "title": "Trump announces sweeping renovation of Dulles airport",
-      "desc": "President Trump announced a $22 billion makeover for Dulles International Airport on Wednesday that includes new terminals and will do away with the airport's infamous “people mover” shuttles. \"Whethe",
+      "desc": "President Trump announced a $22 billion makeover for Dulles International Airport Wednesday that includes new terminals and will do away with the airport's infamous “people mover” shuttles. \"Whether y",
       "link": "https://thehill.com/homenews/administration/5998019-dulles-airport-makeover-plan/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 20:36:09 +0000",
@@ -119,33 +164,6 @@
       "tag": "government"
     },
     {
-      "title": "Americans split on understanding of democratic socialism: Survey",
-      "desc": "Americans are split on their understanding of democratic socialism as candidates aligned with the movement lock down wins in Democratic Party primaries across the country, according to a new poll. In ",
-      "link": "https://thehill.com/homenews/campaign/5997683-poll-shows-split-democratic-socialism/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:30:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Fauci invokes Fifth at Senate COVID hearing; Trump, Duffy reveal major Dulles revamp",
-      "desc": "Dr. Anthony Fauci, a face of the government's pandemic response, invoked his Fifth Amendment right to decline to answer questions before the Senate Homeland Security panel and a critical Sen. Rand Pau",
-      "link": "https://thehill.com/homenews/administration/5995332-live-updates-fauci-senate-rand-paul-trump-iran/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:28:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Haberman knocks Trump &#039;bullying campaigns&#039;",
-      "desc": "New York Times White House correspondent Maggie Haberman called President Trump’s $15 billion lawsuit against the publication a “bullying campaign.” In an interview on MS NOW's \"The Weeknight,\" host M",
-      "link": "https://thehill.com/homenews/administration/5997691-haberman-trump-nyt-lawsuit-intimidation/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:24:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "DoorDash expands beyond drivers with new drone delivery program",
       "desc": "Drone delivery is currently available in parts of Dallas-Fort Worth and Charlotte.",
       "link": "https://thehill.com/business/5997588-doordash-expands-new-drone-delivery-service/",
@@ -182,8 +200,8 @@
       "tag": "government"
     },
     {
-      "title": "Senate Democrats press Meta on AI safeguards for &#039;at-risk users&#039;",
-      "desc": "Two Democrats on the Senate Special Committee on Aging sent a letter to tech giant Meta asking what safeguards the company has in place to protect “at-risk users,” while AI scams are on the rise acros",
+      "title": "Senate Democrats press tech giants on AI safeguards for &#039;at-risk users&#039;",
+      "desc": "Two Democrats on the Senate Special Committee on Aging sent letters to tech giants Meta, OpenAI and X asking what safeguards the companies have in place to protect “at-risk users,” while AI scams are ",
       "link": "https://thehill.com/policy/technology/5997499-senators-ask-meta-ai-safeguards/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 18:51:01 +0000",
@@ -542,15 +560,6 @@
       "tag": "safety"
     },
     {
-      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
-      "desc": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
-      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance",
       "desc": "Sen. Susan Collins (R-Maine) said Tuesday that the State Department is set to reinstate funding for a global humanitarian vaccine program after the Trump administration previously paused the program. ",
       "link": "https://thehill.com/policy/healthcare/5995754-collins-says-gavi-funding-reinstated/",
@@ -731,15 +740,6 @@
       "tag": "safety"
     },
     {
-      "title": "Patmos Library asking voters to approve millage renewal",
-      "desc": "Jamestown Charter Township is asking voters to authorize the renewal of its library millage on Tuesday, Aug. 4.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/patmos-library-asking-voters-to-approve-millage-renewal.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 18:30:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pentagon removes ex-DNI Clapper&#039;s name from auditorium at DIA headquarters",
       "desc": "The Pentagon has stripped the name of former Director of National Intelligence (DNI) James Clapper from an auditorium named in his honor at the headquarters of the Defense Intelligence Agency (DIA).  ",
       "link": "https://thehill.com/policy/defense/5994834-dia-renames-leadership-hall/",
@@ -765,15 +765,6 @@
       "rawDate": "Tue, 28 Jul 2026 17:45:53 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Study finds alarming level of microplastics in heart attack patients&#039; blood",
-      "desc": "Researchers found plastic particles in many heart attack patients' blood, raising new questions about health risks.",
-      "link": "https://thehill.com/policy/healthcare/5994113-study-alarming-level-microplastics-heart-attack-patients/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 17:34:12 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Warren on Pentagon&#039;s Iran death toll revision: &#039;An act of cruelty&#039;",
@@ -889,15 +880,6 @@
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/bangor-township-schools-board-vice-president-resigns.html",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 13:04:28 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Siena Heights to bring nursing programs to university north of Ann Arbor",
-      "desc": "Cleary University will transition three accredited nursing programs from Siena Heights University to Livingston County as soon as spring 2027, addressing a critical gap in local healthcare education a",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/siena-heights-to-bring-nursing-programs-to-university-north-of-ann-arbor.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 12:53:09 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

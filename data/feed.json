@@ -1,6 +1,69 @@
 {
-  "generated": "2026-07-28T23:53:08.468Z",
+  "generated": "2026-07-29T01:51:24.065Z",
   "news": [
+    {
+      "title": "Ex-Trump health official shocked by Fauci&#039;s &#039;unabashed narcissism&#039; from diaries",
+      "desc": "A former Trump health official on Tuesday slammed Dr. Anthony Fauci over his recently-released journal entries. “I'd like to see honesty and transparency and I'd like Tony to come clean with all the t",
+      "link": "https://thehill.com/policy/healthcare/5995694-giroir-slams-fauci-diary/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 01:39:35 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "South Dakota governor fends off challenger in primary runoff",
+      "desc": "Gov. Larry Rhoden (R) is projected to defeat businessman Toby Doeden in Tuesday's GOP primary runoff for South Dakota governor, according to Decision Desk HQ.  Rhoden will now take on Democrat Dan Ahl",
+      "link": "https://thehill.com/homenews/campaign/5994448-rhoden-wins-sd-gop-runoff/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 01:19:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Special election for Scott&#039;s House seat in Georgia heads to runoff",
+      "desc": "The special election to fill the remainder of the late Rep. David Scott’s (D-Ga.) term in the House is headed to a runoff, according to Decision Desk HQ.  None of the five candidates jostling for the ",
+      "link": "https://thehill.com/homenews/campaign/5972356-marcye-scott-special-election-runoff/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 00:55:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Zelensky asks senators for air defenses, tells them Ukraine is winning war",
+      "desc": "Ukrainian President Volodymyr Zelensky met with senators in the Capitol on Tuesday to press his case for additional U.S. support for Ukraine, specifically anti-ballistic missiles, and to emphasize his",
+      "link": "https://thehill.com/policy/international/5995622-zelensky-senate-russia-ukraine-war-sanctions-missiles/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 00:51:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Epstein, 46 others linked to decades of sex assaults at Interlochen, over 70 victims",
+      "desc": "An investigative report two years in the making was released Tuesday, July 28, detailing decades of sexual abuse at Interlochen Center for the Arts by staff, trustees, visiting artists and Jeffrey Eps",
+      "link": "https://www.mlive.com/news/2026/07/epstein-46-others-linked-to-decades-of-sex-assaults-at-interlochen-over-70-victims.html",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 00:36:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Senate advances Graham bill to put harsher sanctions on Russia, Iran",
+      "desc": "The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas than the U.S. has previously enforced and extend ex",
+      "link": "https://thehill.com/homenews/senate/5994964-senate-advances-russia-iran-sanctions/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 00:27:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "desc": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 00:15:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Senate confirms Jay Clayton as director of national intelligence",
       "desc": "The Senate on Tuesday confirmed Jay Clayton as director of national intelligence (DNI) in a 51-47 party-line vote, potentially reviving a stalled battle over renewing the nation’s warrantless spy powe",
@@ -88,42 +151,6 @@
       "link": "https://thehill.com/business/5995257-corporate-boardroom-diversity-sinks-to-lowest-in-more-than-a-decade-analysis/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 21:26:20 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Judge orders release of Houston ICE shooting witness",
-      "desc": "A federal judge in Houston ordered the Department of Homeland Security (DHS) on Monday to release a man who witnessed federal immigration officers fatally shooting Lorenzo Salgado Araujo earlier this ",
-      "link": "https://thehill.com/regulation/court-battles/5995138-judge-orders-dhs-release-witness/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 21:21:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Rhoden fights to hang on to South Dakota governor&#039;s mansion in GOP primary runoff",
-      "desc": "Republican voters in South Dakota will once again head to the polls Tuesday to weigh in on a heated gubernatorial primary runoff.   Gov. Larry Rhoden (R) is vying for a full term leading the Mount Rus",
-      "link": "https://thehill.com/homenews/campaign/5983409-live-results-south-dakota-governor-gop-runoff-rhoden-doeden/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Georgia holds special election for late David Scott&#039;s House seat",
-      "desc": "Voters in Georgia's 13th Congressional District are at the polls Tuesday for a special election to fill late Rep. David Scott's (D) seat. Scott passed away in April at age 80, leaving the seat in the ",
-      "link": "https://thehill.com/homenews/campaign/5983412-live-results-georgia-house-special-election-david-scott/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "List of &#8216;best&#8217; states released by US News. These 5 rank as the very worst",
-      "desc": "The ranking is based on scores across 71 metrics, from crime to infrastructure to economic opportunities.",
-      "link": "https://thehill.com/homenews/state-watch/5995127-list-of-best-states-released-by-us-news-these-5-rank-as-the-very-worst/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 20:58:35 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
     },
@@ -488,15 +515,6 @@
       "tag": "government"
     },
     {
-      "title": "DHS confirms ICE arrested 9 men at Saginaw Township construction site",
-      "desc": "The arrests happened at a construction site on Summit Drive where workers were installing fiber-optic cables. Community members have left signs expressing solidarity at the location.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/dhs-confirms-ice-arrested-9-men-at-saginaw-township-construction-site.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 12:51:41 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
       "desc": "Your mom never gets you a thoughtless gift, so you shouldn’t get her one, either. Here’s every cool gift WIRED writers would give their mothers.",
       "link": "https://www.wired.com/story/best-gifts-for-mom-2026/",
@@ -565,15 +583,6 @@
       "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 05:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
-      "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 05:02:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -686,15 +695,6 @@
       "tag": "safety"
     },
     {
-      "title": "Compounded GLP-1 drugs creating concern among doctors and FDA",
-      "desc": "They're often cheaper and easier to get than Ozempic, but doctors say compounded GLP-1 drugs come with serious risks.",
-      "link": "https://thehill.com/policy/healthcare/5991455-compounded-glp-1-drugs-creating-concern-among-doctors-and-fda/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 11:14:38 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "GOP senators warn confidence in Hegseth eroding as Iran war drags on",
       "desc": "Republican senators say that confidence is waning in Defense Secretary Pete Hegseth's leadership of the U.S. armed forces as the war with Iran drags on without an end in sight. They are also warning t",
       "link": "https://thehill.com/homenews/senate/5989578-senate-rnc-defense-leadership-crisis/",
@@ -718,15 +718,6 @@
       "link": "https://thehill.com/policy/international/5991296-uk-defence-secretary-trump-nato/",
       "date": "Jul 26, 2026",
       "rawDate": "Sun, 26 Jul 2026 20:56:56 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "GOP rep: Trump &#039;would be derelict in his duty&#039; if Iran had nuclear weapon, despite war&#039;s unpopularity",
-      "desc": "GOP Rep. Byron Donalds (Fla.) on Sunday defended President Trump’s handling of the war with Iran. “Nobody wants war. I think if you were going to ask Americans at large, whether they're MAGA Republica",
-      "link": "https://thehill.com/homenews/house/5991251-byron-donalds-defends-trump-iran/",
-      "date": "Jul 26, 2026",
-      "rawDate": "Sun, 26 Jul 2026 19:59:59 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-29T21:52:18.444Z",
+  "generated": "2026-07-29T22:53:28.735Z",
   "news": [
+    {
+      "title": "More now say AI does more harm than good: Survey",
+      "desc": "More Americans now believe AI does more harm than good as concerns grow over the technology’s long-term impact, according to a recent survey. A new Bentley University-Gallup survey released on Tuesday",
+      "link": "https://thehill.com/homenews/5998236-americans-distrust-ai-jobs/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 22:42:48 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump says he &#039;respects&#039; Biden&#039;s pardon of Fauci",
+      "desc": "President Trump said Wednesday he respects former President Biden’s pardon of Dr. Anthony Fauci, after the retired health official invoked the Fifth Amendment more than 100 times during a Senate heari",
+      "link": "https://thehill.com/homenews/administration/5998179-trump-respects-biden-fauci-pardon/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 22:27:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Interlochen allowed faculty to sign out students overnight, leading to alleged sexual assaults, report shows",
+      "desc": "An investigation found that decades of unfettered staff-student interactions at Interlochen led to dozens of alleged sexual assaults. Alleged assaults by Jeffrey Epstein were also included in the repo",
+      "link": "https://www.mlive.com/news/2026/07/interlochen-allowed-faculty-to-sign-out-students-overnight-leading-to-alleged-sexual-assaults-report-shows.html",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 22:23:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Iran’s surprise attack in Jordan blows up pause in fighting",
+      "desc": "Iran’s surprise attack on U.S. forces in Jordan is threatening to blow up the temporary pause in fighting between the two sides.  The Iranian Revolutionary Guard Corps (IRGC) fired ballistic missiles ",
+      "link": "https://thehill.com/policy/defense/5998256-trump-threatens-iran-retaliation/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 22:11:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "4 Democrats vie for Muskegon Charter Township trustee seat",
       "desc": "The primary election is on Aug. 4. Incumbent trustees Greg Bouwman and Dave Kieft Jr. are running alongside Cynthia Rachelle Green and Shawn Roberson.",
@@ -11,8 +47,17 @@
       "tag": "government"
     },
     {
+      "title": "Fauci answers no questions during 3-hour Senate hearing",
+      "desc": "Click in for more news from The Hill {beacon} Healthcare Health Care &#8202; The Big Story  Fauci answers no questions during 3-hour Senate hearing  Anthony Fauci, the nation's leading infectious dise",
+      "link": "https://thehill.com/newsletters/healthcare/5998196-fauci-answers-no-questions-during-3-hour-senate-hearing/",
+      "date": "Jul 29, 2026",
+      "rawDate": "Wed, 29 Jul 2026 21:40:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Dow sinks 1,100 points after Fed holds off on hike",
-      "desc": "Stocks fell sharply on Wednesday as the Federal Reserve held interest rates steady again despite continued inflation pressure.  The Dow Jones Industrial Average closed 1,153.18 points, or 2.19 percent",
+      "desc": "Stocks fell sharply Wednesday as the Federal Reserve held interest rates steady again despite continued inflation pressure.  The Dow Jones Industrial Average closed down 1,153.18 points, or 2.19 perce",
       "link": "https://thehill.com/business/5998165-stocks-fall-fed-steady/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 21:34:58 +0000",
@@ -21,7 +66,7 @@
     },
     {
       "title": "Fauci&#039;s legal protection from pardon, Fifth Amendment is an open question",
-      "desc": "Anthony Fauci, the former COVID czar, is set to face a contempt vote in a Senate panel next week after he asserted his Fifth Amendment rights during a hearing about his response to the pandemic.  Sena",
+      "desc": "Former chief White House medical adviser and COVID-19 czar Dr. Anthony Fauci is set to face a contempt vote in a Senate panel next week after he asserted his Fifth Amendment rights during a hearing ab",
       "link": "https://thehill.com/homenews/5997714-anthony-fauci-fifth-amendment-pardon-contempt-vote-legal-exposure/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 21:34:26 +0000",
@@ -88,8 +133,8 @@
       "link": "https://thehill.com/policy/healthcare/5997913-fauci-invokes-fifth-covid-hearing-senate/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 20:10:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Trump loses ground with GOP as overall approval sinks to 32 percent: Quinnipiac poll",
@@ -97,8 +142,8 @@
       "link": "https://thehill.com/homenews/administration/5997864-trump-approval-rating-low/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 20:00:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Pentagon: New casualty category for renewed Iran fighting tied to end of Operation Epic Fury",
@@ -108,15 +153,6 @@
       "rawDate": "Wed, 29 Jul 2026 19:57:50 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Schumer urges Fetterman not to leave Senate Democratic caucus",
-      "desc": "Senate Democratic Leader Chuck Schumer (N.Y.) on Wednesday urged Sen. John Fetterman (D-Pa.) to stay in the Senate Democratic Conference and praised him as a “very good” member of Congress, despite gr",
-      "link": "https://thehill.com/homenews/senate/5997814-schumer-fetterman-democratic-party/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:50:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "VanWoerkom, Frasier square off in Republican primary for 88th House District",
@@ -135,24 +171,6 @@
       "rawDate": "Wed, 29 Jul 2026 19:47:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "TMZ&#039;s Levin backs &#039;amazing public servant&#039; Fauci following hearing",
-      "desc": "TMZ founder Harvey Levin is sticking up for Dr. Anthony Fauci as the nation's former top infectious disease expert was hit with attacks from Republicans during a contentious Senate hearing Wednesday. ",
-      "link": "https://thehill.com/homenews/media/5997759-harvey-levin-tmz-anthony-fauci-senate-hearing/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:45:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate unanimously agrees to oppose pardon for Ghislaine Maxwell",
-      "desc": "The Senate unanimously agreed Wednesday that Ghislaine Maxwell, a convicted sex offender and collaborator of Jeffrey Epstein, should not be allowed a presidential pardon or clemency of any kind. The r",
-      "link": "https://thehill.com/homenews/senate/5997699-senate-ghislaine-maxwell-pardon/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:35:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "New poll puts El-Sayed 10 points ahead of Stevens as election day nears",
@@ -704,15 +722,6 @@
       "tag": "government"
     },
     {
-      "title": "Assault, animal cruelty among additional charges filed against Genesee County businessman",
-      "desc": "Ronald Newton Jr. now faces three separate cases involving sexual assault, home invasion, and animal cruelty in Genesee County.",
-      "link": "https://www.mlive.com/news/flint/2026/07/assault-animal-cruelty-among-additional-charges-filed-against-genesee-county-businessman.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 19:41:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Pentagon to rename Charleston base for Graham: Report",
       "desc": "The Pentagon will reportedly rename a South Carolina military base after the late Sen. Lindsey Graham (R-S.C.), an Air Force veteran, citing his “decades of distinguished service” to Congress and the ",
       "link": "https://thehill.com/policy/defense/5994966-pentagon-renames-base-charleston-lindsey-graham/",
@@ -785,29 +794,11 @@
       "tag": "safety"
     },
     {
-      "title": "Just 1 in 3 support Iran war: Survey",
-      "desc": "The latest polling on the Iran war shows that only 1 in 3 Americans support the ongoing U.S. military operation in the Middle East. The Reuters/Ipsos survey, released Tuesday, found that 33 percent of",
-      "link": "https://thehill.com/policy/international/5993530-reuters-iran-war-support-survey/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 13:25:10 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Benedict Cumberbatch, Alan Cumming and Benedict Wong urge UK to take action against Paramount-Warner Bros. merger",
       "desc": "Benedict Cumberbatch, Alan Cumming and Benedict Wong wrote an op-ed Monday citing the dangers to industry competition, jobs and a concentration of power if Paramount Skydance and Warner Bros. Discover",
       "link": "https://thehill.com/blogs/in-the-know/5992992-cumberbatch-cumming-wong-warn-consolidation/",
       "date": "Jul 27, 2026",
       "rawDate": "Mon, 27 Jul 2026 22:49:03 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "EPA exempts data center power plants from pollution limits seeking to prevent acid rain",
-      "desc": "The Trump administration announced Monday that it is exempting power plants that only serve data centers and do not connect to the broader grid from pollution limits that seek to prevent acid rain. Th",
-      "link": "https://thehill.com/policy/energy-environment/5992657-epa-data-center-power-plants-acid-rain/",
-      "date": "Jul 27, 2026",
-      "rawDate": "Mon, 27 Jul 2026 19:43:11 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

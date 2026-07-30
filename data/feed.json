@@ -1,9 +1,45 @@
 {
-  "generated": "2026-07-29T23:54:47.455Z",
+  "generated": "2026-07-30T01:43:53.745Z",
   "news": [
     {
+      "title": "US military launches strikes on Iran in retaliation for attacks on US base in Jordan",
+      "desc": "The U.S. military began conducting airstrikes against Iran late Wednesday in retaliation for the Iranian Revolutionary Guard Corps (IRGC) attacking a U.S. base in Jordan the day before.  The U.S. forc",
+      "link": "https://thehill.com/policy/defense/5998457-us-military-strikes-iran-retaliation-for-attacks-us-base-jordan/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 00:44:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Ex-West Michigan scout leader sentenced to over 17 years for secretly recording girls",
+      "desc": "The 59-year-old Whitehall man reportedly used hidden cameras over a decade to capture videos of underage girls changing and showering, prosecutors said.",
+      "link": "https://www.mlive.com/news/muskegon/2026/07/ex-west-michigan-scout-leader-sentenced-to-over-17-years-for-secretly-recording-girls.html",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 00:12:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Judiciary Committee cancels vote on Blanche AG nomination amid GOP opposition",
+      "desc": "Senate Judiciary Committee Chair Chuck Grassley (R-Iowa) late Wednesday evening canceled a scheduled meeting to consider the nomination of acting Attorney General Todd Blanche to lead the Justice Depa",
+      "link": "https://thehill.com/homenews/senate/5998411-blanche-attorney-general-nomination-cornyn-tillis/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 00:12:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Florida AG launching investigation into Fauci after Senate hearing",
+      "desc": "Florida Attorney General James Uthmeier said Wednesday he is launching a probe into Dr. Anthony Fauci after the longtime health official invoked the Fifth Amendment more than 100 times during a Senate",
+      "link": "https://thehill.com/homenews/state-watch/5998421-florida-ag-investigates-fauci-senate-hearing/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 00:09:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Man found guilty in federal terrorism prosecution tied to Salman Rushdie stabbing",
-      "desc": "A man has been found guilty in a federal terrorism prosecution tied to the stabbing of author Salman Rushdie four years ago, according to the Department of Justice (DOJ). The DOJ said in a Wednesday p",
+      "desc": "A man has been found guilty in a federal terrorism prosecution tied to the stabbing of author Salman Rushdie four years ago, according to the Justice Department. The Justice Department said in a Wedne",
       "link": "https://thehill.com/regulation/court-battles/5998412-hadi-matar-guilty-rushdie-stabbing-federal-terrorism/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 23:51:26 +0000",
@@ -119,24 +155,6 @@
       "tag": "technology"
     },
     {
-      "title": "Trump shrugs off Cornyn&#039;s hold on Blanche: &#039;I heard he&#039;s going through quite nicely&#039;",
-      "desc": "President Trump brushed off concerns that Sen. John Cornyn (R-Texas) could hold up acting Attorney General Todd Blanche’s nomination in the Senate on Wednesday, saying he heard the process is going “q",
-      "link": "https://thehill.com/homenews/administration/5997978-trump-cornyn-blanche-nomination/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 20:38:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump announces sweeping renovation of Dulles airport",
-      "desc": "President Trump announced a $22 billion makeover for Dulles International Airport Wednesday that includes new terminals and will do away with the airport's infamous “people mover” shuttles. \"Whether y",
-      "link": "https://thehill.com/homenews/administration/5998019-dulles-airport-makeover-plan/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 20:36:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "5 takeaways on Fauci&#039;s hostile Senate hearing, GOP contempt threats",
       "desc": "Former chief White House medical adviser Anthony Fauci's Senate hearing Wednesday ended up being an hours-long opportunity for Republicans to vent criticisms, arguments and theories on the COVID-19 re",
       "link": "https://thehill.com/policy/healthcare/5997913-fauci-invokes-fifth-covid-hearing-senate/",
@@ -144,15 +162,6 @@
       "rawDate": "Wed, 29 Jul 2026 20:10:15 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump loses ground with GOP as overall approval sinks to 32 percent: Quinnipiac poll",
-      "desc": "As public criticism of President Trump’s job performance persists amid the months-long Iran war and resulting strains on the U.S. economy, the president is losing support from some voters in his party",
-      "link": "https://thehill.com/homenews/administration/5997864-trump-approval-rating-low/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 20:00:03 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Pentagon: New casualty category for renewed Iran fighting tied to end of Operation Epic Fury",
@@ -713,15 +722,6 @@
       "tag": "safety"
     },
     {
-      "title": "Police identify 18-year-old found shot to death in vehicle",
-      "desc": "A 17-year-old was arrested, and the case has been submitted to the Kent County Prosecutor’s Office for review.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/police-identify-18-year-old-found-shot-to-death-in-vehicle.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 20:01:16 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Obama’s former right-hand man eyes 2028 presidential bid: I’m thinking ‘really hard’ about it",
       "desc": "“I’m thinking really hard about it,” Rahm Emanuel said about 2028 election.",
       "link": "https://www.mlive.com/politics/2026/07/obamas-former-right-hand-man-eyes-2028-presidential-bid-im-thinking-really-hard-about-it.html",
@@ -738,15 +738,6 @@
       "rawDate": "Tue, 28 Jul 2026 19:01:55 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "5 takeaways on Fauci&#039;s diaries during COVID-19 response",
-      "desc": "In years’ worth of journal entries, Dr. Anthony Fauci wrote about the uncertainty surrounding the origins of COVID-19, the media attention he received during the pandemic and his “unique” relationship",
-      "link": "https://thehill.com/policy/healthcare/5994836-fauci-diary-entries-covid/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 18:54:57 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Mediators see progress in Iran war ceasefire restoration push",
@@ -790,15 +781,6 @@
       "link": "https://thehill.com/policy/defense/5993878-warren-condemns-pentagon-iran-casualties/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 14:40:16 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US air base in South Korea confirms &#039;ground mishap&#039;",
-      "desc": "A reported white phosphorus leak at a U.S. military base in South Korea prompted local authorities to briefly order civilians to evacuate on Tuesday. Officials in Pyeongtaek, near the capital, Seoul, ",
-      "link": "https://thehill.com/policy/defense/5994058-osan-air-base-south-korea-evacuation-ground-mishap/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 14:39:31 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

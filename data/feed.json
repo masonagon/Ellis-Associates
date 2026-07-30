@@ -1,6 +1,123 @@
 {
-  "generated": "2026-07-30T19:12:17.336Z",
+  "generated": "2026-07-30T20:57:58.356Z",
   "news": [
+    {
+      "title": "Musk plans big political ad buy in 8 states: Report",
+      "desc": "Elon Musk is jumping back into the political spending arena ahead of the 2026 midterms with a new field program to help elect Republicans in eight states. The Tesla and SpaceX CEO authorized his super",
+      "link": "https://thehill.com/policy/technology/6000542-musk-plans-big-political-ad-buy-in-8-states-report/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 20:42:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "3 Planned Parenthood health centers close their doors in Michigan",
+      "desc": "Three clinics close permanently following significant federal funding losses, with remaining locations in seven Michigan cities.",
+      "link": "https://www.mlive.com/news/2026/07/3-planned-parenthood-health-centers-close-their-doors-in-michigan.html",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 20:26:16 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lockheed Martin wins $58.6B contract to produce Patriot interceptors",
+      "desc": "The Army has awarded Lockheed Martin a seven-year contract worth up to $58.6 billion to churn out Patriot interceptor missiles in an effort to replenish quickly diminishing U.S. munitions stockpiles. ",
+      "link": "https://thehill.com/policy/defense/6000739-lockheed-martin-contract-patriot-interceptor-missiles-stockpile/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 20:24:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Two families are shattered’: Ypsilanti Township double murderer gets 17 to 40 years in prison",
+      "desc": "Loved ones described the enduring grief left by the 2023 quadruple shooting that killed Dallas Williams, 16, and Tyrese Burks, 20, a sentencing hearing for 22-year-old Tamar Young.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/two-families-are-shattered-ypsilanti-township-double-murderer-gets-17-to-40-years-in-prison.html",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 20:22:21 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "The twisted plot that sent an innocent woman to jail while her ex and his wife walked free",
+      "desc": "The Netflix documentary 'A Toxic Love Story' tells the shocking tale of Ian Diaz and Angela Connell",
+      "link": "https://www.mlive.com/tv/2026/07/the-twisted-plot-that-sent-an-innocent-woman-to-jail-while-her-ex-and-his-wife-walked-free.html",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 20:16:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+      "desc": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 20:12:57 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Markets whipsaw as Trump, Fed face new inflation risks",
+      "desc": "Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran.  Stocks and bond yields have whipsawed amid uncertainty ove",
+      "link": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 20:11:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "A former prison officer raped coworkers inside the facility and at their homes, and now 4 women are suing",
+      "desc": "The women claim the prison system violated its own policies and created a hostile work environment after former Correctional Officer Gerald Burton sexually harassed and assaulted multiple female emplo",
+      "link": "https://www.mlive.com/news/2026/07/a-former-prison-officer-raped-coworkers-inside-the-facility-and-at-their-homes-and-now-4-women-are-suing.html",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 19:50:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats top Republicans by 8 points ahead of midterms: Poll",
+      "desc": "Democrats are leading Republicans by 8 points with the midterms just a little more than three months away, according to a new poll released Thursday. In the CNN survey, 47 percent of respondents said ",
+      "link": "https://thehill.com/homenews/campaign/6000626-democrats-lead-gop-midterm-poll/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 19:44:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kroger store closure to affect 68 jobs in Genesee County",
+      "desc": "The company is offering affected employees the opportunity to transfer to another location.",
+      "link": "https://www.mlive.com/news/flint/2026/07/kroger-store-closure-to-affect-68-jobs-in-genesee-county.html",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 19:29:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Birx says &#039;persistent anger&#039; over COVID response evident after Fauci hearing",
+      "desc": "Deborah Birx, the former coordinator of the White House Coronavirus Task Force, said there is still “persistent anger” about the government’s COVID-19 response following former chief White House medic",
+      "link": "https://thehill.com/policy/healthcare/6000551-senate-contempt-vote-scheduled/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 19:19:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Massive solar project puts controversial state law under the microscope",
+      "desc": "Residents urge Ottawa County to intervene on 1,914-acre solar farm proposed for Zeeland and Jamestown townships.",
+      "link": "https://www.mlive.com/politics/2026/07/massive-solar-project-puts-controversial-state-law-under-the-microscope.html",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 19:18:48 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Iran threatens to &#039;punish the aggressor&#039; after US launches retaliatory strikes",
+      "desc": "Iran on Thursday threatened to “punish” the United States following a “heavy wave of strikes” against Tehran overnight in retaliation against missile attacks on American forces in the Middle East. Ira",
+      "link": "https://thehill.com/policy/defense/6000550-iran-threatens-us-after-retaliatory-strikes/",
+      "date": "Jul 30, 2026",
+      "rawDate": "Thu, 30 Jul 2026 19:15:53 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Will cyclospora spike again? Expert warns diarrhea parasite may spread through summer",
       "desc": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up.",
@@ -30,7 +147,7 @@
     },
     {
       "title": "Mandela Barnes drops out of Wisconsin governor&#039;s race",
-      "desc": "Former Lt. Gov. Mandela Barnes (D) dropped out of the Wisconsin governor's race Thursday as he struggled to gain traction in the polls. \"It's become very clear who our nominee is going to be,\" Barnes ",
+      "desc": "Former Wisconsin Lt. Gov. Mandela Barnes (D) dropped out of the Badger State's governor's race Thursday as he struggled to gain traction in the polls. \"It's become very clear who our nominee is going ",
       "link": "https://thehill.com/homenews/campaign/6000367-mandela-barnes-drops-out-wisconsin-governor/",
       "date": "Jul 30, 2026",
       "rawDate": "Thu, 30 Jul 2026 18:40:44 +0000",
@@ -83,15 +200,6 @@
       "tag": "government"
     },
     {
-      "title": "Democratic Women’s Caucus calls for House Ethics Committee to investigate Rep. Max Miller",
-      "desc": "The Democratic Women’s Caucus on Thursday called for the House Ethics Committee to investigate Rep. Max Miller (R-Ohio) over allegations of domestic abuse. Miller, who is running for reelection in a c",
-      "link": "https://thehill.com/homenews/house/6000264-democrats-ethics-max-miller/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 18:18:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump approval rating sinks to new low among Republicans: New poll",
       "desc": "Trump’s record-low approval numbers even stemmed from his own Republican supporters, the poll found.",
       "link": "https://www.mlive.com/politics/2026/07/trump-approval-rating-sinks-to-new-low-among-republicans-new-poll.html",
@@ -119,7 +227,7 @@
       "tag": "associations"
     },
     {
-      "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
+      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
       "desc": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
       "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
       "date": "Jul 30, 2026",
@@ -155,22 +263,13 @@
       "tag": "safety"
     },
     {
-      "title": "Democrats demand answers 6 months after ICE pledge on body cameras",
-      "desc": "Democratic lawmakers on the House Judiciary Committee hammered U.S. Immigration and Customs Enforcement (ICE) for failing to deliver on a pledge to equip its officers with body cameras amid a rash of ",
-      "link": "https://thehill.com/homenews/house/6000185-house-judiciary-ice-body-cameras/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 17:35:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Senate Republicans block resolution to halt Iran war",
       "desc": "Senate Republicans on Thursday blocked a resolution directing President Trump to withdraw U.S. troops from hostilities with Iran, despite growing GOP discomfort over the expansion of the war and the i",
       "link": "https://thehill.com/homenews/senate/5999704-senate-gop-iran-war-resolution/",
       "date": "Jul 30, 2026",
       "rawDate": "Thu, 30 Jul 2026 17:17:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
@@ -180,15 +279,6 @@
       "rawDate": "Thu, 30 Jul 2026 17:06:13 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Darline Graham targets abortion, trans athletes in first Senate campaign ad",
-      "desc": "Sen. Darline Graham (R-S.C.) posted her first campaign ad on Thursday in an effort to win her late brother’s seat permanently in November after a temporary appointment from the governor.  “I'm honored",
-      "link": "https://thehill.com/homenews/campaign/6000028-nordone-launches-sc-senate-campaign/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 17:05:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
@@ -344,15 +434,6 @@
       "tag": "health"
     },
     {
-      "title": "Popular discount chain adds 26 new stores: See the list",
-      "desc": "At each location, the company is planning Pre-Opening Shopping Parties where customers can “come check out your new store before anyone else.”",
-      "link": "https://www.mlive.com/business/2026/07/popular-discount-chain-adds-26-new-stores-see-the-list.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 13:36:56 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Flint man convicted of resisting police at city council meeting",
       "desc": "Joshua Boggess was convicted of resisting police after disrupting a Flint City Council meeting and refusing officers' orders.",
       "link": "https://www.mlive.com/news/flint/2026/07/flint-man-convicted-of-resisting-police-at-city-council-meeting.html",
@@ -461,15 +542,6 @@
       "tag": "technology"
     },
     {
-      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
-      "desc": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-      "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 10:15:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Ukraine and Iran wars converge as Trump seeks breakthroughs",
       "desc": "The wars in Ukraine and Iran are converging like never before, with a rare direct confrontation between the two countries playing out on the Caspian Sea just days before both conflicts were front and ",
       "link": "https://thehill.com/policy/international/5998230-ukraine-iran-wars-converging/",
@@ -506,15 +578,6 @@
       "tag": "safety"
     },
     {
-      "title": "Ex-West Michigan scout leader sentenced to over 17 years for secretly recording girls",
-      "desc": "The 59-year-old Whitehall man reportedly used hidden cameras over a decade to capture videos of underage girls changing and showering, prosecutors said.",
-      "link": "https://www.mlive.com/news/muskegon/2026/07/ex-west-michigan-scout-leader-sentenced-to-over-17-years-for-secretly-recording-girls.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 00:12:37 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Florida AG launching investigation into Fauci after Senate hearing",
       "desc": "Florida Attorney General James Uthmeier said Wednesday he is launching a probe into Dr. Anthony Fauci after the longtime health official invoked the Fifth Amendment more than 100 times during a Senate",
       "link": "https://thehill.com/homenews/state-watch/5998421-florida-ag-investigates-fauci-senate-hearing/",
@@ -531,15 +594,6 @@
       "rawDate": "Wed, 29 Jul 2026 22:42:48 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Interlochen allowed faculty to sign out students overnight, leading to alleged sexual assaults, report shows",
-      "desc": "An investigation found that decades of unfettered staff-student interactions at Interlochen led to dozens of alleged sexual assaults. Alleged assaults by Jeffrey Epstein were also included in the repo",
-      "link": "https://www.mlive.com/news/2026/07/interlochen-allowed-faculty-to-sign-out-students-overnight-leading-to-alleged-sexual-assaults-report-shows.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 22:23:58 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Iran’s surprise attack in Jordan blows up pause in fighting",
@@ -578,15 +632,6 @@
       "tag": "education"
     },
     {
-      "title": "5 takeaways on Fauci&#039;s hostile Senate hearing, GOP contempt threats",
-      "desc": "Former chief White House medical adviser Anthony Fauci's Senate hearing Wednesday ended up being an hours-long opportunity for Republicans to vent criticisms, arguments and theories on the COVID-19 re",
-      "link": "https://thehill.com/policy/healthcare/5997913-fauci-invokes-fifth-covid-hearing-senate/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 20:10:15 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Pentagon: New casualty category for renewed Iran fighting tied to end of Operation Epic Fury",
       "desc": "The Pentagon said its new category for the number of U.S. deaths and injuries to service members for renewed fighting with Iran is tied to the end of Operation Epic Fury.  The department removed the f",
       "link": "https://thehill.com/policy/defense/5997872-pentagon-iran-casualties-category/",
@@ -603,15 +648,6 @@
       "rawDate": "Wed, 29 Jul 2026 19:48:41 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Pontiac man charged with murder in weekend block party shooting",
-      "desc": "A Pontiac man was charged after allegedly fatally shooting Antwon Herring at a Pontiac block party attended by about 100 people.",
-      "link": "https://www.mlive.com/news/detroit/2026/07/pontiac-man-charged-with-murder-in-weekend-block-party-shooting.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:47:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "New poll puts El-Sayed 10 points ahead of Stevens as election day nears",
@@ -713,24 +749,6 @@
       "tag": "technology"
     },
     {
-      "title": "2 Democrats running in 31st District primary covering most of Ottawa County",
-      "desc": "Keagan Host is running Aug. 4 against Chris Kleinjans for the Democrat spot in the November election",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/2-democrats-running-in-31st-district-primary-covering-most-of-ottawa-county.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 15:06:13 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump’s MAGA erupts after Fauci invokes the Fifth Amendment: ‘Shameful’",
-      "desc": "Trump’s Republican base criticized Fauci’s decision to not answer senators’ questions.",
-      "link": "https://www.mlive.com/politics/2026/07/trumps-maga-erupts-after-fauci-invokes-the-fifth-amendment-shameful.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 14:20:17 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "AI giants back employee-led push asking US government to &#039;deliberately pace&#039; development",
       "desc": "Anthropic and OpenAI backed an employee-led initiative on Tuesday asking the U.S. government to \"deliberately pace\" frontier AI development. More than 1,200 employees have signed on to the statement, ",
       "link": "https://thehill.com/policy/technology/5996344-ai-development-anthropic-claude-openai-deepmind/",
@@ -794,15 +812,6 @@
       "tag": "safety"
     },
     {
-      "title": "Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-      "desc": "The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas than the U.S. has previously enforced and extend ex",
-      "link": "https://thehill.com/homenews/senate/5994964-senate-advances-russia-iran-sanctions/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 00:27:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
       "desc": "NEW YORK (AP) — A school district in a rural corner of upstate New York is hitting pause on plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and",
       "link": "https://thehill.com/homenews/education/ai-humanoid-robot-teacher-new-york/",
@@ -812,15 +821,6 @@
       "tag": "technology"
     },
     {
-      "title": "Iran launches &#039;surprise attack&#039; on US forces in Middle East",
-      "desc": "Iran fired multiple ballistic missiles at a U.S. base in the Middle East on Tuesday evening, in what U.S. Central Command (Centcom) called an attempted surprise attack. It was the first publicly discl",
-      "link": "https://thehill.com/policy/defense/5995522-iran-missile-attack-us-base/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 22:52:13 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Boeing takes $280 million hit on troubled Air Force One program",
       "desc": "Boeing’s contract to replace two aging Air Force One planes, a program that is now four years behind schedule, lost the defense contractor $280 million in the second quarter of 2026, according to its ",
       "link": "https://thehill.com/business/5995418-boeing-airforce-one-program-losses/",
@@ -828,15 +828,6 @@
       "rawDate": "Tue, 28 Jul 2026 22:12:17 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Americans support Netanyahu arrest by 22-point margin: Survey",
-      "desc": "Nearly half of Americans believer the U.S. should arrest Israeli Prime Minister Benjamin Netanyahu over his actions in Israel’s war in Gaza, according to a new poll from The Economist/YouGov. When ask",
-      "link": "https://thehill.com/policy/international/5995104-americans-back-netanyahu-icc-arrest/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 20:11:55 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Ann Arbor Bonsai Society hosts exhibition at University of Michigan botanical garden",

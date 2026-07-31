@@ -1,14 +1,176 @@
 {
-  "generated": "2026-07-31T13:44:48.570Z",
+  "generated": "2026-07-31T15:55:56.844Z",
   "news": [
     {
-      "title": "Watch live: Trump convenes Cabinet meeting at Camp David",
-      "desc": "President Trump will convene his Cabinet on Friday morning from Camp David in Maryland. White House press secretary Karoline Leavitt teased that the meeting, the 13th one since Trump returned to the O",
-      "link": "https://thehill.com/video-clips/6001501-watch-live-donald-trump-cabinet-meeting-camp-david-iran-war-economy/",
+      "title": "5 key differences between Ann Arbor mayoral candidates",
+      "desc": "Ann Arbor mayoral candidate Yousef Rabhi and Mayor Christopher Taylor are both Democrats and they agree on some things, but big policy questions divide them.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/07/5-key-differences-between-ann-arbor-mayoral-candidates.html",
       "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 13:27:21 +0000",
+      "rawDate": "Fri, 31 Jul 2026 15:49:35 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Federal government proposes Colorado River water use cuts for California, Arizona and Nevada",
+      "desc": "The federal government is proposing cuts to water used by California, Arizona and Nevada, a major step toward figuring out the management of the dwindling Colorado River. The river provides water to s",
+      "link": "https://thehill.com/policy/energy-environment/6002365-colorado-river-plan-california-arizona-nevada/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:49:23 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Nexstar to host South Carolina Senate debate",
+      "desc": "Nexstar Media Group is slated to host a live debate on Aug. 4 featuring the GOP Senate candidates running for the South Carolina seat vacated by the late Sen. Lindsey Graham (R). The debate, which wil",
+      "link": "https://thehill.com/homenews/media/6002245-nexstar-south-carolina-gop-senate-debate-lindsey-graham-seat-august-4/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:42:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Trump, Cabinet meet at Camp David",
+      "desc": "President Trump and his Cabinet are gathered at Camp David for their 13th Cabinet meeting of his second term. The meeting at the Maryland presidential retreat comes amid several thorny foreign policy ",
+      "link": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:34:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How Democrats can tackle affordability without breaking the budget",
+      "desc": "The goal should be to keep inflation near the Fed’s 2 percent target and to pursue policies that support growth of household income.",
+      "link": "https://thehill.com/opinion/finance/6000432-democrats-combat-trump-affordability/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New York alleges Kalshi running illegal gambling operation",
+      "desc": "The state of New York sued Kalshi on Friday, accusing the prediction market of running an illegal gambling operation. The lawsuit alleges the company is operating a gambling business in \"flagrant disr",
+      "link": "https://thehill.com/policy/technology/6002246-new-york-alleges-kalshi-running-illegal-gambling-operation/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:21:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Two plead guilty in Jackson County gun theft case",
+      "desc": "In pleading guilty, the pair’s armed robbery charges were reduced to larceny and an additional larceny charge will be dismissed at sentencing.",
+      "link": "https://www.mlive.com/news/jackson/2026/07/two-plead-guilty-in-jackson-county-gun-theft-case.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:17:45 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump uses Spain’s deadly migrant crisis to make chilling prediction about U.S. borders",
+      "desc": "Trump warned that the U.S. would face a migrant crisis like Ceuta’s if Democrats win the November midterm elections.",
+      "link": "https://www.mlive.com/politics/2026/07/trump-uses-spains-deadly-migrant-crisis-to-make-chilling-prediction-about-us-borders.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:14:02 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+      "desc": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+      "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:00:09 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Real estate has no place in US synagogues — especially when it&#039;s Palestinian land",
+      "desc": "What is a synagogue when it's not serving as a place of worship, a house of study, or a community center?  One answer comes from American supporters of the Israeli government’s expansionist policies. ",
+      "link": "https://thehill.com/opinion/civil-rights/5995385-synagogues-real-estate/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "desc": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 14:47:26 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ricketts apologizes after trying to use Capitol Police to block questions",
+      "desc": "Sen. Pete Ricketts (R-Neb.) on Friday issued an apology for trying to utilize Capitol Police to shield him from a reporter's questions on Sen. Mitch McConnell's (R-Ky.) health a day earlier. Ricketts,",
+      "link": "https://thehill.com/homenews/senate/6001944-pete-ricketts-apology-capitol-police-questions/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 14:34:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump, Miller use migrant crisis in Spain as midterm warning",
+      "desc": "President Trump and White House deputy chief of staff for policy Stephen Miller are warning that Spain’s Ceuta migrant crisis could be a reality for Americans if Democrats win in future elections. Som",
+      "link": "https://thehill.com/homenews/administration/6002107-trump-miller-ceuta-spain-migrant-crisis/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 14:34:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flint man to stand trial next month in double homicide of 2 teens",
+      "desc": "Ryan Davis will stand trial in August for allegedly killing two teens in 2024.",
+      "link": "https://www.mlive.com/news/flint/2026/07/flint-man-to-stand-trial-next-month-in-double-homicide-of-2-teens.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 14:32:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Iran&#8217;s informal alliances seem stronger than America&#8217;s formal ones",
+      "desc": "Iran and Russia, neither of which have formal alliances, continue both to receive support from their partners and, despite suffering major economic damage, to provide military aid to those in need.",
+      "link": "https://thehill.com/opinion/national-security/5998667-adversaries-strengthen-middle-east-coalition/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 14:30:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Democrats could flip Texas Senate seat because Paxton &#039;is so awful&#039;: Sabato",
+      "desc": "A high-profile election analyst said Texas state Rep. James Talarico (D) may give Democrats a real shot at finally winning a statewide race in Texas given the electoral weakness of his opponent, state",
+      "link": "https://thehill.com/homenews/campaign/6002041-larry-sabato-texan-democrat-opportunity/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 14:28:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Livonia Public Schools chooses next superintendent to lead district into new chapter",
+      "desc": "The Livonia Public Schools Board of Education unanimously selected a longtime district administrator as the district’s next superintendent during its meeting Thursday evening.",
+      "link": "https://www.mlive.com/news/detroit/2026/07/livonia-public-schools-chooses-next-superintendent-to-lead-district-into-new-chapter.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 14:04:53 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Attorney General files complaint against Saginaw-area doctor over alleged missing autopsy reports",
+      "desc": "The Michigan Attorney General’s Office has filed an administrative complaint against a Saginaw County-based doctor over alleged missing autopsy reports.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/attorney-general-files-complaint-against-saginaw-area-doctor-over-alleged-missing-autopsy-reports.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 13:50:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Hamas says it has reached an agreement to disarm",
+      "desc": "Hamas on Friday confirmed that the group reached a disarmament agreement with negotiators to address one of the main sticking points for a broader peace deal in Gaza. Senior Hamas official Bassem Naim",
+      "link": "https://thehill.com/policy/international/6001600-hamas-trump-admin-us-deal-disarmament/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 13:44:42 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers",
@@ -20,15 +182,6 @@
       "tag": "technology"
     },
     {
-      "title": "Live updates: Trump takes Cabinet to Camp David",
-      "desc": "President Trump and his Cabinet will head to Camp David for their 13th Cabinet meeting of his second term, a gathering that White House press secretary Karoline Leavitt predicted last week would be \"a",
-      "link": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 12:58:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Panetta: US locked into &#039;unwinnable war&#039; with Iran",
       "desc": "Former Defense Secretary Leon Panetta warned Thursday that the U.S. is “locked into an unwinnable war” with Iran, arguing the conflict risks becoming another prolonged military engagement with no clea",
       "link": "https://thehill.com/policy/defense/6001544-leon-panetta-us-iran-war-unwinnable/",
@@ -36,15 +189,6 @@
       "rawDate": "Fri, 31 Jul 2026 12:53:31 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "El-Sayed, Hong test hard-left Democrats’ momentum in Michigan, Wisconsin: Live discussion",
-      "desc": "Are hard-left Democrats poised for more big wins ahead of November? All eyes are on progressive Michigan Senate candidate Abdul El-Sayed and Wisconsin gubernatorial candidate Francesca Hong, a democra",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6001515-hard-left-democrats-momentum-michigan-wisconsin-live-discussion/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 12:42:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Teen accidentally shoots self in groin in Saginaw Township park’s restroom, police say",
@@ -61,35 +205,8 @@
       "link": "https://thehill.com/homenews/media/6001500-stephen-a-smith-dr-anthony-fauci-senate-testiony-fifth-amendment-covid-19/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 12:15:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "In disgracing himself, Fauci finally gets the attention he craved",
-      "desc": "Fauci invoked his Fifth Amendment right against self-incrimination more than 100 times in order to avoid answering questions before a Senate hearing.",
-      "link": "https://thehill.com/opinion/healthcare/5999055-fauci-public-deception-exposure/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whole Hog Politics: Does Trump not know or not care how bad things are for the GOP?",
-      "desc": "[Watch Whole Hog Politics live: Hill Insider members can join us live today at 9 a.m. ET as Chris Stirewalt and host Bill Sammon break down this week’s political news and answer questions from a live ",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/6001022-ai-political-landscape-shifts/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate Republican warns Trump against delaying Blanche nomination: &#039;This place could be very different&#039;",
-      "desc": "Sen. John Kennedy (R-La.), a member of the Senate Judiciary Committee, is warning that President Trump’s threat to withdraw Todd Blanche’s nomination to serve as attorney general and resubmit it in 20",
-      "link": "https://thehill.com/homenews/senate/6001512-donald-trump-todd-blanche-nomination-risk/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 11:59:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "3 Republicans running for state 31st District Senate seat",
@@ -98,15 +215,6 @@
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 11:44:59 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Governors are putting early childhood education ahead of partisanship",
-      "desc": "In some states, early childhood has been one of the few issues where governors of different parties don’t cause their constituents political whiplash.",
-      "link": "https://thehill.com/opinion/education/5998996-governors-invest-early-education/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 11:30:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -119,15 +227,6 @@
       "tag": "health"
     },
     {
-      "title": "Trump, fighting the Senate and Iran, takes team to Camp David",
-      "desc": "In today's issue: ▪ Trump announces deal to disarm Hamas ▪ Blanche nomination may be withdrawn ▪ Max Miller under fire ▪ World Cup boycott President Trump will assemble his Cabinet at Camp David today",
-      "link": "https://thehill.com/newsletters/morning-report/6001443-donald-trump-camp-david-cabinet-meeting-senate-gop-iran-war/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 11:17:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "2 more men plead guilty in ISIS case tied to Michigan defendants",
       "desc": "Another major development has emerged in the federal ISIS case tied to Michigan. The latest update could have implications for the investigation.",
       "link": "https://www.mlive.com/news/detroit/2026/07/2-new-jersey-men-linked-to-michigan-isis-case-plead-guilty-to-terrorism-related-charges.html",
@@ -138,7 +237,7 @@
     },
     {
       "title": "Daisy One Review: Comfy and Tactile Headphones",
-      "desc": "The company’s first headphones look very stylish and have great tactile features, but underwhelm on sound quality.",
+      "desc": "The company’s first headphones look very stylish and have great tactile features but underwhelm on sound quality.",
       "link": "https://www.wired.com/review/daisy-one/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 11:00:00 +0000",
@@ -183,7 +282,7 @@
     },
     {
       "title": "US investigating if Iran launched cyberattack on Minnesota water facilities",
-      "desc": "A United States cybersecurity agency is investigating a coordinated cyberattack on over 30 municipal water facilities in Minnesota which contains details of possible Iranian hackers. The Minnesota Inf",
+      "desc": "U.S. cybersecurity agencies are investigating a coordinated cyberattack on more than 30 municipal water facilities in Minnesota and the possibility of Iranian involvement. Minnesota IT Services (MNIT)",
       "link": "https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 03:08:08 +0000",
@@ -191,8 +290,8 @@
       "tag": "technology"
     },
     {
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "desc": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+      "desc": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
       "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 01:24:26 +0000",
@@ -279,15 +378,6 @@
       "rawDate": "Thu, 30 Jul 2026 20:16:28 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-      "desc": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 20:12:57 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Markets whipsaw as Trump, Fed face new inflation risks",
@@ -416,15 +506,6 @@
       "tag": "associations"
     },
     {
-      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "desc": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 17:51:10 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Driver charged in deaths of 2 MDOT workers on U.S. 127",
       "desc": "Prosecutors say the man was driving at a high rate of speed when he struck two MDOT workers in a work zone.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/07/driver-charged-in-deaths-of-2-mdot-workers-on-us-127.html",
@@ -479,15 +560,6 @@
       "tag": "safety"
     },
     {
-      "title": "Woman forgives drunken driver who killed her sons’ father: ‘I don’t have hate’",
-      "desc": "Keith Williams was sentenced to prison for a drunken driving crash in Muskegon that killed Nathan Thorsen.",
-      "link": "https://www.mlive.com/news/muskegon/2026/07/woman-forgives-drunken-driver-who-killed-her-sons-father-i-dont-have-hate.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 15:52:32 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Red Cross declares second-ever &#039;blood supply crisis&#039; as healthcare providers deal with shortage",
       "desc": "Earlier this week, the Red Cross said it had less than a one-day supply of type O positive blood, which is \"the most commonly transfused blood type.\"",
       "link": "https://thehill.com/policy/healthcare/5999572-red-cross-blood-supply-crisis/",
@@ -515,15 +587,6 @@
       "tag": "health"
     },
     {
-      "title": "Saginaw man sent to prison for role in 2 males’ captivity, torture asserts own victimhood",
-      "desc": "The 23-year-old received up to 15 years in prison after two victims were held captive, beaten, burned and robbed. The convict told the judge he was threatened with a gun and forced to participate.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/saginaw-man-sent-to-prison-for-role-in-2-males-captivity-torture-asserts-own-victimhood.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 14:24:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Senate HELP Committee advances Trump&#039;s CDC, ASPR, Labor secretary nominees",
       "desc": "The Senate Committee on Health, Education, Labor and Pensions (HELP) on Thursday voted to advance President Trump's nominees to lead the Centers for Disease Control and Prevention (CDC) and the Admini",
       "link": "https://thehill.com/policy/healthcare/5999340-senate-help-advances-trump-cdc-aspr-labor-nominees/",
@@ -531,15 +594,6 @@
       "rawDate": "Thu, 30 Jul 2026 14:20:24 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Shuttle bus driver charged months after child struck, killed outside Traverse City airport",
-      "desc": "An off-duty doctor and paramedic tried to assist at the scene, along with first responders, but the child died of her injuries, police said.",
-      "link": "https://www.mlive.com/news/2026/07/shuttle-bus-driver-charged-months-after-child-struck-killed-outside-traverse-city-airport.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 14:18:15 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Trump official mocks Noah Kahan after music dispute with White House",
@@ -695,15 +749,6 @@
       "tag": "government"
     },
     {
-      "title": "New poll puts El-Sayed 10 points ahead of Stevens as election day nears",
-      "desc": "With less than a week left until the primary election, a new poll shows Abdul El-Sayed leading Congresswoman Haley Stevens by 10 percentage points in the Democratic primary for U.S. Senate.",
-      "link": "https://www.mlive.com/politics/2026/07/new-poll-puts-el-sayed-10-points-ahead-of-stevens-as-election-day-nears.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:31:05 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "DoorDash expands beyond drivers with new drone delivery program",
       "desc": "Drone delivery is currently available in parts of Dallas-Fort Worth and Charlotte.",
       "link": "https://thehill.com/business/5997588-doordash-expands-new-drone-delivery-service/",
@@ -711,15 +756,6 @@
       "rawDate": "Wed, 29 Jul 2026 19:23:48 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Democratic lawmakers try again on 9 bills vetoed by Whitmer after drawn-out legal battle",
-      "desc": "Gov. Gretchen Whitmer said she would consider new versions of the bills, which aren't guaranteed to move through the Republican-controlled House.",
-      "link": "https://www.mlive.com/politics/2026/07/democratic-lawmakers-try-again-on-9-bills-vetoed-by-whitmer-after-drawn-out-legal-battle.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 18:58:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Senate Democrats press tech giants on AI safeguards for &#039;at-risk users&#039;",
@@ -767,15 +803,6 @@
       "tag": "technology"
     },
     {
-      "title": "Kilmeade says Trump told him Iran war &#039;not that popular&#039;",
-      "desc": "Fox News host Brian Kilmeade on Tuesday said President Trump told him the U.S.-Israeli conflict in Iran is \"not that popular.\" Kilmeade spoke with fellow Fox News host Lisa Kennedy Montgomery on her p",
-      "link": "https://thehill.com/homenews/administration/5996977-kilmeade-trump-iran-war-popularity/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 16:27:45 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Rogue OpenAI agent compromised second tech firm&#039;s customer",
       "desc": "An OpenAI agent compromised a customer of another technology company, the New York-based firm Modal Labs announced Wednesday. In a technical timeline posted Tuesday, the tech startup Hugging Face expl",
       "link": "https://thehill.com/policy/technology/5996396-rogue-openai-agent-compromised-second-tech-firms-customer/",
@@ -819,15 +846,6 @@
       "rawDate": "Wed, 29 Jul 2026 13:07:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "desc": "NEW YORK (AP) — A school district in a rural corner of upstate New York is hitting pause on plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and",
-      "link": "https://thehill.com/homenews/education/ai-humanoid-robot-teacher-new-york/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 23:08:51 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Ann Arbor Bonsai Society hosts exhibition at University of Michigan botanical garden",
@@ -898,15 +916,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/school-supply-giveaway-planned-across-livingston-county.html",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 18:57:48 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Beyond cellphones: Ann Arbor parents question growing role of screens in classrooms",
-      "desc": "With a new phone policy looming, advocates hope Ann Arbor schools re-examine how district-issued Chromebooks and other screens are used by students. Officials said earlier this year technology audits ",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/beyond-cellphones-ann-arbor-parents-question-growing-role-of-screens-in-classrooms.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 17:21:55 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

@@ -1,9 +1,36 @@
 {
-  "generated": "2026-07-31T20:55:27.914Z",
+  "generated": "2026-07-31T21:58:36.796Z",
   "news": [
     {
+      "title": "Rogue AI hacking incidents amplify debate over open-source tech",
+      "desc": "Concerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over whether open-source could",
+      "link": "https://thehill.com/policy/technology/6003142-nvidia-launches-secure-ai-alliance/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 21:50:34 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "DOI proposes potentially major water cuts",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  DOI proposes potentially major water cuts The federal government is proposing potentially steep cuts to water used b",
+      "link": "https://thehill.com/newsletters/energy-environment/6003098-doi-proposes-potentially-major-water-cuts/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 21:23:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Three charged in Gaines Township shooting that left man dead in car",
+      "desc": "Two 18-year-olds and a 17-year-old are charged in the death of Aaron Amarr Yarbrough-Gordon, 18.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/07/three-charged-in-gaines-township-shooting-that-left-man-dead-in-car.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 21:03:54 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "Trump appeals ruling finding he colluded with DOJ in $10B IRS suit",
-      "desc": "The Trump administration on Friday appealed a ruling from a federal judge in Florida who found the president effectively colluded with his own government in bringing a $10 billion suit against the Int",
+      "desc": "The Trump administration on Friday appealed a ruling from a federal judge in Florida who found the president effectively colluded with his own government in bringing a $10 billion suit against the IRS",
       "link": "https://thehill.com/homenews/administration/6003015-trump-appeals-irs-lawsuit-ruling/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 20:37:23 +0000",
@@ -124,8 +151,8 @@
       "link": "https://thehill.com/opinion/international/6001341-house-report-south-korea/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Michigan Supreme Court opens path to freedom for prisoners convicted under long-rejected law",
@@ -522,15 +549,6 @@
       "rawDate": "Thu, 30 Jul 2026 18:26:38 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Former Genesee County teacher accused of sexually assaulting 12-year-old student released on bond",
-      "desc": "The former middle school teacher is accused of sexually assaulting a 12-year-old student he tutored in 2016. Prosecutors say additional possible victims have come forward.",
-      "link": "https://www.mlive.com/news/flint/2026/07/former-genesee-county-teacher-accused-of-sexually-assaulting-12-year-old-student-released-on-bond.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 18:25:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Trump approval rating sinks to new low among Republicans: New poll",

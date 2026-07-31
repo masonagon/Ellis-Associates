@@ -1,6 +1,60 @@
 {
-  "generated": "2026-07-31T17:22:19.927Z",
+  "generated": "2026-07-31T19:11:29.555Z",
   "news": [
+    {
+      "title": "Senate Democrat declines to say whether Schumer should continue in leadership post",
+      "desc": "Sen. Chris Van Hollen (D-Md.) declined to say Thursday whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) for continued Democratic leadership in the Senate. In an interview with CN",
+      "link": "https://thehill.com/homenews/senate/6002807-van-hollen-declines-to-say-schumer-endorsement/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 18:46:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "F-35 fighter jet crashes near San Diego",
+      "desc": "A U.S. Marine Corps F-35 stealth fighter jet crashed at Marine Corps Air Station Miramar in San Diego, Calif., on Friday.  Marine officials confirmed to The Hill that it was an F-35 “aircraft mishap” ",
+      "link": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 18:31:57 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "‘Animal kills Saint’: Bay City man gets new sentence for brutal murder of retired nurse, 83",
+      "desc": "Robert Commire will serve 40 to 60 years for the 2007 murder of Rita Salogar. The victim's family asked for the maximum sentence and described decades of enduring devastation.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/animal-kills-saint-bay-city-man-gets-new-sentence-for-brutal-murder-of-retired-nurse-83.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 18:19:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "desc": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 18:14:43 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Cybersecurity expert: &#039;Moderate confidence&#039; Iran attacked Minnesota water facilities",
+      "desc": "National Center for Open and Unsolved Cases founder Morgan Wright said Thursday that there is “at least moderate confidence” that Iran is behind recent cybersecurity attacks on water facilities across",
+      "link": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 17:49:36 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Your guide to what’s on the Aug. 4 primary election ballot in Kent, Ottawa and Muskegon counties",
+      "desc": "State, local and federal primaries, tax proposals and more are on the Aug. 4 ballot in West Michigan.",
+      "link": "https://www.mlive.com/politics/2026/07/your-guide-to-whats-on-the-aug-4-primary-election-ballot-in-kent-ottawa-and-muskegon-counties.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 17:45:59 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
     {
       "title": "New Metro Police Authority chief brings more than 2 decades of law enforcement experience",
       "desc": "Michael Murphy became Metro Police Authority’s third chief earlier this year.",
@@ -83,15 +137,6 @@
       "tag": "technology"
     },
     {
-      "title": "Scammers are open for business. Washington isn&#039;t.",
-      "desc": "As a multi-billion dollar criminal scam industry grows, experts urge the federal government to prioritize international enforcement, institutional information sharing, and corporate accountability.",
-      "link": "https://thehill.com/opinion/finance/6001097-government-response-scam-crisis/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Scammers are open for business. Washington isn&#8217;t.",
       "desc": "As a multi-billion dollar criminal scam industry grows, experts urge the federal government to prioritize international enforcement, institutional information sharing, and corporate accountability.",
       "link": "https://thehill.com/opinion/finance/6001097-government-response-scam-crisis/",
@@ -107,42 +152,6 @@
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 15:49:35 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Federal government proposes Colorado River water use cuts for California, Arizona and Nevada",
-      "desc": "The federal government is proposing potentially steep cuts to water used by California, Arizona and Nevada, a major step toward figuring out the management of the dwindling Colorado River. The river p",
-      "link": "https://thehill.com/policy/energy-environment/6002365-colorado-river-plan-california-arizona-nevada/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 15:49:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Nexstar to host South Carolina Senate debate",
-      "desc": "Nexstar Media Group is slated to host a live debate on Aug. 4 featuring the GOP Senate candidates running for the South Carolina seat vacated by the late Sen. Lindsey Graham (R). The debate, which wil",
-      "link": "https://thehill.com/homenews/media/6002245-nexstar-south-carolina-gop-senate-debate-lindsey-graham-seat-august-4/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 15:42:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "How Democrats can tackle affordability without breaking the budget",
-      "desc": "The goal should be to keep inflation near the Fed’s 2 percent target and to pursue policies that support growth of household income.",
-      "link": "https://thehill.com/opinion/finance/6000432-democrats-combat-trump-affordability/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 15:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New York alleges Kalshi running illegal gambling operation",
-      "desc": "The state of New York sued Kalshi on Friday, accusing the prediction market of running an illegal gambling operation. The lawsuit alleges the company is operating a gambling business in \"flagrant disr",
-      "link": "https://thehill.com/policy/technology/6002246-new-york-alleges-kalshi-running-illegal-gambling-operation/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 15:21:37 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -173,15 +182,6 @@
       "tag": "technology"
     },
     {
-      "title": "Real estate has no place in US synagogues — especially when it&#039;s Palestinian land",
-      "desc": "What is a synagogue when it's not serving as a place of worship, a house of study, or a community center?  One answer comes from American supporters of the Israeli government’s expansionist policies. ",
-      "link": "https://thehill.com/opinion/civil-rights/5995385-synagogues-real-estate/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 15:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
       "desc": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
       "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
@@ -189,24 +189,6 @@
       "rawDate": "Fri, 31 Jul 2026 14:47:26 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Ricketts apologizes after trying to use Capitol Police to block questions",
-      "desc": "Sen. Pete Ricketts (R-Neb.) on Friday issued an apology for trying to utilize Capitol Police to shield him from a reporter's questions on Sen. Mitch McConnell's (R-Ky.) health a day earlier. Ricketts,",
-      "link": "https://thehill.com/homenews/senate/6001944-pete-ricketts-apology-capitol-police-questions/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 14:34:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump, Miller use migrant crisis in Spain as midterm warning",
-      "desc": "President Trump and White House deputy chief of staff for policy Stephen Miller are warning that Spain’s Ceuta migrant crisis could be a reality for Americans if Democrats win in future elections. Som",
-      "link": "https://thehill.com/homenews/administration/6002107-trump-miller-ceuta-spain-migrant-crisis/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 14:34:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Flint man to stand trial next month in double homicide of 2 teens",
@@ -246,7 +228,7 @@
     },
     {
       "title": "Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers",
-      "desc": "Its latest Pro headset can mix between four inputs and has improved wireless connectivity over the originals.",
+      "desc": "Its latest Pro headset can mix between four inputs and has better wireless connectivity than the originals.",
       "link": "https://www.wired.com/review/steelseries-arctis-nova-pro-omni/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 13:21:59 +0000",
@@ -359,15 +341,6 @@
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 03:08:08 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-      "desc": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 01:24:26 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -551,15 +524,6 @@
       "tag": "government"
     },
     {
-      "title": "Brother and sister died within a month of each other in separate tragedies",
-      "desc": "A 15-year-old boy who was fatally shot inside an Ypsilanti Township home a week ago suffered the loss of his sister only a month prior when she drowned saving her cousin in the Detroit River.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/brother-and-sister-died-within-a-month-of-each-other-in-separate-tragedies.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 17:57:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "After break with Target, popular beauty brand finds new partner",
       "desc": "The move comes as Ulta has experienced a period of market share losses.",
       "link": "https://www.mlive.com/business/2026/07/after-break-with-target-popular-beauty-brand-finds-new-partner.html",
@@ -740,15 +704,6 @@
       "tag": "safety"
     },
     {
-      "title": "4 Democrats vie for Muskegon Charter Township trustee seat",
-      "desc": "The primary election is on Aug. 4. Incumbent trustees Greg Bouwman and Dave Kieft Jr. are running alongside Cynthia Rachelle Green and Shawn Roberson.",
-      "link": "https://www.mlive.com/news/muskegon/2026/07/4-democrats-vie-for-muskegon-charter-township-trustee-seat.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 21:49:43 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "WMU opens new $110M dorm designed for ‘students of today’",
       "desc": "“Do they have anything like this up in Mount Pleasant?” WMU President Russ Kavalhuna asked the crowd, referencing WMU’s rival, Central Michigan University.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/07/wmu-opens-new-110m-dorm-designed-for-students-of-today.html",
@@ -803,15 +758,6 @@
       "tag": "education"
     },
     {
-      "title": "Diminished stockpiles may force US, allies to take more risks to conserve interceptors: Analysis",
-      "desc": "Renewed fighting between the U.S. and Iran has expended more of America’s already dwindling stockpiles of advanced missile interceptors, potentially putting the country’s forces at risk should the Tru",
-      "link": "https://thehill.com/policy/defense/5997329-pentagon-us-troops-diminished-stockpiles-risks-analysis/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 17:36:20 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Zuckerberg knocks AI development centralization, control",
       "desc": "Meta CEO Mark Zuckerberg criticized the centralization of AI development on Tuesday, arguing the future of the technology should not be controlled by a limited group of major players. In a Wall Street",
       "link": "https://thehill.com/policy/technology/5997028-mark-zuckerberg-ai-development-centralization-criticism/",
@@ -846,15 +792,6 @@
       "rawDate": "Wed, 29 Jul 2026 13:54:50 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown",
-      "desc": "Russian authorities said Wednesday they had charged Pavel Durov, the founder and CEO of the popular messaging app Telegram, with aiding terrorism, the latest step by the Kremlin to bring the internet ",
-      "link": "https://thehill.com/policy/technology/telegram-founder-charges-russia-pavel-durov/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 13:22:40 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Pinconning schools place $19.9M bond proposal on November ballot",
@@ -925,15 +862,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/signed-guitars-shirts-more-on-sale-for-morgan-wallens-michigan-stadium-concerts.html",
       "date": "Jul 24, 2026",
       "rawDate": "Fri, 24 Jul 2026 19:49:49 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "School supply giveaway planned across Livingston County",
-      "desc": "Students in Brighton, Fowlerville, Hartland, Howell and Pinckney can pick up free supplies on Aug. 6. Donations are being accepted through July 30 at various locations.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/school-supply-giveaway-planned-across-livingston-county.html",
-      "date": "Jul 24, 2026",
-      "rawDate": "Fri, 24 Jul 2026 18:57:48 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

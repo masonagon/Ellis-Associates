@@ -1,6 +1,42 @@
 {
-  "generated": "2026-07-30T23:55:19.261Z",
+  "generated": "2026-07-31T02:02:13.783Z",
   "news": [
+    {
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "desc": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 01:24:26 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Anthropic says Claude models &#039;gained unauthorized access&#039; to 3 companies during cyber test",
+      "desc": "The artificial intelligence firm Anthropic revealed Thursday its Claude model escaped an isolated testing environment at least three times and accessed the systems of three different organizations wit",
+      "link": "https://thehill.com/policy/technology/6001184-claude-models-anthropic-security-breach/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 01:05:39 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Anthropic says Claude models &#8216;gained unauthorized access&#8217; to 3 companies during cyber test",
+      "desc": "The artificial intelligence firm Anthropic revealed Thursday its Claude model escaped an isolated testing environment at least three times and accessed the systems of three different organizations wit",
+      "link": "https://thehill.com/policy/technology/6001184-claude-models-anthropic-security-breach/",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 01:05:39 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Convicted triple murderer dies of apparent suicide at U.P. prison, state says",
+      "desc": "Patrick A. Selepak, 47, was originally sentenced to life in the slayings of New Baltimore couple Scott and Melissa Berels and Genesee County man Winfield Johnson in 2006 with his then-fiance.",
+      "link": "https://www.mlive.com/news/2026/07/convicted-triple-murderer-dies-of-apparent-suicide-at-up-prison-state-says.html",
+      "date": "Jul 31, 2026",
+      "rawDate": "Fri, 31 Jul 2026 01:02:10 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Trump&#039;s CDC, ASPR nominees advance out of Senate committee",
       "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump's CDC, ASPR nominees advance out of Senate committee  The Senate Committee on Health, Education, Labor ",
@@ -20,8 +56,8 @@
       "tag": "government"
     },
     {
-      "title": "Senate &#039;YOLO Caucus&#039; bucks Trump on Blanche: What to know",
-      "desc": "President Trump’s pick for the next U.S. attorney general is on shaky ground as two GOP lawmakers on the Senate Judiciary Committee demand a written guarantee that a proposed Justice Department \"anti-",
+      "title": "Senate &#039;YOLO&#039; caucus bucks Trump on Blanche: What to know",
+      "desc": "President Trump’s pick for the next U.S. attorney general is on shaky ground as two Republican lawmakers on the Senate Judiciary Committee demand a written guarantee that a proposed Justice Department",
       "link": "https://thehill.com/homenews/senate/6000726-gop-blanche-nomination-cornyn-tillis/",
       "date": "Jul 30, 2026",
       "rawDate": "Thu, 30 Jul 2026 22:23:28 +0000",
@@ -92,22 +128,13 @@
       "tag": "technology"
     },
     {
-      "title": "Cornyn, Tillis become fighting faces of quiet Republican concerns over Blanche",
-      "desc": "President Trump’s threat to withdraw the nomination of acting Attorney General Todd Blanche is raising questions about the future of the \"anti-weaponization\" fund as well as the power of the Senate GO",
-      "link": "https://thehill.com/homenews/senate/6000840-cornyn-tillis-blanche-republican-concerns-anti-weaponization/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 21:16:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "FAA loses its No. 2 official, Chris Rocheleau, to his old private sector job",
       "desc": "Chris Rocheleau, the deputy administrator of the Federal Aviation Administration (FAA), is departing the agency for his old lobbying job. Rocheleau, who served as acting FAA administrator for the firs",
       "link": "https://thehill.com/policy/transportation/6000861-chris-rocheleau-leaves-faa/",
       "date": "Jul 30, 2026",
       "rawDate": "Thu, 30 Jul 2026 21:08:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "3 Planned Parenthood health centers close their doors in Michigan",
@@ -542,24 +569,6 @@
       "tag": "health"
     },
     {
-      "title": "‘Kind of free rein here’: How Ann Arbor’s panhandlers survive downtown",
-      "desc": "Multiple homeless residents of Ann Arbor discussed what life is like living in downtown amid affordability and housing issues.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/kind-of-free-rein-here-how-ann-arbors-panhandlers-survive-downtown.html",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 11:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "‘Spider-Man: Brand New Day’ Is a Superhero Movie for Yearners",
-      "desc": "Peter Parker’s isolation lands especially hard in the age of AI, a loneliness crisis, and endless scrolling.",
-      "link": "https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Delta, United ban humanoid and animal robots from flights",
       "desc": "New policies from the airlines ban the robots from traveling in the passenger cabin or cargo hold.",
       "link": "https://thehill.com/policy/transportation/5998226-delta-united-airlines-ban-humanoid-animal-robots-lithium-battery-risk/",
@@ -844,15 +853,6 @@
       "link": "https://thehill.com/homenews/education/ai-humanoid-robot-teacher-new-york/",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 23:08:51 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Boeing takes $280 million hit on troubled Air Force One program",
-      "desc": "Boeing’s contract to replace two aging Air Force One planes, a program that is now four years behind schedule, lost the defense contractor $280 million in the second quarter of 2026, according to its ",
-      "link": "https://thehill.com/business/5995418-boeing-airforce-one-program-losses/",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 22:12:17 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

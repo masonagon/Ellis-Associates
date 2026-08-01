@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-01T20:08:01.123Z",
+  "generated": "2026-08-01T21:45:53.908Z",
   "news": [
+    {
+      "title": "Democrats fret in Michigan as progressives project confidence ahead of key primaries",
+      "desc": "Mainstream Democrats are fretting that progressive victories in two critical primary races in Michigan on Tuesday could jeopardize the party’s chances of clinching must-win congressional seats in Nove",
+      "link": "https://thehill.com/homenews/campaign/6002980-michigan-democrats-senate-house-el-sayed-lawrence/",
+      "date": "Aug 1, 2026",
+      "rawDate": "Sat, 01 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Customer service emerges as an early test of AI&#039;s impact on jobs",
+      "desc": "The first signs of AI's impact on white-collar jobs are emerging in customer service.",
+      "link": "https://thehill.com/policy/technology/6003298-customer-service-test-for-ai-jobs/",
+      "date": "Aug 1, 2026",
+      "rawDate": "Sat, 01 Aug 2026 20:20:52 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
     {
       "title": "CNN&#039;s Jennings defends Olympian after DOJ tosses Reflecting Pool case: &#039;He ought to sue&#039;",
       "desc": "Republican political commentator Scott Jennings said the Olympian David Hearn “ought to sue” the Trump administration for attempting to prosecute him in connection with damage found at the Lincoln Mem",
@@ -90,15 +108,6 @@
       "rawDate": "Sat, 01 Aug 2026 17:00:59 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Democrats, bullish on midterms, worry they’ll trip over their own feet",
-      "desc": "Democrats are feeling bullish about their chances of winning the House and Senate majorities as they head into August, despite conflicts within the party over its direction. President Trump's dismal p",
-      "link": "https://thehill.com/homenews/campaign/6003048-democrats-bullish-midterm-majorities/",
-      "date": "Aug 1, 2026",
-      "rawDate": "Sat, 01 Aug 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan farmer Dale Warner moved to UP prison, serving 31 years for wife’s murder",
@@ -799,15 +808,6 @@
       "link": "https://thehill.com/policy/technology/5997028-mark-zuckerberg-ai-development-centralization-criticism/",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 16:32:41 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Rogue OpenAI agent compromised second tech firm&#039;s customer",
-      "desc": "An OpenAI agent compromised a customer of another technology company, the New York-based firm Modal Labs announced Wednesday. In a technical timeline posted Tuesday, the tech startup Hugging Face expl",
-      "link": "https://thehill.com/policy/technology/5996396-rogue-openai-agent-compromised-second-tech-firms-customer/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 16:06:51 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

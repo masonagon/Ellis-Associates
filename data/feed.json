@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-02T16:50:55.972Z",
+  "generated": "2026-08-02T17:55:18.865Z",
   "news": [
+    {
+      "title": "Moreno calls for Miller, former son-in-law, to resign over abuse allegations",
+      "desc": "Sen. Bernie Moreno (R-Ohio) pressed for his fellow Ohio Republican and former son-in-law, Rep. Max Miller, to resign in the wake of abuse allegations involving Moreno's daughter and granddaughter, add",
+      "link": "https://thehill.com/homenews/house/6004402-moreno-calls-for-max-miller-resignation/",
+      "date": "Aug 2, 2026",
+      "rawDate": "Sun, 02 Aug 2026 17:37:56 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republican Sen. Kennedy says he &#039;wouldn&#039;t bet my house&#039; on Blanche being confirmed",
+      "desc": "GOP Sen. John Kennedy (La.) on Sunday expressed doubt about the Senate confirming acting Attorney General Todd Blanche to the full-time post. Kennedy, a member of the Judiciary Committee, noted on NBC",
+      "link": "https://thehill.com/homenews/senate/6004367-senator-kennedy-doubts-blanche-confirmation/",
+      "date": "Aug 2, 2026",
+      "rawDate": "Sun, 02 Aug 2026 16:59:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Police identify 19-year-old killed in Portage shooting",
       "desc": "Investigators continue to seek witnesses to the incident.",
@@ -88,8 +106,8 @@
       "link": "https://thehill.com/homenews/state-watch/6004201-louisiana-investigates-dr-fauci/",
       "date": "Aug 2, 2026",
       "rawDate": "Sun, 02 Aug 2026 13:12:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "2 teens arrested in downtown Kalamazoo shooting",
@@ -99,24 +117,6 @@
       "rawDate": "Sun, 02 Aug 2026 13:11:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "SNAP recipients, some middle-class families get $60 monthly for produce in new bill. Who qualifies?",
-      "desc": "The \"Fresh Bucks for Fresh Produce\" Act would establish a pilot program that awards grants to states so they can give the extra grocery money to lower-income and moderate-income people.",
-      "link": "https://thehill.com/homenews/6002316-snap-recipients-some-middle-class-families-get-60-monthly-for-produce-in-new-bill-who-qualifies/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "State corrections policy must do better than more of the same",
-      "desc": "The better question is not, “Who runs the prison?” The better question is, “What outcomes are governors requiring this system to produce?”",
-      "link": "https://thehill.com/opinion/criminal-justice/6002952-public-safety-requires-better-corrections/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Trump halts Iran attack plan, citing agreed-upon deal outline",
@@ -164,18 +164,18 @@
       "tag": "technology"
     },
     {
-      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-      "desc": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder.",
-      "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "desc": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
       "date": "Aug 2, 2026",
       "rawDate": "Sun, 02 Aug 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "desc": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
+      "desc": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder.",
+      "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
       "date": "Aug 2, 2026",
       "rawDate": "Sun, 02 Aug 2026 10:00:00 +0000",
       "source": "Wired",

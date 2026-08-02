@@ -1,9 +1,36 @@
 {
-  "generated": "2026-08-02T18:57:55.198Z",
+  "generated": "2026-08-02T20:09:01.036Z",
   "news": [
     {
+      "title": "Sanders argues El-Sayed can appeal to working-class Republicans in Michigan",
+      "desc": "Progressive Sen. Bernie Sanders (I-Vt.) argued Sunday that Abdul El-Sayed can appeal to Republicans and independents in the Senate general election in Michigan if he defeats Rep. Haley Stevens (D-Mich",
+      "link": "https://thehill.com/homenews/campaign/6004527-michigan-senate-primary-el-sayed-stevens-sanders/",
+      "date": "Aug 2, 2026",
+      "rawDate": "Sun, 02 Aug 2026 20:01:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "RFK Jr. says Trump &#039;certainly&#039; wants him to investigate any link between autism and vaccines",
+      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Sunday said President Trump \"certainly\" wants him to investigate perceived links between autism and vaccines. Kennedy made the remark",
+      "link": "https://thehill.com/policy/healthcare/6004477-rfk-jr-autism-vaccine-investigation/",
+      "date": "Aug 2, 2026",
+      "rawDate": "Sun, 02 Aug 2026 19:48:18 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Francesca Hong says what’s radical is US still has $7.25 minimum wage",
+      "desc": "Wisconsin Democratic gubernatorial candidate Francesca Hong, a democratic socialist, said Sunday that the U.S.’s current minimum wage is radical. When asked by NewsNation’s Chris Stirewalt on “The Hil",
+      "link": "https://thehill.com/homenews/campaign/6004537-francesca-hong-wisconsin-governor-poll/",
+      "date": "Aug 2, 2026",
+      "rawDate": "Sun, 02 Aug 2026 19:27:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Kaptur hospitalized after hit-and-run, police say",
-      "desc": "Rep. Marcy Kaptur (D-Ohio) was hospitalized on Sunday after being involved in a hit-and-run car crash, according to her office and local authorities. Kaptur���s office said the congresswoman was a pas",
+      "desc": "Rep. Marcy Kaptur (D-Ohio) was hospitalized on Sunday after being involved in a hit-and-run car crash, according to her office and local authorities. Kaptur’s office said the congresswoman was a passe",
       "link": "https://thehill.com/homenews/house/6004482-rep-marcy-kaptur-hospitalized-hit-run/",
       "date": "Aug 2, 2026",
       "rawDate": "Sun, 02 Aug 2026 18:56:39 +0000",
@@ -191,15 +218,6 @@
       "tag": "technology"
     },
     {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "desc": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
       "desc": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder.",
       "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
@@ -209,8 +227,17 @@
       "tag": "technology"
     },
     {
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "desc": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "date": "Aug 2, 2026",
+      "rawDate": "Sun, 02 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "Trump slashes Medicare drug subsidies, cutting against affordability message",
-      "desc": "The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's message",
+      "desc": "The end of a subsidy program that helped keep prices down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's messag",
       "link": "https://thehill.com/homenews/administration/6003940-trump-slashes-medicare-drug-subsidies-cutting-against-affordability-message/",
       "date": "Aug 2, 2026",
       "rawDate": "Sun, 02 Aug 2026 10:00:00 +0000",
@@ -718,15 +745,6 @@
       "link": "https://thehill.com/policy/healthcare/5999340-senate-help-advances-trump-cdc-aspr-labor-nominees/",
       "date": "Jul 30, 2026",
       "rawDate": "Thu, 30 Jul 2026 14:20:24 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump administration unfreezes $600M for Gavi global vaccine effort",
-      "desc": "The Trump administration announced Wednesday that it would release $600 million in funding appropriated by Congress to an immunization program that serves children in poor countries.  The move is a re",
-      "link": "https://thehill.com/policy/healthcare/5999181-trump-releases-gavi-funding/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 14:02:05 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

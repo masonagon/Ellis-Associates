@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-03T20:20:58.960Z",
+  "generated": "2026-08-03T21:59:28.291Z",
   "news": [
+    {
+      "title": "Republican attorneys general warn OpenAI could face legal action over breach",
+      "desc": "{beacon} Technology &#8202; The Big Story  Republican AGs warn OpenAI could face legal action over breach  More than a dozen Republican attorneys general are calling on OpenAI to preserve records on i",
+      "link": "https://thehill.com/newsletters/technology/6006706-openai-republican-attorneys-general/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 21:22:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Second man sentenced for shooting that injured four in Kalamazoo",
+      "desc": "The incident happened near Little Caesars.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/second-man-sentenced-for-shooting-that-injured-four-in-kalamazoo.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 20:59:47 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democratic-led states join legal fight over Trump’s new tariffs",
+      "desc": "Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them “equally unlawful” to the ones the Supreme Court has invalidated.  The lawsuit a",
+      "link": "https://thehill.com/regulation/court-battles/6006607-democratic-states-sue-trump-tariffs/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 20:54:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republican attorneys general urge OpenAI to preserve records on Hugging Face breach",
+      "desc": "More than a dozen Republican attorneys general are calling on OpenAI to preserve records on its models' recent breach of another company, suggesting the AI firm may have violated state or federal laws",
+      "link": "https://thehill.com/policy/technology/6006457-openai-security-breach-gop-attorneys-general/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 20:54:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Piker dismisses talk of progressive implosion",
+      "desc": "Left-wing streamer Hasan Piker in a recent interview slammed the idea that progressive candidates pose a risk to Democrats in general elections. In an interview featured on CNN’s “The Whole Story With",
+      "link": "https://thehill.com/homenews/campaign/6006522-piker-slams-neoliberal-democratic-successes/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 20:31:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Michigan’s Senate primary: Where Abdul El-Sayed and Haley Stevens stand on key issues",
       "desc": "Michigan’s increasingly bare-knuckled and wildly expensive Democratic primary for U.S. Senate comes to a head on Tuesday. Here's where Haley Stevens and Abdul El-Sayed stand on key issues.",
@@ -21,7 +66,7 @@
     },
     {
       "title": "Aaron Rodgers: Fauci a ‘coward’ and a ‘criminal’ for taking the Fifth",
-      "desc": "Pittsburgh Steelers quarterback Aaron Rodgers launched into tirade against Dr. Anthony Fauci over the infectious disease expert's decision not to answer questions during a Senate hearing about the cor",
+      "desc": "On Monday, Pittsburgh Steelers quarterback Aaron Rodgers launched into tirade against Dr. Anthony Fauci over the infectious disease expert's decision not to answer questions during last week's Senate ",
       "link": "https://thehill.com/policy/sports-gaming/6006413-rodgers-attacks-fauci-senate-hearing/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 19:36:51 +0000",
@@ -74,24 +119,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump praises Max Miller, calls dispute with ex-wife &#039;a very sad thing&#039;",
-      "desc": "President Trump praised Rep. Max Miller (R-Ohio) as “a good person” on Monday amid domestic abuse allegations against the congressman. “It's a very sad thing. I know Max. He's a good person. I mean, I",
-      "link": "https://thehill.com/homenews/administration/6006297-trump-defends-miller-abuse-allegations/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 18:44:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ethics panel says Rep. Chuck Edwards violated ‘spirit’ of sexual harassment policies, recommends censure",
-      "desc": "The House Ethics Committee announced Monday that it had found Rep. Chuck Edwards's (R-N.C.) conduct with two young staff members had violated “the spirit” of the chamber’s rules against sexual harassm",
-      "link": "https://thehill.com/homenews/house/6006222-house-ethics-censure-chuck-edwards-sexual-harassment/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 18:39:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Midland parolee charged with punching deputy after allegedly entering stranger’s house",
       "desc": "Andrew Dvorak allegedly entered a family's home uninvited, then assaulted a deputy during arrest. He has eight prior convictions including three for assaulting police.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/midland-parolee-charged-with-punching-deputy-after-allegedly-entering-strangers-house.html",
@@ -110,17 +137,8 @@
       "tag": "government"
     },
     {
-      "title": "Trump taking economic message to California",
-      "desc": "President Trump will travel to California and Nevada to sell his economic message this week with stops in Los Angeles and Las Vegas.  On Tuesday, the president will attend a Republican National Commit",
-      "link": "https://thehill.com/homenews/administration/6006201-trump-economic-message-west/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 18:05:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hegseth&#039;s wife to head commission helping military spouses and families",
-      "desc": "President Trump signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter.  The new comm",
+      "desc": "President Trump signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter.  The new comm",
       "link": "https://thehill.com/policy/defense/6006186-trump-signs-military-spouse-commission/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 17:58:45 +0000",
@@ -200,6 +218,15 @@
       "tag": "safety"
     },
     {
+      "title": "Trump administration sued for banning gender transition treatments in federal health plans",
+      "desc": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration’s gender-affirming care coverage ban in federal workers’ health insurance plans.  The",
+      "link": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:11:15 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
       "title": "Ann Arbor woman killed after getting out of car on freeway during argument",
       "desc": "Police believe the driver of the car had been drinking.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/ann-arbor-woman-killed-after-getting-out-of-car-on-freeway-during-argument.html",
@@ -252,6 +279,15 @@
       "rawDate": "Mon, 03 Aug 2026 15:00:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
+    },
+    {
+      "title": "RFK Jr. says parents should vaccinate children against measles",
+      "desc": "Health and Human Services Secretary Robert F. Kennedy Jr. on Sunday endorsed the measles vaccine while also pushing a string of false and debunked assertions about other vaccines, RSV and the ongoing ",
+      "link": "https://thehill.com/policy/healthcare/6005580-rfk-jr-endorses-measles-vaccine/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 14:29:49 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Michigan judge exceeds guidelines in sending ‘serial rapist’ to prison for 20-35 years",
@@ -533,15 +569,6 @@
       "tag": "government"
     },
     {
-      "title": "Michigan farmer Dale Warner moved to UP prison, serving 31 years for wife’s murder",
-      "desc": "Warner was found guilty on March 10 of second-degree murder and tampering with evidence in connection with the murder of his wife Dee Warner.",
-      "link": "https://www.mlive.com/news/jackson/2026/08/michigan-farmer-dale-warner-moved-to-up-prison-serving-31-years-for-wifes-murder.html",
-      "date": "Aug 1, 2026",
-      "rawDate": "Sat, 01 Aug 2026 15:39:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Zelensky seeks Trump&#039;s help to persuade Musk to broaden Starlink access",
       "desc": "Ukrainian President Volodymyr Zelensky reportedly asked President Trump to help him persuade Elon Musk to allow the country to use Starlink in drone strikes against Russia. During his trip to the U.S.",
       "link": "https://thehill.com/policy/international/6003675-zelensky-asks-trump-starlink-access-musk/",
@@ -767,15 +794,6 @@
       "tag": "safety"
     },
     {
-      "title": "Will cyclospora spike again? Expert warns diarrhea parasite may spread through summer",
-      "desc": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up.",
-      "link": "https://thehill.com/policy/healthcare/6000188-will-cyclospora-spike-again-expert-warns-diarrhea-parasite-may-spread-through-summer/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 19:06:53 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "GRPS breaks ground on $7.4M school expansion",
       "desc": "Grand Rapids Public Schools broke ground Thursday on a 10,100-square-foot addition at Grand Rapids University Preparatory Academy.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/07/grps-breaks-ground-on-74m-school-expansion.html",
@@ -785,29 +803,11 @@
       "tag": "education"
     },
     {
-      "title": "Red Cross declares second-ever &#039;blood supply crisis&#039; as healthcare providers deal with shortage",
-      "desc": "Earlier this week, the Red Cross said it had less than a one-day supply of type O positive blood, which is \"the most commonly transfused blood type.\"",
-      "link": "https://thehill.com/policy/healthcare/5999572-red-cross-blood-supply-crisis/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 15:34:58 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Delta, United ban humanoid and animal robots from flights",
       "desc": "New policies from the airlines ban the robots from traveling in the passenger cabin or cargo hold.",
       "link": "https://thehill.com/policy/transportation/5998226-delta-united-airlines-ban-humanoid-animal-robots-lithium-battery-risk/",
       "date": "Jul 30, 2026",
       "rawDate": "Thu, 30 Jul 2026 10:42:40 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "More now say AI does more harm than good: Survey",
-      "desc": "More Americans now believe AI does more harm than good as concerns grow over the technology’s long-term impact, according to a recent survey. A Bentley University-Gallup survey released Tuesday showed",
-      "link": "https://thehill.com/homenews/5998236-americans-distrust-ai-jobs/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 22:42:48 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

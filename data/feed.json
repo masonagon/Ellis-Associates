@@ -1,41 +1,158 @@
 {
-  "generated": "2026-08-03T16:15:06.793Z",
+  "generated": "2026-08-03T18:43:54.224Z",
   "news": [
     {
-      "title": "Trump administration sued for banning gender transition treatments in federal health plans",
-      "desc": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration’s gender-affirming care coverage ban in federal workers’ health insurance plans.  The",
-      "link": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
+      "title": "Ethics panel says Rep. Chuck Edwards violated ‘spirit’ of sexual harassment policies, recommends censure",
+      "desc": "The House Ethics Committee on Monday announced that it had found Rep. Chuck Edwards's (R-N.C.) conduct with two young staff members had violated “the spirit” of the chamber’s rules against sexual hara",
+      "link": "https://thehill.com/homenews/house/6006222-house-ethics-censure-chuck-edwards-sexual-harassment/",
       "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 16:11:15 +0000",
+      "rawDate": "Mon, 03 Aug 2026 18:39:34 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Ex-Trump aide: White House &#039;trying to gaslight&#039; Americans with economic message",
-      "desc": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to “gaslight” the American public with their messaging on the economy.  “Republi",
-      "link": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
+      "title": "Midland parolee charged with punching deputy after allegedly entering stranger’s house",
+      "desc": "Andrew Dvorak allegedly entered a family's home uninvited, then assaulted a deputy during arrest. He has eight prior convictions including three for assaulting police.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/midland-parolee-charged-with-punching-deputy-after-allegedly-entering-strangers-house.html",
       "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 16:03:12 +0000",
+      "rawDate": "Mon, 03 Aug 2026 18:26:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "What voters should know for Ypsilanti mayor, city council races",
+      "desc": "Several incumbents, including Mayor Nicole Brown, face challengers in the Aug. 4 primary election.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/what-voters-should-know-for-ypsilanti-mayor-city-council-races.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 18:05:47 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump taking economic message to California",
+      "desc": "President Trump will travel to California and Nevada to sell his economic message this week with stops in Los Angeles and Las Vegas.  On Tuesday, the president will attend a Republican National Commit",
+      "link": "https://thehill.com/homenews/administration/6006201-trump-economic-message-west/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 18:05:42 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Hegseth&#039;s wife to head commission helping military spouses and families",
+      "desc": "President Trump signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter.  The new comm",
+      "link": "https://thehill.com/policy/defense/6006186-trump-signs-military-spouse-commission/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 17:58:45 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "2 cyclospora deaths reported in Michigan",
+      "desc": "Two people in Michigan who contracted cyclosporiasis have died, the state’s Department of Health and Human Services said Monday. The department noted both people had “significant underlying health con",
+      "link": "https://thehill.com/policy/healthcare/6006101-michigan-cyclosporiasis-deaths-reported/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 17:34:45 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Mother, 2-month-old son drown in bathtub at Michigan apartment complex",
+      "desc": "An autopsy conducted on the morning of Sunday, Aug. 2, by the Oakland County Medical Examiner confirmed the cause of death for the woman and child was drowning.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/mother-2-month-old-son-drown-in-bathtub-at-apartment-complex.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 17:18:47 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Prince Harry and Meghan&#039;s charitable arm urges Congress to act on AI deepfakes: &#039;More bills are sitting, waiting&#039;",
+      "desc": "The Duke and Duchess of Sussex are urging lawmakers to act on legislation involving AI deepfakes as their charitable organization, Archewell Philanthropies, calls out Big Tech for what it describes as",
+      "link": "https://thehill.com/blogs/in-the-know/6006089-prince-harry-meghans-archewell-ai-deepfakes/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 17:11:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ex-Trump insider rips the president as a ‘broken man’ after 2020 loss to Joe Biden",
+      "desc": "Sarah Matthews, who served as a White House deputy press secretary during Trump’s first term, as emerged as one of the president’s sharpest critics in recent years.",
+      "link": "https://www.mlive.com/politics/2026/08/ex-trump-insider-rips-the-president-as-a-broken-man-after-2020-loss-to-joe-biden.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:42:41 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jackson College to host free viewing of partial lunar eclipse on Aug. 27",
+      "desc": "Jackson College will open its astronomical observatory Thursday, Aug. 27, for a free public viewing of a partial lunar eclipse from sunset until 1 a.m.",
+      "link": "https://www.mlive.com/news/jackson/2026/08/jackson-college-to-host-free-viewing-of-partial-lunar-eclipse-on-aug-27.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:33:29 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Senate races through high-profile agenda",
+      "desc": "🐘 Plus: Republicans see Trump as a growing political liability {beacon} &#8202; It’s Monday. Happy August! It’s officially the season for salt air and the rust on your door … and hopefully an August ",
+      "link": "https://thehill.com/newsletters/1230-report/6006046-anti-weaponization-fund-trump-allies-ends-blanche-confirmation-ariana-grande-health/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:32:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Trump signs executive order",
+      "desc": "President Trump on Monday afternoon is scheduled to sign an executive order at the White House. The event comes after Sen. John Cornyn (R-Texas) reached a deal with the Justice Department to end the $",
+      "link": "https://thehill.com/video-clips/6005068-watch-live-trump-signs-executive-order/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Suspect in Saginaw mother of four’s execution-style killing deemed incompetent for trial",
+      "desc": "John Cirilo-Johnson is accused of fatally shooting Darnesha Spence-Poindexter in April as she begged for her life near a busy Saginaw intersection with multiple witnesses present.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/suspect-in-saginaw-mother-of-fours-execution-style-killing-deemed-incompetent-for-trial.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:28:05 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Where candidates for Michigan governor stand on 3 issues voters care about most",
+      "desc": "Here's where the candidates stand on the economy, education systems and data centers.",
+      "link": "https://www.mlive.com/public-interest/2026/08/where-candidates-for-michigan-governor-stand-on-3-issues-voters-care-about-most.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:25:39 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Summer Lee: Concerns over rise of socialism in Democratic Party &#039;political noise&#039;",
+      "desc": "Rep. Summer Lee (D-Pa.) said Sunday the attacks from the GOP over the rise of socialist candidates in the Democratic Party are “political noise” and not indicative of voters’ true concerns.   “That is",
+      "link": "https://thehill.com/homenews/house/6005835-summer-lee-dismisses-socialism-concerns/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:24:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trial set for February in fatal 810 Day shooting case involving Flint teen",
+      "desc": "A 19-year-old Flint man faces trial in February for charges related to a fatal shooting at Flint's 2025 810 Day celebration.",
+      "link": "https://www.mlive.com/news/flint/2026/08/trial-set-for-february-in-fatal-810-day-shooting-case-involving-flint-teen.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:23:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Ex-Trump aide: White House &#8216;trying to gaslight&#8217; Americans with economic message",
-      "desc": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to “gaslight” the American public with their messaging on the economy.  “Republi",
+      "desc": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to “gaslight” the American public with their messaging on the economy.&#160; “Re",
       "link": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 16:03:12 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Why the left won&#039;t win on transgender athletes in women&#039;s sports",
-      "desc": "Marine veteran Joslin Joseph argues that Democrats must address the tension between inclusivity and the principle of fair play regarding transgender athletes in sports.",
-      "link": "https://thehill.com/opinion/civil-rights/6004604-womens-sports-inclusion-debate/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Ann Arbor woman killed after getting out of car on freeway during argument",
@@ -45,15 +162,6 @@
       "rawDate": "Mon, 03 Aug 2026 15:20:46 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Live updates: Deal to end part of Trump&#039;s IRS settlement clears Blanche&#039;s confirmation path",
-      "desc": "The Senate Judiciary Committee is expected to vote Tuesday on acting Attorney General Todd Blanche's nomination, a path smoothed on Sunday by a deal reached with Sen. John Cornyn (R-Texas). “Sen. Corn",
-      "link": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 15:17:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Downtown Midland scavenger hunt welcomes Northwood students",
@@ -74,24 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "Martin denies report that 2024 DNC autopsy left out key chapter",
-      "desc": "The author of the Democratic National Committee’s (DNC) postmortem on the 2024 election said in an interview published Monday that the report left out a key chapter — accusations that DNC Chair Ken Ma",
-      "link": "https://thehill.com/homenews/campaign/6005651-martin-dnc-2024-autopsy-missing-chapter/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 15:08:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Spending bill blocks Trump plan to politicize grants",
-      "desc": "A spending bill unveiled Sunday by Senate Republicans would temporarily block the Trump administration's proposal to give political appointees control over hundreds of billions of dollars in scientifi",
-      "link": "https://thehill.com/homenews/senate/6005660-senate-spending-bill-trump-administration-scientific-grants/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 15:05:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Jackson teen pleads no contest in fatal crash that killed passenger during police chase",
       "desc": "Cayden Powers was 15 when he was charged with murder for the 2023 death of Jordan Jarrell, 15, who was killed in the crash while evading police.",
       "link": "https://www.mlive.com/news/jackson/2026/08/jackson-teen-pleads-no-contest-in-fatal-crash-that-killed-passenger-during-police-chase.html",
@@ -101,22 +191,13 @@
       "tag": "safety"
     },
     {
-      "title": "ODNI will start transition to Clayton on Monday, Pulte says",
-      "desc": "Acting Director of National Intelligence Bill Pulte said over the weekend he would begin to transition away from the role amid questions over why he remains at the office leading the intelligence comm",
-      "link": "https://thehill.com/homenews/administration/6005659-jay-clayton-dni-confirmation/",
+      "title": "Spending bill blocks Trump plan to politicize grants",
+      "desc": "A spending bill unveiled Sunday by Senate Republicans would temporarily block the Trump administration's proposal to give political appointees control over hundreds of billions of dollars in scientifi",
+      "link": "https://thehill.com/homenews/senate/6005660-senate-spending-bill-trump-administration-scientific-grants/",
       "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 15:02:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The silence on Vance&#039;s anti-Jewish conspiracy theories speaks volumes",
-      "desc": "The president and leading Republicans have all remained disturbingly silent about the Jewish conspiracy theorizing of Vice President JD Vance.",
-      "link": "https://thehill.com/homenews/6003032-vance-epstein-mossad-theory/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 15:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Mon, 03 Aug 2026 15:05:05 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "The Trader Joe's recipe contest just produced the summer dessert you didn't know you needed",
@@ -126,15 +207,6 @@
       "rawDate": "Mon, 03 Aug 2026 15:00:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Capital One says Trump Organization accounts were closed after money laundering review",
-      "desc": "Lawyers for Capital One on Friday asked a federal judge to dismiss a lawsuit brought by President Trump’s trust over its closing of Trump Organization-affiliated accounts years ago, saying it did so o",
-      "link": "https://thehill.com/business/6005468-capital-one-trump-accounts-debanking-money-laundering/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 14:59:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan judge exceeds guidelines in sending ‘serial rapist’ to prison for 20-35 years",
@@ -182,18 +254,18 @@
       "tag": "safety"
     },
     {
-      "title": "AI Conquered Coding. Fast Food Is Next",
-      "desc": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
-      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "desc": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
+      "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
-      "desc": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
-      "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "desc": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "Wired",
@@ -210,7 +282,7 @@
     },
     {
       "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-      "desc": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "desc": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
       "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 09:30:00 +0000",
@@ -488,15 +560,6 @@
       "tag": "safety"
     },
     {
-      "title": "Americans give Republicans and Democrats brutal ratings on #1 issue: New poll",
-      "desc": "Voters are split when it comes to each party’s handling of broad economic issues",
-      "link": "https://www.mlive.com/politics/2026/08/americans-give-republicans-and-democrats-brutal-ratings-on-1-issue-new-poll.html",
-      "date": "Aug 1, 2026",
-      "rawDate": "Sat, 01 Aug 2026 10:00:01 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Amazon received $600M in Trump tariff refunds, will return some to customers",
       "desc": "Amazon said this week that it received hundreds of millions of dollars in refunds from President Trump’s tariffs and pledged to return some of the profits to its customers.  This follows a Supreme Cou",
       "link": "https://thehill.com/business/6003349-amazon-receives-trump-tariff-refunds/",
@@ -522,24 +585,6 @@
       "rawDate": "Fri, 31 Jul 2026 21:50:34 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Three charged in Gaines Township shooting that left man dead in car",
-      "desc": "Two 18-year-olds and a 17-year-old are charged in the death of Aaron Amarr Yarbrough-Gordon, 18.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/three-charged-in-gaines-township-shooting-that-left-man-dead-in-car.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 21:03:54 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Michigan misses foster care safety benchmarks again, court oversight continues",
-      "desc": "The state failed to meet performance standards for 19 of 24 remaining criteria stemming from a 2006 class action lawsuit regarding its child welfare system.",
-      "link": "https://www.mlive.com/news/2026/07/michigan-misses-foster-care-safety-benchmarks-again-court-oversight-continues.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 19:53:43 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Washtenaw Community College adds 4 career-focused programs for fall semester",
@@ -569,15 +614,6 @@
       "tag": "safety"
     },
     {
-      "title": "‘Animal kills Saint’: Bay City man gets new sentence for brutal murder of retired nurse, 83",
-      "desc": "Robert Commire will serve 40 to 60 years for the 2007 murder of Rita Salogar. The victim's family asked for the maximum sentence and described decades of enduring devastation.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/animal-kills-saint-bay-city-man-gets-new-sentence-for-brutal-murder-of-retired-nurse-83.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 18:19:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Cybersecurity expert: &#039;Moderate confidence&#039; Iran attacked Minnesota water facilities",
       "desc": "National Center for Open and Unsolved Cases founder Morgan Wright said Thursday that there is “at least moderate confidence” that Iran is behind recent cybersecurity attacks on water facilities across",
       "link": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/",
@@ -585,24 +621,6 @@
       "rawDate": "Fri, 31 Jul 2026 17:49:36 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "New Metro Police Authority chief brings more than 2 decades of law enforcement experience",
-      "desc": "Michael Murphy became Metro Police Authority’s third chief earlier this year.",
-      "link": "https://www.mlive.com/news/flint/2026/07/new-metro-police-authority-chief-brings-more-than-2-decades-of-law-enforcement-experience.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 17:08:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "5 new victims identified in sex abuse case involving former LakeVille teacher",
-      "desc": "Matthew W. Chapin, 48, of Otisville, is newly charged with 10 counts of second-degree criminal sexual conduct involving at least one victim younger than 13 and others between the ages of 13 and 15.",
-      "link": "https://www.mlive.com/news/flint/2026/07/5-new-victims-identified-in-sex-abuse-case-involving-former-lakeville-teacher.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 17:01:59 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Livonia Public Schools chooses next superintendent to lead district into new chapter",
@@ -758,29 +776,11 @@
       "tag": "education"
     },
     {
-      "title": "Senate Republicans block resolution to halt Iran war",
-      "desc": "Senate Republicans on Thursday blocked a resolution directing President Trump to withdraw U.S. troops from hostilities with Iran, despite growing GOP discomfort over the expansion of the war and the i",
-      "link": "https://thehill.com/homenews/senate/5999704-senate-gop-iran-war-resolution/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 17:17:32 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Red Cross declares second-ever &#039;blood supply crisis&#039; as healthcare providers deal with shortage",
       "desc": "Earlier this week, the Red Cross said it had less than a one-day supply of type O positive blood, which is \"the most commonly transfused blood type.\"",
       "link": "https://thehill.com/policy/healthcare/5999572-red-cross-blood-supply-crisis/",
       "date": "Jul 30, 2026",
       "rawDate": "Thu, 30 Jul 2026 15:34:58 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Kennedy to host cooking show with focus on inexpensive meals",
-      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. has launched a show geared toward teaching Americans how to cook healthy, inexpensive meals. “Thanks to President Trump, we flipped the ",
-      "link": "https://thehill.com/policy/healthcare/5999541-kennedy-hhs-real-food-show-dietary-guidelines/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 14:57:57 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },
@@ -812,15 +812,6 @@
       "tag": "education"
     },
     {
-      "title": "DoorDash expands beyond drivers with new drone delivery program",
-      "desc": "Drone delivery is currently available in parts of Dallas-Fort Worth and Charlotte.",
-      "link": "https://thehill.com/business/5997588-doordash-expands-new-drone-delivery-service/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 19:23:48 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Feds claim Ann Arbor schools has illegal transgender student privacy policy",
       "desc": "The U.S. Education Department says Ann Arbor schools may be violating parental rights under FERPA, giving the district until Aug. 10 to respond.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/feds-claim-ann-arbor-schools-has-illegal-transgender-student-privacy-policy.html",
@@ -844,24 +835,6 @@
       "link": "https://www.mlive.com/news/jackson/2026/07/jackson-high-school-reminds-parents-of-cell-phone-ban-for-upcoming-school-year.html",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 13:54:50 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Pinconning schools place $19.9M bond proposal on November ballot",
-      "desc": "The bond would fund a new elementary addition to the middle school campus, consolidating all K-12 students on one site and addressing aging infrastructure.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/pinconning-schools-place-199m-bond-proposal-on-november-ballot.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 13:07:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Ann Arbor Bonsai Society hosts exhibition at University of Michigan botanical garden",
-      "desc": "The Ann Arbor Bonsai Society will hold their annual bonsai society member exhibition at the University of Michigan’s Matthaei Botanical Gardens Aug. 22-23.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/07/ann-arbor-bonsai-society-hosts-exhibition-at-university-of-michigan-botanical-garden.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 20:03:50 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

@@ -1,40 +1,166 @@
 {
-  "generated": "2026-08-03T13:33:33.818Z",
+  "generated": "2026-08-03T16:15:06.793Z",
   "news": [
     {
-      "title": "What kind of political advertising spin can help the flailing Republicans?",
-      "desc": "Kentucky Gov. Andy Beshear is demanding that Senator Mitch McConnell provide a video message to address rumors regarding his health following several weeks of inactivity in the Senate.",
-      "link": "https://thehill.com/opinion/white-house/6004136-mcconnell-missed-senate-votes/",
+      "title": "Trump administration sued for banning gender transition treatments in federal health plans",
+      "desc": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration’s gender-affirming care coverage ban in federal workers’ health insurance plans.  The",
+      "link": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
       "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 13:30:00 +0000",
+      "rawDate": "Mon, 03 Aug 2026 16:11:15 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Carville: Progressive left &#039;too hot-headed to know that they&#039;re not popular&#039;",
-      "desc": "Democratic strategist James Carville on Sunday accused the Democratic Party's progressive left of being \"too hot-headed to know that they're not popular.\" Carville made the claim in an interview for C",
-      "link": "https://thehill.com/homenews/campaign/6005137-carville-criticizes-democratic-progressives/",
+      "title": "Ex-Trump aide: White House &#039;trying to gaslight&#039; Americans with economic message",
+      "desc": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to “gaslight” the American public with their messaging on the economy.  “Republi",
+      "link": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
       "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 13:15:16 +0000",
+      "rawDate": "Mon, 03 Aug 2026 16:03:12 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Ex-Trump aide: White House &#8216;trying to gaslight&#8217; Americans with economic message",
+      "desc": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to “gaslight” the American public with their messaging on the economy.  “Republi",
+      "link": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:03:12 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Why the left won&#039;t win on transgender athletes in women&#039;s sports",
+      "desc": "Marine veteran Joslin Joseph argues that Democrats must address the tension between inclusivity and the principle of fair play regarding transgender athletes in sports.",
+      "link": "https://thehill.com/opinion/civil-rights/6004604-womens-sports-inclusion-debate/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ann Arbor woman killed after getting out of car on freeway during argument",
+      "desc": "Police believe the driver of the car had been drinking.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/ann-arbor-woman-killed-after-getting-out-of-car-on-freeway-during-argument.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:20:46 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Live updates: Deal to end part of Trump&#039;s IRS settlement clears Blanche&#039;s confirmation path",
       "desc": "The Senate Judiciary Committee is expected to vote Tuesday on acting Attorney General Todd Blanche's nomination, a path smoothed on Sunday by a deal reached with Sen. John Cornyn (R-Texas). “Sen. Corn",
       "link": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
       "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 13:09:58 +0000",
+      "rawDate": "Mon, 03 Aug 2026 15:17:21 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Cornyn deals with Blanche; Senate gets spending deal; GOP family clashes: Join the live discussion",
-      "desc": "Sen. Bernie Moreno (R-Ohio) is calling for his son-in-law, Rep. Max Miller (R-Ohio), to resign from the House over allegations from Miller’s former wife. It’s the latest personnel problem for Speaker ",
-      "link": "https://thehill.com/homenews/editors-call/6005181-senate-government-funding-deal-live-discussion/",
+      "title": "Downtown Midland scavenger hunt welcomes Northwood students",
+      "desc": "The annual Go MAD March on Aug. 21 takes new Northwood University students through 23 local businesses, helping them form connections and see entrepreneurship in action.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/downtown-midland-scavenger-hunt-welcomes-northwood-students.html",
       "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 12:50:17 +0000",
+      "rawDate": "Mon, 03 Aug 2026 15:13:43 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Freeland man, 22, charged with producing sexual imagery of minor girls",
+      "desc": "The 22-year-old allegedly recorded himself during a livestream with two prepubescent girls, exposing himself and requesting specific acts through chat messages.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/freeland-man-22-charged-with-producing-sexual-imagery-of-minor-girls.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:13:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Martin denies report that 2024 DNC autopsy left out key chapter",
+      "desc": "The author of the Democratic National Committee’s (DNC) postmortem on the 2024 election said in an interview published Monday that the report left out a key chapter — accusations that DNC Chair Ken Ma",
+      "link": "https://thehill.com/homenews/campaign/6005651-martin-dnc-2024-autopsy-missing-chapter/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:08:02 +0000",
       "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Spending bill blocks Trump plan to politicize grants",
+      "desc": "A spending bill unveiled Sunday by Senate Republicans would temporarily block the Trump administration's proposal to give political appointees control over hundreds of billions of dollars in scientifi",
+      "link": "https://thehill.com/homenews/senate/6005660-senate-spending-bill-trump-administration-scientific-grants/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:05:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jackson teen pleads no contest in fatal crash that killed passenger during police chase",
+      "desc": "Cayden Powers was 15 when he was charged with murder for the 2023 death of Jordan Jarrell, 15, who was killed in the crash while evading police.",
+      "link": "https://www.mlive.com/news/jackson/2026/08/jackson-teen-pleads-no-contest-in-fatal-crash-that-killed-passenger-during-police-chase.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:05:05 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "ODNI will start transition to Clayton on Monday, Pulte says",
+      "desc": "Acting Director of National Intelligence Bill Pulte said over the weekend he would begin to transition away from the role amid questions over why he remains at the office leading the intelligence comm",
+      "link": "https://thehill.com/homenews/administration/6005659-jay-clayton-dni-confirmation/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:02:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The silence on Vance&#039;s anti-Jewish conspiracy theories speaks volumes",
+      "desc": "The president and leading Republicans have all remained disturbingly silent about the Jewish conspiracy theorizing of Vice President JD Vance.",
+      "link": "https://thehill.com/homenews/6003032-vance-epstein-mossad-theory/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Trader Joe's recipe contest just produced the summer dessert you didn't know you needed",
+      "desc": "The Cocoa Sugar Shells recipe from Store #788 in Crestview Hills turned a humble freezer staple into a showstopping summer treat.",
+      "link": "https://www.mlive.com/business/2026/08/the-trader-joes-recipe-contest-produced-some-wild-dishes-this-year-and-one-kentucky-store-stole-the-show.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 15:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Capital One says Trump Organization accounts were closed after money laundering review",
+      "desc": "Lawyers for Capital One on Friday asked a federal judge to dismiss a lawsuit brought by President Trump’s trust over its closing of Trump Organization-affiliated accounts years ago, saying it did so o",
+      "link": "https://thehill.com/business/6005468-capital-one-trump-accounts-debanking-money-laundering/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 14:59:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan judge exceeds guidelines in sending ‘serial rapist’ to prison for 20-35 years",
+      "desc": "Lequin Warren, 42, was convicted in May of abusing two young sisters over several years.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/michigan-judge-exceeds-guidelines-in-sending-serial-rapist-to-prison-for-20-35-years.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 13:50:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "A Trader Joe's employee just spilled the store's best flower secrets",
+      "desc": "From bulk buckets to calling ahead for specific blooms, the store's floral perks are hiding in plain sight.",
+      "link": "https://www.mlive.com/business/2026/08/the-best-time-to-shop-for-flowers-at-trader-joes-is-more-specific-than-you-might-think.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 13:43:16 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "The stunning reason why James Carville might abandon the Democratic Party",
+      "desc": "In an appearance on Fox News, Carville said either himself or Piker needed to leave the Democratic Party.",
+      "link": "https://www.mlive.com/politics/2026/08/the-stunning-reason-why-james-carville-might-abandon-the-democratic-party.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 13:41:34 +0000",
+      "source": "MLive Politics",
       "tag": "government"
     },
     {
@@ -45,78 +171,6 @@
       "rawDate": "Mon, 03 Aug 2026 12:41:36 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Former US Rep. Kay Granger dies at 83",
-      "desc": "Lawmakers are mourning the death of former Rep. Kay Granger (R-Texas), who died on Sunday at the age of 83 years old.  Granger, the first GOP woman to chair the House Appropriations Committee, was wel",
-      "link": "https://thehill.com/homenews/house/6005128-former-us-rep-kay-granger-dies-at-83/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 12:33:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "A victory for El-Sayed in Michigan could be a loss for Democrats nationally",
-      "desc": "Progressives may be on the cusp of winning the battle only to lose the war.",
-      "link": "https://thehill.com/opinion/campaign/6003152-michigan-democratic-primary-2026/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The democratic approach to confronting climate change",
-      "desc": "The decisions we each make every day, particularly how we use energy, influence whether the weather becomes more extreme.",
-      "link": "https://thehill.com/opinion/energy-environment/6003196-mitigating-extreme-weather-damages/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate Republican on fatal In-N-Out shooting: ‘Idaho is heartbroken’",
-      "desc": "Sen. Mike Crapo (R-Idaho) late Sunday lamented a fatal shooting at a newly opened In-N-Out in Twin Falls, Idaho, saying the state is \"heartbroken.\" “Idaho is heartbroken by the senseless violence that",
-      "link": "https://thehill.com/homenews/state-watch/6005098-twin-falls-in-n-out-shooting/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 11:46:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "No one failed harder during COVID than our media",
-      "desc": "Anthony Fauci's recent appearance before Congress is a good reminder that his reign of error during COVID would not have been possible without a deeply partisan and starstruck press. As Fauci sat last",
-      "link": "https://thehill.com/opinion/healthcare/6000938-fauci-congress-fifth-amendment/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate Republicans see Trump as a growing political liability",
-      "desc": "Senate Republicans say they see President Trump as a growing political liability as they try to hang on to control of the Senate in the 2026 midterm elections, citing the president's repeated attacks ",
-      "link": "https://thehill.com/homenews/senate/6003165-senate-republicans-trump-political-liability-midterms/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 10:18:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cornyn reaches deal on &#039;anti-weaponization fund&#039; to allow Blanche nomination to advance",
-      "desc": "Sen. John Cornyn (R-Texas) has reached a deal with the Justice Department to end the $1.8 billion “anti-weaponization” fund for President Trump's allies, paving the way for Cornyn to vote to advance T",
-      "link": "https://thehill.com/homenews/senate/6005040-justice-dept-ends-anti-weaponization-fund/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 10:11:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "OMB&#039;s proposed grantmaking rule will destabilize biomedical research, experts warn",
-      "desc": "A proposed rule from the Office of Management and Budget to revise the federal grantmaking process is drawing widespread opposition from across multiple industries. Members of the medical research com",
-      "link": "https://thehill.com/policy/healthcare/6003271-proposed-federal-grant-omb/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Hegseth struggles to sell Senate on Iran war funding",
@@ -144,6 +198,15 @@
       "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
+    },
+    {
+      "title": "OMB&#039;s proposed grantmaking rule will destabilize biomedical research, experts warn",
+      "desc": "A proposed rule from the Office of Management and Budget to revise the federal grantmaking process is drawing widespread opposition from across multiple industries. Members of the medical research com",
+      "link": "https://thehill.com/policy/healthcare/6003271-proposed-federal-grant-omb/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
@@ -371,6 +434,15 @@
       "tag": "safety"
     },
     {
+      "title": "Zelensky seeks Trump&#039;s help to persuade Musk to broaden Starlink access",
+      "desc": "Ukrainian President Volodymyr Zelensky reportedly asked President Trump to help him persuade Elon Musk to allow the country to use Starlink in drone strikes against Russia. During his trip to the U.S.",
+      "link": "https://thehill.com/policy/international/6003675-zelensky-asks-trump-starlink-access-musk/",
+      "date": "Aug 1, 2026",
+      "rawDate": "Sat, 01 Aug 2026 15:23:52 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "Michigan justices find 50-year sentence for juvenile murderer ‘unconstitutionally excessive’",
       "desc": "The Michigan Supreme Court ruled Thursday that sentencing a juvenile offender to 50 years to 75 years for second-degree murder is “unconstitutionally excessive.”",
       "link": "https://www.mlive.com/news/2026/08/michigan-justices-find-50-year-sentence-for-juvenile-murderer-unconstitutionally-excessive.html",
@@ -423,6 +495,15 @@
       "rawDate": "Sat, 01 Aug 2026 10:00:01 +0000",
       "source": "MLive Politics",
       "tag": "government"
+    },
+    {
+      "title": "Amazon received $600M in Trump tariff refunds, will return some to customers",
+      "desc": "Amazon said this week that it received hundreds of millions of dollars in refunds from President Trump’s tariffs and pledged to return some of the profits to its customers.  This follows a Supreme Cou",
+      "link": "https://thehill.com/business/6003349-amazon-receives-trump-tariff-refunds/",
+      "date": "Aug 1, 2026",
+      "rawDate": "Sat, 01 Aug 2026 01:46:37 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "US planning renewed strikes on Iran: Reports",
@@ -506,15 +587,6 @@
       "tag": "technology"
     },
     {
-      "title": "Your guide to what’s on the Aug. 4 primary election ballot in Kent, Ottawa and Muskegon counties",
-      "desc": "State, local and federal primaries, school and government tax proposals and more are on the Aug. 4 ballot in West Michigan.",
-      "link": "https://www.mlive.com/politics/2026/07/your-guide-to-whats-on-the-aug-4-primary-election-ballot-in-kent-ottawa-and-muskegon-counties.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 17:45:59 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "New Metro Police Authority chief brings more than 2 decades of law enforcement experience",
       "desc": "Michael Murphy became Metro Police Authority’s third chief earlier this year.",
       "link": "https://www.mlive.com/news/flint/2026/07/new-metro-police-authority-chief-brings-more-than-2-decades-of-law-enforcement-experience.html",
@@ -529,51 +601,6 @@
       "link": "https://www.mlive.com/news/flint/2026/07/5-new-victims-identified-in-sex-abuse-case-involving-former-lakeville-teacher.html",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 17:01:59 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Michigan Supreme Court opens path to freedom for prisoners convicted under long-rejected law",
-      "desc": "Scores of elderly prisoners convicted under a legal precedent rejected by Michigan’s courts decades ago will have a shot at parole under the terms of a new ruling by the Michigan Supreme Court.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/07/michigan-supreme-court-opens-path-to-freedom-for-prisoners-convicted-under-long-rejected-law.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 16:56:54 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Teen gets up to 62 years in prison for murdering security guard at Kalamazoo distillery",
-      "desc": "Kaiden Cole, 19, was sentenced Friday, July 31 for fatally shooting Montine Wiley Jr., 27, outside a Kalamazoo distillery in 2025. Wiley had worked with Kalamazoo's Group Violence Intervention team an",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/07/teen-gets-up-to-62-years-in-prison-for-murdering-security-guard-at-kalamazoo-distillery.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 16:26:18 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Michigan lawmakers make big push to bring cutting-edge Coast Guard drone testing to Northern Michigan",
-      "desc": "The bipartisan effort would establish Traverse City as a premier testing site for autonomous maritime technologies, creating new research opportunities while strengthening search and rescue capabiliti",
-      "link": "https://www.mlive.com/environment/2026/07/michigan-lawmakers-make-big-push-to-bring-cutting-edge-coast-guard-drone-testing-to-northern-michigan.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 16:11:15 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Two plead guilty in Jackson County gun theft case",
-      "desc": "In pleading guilty, the pair’s armed robbery charges were reduced to larceny and an additional larceny charge will be dismissed at sentencing.",
-      "link": "https://www.mlive.com/news/jackson/2026/07/two-plead-guilty-in-jackson-county-gun-theft-case.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 15:17:45 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Flint man to stand trial next month in double homicide of 2 teens",
-      "desc": "Ryan Davis will stand trial in August for allegedly killing two teens in 2024.",
-      "link": "https://www.mlive.com/news/flint/2026/07/flint-man-to-stand-trial-next-month-in-double-homicide-of-2-teens.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 14:32:12 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -758,15 +785,6 @@
       "tag": "health"
     },
     {
-      "title": "More cases reported in cyclospora outbreak not linked to lettuce: FDA data",
-      "desc": "More than a dozen cases of cyclosporiasis have been linked to this new outbreak.",
-      "link": "https://thehill.com/policy/healthcare/5999331-more-cases-reported-in-cyclospora-outbreak-not-linked-to-lettuce-fda-data/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 14:56:56 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Delta, United ban humanoid and animal robots from flights",
       "desc": "New policies from the airlines ban the robots from traveling in the passenger cabin or cargo hold.",
       "link": "https://thehill.com/policy/transportation/5998226-delta-united-airlines-ban-humanoid-animal-robots-lithium-battery-risk/",
@@ -803,15 +821,6 @@
       "tag": "technology"
     },
     {
-      "title": "Senate Democrats press tech giants on AI safeguards for &#039;at-risk users&#039;",
-      "desc": "Two Democrats on the Senate Special Committee on Aging sent letters to tech giants Meta, OpenAI and X asking what safeguards the companies have in place to protect “at-risk users,” while AI scams are ",
-      "link": "https://thehill.com/policy/technology/5997499-senators-ask-meta-ai-safeguards/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 18:51:01 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Feds claim Ann Arbor schools has illegal transgender student privacy policy",
       "desc": "The U.S. Education Department says Ann Arbor schools may be violating parental rights under FERPA, giving the district until Aug. 10 to respond.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/feds-claim-ann-arbor-schools-has-illegal-transgender-student-privacy-policy.html",
@@ -828,15 +837,6 @@
       "rawDate": "Wed, 29 Jul 2026 17:38:18 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Zuckerberg knocks AI development centralization, control",
-      "desc": "Meta CEO Mark Zuckerberg criticized the centralization of AI development on Tuesday, arguing the future of the technology should not be controlled by a limited group of major players. In a Wall Street",
-      "link": "https://thehill.com/policy/technology/5997028-mark-zuckerberg-ai-development-centralization-criticism/",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 16:32:41 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Jackson High School reminds parents of cell phone ban for upcoming school year",
@@ -862,15 +862,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/07/ann-arbor-bonsai-society-hosts-exhibition-at-university-of-michigan-botanical-garden.html",
       "date": "Jul 28, 2026",
       "rawDate": "Tue, 28 Jul 2026 20:03:50 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "3 Southwest Michigan districts seek tax renewals in Aug. 4 election",
-      "desc": "Three Southwest Michigan school districts seek voter approval to renew non-homestead millages for operational funding.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/07/3-southwest-michigan-districts-seek-tax-renewals-in-aug-4-election.html",
-      "date": "Jul 28, 2026",
-      "rawDate": "Tue, 28 Jul 2026 17:45:53 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

@@ -1,6 +1,96 @@
 {
-  "generated": "2026-08-03T10:33:34.346Z",
+  "generated": "2026-08-03T13:33:33.818Z",
   "news": [
+    {
+      "title": "What kind of political advertising spin can help the flailing Republicans?",
+      "desc": "Kentucky Gov. Andy Beshear is demanding that Senator Mitch McConnell provide a video message to address rumors regarding his health following several weeks of inactivity in the Senate.",
+      "link": "https://thehill.com/opinion/white-house/6004136-mcconnell-missed-senate-votes/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 13:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Carville: Progressive left &#039;too hot-headed to know that they&#039;re not popular&#039;",
+      "desc": "Democratic strategist James Carville on Sunday accused the Democratic Party's progressive left of being \"too hot-headed to know that they're not popular.\" Carville made the claim in an interview for C",
+      "link": "https://thehill.com/homenews/campaign/6005137-carville-criticizes-democratic-progressives/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 13:15:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Deal to end part of Trump&#039;s IRS settlement clears Blanche&#039;s confirmation path",
+      "desc": "The Senate Judiciary Committee is expected to vote Tuesday on acting Attorney General Todd Blanche's nomination, a path smoothed on Sunday by a deal reached with Sen. John Cornyn (R-Texas). “Sen. Corn",
+      "link": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 13:09:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cornyn deals with Blanche; Senate gets spending deal; GOP family clashes: Join the live discussion",
+      "desc": "Sen. Bernie Moreno (R-Ohio) is calling for his son-in-law, Rep. Max Miller (R-Ohio), to resign from the House over allegations from Miller’s former wife. It’s the latest personnel problem for Speaker ",
+      "link": "https://thehill.com/homenews/editors-call/6005181-senate-government-funding-deal-live-discussion/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 12:50:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Detroit’s crime turnaround continues as homicides fall another 15%",
+      "desc": "New numbers show homicides are down another 15% this year as violent crime continues to decline across the city, building on historic lows reached in 2025.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/detroits-crime-turnaround-continues-as-homicides-fall-another-15.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 12:41:36 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Former US Rep. Kay Granger dies at 83",
+      "desc": "Lawmakers are mourning the death of former Rep. Kay Granger (R-Texas), who died on Sunday at the age of 83 years old.  Granger, the first GOP woman to chair the House Appropriations Committee, was wel",
+      "link": "https://thehill.com/homenews/house/6005128-former-us-rep-kay-granger-dies-at-83/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 12:33:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "A victory for El-Sayed in Michigan could be a loss for Democrats nationally",
+      "desc": "Progressives may be on the cusp of winning the battle only to lose the war.",
+      "link": "https://thehill.com/opinion/campaign/6003152-michigan-democratic-primary-2026/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 12:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The democratic approach to confronting climate change",
+      "desc": "The decisions we each make every day, particularly how we use energy, influence whether the weather becomes more extreme.",
+      "link": "https://thehill.com/opinion/energy-environment/6003196-mitigating-extreme-weather-damages/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate Republican on fatal In-N-Out shooting: ‘Idaho is heartbroken’",
+      "desc": "Sen. Mike Crapo (R-Idaho) late Sunday lamented a fatal shooting at a newly opened In-N-Out in Twin Falls, Idaho, saying the state is \"heartbroken.\" “Idaho is heartbroken by the senseless violence that",
+      "link": "https://thehill.com/homenews/state-watch/6005098-twin-falls-in-n-out-shooting/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 11:46:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "No one failed harder during COVID than our media",
+      "desc": "Anthony Fauci's recent appearance before Congress is a good reminder that his reign of error during COVID would not have been possible without a deeply partisan and starstruck press. As Fauci sat last",
+      "link": "https://thehill.com/opinion/healthcare/6000938-fauci-congress-fifth-amendment/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Senate Republicans see Trump as a growing political liability",
       "desc": "Senate Republicans say they see President Trump as a growing political liability as they try to hang on to control of the Senate in the 2026 midterm elections, citing the president's repeated attacks ",
@@ -11,20 +101,11 @@
       "tag": "government"
     },
     {
-      "title": "Cornyn reaches deal with Justice Department to allow Blanche nomination to advance",
+      "title": "Cornyn reaches deal on &#039;anti-weaponization fund&#039; to allow Blanche nomination to advance",
       "desc": "Sen. John Cornyn (R-Texas) has reached a deal with the Justice Department to end the $1.8 billion “anti-weaponization” fund for President Trump's allies, paving the way for Cornyn to vote to advance T",
       "link": "https://thehill.com/homenews/senate/6005040-justice-dept-ends-anti-weaponization-fund/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 10:11:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Hegseth struggles to sell Senate on Iran war funding",
-      "desc": "Defense Secretary Pete Hegseth has yet to win any notable converts in the Trump administration's push for tens of billions of dollars to quickly inject into the Iran war, which has rapidly exhausted U",
-      "link": "https://thehill.com/policy/defense/6003191-pete-hegseth-iran-war-reconciliation-funding/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -38,18 +119,27 @@
       "tag": "government"
     },
     {
-      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
-      "desc": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
-      "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "title": "Hegseth struggles to sell Senate on Iran war funding",
+      "desc": "Defense Secretary Pete Hegseth has yet to win any notable converts in the Trump administration's push for tens of billions of dollars to quickly inject into the Iran war, which has rapidly exhausted U",
+      "link": "https://thehill.com/policy/defense/6003191-pete-hegseth-iran-war-reconciliation-funding/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "desc": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "AI Conquered Coding. Fast Food Is Next",
-      "desc": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
-      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "desc": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
+      "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 10:00:00 +0000",
       "source": "Wired",
@@ -65,85 +155,13 @@
       "tag": "technology"
     },
     {
-      "title": "California Democratic Party backs billionaire tax despite internal opposition",
-      "desc": "The California Democratic (CADEM) Party on Sunday announced that it backs a ballot measure to charge the state’s 200 billionaires with a one-time, five-percent tax on their net worth, a measure that h",
-      "link": "https://thehill.com/homenews/campaign/6004926-california-democrats-prop-40-endorse/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 03:21:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate appropriators reach funding deal to avoid shutdown",
-      "desc": "Senators on the Appropriations Committee on Sunday agreed to a funding bill that would prevent a government shutdown at the end of September and fund the government through part of December. An initia",
-      "link": "https://thehill.com/homenews/senate/6004900-senate-agrees-funding-bill/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 02:28:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sanders: Look at what Mamdani is doing and contrast that with Trump",
-      "desc": "Sen. Bernie Sanders (I-Vt.) on Sunday contrasted New York City Mayor Zohran Mamdani's (D) policies with President Trump's, responding to cries against socialism amid the recent wave of democratic soci",
-      "link": "https://thehill.com/homenews/campaign/6004734-sanders-contrasts-mamdani-trump/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 23:13:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Chevron chief on Iran war impacting energy markets: &#8216;The situation remains somewhat fragile and uncertain&#8217;",
-      "desc": "Mike Wirth, Chevron chair and CEO, said the impact that the Iran war has had on energy markets has left things &#8220;somewhat fragile and uncertain.&#8221; Wirth told Fox News&#8217;s Maria Bartiromo",
-      "link": "https://thehill.com/policy/energy-environment/6004653-chevron-ceo-oil-market-risks/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 22:06:48 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Lankford says Senate GOP &#039;will keep going&#039; if it can&#039;t pass 3 legislative priorities before recess",
-      "desc": "GOP Sen. James Lankford (Okla.) is among the chorus of Republican senators arguing for the upper chamber to delay its planned recess starting at the end of this week if lawmakers cannot pass the party",
-      "link": "https://thehill.com/homenews/senate/6004692-gop-senators-delay-recess/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 21:59:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sanders: I will endorse Jackson &#039;if he asks me to&#039;",
-      "desc": "Sen. Bernie Sanders (I-Vt.) on Sunday backed new Maine Senate Democratic nominee Troy Jackson and said he will officially endorse the former state Senate president if Jackson “asks” him to. “You want ",
-      "link": "https://thehill.com/homenews/campaign/6004642-sanders-backs-maine-jackson/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 21:19:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Carville rips Piker: &#039;If he becomes a force in the Democratic Party, I’m out of here&#039;",
-      "desc": "Democratic strategist James Carville on Sunday ripped into popular left-wing Twitch streamer Hasan Piker, saying that if he shapes himself into a force within the Democratic Party, \"I'm out of here.\" ",
-      "link": "https://thehill.com/homenews/campaign/6004598-carville-piker-democratic-party-split/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 21:05:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Senate GOP looks for &#039;chorus&#039; of Republicans to fill void left by Graham",
       "desc": "Sen. Lindsey Graham’s (R-S.C.) death has left a massive hole in the hawkish wing of the Senate GOP as President Trump navigates the wars in Iran and Ukraine. There’s broad agreement that no single law",
       "link": "https://thehill.com/homenews/senate/6002871-lindsey-graham-foreign-policy-senate-gop/",
       "date": "Aug 2, 2026",
       "rawDate": "Sun, 02 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "This week on the Hill: Thune faces jam-packed week before senators leave for recess",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) is staring down one of his busiest weeks of the year as Republicans race to wrap up a lengthy to-do list before lawmakers leave Washington for the month-long",
-      "link": "https://thehill.com/homenews/senate/6004556-thune-budget-resolution-stopgap-blanche/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Parents of 4 teens who died by suicide are suing the biggest names in social media",
@@ -299,15 +317,6 @@
       "tag": "technology"
     },
     {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "desc": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Trump slashes Medicare drug subsidies, cutting against affordability message",
       "desc": "The end of a subsidy program that helped keep prices down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's messag",
       "link": "https://thehill.com/homenews/administration/6003940-trump-slashes-medicare-drug-subsidies-cutting-against-affordability-message/",
@@ -378,15 +387,6 @@
       "rawDate": "Sat, 01 Aug 2026 13:00:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "15 Best Office Chairs of 2026— We Tested 70 to Pick Them",
-      "desc": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
-      "link": "https://www.wired.com/gallery/best-office-chairs-button-1/",
-      "date": "Aug 1, 2026",
-      "rawDate": "Sat, 01 Aug 2026 11:59:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Your guide to the August 2026 primary election in Washtenaw County",
@@ -585,15 +585,6 @@
       "rawDate": "Fri, 31 Jul 2026 14:04:53 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Attorney General files complaint against Saginaw-area doctor over alleged missing autopsy reports",
-      "desc": "The Michigan Attorney General’s Office has filed an administrative complaint against a Saginaw County-based doctor over alleged missing autopsy reports.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/07/attorney-general-files-complaint-against-saginaw-area-doctor-over-alleged-missing-autopsy-reports.html",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 13:50:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Hamas says it has reached an agreement to disarm",

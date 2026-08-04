@@ -1,37 +1,145 @@
 {
-  "generated": "2026-08-04T10:28:30.453Z",
+  "generated": "2026-08-04T12:53:39.751Z",
   "news": [
+    {
+      "title": "DSA is Democrat base, co-chair says",
+      "desc": "Megan Romer, the co-chair of the Democratic Socialists of America (DSA), said Monday that the organization's members make up the base of the Democratic Party. Romer was pressed by NewsNation's \"Cuomo\"",
+      "link": "https://thehill.com/homenews/campaign/6007223-democratic-socialists-of-ameria-midterms-base-megan-romer/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 12:40:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Blanche nomination goes up for Senate Judiciary vote",
+      "desc": "Acting Attorney General Todd Blanche will face a Senate Judiciary Committee vote Tuesday morning to advance his nomination for the permanent job. The vote comes a week after a previous one was cancele",
+      "link": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 12:21:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump’s tariffs are his biggest policy failure",
+      "desc": "President Trump's tariff policies have faced criticism for failing to reduce the trade deficit, hurting U.S. businesses, and providing insufficient revenue to offset the federal deficit.",
+      "link": "https://thehill.com/opinion/finance/6006905-us-trade-deficit-tariffs/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cargo ship reports being struck in Strait of Hormuz",
+      "desc": "A cargo ship reported Monday that it was struck by a projectile while passing through the Strait of Hormuz overnight, as the U.S. and Iran are at odds over holding new peace talks. The United Kingdom ",
+      "link": "https://thehill.com/policy/international/6007184-strait-of-hormuz-cargo-ship-strike-iran-us-conflict/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:51:04 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Polls open for Aug. 4 primary election in Washtenaw County",
+      "desc": "Mayoral races, millage proposals and federal offices are all on the ballot.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/polls-open-for-aug-4-primary-election-in-washtenaw-county.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:40:51 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump overhaul could gut Head Start preschool standards, leaving states to set the rules",
+      "desc": "President Donald Trump's administration is planning a dramatic overhaul of Head Start that would gut its quality standards, upending the hallmarks of the early education program for impoverished child",
+      "link": "https://thehill.com/homenews/education/6006416-trump-administration-education-overhaul-head-start-program/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:28:23 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "The Best Cordless Vacuums (2026): My Brand-New Top Pick",
+      "desc": "Clean your house without the constraint of a power cord, thanks to these stick vacuums.",
+      "link": "https://www.wired.com/gallery/the-best-cordless-vacuum/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "This University of Michigan college is moving away from traditional grading",
+      "desc": "LSA is the largest of UM’s 19 colleges and schools.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/this-university-of-michigan-college-is-moving-away-from-traditional-grading.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:00:01 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Polls are now open for the Aug. 4 primary election in Jackson County",
+      "desc": "It is 7 a.m. and polls are open for the Tuesday, Aug. 4, election. They will remain open until 8 p.m.",
+      "link": "https://www.mlive.com/news/jackson/2026/08/polls-are-now-open-for-the-aug-4-primary-election-in-jackson-county.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan primary election 2026: Polls are open",
+      "desc": "Voters will which decide candidates will advance to the November general election in races for governor, U.S. Senate and more.",
+      "link": "https://www.mlive.com/politics/2026/08/michigan-primary-election-2026-polls-are-open.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Congress should rein in EPA overreach to protect affordable and reliable energy",
+      "desc": "The End EPA Abuse Act offers a practical path forward.",
+      "link": "https://thehill.com/opinion/energy-environment/5972141-lee-clyde-energy-bill/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Is This Poker Player Bluffing? The AI Thinks So",
+      "desc": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+      "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Five primary races to watch as Michigan takes spotlight",
+      "desc": "In today's issue: ▪ Key primaries in Michigan, Missouri ▪ South Carolina Senate GOP debate ▪ First deaths from cyclospora outbreak ▪ Jeanine Pirro on the rocks Voters are heading to the polls today in",
+      "link": "https://thehill.com/newsletters/morning-report/6007150-five-primaries-to-watch-michigan-in-spotlight/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 10:59:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI skills more valuable than MBA, new survey suggests",
+      "desc": "Among the executives surveyed, 91% said they're increasing compensation for employees with AI skills.",
+      "link": "https://thehill.com/policy/technology/6007137-ai-skills-more-valuable-than-mba-survey/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 10:33:37 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+      "desc": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "The Memo: Decision day dawns for El-Sayed, Stevens and Michigan Democrats",
       "desc": "It’s crunch time in the fiercest and most divisive Democratic primary battle of the year. On Tuesday, Democratic voters in Michigan will decide whether progressive Abdul El-Sayed or centrist Rep. Hale",
       "link": "https://thehill.com/homenews/campaign/6006890-michigan-democratic-senate-primary/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blanche nomination has momentum, despite a few GOP obstacles",
-      "desc": "Acting Attorney General Todd Blanche’s confirmation to the permanent post faces hurdles in the Senate even after the dramatic deal involving Republican Sens. John Cornyn (Texas) and Thom Tillis (N.C.)",
-      "link": "https://thehill.com/homenews/senate/6006947-gop-swing-votes-attorney-general/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Concern about Max Miller quietly grows among Republicans",
-      "desc": "Republicans are getting increasingly nervous about the political fallout from the allegations of domestic abuse leveled against Rep. Max Miller (R-Ohio) by his ex-wife Emily Moreno, whose father, Sen.",
-      "link": "https://thehill.com/homenews/house/6006849-max-miller-domestic-abuse-allegations-ohio-house-race/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats see wins in funding stopgap, but expect future spending fight",
-      "desc": "The Senate on Monday advanced a bipartisan bill to fund the government at current levels through Dec. 11 with strong support from both parties, a break from the bitter fights that dominated recent fun",
-      "link": "https://thehill.com/homenews/senate/6006966-senate-bipartisan-funding-bill-democrats-trump/",
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 10:00:00 +0000",
       "source": "The Hill Politics",
@@ -65,69 +173,6 @@
       "tag": "technology"
     },
     {
-      "title": "Paxton trails Talarico by 2 points in new Texas Senate poll",
-      "desc": "Texas Attorney General Ken Paxton, the Republican nominee for Senate in the Lone Star State, is trailing Democrat James Talarico by two points in new polling of the closely watched race.  A survey fro",
-      "link": "https://thehill.com/homenews/6006373-democrat-talarico-leads-paxton-polling/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 09:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Wayfair Coupons: Up to 80% Off August 2026",
-      "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Lenovo Coupon Codes and Deals in August 2026",
-      "desc": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Bartesian Discount Codes: 35% Off",
-      "desc": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
-      "link": "https://www.wired.com/story/bartesian-discount-code/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Jack Smith invited to testify before Senate Judiciary Committee next month",
-      "desc": "Former special counsel Jack Smith has been invited to testify in late September in front of the Senate Judiciary Committee, Sen. Chuck Grassley (R-Iowa) said Monday. “Im inviting Jack Smith 2 testify ",
-      "link": "https://thehill.com/regulation/court-battles/6007017-jack-smith-senate-judiciary-testimony/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 02:51:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "South Carolina Republicans jockey to replace Graham on Senate ballot: Key takeaways from first debate",
-      "desc": "South Carolina Republicans vying for the late Sen. Lindsey Graham’s (R-S.C.) slot on the November ballot squared off on a Monday debate stage with just over one week until the special primary election",
-      "link": "https://thehill.com/homenews/campaign/6006901-south-carolina-gop-senate-debate-takeaways/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 01:24:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
-      "desc": "The Senate on Monday overwhelmingly advanced a stopgap funding bill aimed at avoiding a government shutdown ahead of this fall's midterms. The chamber voted 89-4 to invoke cloture on a motion to proce",
-      "link": "https://thehill.com/homenews/senate/6006917-senate-advances-stopgap-funding-bill/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 23:20:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Oak Park shooting leaves 2 dead, 2 injured",
       "desc": "Police responded to reports of gunshots at 4:48 a.m. Monday in a residential area near Coolidge Highway and Nine Mile Road, where they found two victims dead inside a home.",
       "link": "https://www.mlive.com/news/detroit/2026/08/oak-park-shooting-leaves-2-dead-2-injured.html",
@@ -144,24 +189,6 @@
       "rawDate": "Mon, 03 Aug 2026 22:52:17 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Manchin on supporting socialist candidate with &#039;good ideas&#039;: &#039;Are you crazy?&#039;",
-      "desc": "Former Sen. Joe Manchin (I-W.Va.) on Sunday shut down the idea of possibly supporting a socialist candidate in comments that come amid a recent rise of democratic socialists on the national political ",
-      "link": "https://thehill.com/homenews/campaign/6006820-manchin-rejects-socialist-candidate/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 22:36:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "As Haitians brace for end of TPS, some Republicans rejoice",
-      "desc": "The Trump administration's plan to deport more than 300,000 Haitians who just lost their lawful status after a Supreme Court ruling is showing a split screen in U.S. politics, with some Republicans op",
-      "link": "https://thehill.com/policy/international/6006801-haiti-tps-trump-immigration-ice/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 22:32:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Traverse City man accused of assaulting 3 children",
@@ -569,15 +596,6 @@
       "tag": "health"
     },
     {
-      "title": "Trump’s nominee to lead CDC advances to final Senate vote",
-      "desc": "A committee on Thursday sent to the full Senate the nomination of Dr. Erica Schwartz to be director of the Centers for Disease Control and Prevention.",
-      "link": "https://www.mlive.com/politics/2026/08/trumps-nominee-to-lead-cdc-advances-to-final-senate-vote.html",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 00:44:12 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Customer service emerges as an early test of AI&#039;s impact on jobs",
       "desc": "The first signs of AI's impact on white-collar jobs are emerging in customer service.",
       "link": "https://thehill.com/policy/technology/6003298-customer-service-test-for-ai-jobs/",
@@ -594,15 +612,6 @@
       "rawDate": "Sat, 01 Aug 2026 19:05:55 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Democrat Gov. teases possible 2028 bid to succeed Trump: ‘We’ll see’",
-      "desc": "Andy Beshear hinted at a possible 2028 presidential run on Friday.",
-      "link": "https://www.mlive.com/politics/2026/08/democrat-gov-teases-possible-2028-bid-to-succeed-trump-well-see.html",
-      "date": "Aug 1, 2026",
-      "rawDate": "Sat, 01 Aug 2026 18:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Zelensky seeks Trump&#039;s help to persuade Musk to broaden Starlink access",
@@ -794,24 +803,6 @@
       "tag": "safety"
     },
     {
-      "title": "Markets whipsaw as Trump, Fed face new inflation risks",
-      "desc": "Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran.  Stocks and bond yields have whipsawed amid uncertainty ove",
-      "link": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 20:11:10 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Birx says &#039;persistent anger&#039; over COVID response evident after Fauci hearing",
-      "desc": "Deborah Birx, the former coordinator of the White House Coronavirus Task Force, said there is still “persistent anger” about the government’s COVID-19 response following former chief White House medic",
-      "link": "https://thehill.com/policy/healthcare/6000551-senate-contempt-vote-scheduled/",
-      "date": "Jul 30, 2026",
-      "rawDate": "Thu, 30 Jul 2026 19:19:15 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "GRPS breaks ground on $7.4M school expansion",
       "desc": "Grand Rapids Public Schools broke ground Thursday on a 10,100-square-foot addition at Grand Rapids University Preparatory Academy.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/07/grps-breaks-ground-on-74m-school-expansion.html",
@@ -853,15 +844,6 @@
       "link": "https://www.mlive.com/news/jackson/2026/07/hillsdale-shooting-center-schedules-competitions-and-training-sessions-throughout-august.html",
       "date": "Jul 29, 2026",
       "rawDate": "Wed, 29 Jul 2026 17:38:18 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Jackson High School reminds parents of cell phone ban for upcoming school year",
-      "desc": "The policy has several exceptions where phones may be permitted. These include documented medical needs, special education accommodations and emergency situations permitted by law and school policy",
-      "link": "https://www.mlive.com/news/jackson/2026/07/jackson-high-school-reminds-parents-of-cell-phone-ban-for-upcoming-school-year.html",
-      "date": "Jul 29, 2026",
-      "rawDate": "Wed, 29 Jul 2026 13:54:50 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

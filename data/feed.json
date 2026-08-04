@@ -1,6 +1,96 @@
 {
-  "generated": "2026-08-04T22:54:19.547Z",
+  "generated": "2026-08-04T23:56:43.225Z",
   "news": [
+    {
+      "title": "2026 Michigan governor primary election results",
+      "desc": "See live primary election results for Michigan’s gubernatorial primaries.",
+      "link": "https://www.mlive.com/politics/2026/08/2026-michigan-governor-primary-election-results.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:40:50 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Thune on Max Miller allegations: &#039;It&#039;s a House matter. It&#039;s a family issue too&#039;",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) on Tuesday said the controversy surrounding Rep. Max Miller (R-Ohio) is an issue for the House and Ohio voters to decide, as well as \"a family matter.\" “It's",
+      "link": "https://thehill.com/homenews/senate/6009438-thune-max-miller-house-moreno/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:30:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Taylor looks to unseat Wittman in key Virginia House race",
+      "desc": "Democrat Shannon Taylor is projected to face off against Rep. Rob Wittman (R-Va.) in a district that would have been a prime pick up for Democrats had their congressional map been implemented this spr",
+      "link": "https://thehill.com/homenews/campaign/6004695-taylor-wittman-virginia-house-race/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:22:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan U.S. Senate primary election results",
+      "desc": "See live election results for Michigan’s Democratic U.S. Senate primary.",
+      "link": "https://www.mlive.com/politics/2026/08/2026-michigan-us-senate-primary-election-results.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:20:08 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kiggans, Luria to duke it out in rematch for battleground Virginia House seat",
+      "desc": "Virginia Rep. Jen Kiggans (R-Va.) and her predecessor, former Rep. Elaine Luria (D-Va.), will face off in the November election to represent the state’s 2nd Congressional District.  Since Kiggans unse",
+      "link": "https://thehill.com/homenews/campaign/5986728-kiggans-luria-virginia-house-race/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:19:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "desc": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:11:31 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ocasio-Cortez may face balancing act with democratic socialists",
+      "desc": "For nearly a decade, Rep. Alexandria Ocasio-Cortez (D-N.Y.) has been the most prominent democratic socialist in the country, lending the movement some of her star power while helping to push some of t",
+      "link": "https://thehill.com/homenews/campaign/6009035-aoc-democratic-socialist-endorsement/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:05:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan U.S. House primary election results",
+      "desc": "See live primary election results for U.S. House districts across the state.",
+      "link": "https://www.mlive.com/politics/2026/08/2026-michigan-us-house-primary-election-results.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:00:03 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Election results for Aug. 4 primary in Genesee County",
+      "desc": "Voters across the county decided on several primary races and ballot proposals Tuesday, setting the stage for the November election and determining future funding for various communities.",
+      "link": "https://www.mlive.com/news/flint/2026/08/election-results-for-aug-4-primary-in-genesee-county.html",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 23:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Republicans debate for South Carolina Senate seat; Stevens, El-Sayed duke it out",
+      "desc": "Michigan voters are at the polls Tuesday to decide which Democrat to back in the Senate race: progressive Abdul El-Sayed and moderate Rep. Haley Stevens (D-Mich.). There are also key House races to wa",
+      "link": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 22:55:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "LIVE: Saginaw County election results for Aug. 4, 2026",
       "desc": "Voters in the 2026 primary election weighed in on races for several political offices as well as millage proposals and renewals.",
@@ -8,15 +98,6 @@
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 22:45:48 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Michigan primary voters choose Dems’ direction as Stevens, El-Sayed duke it out",
-      "desc": "Michigan voters are at the polls Tuesday to decide which Democrat to back in the Senate race: progressive Abdul El-Sayed and moderate Rep. Haley Stevens (D-Mich.). There are also key House races to wa",
-      "link": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 22:34:12 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -146,24 +227,6 @@
       "tag": "health"
     },
     {
-      "title": "Kids&#039; safety advocates hope for age verification win",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story  Kids safety advocates seek age verification win  A Senate panel will take up a slate of kids online safety bills on Wednesday, in what age verific",
-      "link": "https://thehill.com/newsletters/technology/6009176-kids-safety-advocates-hope-for-age-verification-win/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 21:41:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blanche deal leaves loopholes on &#039;anti-weaponization&#039; fund, Trump immunity",
-      "desc": "The word of the day for Senate Democrats Tuesday was “loophole,” as they fumed over a deal they say failed to kill President Trump’s $1.776 billion “anti-weaponization” fund, as well as a sweeping ord",
-      "link": "https://thehill.com/homenews/senate/6009131-senate-blanche-nomination-deal-loopholes/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 21:27:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "FOX 17 TV station employees among layoffs in Scripps streaming transformation",
       "desc": "FOX 17 in Grand Rapids confirmed job cuts Tuesday as part of its parent company E.W. Scripps' announced layoffs of more than 200 across its stations nationally.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/fox-17-tv-station-employees-among-layoffs-in-scripps-streaming-transformation.html",
@@ -178,8 +241,8 @@
       "link": "https://thehill.com/business/6008924-tko-ufc-whitehouse-loss/",
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 21:13:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Senate funding bill seeks delay of hemp THC ban",
@@ -187,8 +250,8 @@
       "link": "https://thehill.com/policy/healthcare/6009069-senate-funding-bill-seeks-hemp-thc-ban-delay/",
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 21:11:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "2026 Michigan Senate primary election results",
@@ -197,15 +260,6 @@
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 21:00:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: El-Sayed, Stevens show down for Democratic nod in battleground Michigan Senate race",
-      "desc": "Progressive Abdul El-Sayed and centrist Rep. Haley Stevens are facing off Tuesday for the Democratic nomination for retiring Sen. Gary Peters's seat in Michigan. The winner will face off against forme",
-      "link": "https://thehill.com/homenews/campaign/5988785-live-results-michigan-senate-primary/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -398,15 +452,6 @@
       "tag": "associations"
     },
     {
-      "title": "See live results for Tuesday, Aug. 4 primary election for Ann Arbor, county races",
-      "desc": "Voters in Washtenaw County will decide millage proposals and races for local, state and federal offices in the Aug. 4 primary election.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/see-live-results-for-tuesday-aug-4-primary-election-for-ann-arbor-county-races.html",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 16:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Abbott requires new data centers to provide more information before they can hook up to Texas&#039;s grid",
       "desc": "Texas Gov. Greg Abbott (R) this week directed state authorities to audit all data centers in the state's queue before any new ones can be hooked up to the grid. Abbott told the state’s public utility ",
       "link": "https://thehill.com/policy/energy-environment/6008183-abbott-data-centers-power-texas-grid/",
@@ -441,15 +486,6 @@
       "rawDate": "Tue, 04 Aug 2026 14:59:14 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "New Reuters poll shows Democrats with key advantage over Trump’s GOP in 2026 midterms",
-      "desc": "The poll, released Monday, found 37% of registered voters preferred Democratic Party’s approach to the economy to the Republican Party’s.",
-      "link": "https://www.mlive.com/politics/2026/08/new-reuters-poll-shows-democrats-with-key-advantage-over-trumps-gop-in-2026-midterms.html",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 14:30:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "5 places to find fresh Michigan sweet corn in Wayne County this summer",

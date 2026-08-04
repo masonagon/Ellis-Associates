@@ -1,6 +1,15 @@
 {
-  "generated": "2026-08-04T01:47:17.233Z",
+  "generated": "2026-08-04T04:56:33.114Z",
   "news": [
+    {
+      "title": "Jack Smith invited to testify before Senate Judiciary Committee next month",
+      "desc": "Former special counsel Jack Smith has been invited to testify in late September in front of the Senate Judiciary Committee, Sen. Chuck Grassley (R-Iowa) said Monday. “Im inviting Jack Smith 2 testify ",
+      "link": "https://thehill.com/regulation/court-battles/6007017-jack-smith-senate-judiciary-testimony/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 02:51:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "South Carolina Republicans jockey to replace Graham on Senate ballot: Key takeaways from first debate",
       "desc": "South Carolina Republicans vying for the late Sen. Lindsey Graham’s (R-S.C.) slot on the November ballot squared off on a Monday debate stage with just over one week until the special primary election",
@@ -110,22 +119,13 @@
       "tag": "safety"
     },
     {
-      "title": "Democratic-led states join legal fight over Trump’s new tariffs",
-      "desc": "Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them “equally unlawful” to the ones the Supreme Court has invalidated.  The lawsuit a",
-      "link": "https://thehill.com/regulation/court-battles/6006607-democratic-states-sue-trump-tariffs/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 20:54:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Republican attorneys general urge OpenAI to preserve records on Hugging Face breach",
       "desc": "More than a dozen Republican attorneys general are calling on OpenAI to preserve records on its models' recent breach of another company, suggesting the AI firm may have violated state or federal laws",
       "link": "https://thehill.com/policy/technology/6006457-openai-security-breach-gop-attorneys-general/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 20:54:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Michigan’s Senate primary: Where Abdul El-Sayed and Haley Stevens stand on key issues",

@@ -1,6 +1,33 @@
 {
-  "generated": "2026-08-03T23:04:36.712Z",
+  "generated": "2026-08-04T01:47:17.233Z",
   "news": [
+    {
+      "title": "South Carolina Republicans jockey to replace Graham on Senate ballot: Key takeaways from first debate",
+      "desc": "South Carolina Republicans vying for the late Sen. Lindsey Graham’s (R-S.C.) slot on the November ballot squared off on a Monday debate stage with just over one week until the special primary election",
+      "link": "https://thehill.com/homenews/campaign/6006901-south-carolina-gop-senate-debate-takeaways/",
+      "date": "Aug 4, 2026",
+      "rawDate": "Tue, 04 Aug 2026 01:24:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
+      "desc": "The Senate on Monday overwhelmingly advanced a stopgap funding bill aimed at avoiding a government shutdown ahead of this fall's midterms. The chamber voted 89-4 to invoke cloture on a motion to proce",
+      "link": "https://thehill.com/homenews/senate/6006917-senate-advances-stopgap-funding-bill/",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 23:20:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Oak Park shooting leaves 2 dead, 2 injured",
+      "desc": "Police responded to reports of gunshots at 4:48 a.m. Monday in a residential area near Coolidge Highway and Nine Mile Road, where they found two victims dead inside a home.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/oak-park-shooting-leaves-2-dead-2-injured.html",
+      "date": "Aug 3, 2026",
+      "rawDate": "Mon, 03 Aug 2026 23:14:56 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "2 men charged in Grosse Pointe Woods armed carjacking",
       "desc": "The two Detroit-area men are accused of carjacking a rented SUV at gunpoint on July 28. Both were arrested after crashing their getaway vehicle shortly after the incident.",
@@ -21,7 +48,7 @@
     },
     {
       "title": "As Haitians brace for end of TPS, some Republicans rejoice",
-      "desc": "Trump administration plans to deport more than 300,000 Haitians who just lost their lawful status after a Supreme Court ruling is showing a split screen in U.S. politics, with some Republicans openly ",
+      "desc": "The Trump administration's plan to deport more than 300,000 Haitians who just lost their lawful status after a Supreme Court ruling is showing a split screen in U.S. politics, with some Republicans op",
       "link": "https://thehill.com/policy/international/6006801-haiti-tps-trump-immigration-ice/",
       "date": "Aug 3, 2026",
       "rawDate": "Mon, 03 Aug 2026 22:32:20 +0000",
@@ -101,15 +128,6 @@
       "tag": "government"
     },
     {
-      "title": "Piker dismisses talk of progressive implosion",
-      "desc": "Left-wing streamer Hasan Piker in a recent interview slammed the idea that progressive candidates pose a risk to Democrats in general elections. In an interview featured on CNN’s “The Whole Story With",
-      "link": "https://thehill.com/homenews/campaign/6006522-piker-slams-neoliberal-democratic-successes/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 20:31:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan’s Senate primary: Where Abdul El-Sayed and Haley Stevens stand on key issues",
       "desc": "Michigan’s increasingly bare-knuckled and wildly expensive Democratic primary for U.S. Senate comes to a head on Tuesday. Here's where Haley Stevens and Abdul El-Sayed stand on key issues.",
       "link": "https://www.mlive.com/politics/2026/08/michigans-senate-primary-where-abdul-el-sayed-and-haley-stevens-stand-on-key-issues.html",
@@ -126,15 +144,6 @@
       "rawDate": "Mon, 03 Aug 2026 19:37:07 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Aaron Rodgers: Fauci a ‘coward’ and a ‘criminal’ for taking the Fifth",
-      "desc": "On Monday, Pittsburgh Steelers quarterback Aaron Rodgers launched into tirade against Dr. Anthony Fauci over the infectious disease expert's decision not to answer questions during last week's Senate ",
-      "link": "https://thehill.com/policy/sports-gaming/6006413-rodgers-attacks-fauci-senate-hearing/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 19:36:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Seven local races to watch in Aug. 4 Grand Rapids primary election",
@@ -360,15 +369,6 @@
       "rawDate": "Mon, 03 Aug 2026 13:41:34 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Detroit’s crime turnaround continues as homicides fall another 15%",
-      "desc": "New numbers show homicides are down another 15% this year as violent crime continues to decline across the city, building on historic lows reached in 2025.",
-      "link": "https://www.mlive.com/news/detroit/2026/08/detroits-crime-turnaround-continues-as-homicides-fall-another-15.html",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 12:41:36 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Hegseth struggles to sell Senate on Iran war funding",
@@ -669,7 +669,7 @@
     },
     {
       "title": "Cybersecurity expert: &#039;Moderate confidence&#039; Iran attacked Minnesota water facilities",
-      "desc": "National Center for Open and Unsolved Cases founder Morgan Wright said Thursday that there is ��at least moderate confidence” that Iran is behind recent cybersecurity attacks on water facilities acros",
+      "desc": "National Center for Open and Unsolved Cases founder Morgan Wright said Thursday that there is “at least moderate confidence” that Iran is behind recent cybersecurity attacks on water facilities across",
       "link": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/",
       "date": "Jul 31, 2026",
       "rawDate": "Fri, 31 Jul 2026 17:49:36 +0000",

@@ -1,32 +1,221 @@
 {
-  "generated": "2026-08-05T15:55:28.830Z",
+  "generated": "2026-08-05T17:23:02.130Z",
   "news": [
     {
-      "title": "Missouri election chief rejects petition for referendum on new Trump-backed districts",
-      "desc": "Missouri Secretary of State Denny Hoskins on Tuesday said he will block a citizens' petition for a new redistricting referendum on the state's redrawn GOP-led congressional map backed by President Tru",
-      "link": "https://thehill.com/homenews/state-watch/6010741-mo-secretary-state-rejects-referendum/",
+      "title": "De Blasio: Talarico&#039;s &#039;kitchen table&#039; talk &#039;worst nightmare for Republicans&#039;",
+      "desc": "Former New York Mayor Bill de Blasio (D) said Tuesday that Texas Democratic Senate candidate James Talarico’s discussion of “kitchen table issues” is Republicans’ “worst nightmare” as Democrats look t",
+      "link": "https://thehill.com/homenews/campaign/6011453-bill-de-blasio-texas-senate-talarico/",
       "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:52:50 +0000",
+      "rawDate": "Wed, 05 Aug 2026 17:08:44 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Over 20K cyclosporiasis cases suspected in US as outbreak reportedly linked to 6 more states",
+      "title": "Flushing grad, star athlete dies in crash",
+      "desc": "\"He was a natural leader with an amazing heart, someone who cared deeply for his family, his friends, and his teammates,\" said Flushing football coach Austin Cook.",
+      "link": "https://www.mlive.com/news/flint/2026/08/flushing-grad-star-athlete-dies-in-crash.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 17:03:42 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Color-coded maps show how vote went in Ann Arbor mayoral race, other contests",
+      "desc": "Yousef Rabhi dominated Ann Arbor’s south, west and central areas to win Tuesday’s mayoral primary race, while Mayor Christopher Taylor had majority support in a handful of areas on the north and east ",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/color-coded-maps-show-how-vote-went-in-ann-arbor-mayoral-race-other-contests.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 17:03:10 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "After primary win, Jocelyn Benson launches general election campaign with Andy Beshear",
+      "desc": "“I’m here to offer my full endorsement to Jocelyn Benson, who will be the next governor of the state of Michigan,” Beshear said. “The Democratic Governors Association is all in. We are going to win th",
+      "link": "https://www.mlive.com/news/detroit/2026/08/after-primary-win-jocelyn-benson-launches-general-election-campaign-with-andy-beshear.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:59:19 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "&#039;I&#039;m not done!&#039; Jake Tapper presses Max Miller over abuse claims",
+      "desc": "In an interview with CNN's Jake Tapper, Miller rejected calls to resign and compared his political future to that of President Trump. That comparison says as much about today's Republican Party as it ",
+      "link": "https://thehill.com/opinion/lindseys-lens/6011452-max-miller-violence-allegations/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:50:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Sanders: Carville should &#039;start his own party&#039;",
+      "desc": "Sen. Bernie Sanders (I-Vt.) on Tuesday invited Democratic strategist James Carville to \"start his own party\" after the pundit voiced his disapproval of left-wing candidates running for office. Sanders",
+      "link": "https://thehill.com/homenews/campaign/6011088-bernie-sanders-james-carville-democratic-party-criticism/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:49:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Scott Jennings: It&#039;d be &#039;proper&#039; for Republicans to get Miller replacement candidate",
+      "desc": "On Tuesday, Republican political commentator Scott Jennings said it would be “proper” for the GOP to find a replacement candidate for Rep. Max Miller (R-Ohio) as his deadline to drop out approaches. S",
+      "link": "https://thehill.com/homenews/house/6011393-scott-jennings-calls-max-miller-replacement/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:42:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "El-Sayed zeroes in on Rogers after Michigan Senate primary win",
+      "desc": "Progressive Abdul El-Sayed immediately zeroed in on his Republican opponent, Mike Rogers, by calling the former House lawmaker a carpetbagger and \"corporate sellout\" after clinching the Democratic pri",
+      "link": "https://thehill.com/homenews/campaign/6011344-el-sayed-rogers-michigan-senate-race/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:42:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Driver serving 70 years for murder in Make-A-Wish crash challenges convictions",
+      "desc": "Mandy Benn is serving consecutive 35-60-year terms in prison for killing two Make-A-Wish bicyclists in 2022.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/driver-serving-70-years-for-murder-in-make-a-wish-crash-challenges-convictions.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:39:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Erica Schwartz clears Senate hurdle on path to CDC director confirmation",
+      "desc": "Erica Schwartz is one step closer to being the new director of the Centers for Disease Control and Prevention (CDC) after clearing a key procedural hurdle on Wednesday. The Senate voted 51-43 to end d",
+      "link": "https://thehill.com/policy/healthcare/6010850-schwartz-clears-senate-hurdle-cdc-director/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:39:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fruitland Township ambulance funding fails at the polls in Muskegon County",
+      "desc": "Muskegon County voters on Tuesday cast ballots in the primary election to decide tax requests for schools and local governments.",
+      "link": "https://www.mlive.com/news/muskegon/2026/08/fruitland-township-ambulance-funding-fails-at-the-polls-in-muskegon-county.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:33:13 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Disney, TikTok strike content-sharing deal",
+      "desc": "Disney and TikTok announced a content-sharing deal Wednesday that will allow creators to post across both companies' vertical video platforms.  Those who opt in to the program will be able to pull fro",
+      "link": "https://thehill.com/business/6011262-disney-tiktok-content-deal/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:29:37 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Major drug store chain continues to close stores: See which locations are on the list",
+      "desc": "It's a good-news-bad-news situation: The company is closing stores but not nearly as many as initially announced.",
+      "link": "https://www.mlive.com/business/2026/08/major-drug-store-chain-continues-to-close-stores-see-which-locations-are-on-the-list.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:28:36 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "desc": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:26:36 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Socialist Francesca Hong wants to cancel Thanksgiving?",
+      "desc": "Just when you thought the cast of wacky characters running for office in Democratic primaries couldn’t get any crazier.",
+      "link": "https://thehill.com/opinion/robbys-radar/6011350-democratic-socialist-hong-holiday-controversy/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:26:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "KOSA advances Senate panel; age verification bill falls short of meeting quorum",
+      "desc": "A Senate panel advanced the landmark Kids Online Safety Act (KOSA) in a markup Wednesday, while an age verification bill to keep minors off pornography websites failed after the committee did not meet",
+      "link": "https://thehill.com/homenews/6011029-youth-ai-privacy-act-passes/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:23:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Whitmer endorses El-Sayed after backing Stevens in Michigan Senate primary",
+      "desc": "Michigan Gov. Gretchen Whitmer (D) endorsed Abdul El-Sayed on Wednesday, after he narrowly defeated Rep. Haley Stevens (D-Mich.) to win the Democratic Senate nomination in the state. “Congratulations ",
+      "link": "https://thehill.com/homenews/campaign/6011028-gretchen-whitmer-abdul-el-sayed-endorsement-michigan-senate-race/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:17:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Voters in Muskegon County reject 2 millage proposals for Whitehall Township",
+      "desc": "Whitehall Township voters decided on 20-year operational and 10-year road millages, affecting local taxes and infrastructure funding.",
+      "link": "https://www.mlive.com/news/muskegon/2026/08/voters-in-muskegon-county-reject-2-millage-proposals-for-whitehall-township.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:12:35 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate Democrats knock Republicans over &#039;assault&#039; on Social Security",
+      "desc": "Congressional Democrats sent a letter Tuesday to Senate Majority Leader John Thune (R-S.D.) calling on Republicans to put forward a plan to save Social Security from insolvency.  The letter, led by se",
+      "link": "https://thehill.com/homenews/senate/6011032-democrats-letter-republicans-social-security/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:06:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fetterman to oppose Blanche&#039;s nomination to head Justice Department",
+      "desc": "Sen. John Fetterman (D-Pa.) says he will vote against acting Attorney General Todd Blanche’s nomination to serve in the role permanently, putting more pressure on Senate Majority Leader John Thune (R-",
+      "link": "https://thehill.com/homenews/senate/6011168-fetterman-blanche-ag-doj/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:03:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "States are increasing food stamp fraud — on purpose",
+      "desc": "A new report highlights how several states, including New Mexico, are leveraging a legislative loophole in the One Big Beautiful Bill Act to delay implementing reforms aimed at reducing food stamp was",
+      "link": "https://thehill.com/opinion/6009345-states-dodge-welfare-reform-penalties/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "desc": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 16:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "OpenAI settles DOJ claim it discriminated against US citizens in hiring",
+      "desc": "OpenAI reached a $3.2 million settlement with the Department of Justice (DOJ) over claims that it discriminated against U.S. citizens with its hiring practices.  The DOJ’s investigation involved “fewe",
+      "link": "https://thehill.com/policy/technology/6011080-openai-doj-hiring-settlement/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 15:58:32 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "More than 20K cyclosporiasis cases suspected in US as outbreak reportedly linked to 6 more states",
       "desc": "All but three states have reported cases potentially linked to the outbreak.",
       "link": "https://thehill.com/policy/healthcare/6011003-over-20k-cyclosporiasis-cases-suspected-in-us-as-outbreak-reportedly-linked-to-6-more-states/",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 15:48:59 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Ossoff picks up Flake endorsement in Georgia Senate race",
-      "desc": "Sen. Jon Ossoff (D-Ga.) has garnered an endorsement from former GOP Sen. Jeff Flake (Ariz.) in his bid to keep his seat. “I’m still a conservative Republican. But character matters. And I want someone",
-      "link": "https://thehill.com/homenews/campaign/6011054-ossoff-jeff-flake-georgia-senate-race/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:46:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "University of Michigan begins search for new communications leader",
@@ -36,24 +225,6 @@
       "rawDate": "Wed, 05 Aug 2026 15:44:14 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Artemis II showed the world what American excellence looks like",
-      "desc": "Rep. Don Bacon introduced the Artemis II Congressional Gold Medal Act to honor the historic crew of the first mission to fly around the Moon in over five decades.",
-      "link": "https://thehill.com/opinion/technology/6008777-nasa-artemis-ii-historic-milestones/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Stevens concedes as El-Sayed wins Dems&#039; Michigan Senate primary",
-      "desc": "Progressive Abdul El-Sayed and Rep. Haley Stevens (D) took the Michigan Senate primary down to nearly a deadlock, but El-Sayed came out ahead when the race was called Wednesday morning by Decision Des",
-      "link": "https://thehill.com/homenews/administration/6010135-live-updates-trump-vegas-michigan-el-sayed-progressives/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:28:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Drive-thru salad chain notes parasite outbreak after abruptly closing all locations",
@@ -72,15 +243,6 @@
       "rawDate": "Wed, 05 Aug 2026 15:14:10 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Luna, Haridopolos endorse against Mills in Florida House primary",
-      "desc": "Florida GOP Reps. Anna Paulina Luna and Mike Haridopolos on Wednesday endorsed Ryan Elijah, who is mounting a primary challenge to Rep. Cory Mills (R-Fla.) in the Sunshine State’s 7th Congressional Di",
-      "link": "https://thehill.com/homenews/campaign/6010825-luna-haridopolos-endorsesement-ryan-elijah-over-cory-mills-florida-7th-district/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:11:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "AI agent created fake online identities to access secure systems in latest breach",
@@ -110,57 +272,12 @@
       "tag": "associations"
     },
     {
-      "title": "What is contempt of Congress?",
-      "desc": "Contempt of Congress is a criminal misdemeanor offense that officials called to testify before Congress may face if lawmakers deem their actions as an obstruction of ongoing investigation.  It’s class",
-      "link": "https://thehill.com/homenews/senate/6010670-fauci-contempt-congress-vote/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:06:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Keep waiving the Jones Act until it is repealed for good",
-      "desc": "The Jones Act distorts domestic shipping substantially, with great economic damage as a result.",
-      "link": "https://thehill.com/opinion/congress-blog/economy-budget/6008966-jones-act-economic-damage/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "‘Take Ann Arbor back for the people.’ Election outcome spells change",
       "desc": "Here's how the makeup of Ann Arbor City Council is changing and what it may mean for the city.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/take-ann-arbor-back-for-the-people-election-outcome-spells-change.html",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 14:46:53 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What the ATF’s proposed gun law reforms actually do",
-      "desc": "Several proposals have attracted significant attention, and most coverage has inaccurately portrayed the scope and intent of the rules.",
-      "link": "https://thehill.com/opinion/congress-blog/homeland-security/6008820-atf-proposed-regulatory-reform/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 14:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "FAA investigating Trump helicopter safety incident",
-      "desc": "The Federal Aviation Administration (FAA) is investigating a Tuesday afternoon incident involving Marine One, the helicopter reserved for President Trump’s expedited travel in the Beltway.  The presid",
-      "link": "https://thehill.com/homenews/administration/6010394-faa-trump-marine-one-investigation/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 14:19:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sanders-backed McKinney ousts Thanedar in Michigan House primary",
-      "desc": "Democrat Donavan McKinney defeated Rep. Shri Thanedar (D-Mich.) in Michigan’s Democratic primary for the 13th Congressional District, according to Decision Desk HQ — marking the latest win for the par",
-      "link": "https://thehill.com/homenews/campaign/6006647-mckinney-ousts-thanedar-michigan-house-primary/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 14:13:43 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -254,15 +371,6 @@
       "tag": "government"
     },
     {
-      "title": "Joe Moss wins Republican primary for 89th District state race",
-      "desc": "Voters will choose who they want to represent parts of Kent, Muskegon and Ottawa counties in November.",
-      "link": "https://www.mlive.com/news/2026/08/joe-moss-wins-republican-primary-for-89th-district-state-race.html",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 12:34:16 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Lockwood STEM Center receives $10K HSC Cares grant to expand robotics education",
       "desc": "The HSC CARES Grant from Hemlock Semiconductor will fund professional development and classroom robot sets for elementary educators.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/lockwood-stem-center-receives-10k-hsc-cares-grant-to-expand-robotics-education.html",
@@ -272,24 +380,6 @@
       "tag": "education"
     },
     {
-      "title": "Who won? What passed? Jackson County Aug. 4 primary election results roundup",
-      "desc": "Here is a roundup of how the primary election went on Tuesday, Aug. 4.",
-      "link": "https://www.mlive.com/news/jackson/2026/08/who-won-what-passed-jackson-county-aug-4-primary-election-results-roundup.html",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 12:10:03 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michigan’s U.S. Senate race still too close to call as El-Sayed has narrow lead over Stevens",
-      "desc": "Abdul El-Sayed and Congresswoman Haley Stevens are in a tight battle in the Democratic primary election for U.S. Senate.",
-      "link": "https://www.mlive.com/politics/2026/08/el-sayed-holds-slight-edge-over-stevens-in-democratic-primary-for-us-senate.html",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 12:09:09 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Voters renew Grant, Reeths-Puffer schools operating millages",
       "desc": "The Muskegon County school districts both asked for critical operating millage to support day-to-day operations.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/voters-renew-grant-reeths-puffer-schools-operating-millages.html",
@@ -297,6 +387,15 @@
       "rawDate": "Wed, 05 Aug 2026 12:09:00 +0000",
       "source": "MLive Education",
       "tag": "education"
+    },
+    {
+      "title": "AI Influencers Are Heading Into Uncharted Territory",
+      "desc": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+      "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 11:43:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Cheryl Lopez, K.C. Baran top primary for Genesee County district judge seat",
@@ -349,15 +448,6 @@
       "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 07:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
-      "desc": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
-      "link": "https://www.wired.com/story/foreo-promo-code/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -587,15 +677,6 @@
       "tag": "safety"
     },
     {
-      "title": "Buc-ee’s to open in new market with store in ‘heart’ of southern state",
-      "desc": "Fans in Arkansas have long waited for the chain to arrive from neighboring Texas.",
-      "link": "https://www.mlive.com/business/2026/08/buc-ees-to-open-in-new-market-with-store-in-heart-of-southern-state.html",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 16:22:27 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Abbott requires new data centers to provide more information before they can hook up to Texas&#039;s grid",
       "desc": "Texas Gov. Greg Abbott (R) this week directed state authorities to audit all data centers in the state's queue before any new ones can be hooked up to the grid. Abbott told the state’s public utility ",
       "link": "https://thehill.com/policy/energy-environment/6008183-abbott-data-centers-power-texas-grid/",
@@ -619,24 +700,6 @@
       "link": "https://thehill.com/policy/technology/6007254-nvidia-open-source-ai-safety-controls/",
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 14:59:14 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Ellison defends Paramount merger, argues he can &#039;be trusted as a steward of CNN’",
-      "desc": "Media executive David Ellison is defending Paramount's bid to purchase Warner Brothers Discovery and defending himself against accusations of implementing political bias at his media properties. In an",
-      "link": "https://thehill.com/homenews/media/6007503-media-exec-denies-political-bias/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 13:54:32 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "At least 7 states report water system cyberattacks to FBI",
-      "desc": "At least seven states reported cyberattacks on water systems, though authorities say water quality remains safe.",
-      "link": "https://thehill.com/policy/energy-environment/6006940-state-water-systems-iran-cyberattacks/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 13:45:53 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
@@ -677,39 +740,12 @@
       "tag": "education"
     },
     {
-      "title": "AI skills more valuable than MBA, new survey suggests",
-      "desc": "Among the executives surveyed, 91% said they're increasing compensation for employees with AI skills.",
-      "link": "https://thehill.com/policy/technology/6007137-ai-skills-more-valuable-than-mba-survey/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 10:33:37 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Trump snaps back to diplomacy, but Iran has other ideas",
       "desc": "President Trump is turning back to diplomacy in the Middle East, seeking a new deal with Iran that his administration failed to secure through waves of military strikes.  But the negotiations, which t",
       "link": "https://thehill.com/policy/defense/6006709-trump-iran-diplomacy-strait-hormuz/",
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 10:00:00 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Oak Park shooting leaves 2 dead, 2 injured",
-      "desc": "Police responded to reports of gunshots at 4:48 a.m. Monday in a residential area near Coolidge Highway and Nine Mile Road, where they found two victims dead inside a home.",
-      "link": "https://www.mlive.com/news/detroit/2026/08/oak-park-shooting-leaves-2-dead-2-injured.html",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 23:14:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "2 men charged in Grosse Pointe Woods armed carjacking",
-      "desc": "The two Detroit-area men are accused of carjacking a rented SUV at gunpoint on July 28. Both were arrested after crashing their getaway vehicle shortly after the incident.",
-      "link": "https://www.mlive.com/news/2026/08/2-men-charged-in-grosse-pointe-woods-armed-carjacking.html",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 22:52:17 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -821,15 +857,6 @@
       "tag": "education"
     },
     {
-      "title": "RFK Jr. says Trump &#039;certainly&#039; wants him to investigate any link between autism and vaccines",
-      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Sunday said President Trump \"certainly\" wants him to investigate perceived links between autism and vaccines. Kennedy made the remark",
-      "link": "https://thehill.com/policy/healthcare/6004477-rfk-jr-autism-vaccine-investigation/",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 19:48:18 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Lankford says Trump &#039;has no desire&#039; to bomb Iran",
       "desc": "GOP Sen. James Lankford (Okla.) argued Sunday that President Trump “has no desire” to bomb Iran, hours after the president halted planned strikes on the Middle Eastern country. “The president’s still ",
       "link": "https://thehill.com/homenews/senate/6004234-lankford-trump-iran-deal/",
@@ -846,15 +873,6 @@
       "rawDate": "Sun, 02 Aug 2026 12:05:08 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Reeths-Puffer marching band prepares 2026 ‘Bayou Bliss’ show",
-      "desc": "Reeths-Puffer High School marching band student participate in band camp, a two-week experience of 12-hour days where they learn and rehearse their music and choreography for the upcoming marching ban",
-      "link": "https://www.mlive.com/news/muskegon/2026/08/reeths-puffer-marching-band-prepares-2026-bayou-bliss-show.html",
-      "date": "Aug 2, 2026",
-      "rawDate": "Sun, 02 Aug 2026 12:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Live updates: Trump doubles down on Reflecting Pool vandalism claims, presses Senate GOP on Blanche",

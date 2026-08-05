@@ -1,14 +1,131 @@
 {
-  "generated": "2026-08-05T19:17:19.340Z",
+  "generated": "2026-08-05T20:58:51.299Z",
   "news": [
     {
+      "title": "$30M vs. Trump endorsement: How James won the GOP governor primary, what’s next?",
+      "desc": "Michigan's GOP governor primary was divisive to the end, with Perry Johnson's millions in spending losing out to U.S. Rep. John James endorsement.",
+      "link": "https://www.mlive.com/politics/2026/08/30m-vs-trump-endorsement-how-james-won-the-gop-governor-primary-whats-next.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 20:52:54 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump revamps White House helipad, then tears it up",
+      "desc": "Construction on a new helipad went through a restart as crews demolished a granite seal that would be the landing spot for Marine One, as work on new changes to the helipad requested by President Trum",
+      "link": "https://thehill.com/homenews/administration/6012248-trump-white-house-helipad-rework/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 20:47:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DHS Wants Protesters’ Signal Group Chats",
+      "desc": "A lawsuit accuses Homeland Security of violating protesters’ free-speech rights—but the agency is using it to try to get access to the plaintiffs’ encrypted communications.",
+      "link": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 20:38:54 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Cost of living surges as Americans&#039; top concern, as Iran war dips: Poll",
+      "desc": "Cost of living and inflation are the top concern for Americans over the Iran war and the economy, according to a new poll. A Marquette University Law School poll released Wednesday shows the most impo",
+      "link": "https://thehill.com/business/6012178-inflation-cost-living-marquette-poll/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 20:26:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cost of living surges as Americans&#8217; top concern, as Iran war dips: Poll",
+      "desc": "Cost of living and inflation are the top concern for Americans over the Iran war and the economy, according to a new poll. A Marquette University Law School poll released Wednesday shows the most impo",
+      "link": "https://thehill.com/business/6012178-inflation-cost-living-marquette-poll/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 20:26:44 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Most Americans say Iran conflict not worth the cost, falls short of goals: Poll",
+      "desc": "Most Americans say the war in Iran has not been worth the cost and has fallen short of its goals, according to a new poll. In a Marquette Law School Supreme Court poll, 88 percent of respondents said ",
+      "link": "https://thehill.com/policy/defense/6012145-marquette-poll-iran-war-cost-goals/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 20:03:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hegseth&#039;s choice for top Army role faces GOP resistance in Senate",
+      "desc": "Defense Secretary Pete Hegseth’s choice for the top uniformed Army job is at risk of not getting confirmed over objections from both sides of the aisle. Gen. Christopher LaNeve, who has been the actin",
+      "link": "https://thehill.com/policy/defense/6012117-hegseth-laneve-nomination-senate-opposition/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:49:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "desc": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+      "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:42:12 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up",
+      "desc": "The gossip blogger was on TikTok covered in what appeared to be blood and wielding a knifelike object before the platform cut his stream. He’s since been hospitalized.",
+      "link": "https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:35:22 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Peters argues Fauci can&#039;t be punished for pleading Fifth ahead of contempt vote",
+      "desc": "COVID czar Anthony Fauci cannot be prosecuted for asserting his Fifth Amendment rights in a recent hearing, Sen. Gary Peters (D-Mich.) wrote in a letter to colleagues, arguing the former government sc",
+      "link": "https://thehill.com/homenews/senate/6012035-senator-gary-peters-fauci-contempt-vote/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:33:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Senate confirms Schwartz as CDC director; El-Sayed rocks Michigan with primary win",
+      "desc": "Progressive Abdul El-Sayed and Rep. Haley Stevens (D) took the Michigan Senate primary down to nearly a deadlock, but El-Sayed came out ahead when the race was called Wednesday morning by Decision Des",
+      "link": "https://thehill.com/homenews/administration/6010135-live-updates-trump-vegas-michigan-el-sayed-progressives/",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:29:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Abdul El-Sayed won with progressive politics. What does that mean for Democrats?",
+      "desc": "Abdul El-Sayed defeated Haley Stevens, a moderate candidate who was backed by the Democratic party, with a platform built on progressive politics.",
+      "link": "https://www.mlive.com/politics/2026/08/abdul-el-sayed-won-with-progressive-politics-what-does-that-mean-for-democrats.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:26:37 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
       "title": "Senate confirms Erica Schwartz as new CDC leader",
-      "desc": "The Centers for Disease Control and Prevention (CDC) will soon have a new official director for the first time in nearly a year, after the Senate on Thursday voted to confirm Dr. Erica Schwartz.  Schw",
+      "desc": "The Centers for Disease Control and Prevention (CDC) will soon have a new official director for the first time in nearly a year, after the Senate on Wednesday voted to confirm Dr. Erica Schwartz.  Sch",
       "link": "https://thehill.com/policy/healthcare/6011847-senate-confirms-dr-erica-schwartz-cdc/",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 19:12:14 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Attorneys to present evidence in Rebecca Park murder case during 4-day hearing",
+      "desc": "This will be the first time that evidence in the case is laid out in court.",
+      "link": "https://www.mlive.com/news/2026/08/attorneys-to-present-evidence-in-rebecca-park-murder-case-during-4-day-hearing.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:08:33 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "The risks of many diseases are linked to birth order, study finds",
@@ -29,6 +146,15 @@
       "tag": "government"
     },
     {
+      "title": "Police ID woman killed after getting out of car on M-14",
+      "desc": "She was 45.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/police-id-woman-killed-after-getting-out-of-car-on-m-14.html",
+      "date": "Aug 5, 2026",
+      "rawDate": "Wed, 05 Aug 2026 19:02:26 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "Bay City commission races 2026: Who’s on the November ballot",
       "desc": "Five commission seats are up for election this year. Races in the 1st, 3rd, 5th, 7th and 9th wards will determine who represents each district on the city's governing body.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/bay-city-commission-races-2026-whos-on-the-november-ballot.html",
@@ -38,7 +164,7 @@
       "tag": "government"
     },
     {
-      "title": "Manchester schools eyes internal eye for superintendent role after sudden resignation",
+      "title": "Manchester schools looks internally for superintendent role after sudden resignation",
       "desc": "Three candidates are interviewing for the job this week before the school board makes a choice Aug. 11. Former administrator Steven Head resigned as superintendent last month for health reasons after ",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/manchester-schools-eyes-internal-eye-for-superintendent-role-after-sudden-resignation.html",
       "date": "Aug 5, 2026",
@@ -83,7 +209,7 @@
       "tag": "government"
     },
     {
-      "title": "AI Worms and Viruses Are Coming",
+      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
       "desc": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
       "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
       "date": "Aug 5, 2026",
@@ -101,30 +227,12 @@
       "tag": "government"
     },
     {
-      "title": "&#039;Uncommitted&#039; movement co-founder wins Democratic state Senate primary in Michigan",
-      "desc": "Abbas Alawieh, co-founder of the Uncommitted National Movement, is projected to win a Democratic state Senate primary in Michigan, according to Decision Desk HQ. The 2nd Senate District — which includ",
-      "link": "https://thehill.com/homenews/campaign/5999927-uncommited-movement-alawieh-wins-michigan-senate-primary/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 18:19:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Wayne County voters approve public transportation millage",
       "desc": "The proposal authorizes the Wayne County Transit Authority to levy a millage to fund public transportation operations, maintenance and expanded service for seniors, veterans, people with disabilities ",
       "link": "https://www.mlive.com/news/detroit/2026/08/wayne-county-voters-approve-public-transportation-millage.html",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 18:17:02 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
-      "desc": "President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax cuts enacted through the One Big Beautiful Bill Ac",
-      "link": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 18:10:51 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -135,15 +243,6 @@
       "rawDate": "Wed, 05 Aug 2026 18:08:26 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Democratic Women&#039;s Caucus leaders call on Max Miller to resign",
-      "desc": "Leaders of the Democratic Women’s Caucus (DWC) on Wednesday called on Rep. Max Miller (R-Ohio) to resign, as the House Ethics Committee probes abuse allegations levied against him by his ex-wife. DWC ",
-      "link": "https://thehill.com/homenews/house/6011419-democratic-womens-caucus-max-miller-resignation-house-ethics-probe/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 18:08:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Ex-Yankees star rips Democrats after Abdul El-Sayed’s win: ‘Socialism isn’t fringe anymore’",
@@ -164,15 +263,6 @@
       "tag": "government"
     },
     {
-      "title": "For Babydog, it’s time to help the greyhounds",
-      "desc": "Federation of Humane Organizations of West Virginia President Theresa Bruner is calling on Sen. Jim Justice to support the Greyhound Protection Act in the Senate Agriculture Committee to end state-sub",
-      "link": "https://thehill.com/opinion/congress-blog/6011510-justice-greyhound-protection-act/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Bay City man charged with shooting homemade arrow from recurve bow at passersby",
       "desc": "The 38-year-old faces enhanced penalties as a habitual offender after allegedly firing a makeshift arrow at two motorists while wearing a top hat on North Sherman Street.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/bay-city-man-charged-with-shooting-homemade-arrow-from-recurve-bow-at-passersby.html",
@@ -180,24 +270,6 @@
       "rawDate": "Wed, 05 Aug 2026 17:48:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Sabato&#039;s Crystal Ball shifts Kansas Senate race in Democrats&#039; favor",
-      "desc": "Election handicapper Sabato’s Crystal Ball on Tuesday shifted the Kansas Senate race from safe Republican to likely Republican following the Rev. Adam Hamilton’s Democratic primary win. Sabato’s Cryst",
-      "link": "https://thehill.com/homenews/campaign/6011422-kansas-senate-race-sabato-adam-hamilton-roger-marshall/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 17:32:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Big Oil wants to rig the courts. You’ll pay for it on your utility bill.",
-      "desc": "Congressman Mike Levin argues that rising energy costs and climate disaster expenses stem from fossil fuel industry deception and lack of corporate accountability, proposing the Energy Bills Relief Ac",
-      "link": "https://thehill.com/opinion/energy-environment/6009874-high-electricity-costs-california/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 17:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan man gets probation for abandoning litter of puppies on wintry roadside",
@@ -225,15 +297,6 @@
       "rawDate": "Wed, 05 Aug 2026 17:24:01 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "De Blasio: Talarico&#039;s &#039;kitchen table&#039; talk &#039;worst nightmare for Republicans&#039;",
-      "desc": "Former New York Mayor Bill de Blasio (D) said Tuesday that Texas Democratic Senate candidate James Talarico’s discussion of “kitchen table issues” is Republicans’ “worst nightmare” as Democrats look t",
-      "link": "https://thehill.com/homenews/campaign/6011453-bill-de-blasio-texas-senate-talarico/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 17:08:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Flushing grad, star athlete dies in crash",
@@ -345,7 +408,7 @@
     },
     {
       "title": "OpenAI settles DOJ claim it discriminated against US citizens in hiring",
-      "desc": "OpenAI reached a $3.2 million settlement with the Department of Justice (DOJ) over claims that it discriminated against U.S. citizens with its hiring practices.  The DOJ’s investigation involved “fewe",
+      "desc": "OpenAI reached a $3.2 million settlement with the Department of Justice (DOJ) over claims that it discriminated against U.S. citizens with its hiring practices.  The DOJ’s investigation involved ���fe",
       "link": "https://thehill.com/policy/technology/6011080-openai-doj-hiring-settlement/",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 15:58:32 +0000",
@@ -398,15 +461,6 @@
       "tag": "technology"
     },
     {
-      "title": "Hannity disputes Fox News poll showing Democrat ahead in deep red state: ‘I don’t believe it’",
-      "desc": "A Fox News survey of more than 1,000 registered voters shows Democrat ahead of Republican in what would be a historic upset.",
-      "link": "https://www.mlive.com/politics/2026/08/hannity-disputes-fox-news-poll-showing-democrat-ahead-in-deep-red-state-i-dont-believe-it.html",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:08:33 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Most grocery loyalty programs reward your wallet, not your loyalty — Trader Joe's knew that all along",
       "desc": "From Trader Joe's Mandarin orange chicken to its everyday low prices, the chain shows that experience beats enrollment every time.",
       "link": "https://www.mlive.com/business/2026/08/the-real-reason-trader-joes-has-never-needed-a-loyalty-program-and-why-it-keeps-winning.html",
@@ -414,15 +468,6 @@
       "rawDate": "Wed, 05 Aug 2026 15:07:35 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "‘Take Ann Arbor back for the people.’ Election outcome spells change",
-      "desc": "Here's how the makeup of Ann Arbor City Council is changing and what it may mean for the city.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/take-ann-arbor-back-for-the-people-election-outcome-spells-change.html",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 14:46:53 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "SVSU Lake Huron research station gets foundation grants",
@@ -515,15 +560,6 @@
       "tag": "education"
     },
     {
-      "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
-      "desc": "Nobody likes getting a swab shoved up their nose. A startup in Japan has developed a much less intrusive system.",
-      "link": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Four takeaways from the South Carolina GOP Senate debate",
       "desc": "Four South Carolina Republicans seeking the late Sen. Lindsey Graham’s (R-S.C.) spot on the November ballot faced off on the debate stage for a second straight night Tuesday. Hosted by Nexstar Media G",
       "link": "https://thehill.com/homenews/campaign/6009634-four-takeaways-from-the-south-carolina-gop-senate-debate/",
@@ -612,15 +648,6 @@
       "rawDate": "Tue, 04 Aug 2026 19:49:13 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Is Amazon cutting into sales of local perishable groceries?",
-      "desc": "Amazon and Whole Foods are making gains in the grocery market, which has traditionally been dominated by Costco and Walmart.",
-      "link": "https://www.mlive.com/business/2026/08/is-amazon-cutting-into-sales-of-local-perishable-groceries.html",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 19:29:41 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "St. Charles man charged with sharing illicit sexual images of children online",
@@ -718,24 +745,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/washtenaw-county-jail-officer-faced-retaliation-for-reporting-harassment-lawsuit-says.html",
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 17:31:15 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Man dies after being ejected from vehicle that struck Grand Blanc garage",
-      "desc": "A man died after being ejected and trapped under a car that crashed into a Grand Blanc garage; four others were uninjured.",
-      "link": "https://www.mlive.com/news/flint/2026/08/man-dies-after-being-ejected-from-vehicle-that-struck-grand-blanc-garage.html",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 16:36:14 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Flint man charged with breaking into home, tossing flaming beer can at 2 women",
-      "desc": "Jason Alexander Ball faces five felonies stemming from the Aug. 1 incident in rural Saginaw County.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/flint-man-charged-with-breaking-into-home-tossing-flaming-beer-can-at-2-women.html",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 16:32:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -857,15 +866,6 @@
       "tag": "education"
     },
     {
-      "title": "Spending bill blocks Trump plan to politicize grants",
-      "desc": "A spending bill unveiled Sunday by Senate Republicans would temporarily block the Trump administration's proposal to give political appointees control over hundreds of billions of dollars in scientifi",
-      "link": "https://thehill.com/homenews/senate/6005660-senate-spending-bill-trump-administration-scientific-grants/",
-      "date": "Aug 3, 2026",
-      "rawDate": "Mon, 03 Aug 2026 15:05:05 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Hegseth struggles to sell Senate on Iran war funding",
       "desc": "Defense Secretary Pete Hegseth has yet to win any notable converts in the Trump administration's push for tens of billions of dollars to quickly inject into the Iran war, which has rapidly exhausted U",
       "link": "https://thehill.com/policy/defense/6003191-pete-hegseth-iran-war-reconciliation-funding/",
@@ -907,24 +907,6 @@
       "link": "https://thehill.com/homenews/administration/6003529-live-updates-trump-us-iran-strikes-senate-gop-todd-blanche/",
       "date": "Aug 1, 2026",
       "rawDate": "Sat, 01 Aug 2026 19:05:55 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US planning renewed strikes on Iran: Reports",
-      "desc": "The U.S. is reportedly planning to reopen strikes against Iran as soon as this weekend, U.S. officials told several outlets on Friday.  CBS News reported that Israel is also involved in the plans to l",
-      "link": "https://thehill.com/policy/defense/6003304-us-plans-renewed-iran-strikes/",
-      "date": "Aug 1, 2026",
-      "rawDate": "Sat, 01 Aug 2026 00:47:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "F-35 fighter jet crashes near San Diego",
-      "desc": "A U.S. Marine Corps F-35 stealth fighter jet crashed at Marine Corps Air Station Miramar in San Diego, Calif., on Friday.  Marine officials confirmed to The Hill that it was an F-35 “aircraft mishap” ",
-      "link": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/",
-      "date": "Jul 31, 2026",
-      "rawDate": "Fri, 31 Jul 2026 18:31:57 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     }

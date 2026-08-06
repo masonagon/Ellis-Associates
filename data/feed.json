@@ -1,8 +1,26 @@
 {
-  "generated": "2026-08-05T23:51:56.042Z",
+  "generated": "2026-08-06T01:49:28.935Z",
   "news": [
     {
-      "title": "Michigan House candidate says he left Democratic Socialists of America to &#039;unite&#039; district",
+      "title": "Vance says El-Sayed has no &#039;constituency among the working class&#039;",
+      "desc": "Vice President Vance on Wednesday said progressive Senate candidate Abdul El-Sayed’s Democratic primary victory in Michigan was driven by affluent liberals rather than by working class voters. In an i",
+      "link": "https://thehill.com/homenews/administration/6012719-vance-criticizes-el-sayed-michigan/",
+      "date": "Aug 6, 2026",
+      "rawDate": "Thu, 06 Aug 2026 01:42:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "desc": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "date": "Aug 6, 2026",
+      "rawDate": "Thu, 06 Aug 2026 00:15:04 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Michigan House candidate says he left DSA to &#039;unite&#039; district",
       "desc": "Progressive House candidate Will Lawrence (D) said Wednesday that he allowed his Democratic Socialists of America (DSA) membership to lapse within the past month, explaining that he wanted to focus on",
       "link": "https://thehill.com/homenews/campaign/6012655-lawrence-lapses-dsa-membership/",
       "date": "Aug 5, 2026",
@@ -138,12 +156,12 @@
     },
     {
       "title": "Live updates: Trump promotes economic agenda in Las Vegas; El-Sayed rocks Michigan with primary win",
-      "desc": "President Trump is on the West Coast, with an event in Las Vegas Wednesday afternoon before returning to the White House. He's making remarks on his economic agenda, reminding the crowd of his \"no tax",
+      "desc": "President Trump is on the West Coast, with an event in Las Vegas Wednesday afternoon before returning to the White House. He&#8217;s making remarks on his economic agenda, reminding the crowd of his &",
       "link": "https://thehill.com/homenews/administration/6010135-live-updates-trump-vegas-michigan-el-sayed-progressives/",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 21:19:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Trump files emergency motion to block BBC from getting financial details about business empire",

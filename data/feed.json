@@ -1,6 +1,42 @@
 {
-  "generated": "2026-08-07T17:41:19.968Z",
+  "generated": "2026-08-07T18:42:03.127Z",
   "news": [
+    {
+      "title": "Senate confirms FEMA leader",
+      "desc": "The Senate has confirmed President Trump’s pick to lead the Federal Emergency Management Agency (FEMA), which has faced significant scrutiny for its handling of disasters and funding under the Trump a",
+      "link": "https://thehill.com/policy/energy-environment/6017458-fema-administrator-cameron-hamilton/",
+      "date": "Aug 7, 2026",
+      "rawDate": "Fri, 07 Aug 2026 18:23:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Trump hosts roundtable on mining",
+      "desc": "President Trump on Friday afternoon will host a roundtable at the State Department centered on the mining industry. “The mining industry has never had a greater champion than President Trump,&#8221; W",
+      "link": "https://thehill.com/video-clips/6017416-watch-live-donald-trump-white-house-mining-roundtable/",
+      "date": "Aug 7, 2026",
+      "rawDate": "Fri, 07 Aug 2026 18:12:39 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Michigan man, 73, pleads to sexually assaulting 7 girls from 1991 to 2006",
+      "desc": "The convict, who appeared in court hearings strapped to a wheelchair with his head hanging in apparent obliviousness, faces a minimum 10-year prison term.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/michigan-man-73-pleads-to-sexually-assaulting-7-girls-from-1991-to-2006.html",
+      "date": "Aug 7, 2026",
+      "rawDate": "Fri, 07 Aug 2026 18:09:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Dr. Oz urges senators to reject Budd hemp amendment",
+      "desc": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), is urging senators to not support an amendment that would allow a federal ban on most hemp-derived products to",
+      "link": "https://thehill.com/policy/healthcare/6017301-mehmet-oz-ted-budd-hemp-amendment-spending-bill/",
+      "date": "Aug 7, 2026",
+      "rawDate": "Fri, 07 Aug 2026 17:42:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Senate overwhelmingly passes Russia sanctions bill",
       "desc": "The Senate on Friday passed a long-sought bipartisan bill that would impose harsher sanctions on Russia and the top five buyers of Russian oil, along with extending existing sanctions on Iran.  That m",
@@ -90,24 +126,6 @@
       "rawDate": "Fri, 07 Aug 2026 16:11:36 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Harris throws support behind El-Sayed in Michigan: &#039;I proudly stand with him&#039;",
-      "desc": "Former Vice President Kamala Harris endorsed Abdul El-Sayed, the Democratic nominee in Michigan’s Senate race, on Friday.  “Dr. Abdul El-Sayed understands that the power is with the people, and that t",
-      "link": "https://thehill.com/homenews/campaign/6017035-harris-el-sayed-michigan-senate-race/",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 16:00:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Time out! A reality check on business aviation&#8217;s sustainability record",
-      "desc": "Even with its minimal carbon footprint, the sector has slashed emissions by 40 percent in just four decades.",
-      "link": "https://thehill.com/opinion/energy-environment/6013832-time-out-a-reality-check-on-business-aviations-sustainability-record/",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 16:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Michigan could reward or fine utilities over how fast they connect rooftop solar",
@@ -295,15 +313,6 @@
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "date": "Aug 7, 2026",
       "rawDate": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "B&amp;H Photo Promo Codes and Deals This August 2026",
-      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -533,15 +542,6 @@
       "tag": "health"
     },
     {
-      "title": "Pontiac man, 53, dies in apartment complex shooting; sheriff’s office investigating",
-      "desc": "Jethro Jackson, Jr., 53, died after suffering a gunshot wound to the upper torso in Pontiac on Aug. 4.",
-      "link": "https://www.mlive.com/news/detroit/2026/08/pontiac-man-53-dies-in-apartment-complex-shooting-sheriffs-office-investigating.html",
-      "date": "Aug 6, 2026",
-      "rawDate": "Thu, 06 Aug 2026 15:31:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Ann Arbor public power proposal qualifies for November ballot, city determines",
       "desc": "Grassroots group Ann Arbor for Public Power announced Thursday, Aug. 6, it submitted more than 5,000 qualified signatures from registered city voters in support of putting a city charter amendment on ",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/ann-arbor-public-power-proposal-qualifies-for-november-ballot-city-determines.html",
@@ -673,15 +673,6 @@
       "link": "https://thehill.com/policy/healthcare/6012755-cdc-traces-mexican-jalapeno-salmonella/",
       "date": "Aug 6, 2026",
       "rawDate": "Thu, 06 Aug 2026 02:47:06 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Multistate cyclospora outbreak expands to 15 states",
-      "desc": "The Food and Drug Administration (FDA) on Wednesday expanded its investigation into a cyclospora outbreak linked to recalled iceberg lettuce, after the first two deaths associated with the outbreak we",
-      "link": "https://thehill.com/policy/healthcare/6012753-fda-cyclospora-lettuce-outbreak/",
-      "date": "Aug 6, 2026",
-      "rawDate": "Thu, 06 Aug 2026 02:43:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

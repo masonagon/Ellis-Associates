@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-07T23:26:05.869Z",
+  "generated": "2026-08-08T01:00:48.204Z",
   "news": [
+    {
+      "title": "Army removes a top US general in Europe from command",
+      "desc": "The U.S. Army removed a top general overseeing forces in Europe from command in recent days, close to two months before his time in the role is slated to end, two U.S. officials, speaking on condition",
+      "link": "https://thehill.com/homenews/6018081-army-general-costanza-removed-v-corps/",
+      "date": "Aug 7, 2026",
+      "rawDate": "Fri, 07 Aug 2026 23:59:48 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Closed-door AI framework blindsides tech policy community",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Closed-door AI framework catches tech policy sector off guard The Trump administration's decision to keep its new framework on government AI testi",
+      "link": "https://thehill.com/newsletters/technology/6018053-closed-door-ai-framework-blindsides-tech-policy-community/",
+      "date": "Aug 7, 2026",
+      "rawDate": "Fri, 07 Aug 2026 23:33:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Trump administration targets Head Start for overhaul",
       "desc": "The Trump administration unveiled plans Thursday to overhaul the early education program Head Start for impoverished children. The Notice of Proposed Rulemaking (NPRM) — called “Reducing Federal Burde",
@@ -117,24 +135,6 @@
       "rawDate": "Fri, 07 Aug 2026 20:20:11 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Live updates: Senate searches for path to finish to-do list; Cassidy will back Blanche&#039;s nomination",
-      "desc": "The Senate is searching for a path to wrap up its to-do list and leave for a month-long recess, but a bipartisan bill to set rules for compensating and recruiting college athletes is holding up a broa",
-      "link": "https://thehill.com/homenews/6015981-live-updates-trump-iran-senate-todd-blanche/",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 20:19:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "College sports bill holding up Senate’s path to August recess",
-      "desc": "Senate Republicans say getting consent to move forward on the Protect College Sports Act, a bipartisan bill to set rules for compensating and recruiting college athletes, is holding up a broader deal ",
-      "link": "https://thehill.com/homenews/senate/6017663-senate-nil-bill-funding-blanche-recess/",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 20:08:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Law enforcement to ramp up presence for Flint’s 810 Day festivities",
@@ -376,6 +376,15 @@
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "date": "Aug 7, 2026",
       "rawDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "B&amp;H Photo Promo Codes and Deals This August 2026",
+      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "date": "Aug 7, 2026",
+      "rawDate": "Fri, 07 Aug 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -871,15 +880,6 @@
       "link": "https://thehill.com/policy/defense/6009275-us-missile-interceptor-stocks-dwindling-dangerous/",
       "date": "Aug 4, 2026",
       "rawDate": "Tue, 04 Aug 2026 22:19:27 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Military retires &#039;Southern Spear&#039; anti-drug operation for Western Hemisphere task force",
-      "desc": "The U.S. military has officially retired the joint task force aimed at targeting suspected drug-carrying vessels coming from Central and South America, replacing it with a new command structure meant ",
-      "link": "https://thehill.com/policy/defense/6009243-us-military-retires-replaces-southern-spear/",
-      "date": "Aug 4, 2026",
-      "rawDate": "Tue, 04 Aug 2026 22:11:25 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     }

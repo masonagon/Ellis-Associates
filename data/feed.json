@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-08T09:29:13.964Z",
+  "generated": "2026-08-08T10:22:22.532Z",
   "news": [
+    {
+      "title": "5 takeaways from scam allegations against Michigan, Morgan Wallen memorabilia seller",
+      "desc": "A Michigan man faces several allegations of scams, including selling unlicensed University of Michigan merchandise.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/5-takeaways-from-scam-allegations-against-michigan-morgan-wallen-memorabilia-seller.html",
+      "date": "Aug 8, 2026",
+      "rawDate": "Sat, 08 Aug 2026 10:00:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump questions Texas data center move in surging political battle",
+      "desc": "President Trump is touting the benefits of AI data centers after Texas moved to more strictly regulate the industry, which has rapidly become a political lightning rod across the political spectrum.  ",
+      "link": "https://thehill.com/homenews/administration/6018015-trump-supports-ai-data-centers-texas/",
+      "date": "Aug 8, 2026",
+      "rawDate": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "desc": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "date": "Aug 8, 2026",
+      "rawDate": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+      "desc": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secrets.",
+      "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+      "date": "Aug 8, 2026",
+      "rawDate": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+      "desc": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
+      "link": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+      "date": "Aug 8, 2026",
+      "rawDate": "Sat, 08 Aug 2026 09:31:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
       "desc": "The Senate adjourned for a five-week recess early Saturday morning after passing a bill to fund the federal government until Dec. 11 and confirming Todd Blanche as attorney general. Senate Republicans",
@@ -97,17 +142,8 @@
       "link": "https://thehill.com/homenews/administration/6018021-trump-plan-overhaul-head-start/",
       "date": "Aug 7, 2026",
       "rawDate": "Fri, 07 Aug 2026 23:06:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate confirms 74 Trump nominees: Here are 3 notable ones",
-      "desc": "Correction: A previous version of this article included Trump nominees who have not been confirmed by the Senate. The Senate confirmed dozens of President Trump’s nominees on Friday, the final day of ",
-      "link": "https://thehill.com/homenews/senate/6017982-senate-confirms-trump-nominees/",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 22:58:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Woman killed in crash on M-14 remembered for love of others, despite hardship",
@@ -371,15 +407,6 @@
       "tag": "government"
     },
     {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "desc": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Former Howell youth soccer coach charged with sexual exploitation of children",
       "desc": "According to the federal complaint, Jacob David Sampson is accused of sexually assaulting a 6-year-old girl, and distributing, receiving and possessing child pornography.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/former-howell-youth-soccer-coach-charged-with-sexual-exploitation-of-children.html",
@@ -531,15 +558,6 @@
       "rawDate": "Thu, 06 Aug 2026 16:38:44 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Case delayed for Flint Township man accused of animal cruelty",
-      "desc": "A Genesee County judge granted a request for an independent psychological evaluation in a Flint Township animal cruelty case.",
-      "link": "https://www.mlive.com/news/flint/2026/08/case-delayed-for-flint-township-man-accused-of-animal-cruelty.html",
-      "date": "Aug 6, 2026",
-      "rawDate": "Thu, 06 Aug 2026 16:30:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "University of Michigan solidifying its plans for a former Christian college campus",
@@ -810,15 +828,6 @@
       "rawDate": "Wed, 05 Aug 2026 13:45:43 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Michigan says &#039;technical issue&#039; slowed voting",
-      "desc": "Michigan state officials on Tuesday said a \"technical issue\" slowed down voting as millions of registered voters cast their ballots in the state's primary election. The Michigan Department of Technolo",
-      "link": "https://thehill.com/homenews/campaign/6010123-michigan-senate-primary-voting-technical-issues/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 13:38:42 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Lockwood STEM Center receives $10K HSC Cares grant to expand robotics education",

@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-09T11:21:23.968Z",
+  "generated": "2026-08-09T12:33:07.645Z",
   "news": [
+    {
+      "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
+      "desc": "Fresh off his primary victory earlier this week, Michigan Senate candidate Abdul El-Sayed is set to appear on two news programs Sunday as he looks ahead to the November general election against former",
+      "link": "https://thehill.com/homenews/administration/6018822-live-updates-el-sayed-aoc-trump-birthright-citizenship-fauci-contempt/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 12:29:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rashida Tlaib wins, Donavan McKinney ousts incumbent: 5 takeaways from Wayne County primary",
+      "desc": "Here are five takeaways from Tuesday’s election in Detroit and Wayne County.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/rashida-tlaib-wins-donavan-mckinney-ousts-incumbent-5-takeaways-from-wayne-county-primary.html",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 12:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "See the winners of Ann Arbor’s 39th annual historic preservation awards",
+      "desc": "A house designed by Frank Lloyd Wright in 1952 and parts of the University of Michigan, including its eye-catching fountain on Ingalls Malls, are among the highlights.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/see-the-winners-of-ann-arbors-39th-annual-historic-preservation-awards.html",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 12:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Darline Graham tests value of a famous name vs. lack of experience in South Carolina primary",
+      "desc": "President Donald Trump has endorsed her, and she's backed by the National Republican Senatorial Committee, which is running television advertising to support her candidacy.",
+      "link": "https://thehill.com/homenews/campaign/6018890-darline-graham-senate-primary/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 11:51:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Complicated Case of Passing On Your Digital Estate",
+      "desc": "There’s no perfect way to transfer possession of your digital assets to your loved ones after you’re gone. But there are things you can do now to make the process easier for them.",
+      "link": "https://www.wired.com/story/digital-estate-planning-tips/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 11:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
       "desc": "Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
@@ -119,24 +164,6 @@
       "tag": "government"
     },
     {
-      "title": "Acting ICE chief knocks AP for ‘misleading’ report on body cam policy",
-      "desc": "Acting Immigration and Customs Enforcement (ICE) Director David Venturella accused the Associated Press on Saturday of misreporting his agency’s body camera policy in an article on how ICE decides wha",
-      "link": "https://thehill.com/homenews/administration/6018782-ice-chief-david-venturella-ap-bodycam/",
-      "date": "Aug 8, 2026",
-      "rawDate": "Sat, 08 Aug 2026 20:14:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Dems blast Blanche as enabler of &#039;Trump’s corruption&#039; after AG confirmation",
-      "desc": "All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of GOP lawmakers in the upper chamber in the early hou",
-      "link": "https://thehill.com/homenews/senate/6018748-democrats-oppose-blanche-confirmation/",
-      "date": "Aug 8, 2026",
-      "rawDate": "Sat, 08 Aug 2026 19:45:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Holland man critically injured in Grand Haven Township motorcycle crash",
       "desc": "The incident occurred Saturday morning near the intersection of U.S. 31 and 152nd Avenue.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/holland-man-critically-injured-in-grand-haven-township-motorcycle-crash.html",
@@ -144,24 +171,6 @@
       "rawDate": "Sat, 08 Aug 2026 19:31:50 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "USPS reports $2.5B loss in third quarter as financial woes persist",
-      "desc": "The United States Postal Service's (USPS) net losses for the third quarter of 2026 reached $2.5 billion, the agency reported Friday, as its leadership continues to look for solutions to prevent an imp",
-      "link": "https://thehill.com/business/6018716-usps-financial-woes-2-billion-loss/",
-      "date": "Aug 8, 2026",
-      "rawDate": "Sat, 08 Aug 2026 19:18:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Senate hits recess button; Iran signals Hormuz deal close but demands remain",
-      "desc": "Iranian officials signaled Saturday that Iran and Oman are \"close\" to a final framework on a deal to reopen the Strait of Hormuz to shipping, but it will require some concessions from the U.S. and Isr",
-      "link": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
-      "date": "Aug 8, 2026",
-      "rawDate": "Sat, 08 Aug 2026 19:07:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "New York-style pizzeria returns to Flint area with first brick-and-mortar location",
@@ -320,15 +329,6 @@
       "title": "How to Disable Gemini in Gmail and Google Docs",
       "desc": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
       "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "date": "Aug 8, 2026",
-      "rawDate": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
-      "desc": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secrets.",
-      "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
       "date": "Aug 8, 2026",
       "rawDate": "Sat, 08 Aug 2026 10:00:00 +0000",
       "source": "Wired",
@@ -677,15 +677,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump calls El-Sayed ‘full of sh**’ as Michigan Senate race shifts to general election",
-      "desc": "The president called the Democratic nominee \"a man of hate\" during a Las Vegas speech, while El-Sayed responded by focusing on his policy platform of Medicare for all and getting money out of politics",
-      "link": "https://www.mlive.com/politics/2026/08/trump-calls-el-sayed-full-of-sh-as-michigan-senate-race-shifts-to-general-election.html",
-      "date": "Aug 6, 2026",
-      "rawDate": "Thu, 06 Aug 2026 16:15:22 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "GCI invites students and families to Meet the Teacher event",
       "desc": "The Genesee Career Institute will host the annual event later this month to help students prepare for the upcoming school year.",
       "link": "https://www.mlive.com/news/flint/2026/08/gci-invites-students-and-families-to-meet-the-teacher-event.html",
@@ -889,15 +880,6 @@
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/svsu-lake-huron-research-station-gets-foundation-grants.html",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 13:45:43 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Lockwood STEM Center receives $10K HSC Cares grant to expand robotics education",
-      "desc": "The HSC CARES Grant from Hemlock Semiconductor will fund professional development and classroom robot sets for elementary educators.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/lockwood-stem-center-receives-10k-hsc-cares-grant-to-expand-robotics-education.html",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 12:12:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

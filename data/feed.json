@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-09T20:21:34.743Z",
+  "generated": "2026-08-09T21:22:49.552Z",
   "news": [
+    {
+      "title": "Senate leaves town without voting on crypto bill, dimming its chances of passing",
+      "desc": "The Senate left town for August recess over the weekend without voting on a cryptocurrency regulation bill, markedly dimming the measure’s chances of passing before the midterm elections.   The crypto",
+      "link": "https://thehill.com/policy/technology/6017968-senate-clarity-act-crypto-bill/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
+      "desc": "With Congress out for August recess, attention is shifting from Capitol Hill to the campaign trail as voters head to the polls in a number of high-profile primaries that will help shape the 2026 midte",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6018937-minnesota-wisconsin-south-carolina-primaries-max-miller/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Sanders says Minnesota Senate race between progressive and moderate will be &#039;tight&#039;",
       "desc": "Sen. Bernie Sanders (I-Vt.) said he believes the Democratic Senate primary in Minnesota between Lt. Gov. Peggy Flanagan (D), a progressive, and Rep. Angie Craig (D), a moderate, will be “tight.” “I th",
@@ -75,7 +93,7 @@
     },
     {
       "title": "Ocasio-Cortez declines to endorse Hong, says she’s focused on ‘winning back’ Congress",
-      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor’s race. “I haven't endorsed in that",
+      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor’s race. “I haven't endorsed in that",
       "link": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/",
       "date": "Aug 9, 2026",
       "rawDate": "Sun, 09 Aug 2026 15:14:55 +0000",
@@ -119,22 +137,13 @@
       "tag": "safety"
     },
     {
-      "title": "Ocasio-Cortez says new age progressives ‘answer to no master’",
-      "desc": "New York Rep. Alexandria Ocasio-Cortez (D) on Sunday shared support for progressives in the Democratic Party, backing their ability to answer to “no master.” “I think when I see so many of these incre",
-      "link": "https://thehill.com/homenews/campaign/6019067-aoc-new-age-progressives-take-reins/",
-      "date": "Aug 9, 2026",
-      "rawDate": "Sun, 09 Aug 2026 14:28:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Flock camera map: How many are in your neighborhood?",
       "desc": "Flock Safety, a surveillance equipment company, says it partners with more than 5,000 law enforcement agency partners across 6,000 communities. Is your city one of them?",
       "link": "https://thehill.com/policy/technology/6016998-flock-camera-map-how-many-are-in-your-neighborhood/",
       "date": "Aug 9, 2026",
       "rawDate": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Video evidence prompts police to reopen assault case",
@@ -889,15 +898,6 @@
       "link": "https://thehill.com/homenews/6011029-youth-ai-privacy-act-passes/",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 16:23:52 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "OpenAI settles DOJ claim it discriminated against US citizens in hiring",
-      "desc": "OpenAI reached a $3.2 million settlement with the Department of Justice (DOJ) over claims that it discriminated against U.S. citizens with its hiring practices.  The DOJ’s investigation involved “fewe",
-      "link": "https://thehill.com/policy/technology/6011080-openai-doj-hiring-settlement/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:58:32 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

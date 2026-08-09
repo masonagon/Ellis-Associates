@@ -1,6 +1,60 @@
 {
-  "generated": "2026-08-09T14:25:43.205Z",
+  "generated": "2026-08-09T15:22:31.819Z",
   "news": [
+    {
+      "title": "AOC declines to endorse Hong, says she’s focused on ‘winning back’ Congress",
+      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor’s race. “I haven't endorsed in that",
+      "link": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 15:14:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The unaccountability trap in government",
+      "desc": "The author argues that while the Supreme Court recently affirmed presidential authority over independent agencies in Trump v. Slaughter, its conflicting decision in Trump v. Cook protects the Federal ",
+      "link": "https://thehill.com/opinion/judiciary/6018111-supreme-court-fed-independence/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hassett: Fuel prices &#039;still higher than we would like’",
+      "desc": "National Economic Council Director Kevin Hassett on Sunday expressed concern about continued high fuel prices amid the ongoing conflict with Iran. “Now, prices are still higher than we would like, but",
+      "link": "https://thehill.com/business/6019077-hassett-high-gas-prices-iran-war/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 14:44:23 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Hassett: Fuel prices &#8216;still higher than we would like’",
+      "desc": "National Economic Council Director Kevin Hassett on Sunday expressed concern about continued high fuel prices amid the ongoing conflict with Iran. “Now, prices are still higher than we would like, but",
+      "link": "https://thehill.com/business/6019077-hassett-high-gas-prices-iran-war/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 14:44:23 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Man charged with attempted murder for allegedly firing gun during campground fight",
+      "desc": "Sheriff's deputies were called to a campground where multiple people were fighting and a firearm was discharged.",
+      "link": "https://www.mlive.com/news/2026/08/man-charged-with-attempted-murder-for-allegedly-firing-gun-during-campground-fight.html",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 14:34:15 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ocasio-Cortez says new age progressives ‘answer to no master’",
+      "desc": "New York Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday shared support for progressives in the Democratic Party, backing their ability to answer to “no master.” “I think when I see so many of these ",
+      "link": "https://thehill.com/homenews/campaign/6019067-aoc-new-age-progressives-take-reins/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 14:28:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Flock camera map: How many are in your neighborhood?",
       "desc": "Flock Safety, a surveillance equipment company, says it partners with more than 5,000 law enforcement agency partners across 6,000 communities. Is your city one of them?",
@@ -162,15 +216,6 @@
       "rawDate": "Sun, 09 Aug 2026 09:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Grassley bids farewell to beloved family vacuum, Beth",
-      "desc": "Iowa Sen. Chuck Grassley (R) on Saturday eulogized a beloved vacuum cleaner, affectionately named Beth after a former Senate staffer.  The vacuum has been in the 92-year-old senator’s family for nearl",
-      "link": "https://thehill.com/blogs/in-the-know/6018915-grassley-eulogizes-vacuum-beth/",
-      "date": "Aug 9, 2026",
-      "rawDate": "Sun, 09 Aug 2026 01:31:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "32-year-old hospitalized after shooting in Albion",
@@ -477,15 +522,6 @@
       "rawDate": "Fri, 07 Aug 2026 15:54:32 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Deputy arrested, put on leave in Southwest Michigan",
-      "desc": "The corrections deputy was lodged at the Kalamazoo County Jail.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/deputy-arrested-put-on-leave-in-southwest-michigan.html",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 15:36:32 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Michigan lifts lettuce warnings as cyclosporiasis cases fall",
@@ -880,15 +916,6 @@
       "link": "https://thehill.com/homenews/house/6009196-trump-iran-conflict-midterms-republicans/",
       "date": "Aug 5, 2026",
       "rawDate": "Wed, 05 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Four takeaways from the South Carolina GOP Senate debate",
-      "desc": "Four South Carolina Republicans seeking the late Sen. Lindsey Graham’s (R-S.C.) spot on the November ballot faced off on the debate stage for a second straight night Tuesday. Hosted by Nexstar Media G",
-      "link": "https://thehill.com/homenews/campaign/6009634-four-takeaways-from-the-south-carolina-gop-senate-debate/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 01:50:32 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     }

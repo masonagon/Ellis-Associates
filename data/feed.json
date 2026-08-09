@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-09T13:42:13.801Z",
+  "generated": "2026-08-09T14:25:43.205Z",
   "news": [
+    {
+      "title": "Flock camera map: How many are in your neighborhood?",
+      "desc": "Flock Safety, a surveillance equipment company, says it partners with more than 5,000 law enforcement agency partners across 6,000 communities. Is your city one of them?",
+      "link": "https://thehill.com/policy/technology/6016998-flock-camera-map-how-many-are-in-your-neighborhood/",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 14:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Video evidence prompts police to reopen assault case",
+      "desc": "The investigation was initially closed due to lack of evidence, but authorities reopened the case after video of the assault surfaced online.",
+      "link": "https://www.mlive.com/news/flint/2026/08/video-evidence-prompts-police-to-reopen-assault-case.html",
+      "date": "Aug 9, 2026",
+      "rawDate": "Sun, 09 Aug 2026 13:52:54 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Ocasio-Cortez posts videos confirming she&#039;s freezing her eggs",
       "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Saturday on her Instagram story that she is freezing her eggs. “Usually, I keep my private life quite private, but I have made the decision to start freezin",
@@ -470,15 +488,6 @@
       "tag": "safety"
     },
     {
-      "title": "Kalamazoo car crash sends bicyclist to hospital",
-      "desc": "A bicyclist was hospitalized after being involved in a car crash in Kalamazoo Thursday, police say.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/kalamazoo-car-crash-sends-bicyclist-to-hospital.html",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 15:36:13 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Michigan lifts lettuce warnings as cyclosporiasis cases fall",
       "desc": "Michigan health officials eased the state's guidance on lettuce consumption on Thursday amid declining numbers of cyclosporiasis cases.  State residents are now advised to follow “routine guidance” wh",
       "link": "https://thehill.com/homenews/state-watch/6016797-michigan-lettuce-warnings-cyclospora-cases/",
@@ -855,15 +864,6 @@
       "rawDate": "Wed, 05 Aug 2026 15:44:14 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "AI agent created fake online identities to access secure systems in latest breach",
-      "desc": "An AI agent created fake online identities to attempt to gain access to secure systems and alter source code in the latest in a string of incidents that have raised concerns about the increasingly adv",
-      "link": "https://thehill.com/policy/technology/6010786-ai-agents-fake-acccounts-aisi-openai-gpt-mythos/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 15:09:48 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "SVSU Lake Huron research station gets foundation grants",

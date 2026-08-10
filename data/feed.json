@@ -1,9 +1,54 @@
 {
-  "generated": "2026-08-10T16:44:21.528Z",
+  "generated": "2026-08-10T17:44:05.737Z",
   "news": [
     {
+      "title": "Trader Joe's is expanding across DFW and a permit filing suggests Fort Worth could be next",
+      "desc": "The chain's only existing Fort Worth store is in the southwestern part of the city, leaving northern residents without a nearby option.",
+      "link": "https://www.mlive.com/business/2026/08/could-north-fort-worth-finally-be-getting-its-own-trader-joes-a-new-permit-filing-says-maybe.html",
+      "date": "Aug 10, 2026",
+      "rawDate": "Mon, 10 Aug 2026 17:16:45 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Woman found in soybean field after running from police during chase over stolen vehicle",
+      "desc": "She and a man were both arrested.",
+      "link": "https://www.mlive.com/news/2026/08/woman-found-in-soybean-field-after-running-from-police-during-chase-over-stolen-vehicle.html",
+      "date": "Aug 10, 2026",
+      "rawDate": "Mon, 10 Aug 2026 17:01:33 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Modernizing government technology is starting to pay off — let&#039;s keep going",
+      "desc": "A Government Accountability Office report indicates that the Technology Modernization Fund has begun yielding significant savings and cybersecurity improvements, prompting calls for Congress to reauth",
+      "link": "https://thehill.com/opinion/technology/6019668-gao-reports-it-savings/",
+      "date": "Aug 10, 2026",
+      "rawDate": "Mon, 10 Aug 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pentagon renames South Carolina air base after Graham",
+      "desc": "CHARLESTON, S.C. — The Pentagon officially renamed an air base in South Carolina after Sen. Lindsey Graham (R-S.C.), a fierce defense hawk who died suddenly last month.  Joint Base Charleston, which s",
+      "link": "https://thehill.com/policy/defense/6020662-pentagon-renames-south-carolina-base-lindsey-graham/",
+      "date": "Aug 10, 2026",
+      "rawDate": "Mon, 10 Aug 2026 16:56:23 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Begala: &#039;I can&#039;t stand&#039; socialists",
+      "desc": "Former President Clinton’s White House strategist Paul Begala said he despises socialists, as the democratic socialist movement racks up wins in recent primaries. “Abdul won a narrow victory, and more",
+      "link": "https://thehill.com/homenews/campaign/6020596-begala-despises-socialists/",
+      "date": "Aug 10, 2026",
+      "rawDate": "Mon, 10 Aug 2026 16:50:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Newsom says he&#039;s always had &#039;insurgent&#039; mindset",
-      "desc": "California Gov. Gavin Newsom (D) on Sunday told reporters that he's always had an \"insurgent\" mindset, explaining what he thinks is the rationale behind why Democrats are choosing more progressive can",
+      "desc": "California Gov. Gavin Newsom (D) on Sunday told reporters he's always had an \"insurgent\" mindset, explaining what he thinks is the rationale behind why Democrats are choosing more progressive candidat",
       "link": "https://thehill.com/homenews/campaign/6020434-newsom-democrats-progressive-candidates-insurgent-mindset/",
       "date": "Aug 10, 2026",
       "rawDate": "Mon, 10 Aug 2026 16:42:35 +0000",
@@ -88,8 +133,8 @@
       "link": "https://thehill.com/homenews/media/6020372-katie-miller-defends-aoc-egg-freezing/",
       "date": "Aug 10, 2026",
       "rawDate": "Mon, 10 Aug 2026 15:23:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Saginaw teenager fatally shot on city’s West Side, police seeking leads",
@@ -110,24 +155,6 @@
       "tag": "technology"
     },
     {
-      "title": "Mamdani: Democratic socialists &#039;going back to what the party used to be&#039;",
-      "desc": "New York City Mayor Zohran Mamdani (D) said democratic socialists running as Democrats are \"going back to what the party used to be.\" Mamdani was interviewed for a pre-taped episode of the SiriusXM sh",
-      "link": "https://thehill.com/homenews/campaign/6019863-democratic-socialists-new-deal-focus/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 14:39:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Congressional Republicans have proven themselves unworthy to govern",
-      "desc": "The coming midterm elections will give voters a chance to hold them accountable for their failures.",
-      "link": "https://thehill.com/opinion/campaign/6017768-gop-blanche-confirmation-controversy/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 14:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Flint mayor says downtown remains safe after deadly shooting",
       "desc": "A man was killed and another injured in a downtown Flint shooting Saturday night, prompting Mayor Neeley to reassure residents the area remains safe.",
       "link": "https://www.mlive.com/news/flint/2026/08/flint-mayor-says-downtown-remains-safe-after-deadly-shooting.html",
@@ -135,15 +162,6 @@
       "rawDate": "Mon, 10 Aug 2026 14:09:02 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "FULL LIST: Dips, salsas sold at major retailers in 26 states recalled over salmonella concerns",
-      "desc": "The salsa, dips, guacamole, and more were sold at Kroger, Target, Trader Joe's, Whole Foods, and Walmart locations across half the U.S.",
-      "link": "https://thehill.com/homenews/6019885-full-list-dips-salsas-sold-at-major-retailers-in-26-states-recalled-over-salmonella-concerns/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 14:00:01 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Watch live: RFK Jr. to host food policy event",
@@ -425,15 +443,6 @@
       "tag": "health"
     },
     {
-      "title": "Fatal pedestrian crash in Kent County under investigation",
-      "desc": "A 51-year-old Cutlerville man died after being struck by a vehicle Friday night while crossing a roadway in Gaines Township.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/08/fatal-pedestrian-crash-in-kent-county-under-investigation.html",
-      "date": "Aug 8, 2026",
-      "rawDate": "Sat, 08 Aug 2026 13:19:30 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "6 takeaways from the Aug. 4 primary election in Washtenaw County",
       "desc": "From heated battles for political control in Ann Arbor to a data center proposal on nearby farmland and more, here are six takeaways from the election.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/6-takeaways-from-the-aug-4-primary-election-in-washtenaw-county.html",
@@ -522,15 +531,6 @@
       "rawDate": "Fri, 07 Aug 2026 20:49:22 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Kellogg says it’s removing artificial dyes from cereals by the end of this year",
-      "desc": "The Battle Creek-based company has identified fruit- and vegetable-based juices that will give cereals like Froot Loops and Apple Jacks their distinctive colors.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/kellogg-says-its-removing-artificial-dyes-from-cereals-by-the-end-of-this-year.html",
-      "date": "Aug 7, 2026",
-      "rawDate": "Fri, 07 Aug 2026 20:20:11 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Dr. Oz urges senators to reject Budd hemp amendment",
@@ -781,15 +781,6 @@
       "link": "https://thehill.com/policy/defense/6012636-iran-oman-deal-strait-of-hormuz/",
       "date": "Aug 6, 2026",
       "rawDate": "Thu, 06 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "America’s water systems are under attack. Iran may be to blame",
-      "desc": "A recent wave of cyberattacks on American water systems is raising alarm at all levels of government, with U.S. authorities reportedly suspecting Iran-linked hackers.  The FBI reported Thursday that “",
-      "link": "https://thehill.com/policy/defense/6012602-iran-linked-water-utility-hacks/",
-      "date": "Aug 5, 2026",
-      "rawDate": "Wed, 05 Aug 2026 22:54:11 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

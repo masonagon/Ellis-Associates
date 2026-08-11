@@ -1,6 +1,33 @@
 {
-  "generated": "2026-08-11T19:55:46.051Z",
+  "generated": "2026-08-11T20:36:29.931Z",
   "news": [
+    {
+      "title": "AI reshapes traditional campaign strategies",
+      "desc": "Artificial intelligence is reshaping the campaign trail, as candidates up and down the ballot turn to the technology for deepfake attack ads, viral social media posts and self-promotion.  The embrace ",
+      "link": "https://thehill.com/policy/technology/6023207-ai-reshapes-campaign-trail/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 20:19:42 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "OMB rescinds TikTok ban on government devices",
+      "desc": "The Office of Management and Budget (OMB) lifted the ban on the social media platform TikTok for government devices on Monday, officially ending the yearslong saga. The memo, signed by OMB Secretary R",
+      "link": "https://thehill.com/policy/technology/6023222-omb-lifts-tiktok-government-ban/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 20:08:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic attorneys general suing Trump administration over new interest rules for homeowners",
+      "desc": "A group of Democratic state attorneys general is suing the Trump administration to block its attempt to invalidate state requirements that mortgage lenders pay homeowners interest on money deposited i",
+      "link": "https://thehill.com/homenews/state-watch/6023349-democratic-attorneys-general-suing-trump-administration-over-new-interest-rules-for-homeowners/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 20:07:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Hegseth travels to Panama as US deepens defense cooperation",
       "desc": "Defense Secretary Pete Hegseth will travel to Panama on Wednesday where he will meet with the country’s President José Raúl Mulino and hold a meeting with Colombian senior officials as the U.S. deepen",
@@ -101,15 +128,6 @@
       "tag": "safety"
     },
     {
-      "title": "Hong makes final pitch to voters amid scrutiny of past comments on police, Thanksgiving",
-      "desc": "Democratic socialist Francesca Hong delivered her closing pitch to voters on Tuesday, hours before polls close in the Wisconsin gubernatorial primary. Hong, who leads the Democratic field in recent po",
-      "link": "https://thehill.com/homenews/campaign/6023023-hong-wisconsin-gubernatorial-primary/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 18:36:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Spoiled ballots in West Michigan primary highlight ongoing voter confusion",
       "desc": "Voter confusion over primary crossover rules led to a number of invalidated ballots in last week’s election, while at the same time, voter turnout increased across Muskegon, Kent and Ottawa counties.",
       "link": "https://www.mlive.com/news/muskegon/2026/08/spoiled-ballots-in-west-michigan-primary-highlight-ongoing-voter-confusion.html",
@@ -144,15 +162,6 @@
       "rawDate": "Tue, 11 Aug 2026 18:08:58 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump offers Lindell a boost ahead of Minnesota primary: &#039;Deserves a BIG WIN&#039;",
-      "desc": "President Trump doubled down Tuesday on his support for My Pillow founder Mike Lindell, who is running for governor in Minnesota, hours before primary polls close. “Mike Lindell deserves a BIG WIN IN ",
-      "link": "https://thehill.com/homenews/campaign/6022913-donald-trump-mike-lindell-minnesota-governor-primary-boost/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 18:03:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Electric Forest baby death: Mother still missing, police tracking ‘good leads’",
@@ -542,6 +551,15 @@
       "tag": "health"
     },
     {
+      "title": "Tech companies must face thousands of lawsuits over social media addiction, appeals court rules",
+      "desc": "A U.S. Appeals Court on Monday declined to drop the thousands of online safety lawsuits against social media firms, ruling Meta and TikTok appealed the cases too early. In an opinion issued Monday, th",
+      "link": "https://thehill.com/homenews/6021367-social-media-safety-lawsuits-proceed/",
+      "date": "Aug 10, 2026",
+      "rawDate": "Mon, 10 Aug 2026 22:44:35 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "What to know about Trump&#039;s vaccine executive order",
       "desc": "President Trump signed an executive order Monday advancing \"Make America Healthy Again\" vaccine priorities, issuing recommendations to split up combined vaccines and to reduce the number of childhood ",
       "link": "https://thehill.com/policy/healthcare/6021466-trump-signs-vaccine-order/",
@@ -749,15 +767,6 @@
       "tag": "safety"
     },
     {
-      "title": "Flock camera map: How many are in your neighborhood?",
-      "desc": "Flock Safety, a surveillance equipment company, says it partners with more than 5,000 law enforcement agency partners across 6,000 communities. Is your city one of them?",
-      "link": "https://thehill.com/policy/technology/6016998-flock-camera-map-how-many-are-in-your-neighborhood/",
-      "date": "Aug 9, 2026",
-      "rawDate": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "See the winners of Ann Arbor’s 39th annual historic preservation awards",
       "desc": "A house designed by Frank Lloyd Wright in 1952 and parts of the University of Michigan, including its eye-catching fountain on Ingalls Malls, are among the highlights.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/see-the-winners-of-ann-arbors-39th-annual-historic-preservation-awards.html",
@@ -783,15 +792,6 @@
       "rawDate": "Sat, 08 Aug 2026 12:15:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump questions Texas data center move in surging political battle",
-      "desc": "President Trump is touting the benefits of AI data centers after Texas moved to more strictly regulate the industry, which has rapidly become a political lightning rod across the political spectrum.  ",
-      "link": "https://thehill.com/homenews/administration/6018015-trump-supports-ai-data-centers-texas/",
-      "date": "Aug 8, 2026",
-      "rawDate": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Army removes a top US general in Europe from command",

@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-11T11:38:05.816Z",
+  "generated": "2026-08-11T12:44:20.022Z",
   "news": [
+    {
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "desc": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 12:37:12 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "DOJ sues NY to block in-state tuition for undocumented students",
+      "desc": "The federal government has sued New York, Connecticut, and Vermont to block undocumented immigrants from receiving in-state college tuition and financial assistance, alleging the state policies violat",
+      "link": "https://thehill.com/homenews/education/6021301-doj-lawsuit-new-york-state-tuition-assistance-undocumented-students/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 12:31:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Blanche appointment is another Trump win that&#039;s America&#039;s loss",
+      "desc": "He will serve only Donald Trump, not our precious rule of law.",
+      "link": "https://thehill.com/opinion/white-house/6020950-blanche-attorney-general-confirmed/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 12:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Movement: A $20 burrito and a fight over affordability",
+      "desc": "A personal note to readers from Emily Brooks: I have welcomed my second child! I’ll be out on maternity leave for the next few months, and Helen, our Senate reporter, will take over writing of The Mov",
+      "link": "https://thehill.com/newsletters/the-movement/6021209-gop-burrito-affordability/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump, threatened by Iran, used ruse to fly home from Turkey on jet",
+      "desc": "In today's issue: ▪ Republicans to choose Graham replacement ▪ Trump rolls back vaccine guidance ▪ Blanche sworn in as attorney general ▪ Record heat in contiguous U.S. President Trump engaged in an e",
+      "link": "https://thehill.com/newsletters/morning-report/6021777-donald-trump-iran-threat-nato-summit-air-force-one-ruse/",
+      "date": "Aug 11, 2026",
+      "rawDate": "Tue, 11 Aug 2026 11:40:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "6 Best Dehumidifiers to Fight Mold and Muggy Summers (2026)",
       "desc": "If you care about good air, it’s time for a dehumidifier. These are the best ones we’ve tested for everything from basements to drying laundry.",
@@ -128,15 +173,6 @@
       "tag": "health"
     },
     {
-      "title": "North Carolina Republicans pick ballot replacement for Rep. Chuck Edwards",
-      "desc": "Republicans in North Carolina selected state Rep. Jennifer Balkcom (R) as the new GOP nominee in the state’s 11th Congressional District, after Rep. Chuck Edwards (R-N.C.) dropped out of the race last",
-      "link": "https://thehill.com/homenews/campaign/6021588-balkcom-chosen-nc-11-gop/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 01:58:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening",
       "desc": "A deal between Iran and Oman to reopen the Strait of Hormuz is teetering over steep demands from Tehran for the United States and vice versa.  Iran on Sunday said the agreement to set up new shipping ",
       "link": "https://thehill.com/policy/defense/6021575-iran-oman-hormuz-strait-deal/",
@@ -180,24 +216,6 @@
       "rawDate": "Mon, 10 Aug 2026 23:03:48 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "White House thrusts vaccines back into headlines",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  White House thrusts vaccines back into headlines  The Trump administration appeared to be backing away from m",
-      "link": "https://thehill.com/newsletters/healthcare/6021506-white-house-thrusts-vaccines-back-into-headlines/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 22:53:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Tech companies must face thousands of lawsuits over social media addiction, appeals court rules",
-      "desc": "A U.S. Appeals Court on Monday declined to drop the thousands of online safety lawsuits against social media firms, ruling Meta and TikTok appealed the cases too early. In an opinion issued Monday, th",
-      "link": "https://thehill.com/homenews/6021367-social-media-safety-lawsuits-proceed/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 22:44:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "What to know about Trump&#039;s vaccine executive order",

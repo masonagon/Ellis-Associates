@@ -1,6 +1,96 @@
 {
-  "generated": "2026-08-12T17:52:05.681Z",
+  "generated": "2026-08-12T18:51:07.275Z",
   "news": [
+    {
+      "title": "Ex-diplomat: &#039;No one&#039;s in total control of the Strait of Hormuz&#039;",
+      "desc": "Former American diplomat Richard Haass said Wednesday that no country is in control of the Strait of Hormuz, contradicting President Trump’s claim that the U.S. is in “total control” over the crucial ",
+      "link": "https://thehill.com/policy/international/6025513-trump-haass-strait-of-hormuz-control/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:47:48 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Navy meets with USS Abraham Lincoln families over mental health worries",
+      "desc": "Navy leadership has reportedly met with the family members of sailors aboard the USS Abraham Lincoln aircraft carrier over worries that the ongoing Middle East deployment will lead to worsening mental",
+      "link": "https://thehill.com/policy/defense/6025704-sailors-suicidal-thoughts-deployment/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:45:37 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "desc": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:45:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Vacant Plainfield Township boat showroom could become food hall, event space",
+      "desc": "Once a Tommy’s Boats showroom along US-131, a vacant lot could soon become a community hub with a market and event space.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/vacant-plainfield-township-boat-showroom-could-become-food-hall-event-space.html",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:39:57 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Congress breaks for summer recess with little to show",
+      "desc": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequen",
+      "link": "https://thehill.com/homenews/6025526-house-senate-passing-crs/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:11:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Marine who had superior officer kill father in 1984 ‘perfect murder’ gets new sentence",
+      "desc": "“I know the sacredness of life after having taken one,\" Douglas W. Burgess Jr. told the judge who gave him a chance at parole.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/marine-who-had-superior-officer-kill-father-in-1984-perfect-murder-gets-new-sentence.html",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:08:26 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump administration to spend at least $900 million on White House construction projects: Report",
+      "desc": "The Trump administration is expected to spend at least $900 million on White House construction projects that will be fueled in part by taxpayer dollars without the approval of Congress, according to ",
+      "link": "https://thehill.com/homenews/administration/6025430-trump-white-house-construction-costs/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:04:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Poll shows Americans aren’t buying Trump’s Reflecting Pool ‘vandals’ story — not even close",
+      "desc": "Skepticism crossed party lines, though Republicans were far more likely to accept Trump's explanation than Democrats.",
+      "link": "https://www.mlive.com/politics/2026/08/poll-shows-americans-arent-buying-trumps-reflecting-pool-vandals-story-not-even-close.html",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 18:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kilmeade predicts &#039;kinetic war&#039; with Iran before Labor Day",
+      "desc": "Fox News’s Brian Kilmeade on Tuesday predicted a “kinetic war” between the U.S. and Iran will take place prior to Labor Day, just two months before the midterm elections. Kilmeade suggested President ",
+      "link": "https://thehill.com/policy/defense/6025480-kilmeade-predicts-iran-war/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 17:54:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Gratiot County sheriff credits LifeVac for saving child’s life",
+      "desc": "Tom Clark told county commissioners the outcome could have been different without the emergency device, which was purchased for every patrol vehicle in the department.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/gratiot-county-sheriff-credits-lifevac-for-saving-childs-life.html",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 17:52:34 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Grand Blanc man arrested after alleged attempt to travel to Tennessee to meet minors",
       "desc": "A 32-year-old Michigan man faces federal charges after an FBI sting caught him arranging travel to Tennessee to sexually exploit children he believed were ages 8 and 15.",
@@ -12,7 +102,7 @@
     },
     {
       "title": "Lawsuit launched over sale of early access to Truth Social posts",
-      "desc": "A left-leaning publication sued President Trump’s media company on Wednesday over its new product that gives paying Wall Street firms faster access to the president’s Truth Social posts  The Intercept",
+      "desc": "A left-leaning publication sued President Trump’s media company on Wednesday over its new product that gives paying Wall Street firms faster access to the president’s Truth Social posts  The Intercept",
       "link": "https://thehill.com/regulation/court-battles/6025465-trump-media-lawsuit-truth-social-api/",
       "date": "Aug 12, 2026",
       "rawDate": "Wed, 12 Aug 2026 17:47:12 +0000",
@@ -20,8 +110,17 @@
       "tag": "government"
     },
     {
+      "title": "Treasury Department repeals Biden-era reporting requirement for US businesses",
+      "desc": "The Treasury Department on Tuesday officially repealed a requirement for American companies and individuals to report beneficial ownership information to its Financial Crimes Enforcement Network, or F",
+      "link": "https://thehill.com/business/6025347-treasury-repeals-beneficial-ownership-reporting/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 17:47:02 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
       "title": "Fetterman says he won&#039;t campaign against McCormick",
-      "desc": "Sen. John Fetterman (D-Penn.) said he would not campaign against Sen. Dave McCormick (R-Penn.) in 2030 if the Republican chooses to run for a second term. In remarks made to the Washington Examiner, F",
+      "desc": "Sen. John Fetterman (D-Pa.) said he would not campaign against Sen. Dave McCormick (R-Pa.) in 2030 if the Republican chooses to run for a second term. In remarks made to the Washington Examiner, Fette",
       "link": "https://thehill.com/homenews/senate/6025406-fetterman-wont-oppose-mccormick-2030/",
       "date": "Aug 12, 2026",
       "rawDate": "Wed, 12 Aug 2026 17:36:27 +0000",
@@ -56,15 +155,6 @@
       "tag": "government"
     },
     {
-      "title": "Senate Democrat presses DHS for results on Lewandowski review",
-      "desc": "Sen. Maggie Hassan (D-N.H.) is pressing the Department of Homeland Security (DHS) for details on the investigation into former DHS official Corey Lewandowski, who was accused of corruption and mismana",
-      "link": "https://thehill.com/homenews/senate/6025257-hassan-probes-lewandowski-dhs-corruption/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 16:23:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Congressman rips ICE after agent draws gun on mother — she had video to dispute their claim",
       "desc": "The woman, an American citizen, had dashcam video disputing agents' claim she tried to run them over.",
       "link": "https://www.mlive.com/politics/2026/08/congressman-rips-ice-after-agent-draws-gun-on-mother-she-had-video-to-dispute-their-claim.html",
@@ -79,8 +169,8 @@
       "link": "https://thehill.com/policy/healthcare/6025205-lilly-targets-illegal-weight-loss-drugs/",
       "date": "Aug 12, 2026",
       "rawDate": "Wed, 12 Aug 2026 16:19:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Flint chief calls spike in gun violence ‘very concerning’ after 2 fatal shootings in 4 days",
@@ -90,24 +180,6 @@
       "rawDate": "Wed, 12 Aug 2026 16:14:50 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Will Trump&#039;s Supreme Court losses stop his agenda?",
-      "desc": "President Trump is shrugging off his Supreme Court losses, believing his plan B on birthright citizenship, tariffs and the Federal Reserve will withstand legal scrutiny. Join Legal Affairs Editor Zach",
-      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6025146-donald-trump-supreme-court-losses-impact-on-agenda-discussion/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 16:09:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate Democrats press Rubio on release of US citizens detained by Russia",
-      "desc": "Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released U.S. citizen Robert Gilman after four and a half y",
-      "link": "https://thehill.com/homenews/senate/6025142-senate-democrats-russian-detainees/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 16:00:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "What happens next? University of Michigan picks site for Los Alamos facility despite pushback",
@@ -135,24 +207,6 @@
       "rawDate": "Wed, 12 Aug 2026 15:24:48 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "FDA chief: Cyclospora &#8216;effectively removed from the market&#8217;",
-      "desc": "The Food and Drug Administration (FDA) is assuring Americans that they should feel confident eating fresh produce again, seeking to ease concerns over the nation’s food supply after a cyclospora outbr",
-      "link": "https://thehill.com/policy/healthcare/6024953-taylor-farms-recall-food-safety/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 15:24:48 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Human rights groups sue Trump administration over ICC sanctions",
-      "desc": "Four human rights groups are suing the Trump administration over its economic pressure campaign against the International Criminal Court (ICC), arguing that sanctions against judges, prosecutors and o",
-      "link": "https://thehill.com/regulation/court-battles/6024836-human-rights-groups-sue-trump-icc-sanctions/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 15:13:58 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Convicted serial stalker’s parole reversed by Jackson County judge",
@@ -333,15 +387,6 @@
       "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "You’re Thinking About Online Trends All Wrong",
-      "desc": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-      "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "$10K reward offered in Van Buren County telecom vandalism case",
@@ -596,33 +641,6 @@
       "tag": "health"
     },
     {
-      "title": "Midland County Sheriff’s deputy charged with drunkenly crashing Jeep into ditch",
-      "desc": "An off-duty Joseph C. Shuler, 29, had a blood-alcohol content nearly twice the legal limit when his Jeep overturned in a ditch on North Lake Sanford Road in June, according to police reports.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/midland-county-sheriffs-deputy-charged-with-drunkenly-crashing-jeep-into-ditch.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 17:15:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Woman pleads guilty to drunken driving before fatal crash in downtown Ann Arbor",
-      "desc": "The crash killed a 79-year-old man.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/woman-pleads-guilty-to-drunken-driving-before-fatal-crash-in-downtown-ann-arbor.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 17:02:21 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump hints at possible next election plan: ‘Stranger things have happened’",
-      "desc": "The host said the president would have to make the move within the next month.",
-      "link": "https://www.mlive.com/politics/2026/08/trump-hints-at-possible-next-election-plan-stranger-things-have-happened.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 16:35:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Could America’s next great leader come from University of Michigan? New ranking says yes",
       "desc": "Nine other Big Ten schools were placed within the top 25 of Squarespace's rankings.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/could-americas-next-great-leader-come-from-university-of-michigan-new-ranking-says-yes.html",
@@ -684,15 +702,6 @@
       "rawDate": "Tue, 11 Aug 2026 14:28:25 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "White House speaks out after report leaks top-secret Trump operation",
-      "desc": "Reporters and some staff believed they were traveling with him.",
-      "link": "https://www.mlive.com/politics/2026/08/white-house-speaks-out-after-report-leaks-top-secret-trump-operation.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 13:55:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "University of Michigan Health named top hospital in Michigan",
@@ -844,33 +853,6 @@
       "link": "https://thehill.com/policy/defense/6020032-pentagon-demands-faster-weapons-production/",
       "date": "Aug 10, 2026",
       "rawDate": "Mon, 10 Aug 2026 13:57:57 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump says he&#039;s &#039;low-keying it&#039; on Iran: &#039;It will work out&#039;",
-      "desc": "President Trump said in a new interview he is “low-keying it” when it comes to the war with Iran as it nears its sixth month \"We are only semi-negotiating with them. We are just watching Iran with its",
-      "link": "https://thehill.com/policy/defense/6019744-donald-trump-iran-war-strategy/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 11:46:03 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "America&#039;s depleted weapons stockpiles undermine Trump’s leverage with Iran",
-      "desc": "America’s depleted arsenal of premier offensive and defensive weapons is undermining President Trump’s leverage with Iran.  The military’s supply of its premium long-range missiles and interceptors fo",
-      "link": "https://thehill.com/policy/defense/6018878-trump-us-munitions-stockpile-iran/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Hassett: Fuel prices &#039;still higher than we would like’",
-      "desc": "Kevin Hassett, director of the National Economic Council, expressed concern on Sunday about continued high fuel prices amid the ongoing conflict with Iran. “Now, prices are still higher than we would ",
-      "link": "https://thehill.com/business/6019077-hassett-high-gas-prices-iran-war/",
-      "date": "Aug 9, 2026",
-      "rawDate": "Sun, 09 Aug 2026 14:44:23 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

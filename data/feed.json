@@ -1,9 +1,63 @@
 {
-  "generated": "2026-08-12T20:38:14.984Z",
+  "generated": "2026-08-12T21:36:41.122Z",
   "news": [
     {
+      "title": "Meta heads back to court for online safety trial",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Meta youth safety trial kicks off in California The latest kids online safety trial against Meta kicked off Wednesday in a California federal cour",
+      "link": "https://thehill.com/newsletters/technology/6026210-meta-heads-back-to-court-for-online-safety-trial/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 21:13:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The White House Is Going to Expand Its AI Policy",
+      "desc": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 21:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Khanna defends Hong endorsement after surprise loss in Wisconsin primary",
+      "desc": "Rep. Ro Khanna (D-Calif.) on Wednesday defended his endorsement of Wisconsin Democratic gubernatorial candidate Francesca Hong after her loss, while accusing some of “caricaturing and labeling” her “b",
+      "link": "https://thehill.com/homenews/campaign/6026151-khanna-defends-hong-endorsement/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 20:59:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Massachusetts Gov. Maura Healey signs late-term abortion bill into law",
+      "desc": "Massachusetts Gov. Maura Healey (D) on Monday signed a bill lifting the restriction on abortion at or after 24 weeks, making the state's abortion law one of the broadest in the country. \"We've heard s",
+      "link": "https://thehill.com/homenews/state-watch/6025901-maura-healey-signs-late-abortion-bill/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 20:58:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump spokeswoman Karoline Leavitt makes stunning announcement",
+      "desc": "The president broke the news about White House press secretary Karoline Leavitt.",
+      "link": "https://www.mlive.com/politics/2026/08/trump-spokeswomans-stunning-announcement-saddens-maga-as-democrats-rejoice.html",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 20:56:35 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man charged with first-degree murder, assault in downtown Flint shooting",
+      "desc": "A 26-year-old Flint man faces first-degree murder charges after a fatal downtown shooting.",
+      "link": "https://www.mlive.com/news/flint/2026/08/man-charged-with-first-degree-murder-assault-in-downtown-flint-shooting.html",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 20:42:08 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "DOJ charges former SPLC employee in superseding indictment against the civil rights group",
-      "desc": "A former employee of the Southern Poverty Law Center (SPLC) was charged Wednesday in a superseding indictment against the civil rights nonprofit, with the Justice Department accusing Heidi Beirich of ",
+      "desc": "A former employee of the Southern Poverty Law Center (SPLC) was charged Wednesday in a superseding indictment against the civil rights nonprofit, with the Department of Justice (DOJ) accusing Heidi Be",
       "link": "https://thehill.com/regulation/court-battles/6026108-southern-poverty-law-center-superseding-indictment/",
       "date": "Aug 12, 2026",
       "rawDate": "Wed, 12 Aug 2026 20:28:59 +0000",
@@ -115,8 +169,8 @@
       "link": "https://thehill.com/policy/technology/6025446-meta-kids-safety-trial-starts/",
       "date": "Aug 12, 2026",
       "rawDate": "Wed, 12 Aug 2026 18:55:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Ex-diplomat: &#039;No one&#039;s in total control of the Strait of Hormuz&#039;",
@@ -407,15 +461,6 @@
       "tag": "technology"
     },
     {
-      "title": "Big Tech Wants to Harvest Your Thoughts",
-      "desc": "Silicon Valley companies are already working on neurotechnology products that track your brain activity. The next privacy frontier might be the things you only think.",
-      "link": "https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
       "desc": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to",
       "link": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
@@ -551,15 +596,6 @@
       "tag": "safety"
     },
     {
-      "title": "Rising progressive Democrat scrubs at least 100 YouTube videos: ‘Don’t reflect his beliefs’",
-      "desc": "His campaign maintained that the comments do not translate to his current views.",
-      "link": "https://www.mlive.com/politics/2026/08/rising-progressive-democrat-scrubs-at-least-100-youtube-videos-dont-reflect-his-beliefs.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 19:20:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Can GLP-1s affect birth control, fertility?",
       "desc": "Research suggests that GLP-1 drugs could reduce the effectiveness of birth control and boost fertility.",
       "link": "https://thehill.com/policy/healthcare/6023095-glp1-weight-loss-drugs-birth-control-fertility-risks/",
@@ -583,15 +619,6 @@
       "link": "https://www.mlive.com/news/muskegon/2026/08/3-men-charged-in-muskegon-heights-drug-operation-including-city-managers-business-partner.html",
       "date": "Aug 11, 2026",
       "rawDate": "Tue, 11 Aug 2026 18:37:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Michigan woman ordered to repay $1,166 to adventure park she stole from, starts new fundraiser",
-      "desc": "Julie Hock stole $1,166 from her employer and about $800 from a fundraiser she organized for the family of a deceased teenager. If she does well on probation, she won't have a felony on her record.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/michigan-woman-ordered-to-repay-1166-to-adventure-park-she-stole-from-starts-new-fundraiser.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 18:15:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },

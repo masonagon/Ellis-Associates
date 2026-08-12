@@ -1,6 +1,105 @@
 {
-  "generated": "2026-08-12T09:03:16.188Z",
+  "generated": "2026-08-12T10:53:24.491Z",
   "news": [
+    {
+      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "desc": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+      "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:45:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "desc": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Transgender participation is rare in Michigan girls sports, data shows",
+      "desc": "Here's how many transgender girls have received a waiver in Michigan to play girls sports since 2013.",
+      "link": "https://www.mlive.com/data/2026/08/transgender-participation-is-rare-in-michigan-girls-sports-data-shows.html",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:30:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "McDonald’s Built a 515-Page Dossier on Me. It Says I’ll Never Stop Eating There",
+      "desc": "I requested a copy of my data from McDonald’s loyalty program and received an extensive, personalized report that algorithmically predicts my next purchase.",
+      "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:15:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Democrats’ progressive surge could complicate Jeffries’s path to unity",
+      "desc": "Democrats’ string of left-wing primary wins is giving the party’s progressive flank a burst of momentum — and potentially handing House Minority Leader Hakeem Jeffries (D-N.Y.) a new headache should D",
+      "link": "https://thehill.com/homenews/house/6023633-democrats-progressives-moderates-jeffries/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP worries time running out on Trump’s agenda with Congress",
+      "desc": "The Senate’s departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump’s ",
+      "link": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+      "desc": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to",
+      "link": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months",
+      "desc": "Details from recent court filings show that DOGE's influence within government—and potential conflicts of interest—extend further than previously known.",
+      "link": "https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Big Tech Wants to Harvest Your Thoughts",
+      "desc": "Silicon Valley companies are already working on neurotechnology products that track your brain activity. The next privacy frontier might be the things you only think.",
+      "link": "https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+      "desc": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and other gear meant for data centers.",
+      "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "You’re Thinking About Online Trends All Wrong",
+      "desc": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
+      "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+      "date": "Aug 12, 2026",
+      "rawDate": "Wed, 12 Aug 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Crowley defeats democratic socialist Hong to face Tiffany in Wisconsin governor&#039;s race",
       "desc": "Milwaukee County Executive David Crowley has defeated democratic socialist Francesca Hong in the wide-open Wisconsin governor’s race, Decision Desk HQ projects.  Crowley, with support from retiring Go",
@@ -18,15 +117,6 @@
       "rawDate": "Wed, 12 Aug 2026 06:19:41 +0000",
       "source": "The Hill Politics",
       "tag": "government"
-    },
-    {
-      "title": "Hostinger Promo Code: 79% Off for August 2026",
-      "desc": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "link": "https://www.wired.com/story/hostinger-coupon-code/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Hollywood goes quiet as stars rethink speaking out on politics",
@@ -79,33 +169,6 @@
       "link": "https://thehill.com/homenews/campaign/6012313-little-pratt-minnesota-house-primary/",
       "date": "Aug 12, 2026",
       "rawDate": "Wed, 12 Aug 2026 01:47:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Duffy&#039;s son-in-law wins GOP primary for open Tiffany House seat",
-      "desc": "Michael Alfonso, the son-in-law of Transportation Secretary Sean Duffy, was projected to win the GOP primary for the open congressional seat in Wisconsin’s 7th Congressional District, according to Dec",
-      "link": "https://thehill.com/homenews/campaign/6021181-alfonso-wisconsin-house-primary-win/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 01:46:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Van Orden faces Cooke in rematch for battleground Wisconsin House seat",
-      "desc": "Rep. Derrick Van Orden (R-Wis.) is projected for a rematch against political fundraiser and waitress Rebecca Cooke (D) for a battleground House seat in central and western Wisconsin, according to Deci",
-      "link": "https://thehill.com/homenews/campaign/6023759-van-orden-cooke-rematch-wisconsin-3rd/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 01:36:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "HHS touts 35 states that have scaled back &#039;orphan tax&#039; on Social Security benefits",
-      "desc": "Officials from the Department of Health and Human Services (HHS) said Tuesday that 35 states have ended the practice of intercepting federal benefits intended for orphans in foster care. For decades, ",
-      "link": "https://thehill.com/homenews/administration/6023978-hhs-states-orphan-tax/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 01:21:34 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -632,15 +695,6 @@
       "tag": "education"
     },
     {
-      "title": "Cassidy blasts vaccine order, saying Trump has no &#039;expertise to make these changes&#039;",
-      "desc": "Sen. Bill Cassidy (R-La.) blasted an executive order President Trump signed Monday that splits the measles, mumps and rubella (MMR) shot across three separate visits.   “I’m a doctor. This executive o",
-      "link": "https://thehill.com/homenews/senate/6021261-cassidy-trump-mmr-vaccine-order/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 20:50:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Howell Public Schools names new principal for Ruahmah J. Hutchings Elementary",
       "desc": "Charles Chalfant brings experience from Oak Park and Ann Arbor public schools to the role.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/howell-public-schools-names-new-principal-for-ruahmah-j-hutchings-elementary.html",
@@ -835,15 +889,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/saline-schools-cellphone-ban-to-allow-lunchtime-access-for-older-students.html",
       "date": "Aug 7, 2026",
       "rawDate": "Fri, 07 Aug 2026 13:13:53 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan solidifying its plans for a former Christian college campus",
-      "desc": "The school approved the purchase of the former Christian college’s campus for $60 million in May.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/university-of-michigan-solidifying-its-plans-for-a-former-christian-college-campus.html",
-      "date": "Aug 6, 2026",
-      "rawDate": "Thu, 06 Aug 2026 16:22:38 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

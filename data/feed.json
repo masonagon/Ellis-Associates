@@ -1,6 +1,33 @@
 {
-  "generated": "2026-08-13T21:36:21.649Z",
+  "generated": "2026-08-13T22:32:25.130Z",
   "news": [
+    {
+      "title": "Top Commerce Committee Democrat presses airlines over AI ‘surveillance pricing’",
+      "desc": "A top Democrat on the House Commerce Committee is pressing major U.S. airlines over whether they use artificial intelligence to set ticket prices based on travelers’ personal information, raising conc",
+      "link": "https://thehill.com/homenews/house/6028921-house-commerce-committee-democrat-investigates-airlines/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 22:24:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Who will replace Leavitt? Top contenders emerge",
+      "desc": "News of White House press secretary Karoline Leavitt stepping down is still fresh, but political observers are already guessing and taking bets on who could take her place. The press secretary is one ",
+      "link": "https://thehill.com/homenews/administration/6028830-karoline-leavitt-press-secretary-successor/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 22:09:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Warren presses RFK Jr. on Trump ties to lettuce distributor",
+      "desc": "Sen. Elizabeth Warren (D-Mass.) is pressing Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on whether the administration’s response to the cyclosporiasis outbreak was influenced by th",
+      "link": "https://thehill.com/policy/healthcare/6028916-trump-administration-cyclosporiasis-outbreak/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 22:08:17 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "New aircraft carrier going to Middle East amid questions over conditions on USS Abraham Lincoln",
       "desc": "The U.S. is sending a new aircraft carrier to the Middle East amid reports of poor conditions aboard the USS Abraham Lincoln, which has been long deployed to the theater in support of the war against ",
@@ -11,8 +38,8 @@
       "tag": "safety"
     },
     {
-      "title": "Republican Senate candidate: &#039;It&#039;s embarrassing&#039; to be from Minnesota",
-      "desc": "Former sportscaster and Republican Senate candidate Michele Tafoya said Wednesday that voters told her it was “embarrassing” to be from Minnesota, amid progressive candidates’ wins across the state. I",
+      "title": "Republican Senate candidate: Voters say &#039;it&#039;s embarrassing&#039; to be from Minnesota",
+      "desc": "Republican Senate candidate Michele Tafoya, a former sportscaster, said Wednesday that voters told her it was “embarrassing” to be from Minnesota, amid progressive candidates’ wins across the state. I",
       "link": "https://thehill.com/homenews/campaign/6028783-michele-tafoya-minnesota-senate/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 21:31:46 +0000",
@@ -20,8 +47,8 @@
       "tag": "government"
     },
     {
-      "title": "Stephen Miller on &#039;Woke 1&#039;: &#039;It never stopped&#039;",
-      "desc": "White House deputy chief of staff Stephen Miller on Wednesday claimed that the “woke 1” era and its consequences have not ended  after recent comments about the time period from Rep. Alexandria Ocasio",
+      "title": "Stephen Miller on &#039;woke 1&#039;: &#039;It never stopped&#039;",
+      "desc": "White House deputy chief of staff Stephen Miller on Wednesday claimed that the “woke 1” era and its consequences have not ended after recent comments about the time period from Rep. Alexandria Ocasio-",
       "link": "https://thehill.com/homenews/administration/6028788-miller-claims-woke-era-continues/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 21:16:54 +0000",
@@ -29,7 +56,7 @@
       "tag": "government"
     },
     {
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "desc": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
       "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
       "date": "Aug 13, 2026",
@@ -75,7 +102,7 @@
     },
     {
       "title": "Appeals court rules key Alien Enemies Act lawsuit moot",
-      "desc": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot.",
+      "desc": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot.",
       "link": "https://thehill.com/regulation/court-battles/6028655-alien-enemies-act-challenge-moot-trump-deportations/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 20:27:38 +0000",
@@ -124,8 +151,8 @@
       "link": "https://thehill.com/policy/healthcare/6028472-cassidy-backs-cdc-director-schwartz/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 19:52:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Lawsuit filed against former Genesys doctor, hospital",
@@ -142,8 +169,8 @@
       "link": "https://thehill.com/policy/defense/6028346-general-keane-warns-iran-midterms/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 19:38:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Popular burrito chain to open first restaurant in region’s ‘most dynamic’ market",
@@ -720,15 +747,6 @@
       "rawDate": "Tue, 11 Aug 2026 17:41:27 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Texas sterile fly facility set for spring opening",
-      "desc": "A sterile fly facility is set to open in Texas next spring amid a New World Screwworm (NWS) outbreak that has affected two states, the U.S. Department of Agriculture (USDA) announced Monday.  The USDA",
-      "link": "https://thehill.com/policy/healthcare/6022898-usda-texas-sterile-fly-facility-texas-spring-opening-screwworm/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 17:25:36 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Could America’s next great leader come from University of Michigan? New ranking says yes",

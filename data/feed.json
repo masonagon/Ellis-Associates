@@ -1,6 +1,69 @@
 {
-  "generated": "2026-08-13T11:40:32.805Z",
+  "generated": "2026-08-13T12:51:20.597Z",
   "news": [
+    {
+      "title": "Live updates: DNC meets to finalize 2028 calendar",
+      "desc": "The Democratic National Committee is expected to vote on the 2028 presidential primary calendar at its summer meeting this week in Austin, Texas. The party is expected to approve a schedule with South",
+      "link": "https://thehill.com/homenews/administration/6026537-live-updates-trump-iran-dnc-midterms/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 12:49:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "John James announces Republican lawmaker as lieutenant governor pick",
+      "desc": "In a Thursday morning post on social media, John James announced his pick for lieutenant governor.",
+      "link": "https://www.mlive.com/politics/2026/08/john-james-announces-republican-lawmaker-as-lieutenant-governor-pick.html",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 12:45:02 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Are the Taylor Farms recalls connected?",
+      "desc": "Food producer Taylor Farms has been linked to two outbreaks regarding its produce.",
+      "link": "https://thehill.com/policy/healthcare/6025214-taylor-farms-recall-connection-salmonella-cyclospora/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 12:41:55 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "19-year-old arrested after shooting kills 2 Flint boys, police say",
+      "desc": "A 19-year-old Flint man was arrested two days after a shooting that killed two teenage boys, Mason Pritt and Dwayne Thompson.",
+      "link": "https://www.mlive.com/news/flint/2026/08/19-year-old-arrested-after-shooting-kills-2-flint-boys-police-say.html",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 12:40:35 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "On the Ballot: What went wrong for Hong in Wisconsin?",
+      "desc": "Democratic socialist Francesca Hong lost Wisconsin’s Democratic primary for governor this week, defying expectations and dealing a blow to progressives in the Midwest. Polls had shown Hong with a subs",
+      "link": "https://thehill.com/newsletters/on-the-ballot/6025407-on-the-ballot-francesca-hong-wisconsin-governor-loss/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Big Insurance is trying to gut the No Surprises Act",
+      "desc": "The House and Senate should investigate this attempt to gut their signature patient protection law.",
+      "link": "https://thehill.com/opinion/healthcare/6026050-insurers-attack-no-surprises-act/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2 soldiers killed in Texas helicopter crash",
+      "desc": "Two Fort Hood soldiers were killed after an Army helicopter crashed Wednesday in Central Texas, local authorities and military officials said.  The aircraft, an AH-64 Apache attack helicopter, crashed",
+      "link": "https://thehill.com/policy/defense/6026762-army-helicopter-crash-army-2-dead/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 11:56:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "Questions rise over primary polls following Michigan, Wisconsin upsets",
       "desc": "In today's issue: ▪ The problem with primary polls  ▪ Leavitt to depart as press secretary  ▪ Gas price records  ▪ The U.K.’s unusual election  The limits of primary polling are under a hot spotlight ",
@@ -56,18 +119,18 @@
       "tag": "government"
     },
     {
-      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll",
-      "desc": "The two candidates in the Texas Senate race are neck-in-neck less than three months out from the midterm election, according to a new poll released on Thursday.  An Emerson College Polling/Nexstar Med",
-      "link": "https://thehill.com/homenews/campaign/6025593-paxton-talarico-texas-senate-poll/",
+      "title": "Nigel Farage vs. Count Binface: Britain’s very strange special election, explained",
+      "desc": "Voters in the British constituency of Clacton will have a bizarre choice to make when they cast their ballots in a special election on Thursday. Do they lend their support to one of the U.K.’s most we",
+      "link": "https://thehill.com/policy/international/6026347-nigel-farage-binface-clacton-special-election/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 10:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Nigel Farage vs. Count Binface: Britain’s very strange special election, explained",
-      "desc": "Voters in the British constituency of Clacton will have a bizarre choice to make when they cast their ballots in a special election on Thursday. Do they lend their support to one of the U.K.’s most we",
-      "link": "https://thehill.com/policy/international/6026347-nigel-farage-binface-clacton-special-election/",
+      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll",
+      "desc": "The two candidates in the Texas Senate race are neck-in-neck less than three months out from the midterm election, according to a new poll released on Thursday.  An Emerson College Polling/Nexstar Med",
+      "link": "https://thehill.com/homenews/campaign/6025593-paxton-talarico-texas-senate-poll/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 10:00:00 +0000",
       "source": "The Hill Politics",
@@ -79,8 +142,8 @@
       "link": "https://thehill.com/homenews/senate/6026290-gop-senators-iran-funding/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "5 Best Android Tablets in 2026: Samsung, TCL, Amazon, and More",
@@ -119,24 +182,6 @@
       "tag": "technology"
     },
     {
-      "title": "Air traffic controllers head says hiring gamers will help",
-      "desc": "Nick Daniels, president of the National Air Traffic Controllers Association, commended the Federal Aviation Administration (FAA) Wednesday for its recent hiring surge targeting video game players. Dan",
-      "link": "https://thehill.com/homenews/administration/6026607-nick-daniels-air-traffic-control-gamers/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 03:22:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Emily Moreno sues Rep. Max Miller, alleging he posted nude photo of daughter",
-      "desc": "Rep. Max Miller’s (R-Ohio) ex-wife, Emily Moreno, on Wednesday sued the Ohio Republican, alleging he published a nude photo of their young daughter online. A copy of the federal lawsuit obtained by Th",
-      "link": "https://thehill.com/regulation/court-battles/6026450-max-miller-child-photo-lawsuit/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 00:46:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Judge revives Rockford parents’ lawsuit over student’s pronouns",
       "desc": "Dan and Jennifer Mead withdrew their child from Rockford Public Schools after learning staff used a masculine name and male pronouns without their knowledge or consent, citing religious beliefs about ",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/judge-revives-rockford-parents-lawsuit-over-students-pronouns.html",
@@ -146,15 +191,6 @@
       "tag": "education"
     },
     {
-      "title": "Accused Charlie Kirk shooter ineligible for death penalty, defense argues",
-      "desc": "Lawyers for the man accused of killing political commentator Charlie Kirk during an event at Utah Valley University last year are now arguing the alleged shooter did not put any of the thousands of at",
-      "link": "https://thehill.com/regulation/court-battles/6026466-kirk-tyler-robinson-death-penalty-defense/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 00:19:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Closed Michigan college soliciting proposals  ‘locally and nationally’ for future use of vacant campus",
       "desc": "The committee formed to guide Siena Heights University through its closure has tapped the Chicago-based global commercial real estate firm JLL.",
       "link": "https://www.mlive.com/news/jackson/2026/08/closed-michigan-college-soliciting-proposals-locally-and-nationally-for-future-use-of-vacant-campus.html",
@@ -162,15 +198,6 @@
       "rawDate": "Wed, 12 Aug 2026 23:21:57 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "New ICE controversy as officer filmed pointing gun at woman in Virginia",
-      "desc": "A federal immigration officer drew his gun on a Virginia woman during a tense confrontation in a Falls Church parking lot Monday after officers accused her of trying to hit them with her car. Videos o",
-      "link": "https://thehill.com/homenews/administration/6026433-ice-agent-points-gun-woman/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 23:20:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Trump snaps back to economic warfare in struggle to make Iran tap out",
@@ -596,15 +623,6 @@
       "tag": "safety"
     },
     {
-      "title": "Former Flint police officer’s criminal case postponed over missing discovery",
-      "desc": "The former officer faces charges of assault with intent to murder, felony firearm and misconduct in office.",
-      "link": "https://www.mlive.com/news/flint/2026/08/former-flint-police-officers-criminal-case-postponed-over-missing-discovery.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 19:38:12 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "US military disables Panama-flagged tanker in violation of blockade in Strait of Hormuz",
       "desc": "The U.S. military disabled a Panama-flagged cargo tanker on Tuesday attempting to transit the Gulf of Oman in violation of the U.S. naval blockade in the Strait of Hormuz, U.S. Central Command (Centco",
       "link": "https://thehill.com/policy/defense/6023263-us-military-disables-panama-tanker-strait-of-hormuz/",
@@ -758,15 +776,6 @@
       "tag": "education"
     },
     {
-      "title": "American Medical Association criticizes Trump executive order on childhood vaccine schedule",
-      "desc": "The president of the American Medical Association on Monday said President Trump’s new recommendations on childhood immunizations put “children’s health at risk,” joining the chorus of medical experts",
-      "link": "https://thehill.com/policy/healthcare/6021625-ama-warns-childhood-immunization-risks/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 02:54:02 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening",
       "desc": "A deal between Iran and Oman to reopen the Strait of Hormuz is teetering over steep demands from Tehran for the United States and vice versa.  Iran on Sunday said the agreement to set up new shipping ",
       "link": "https://thehill.com/policy/defense/6021575-iran-oman-hormuz-strait-deal/",
@@ -810,15 +819,6 @@
       "rawDate": "Mon, 10 Aug 2026 18:50:27 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Pentagon renames South Carolina air base after Graham",
-      "desc": "CHARLESTON, S.C. — The Pentagon officially renamed an air base in South Carolina after Sen. Lindsey Graham (R-S.C.), a fierce defense hawk who died suddenly last month.  Joint Base Charleston, which s",
-      "link": "https://thehill.com/policy/defense/6020662-pentagon-renames-south-carolina-base-lindsey-graham/",
-      "date": "Aug 10, 2026",
-      "rawDate": "Mon, 10 Aug 2026 16:56:23 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "See the winners of Ann Arbor’s 39th annual historic preservation awards",

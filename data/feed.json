@@ -1,6 +1,60 @@
 {
-  "generated": "2026-08-13T17:51:15.092Z",
+  "generated": "2026-08-13T18:51:25.514Z",
   "news": [
+    {
+      "title": "Board votes to close Kennedy Center during renovations",
+      "desc": "The board of the John F. Kennedy Center for the Performing Arts voted for the second time Thursday to close the building for renovations, according to the New York Times. The decision would close the ",
+      "link": "https://thehill.com/regulation/court-battles/6028133-kennedy-center-voted-renovation-closure/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 18:22:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Nessel charges 6 over non-citizen voting in Michigan in 2024",
+      "desc": "Democratic leaders say the small number of arrests compared to millions of voters shows the system works to screen out non-citizen voters.",
+      "link": "https://www.mlive.com/news/2026/08/nessel-charges-6-over-non-citizen-voting-in-michigan-in-2024.html",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 18:21:55 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hegseth calls dire conditions aboard USS Abraham Lincoln &#039;completely misrepresented&#039;",
+      "desc": "Defense Secretary Pete Hegseth on Thursday claimed that conditions aboard the USS Abraham Lincoln aircraft carrier have been “completely misrepresented” following reports that sailors, struggling with",
+      "link": "https://thehill.com/policy/defense/6028091-pete-hegseth-uss-abraham-lincoln-conditions-middle-east/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 18:09:48 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "FBI hunts fugitive accused in $100M Ponzi scheme with dozens of Michigan victims",
+      "desc": "A man accused of running a $100 million Ponzi scheme is now one of the FBI’s Most Wanted Fraudsters after authorities say he cut off his GPS tether and fled the country.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/fbi-hunts-fugitive-accused-in-100m-ponzi-scheme-with-dozens-of-michigan-victims.html",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 18:08:18 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Taylor Swift music pulled from TikTok videos shared by Trump team",
+      "desc": "The White House has taunted the 14-Grammy award winner by sharing videos featuring some of her most popular songs for months.",
+      "link": "https://www.mlive.com/politics/2026/08/taylor-swift-music-pulled-from-tiktok-videos-shared-by-trumps-team.html",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 18:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Survivor of deadly stabbing, family of victim settle dispute over dog",
+      "desc": "The case was settled in June.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/survivor-of-deadly-stabbing-family-of-victim-settle-dispute-over-dog.html",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 17:57:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Whitmer receives key to Flint from Mayor Neeley",
       "desc": "Whitmer highlighted the recent completion of lead service line replacements in the city during a ceremony at Flint City Hall.",
@@ -12,7 +66,7 @@
     },
     {
       "title": "Democratic appropriators push DHS on purchase of a dozen planes, including &#039;luxury jets&#039;",
-      "desc": "Senate Democratic appropriators are questioning Homeland Security Secretary Markwayne Mullin over the purchase of 12 new planes, including “5 extravagant new luxury jets” that have been used by FBI Di",
+      "desc": "Senate Democratic appropriators are questioning Homeland Security Secretary Markwayne Mullin over the purchase of 12 new planes, including five \"extravagant new luxury jets” that have been used by FBI",
       "link": "https://thehill.com/homenews/administration/6028090-murray-demands-luxury-plane-details/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 17:37:17 +0000",
@@ -128,15 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "Gun law in limbo as Justice Department holds off appeal",
-      "desc": "The Trump administration has yet to appeal a key firearms ruling handed down last week, leaving gun control groups worried and Second Amendment advocates hoping it means the Department of Justice (DOJ",
-      "link": "https://thehill.com/regulation/court-battles/6027682-doj-gun-ruling-nfa-appeal-silence/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 15:57:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
       "desc": "ICE is spending millions on shock gloves designed to overpower subjects through intense, localized pain.",
       "link": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/",
@@ -144,15 +189,6 @@
       "rawDate": "Thu, 13 Aug 2026 15:57:12 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "5 things to know about David Crowley",
-      "desc": "Milwaukee County Executive David Crowley's surprising win in this week's Wisconsin Democratic gubernatorial primary, where recent polling had shown him trailing progressive Francesca Hong by double-di",
-      "link": "https://thehill.com/homenews/campaign/6027592-crowley-things-to-know/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 15:54:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Portage man guilty of attempted murder for shooting Kalamazoo Township cop",
@@ -273,7 +309,7 @@
     },
     {
       "title": "Family fight at Flint home ends with fatal shooting, suspect detained",
-      "desc": "A 24-year-old Flint man fatally shot a 69-year-old relative following a family dispute on Dakota Avenue.",
+      "desc": "A 22-year-old Flint man fatally shot a 59-year-old relative following a family dispute on Dakota Avenue.",
       "link": "https://www.mlive.com/news/flint/2026/08/family-fight-at-flint-home-ends-with-fatal-shooting-suspect-detained.html",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 13:18:44 +0000",
@@ -416,15 +452,6 @@
       "tag": "safety"
     },
     {
-      "title": "A twin who held her dying brother faces his killer in Jackson court",
-      "desc": "The two were supposed to grow old together, she said before a judge sentenced Joseph O'Rourke for killing Emarion Flowers in May 2025 in Jackson.",
-      "link": "https://www.mlive.com/news/jackson/2026/08/a-twin-who-held-her-dying-brother-faces-his-killer-in-jackson-court.html",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 19:41:13 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Labor unions throw support behind anti-DTE proposal going to Ann Arbor voters",
       "desc": "The push for public power is fundamentally a working-class issue as families struggle with rising energy costs and unreliable service from DTE Energy, the group argues.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/labor-unions-throw-support-behind-anti-dte-proposal-going-to-ann-arbor-voters.html",
@@ -432,15 +459,6 @@
       "rawDate": "Wed, 12 Aug 2026 19:35:17 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Man pleads no contest to 2021 shooting outside Ann Arbor spurred by cars nearly colliding",
-      "desc": "He was arrested several years after the shooting.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/man-pleads-no-contest-to-2021-shooting-outside-ann-arbor-spurred-by-cars-nearly-colliding.html",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 19:16:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Political ads won’t stop soon, as surge of general election spending hits airwaves",
@@ -486,15 +504,6 @@
       "rawDate": "Wed, 12 Aug 2026 18:39:57 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Poll shows Americans aren’t buying Trump’s Reflecting Pool ‘vandals’ story — not even close",
-      "desc": "Skepticism crossed party lines, though Republicans were far more likely to accept Trump's explanation than Democrats.",
-      "link": "https://www.mlive.com/politics/2026/08/poll-shows-americans-arent-buying-trumps-reflecting-pool-vandals-story-not-even-close.html",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 18:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Kilmeade predicts &#039;kinetic war&#039; with Iran before Labor Day",
@@ -738,15 +747,6 @@
       "rawDate": "Tue, 11 Aug 2026 15:50:19 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Biden-era Air Force secretary says he&#039;ll sue over security clearance revocation",
-      "desc": "Former Air Force Secretary Frank Kendall is “gonna sue” the Trump administration after the Pentagon revoked his security clearance last week over accusations he disclosed classified information to the",
-      "link": "https://thehill.com/policy/defense/6022666-frank-kendall-security-clearance-pentagon-lawsuit/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 15:49:01 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Zuckerberg yacht did not hear call for assistance, spokesperson says",

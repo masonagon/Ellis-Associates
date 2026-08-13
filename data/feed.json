@@ -1,9 +1,36 @@
 {
-  "generated": "2026-08-13T22:32:25.130Z",
+  "generated": "2026-08-13T23:32:46.093Z",
   "news": [
     {
+      "title": "Senate Democrats call for GAO audit of White House ballroom project",
+      "desc": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration’s multi-m",
+      "link": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 23:13:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Suspect arrested in Battle Creek party store shooting",
+      "desc": "Police used surveillance footage to identify the 28-year-old suspect, who now faces felony assault and firearms-related charges. The shooting left an 18-year-old critically injured.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/suspect-arrested-in-battle-creek-party-store-shooting.html",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 22:44:45 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "The Safety Reckoning Inside OpenAI",
+      "desc": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "date": "Aug 13, 2026",
+      "rawDate": "Thu, 13 Aug 2026 22:37:19 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "Top Commerce Committee Democrat presses airlines over AI ‘surveillance pricing’",
-      "desc": "A top Democrat on the House Commerce Committee is pressing major U.S. airlines over whether they use artificial intelligence to set ticket prices based on travelers’ personal information, raising conc",
+      "desc": "A top Democrat on the House Energy and Commerce Committee is pressing major U.S. airlines over whether they use artificial intelligence to set ticket prices based on travelers’ personal information, r",
       "link": "https://thehill.com/homenews/house/6028921-house-commerce-committee-democrat-investigates-airlines/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 22:24:59 +0000",
@@ -101,15 +128,6 @@
       "tag": "safety"
     },
     {
-      "title": "Appeals court rules key Alien Enemies Act lawsuit moot",
-      "desc": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot.",
-      "link": "https://thehill.com/regulation/court-battles/6028655-alien-enemies-act-challenge-moot-trump-deportations/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 20:27:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump memo allows private sector to aid cyber offense against transnational criminal groups",
       "desc": "President Trump is laying the groundwork for private sector firms to take a larger role in the U.S.'s cybersecurity offense against transnational cyber crimes in what could be one of the largest ever ",
       "link": "https://thehill.com/policy/technology/6028233-trump-private-sector-cybersecurity-program/",
@@ -126,15 +144,6 @@
       "rawDate": "Thu, 13 Aug 2026 20:09:39 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Kennedy Center board OKs new way of adding Trump’s name to building",
-      "desc": "The Kennedy Center board voted Thursday to add President Trump’s name to the performing arts building months after a judge blocked an effort to rename the center after him, according to multiple repor",
-      "link": "https://thehill.com/homenews/administration/6028439-kennedy-center-approves-added-trump-name/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 20:05:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Muskegon Heights drug-dealing operation spanned multiple states, prosecutor says",
@@ -386,15 +395,6 @@
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 13:36:24 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Dearborn police chief: ‘Please stay home’ as Jake Lang plans return",
-      "desc": "Dearborn’s police chief is urging residents to “please stay home” as Jan. 6 rioter and anti-Islam activist Jake Lang and his supporters plan to return to the city.",
-      "link": "https://www.mlive.com/news/detroit/2026/08/dearborn-police-chief-please-stay-home-as-jake-lang-plans-return.html",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 13:33:58 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {

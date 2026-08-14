@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-14T19:42:22.136Z",
+  "generated": "2026-08-14T20:22:54.641Z",
   "news": [
+    {
+      "title": "USS Abraham Lincoln is returning home, Acting Navy Secretary says",
+      "desc": "Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment has come under scrutiny over reported harsh condition",
+      "link": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 20:06:07 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan county to keep Flock data for just 7 days as company rolls out new guidelines",
+      "desc": "The sheriff's office previously kept it for 30 days.",
+      "link": "https://www.mlive.com/news/2026/08/michigan-county-to-keep-flock-data-for-just-7-days-as-company-rolls-out-new-guidelines.html",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 19:58:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Homicide case involving caretaker of 76-year-old still under review",
       "desc": "The prosecutor's office has not made a ruling one way or another.",
@@ -115,24 +133,6 @@
       "link": "https://thehill.com/regulation/court-battles/6030064-dhs-secretly-monitored-minneapolis-protesters/",
       "date": "Aug 14, 2026",
       "rawDate": "Fri, 14 Aug 2026 15:48:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ocasio-Cortez: &#039;Pretty funny&#039; some people are freaking out about decision to freeze eggs",
-      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Thursday she found it \"funny\" that some people are criticizing her for publicly sharing her journey to freeze her eggs.  The New York Democrat, who is seen ",
-      "link": "https://thehill.com/homenews/house/6030003-alexandria-ocasio-cortez-egg-freezing-criticism/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 15:45:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "How not to fix the War Powers Resolution",
-      "desc": "Rep. John Larson's bill seeking to amend the War Powers Resolution failed to address the law's core weakness regarding the definition of hostilites and the ability of presidents to circumvent congress",
-      "link": "https://thehill.com/opinion/white-house/6029248-larson-bill-war-powers-failed/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 15:30:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -434,15 +434,6 @@
       "tag": "technology"
     },
     {
-      "title": "Prosecutor: Muskegon Heights city manager traded prescription narcotics",
-      "desc": "The drug charges levied against Muskegon Heights City Manager Shawn Roberson stems from trading prescription narcotics, according to testimony at Roberson’s arraignment hearing.",
-      "link": "https://www.mlive.com/news/muskegon/2026/08/prosecutor-muskegon-heights-city-manager-traded-prescription-narcotics.html",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 20:09:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Cassidy: New CDC Director Schwartz &#039;will do the right thing&#039; on vaccine order",
       "desc": "Sen. Bill Cassidy (R-La.) said he has confidence that new Centers for Disease Control and Prevention (CDC) Director Erica Schwartz will stand up for science and won’t enforce President Trump's executi",
       "link": "https://thehill.com/policy/healthcare/6028472-cassidy-backs-cdc-director-schwartz/",
@@ -551,7 +542,7 @@
       "tag": "safety"
     },
     {
-      "title": "GOP senators not happy with Trump administration���s handling of Iran funding request",
+      "title": "GOP senators not happy with Trump administration’s handling of Iran funding request",
       "desc": "Republican senators are criticizing the Trump administration’s handling of an emergency request for $70 billion in defense spending to cover the costs of the Iran conflict and warning that the Pentago",
       "link": "https://thehill.com/homenews/senate/6026290-gop-senators-iran-funding/",
       "date": "Aug 13, 2026",
@@ -610,15 +601,6 @@
       "link": "https://thehill.com/policy/international/6025513-trump-haass-strait-of-hormuz-control/",
       "date": "Aug 12, 2026",
       "rawDate": "Wed, 12 Aug 2026 18:47:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Navy meets with USS Abraham Lincoln families over mental health worries",
-      "desc": "Navy leadership has reportedly met with the family members of sailors aboard the USS Abraham Lincoln aircraft carrier over worries that the ongoing Middle East deployment will lead to worsening mental",
-      "link": "https://thehill.com/policy/defense/6025704-sailors-suicidal-thoughts-deployment/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 18:45:37 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

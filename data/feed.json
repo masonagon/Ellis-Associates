@@ -1,9 +1,27 @@
 {
-  "generated": "2026-08-14T21:17:15.718Z",
+  "generated": "2026-08-14T22:13:56.791Z",
   "news": [
     {
+      "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+      "desc": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
+      "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 21:43:17 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "USS Abraham Lincoln controversy likely to loom over Pentagon",
+      "desc": "Reports of low morale and poor conditions on the USS Abraham Lincoln have prompted new scrutiny from Congress and the families of those serving during the Iran war, scrutiny unlikely to end even as th",
+      "link": "https://thehill.com/homenews/6030865-congress-scrutinizes-navy-deployment/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 21:29:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Judge lifts order on Somalia TPS, clearing way for deportations",
-      "desc": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somalian holders of Temporary Protected Status (TPS), clearing the way for the Trump administration to begin deportin",
+      "desc": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somali holders of temporary protected status (TPS), clearing the way for the Trump administration to begin deporting ",
       "link": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
       "date": "Aug 14, 2026",
       "rawDate": "Fri, 14 Aug 2026 21:10:15 +0000",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Military to reimburse service members freezing eggs, sperm",
-      "desc": "The Pentagon is piloting a reimbursement program for eligible service members looking to freeze their eggs or sperm, according to a notice published in the Federal Register on Thursday.  The National ",
+      "desc": "The Pentagon is piloting a reimbursement program for eligible service members looking to freeze their eggs or sperm, according to a notice published Thursday in the Federal Register. The National Defe",
       "link": "https://thehill.com/policy/healthcare/6030762-military-eggs-sperm-freezing-reimbursement-program/",
       "date": "Aug 14, 2026",
       "rawDate": "Fri, 14 Aug 2026 21:06:18 +0000",
@@ -387,15 +405,6 @@
       "rawDate": "Fri, 14 Aug 2026 09:55:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "The Real Reason Data Center Gas Power Plants Are So Dirty",
-      "desc": "A massive new gas plant in Texas will be built with much less efficient technology than regular gas plants. It’s far from the only data center power project to rely on dirty turbines.",
-      "link": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump directs Navy to return to steam catapults on aircraft carriers",

@@ -1,6 +1,114 @@
 {
-  "generated": "2026-08-14T14:09:58.361Z",
+  "generated": "2026-08-14T15:42:38.472Z",
   "news": [
+    {
+      "title": "How not to fix the War Powers Resolution",
+      "desc": "Rep. John Larson's bill seeking to amend the War Powers Resolution failed to address the law's core weakness regarding the definition of hostilites and the ability of presidents to circumvent congress",
+      "link": "https://thehill.com/opinion/white-house/6029248-larson-bill-war-powers-failed/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 15:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Soldiers killed in Fort Hood chopper crash identified",
+      "desc": "The pilots were ages 25 and 34.",
+      "link": "https://thehill.com/policy/defense/6029854-fort-hood-soldiers-killed-helicopter-crash-texas-identified/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 15:09:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Korean fried chicken chain with 500 restaurants sold to owners with expansion plans",
+      "desc": "Bonchon operates in nine countries and will now expand aggressively into Canada, Mexico, Chile and existing US markets under new ownership",
+      "link": "https://www.mlive.com/business/2026/08/korean-fried-chicken-chain-with-500-restaurants-sold-to-owners-with-expansion-plans.html",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 15:07:29 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "How many people actually have cyclosporiasis? Why it&#039;s so hard to track",
+      "desc": "The current outbreak has been attributed to contaminated iceberg lettuce from central Mexico.",
+      "link": "https://thehill.com/policy/healthcare/6028033-why-cyclosporiasis-cases-are-hard-to-track/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 15:01:31 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Judge declares mistrial in case of U.P. woman accused of murder, arson",
+      "desc": "After 17 hours of deliberation, the jury remained split.",
+      "link": "https://www.mlive.com/news/2026/08/judge-declares-mistrial-in-case-of-up-woman-accused-of-murder-arson.html",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 15:01:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Proposed Bay City committee would study street, fire station funding options",
+      "desc": "The temporary committee would examine funding options including property tax millages and other methods, with findings due by November.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/proposed-bay-city-committee-would-study-street-fire-station-funding-options.html",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "desc": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "FDA assigns highest-risk Class I status for recall of nearly 1.6 million cartons of eggs",
+      "desc": "A Class I recall indicates “a situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death,\" accordin",
+      "link": "https://thehill.com/policy/healthcare/6029894-fda-assigns-highest-risk-class-i-status-for-recall-of-nearly-1-6-million-cartons-of-eggs/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 14:54:26 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "What’s next for Mike Duggan? Former Detroit mayor joins law firm after governor bid",
+      "desc": "Former Detroit Mayor Mike Duggan, most recently an independent running for governor, has joined a Detroit law firm as a partner.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/whats-next-for-mike-duggan-former-detroit-mayor-joins-law-firm-after-governor-bid.html",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 14:31:59 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vance urges DOJ investigation into hospitals over billing for transgender care",
+      "desc": "The Trump administration accused dozens of hospitals, clinics and providers on Thursday of fraudulent billing for transgender health procedures and referred them to the Department of Justice (DOJ) for",
+      "link": "https://thehill.com/policy/healthcare/6029844-vance-fraudulent-billing-gender-affirming-care/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 14:28:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man, 70, accused of fondling self at U.P. beach",
+      "desc": "Witnesses noticed the man’s alleged activities and called the police.",
+      "link": "https://www.mlive.com/news/2026/08/man-70-accused-of-fondling-self-at-up-beach.html",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 14:08:45 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Bessent teases severe economic action against Iran",
+      "desc": "Treasury Secretary Scott Bessent said the Trump administration will unveil new measures against Iran next week as it seeks to increase economic pressure on the regime to come back to the negotiating t",
+      "link": "https://thehill.com/homenews/administration/6029661-scott-bessent-treasury-donald-trump-economic-pressure-iran-war/",
+      "date": "Aug 14, 2026",
+      "rawDate": "Fri, 14 Aug 2026 14:07:11 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Lawler dismissed Max Miller allegations as a ‘media game’ — his own tweet says otherwise",
       "desc": "Weeks before defending Miller on CNN, Lawler accused Democrats of \"sanctimonious\" hypocrisy over similar allegations against Graham Platner.",
@@ -20,7 +128,7 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: White House appeals ballroom ruling to Supreme Court; Trump visits New York to tout decline in crime",
+      "title": "Live updates: White House appeals ballroom ruling to Supreme Court; Trump will visit NY to tout decline in crime",
       "desc": "President Trump heads Friday to Long Island, N.Y., to highlight his administration's efforts to fight crime. He'll tour the Nassau County Police Academy in Garden City along with Attorney General Todd",
       "link": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/",
       "date": "Aug 14, 2026",
@@ -72,51 +180,6 @@
       "rawDate": "Fri, 14 Aug 2026 13:02:57 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "The Democratic Party needs a ‘Sister Souljah moment’ to counter social democrats",
-      "desc": "Writer Bernard Goldberg argues that the rise of democratic socialists within the Democratic Party represents a significant shift that established leaders and commentators are struggling to address.",
-      "link": "https://thehill.com/opinion/campaign/6028148-leftist-energy-shifts-democrats/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump ally Nigel Farage beats Count Binface in special UK election",
-      "desc": "Nigel Farage, the leader of Britain's Reform UK party, regained his seat in Parliament on Thursday, following a special election full of fringe candidates. Farage, an ally of President Trump, came out",
-      "link": "https://thehill.com/policy/international/6029389-nigel-farage-count-binface-uk-special-election-reform-party/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 12:42:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Don’t let socialists sabotage a Democratic comeback",
-      "desc": "Rather than appeasing the socialist fringe, Democrats should do three things to prevent them from sabotaging the party’s comeback.",
-      "link": "https://thehill.com/opinion/campaign/6028272-dsa-agenda-hijacks-party-plans/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Is the rift between progressive and moderate Democrats an existential crisis?",
-      "desc": "The rift between the progressive and moderate wings of the Democratic Party has grown into an existential crisis. Plus, the hosts explore the double standard when it comes to presidents using the pres",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6029382-progressives-moderates-democratic-party-rift-discussion/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 12:25:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whole Hog Politics: Hyperventilation over Hong",
-      "desc": "[Watch Whole Hog Politics live: Hill Insider members can join us live today at 9 a.m. ET as Chris Stirewalt and host Bill Sammon break down this week’s political news and answer questions from a live ",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/6028380-wisconsin-primary-results/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth &amp; Paper",
@@ -398,24 +461,6 @@
       "tag": "government"
     },
     {
-      "title": "Midland man gets 19 years in federal prison for paying to watch child sexual abuse",
-      "desc": "The former realtor and podcast host sent money to sex traffickers in the Philippines, requesting video footage of children being sexually abused.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/midland-man-gets-19-years-in-federal-prison-for-paying-to-watch-child-sexual-abuse.html",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 17:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Feds executed 114 search warrants in Muskegon Heights drug operation",
-      "desc": "Federal prosecutors revealed the massive scope of the investigation during a court hearing Thursday for one of three men charged in the conspiracy.",
-      "link": "https://www.mlive.com/news/muskegon/2026/08/feds-executed-114-search-warrants-in-muskegon-heights-drug-operation.html",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 16:48:45 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "USS Abraham Lincoln: Senate Democrats press Hegseth for answers on reports of attempted suicides",
       "desc": "Senate Democrats are pressing Secretary of Defense Pete Hegseth and the Trump administration for more information about conditions aboard the USS Abraham Lincoln, which has been deployed since Novembe",
       "link": "https://thehill.com/homenews/senate/6027665-blumenthal-hegseth-carrier-conditions/",
@@ -450,24 +495,6 @@
       "rawDate": "Thu, 13 Aug 2026 14:14:31 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Hegseth accused of freezing out Democrats on $1.5 trillion budget — by his own party",
-      "desc": "Several GOP senators say they disagree with excluding Democrats from classified defense budget sessions on Capitol Hill.",
-      "link": "https://www.mlive.com/politics/2026/08/hegseth-accused-of-freezing-out-democrats-on-15-trillion-budget-by-his-own-party.html",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 14:08:02 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Walmart just made a major business move — and surprisingly, it has nothing to do with groceries",
-      "desc": "Walmart is expanding its reach beyond groceries and retail into a new market. Here's what's behind the move.",
-      "link": "https://www.mlive.com/news/2026/08/walmart-just-made-a-major-business-move-and-surprisingly-it-has-nothing-to-do-with-groceries.html",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 13:56:02 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Whole Foods recalls additional products made with jalapeño peppers over salmonella concerns",
@@ -623,15 +650,6 @@
       "tag": "health"
     },
     {
-      "title": "Three Pakistanis killed in Houthi attack on commercial vessel",
-      "desc": "Three Pakistanis were killed in a Tuesday attack on a ship by the Houthi militant group, multiple officials said, an event that points to the threat of a widening regional war sparked by the fight bet",
-      "link": "https://thehill.com/policy/defense/6024688-pakistani-nationals-killed-houthi-attack/",
-      "date": "Aug 12, 2026",
-      "rawDate": "Wed, 12 Aug 2026 14:10:08 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Transgender participation is rare in Michigan girls sports, data shows",
       "desc": "Here's how many transgender girls have received a waiver in Michigan to play girls sports since 2013.",
       "link": "https://www.mlive.com/data/2026/08/transgender-participation-is-rare-in-michigan-girls-sports-data-shows.html",
@@ -686,15 +704,6 @@
       "tag": "health"
     },
     {
-      "title": "Cornyn posts data on vaccines preventing deaths after Trump executive order",
-      "desc": "Sen. John Cornyn (R-Texas) shared a post on Tuesday touting the effectiveness of vaccines following President Trump’s executive order seeking to decrease childhood vaccines and buck the standard order",
-      "link": "https://thehill.com/homenews/senate/6023448-cornyn-cassidy-vaccine-dispute-trump/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 21:00:40 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "AI reshapes traditional campaign strategies",
       "desc": "Artificial intelligence is reshaping the campaign trail, as candidates up and down the ballot turn to the technology for deepfake attack ads, viral social media posts and self-promotion.  The embrace ",
       "link": "https://thehill.com/policy/technology/6023207-ai-reshapes-campaign-trail/",
@@ -713,15 +722,6 @@
       "tag": "technology"
     },
     {
-      "title": "Can GLP-1s affect birth control, fertility?",
-      "desc": "Research suggests that GLP-1 drugs could reduce the effectiveness of birth control and boost fertility.",
-      "link": "https://thehill.com/policy/healthcare/6023095-glp1-weight-loss-drugs-birth-control-fertility-risks/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 19:07:16 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Caledonia High School names assistant athletic director as new interim principal",
       "desc": "Jeremy Palmitier, formerly the district’s assistant athletic director, will serve as interim principal for the 2026-2027 school year.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/caledonia-high-school-names-assistant-athletic-director-as-new-interim-principal.html",
@@ -729,15 +729,6 @@
       "rawDate": "Tue, 11 Aug 2026 18:59:15 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Death toll from flesh-eating bacteria rises: These are the Vibrio warning signs to watch for",
-      "desc": "Beachgoers in several southern states have been warned to proceed with caution after several more deaths were reported in people who contracted vibriosis, an infection from a bacteria that can cause \"",
-      "link": "https://thehill.com/policy/healthcare/6021343-death-toll-from-flesh-eating-bacteria-rises-these-are-the-vibrio-warning-signs-to-watch-for/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 18:13:07 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Key dates for Ann Arbor-area families to know before school starts",

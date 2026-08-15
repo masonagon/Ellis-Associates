@@ -1,6 +1,42 @@
 {
-  "generated": "2026-08-15T09:17:59.038Z",
+  "generated": "2026-08-15T10:14:14.090Z",
   "news": [
+    {
+      "title": "Katie Miller’s podcast serves as safe space for MAGA world",
+      "desc": "Katie Miller’s podcast is emerging as a go-to platform for leading figures in President Trump’s administration as she targets an audience of Republican women, scoring news-making interviews with top c",
+      "link": "https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/",
+      "date": "Aug 15, 2026",
+      "rawDate": "Sat, 15 Aug 2026 10:03:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Victim’s sister says police have ‘very viable’ lead in 50-year-old unsolved slaying of Michigan attorney",
+      "desc": "Washtenaw County investigators are examining fresh evidence in the 50-year-old cold case after MLive inquired about the unsolved killing of the Sharon Township estate attorney.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/victims-sister-says-police-have-very-viable-lead-in-50-year-old-unsolved-slaying-of-michigan-attorney.html",
+      "date": "Aug 15, 2026",
+      "rawDate": "Sat, 15 Aug 2026 10:00:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
+      "desc": "A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before influencers, then died at age 22 in 2011.",
+      "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
+      "date": "Aug 15, 2026",
+      "rawDate": "Sat, 15 Aug 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
+      "desc": "The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the sky.",
+      "link": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+      "date": "Aug 15, 2026",
+      "rawDate": "Sat, 15 Aug 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "desc": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
@@ -290,7 +326,7 @@
       "tag": "government"
     },
     {
-      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "title": "Tech Visionary Says the Big AI Labs Don��t Get What People Want",
       "desc": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
       "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
       "date": "Aug 14, 2026",
@@ -421,33 +457,6 @@
       "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
       "date": "Aug 14, 2026",
       "rawDate": "Fri, 14 Aug 2026 10:45:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "desc": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 10:15:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Joe Budden’s career is full of plot twists. The latest: A true-crime podcast.",
-      "desc": "The rapper and commentator who rose to fame in the '00s and built a $20 million podcast network is branching out into a new genre",
-      "link": "https://www.mlive.com/news/2026/08/joe-buddens-career-is-full-of-plot-twists-the-latest-a-true-crime-podcast.html",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 10:00:01 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "5 Weird Tricks for Having a Brain",
-      "desc": "From the multibrained octopus to the bitty brain organoid, we’re all just inference engines making flawed bets on the future. Here are the five insights your brain will need to survive.",
-      "link": "https://www.wired.com/galaxy-brain/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },

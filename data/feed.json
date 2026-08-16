@@ -1,6 +1,15 @@
 {
-  "generated": "2026-08-16T13:24:35.795Z",
+  "generated": "2026-08-16T14:14:12.844Z",
   "news": [
+    {
+      "title": "Man dies after being struck by vehicle in Coldwater",
+      "desc": "Police said the crash happened on South Clay Street late Friday night.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/man-dies-after-being-struck-by-vehicle-in-coldwater.html",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 13:43:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Texas state lawmakers urge Abbott to help stop CBP barrier construction in Big Bend National Park",
       "desc": "Dozens of Texas lawmakers earlier this week urged Gov. Greg Abbott (R) to put a stop to the Trump administration’s plans to build border barrier installations at Big Bend National Park.  In a Thursday",
@@ -187,8 +196,8 @@
       "link": "https://thehill.com/homenews/senate/6031617-tuberville-use-chatgpt/",
       "date": "Aug 15, 2026",
       "rawDate": "Sat, 15 Aug 2026 21:14:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Suspected Meijer jewelry thief arrested after police chase ends in crash",
@@ -423,15 +432,6 @@
       "rawDate": "Fri, 14 Aug 2026 18:00:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Suspicious decomposed body found in farm field in Southwest Michigan",
-      "desc": "A badly decomposed body was found Thursday by a landowner in a Cass County field, prompting a multi-agency investigation involving state police and the medical examiner.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/suspicious-decomposed-body-found-in-farm-field-in-southwest-michigan.html",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 17:59:42 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Trump: USS Abraham Lincoln family members not concerned about conditions",

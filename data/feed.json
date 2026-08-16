@@ -1,6 +1,42 @@
 {
-  "generated": "2026-08-16T10:14:17.612Z",
+  "generated": "2026-08-16T11:12:16.558Z",
   "news": [
+    {
+      "title": "Someone Finally Fixed Installing Apps on a Mac",
+      "desc": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
+      "link": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
+      "desc": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
+      "link": "https://www.wired.com/review/terramow-v1000/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Florida primary fight marks DSA&#039;s last stand",
+      "desc": "The last major midterm primary test for the Democratic Socialists of America (DSA) is taking place Tuesday in Florida, after a loss in Wisconsin this past week dealt a blow to the far-left movement.  ",
+      "link": "https://thehill.com/homenews/campaign/6030816-dsa-florida-primary-test/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Supreme Court emergency docket roars back",
+      "desc": "The Supreme Court’s emergency docket has flared up in the thick of the justices’ summer recess.  President Trump is urging the justices to revive his mail ballot restrictions and allow White House bal",
+      "link": "https://thehill.com/regulation/court-battles/6030687-supreme-court-emergency-docket-trump-ballroom-mail-ballots/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Can an activist also wear the badge? A Michigan sheriff aims to find out",
       "desc": "Washtenaw County's progressive sheriff aims to change policing from the inside. Can she overcome lawsuits, investigations and political battles?",
@@ -142,17 +178,8 @@
       "link": "https://thehill.com/policy/technology/6031495-kalshi-nevada-geofencing-dispute/",
       "date": "Aug 15, 2026",
       "rawDate": "Sat, 15 Aug 2026 18:14:28 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Here is our way forward on immigration",
-      "desc": "Jennie Murray, president and CEO of The Forum, calls for lawmakers to implement firm, fair, and compassionate immigration reforms to stabilize the nation's broken system.",
-      "link": "https://thehill.com/opinion/immigration/6030434-immigration-policy-reset-america/",
-      "date": "Aug 15, 2026",
-      "rawDate": "Sat, 15 Aug 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Hillsdale College offers free online course exploring Homer’s ‘The Iliad’",
@@ -162,15 +189,6 @@
       "rawDate": "Sat, 15 Aug 2026 17:18:57 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Why Americans now hate each other more than ever",
-      "desc": "Recent polling and sociological analysis suggest that the United States is experiencing a severe generational decline in trust and a rise in mutual contempt driven by economic and political incentives",
-      "link": "https://thehill.com/opinion/white-house/6030279-us-societal-distrust-growth/",
-      "date": "Aug 15, 2026",
-      "rawDate": "Sat, 15 Aug 2026 17:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Victims of Northern Michigan mass shooting range in age from 13 to 53",
@@ -236,15 +254,6 @@
       "tag": "technology"
     },
     {
-      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-      "desc": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-      "date": "Aug 15, 2026",
-      "rawDate": "Sat, 15 Aug 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Daughter of Flint mayor hit by stray bullet in drive-by shooting",
       "desc": "The adult daughter of Flint Mayor Sheldon Neeley was the unintended victim of a drive-by shooting, according to police. She sustained minor, non-life-threatening injuries.",
       "link": "https://www.mlive.com/news/flint/2026/08/daughter-of-flint-mayor-hit-by-stray-bullet-in-drive-by-shooting.html",
@@ -270,15 +279,6 @@
       "rawDate": "Fri, 14 Aug 2026 22:25:49 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
-      "desc": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
-      "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 21:43:17 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Military to reimburse service members freezing eggs, sperm",

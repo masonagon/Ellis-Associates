@@ -1,6 +1,42 @@
 {
-  "generated": "2026-08-16T15:13:03.744Z",
+  "generated": "2026-08-16T16:14:25.075Z",
   "news": [
+    {
+      "title": "Woman killed in ATV crash in Branch County",
+      "desc": "Police said the woman lost control after passing another vehicle and struck a tree.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/woman-killed-in-atv-crash-in-branch-county.html",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 16:09:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Outbreaks threaten HHS &#039;real food&#039; agenda",
+      "desc": "Health Secretary Robert F. Kennedy Jr. wants America to “eat real food” as a solution to the chronic disease epidemic, but that message is being lost amid outbreaks of foodborne illness and a health a",
+      "link": "https://thehill.com/policy/healthcare/6030799-rfk-jr-real-food-agenda-outbreaks/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 16:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Gallego says Congress boosting Iran war funding &#039;like giving a drunk more money and hoping that they&#039;ll stop drinking&#039;",
+      "desc": "Democratic Sen. Ruben Gallego (Ariz.) on Sunday expressed strong opposition to Congress giving the Pentagon more funding amid the Iran war. During an interview on ABC’s “This Week,” Gallego pivoted wh",
+      "link": "https://thehill.com/homenews/senate/6031966-gallego-criticizes-iran-war/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 15:53:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Gallego: USS Lincoln concerns prove Trump views servicemembers as &#039;toys&#039;",
+      "desc": "Democratic Sen. Ruben Gallego (Ariz.) said Sunday the reported mental health concerns among servicemembers on board the USS Abraham Lincoln are proof that President Trump does not care about their wel",
+      "link": "https://thehill.com/homenews/senate/6031946-gallego-criticizes-trump-uss-lincoln/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 15:25:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln &#039;somewhere in the middle&#039;",
       "desc": "Retired Adm. Mike Mullen, the former chairman of the Joint Chiefs of Staff, said Sunday the truth about the reported mental health concerns among service members on board the USS Abraham Lincoln is li",
@@ -126,24 +162,6 @@
       "rawDate": "Sun, 16 Aug 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Florida primary fight marks DSA&#039;s last stand",
-      "desc": "The last major midterm primary test for the Democratic Socialists of America (DSA) is taking place Tuesday in Florida, after a loss in Wisconsin this past week dealt a blow to the far-left movement.  ",
-      "link": "https://thehill.com/homenews/campaign/6030816-dsa-florida-primary-test/",
-      "date": "Aug 16, 2026",
-      "rawDate": "Sun, 16 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Supreme Court emergency docket roars back",
-      "desc": "The Supreme Court’s emergency docket has flared up in the thick of the justices’ summer recess.  President Trump is urging the justices to revive his mail ballot restrictions and allow White House bal",
-      "link": "https://thehill.com/regulation/court-battles/6030687-supreme-court-emergency-docket-trump-ballroom-mail-ballots/",
-      "date": "Aug 16, 2026",
-      "rawDate": "Sun, 16 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Can an activist also wear the badge? A Michigan sheriff aims to find out",
@@ -403,8 +421,8 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/2-washtenaw-county-bakeries-including-1-up-for-sale-investigated-for-stealing-tips.html",
       "date": "Aug 14, 2026",
       "rawDate": "Fri, 14 Aug 2026 19:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Business",
+      "tag": "associations"
     },
     {
       "title": "Trump administration unveils tariffs on drone imports",
@@ -515,15 +533,6 @@
       "tag": "health"
     },
     {
-      "title": "Lawler dismissed Max Miller allegations as a ‘media game’ — his own tweet says otherwise",
-      "desc": "Weeks before defending Miller on CNN, Lawler accused Democrats of \"sanctimonious\" hypocrisy over similar allegations against Graham Platner.",
-      "link": "https://www.mlive.com/politics/2026/08/lawler-dismissed-max-miller-allegations-as-a-media-game-his-own-tweet-says-otherwise.html",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 14:02:17 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Mark Kelly on aircraft carrier catapult order: &#039;Donald Trump knows nothing about this stuff&#039;",
       "desc": "Sen. Mark Kelly (D-Ariz.) blasted President Trump on Thursday for ordering the U.S. Navy to revert to older catapult systems on its aircraft carriers, arguing the change would be costly while question",
       "link": "https://thehill.com/homenews/senate/6029426-mark-kelly-donald-trump-us-navy-order-aircraft-carrier-steam-catapults/",
@@ -594,24 +603,6 @@
       "rawDate": "Thu, 13 Aug 2026 19:52:19 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Retired general predicts Iran will get more aggressive &#039;as we get closer to the midterms&#039;",
-      "desc": "Retired Gen. Jack Keane forecasted Thursday that Iran’s military would ramp up its campaign against the U.S. approaching the November elections — a move he said would be a miscalculation.  “I think as",
-      "link": "https://thehill.com/policy/defense/6028346-general-keane-warns-iran-midterms/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 19:38:36 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Hegseth calls conditions aboard USS Abraham Lincoln &#039;completely misrepresented&#039;",
-      "desc": "Defense Secretary Pete Hegseth on Thursday claimed that conditions aboard the USS Abraham Lincoln aircraft carrier have been “completely misrepresented” following reports that sailors, struggling with",
-      "link": "https://thehill.com/policy/defense/6028091-pete-hegseth-uss-abraham-lincoln-conditions-middle-east/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 18:09:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Flock will add privacy guardrails to camera systems amid backlash",
@@ -745,15 +736,6 @@
       "link": "https://thehill.com/policy/healthcare/6023489-cms-blocks-minor-gender-care/",
       "date": "Aug 11, 2026",
       "rawDate": "Tue, 11 Aug 2026 22:07:09 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Hims &#038; Hers planning to sell compounded peptides",
-      "desc": "Hims &#38; Hers Health is planning to sell compounded peptides, the company said in a Monday earnings call. The company’s CEO, Andrew Dudum, said in the earnings call that it was “currently developing",
-      "link": "https://thehill.com/policy/healthcare/6023657-hims-hers-plans-compounded-peptides/",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 22:06:55 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

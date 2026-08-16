@@ -1,6 +1,33 @@
 {
-  "generated": "2026-08-16T16:14:25.075Z",
+  "generated": "2026-08-16T17:12:15.377Z",
   "news": [
+    {
+      "title": "New York Republican says DSA candidates will make up &#039;commie caucus&#039; if elected to Congress",
+      "desc": "Rep. Nicole Malliotakis (R-N.Y.) on Sunday said that Democratic candidates aligned with the Democratic Socialists of America (DSA) will make up the \"commie caucus\" if the party reclaims Congress after",
+      "link": "https://thehill.com/homenews/campaign/6031939-malliotakis-warns-commie-caucus-dsa/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 17:04:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jim Jordan says costs &#039;are tough,&#039; but economy is in a &#039;pretty good direction&#039;",
+      "desc": "Rep. Jim Jordan (R-Ohio) on Sunday praised the direction of the economy, while acknowledging that costs \"are tough\" on American families. Jordan made the case for President Trump and Republicans on Fo",
+      "link": "https://thehill.com/homenews/campaign/6031927-jim-jordan-economy-costs/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 16:17:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jim Jordan says costs &#8216;are tough,&#8217; but economy is in a &#8216;pretty good direction&#8217;",
+      "desc": "Rep. Jim Jordan (R-Ohio) on Sunday praised the direction of the economy, while acknowledging that costs &#8220;are tough&#8221; on American families. Jordan made the case for President Trump and Repub",
+      "link": "https://thehill.com/homenews/campaign/6031927-jim-jordan-economy-costs/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 16:17:47 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Woman killed in ATV crash in Branch County",
       "desc": "Police said the woman lost control after passing another vehicle and struck a tree.",
@@ -9,6 +36,15 @@
       "rawDate": "Sun, 16 Aug 2026 16:09:12 +0000",
       "source": "MLive Crime",
       "tag": "safety"
+    },
+    {
+      "title": "We should start building fiscal insurance for the AI era",
+      "desc": "Policymakers should begin developing fiscal insurance options, such as modernized adjustment assistance and expanded capital ownership, to mitigate the potential risks of large-scale worker displaceme",
+      "link": "https://thehill.com/opinion/finance/6031027-ai-economic-disruption-risks/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
     },
     {
       "title": "Outbreaks threaten HHS &#039;real food&#039; agenda",
@@ -27,6 +63,15 @@
       "rawDate": "Sun, 16 Aug 2026 15:53:08 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Are mass layoffs coming? Most states let you check – here&#8217;s how",
+      "desc": "Companies aren't legally allowed to keep mass layoffs a secret. Here's how you can tell if your company has plans to cut jobs.",
+      "link": "https://thehill.com/business/economy/6025743-are-mass-layoffs-coming-most-states-let-you-check-heres-how/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 15:53:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Gallego: USS Lincoln concerns prove Trump views servicemembers as &#039;toys&#039;",
@@ -99,33 +144,6 @@
       "rawDate": "Sun, 16 Aug 2026 12:40:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "ID requirements for mail-in voting in Texas reinstated by federal appeals court",
-      "desc": "The 5th U.S. Circuit Court of Appeals reinstated multiple provisions of a 2021 legally contested Texas election integrity law that, among other things, created an ID requirement for mail-in ballots an",
-      "link": "https://thehill.com/homenews/state-watch/6031844-id-requirements-for-mail-in-voting-in-texas-reinstated-by-federal-appeals-court/",
-      "date": "Aug 16, 2026",
-      "rawDate": "Sun, 16 Aug 2026 12:38:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump pushes Senate to vote on permanent daylight saving time bill &#039;as soon as possible&#039;",
-      "desc": "President Trump on Saturday again urged senators to vote on a bill to make daylight saving time permanent, a measure some Republicans in the upper chamber oppose. “The Senate must vote on the NO MORE ",
-      "link": "https://thehill.com/homenews/administration/6031829-trump-urges-senate-daylight-saving-bill/",
-      "date": "Aug 16, 2026",
-      "rawDate": "Sun, 16 Aug 2026 12:02:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Europeans are sour on Trump, but they increasingly back his immigration policy",
-      "desc": "It took only a few days for Europe's latest immigration crisis to threaten one of the European Union's core principles. After 72,000 migrants from Morocco entered Ceuta, a Spanish territory in North A",
-      "link": "https://thehill.com/opinion/immigration/6030226-europeans-are-sour-on-trump-but-they-support-his-immigration-policy/",
-      "date": "Aug 16, 2026",
-      "rawDate": "Sun, 16 Aug 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Which counties did governor candidates Jocelyn Benson and John James do worst in?",

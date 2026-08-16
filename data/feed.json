@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-16T12:21:33.817Z",
+  "generated": "2026-08-16T13:24:35.795Z",
   "news": [
+    {
+      "title": "Texas state lawmakers urge Abbott to help stop CBP barrier construction in Big Bend National Park",
+      "desc": "Dozens of Texas lawmakers earlier this week urged Gov. Greg Abbott (R) to put a stop to the Trump administration’s plans to build border barrier installations at Big Bend National Park.  In a Thursday",
+      "link": "https://thehill.com/homenews/state-watch/6031859-texas-lawmakers-urge-abbott-stop-border-barriers-big-bend/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 13:06:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "After program reductions, Calvin University debuts engineering, computer science school",
+      "desc": "The school is expected to enhance core offerings in fields like biotechnology and artificial intelligence.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/after-program-reductions-calvin-university-debuts-engineering-computer-science-school.html",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 13:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Live updates: Todd Blanche set for Sunday news show appearances",
+      "desc": "Attorney General Todd Blanche will join two network shows on Sunday following his narrow Senate confirmation last week. Blanche is set for appearances on Fox News’s “Fox News Sunday” and NBC News’s “M",
+      "link": "https://thehill.com/homenews/administration/6031727-live-updates-todd-blanche-sunday-shows-trump-centcom-uss-abraham-lincoln/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 12:49:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Homeschool students in Michigan find community through marching band",
+      "desc": "More than 150 homeschooled student ages 9-19 participate in the Northern Light marching band.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/homeschool-students-in-michigan-find-community-through-marching-band.html",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 12:40:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "ID requirements for mail-in voting in Texas reinstated by federal appeals court",
+      "desc": "The 5th U.S. Circuit Court of Appeals reinstated multiple provisions of a 2021 legally contested Texas election integrity law that, among other things, created an ID requirement for mail-in ballots an",
+      "link": "https://thehill.com/homenews/state-watch/6031844-id-requirements-for-mail-in-voting-in-texas-reinstated-by-federal-appeals-court/",
+      "date": "Aug 16, 2026",
+      "rawDate": "Sun, 16 Aug 2026 12:38:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Trump pushes Senate to vote on permanent daylight saving time bill &#039;as soon as possible&#039;",
       "desc": "President Trump on Saturday again urged senators to vote on a bill to make daylight saving time permanent, a measure some Republicans in the upper chamber oppose. “The Senate must vote on the NO MORE ",
@@ -146,15 +191,6 @@
       "tag": "government"
     },
     {
-      "title": "Republicans face unexpected challenge in Alaska Senate race",
-      "desc": "As Republicans look to hold on to their Senate majority in November, one state that is usually safely red is heating up as a former Democratic congresswoman makes a comeback bid to return to Washingto",
-      "link": "https://thehill.com/homenews/senate/6030558-alaska-senate-seat-tightening/",
-      "date": "Aug 15, 2026",
-      "rawDate": "Sat, 15 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Suspected Meijer jewelry thief arrested after police chase ends in crash",
       "desc": "A 41-year-old Toledo resident is in custody following a vehicle pursuit Saturday afternoon that began with a reported jewelry theft at a Frenchtown Township Meijer store.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/suspected-meijer-jewelry-thief-arrested-after-police-chase-ends-in-crash.html",
@@ -162,15 +198,6 @@
       "rawDate": "Sat, 15 Aug 2026 20:35:09 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Brown, Acton hold slim leads over Husted, Ramaswamy in key Ohio races: Poll",
-      "desc": "A new poll has former Sen. Sherrod Brown (D) and Amy Acton (D) leading by narrow margins against their Republican opponents in the Ohio Senate and gubernatorial races. The survey, conducted by Wedgewo",
-      "link": "https://thehill.com/homenews/campaign/6031596-brown-acton-lead-ohio-polls/",
-      "date": "Aug 15, 2026",
-      "rawDate": "Sat, 15 Aug 2026 20:20:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "14-year-old boy fatally shot in Genesee Township home",
@@ -187,17 +214,8 @@
       "link": "https://thehill.com/policy/defense/6031563-maher-condemns-uss-abraham-lincoln-conditions/",
       "date": "Aug 15, 2026",
       "rawDate": "Sat, 15 Aug 2026 19:25:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Iran attacks third UAE tanker within a week",
-      "desc": "The United Arab Emirates accused Iran on Saturday of attacking another vessel belonging to its state oil company while it transited through the Strait of Hormuz on Friday, the third such incident in l",
-      "link": "https://thehill.com/policy/international/6031505-uae-accuses-iran-strait-hormuz/",
-      "date": "Aug 15, 2026",
-      "rawDate": "Sat, 15 Aug 2026 18:28:40 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Kalshi accuses Nevada investigators of violating federal law in geofencing complaint",
@@ -623,15 +641,6 @@
       "tag": "technology"
     },
     {
-      "title": "Democrat criticizes Trump&#039;s Air Force One switch as &#039;despicable incident of disrespect&#039;",
-      "desc": "Sen. Chris Coons (D-Del.) on Thursday laid into President Trump for last month’s secret plane swap, when the president flew out of Turkey via a separate jet from the original one he boarded. During an",
-      "link": "https://thehill.com/homenews/senate/6027262-chris-coons-senate-criticism-air-force-one-decoy-plane/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 14:51:43 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Jenison Public Schools breaks ground on two-story upper elementary",
       "desc": "The project is being funded by a 25-year, $117 million bond passed by voters in May 2024.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/jenison-public-schools-breaks-ground-on-two-story-upper-elementary.html",
@@ -799,24 +808,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/washtenaw-community-college-opens-fall-registration-for-job-training-enrichment-courses.html",
       "date": "Aug 11, 2026",
       "rawDate": "Tue, 11 Aug 2026 15:50:19 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan Health named top hospital in Michigan",
-      "desc": "U.S. News ranked UM health in the top 20 nationally in four different specialties: ophthalmology (No. 8), rheumatology (No. 10), urology (No. 16) and pulmonology and lung surgery (No. 16).",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/university-of-michigan-health-named-top-hospital-in-michigan.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 13:33:36 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "What’s next for Essexville-Hampton schools after bond approval",
-      "desc": "The district will send residents an implementation timeline for construction projects, which won't begin until 2027.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/whats-next-for-essexville-hampton-schools-after-bond-approval.html",
-      "date": "Aug 11, 2026",
-      "rawDate": "Tue, 11 Aug 2026 13:11:50 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

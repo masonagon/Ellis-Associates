@@ -1,9 +1,54 @@
 {
-  "generated": "2026-08-17T20:16:40.642Z",
+  "generated": "2026-08-17T21:18:05.076Z",
   "news": [
     {
-      "title": "Gingrich: Midterms offer choice between &#039;big government socialism and weird values&#039; or Republicans",
-      "desc": "Former Speaker Newt Gingrich on Sunday laid out his view of the contrast between Republicans and Democrats, with less than three months before the midterms.  In a post on X, Gingrich wrote the GOP has",
+      "title": "Californians divided over billionaire tax",
+      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Californians divided over billionaire tax A recent poll shows C",
+      "link": "https://thehill.com/newsletters/business-economy/6034136-californians-divided-over-billionaire-tax/",
+      "date": "Aug 17, 2026",
+      "rawDate": "Mon, 17 Aug 2026 21:09:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kindergarten MMR vaccine coverage still below ideal rate to prevent outbreaks: CDC",
+      "desc": "Vaccination coverage for measles, mumps and rubella (MMR) among kindergarteners in the U.S. remains below the ideal rate needed to best prevent widespread outbreaks, according to the latest data from ",
+      "link": "https://thehill.com/policy/healthcare/6033790-mmr-vaccine-coverage-falls-below-target/",
+      "date": "Aug 17, 2026",
+      "rawDate": "Mon, 17 Aug 2026 20:56:40 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Iraq oil pipeline plan would take years to build, cost billions: Report",
+      "desc": "An Iraqi plan to develop a pipeline that would export oil through Syria and avoid future disruptions in the Strait of Hormuz is expected to take four years to reconstruct, likely costing at least $15 ",
+      "link": "https://thehill.com/policy/energy-environment/6033921-iraq-syria-oil-pipeline-reconstruction/",
+      "date": "Aug 17, 2026",
+      "rawDate": "Mon, 17 Aug 2026 20:45:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Progressives to combat Trump’s ‘Donroe Doctrine’ at PanAmerican Congress",
+      "desc": "Progressive House lawmakers and far-left Democratic candidates are traveling to Uruguay this week to challenge President Trump’s ‘Donroe Doctrine’ in Latin America.  The lawmakers are participating in",
+      "link": "https://thehill.com/homenews/house/6034048-progressives-challenge-trump-doctrine/",
+      "date": "Aug 17, 2026",
+      "rawDate": "Mon, 17 Aug 2026 20:33:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
+      "desc": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
+      "link": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+      "date": "Aug 17, 2026",
+      "rawDate": "Mon, 17 Aug 2026 20:18:17 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Gingrich: Midterms offer choice of &#039;big government socialism and weird values&#039; or Republicans",
+      "desc": "Former Speaker Newt Gingrich (R-Ga.) on Sunday laid out his view of the contrast between Republicans and Democrats, with less than three months before the midterms.  In a post on social platform X, Gi",
       "link": "https://thehill.com/homenews/campaign/6033875-newt-gingrich-republicans-midterms/",
       "date": "Aug 17, 2026",
       "rawDate": "Mon, 17 Aug 2026 20:13:04 +0000",
@@ -11,7 +56,7 @@
       "tag": "government"
     },
     {
-      "title": "Appeals court upholds Sigal Chattah’s disqualification as U.S. attorney in Nevada",
+      "title": "Appeals court upholds Sigal Chattah’s disqualification as US attorney in Nevada",
       "desc": "A federal appeals court panel on Monday upheld an order that disqualified Sigal Chattah from the top federal prosecutorial job in Nevada, ruling that the Justice Department’s effort to sidestep Senate",
       "link": "https://thehill.com/regulation/court-battles/6033984-court-disqualifies-sigal-chattah/",
       "date": "Aug 17, 2026",
@@ -88,8 +133,8 @@
       "link": "https://thehill.com/policy/healthcare/6033744-fauci-declines-gop-johnson-interview/",
       "date": "Aug 17, 2026",
       "rawDate": "Mon, 17 Aug 2026 18:51:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "University of Michigan move-in: What’s opened, closed and changed in Ann Arbor this summer",
@@ -101,15 +146,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump says people opposed to ballroom are disloyal to country",
-      "desc": "President Trump told reporters Monday that critics who are opposed to his proposed White House ballroom are disloyal to the country.  \"The people that are opposing the ballroom are people that, in my ",
-      "link": "https://thehill.com/homenews/administration/6033726-trump-ballroom-disloyalty-comments/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 18:38:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Murder case paused as suspect fights to throw out evidence",
       "desc": "A judge granted the request to stay the case in July. The suspect claims his apartment was improperly searched.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/murder-case-paused-as-suspect-fights-to-throw-out-evidence.html",
@@ -117,15 +153,6 @@
       "rawDate": "Mon, 17 Aug 2026 18:18:41 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "White House fires back at &#039;theater kid&#039; Ossoff",
-      "desc": "Multiple White House officials on Monday took Sen. Jon Ossoff (D-Ga.) to task for his harsh criticism of President Trump at a campaign rally over the weekend.  White House communications director Stev",
-      "link": "https://thehill.com/homenews/administration/6033511-white-house-response-jon-ossoff-donald-trump-iran-war-criticism/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 18:13:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Hearing adjourned for Isabella County man charged with robbing, beating man with crowbar",
@@ -756,15 +783,6 @@
       "rawDate": "Thu, 13 Aug 2026 20:21:39 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Cassidy: New CDC Director Schwartz &#039;will do the right thing&#039; on vaccine order",
-      "desc": "Sen. Bill Cassidy (R-La.) said he has confidence that new Centers for Disease Control and Prevention (CDC) Director Erica Schwartz will stand up for science and won’t enforce President Trump's executi",
-      "link": "https://thehill.com/policy/healthcare/6028472-cassidy-backs-cdc-director-schwartz/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 19:52:19 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Flock will add privacy guardrails to camera systems amid backlash",

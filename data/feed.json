@@ -1,6 +1,78 @@
 {
-  "generated": "2026-08-18T16:21:07.325Z",
+  "generated": "2026-08-18T17:19:10.909Z",
   "news": [
+    {
+      "title": "Skull donated to Chelsea Goodwill turned over to FBI, was not medical specimen",
+      "desc": "The identification of the woman who donated the skull is still undetermined.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/skull-donated-to-chelsea-goodwill-turned-over-to-fbi-was-not-medical-specimen.html",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 17:14:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ebola outbreak becomes deadliest in Congo history",
+      "desc": "The Ebola outbreak in the Congo is now the deadliest in the country’s history, according to new government data released on Monday.  There have been a total of 4,945 confirmed cases and 2,325 deaths a",
+      "link": "https://thehill.com/policy/international/6035541-congo-ebola-outbreak-deadliest/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 17:00:57 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump attacks &#039;fake Republican&#039; Drummond in fiery Oklahoma gubernatorial runoff",
+      "desc": "President Trump on Tuesday attacked Oklahoma Attorney General Gentner Drummond as a “fake Republican” ahead of next week’s GOP runoff for governor.  He renewed his support for Republican Mike Mazzei, ",
+      "link": "https://thehill.com/homenews/campaign/6035465-trump-attacks-drummond-oklahoma-governor-runoff/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 16:57:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo to require public board vote on Flock Safety contracts after protests",
+      "desc": "Kalamazoo's City Commission amended its purchasing policy to require public votes on all Flock Safety contracts after weeks of community protests over the use of license plate reading cameras.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/kalamazoo-to-require-public-board-vote-on-flock-safety-contracts-after-protests.html",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 16:44:59 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Preservationist group urges Supreme Court to keep White House ballroom paused",
+      "desc": "The preservationist group trying to stop President Trump’s White House ballroom urged the Supreme Court to deny the administration’s emergency request to allow construction, calling it “astonishing” o",
+      "link": "https://thehill.com/regulation/court-battles/6035436-national-trust-for-historic-preservation-supreme-court-donald-trump-white-house-ballroom-pause/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 16:43:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House Republican on USS Abraham Lincoln concerns: &#039;I don&#039;t make much of it&#039;",
+      "desc": "Rep. Pat Fallon (R-Texas) said Monday he does not “make much” of reports that allege crew members aboard the USS Abraham Lincoln are suffering from declining mental health and supply shortages due to ",
+      "link": "https://thehill.com/homenews/house/6035400-fallon-dismisses-uss-lincoln-reports/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 16:30:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Planned Parenthood makes big ad buy in Maine Senate race",
+      "desc": "The super PAC for Planned Parenthood is rolling out a more than $600,000 ad campaign against Sen. Susan Collins (R-Maine), criticizing her for her record on abortion as Democrats look to flip the Main",
+      "link": "https://thehill.com/homenews/campaign/6035398-planned-parenthood-super-pac-maine-senate-race-targets-susan-collins/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 16:22:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw teen charged with killing 17-year-old in post-prom parking lot party",
+      "desc": "The suspect, who is now 18 but was 17 when he allegedly shot and killed Deon L. Wiley III, surrendered to authorities at the Saginaw County Courthouse.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-teen-charged-with-killing-17-year-old-in-post-prom-parking-lot-party.html",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 16:18:45 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "The plastics industry hijacked the chasing arrows symbol — Congress can fix this",
       "desc": "Sen. Jeff Merkley and Rep. Lou Correa recently introduced the Truth in Labeling Act to establish clear federal standards for recycling labels and combat greenwashing in the United States.",
@@ -30,7 +102,7 @@
     },
     {
       "title": "Swalwell admits to &#039;physical relations&#039; with Chinese spy in newly released documents",
-      "desc": "Former Rep. Eric Swalwell (D-Calif.) told FBI investigators that he had physical relations with a suspected Chinese spy, according to newly declassified documents released by the White House Transpare",
+      "desc": "Former Rep. Eric Swalwell (D-Calif.) told FBI investigators he had physical relations with a suspected Chinese spy, according to newly declassified documents released by the White House Government Tra",
       "link": "https://thehill.com/national-security/6035293-eric-swalwell-fbi-documents-christine-fang/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 15:47:53 +0000",
@@ -56,15 +128,6 @@
       "tag": "government"
     },
     {
-      "title": "Stop treating small business owners like criminals",
-      "desc": "Rep. Warren Davidson called on Congress to permanently repeal the Corporate Transparency Act through the National Defense Authorization Act to protect small businesses from burdensome reporting requir",
-      "link": "https://thehill.com/opinion/finance/6034366-congress-must-end-cta/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 15:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "South Korea&#039;s president highlights US alliance after Trump reduces joint exercises",
       "desc": "South Korea’s president on Tuesday sought to highlight the more than 70-year alliance with the United States after President Trump over the weekend announced he had directed the Pentagon to “substanti",
       "link": "https://thehill.com/policy/defense/6035262-lee-stresses-alliance-korea-trump-drill-cuts/",
@@ -83,15 +146,6 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Florida, Alaska voters head to polls; federal trial opens in addiction suit against Meta",
-      "desc": "Florida voting concludes Tuesday in primary elections to pick candidates for November contests. The governor's mansion is up for grabs, along with a Senate seat and House races. Rep. Byron Donalds is ",
-      "link": "https://thehill.com/homenews/administration/6034642-live-updates-florida-alaska-primary-elections-meta-trial-trump-iran/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 15:11:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "2 arrested for armed robbery, home invasion while reportedly fleeing the state",
       "desc": "The armed robbery and home invasion happened in Washtenaw County, police said.",
       "link": "https://www.mlive.com/news/jackson/2026/08/2-arrested-for-armed-robbery-home-invasion-while-reportedly-fleeing-the-state.html",
@@ -99,33 +153,6 @@
       "rawDate": "Tue, 18 Aug 2026 14:57:06 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Are odds rising for Ocasio-Cortez to become the Democratic nominee?",
-      "desc": "Join The Hill's Amie Parnes and Ian Swanson plus Democratic strategist Joel Payne for a live discussion on the future of Rep. Alexandria Ocasio-Cortez (D-N.Y.). The hosts will talk about her efforts t",
-      "link": "https://thehill.com/homenews/campaign/fight-for-2028/6035175-alexandria-ocasio-cortez-odds-democrats-2028-discussion/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 14:55:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Disney sues FCC over its attempt to rein in content, challenge its ABC licenses",
-      "desc": "Disney and ABC on Tuesday sued the Federal Communications Commission (FCC), arguing that the Trump administration is attempting to censor journalists by urging the agency to conduct an early review of",
-      "link": "https://thehill.com/homenews/media/6035061-disney-abc-fcc-lawsuit/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 14:51:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "DOJ asks court to reinstate Abrego Garcia charges",
-      "desc": "The Department of Justice (DOJ) is requesting that a federal appeals court reinstate criminal charges against Kilmar Abrego Garcia, following a lower court order earlier this year that found the Salva",
-      "link": "https://thehill.com/regulation/court-battles/6035082-justice-department-criminal-charges-abrego-garcia/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 14:40:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan’s future teachers pay nearly $10K more for degrees, study finds",
@@ -560,15 +587,6 @@
       "tag": "health"
     },
     {
-      "title": "Woman, 74, dies after being hit by vehicle on Corunna Road in Flint Township",
-      "desc": "The driver of the vehicle remained on scene and cooperated with investigators, police said.",
-      "link": "https://www.mlive.com/news/flint/2026/08/woman-74-dies-after-being-hit-by-vehicle-on-corunna-road-in-flint-township.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 15:07:37 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Retired colonel knocks Trump order to cut back on &#039;critical&#039; joint exercises with South Korea",
       "desc": "Retired Air Force Col. Cedric Leighton on Sunday suggested President Trump made “an unforced error” in ordering the Pentagon to scale back its joint exercises with the South Korean military. Leighton ",
       "link": "https://thehill.com/policy/defense/6033148-trump-cedric-leighton-south-korea-joint-military-exercises/",
@@ -605,15 +623,6 @@
       "tag": "education"
     },
     {
-      "title": "Fiery crash in Huron County kills farmhand on way to work",
-      "desc": "The single-vehicle crash occurred in the predawn hours of Sunday, Aug. 16, in Chandler Township.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/fiery-crash-in-huron-county-kills-farmhand-on-way-to-work.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 12:29:37 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Can you get flesh-eating bacteria from eating seafood or oysters?",
       "desc": "Dr. William Schaffner said people with liver disease or who are immunocompromised should avoid eating raw oysters.",
       "link": "https://thehill.com/policy/healthcare/6031432-flesh-eating-bacteria-vibrio-oysters-seafood-risk/",
@@ -621,15 +630,6 @@
       "rawDate": "Mon, 17 Aug 2026 10:21:27 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "‘I hope hell gives him his due.’ New details emerge about Northern Michigan killing spree",
-      "desc": "Friday's mass murder events in Missaukee County left 5 people dead, a teenage girl injured, and crime scenes spread out over three different locations.",
-      "link": "https://www.mlive.com/news/2026/08/i-hope-hell-gives-him-his-due-new-details-emerge-about-northern-michigan-killing-spree.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 10:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Navy considers major aircraft carrier revamp to better suit Trump’s aesthetic",
@@ -646,15 +646,6 @@
       "link": "https://thehill.com/homenews/campaign/6032550-ossoff-attacks-trump-iran-war/",
       "date": "Aug 17, 2026",
       "rawDate": "Mon, 17 Aug 2026 02:58:23 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump directs Hegseth to reduce US joint exercises in South Korea",
-      "desc": "President Trump said Sunday he told Defense Secretary Pete Hegseth to “substantially reduce” the joint military exercises with South Korea. Trump wrote in a Truth Social post that he’s “not happy with",
-      "link": "https://thehill.com/policy/defense/6032392-trump-scales-back-us-south-korea-drills/",
-      "date": "Aug 16, 2026",
-      "rawDate": "Sun, 16 Aug 2026 21:55:27 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },
@@ -799,24 +790,6 @@
       "link": "https://thehill.com/policy/healthcare/6028033-why-cyclosporiasis-cases-are-hard-to-track/",
       "date": "Aug 14, 2026",
       "rawDate": "Fri, 14 Aug 2026 15:01:31 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "FDA assigns highest-risk Class I status for recall of nearly 1.6 million cartons of eggs",
-      "desc": "A Class I recall indicates “a situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death,\" accordin",
-      "link": "https://thehill.com/policy/healthcare/6029894-fda-assigns-highest-risk-class-i-status-for-recall-of-nearly-1-6-million-cartons-of-eggs/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 14:54:26 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Vance urges DOJ investigation into hospitals over billing for transgender care",
-      "desc": "The Trump administration accused dozens of hospitals, clinics and providers on Thursday of fraudulent billing for transgender health procedures and referred them to the Department of Justice (DOJ) for",
-      "link": "https://thehill.com/policy/healthcare/6029844-vance-fraudulent-billing-gender-affirming-care/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 14:28:30 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

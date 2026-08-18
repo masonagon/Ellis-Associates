@@ -1,6 +1,60 @@
 {
-  "generated": "2026-08-18T18:24:52.640Z",
+  "generated": "2026-08-18T19:21:26.553Z",
   "news": [
+    {
+      "title": "Man charged for breaking into unoccupied apartments in downtown Ann Arbor",
+      "desc": "He was arraigned on one count of home invasion.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/man-charged-for-breaking-into-unoccupied-apartments-in-downtown-ann-arbor.html",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 19:11:47 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Former DNC official: &#039;DSA candidates don&#039;t represent my party&#039;",
+      "desc": "Jose Aristimuño, former deputy national press secretary for the Democratic Party, said Monday the democratic socialists don’t represent the party, emphasizing that the center-left pull remains dominan",
+      "link": "https://thehill.com/homenews/campaign/6035922-jose-aristimuno-democratic-socialists/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 19:02:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rubio announces sanctions on International Criminal Court president",
+      "desc": "Secretary of State Marco Rubio on Tuesday announced sanctions on the president of the International Criminal Court and a trial lawyer, part of an escalating fight between the Trump administration, the",
+      "link": "https://thehill.com/policy/international/6036022-rubio-sanctions-icc-president/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 18:46:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: California, 28 other states lay out case against Meta; Florida, Alaska voters head to polls",
+      "desc": "Several states suing Meta began presenting their case Tuesday in Oakland, Calif., alleging the company has violated both federal and state laws in its approach to kids online safety. Megan O'Neill, de",
+      "link": "https://thehill.com/homenews/administration/6034642-live-updates-florida-alaska-primary-elections-meta-trial-trump-iran/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 18:45:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "desc": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 18:33:11 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Man accused of killing wife takes plea deal, canceling 2nd trial",
+      "desc": "His first trial ended in a mistrial.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/man-accused-of-killing-wife-takes-plea-deal-canceling-2nd-trial.html",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 18:25:42 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "See Michigan’s winning ‘I voted’ sticker designs from statewide contest",
       "desc": "The nine new designs – which include a frog in tights, an astronaut bunny in space and the Edmund Fitzgerald – were created and selected by Michiganders.",
@@ -8,6 +62,15 @@
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 18:18:38 +0000",
       "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Minnesota sues Texas governor to force extradition of ICE agent involved in shooting",
+      "desc": "The state of Minnesota sued Texas Gov. Greg Abbott (R) on Tuesday over his refusal to extradite the Immigration and Customs Enforcement (ICE) officer accused of shooting a Venezuelan man in Minneapoli",
+      "link": "https://thehill.com/regulation/court-battles/6035849-minnesota-texas-lawsuit-ice-shooting-extradition/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 18:18:36 +0000",
+      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -90,15 +153,6 @@
       "rawDate": "Tue, 18 Aug 2026 17:00:57 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump attacks &#039;fake Republican&#039; Drummond in fiery Oklahoma gubernatorial runoff",
-      "desc": "President Trump on Tuesday attacked Oklahoma Attorney General Gentner Drummond as a “fake Republican” ahead of next week’s GOP runoff for governor.  He renewed his support for Republican Mike Mazzei, ",
-      "link": "https://thehill.com/homenews/campaign/6035465-trump-attacks-drummond-oklahoma-governor-runoff/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 16:57:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Kalamazoo to require public board vote on Flock Safety contracts after protests",
@@ -290,18 +344,18 @@
       "tag": "technology"
     },
     {
-      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-      "desc": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+      "desc": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
-      "desc": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
-      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+      "desc": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:30:00 +0000",
       "source": "Wired",
@@ -317,18 +371,18 @@
       "tag": "associations"
     },
     {
-      "title": "Former Obama official mocks Democrats’ ‘very on-brand’ panic over new poll",
-      "desc": "The Democratic candidate holds an 11-point advantage among voters who said they were extemely interested in the election.",
-      "link": "https://www.mlive.com/politics/2026/08/former-obama-official-mocks-democrats-very-on-brand-panic-over-new-poll.html",
+      "title": "There’s a 51-point shift away from Trump among key voting group: Polling expert",
+      "desc": "Enten said on Monday that Hispanic male voters are beginning to disapprove of Trump despite the president winning the voting group over then-Vice President Kamala Harris.",
+      "link": "https://www.mlive.com/politics/2026/08/theres-a-51-point-shift-away-from-trump-among-key-voting-group-polling-expert.html",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:00:01 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
     {
-      "title": "There’s a 51-point shift away from Trump among key voting group: Polling expert",
-      "desc": "Enten said on Monday that Hispanic male voters are beginning to disapprove of Trump despite the president winning the voting group over then-Vice President Kamala Harris.",
-      "link": "https://www.mlive.com/politics/2026/08/theres-a-51-point-shift-away-from-trump-among-key-voting-group-polling-expert.html",
+      "title": "Former Obama official mocks Democrats’ ‘very on-brand’ panic over new poll",
+      "desc": "The Democratic candidate holds an 11-point advantage among voters who said they were extemely interested in the election.",
+      "link": "https://www.mlive.com/politics/2026/08/former-obama-official-mocks-democrats-very-on-brand-panic-over-new-poll.html",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:00:01 +0000",
       "source": "MLive Politics",
@@ -353,15 +407,6 @@
       "tag": "technology"
     },
     {
-      "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
-      "desc": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
-      "link": "https://www.wired.com/story/best-merino-wool-clothes/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
       "desc": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
       "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
@@ -371,11 +416,11 @@
       "tag": "technology"
     },
     {
-      "title": "Western Digital Promo Code: 15% Off",
-      "desc": "Get 15% off your first order at Western Digital when you register your email.",
-      "link": "https://www.wired.com/story/western-digital-promo-code/",
+      "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
+      "desc": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
+      "link": "https://www.wired.com/story/best-merino-wool-clothes/",
       "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 05:00:00 +0000",
+      "rawDate": "Tue, 18 Aug 2026 09:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -506,15 +551,6 @@
       "tag": "safety"
     },
     {
-      "title": "Hearing adjourned for Isabella County man charged with robbing, beating man with crowbar",
-      "desc": "Zakery Ripley faces life in prison on multiple charges including assault with intent to murder after allegedly beating a 69-year-old homeowner with a crowbar and stealing his Jeep.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/hearing-adjourned-for-isabella-county-man-charged-with-robbing-beating-man-with-crowbar.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 18:13:34 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Democratic voters call their own party ‘weak’ in new poll — even the ones who support it",
       "desc": "CBS News/YouGove survey of 2,287 adults fould 58% of all registered voters share that view.",
       "link": "https://www.mlive.com/politics/2026/08/democratic-voters-call-their-own-party-weak-in-new-poll-even-the-ones-who-support-it.html",
@@ -531,15 +567,6 @@
       "rawDate": "Mon, 17 Aug 2026 17:37:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Port Huron e-bike rider pinned under vehicle after intersection crash",
-      "desc": "A 20-year-old Port Huron e-bike rider was hospitalized with minor injuries after entering an intersection without stopping.",
-      "link": "https://www.mlive.com/news/detroit/2026/08/port-huron-e-bike-rider-pinned-under-vehicle-after-intersection-crash.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 17:26:20 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Jackson District Library unveils new book drops designed by local students",

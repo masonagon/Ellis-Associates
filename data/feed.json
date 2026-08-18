@@ -1,6 +1,60 @@
 {
-  "generated": "2026-08-18T21:15:20.473Z",
+  "generated": "2026-08-18T22:13:42.233Z",
   "news": [
+    {
+      "title": "Sanders to introduce bill to end Social Security garnishment for student loan debt",
+      "desc": "Sen. Bernie Sanders (I-Vt.) announced Monday he will introduce legislation seeking to prevent the federal government from garnishing Social Security benefits for seniors with unpaid student loan payme",
+      "link": "https://thehill.com/homenews/senate/6036415-sanders-stop-social-security-garnishment-bill/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 21:54:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Court upholds EPA rule forcing polluters to pay for &#8216;forever chemical&#8217; pollution",
+      "desc": "An Environmental Protection Agency (EPA) rule&#160;putting polluters on the hook to clean up toxic “forever chemicals”&#160;was upheld in court on Tuesday despite an industry challenge. The rule in qu",
+      "link": "https://thehill.com/policy/energy-environment/6036645-court-upholds-forever-chemicals-designation/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 21:44:24 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Flint man arrested with modified Glock pistol in Mount Morris",
+      "desc": "A 20-year-old Flint man was arrested after a midnight traffic stop revealed he was allegedly carrying an illegally modified Glock.",
+      "link": "https://www.mlive.com/news/flint/2026/08/flint-man-arrested-with-modified-glock-pistol-in-mount-morris.html",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 21:29:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "OpenAI launches ChatGPT experience for teens",
+      "desc": "OpenAI announced the launch of its new “ChatGPT for Teens” feature on Tuesday, unveiling an experience geared at people aged 13 to 17 that will include parental controls and stronger, built-in safety ",
+      "link": "https://thehill.com/policy/technology/6036449-openai-chatgpt-for-teens-user-safety/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 21:24:46 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Navy destroyer went days without power in the South China Sea, leaving sailors without toilets",
+      "desc": "A U.S. Navy destroyer went four days without power in the South China Sea last month, leaving sailors aboard without toilets, air conditioning, galley service and potable water, according to the U.S. ",
+      "link": "https://thehill.com/policy/defense/6036514-uss-benfold-south-china-sea-engineering-casualty/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 21:24:21 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "COVID is &#039;growing&#039; in nearly every state, CDC reports. Here&#039;s where levels are highest",
+      "desc": "Don't be surprised if you start hearing some more coughing in the next few weeks. COVID-19 is once again on the rise in nearly every corner of the U.S.",
+      "link": "https://thehill.com/policy/healthcare/6036387-covid-is-growing-in-nearly-every-state-cdc-reports-heres-where-levels-are-highest/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 21:23:38 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "Ossoff battle with Trump, White House gets nasty",
       "desc": "The White House and Sen. Jon Ossoff are engaged in an increasingly nasty fight that intensified after the Georgia Democrat, a rising star in his party, invoked President Trump’s longtime aide Natalie ",
@@ -20,6 +74,15 @@
       "tag": "government"
     },
     {
+      "title": "Live results: Democrats eye flip in Alaska Senate race with primary underway",
+      "desc": "Voting ends Tuesday in Alaska as voters choose who will duke it out in one of the most closely watched Senate races this cycle. Sen. Dan Sullivan (R) is on defense as Democrats look to former Rep. Mar",
+      "link": "https://thehill.com/homenews/campaign/6020765-live-results-alaska-senate-primary/",
+      "date": "Aug 18, 2026",
+      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Live results: Candidates jockey to succeed DeSantis in Florida primary",
       "desc": "Republican Gov. Ron DeSantis is leaving the Florida governor's mansion in January, teeing up a fiery battle to succeed the term-limited state executive. Rep. Byron Donalds (R) leads the crowded GOP fi",
       "link": "https://thehill.com/homenews/campaign/6020775-live-results-florida-governor-primary/",
@@ -29,35 +92,8 @@
       "tag": "government"
     },
     {
-      "title": "Live results: Democrats eye flip in Alaska Senate race with primary underway",
-      "desc": "Voters in Alaska are at the polls Tuesday to choose who will duke it out in one of the most closely watched Senate races this cycle. Sen. Dan Sullivan (R) is on defense as Democrats look to former Rep",
-      "link": "https://thehill.com/homenews/campaign/6020765-live-results-alaska-senate-primary/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Wyoming picks candidates to replace Cynthia Lummis",
-      "desc": "Wyoming voters head to the polls on Tuesday to select the Republican and Democratic candidates for the November election to replace retiring Sen. Cynthia Lummis (R-Wyo.). Wyoming's lone member of Cong",
-      "link": "https://thehill.com/homenews/campaign/6032256-live-results-wyoming-senate-primary/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Wyoming picks candidates for open governor&#039;s race",
-      "desc": "Wyoming voters are at the polls Tuesday to select their Republican and Democratic candidates for governor, an open seat with incumbent Gov. Mark Gordon (R-Wyo.) ineligible for another term. The Cowboy",
-      "link": "https://thehill.com/homenews/campaign/6032272-live-results-wyoming-governor-primary/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Live results: Alaskans vote on next governor in open primary",
-      "desc": "Alaskans on Tuesday will weigh in on a suite of candidates to replace term-limited Gov. Mike Dunleay (R). Over a dozen candidates, including former state Senate Minority Leader Tom Begich (D) and busi",
+      "desc": "Alaskans on Tuesday will conclude voting on a suite of candidates to replace term-limited Gov. Mike Dunleavy (R). More than a dozen candidates, including former state Senate Minority Leader Tom Begich",
       "link": "https://thehill.com/homenews/campaign/6020767-live-results-alaska-governor-primary/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
@@ -65,56 +101,11 @@
       "tag": "government"
     },
     {
-      "title": "Live results: Florida votes in special Senate primary for remainder of Rubio&#039;s term",
-      "desc": "Florida voters are at the polls Tuesday for the special primary election to fill the remainder of Secretary of State Marco Rubio's Senate term. Republican Sen. Ashley Moody was appointed to the seat i",
-      "link": "https://thehill.com/homenews/campaign/6020771-live-results-florida-senate-primary/",
+      "title": "Live results: Wyoming picks candidates to replace Cynthia Lummis",
+      "desc": "Wyoming will conclude voting Tuesday to select the Republican and Democratic candidates for the November election to replace retiring Sen. Cynthia Lummis (R-Wyo.). Wyoming's lone member of the House, ",
+      "link": "https://thehill.com/homenews/campaign/6032256-live-results-wyoming-senate-primary/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Florida holds key House primaries",
-      "desc": "Florida voters are at the polls Tuesday to select the Democratic and GOP candidates for November's U.S. House races following Florida Republicans redrawing the Sunshine State's congressional districts",
-      "link": "https://thehill.com/homenews/campaign/6032331-live-results-florida-house-primary/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Two Democrats vie for Swalwell&#039;s House seat",
-      "desc": "Voters in California's 14th Congressional District, which spans a portion of the Bay Area's Alameda County, will go to the polls on Tuesday for the runoff in the special election to replace former Rep",
-      "link": "https://thehill.com/homenews/campaign/6032314-live-results-california-house-special-election/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Begich looks to defend Alaska House seat in primary",
-      "desc": "Voters in Alaska are at the polls Tuesday as first-term Rep. Nick Begich (R) looks to defend his seat in November. Indepedent Bill Hill leads the crowded field of primary challengers for the state's a",
-      "link": "https://thehill.com/homenews/campaign/6020768-live-results-alaska-house-primary/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Open House seat in Wyoming up for grabs",
-      "desc": "Wyoming voters head to the polls on Tuesday to pick the Republican and Democratic candidates for the Cowboy State's at-large U.S. House seat. Rep. Harriet Hageman (R-Wyo.) is seeking a promotion to th",
-      "link": "https://thehill.com/homenews/campaign/6032298-live-results-wyoming-house-primary/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Second Dan Sullivan says he voted for Peltola twice in House races",
-      "desc": "Before launching a Republican campaign for Alaska's Senate seat, retired teacher Dan J. Sullivan voted for former Rep. Mary Peltola (D-Alaska) in 2022 and 2024. Sullivan now faces her, Sen. Dan S. Sul",
-      "link": "https://thehill.com/homenews/campaign/6036297-dan-j-sullivan-alaska-senate-race-mary-peltola/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 20:44:27 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -434,18 +425,18 @@
       "tag": "technology"
     },
     {
-      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
-      "desc": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
-      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+      "desc": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-      "desc": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+      "desc": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:30:00 +0000",
       "source": "Wired",
@@ -461,18 +452,18 @@
       "tag": "associations"
     },
     {
-      "title": "There’s a 51-point shift away from Trump among key voting group: Polling expert",
-      "desc": "Enten said on Monday that Hispanic male voters are beginning to disapprove of Trump despite the president winning the voting group over then-Vice President Kamala Harris.",
-      "link": "https://www.mlive.com/politics/2026/08/theres-a-51-point-shift-away-from-trump-among-key-voting-group-polling-expert.html",
+      "title": "Former Obama official mocks Democrats’ ‘very on-brand’ panic over new poll",
+      "desc": "The Democratic candidate holds an 11-point advantage among voters who said they were extemely interested in the election.",
+      "link": "https://www.mlive.com/politics/2026/08/former-obama-official-mocks-democrats-very-on-brand-panic-over-new-poll.html",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:00:01 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
     {
-      "title": "Former Obama official mocks Democrats’ ‘very on-brand’ panic over new poll",
-      "desc": "The Democratic candidate holds an 11-point advantage among voters who said they were extemely interested in the election.",
-      "link": "https://www.mlive.com/politics/2026/08/former-obama-official-mocks-democrats-very-on-brand-panic-over-new-poll.html",
+      "title": "There’s a 51-point shift away from Trump among key voting group: Polling expert",
+      "desc": "Enten said on Monday that Hispanic male voters are beginning to disapprove of Trump despite the president winning the voting group over then-Vice President Kamala Harris.",
+      "link": "https://www.mlive.com/politics/2026/08/theres-a-51-point-shift-away-from-trump-among-key-voting-group-polling-expert.html",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 10:00:01 +0000",
       "source": "MLive Politics",
@@ -497,18 +488,18 @@
       "tag": "technology"
     },
     {
-      "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
-      "desc": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
-      "link": "https://www.wired.com/story/best-merino-wool-clothes/",
+      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+      "desc": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 09:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
-      "desc": "Z.ai’s latest AI model release could help companies secure their systems��or find its way into the hands of hackers.",
-      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
+      "desc": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
+      "link": "https://www.wired.com/story/best-merino-wool-clothes/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 09:00:00 +0000",
       "source": "Wired",
@@ -632,15 +623,6 @@
       "tag": "education"
     },
     {
-      "title": "Murder case paused as suspect fights to throw out evidence",
-      "desc": "A judge granted the request to stay the case in July. The suspect claims his apartment was improperly searched.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/murder-case-paused-as-suspect-fights-to-throw-out-evidence.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 18:18:41 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Spring Arbor University golf outing raises more than $55,000 for scholarships",
       "desc": "The event drew 41 teams and continued a fundraising tradition that has generated more than $280,000 for academic and athletic scholarships since the tournament began in 2009, the university announced.",
       "link": "https://www.mlive.com/news/jackson/2026/08/spring-arbor-university-golf-outing-raises-more-than-55000-for-scholarships.html",
@@ -738,15 +720,6 @@
       "rawDate": "Mon, 17 Aug 2026 10:21:27 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Navy considers major aircraft carrier revamp to better suit Trump’s aesthetic",
-      "desc": "The U.S. Navy is weighing a major revamp of the design of its new class of aircraft carriers to better suit the desires expressed by President Trump as the White House continues to wade into the desig",
-      "link": "https://thehill.com/policy/defense/6032559-navy-reviews-carrier-island-design/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 02:58:32 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Flock tries to quell surveillance fears as questions pile up",
@@ -855,15 +828,6 @@
       "rawDate": "Fri, 14 Aug 2026 22:40:21 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Military to reimburse service members freezing eggs, sperm",
-      "desc": "The Pentagon is piloting a reimbursement program for eligible service members looking to freeze their eggs or sperm, according to a notice published Thursday in the Federal Register. The National Defe",
-      "link": "https://thehill.com/policy/healthcare/6030762-military-eggs-sperm-freezing-reimbursement-program/",
-      "date": "Aug 14, 2026",
-      "rawDate": "Fri, 14 Aug 2026 21:06:18 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Local principal, athletic director chosen as Manchester schools’ next superintendent",

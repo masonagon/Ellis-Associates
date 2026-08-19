@@ -1,9 +1,108 @@
 {
-  "generated": "2026-08-19T16:21:16.412Z",
+  "generated": "2026-08-19T17:19:05.974Z",
   "news": [
     {
+      "title": "US Air Force plane turns back from Antarctica after Russian missile threat",
+      "desc": "A U.S. Air Force plane heading to Antarctica was forced to turn around Tuesday due to a “potentially hazardous” space activity warning.  The American C-17 Globemaster aircraft, using callsign ICE28, i",
+      "link": "https://thehill.com/policy/defense/6039064-usaf-plane-turns-back-antarctica/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:12:13 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "22 arrested during Jake Lang demonstration in Dearborn, police say",
+      "desc": "Those arrested ranged in age from 18 to 64 and came from across Michigan and as far away as New York and Tennessee, according to the Dearborn Police Department.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/22-arrested-during-jake-lang-demonstration-in-dearborn-police-say.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:12:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump celebrates Florida loss of &#039;treasonous creep&#039;",
+      "desc": "President Trump on Wednesday celebrated the loss of Alexander Vindman in the Senate Democratic primary in Florida.  “The most gratifying loss last night was that of a real treasonous creep, Alexander ",
+      "link": "https://thehill.com/homenews/campaign/6038873-trump-alexander-vindman-angie-nixon-florida-primary/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:05:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump says US-Canada trade deal &#8216;subject to the finalization of documents&#8217;",
+      "desc": "President Trump on Wednesday touted a last-minute breakthrough in trade talks with Canada before new 50 percent tariffs were set to take effect this week, claiming there are “no longer any tariffs” fo",
+      "link": "https://thehill.com/homenews/administration/6038961-trump-canada-trade-deal/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:52:16 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "More SNAP soda and candy bans take effect in coming weeks: Here’s who’s impacted",
+      "desc": "The USDA is allowing states to restrict SNAP purchases of soda and candy, though a federal court ruling has blocked several state waivers after recipients challenged their legality.",
+      "link": "https://www.mlive.com/news/2026/08/more-snap-soda-and-candy-bans-take-effect-in-coming-weeks-heres-whos-impacted.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:49:24 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "desc": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:44:07 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Live updates: Florida Dem Angie Nixon stuns in Senate primary; Trump says US, Canada closing in on tariff deal",
+      "desc": "One of the last big primary election nights in the midterm cycle also brought another round of surprises. Florida state Rep. Angie Nixon, a member of the Democratic Socialists of America (DSA), crushe",
+      "link": "https://thehill.com/homenews/administration/6037487-live-updates-trump-crypto-canada-tariffs-primary-elections/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:43:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump says US, Canada have a deal",
+      "desc": "🍂 Plus: Is it pumpkin spice season already? {beacon} &#8202; It’s Wednesday. We watch primaries pretty closely around here, but not gonna lie — no one saw Angie Nixon coming in the Florida Senate rac",
+      "link": "https://thehill.com/newsletters/1230-report/6038883-trump-canada-trade-deal-tariffs-florida-alaska-primaries/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:42:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Google Pixel Watch 5 Review: More Health, More AI",
+      "desc": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
+      "link": "https://www.wired.com/review/google-pixel-watch-5/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:34:24 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Stars and Stripes publisher announces retirement, citing displeasure with Pentagon&#039;s direction of outlet",
+      "desc": "Max Lederer, the publisher of Stars and Stripes for nearly 20 years, is retiring over issues related to how the Pentagon is directing coverage of the outlet under the Trump administration. Lederer, wh",
+      "link": "https://thehill.com/policy/defense/6038882-pentagon-stars-stripes-editorial-shift/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:34:18 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "First day of school 2026: See what day, time your Grand Rapids area district starts",
+      "desc": "Here’s a list of the reopening dates for Kent and Ottawa county districts, and their start and end times.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/first-day-of-school-2026-see-what-day-time-your-grand-rapids-area-district-starts.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 16:24:53 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
       "title": "Slotkin asks Hegseth, Caine to confirm troops won&#039;t be sent to polling places",
-      "desc": "Democratic Sen. Elissa Slotkin (Mich.) on Monday sent letters to Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Gen. Dan Caine, asking them to confirm they will not deploy U.S. service",
+      "desc": "Democratic Sen. Elissa Slotkin (Mich.) on Monday sent letters to Defense Secretary Pete Hegseth and Gen. Dan Caine, the chair of the Joint Chiefs of Staff, asking them to confirm they will not deploy ",
       "link": "https://thehill.com/homenews/senate/6038412-slotkin-letter-troops-polls/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 16:09:41 +0000",
@@ -65,15 +164,6 @@
       "tag": "government"
     },
     {
-      "title": "Live updates: Florida Dem Angie Nixon stuns in Senate primary; Trump hosts crypto leaders",
-      "desc": "One of the last big primary election nights in the midterm cycle also brought another round of surprises. Florida state Rep. Angie Nixon, a member of the Democratic Socialists of America (DSA), crushe",
-      "link": "https://thehill.com/homenews/administration/6037487-live-updates-trump-crypto-canada-tariffs-primary-elections/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:47:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "New trading card store opens in downtown Ann Arbor",
       "desc": "Business has been “slow and steady,” since opening, store manager Alex Bergy said.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/new-trading-card-store-opens-in-downtown-ann-arbor.html",
@@ -92,33 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "Democrats shied away from faith voters for years — that’s finally changing",
-      "desc": "As Christian nationalism grows within the Republican Party, Democratic candidates are increasingly engaging religious voters and emphasizing inclusivity to counter claims that the party opposes faith.",
-      "link": "https://thehill.com/opinion/campaign/6037087-democrats-engage-faith-voters/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Prediction markets shut out of Trump&#039;s meeting with tech executives",
-      "desc": "Predication market officials will not attend a White House event Wednesday that will feature cryptocurrency and other tech leaders. President Trump \"will host an event with tech leaders tomorrow to st",
-      "link": "https://thehill.com/homenews/administration/6038507-cftc-innovation-committee-kickoff-meeting/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:23:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Prediction markets shut out of Trump&#8217;s meeting with tech executives",
-      "desc": "Predication market officials will not attend a White House event Wednesday that will feature cryptocurrency and other tech leaders. President Trump &#8220;will host an event with tech leaders tomorrow",
-      "link": "https://thehill.com/homenews/administration/6038507-cftc-innovation-committee-kickoff-meeting/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:23:42 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "OpenAI pausing some model work over safety concerns",
       "desc": "OpenAI said Tuesday it is pausing some frontier model training over safety concerns about its most advanced AI systems. The ChatGPT maker said in a blog post that it \"temporarily slowed the pace of sc",
       "link": "https://thehill.com/policy/technology/6038415-openai-pauses-ai-training/",
@@ -126,15 +189,6 @@
       "rawDate": "Wed, 19 Aug 2026 15:22:18 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Watch live: Trump briefs reporters on ballroom project despite legal hurdles",
-      "desc": "President Trump held an impromptu briefing Wednesday from the South Lawn, giving reporters an update on the White House ballroom project despite the legal battle. Trump last week urged the Supreme Cou",
-      "link": "https://thehill.com/video-clips/6038440-watch-live-donald-trump-white-house-ballroom-helipad-legal-hurdles/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:22:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Majority &#039;more concerned than excited&#039; about increased AI use in daily life: Survey",
@@ -164,15 +218,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump says he told Mills to exit race before primary loss",
-      "desc": "President Trump said Wednesday he told Rep. Cory Mills (R-Fla.) to abandon his reelection bid before he lost his district’s GOP primary. “I told Congressman Cory Mills of Florida, a friend of mine, to",
-      "link": "https://thehill.com/homenews/campaign/6038286-trump-endorses-ryan-elijah-forida-mills/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:02:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Man charged for sending drugs to 8 prisons in Michigan",
       "desc": "If convicted, he faces up to 20 years in prison.",
       "link": "https://www.mlive.com/news/detroit/2026/08/man-charged-for-sending-drugs-to-8-prisons-in-michigan.html",
@@ -180,15 +225,6 @@
       "rawDate": "Wed, 19 Aug 2026 15:00:57 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "The race industry has a grief problem",
-      "desc": "A real justice movement makes room for every grieving family. A business, on the other hand, only takes the clients it can monetize.",
-      "link": "https://thehill.com/opinion/criminal-justice/6035762-the-race-industry-has-a-grief-problem/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Moderna, Merck mRNA cancer vaccine prevents melanoma from returning",
@@ -344,26 +380,8 @@
       "tag": "technology"
     },
     {
-      "title": "Ulta Promo Codes: Up to 20% Off in August 2026",
-      "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Wayfair Coupons: Up to 80% Off August 2026",
-      "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Shapiro signs order restricting data centers in Pennsylvania",
-      "desc": "Pennsylvania Gov. Josh Shapiro (D) on Tuesday signed an executive order that could limit AI data center development in the Keystone State.  The executive order, which implements his Governor’s Respons",
+      "desc": "Pennsylvania Gov. Josh Shapiro (D) on Tuesday signed an executive order that could limit AI data center development in the Keystone State.  The executive order, which implements his Governor’s Respons",
       "link": "https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 03:09:55 +0000",
@@ -596,15 +614,6 @@
       "tag": "safety"
     },
     {
-      "title": "Family seeks answers after teen injured in Flint hit-and-run",
-      "desc": "The family and investigators are asking for assistance with cell phone videos, dashcam footage, or other recordings from the vicinity of the crash scene.",
-      "link": "https://www.mlive.com/news/flint/2026/08/family-seeks-answers-after-teen-injured-in-flint-hit-and-run.html",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 15:26:10 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Michigan’s future teachers pay nearly $10K more for degrees, study finds",
       "desc": "New research from Michigan State University’s EPIC shows aspiring educators complete more credits, face higher tuition costs and take longer to graduate than other bachelor’s students.",
       "link": "https://www.mlive.com/education/2026/08/michigans-future-teachers-pay-nearly-10k-more-for-degrees-study-finds.html",
@@ -650,15 +659,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump’s former deputy press secretary rips him for berating reporter: ‘An 80-year-old man child’",
-      "desc": "The former White House deputy press secretary said Trump is intimidated by strong women.",
-      "link": "https://www.mlive.com/politics/2026/08/trumps-former-press-secretary-rips-him-for-berating-reporter-an-80-year-old-man-child.html",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Ship attacked while exiting Strait of Hormuz",
       "desc": "A vessel attempting to exit the Strait of Hormuz was attacked Tuesday, according to the United Kingdom Maritime Trade Operations Centre (UKMTO). The UKMTO noted it received a report of a ship being hi",
       "link": "https://thehill.com/policy/defense/6034669-strait-of-hormuz-ship-attacked-iran-conflict/",
@@ -695,15 +695,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump’s South Korea move rattles foreign policy world",
-      "desc": "President Trump’s decision to reduce joint military exercises with South Korea is being met with derision from Democrats and fears from other allies who are already worried over the president’s past w",
-      "link": "https://thehill.com/homenews/administration/6034269-us-south-korea-military-exercises-cut/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 22:35:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "View from the top: A look inside new 16-story Ann Arbor apartment high-rise",
       "desc": "Downtown Ann Arbor's newest apartment high-rise at 333 E. William St. is getting ready to welcome tenants just in time for the University of Michigan's fall semester.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/view-from-the-top-a-look-inside-new-16-story-ann-arbor-apartment-high-rise.html",
@@ -720,15 +711,6 @@
       "rawDate": "Mon, 17 Aug 2026 20:56:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Democratic senator: Trump&#039;s praise of North Korea is &#039;delusional&#039;",
-      "desc": "Sen. Jack Reed (D-R.I.) went after President Trump on Monday for his praise of North Korea. “The president, in that — this sense, is delusional. He has this egomania that says every powerful figure in",
-      "link": "https://thehill.com/policy/defense/6033746-reed-criticizes-trump-north-korea/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 19:03:18 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Fauci declines to sit for transcribed interview with Sen. Ron Johnson",
@@ -826,15 +808,6 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/after-program-reductions-calvin-university-debuts-engineering-computer-science-school.html",
       "date": "Aug 16, 2026",
       "rawDate": "Sun, 16 Aug 2026 13:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Homeschool students in Michigan find community through marching band",
-      "desc": "More than 150 homeschooled student ages 9-19 participate in the Northern Light marching band.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/08/homeschool-students-in-michigan-find-community-through-marching-band.html",
-      "date": "Aug 16, 2026",
-      "rawDate": "Sun, 16 Aug 2026 12:40:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

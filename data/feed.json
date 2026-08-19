@@ -1,6 +1,69 @@
 {
-  "generated": "2026-08-19T22:15:57.317Z",
+  "generated": "2026-08-19T23:15:16.094Z",
   "news": [
+    {
+      "title": "Federal Reserve officials hint rate increase may be necessary",
+      "desc": "Multiple Federal Reserve officials indicated the central bank may need to raise interest rates later this year, according to newly-released minutes of the Fed’s July meeting.  While most participants ",
+      "link": "https://thehill.com/business/6040110-fed-july-minutes-rate-hike/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 23:13:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Elon Musk Is Expected to Point His Money Machine at Texas",
+      "desc": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cash.",
+      "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 23:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump admin plans crackdown on some immigrants&#8217; alleged tax refund &#8216;abuse&#8217;",
+      "desc": "The Treasury Department and the Internal Revenue Service (IRS) on Wednesday proposed stronger restrictions on certain immigrants’ ability to claim refundable tax credits — the latest in the Trump admi",
+      "link": "https://thehill.com/business/6040026-irs-treasury-trump-immigration-tax-restrictions/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 22:57:04 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Freeland teacher receives SVSU excellence award",
+      "desc": "The annual award honors teachers currently employed in Bay, Midland, Saginaw or Tuscola counties.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/freeland-teacher-receives-svsu-excellence-award.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 22:42:44 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trader Joe's is selling a plant that costs $100 online for just $10 — here's what to look for",
+      "desc": "Shoppers across the country have been finding Alocasia varieties — including the coveted Pink Bambino — tucked among tropical plants in stores.",
+      "link": "https://www.mlive.com/business/2026/08/shoppers-are-losing-it-over-a-10-rare-plant-find-at-trader-joes-and-its-easy-to-see-why.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 22:40:10 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "1,500 take part in annual Port Huron Float Down, 20 rescued",
+      "desc": "About 1,500 people participated in the St. Clair River Float Down, with 20 rescued by law enforcement.",
+      "link": "https://www.mlive.com/news/detroit/2026/08/1500-take-part-in-annual-port-huron-float-down-20-rescued.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 22:26:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Top DHS lawyer faces bar complaint over &#039;worst of the worst&#039; list for judges",
+      "desc": "The top lawyer for the Department of Homeland Security (DHS) is facing an ethics complaint with the Florida Bar after he launched a “Worst of the Worst” list for federal jurists, attacking their rulin",
+      "link": "https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 22:25:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Army battalion in Georgia offering 4 days of GTA 6 play as reenlistment incentive",
       "desc": "A U.S. Army battalion in Georgia is offering eligible soldiers a four-day pass to play Grand Theft Auto VI (GTA 6) as a reenlistment incentive once the highly anticipated game gets released this fall.",
@@ -12,7 +75,7 @@
     },
     {
       "title": "Cassidy criticizes Trump&#039;s FDA pick, says her role in vaccine order is &#039;almost disqualifying&#039;",
-      "desc": "Senate Health Committee Chair Bill Cassidy (R-La.) laid out his concerns over President Trump’s choice to tap Dr. Heidi Overton to lead the Food and Drug Administration (FDA), saying her involvement i",
+      "desc": "Sen. Bill Cassidy (R-La.), who chairs the Senate Health Committee, laid out his concerns over President Trump’s choice to tap Dr. Heidi Overton to lead the Food and Drug Administration (FDA), saying h",
       "link": "https://thehill.com/homenews/senate/6039997-bill-cassidy-heidi-overton-fda-vaccines/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 22:06:45 +0000",
@@ -61,8 +124,8 @@
       "link": "https://thehill.com/policy/healthcare/6039782-judge-blocks-trump-teen-pregnancy-program-changes/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 20:56:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "UAE cuts off trade with Iran after missiles land in water",
@@ -80,33 +143,6 @@
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 20:32:53 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump plays down bond market fears, pushes interest rate cuts",
-      "desc": "President Trump downplayed concerns around the bond market and called for lower interest rates during a meeting with cryptocurrency executives at the White House on Wednesday.  “No, I don’t think so,”",
-      "link": "https://thehill.com/homenews/administration/6039728-trump-calls-lower-rates-bond-market/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 20:25:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats flip Pennsylvania state House seat in Trump district",
-      "desc": "Democrats are declaring victory in a Tuesday special election for a Pennsylvania state House seat, flipping a district that has supported Republican candidates for decades.  Brandon Dukes, the Democra",
-      "link": "https://thehill.com/homenews/campaign/6039588-democrats-flip-pennsylvania-state-house-seat/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 20:09:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Kennedy Center delays restoring Trump’s name to front amid legal battle",
-      "desc": "The Kennedy Center has agreed to hold off on placing President Trump’s name onto the performing arts building amid an ongoing legal battle over the venue. The center’s Trump-aligned board voted last w",
-      "link": "https://thehill.com/regulation/court-battles/6039680-kennedy-center-trump-name-delay/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 20:06:37 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -551,15 +587,6 @@
       "tag": "technology"
     },
     {
-      "title": "Ulta Promo Codes: Up to 20% Off in August 2026",
-      "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Shapiro signs order restricting data centers in Pennsylvania",
       "desc": "Pennsylvania Gov. Josh Shapiro (D) on Tuesday signed an executive order that could limit AI data center development in the Keystone State.  The executive order, which implements his Governor’s Respons",
       "link": "https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/",
@@ -585,15 +612,6 @@
       "rawDate": "Tue, 18 Aug 2026 22:27:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Flint man arrested with modified Glock pistol in Mount Morris",
-      "desc": "A 20-year-old Flint man was arrested after a midnight traffic stop revealed he was allegedly carrying an illegally modified Glock.",
-      "link": "https://www.mlive.com/news/flint/2026/08/flint-man-arrested-with-modified-glock-pistol-in-mount-morris.html",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 21:29:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "OpenAI launches ChatGPT experience for teens",
@@ -808,15 +826,6 @@
       "link": "https://www.mlive.com/news/jackson/2026/08/spring-arbor-university-golf-outing-raises-more-than-55000-for-scholarships.html",
       "date": "Aug 17, 2026",
       "rawDate": "Mon, 17 Aug 2026 17:37:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Jackson District Library unveils new book drops designed by local students",
-      "desc": "Rather than purchasing standard replacement units, library staff worked with students to create original artwork for each drop.",
-      "link": "https://www.mlive.com/news/jackson/2026/08/jackson-district-library-unveils-new-book-drops-designed-by-local-students.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 17:17:06 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

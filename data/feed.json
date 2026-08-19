@@ -1,9 +1,63 @@
 {
-  "generated": "2026-08-19T17:19:05.974Z",
+  "generated": "2026-08-19T18:21:10.046Z",
   "news": [
     {
+      "title": "Watch live: Trump delivers remarks on US tech innovation",
+      "desc": "President Trump will give remarks Wednesday afternoon from the White House on strengthening U.S. innovation and dominance in the technology sector. CEOs from several crypto companies, including Ripple",
+      "link": "https://thehill.com/video-clips/6039127-watch-live-trump-delivers-remarks-on-us-tech-innovation/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:49:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "El-Sayed leads Rogers by 7 points in new Michigan Senate poll",
+      "desc": "Democratic nominee Abdul El-Sayed is leading Republican nominee Mike Rogers in Michigan’s closely watched open Senate race, according to a new poll, showing signs that the progressive candidate is con",
+      "link": "https://thehill.com/homenews/campaign/6039146-el-sayed-leads-rogers-michigan-poll/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:37:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "&#039;Not that informed&#039;: Darline Graham bungles Taiwan question",
+      "desc": "Darline Graham has no experience in government or on foreign policy. Her only experience is that she is related to someone who worked in Congress before.",
+      "link": "https://thehill.com/opinion/lindseys-lens/6039150-darline-graham-senate-debate-fail/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:32:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Grand Blanc Township renews Flock Safety contract in split vote",
+      "desc": "The Grand Blanc Township Board voted 4-2 Tuesday to renew an existing contract for 20 Automatic License Plate Registration (ALPR) cameras.",
+      "link": "https://www.mlive.com/news/flint/2026/08/grand-blanc-township-renews-flock-safety-contract-in-split-vote.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:27:14 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump taps White House adviser Heidi Overton to lead FDA",
+      "desc": "President Trump tapped Dr. Heidi Overton to be his new Food and Drug Administration (FDA) commissioner, he announced Wednesday on Truth Social.  Overton, a physician, is a top White House domestic pol",
+      "link": "https://thehill.com/homenews/administration/6039089-trump-heidi-overton-fda-nominee/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:25:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "As US&#039;s cyclosporiasis cases surpass 15,000, these are the hardest-hit states",
+      "desc": "Not all of the cases have been linked to the lettuce outbreak, either.",
+      "link": "https://thehill.com/policy/healthcare/6038986-as-uss-cyclosporiasis-cases-surpass-15000-these-are-the-hardest-hit-states/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 17:23:29 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
       "title": "US Air Force plane turns back from Antarctica after Russian missile threat",
-      "desc": "A U.S. Air Force plane heading to Antarctica was forced to turn around Tuesday due to a “potentially hazardous” space activity warning.  The American C-17 Globemaster aircraft, using callsign ICE28, i",
+      "desc": "A U.S. Air Force plane heading from New Zealand to Antarctica was forced to turn around Tuesday due to a “potentially hazardous” space activity warning.  The American C-17 Globemaster aircraft, using ",
       "link": "https://thehill.com/policy/defense/6039064-usaf-plane-turns-back-antarctica/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 17:12:13 +0000",
@@ -21,7 +75,7 @@
     },
     {
       "title": "Trump celebrates Florida loss of &#039;treasonous creep&#039;",
-      "desc": "President Trump on Wednesday celebrated the loss of Alexander Vindman in the Senate Democratic primary in Florida.  “The most gratifying loss last night was that of a real treasonous creep, Alexander ",
+      "desc": "President Trump on Wednesday celebrated the loss of Alex Vindman in the Senate Democratic primary in Florida.  “The most gratifying loss last night was that of a real treasonous creep, Alexander Vindm",
       "link": "https://thehill.com/homenews/campaign/6038873-trump-alexander-vindman-angie-nixon-florida-primary/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 17:05:07 +0000",
@@ -56,7 +110,7 @@
       "tag": "technology"
     },
     {
-      "title": "Live updates: Florida Dem Angie Nixon stuns in Senate primary; Trump says US, Canada closing in on tariff deal",
+      "title": "Live updates: Trump indicates he&#039;ll meet with Kim Jong Un; US, Canada closing in on tariff deal",
       "desc": "One of the last big primary election nights in the midterm cycle also brought another round of surprises. Florida state Rep. Angie Nixon, a member of the Democratic Socialists of America (DSA), crushe",
       "link": "https://thehill.com/homenews/administration/6037487-live-updates-trump-crypto-canada-tariffs-primary-elections/",
       "date": "Aug 19, 2026",
@@ -106,26 +160,8 @@
       "link": "https://thehill.com/homenews/senate/6038412-slotkin-letter-troops-polls/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 16:09:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Axelrod criticizes Ossoff&#039;s remark about Natalie Harp: &#039;Distracted and detracted&#039;",
-      "desc": "Democratic strategist David Axelrod on Wednesday criticized recent comments from Sen. Jon Ossoff (D-Ga.) about President Trump and his longtime aide Natalie Harp. “No one has been more consistently el",
-      "link": "https://thehill.com/homenews/campaign/6038771-axelrod-criticizes-ossoff-trump-comments/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 16:08:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Texas took on Big Tech&#039;s grip on kids — Congress should follow",
-      "desc": "Texas state Rep. Ellen Troxclair called on Congress to pass the App Store Accountability Act following a U.S. Supreme Court ruling that allowed the state to enforce child safety legislation.",
-      "link": "https://thehill.com/opinion/technology/6037322-texas-legislator-online-safety/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
@@ -151,17 +187,8 @@
       "link": "https://thehill.com/policy/healthcare/6038649-cdc-cyclosporiasis-outbreak-cases/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 15:53:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "De Blasio: DSA &#039;providing vision&#039; many in US &#039;hungry for&#039;",
-      "desc": "Former New York City Mayor Bill de Blasio (D) on Tuesday said the Democratic Socialists of America (DSA) are “providing vision” that many across the country are “hungry for” ahead of midterm elections",
-      "link": "https://thehill.com/homenews/campaign/6038365-de-blasio-praises-dsa-vision/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:47:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "New trading card store opens in downtown Ann Arbor",
@@ -767,15 +794,6 @@
       "tag": "health"
     },
     {
-      "title": "Cyclospora outbreaks with no confirmed sources grow: FDA",
-      "desc": "Nearly 14,000 cases of cyclospora have been confirmed in the U.S., according to the CDC. Last year, the U.S. saw fewer than 2,000.",
-      "link": "https://thehill.com/policy/healthcare/6032961-cyclospora-outbreaks-with-no-confirmed-sources-grow-fda/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 15:15:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "University of Michigan-Dearborn creates new major",
       "desc": "The program has already drawn students from other majors who discovered the field through internships.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/university-of-michigan-creates-new-major-on-dearborn-campus.html",
@@ -783,15 +801,6 @@
       "rawDate": "Mon, 17 Aug 2026 13:48:54 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Can you get flesh-eating bacteria from eating seafood or oysters?",
-      "desc": "Dr. William Schaffner said people with liver disease or who are immunocompromised should avoid eating raw oysters.",
-      "link": "https://thehill.com/policy/healthcare/6031432-flesh-eating-bacteria-vibrio-oysters-seafood-risk/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 10:21:27 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Flock tries to quell surveillance fears as questions pile up",

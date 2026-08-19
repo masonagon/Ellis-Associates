@@ -1,9 +1,45 @@
 {
-  "generated": "2026-08-19T20:17:18.545Z",
+  "generated": "2026-08-19T21:17:38.372Z",
   "news": [
     {
+      "title": "Federal court pauses Trump changes to Teen Pregnancy Prevention program",
+      "desc": "A federal judge in Washington, D.C., on Wednesday temporarily blocked the Trump administration’s changes to the Teen Pregnancy Prevention (TPP) program that resulted in the abrupt loss of tens of mill",
+      "link": "https://thehill.com/policy/healthcare/6039782-judge-blocks-trump-teen-pregnancy-program-changes/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 20:56:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "UAE cuts off trade with Iran after missiles land in water",
+      "desc": "The United Arab Emirates (UAE) announced Tuesday it is cutting off trade with Iran after accusing it of firing two missiles toward the UAE. Afra Al Hameli, director of the UAE's Ministry of Foreign Af",
+      "link": "https://thehill.com/policy/defense/6039738-uae-halts-iran-trade/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 20:38:57 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Flint City Council to vote on more than $7M for Berston Field House expansion",
+      "desc": "The council will consider a $6.32 million HUD grant and $1.5 million from the city's general fund to support the project during a special meeting Wednesday.",
+      "link": "https://www.mlive.com/news/flint/2026/08/flint-city-council-to-vote-on-more-than-7m-for-berston-field-house-expansion.html",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 20:32:53 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump plays down bond market fears, pushes interest rate cuts",
+      "desc": "President Trump downplayed concerns around the bond market and called for lower interest rates during a meeting with cryptocurrency executives at the White House on Wednesday.  “No, I don’t think so,”",
+      "link": "https://thehill.com/homenews/administration/6039728-trump-calls-lower-rates-bond-market/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 20:25:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Democrats flip Pennsylvania state House seat in Trump district",
-      "desc": "Democrats are declaring victory in a Tuesday special election for a Pennsylvania state House seat, flipping a district that has supported Republican candidates for decades.  Brandon Dukes, the Democra",
+      "desc": "Democrats are declaring victory in a Tuesday special election for a Pennsylvania state House seat, flipping a district that has supported Republican candidates for decades.  Brandon Dukes, the Democra",
       "link": "https://thehill.com/homenews/campaign/6039588-democrats-flip-pennsylvania-state-house-seat/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 20:09:29 +0000",
@@ -48,7 +84,7 @@
     },
     {
       "title": "Benson announces Senate majority leader as lieutenant governor running mate",
-      "desc": "If elected come November, Benson and Brinks would be making Michigan history as the first woman governor to also serve with a woman lieutenant governor.",
+      "desc": "If elected come November, Benson and Brinks would make Michigan history as the first woman governor to also serve with a woman lieutenant governor.",
       "link": "https://www.mlive.com/politics/2026/08/benson-announces-senate-majority-leader-as-lieutenant-governor-running-mate.html",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 19:43:32 +0000",
@@ -162,24 +198,6 @@
       "rawDate": "Wed, 19 Aug 2026 18:25:01 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Watch live: Trump delivers remarks on US tech innovation",
-      "desc": "President Trump will give remarks Wednesday afternoon from the White House on strengthening U.S. innovation and dominance in the technology sector. CEOs from several crypto companies, including Ripple",
-      "link": "https://thehill.com/video-clips/6039127-watch-live-trump-delivers-remarks-on-us-tech-innovation/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 17:49:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "El-Sayed leads Rogers by 7 points in new Michigan Senate poll",
-      "desc": "Democratic nominee Abdul El-Sayed is leading Republican nominee Mike Rogers in Michigan’s closely watched open Senate race, according to a new poll, showing signs that the progressive candidate is con",
-      "link": "https://thehill.com/homenews/campaign/6039146-el-sayed-leads-rogers-michigan-poll/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 17:37:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Grand Blanc Township renews Flock Safety contract in split vote",
@@ -614,15 +632,6 @@
       "tag": "government"
     },
     {
-      "title": "See Michigan’s winning ‘I voted’ sticker designs from statewide contest",
-      "desc": "The nine new designs – which include a frog in tights, an astronaut bunny in space and the Edmund Fitzgerald – were created and selected by Michiganders.",
-      "link": "https://www.mlive.com/politics/2026/08/see-michigans-winning-i-voted-sticker-designs-from-statewide-contest.html",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 18:18:38 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "UAE says it detected 2 missiles fired from Iran; both fell into water",
       "desc": "The United Arab Emirates (UAE) said Tuesday that its armed forces detected two missiles fired from Iran and that both fell into the water.  The country’s air defense systems spotted Iranian ballistic ",
       "link": "https://thehill.com/policy/defense/6035824-uae-detects-iranian-missiles/",
@@ -749,15 +758,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump’s aircraft carrier demands may lead to waiting game for Navy",
-      "desc": "President Trump is increasingly putting his thumb on the scale by wading more into the designs of U.S. aircraft carriers, backing potentially seismic design changes that would increase construction co",
-      "link": "https://thehill.com/policy/defense/6034297-trump-aircraft-carrier-design-changes/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "View from the top: A look inside new 16-story Ann Arbor apartment high-rise",
       "desc": "Downtown Ann Arbor's newest apartment high-rise at 333 E. William St. is getting ready to welcome tenants just in time for the University of Michigan's fall semester.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/view-from-the-top-a-look-inside-new-16-story-ann-arbor-apartment-high-rise.html",
@@ -817,15 +817,6 @@
       "link": "https://thehill.com/policy/healthcare/6030750-trump-mmr-vaccine-executive-order/",
       "date": "Aug 17, 2026",
       "rawDate": "Mon, 17 Aug 2026 17:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Ocasio-Cortez: No regrets over decision to publicize freezing eggs",
-      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Saturday she has no regrets about publicizing her decision to freeze her eggs. “One question that I received earlier is: Do I regret coming out publicly abo",
-      "link": "https://thehill.com/homenews/house/6033352-ocasio-cortez-egg-freezing-no-regrets/",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 16:11:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

@@ -1,6 +1,33 @@
 {
-  "generated": "2026-08-19T00:44:25.384Z",
+  "generated": "2026-08-19T02:13:21.693Z",
   "news": [
+    {
+      "title": "Webster&#8217;s pick loses GOP primary for open Florida House seat",
+      "desc": "Retiring Rep. Daniel Webster&#8217;s pick to succeed him the House is projected to lose his GOP primary in Florida, according to Decision Desk HQ (DDHQ).  Businessman Joe Strada is set to defeat Baker",
+      "link": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 02:05:47 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "ICE alleges House Democrats &#039;disrupted operations&#039; at Georgia detention center",
+      "desc": "Immigration and Customs Enforcement (ICE) on Tuesday accused several House Democrats, including Rep. Pramila Jayapal (D-Wash.), of having \"disrupted operations\" during a visit to one of its detention ",
+      "link": "https://thehill.com/homenews/house/6036966-ice-house-democrats-disrupted-operations-stewart-detention/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 01:29:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Graham, Norman tangle in South Carolina GOP Senate debate: Three takeaways",
+      "desc": "Sen. Darline Graham (R-S.C.) and Rep. Ralph Norman (R-S.C.) faced off on the debate stage Tuesday, a day before early voting begins in the runoff to determine which of the two will be South Carolina’s",
+      "link": "https://thehill.com/homenews/campaign/6037051-sc-gop-senate-debate/",
+      "date": "Aug 19, 2026",
+      "rawDate": "Wed, 19 Aug 2026 01:10:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Watters: Trump has said &#039;so much more sleazy things&#039; than Ossoff’s quip",
       "desc": "Fox News host Jesse Watters on Tuesday acknowledged that President Trump has said \"so much more sleazy things\" than Sen. Jon Ossoff's (D-Ga.) quip about White House executive assistant Natalie Harp. \"",
@@ -12,7 +39,7 @@
     },
     {
       "title": "Gilbert wins Democratic primary for open Wilson House seat in Florida",
-      "desc": "Miami-Dade County, Fla., Commissioner Oliver Gilbert (D) is expected to advance to the November general election after winning the Democratic primary for Florida's 24th Congressional District seat cur",
+      "desc": "Oliver Gilbert, Miami-Dade County commissioner, is expected to advance to the November general election after winning the Democratic primary for Florida's 24th Congressional District seat currently he",
       "link": "https://thehill.com/homenews/campaign/6021111-gilbert-wins-florida-house-primary/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 00:34:42 +0000",
@@ -30,7 +57,7 @@
     },
     {
       "title": "Florida GOP chair loses House primary for Dunn seat",
-      "desc": "Florida GOP Chair Evan Power is projected to lose the Republican primary in the state’s 2nd Congressional District, according to Decision Desk HQ.  Power is projected to finish in fourth place in the ",
+      "desc": "Evan Power, Florida's GOP chair, is projected to lose the Republican primary in the state’s 2nd Congressional District, according to Decision Desk HQ.  Power is projected to finish in fourth place in ",
       "link": "https://thehill.com/homenews/campaign/6026138-florida-gop-chair-loses-house-primary/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 00:14:28 +0000",
@@ -38,7 +65,7 @@
       "tag": "government"
     },
     {
-      "title": "Nixon defeats Vindman to take on Moody for Florida Senate",
+      "title": "Progressive defeats Vindman to take on Moody for Florida Senate",
       "desc": "Progressive Florida state Rep. Angie Nixon (D) is poised to deliver an unexpected upset and defeat President Trump whistleblower Alex Vindman in the Democratic contest for Florida Senate, according to",
       "link": "https://thehill.com/homenews/campaign/6036864-nixon-vindman-moody-florida-senate/",
       "date": "Aug 19, 2026",
@@ -106,24 +133,6 @@
       "link": "https://thehill.com/homenews/campaign/6029887-moskowitz-wins-florida-primary/",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 23:13:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats demand Medicaid stop sharing info with ICE",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Democrats demand Medicaid stop sharing info with ICE  Democratic senators on Tuesday accused the Trump admini",
-      "link": "https://thehill.com/newsletters/healthcare/6036819-democrats-demand-medicaid-ice-data/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 23:08:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Wasserman Schultz clinches Florida House primary win despite pushback from Black Democrats",
-      "desc": "Rep. Debbie Wasserman Schultz (D-Fla.) is projected to win the Democratic primary for a South Florida House seat despite pushback from some in the party who argued the plurality-Black district should ",
-      "link": "https://thehill.com/homenews/campaign/6035481-wasserman-schultz-wins-florida-house-primary/",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 23:05:36 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -632,15 +641,6 @@
       "tag": "education"
     },
     {
-      "title": "Appeals court again rejects DOJ bid for Michigan voter data with personal information",
-      "desc": "The most recent ruling means the state is still not obligated to release personal information of registered voters.",
-      "link": "https://www.mlive.com/politics/2026/08/appeals-court-again-rejects-doj-bid-for-michigan-voter-data-with-personal-information.html",
-      "date": "Aug 17, 2026",
-      "rawDate": "Mon, 17 Aug 2026 22:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "3-vehicle serious injury crash in Muskegon County under investigation",
       "desc": "A rear-end collision on Holton Road in Muskegon County pushed one vehicle into oncoming traffic.",
       "link": "https://www.mlive.com/news/muskegon/2026/08/3-vehicle-serious-injury-crash-in-muskegon-county-under-investigation.html",
@@ -916,15 +916,6 @@
       "link": "https://thehill.com/policy/technology/6028233-trump-private-sector-cybersecurity-program/",
       "date": "Aug 13, 2026",
       "rawDate": "Thu, 13 Aug 2026 20:21:39 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Flock will add privacy guardrails to camera systems amid backlash",
-      "desc": "Flock Safety will implement new privacy and data retention policies as pressure grows on the automated license plate operator to prevent its technology from being abused or used to conduct mass survei",
-      "link": "https://thehill.com/policy/technology/6027324-flock-cameras-ai-surveillance-privacy-updates/",
-      "date": "Aug 13, 2026",
-      "rawDate": "Thu, 13 Aug 2026 15:09:37 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

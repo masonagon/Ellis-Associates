@@ -1,9 +1,36 @@
 {
-  "generated": "2026-08-20T23:17:58.710Z",
+  "generated": "2026-08-21T00:49:49.993Z",
   "news": [
     {
+      "title": "Workplace death under investigation at Kaiser Aluminum in Kalamazoo",
+      "desc": "A Kaiser Aluminum employee died while on the job at a Kalamazoo facility, prompting an investigation by Michigan's workplace safety agency.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/workplace-death-under-investigation-at-kaiser-aluminum-in-kalamazoo.html",
+      "date": "Aug 20, 2026",
+      "rawDate": "Thu, 20 Aug 2026 23:45:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "US approves possible $4.5 billion sale of refueling aircraft to Qatar",
+      "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  US approves $4.5 billion sale of refueling planes",
+      "link": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/",
+      "date": "Aug 20, 2026",
+      "rawDate": "Thu, 20 Aug 2026 23:18:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Google Pixel 11 Review: Minor Upgrade",
+      "desc": "Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone.",
+      "link": "https://www.wired.com/review/google-pixel-11/",
+      "date": "Aug 20, 2026",
+      "rawDate": "Thu, 20 Aug 2026 23:15:27 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "Army plans to phase out drone unit championed by sacked generals",
-      "desc": "The U.S. Army plans to phase out a drone unit that was studying and incorporating lessons from foreign wars, including the use of unnamed systems in the Russia-Ukraine war, an Army official confirmed ",
+      "desc": "The U.S. Army plans to phase out a drone unit that was studying and incorporating lessons from foreign wars, including the use of uncrewed systems in the Russia-Ukraine war, an Army official confirmed",
       "link": "https://thehill.com/policy/defense/6042667-us-army-phasing-out-drone-unit/",
       "date": "Aug 20, 2026",
       "rawDate": "Thu, 20 Aug 2026 23:05:52 +0000",
@@ -108,15 +135,6 @@
       "rawDate": "Thu, 20 Aug 2026 20:59:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Melania Trump announces new foster scholarships ahead of IndyCar DC event",
-      "desc": "First lady Melania Trump announced a new round of scholarships for foster children Thursday in partnership with IndyCar and Fox Corporation. The two companies donated $2 million to fund scholarships a",
-      "link": "https://thehill.com/homenews/administration/6042401-melania-trump-foster-scholarships-indycar-freedom-250-grand-prix/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 20:58:11 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Family remembers Rebecca Park on her 23rd birthday, the first since she and her unborn son were murdered",
@@ -398,15 +416,6 @@
       "tag": "technology"
     },
     {
-      "title": "Dell Coupon Codes: 20% Off for August 2026",
-      "desc": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Air Force major detained again for Capitol protest after Trump criticism",
       "desc": "A U.S. service member who was arrested on the steps of the U.S. Capitol last month after he advocated for President Trump’s impeachment was detained again, a U.S. Air Force spokesperson confirmed Wedn",
       "link": "https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest/",
@@ -558,15 +567,6 @@
       "rawDate": "Wed, 19 Aug 2026 19:17:44 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Robbery suspect leading police on chase caused U.S. 23 ramp closure",
-      "desc": "The man had crashed his vehicle on the ramp.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/robbery-suspect-leading-police-on-chase-caused-us-23-ramp-closure.html",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 19:13:46 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Trump warns North Korea has &#039;57 very powerful nuclear weapons&#039;",

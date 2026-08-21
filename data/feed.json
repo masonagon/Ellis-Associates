@@ -1,9 +1,72 @@
 {
-  "generated": "2026-08-21T19:19:41.138Z",
+  "generated": "2026-08-21T20:16:11.119Z",
   "news": [
     {
+      "title": "Murderer’s lawsuit against Trump over immigration status ‘frivolous,’ judge says",
+      "desc": "Brandon Ortiz-Vite, who killed his girlfriend Ruby Garcia and left her body on the side of a Grand Rapids highway, was referred to by President Trump during the 2024 presidential election as a dangero",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/murderers-lawsuit-against-trump-over-immigration-status-frivolous-judge-says.html",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 19:54:22 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Navy reportedly weighs renaming aircraft carrier for Trump",
+      "desc": "The name of Pearl Harbor hero Doris Miller could be removed from one of the U.S. Navy’s next aircraft carriers, with President Donald Trump’s name reportedly among those being considered as a replacem",
+      "link": "https://thehill.com/policy/defense/6044226-navy-doris-miller-trump-aircraft-carrier/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 19:52:45 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Appeals court affirms top federal prosecutor in Albany &#039;not lawfully serving&#039;",
+      "desc": "A federal appeals court panel ruled Friday that John Sarcone was “not lawfully serving” as the top federal prosecutor in upstate New York when he subpoenaed New York Attorney General Letitia James's (",
+      "link": "https://thehill.com/regulation/court-battles/6044119-sarcone-albany-appeals-court-not-lawfully-serving/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 19:43:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US ambassador to Belgium criticizes Ghent University’s suspension of professor over Jason Arday accusations",
+      "desc": "U.S. Ambassador to Belgium Bill White on Friday condemned the decision made by Ghent University to suspend researcher Nathan Cofnas over his plagiarism accusations against Jason Arday. White said on t",
+      "link": "https://thehill.com/policy/international/6044102-ghent-university-jason-arday-us-bill-white/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 19:40:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP backlash grows to Trump&#039;s beef price intervention",
+      "desc": "GOP lawmakers and cattle ranchers are immediately raising alarm bells over President Trump’s decision to temporarily lift certain tariffs on imported ground beef to mitigate the cost for American cons",
+      "link": "https://thehill.com/homenews/administration/6044174-gop-ranchers-protest-imports/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 19:33:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "UM-Flint to launch first-ever intercollegiate athletics program amid enrollment growth",
+      "desc": "UM-Flint Chancellor Laurence B. Alexander announced plans for the new program Friday during his second annual State of University address.",
+      "link": "https://www.mlive.com/news/flint/2026/08/um-flint-to-launch-first-ever-intercollegiate-athletics-program-amid-enrollment-growth.html",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 19:32:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Vehicle crashes head-on with police cruiser, ending pursuit",
+      "desc": "Two people were arrested.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/vehicle-crashes-head-on-with-police-cruiser-ending-pursuit.html",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 19:25:07 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "HHS launches autistic missing persons alert initiative",
-      "desc": "The Department of Health and Human Services announced on Friday a new federal initiative to improve preparedness and response when autistic individuals are reported missing.  The agency will partner w",
+      "desc": "The Department of Health and Human Services (HHS) announced on Friday a new federal initiative to improve preparedness and response efforts when individuals with autism are reported missing.  The agen",
       "link": "https://thehill.com/policy/healthcare/6044106-hhs-autism-missing-person-initiative/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 19:10:49 +0000",
@@ -142,8 +205,8 @@
       "link": "https://thehill.com/video-clips/6043711-vance-to-visit-middeletown-steel/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 16:51:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "2 Dearborn police officers shot while trying to arrest armed man; suspect critical",
@@ -156,21 +219,12 @@
     },
     {
       "title": "Pentagon says more than 750 US service members wounded in Iran war",
-      "desc": "The Pentagon said more than 750 U.S. service members have been wounded since the war against Iran began in late February.  The department updated its war casualty database this week with another 50 in",
+      "desc": "The Pentagon said more than 750 U.S. service members have been wounded since the war against Iran began in late February.  The department updated its war casualty database this week with another 50 in",
       "link": "https://thehill.com/policy/defense/6043630-trump-economic-warfare-iran/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 15:59:04 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Massie, Greene slam Trump&#039;s move to lower beef prices",
-      "desc": "Two Republicans pushed back on the Trump administration’s Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to bring down prices for American consumers ahead of ",
-      "link": "https://thehill.com/homenews/house/6043594-massie-greene-slam-beef-deal/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 15:43:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Bay City ranks 26th in state in latest FBI crime stats",
@@ -335,15 +389,6 @@
       "tag": "technology"
     },
     {
-      "title": "Meta Quest Promo Codes and Coupons for August 2026",
-      "desc": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "B&amp;H Photo Promo Codes and Deals This August 2026",
       "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
       "link": "https://www.wired.com/story/bh-photo-coupon/",
@@ -353,9 +398,9 @@
       "tag": "technology"
     },
     {
-      "title": "Lenovo Coupon Codes: 15% Off in August 2026",
-      "desc": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "desc": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 05:00:00 +0000",
       "source": "Wired",
@@ -522,15 +567,6 @@
       "rawDate": "Thu, 20 Aug 2026 18:56:35 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Man to undergo testing to determine if he was sane when he killed, buried grandmother",
-      "desc": "He has previously been found incompetent.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/man-to-undergo-testing-to-determine-if-he-was-sane-when-he-killed-buried-grandmother.html",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 18:19:48 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Career education millage renewal heads to Saginaw County voters in November",
@@ -740,15 +776,6 @@
       "tag": "safety"
     },
     {
-      "title": "Flint City Council to vote on more than $7M for Berston Field House expansion",
-      "desc": "The council will consider a $6.32 million HUD grant and $1.5 million from the city's general fund to support the project during a special meeting Wednesday.",
-      "link": "https://www.mlive.com/news/flint/2026/08/flint-city-council-to-vote-on-more-than-7m-for-berston-field-house-expansion.html",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 20:32:53 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Fervor over data centers fires up competitive Ohio Senate race",
       "desc": "One of the most competitive Senate races this year is pivoting around data centers.  The contest in Ohio between incumbent Sen. Jon Husted (R-Ohio) and former Sen. Sherrod Brown (D-Ohio) is a key exam",
       "link": "https://thehill.com/homenews/campaign/6039515-ohio-senate-race-data-centers-husted-brown/",
@@ -790,15 +817,6 @@
       "link": "https://thehill.com/policy/defense/6039064-usaf-plane-turns-back-antarctica/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 17:12:13 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Stars and Stripes publisher announces retirement, citing displeasure with Pentagon&#039;s direction of outlet",
-      "desc": "Max Lederer, the publisher of Stars and Stripes for nearly 20 years, is retiring over issues related to how the Pentagon is directing coverage of the outlet under the Trump administration. Lederer, wh",
-      "link": "https://thehill.com/policy/defense/6038882-pentagon-stars-stripes-editorial-shift/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 16:34:18 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },
@@ -907,15 +925,6 @@
       "link": "https://www.mlive.com/education/2026/08/these-are-michigans-top-50-public-high-schools-for-2026-according-to-us-news.html",
       "date": "Aug 18, 2026",
       "rawDate": "Tue, 18 Aug 2026 17:25:02 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Michigan’s future teachers pay nearly $10K more for degrees, study finds",
-      "desc": "New research from Michigan State University’s EPIC shows aspiring educators complete more credits, face higher tuition costs and take longer to graduate than other bachelor’s students.",
-      "link": "https://www.mlive.com/education/2026/08/michigans-future-teachers-pay-nearly-10k-more-for-degrees-study-finds.html",
-      "date": "Aug 18, 2026",
-      "rawDate": "Tue, 18 Aug 2026 14:35:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-21T16:21:56.021Z",
+  "generated": "2026-08-21T17:20:30.733Z",
   "news": [
+    {
+      "title": "Sanford backs Norman over Graham in South Carolina Senate runoff: &#039;Stakes are simply too high&#039;",
+      "desc": "Former South Carolina Gov. Mark Sanford (R) announced Friday he is backing GOP Rep. Ralph Norman (S.C.) in the race to serve a full term in the late Sen. Lindsey Graham’s (R-S.C.) seat.  Sanford, who ",
+      "link": "https://thehill.com/homenews/campaign/6043756-mark-sanford-ralph-norman-endorsement/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 17:08:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police arrest Montcalm County man for operating a golf cart while allegedly drunk",
+      "desc": "The incident caused the passenger to be ejected onto the road, police say.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/police-arrest-montcalm-county-man-for-operating-a-golf-cart-while-drunk.html",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 17:06:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Interior spares California, Arizona, Nevada from most dramatic short-term Colorado River water cuts",
+      "desc": "The federal government has unveiled its short-term plans for Colorado River water cuts from California, Arizona and Nevada — issuing a plan that’s largely in line with what the states themselves have ",
+      "link": "https://thehill.com/policy/energy-environment/6043778-lower-basin-states-water-reduction/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 17:04:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump lawyer to liberal think tank: Retract National Guard report that defames president",
+      "desc": "President Trump has demanded a liberal think tank retract a critical report on his National Guard deployments by Friday evening, threatening to file a $5 billion defamation suit if it doesn’t. In a ni",
+      "link": "https://thehill.com/regulation/court-battles/6043735-trump-center-american-progress-national-guard-defamation/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 16:59:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Vance seeks to sell Trump agenda to Ohio voters",
+      "desc": "Vice President Vance is heading back to his Ohio hometown Friday afternoon, as he looks to sell President Trump’s economic agenda to voters ahead of the November midterms. Vance will deliver remarks a",
+      "link": "https://thehill.com/video-clips/6043711-vance-to-visit-middeletown-steel/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 16:51:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "2 Dearborn police officers shot while trying to arrest armed man; suspect critical",
       "desc": "The 32-year-old Detroit man accused of shooting the officers was also shot and remained hospitalized in critical condition Friday morning.",
@@ -101,15 +146,6 @@
       "tag": "government"
     },
     {
-      "title": "The hemp loophole has become a national intoxicant market",
-      "desc": "An op-ed argues that while recent federal legislation aims to correct the 2018 farm bill's loophole regarding intoxicating hemp products, states must maintain authority to regulate the burgeoning mark",
-      "link": "https://thehill.com/opinion/healthcare/6042789-states-fight-hemp-loophole/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 13:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Marjorie Taylor Greene, Bakari Sellers to hold debate in Detroit before Election Day",
       "desc": "This is part of an inaugural six-city tour and will be moderated by Emmy and Peabody Award-winning journalist Charlie Rose.",
       "link": "https://www.mlive.com/detroit/2026/08/marjorie-taylor-greene-bakari-sellers-to-hold-debate-in-detroit-before-election-day.html",
@@ -137,15 +173,6 @@
       "tag": "safety"
     },
     {
-      "title": "Iran labels new US sanctions &#8216;unjust&#8217;",
-      "desc": "Mohammed Bagher Qalibaf, the speaker of Iran’s Parliament, pushed back Friday against “unjust” U.S. economic sanctions placed on the country by the Trump administration earlier this week.&#160; “We mu",
-      "link": "https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 12:38:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Saginaw crime statistics 2025: FBI versus local police data",
       "desc": "The FBI again ranked Saginaw among America's most dangerous cities, but local police figures tell a different story with an 11% overall crime decline and a 38% drop in homicides.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-crime-statistics-2025-fbi-vs-local-police-data.html",
@@ -153,15 +180,6 @@
       "rawDate": "Fri, 21 Aug 2026 12:17:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "How the bipartisan data center backlash could reshape politics nationwide",
-      "desc": "Bipartisan backlash to data centers is spreading nationwide. How could the panicked political response carry lasting consequences? Plus, democratic socialist Angie Nixon’s upset in the Florida Democra",
-      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6043072-bipartisan-data-center-backlash-political-influence-discussion/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 12:15:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
@@ -236,18 +254,27 @@
       "tag": "technology"
     },
     {
-      "title": "B&amp;H Photo Promo Codes and Deals This August 2026",
-      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "desc": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Meta Quest Promo Codes and Coupons for August 2026",
-      "desc": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "title": "Lenovo Coupon Codes: 15% Off in August 2026",
+      "desc": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 05:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "B&amp;H Photo Promo Codes and Deals This August 2026",
+      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 05:00:00 +0000",
       "source": "Wired",
@@ -450,15 +477,6 @@
       "rawDate": "Thu, 20 Aug 2026 17:43:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "19-year-old charged after Flint shooting left 2 teens dead",
-      "desc": "Evan Richard Durbin, 19, was charged in the Aug. 10 shooting deaths of two teens following a fight at a Flint intersection.",
-      "link": "https://www.mlive.com/news/flint/2026/08/19-year-old-charged-after-flint-shooting-left-2-teens-dead.html",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 17:19:35 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Invited media, military members held at gunpoint by Space Force security",

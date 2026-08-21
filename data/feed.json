@@ -1,9 +1,63 @@
 {
-  "generated": "2026-08-21T22:14:54.051Z",
+  "generated": "2026-08-21T23:15:23.969Z",
   "news": [
     {
-      "title": "Pentagon fires Stars and Stripes editor-in-chief, publisher, reporter",
-      "desc": "The Pentagon fired the publisher, editor-in-chief and at least one reporter at Stars and Stripes, a historically independent military news outlet, on Friday as the department has looked to reshape its",
+      "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+      "desc": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates—but they will also require physical warning stickers and camera-related updates.",
+      "link": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 23:10:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump defends Darline Graham&#039;s Taiwan response: &#039;She was being honest&#039;",
+      "desc": "President Trump defended Sen. Darline Graham (R-S.C.) on Friday following her stumble on a national security question during the Palmetto State's GOP Senate primary debate this week. The president off",
+      "link": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 22:56:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump says he&#039;ll spend &#039;a lot&#039; of MAGA Inc. funds in midterms",
+      "desc": "President Trump said he’s prepared to spend \"a lot\" of money from his MAGA Inc. campaign account to support Republican candidates this midterm cycle. “Well, I’ve raised a lot, and nobody knows what it",
+      "link": "https://thehill.com/homenews/administration/6044628-trump-spending-maga-pac-midterms/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 22:44:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Interior Department outlines short-term plan for water cuts in California, Arizona, Nevada",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  DOI outlines short-term plan for water cuts in CA, AZ, NV The federal government has unveiled its short-term plans f",
+      "link": "https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 22:27:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Trump stumps for Darline Graham in South Carolina",
+      "desc": "President Trump will hit the campaign trail Friday in South Carolina to rally support for Sen. Darline Graham (R-S.C.) ahead of the state's Republican runoff next week, when she's set to face off agai",
+      "link": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 22:23:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump has mountain of Leavitt replacements, says Scott Jennings &#039;is good&#039;",
+      "desc": "President Trump said Friday he's never seen so many job applications in his life in response to the opening created by Karoline Leavitt's decision to leave her post as White House press secretary. Ask",
+      "link": "https://thehill.com/homenews/administration/6044575-leavitt-leaves-white-house/",
+      "date": "Aug 21, 2026",
+      "rawDate": "Fri, 21 Aug 2026 22:17:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pentagon fires Stars and Stripes editor in chief, publisher, reporter",
+      "desc": "The Pentagon fired the publisher, editor in chief and at least one reporter at Stars and Stripes, a historically independent military news outlet, Friday as the department has looked to reshape its co",
       "link": "https://thehill.com/policy/defense/6044565-pentagon-fires-stars-stripes-leaders/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 22:11:14 +0000",
@@ -83,33 +137,6 @@
       "tag": "safety"
     },
     {
-      "title": "Appeals court affirms top federal prosecutor in Albany &#039;not lawfully serving&#039;",
-      "desc": "A federal appeals court panel ruled Friday that John Sarcone was “not lawfully serving” as the top federal prosecutor in upstate New York when he subpoenaed New York Attorney General Letitia James's (",
-      "link": "https://thehill.com/regulation/court-battles/6044119-sarcone-albany-appeals-court-not-lawfully-serving/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 19:43:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "US ambassador to Belgium criticizes Ghent University’s suspension of professor over Jason Arday accusations",
-      "desc": "U.S. Ambassador to Belgium Bill White on Friday condemned the decision made by Ghent University to suspend researcher Nathan Cofnas over his plagiarism accusations against Jason Arday. White said on t",
-      "link": "https://thehill.com/policy/international/6044102-ghent-university-jason-arday-us-bill-white/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 19:40:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP backlash grows to Trump&#039;s beef price intervention",
-      "desc": "GOP lawmakers and cattle ranchers are immediately raising alarm bells over President Trump’s decision to temporarily lift certain tariffs on imported ground beef to mitigate the cost for American cons",
-      "link": "https://thehill.com/homenews/administration/6044174-gop-ranchers-protest-imports/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 19:33:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "UM-Flint to launch first-ever intercollegiate athletics program amid enrollment growth",
       "desc": "UM-Flint Chancellor Laurence B. Alexander announced plans for the new program Friday during his second annual State of University address.",
       "link": "https://www.mlive.com/news/flint/2026/08/um-flint-to-launch-first-ever-intercollegiate-athletics-program-amid-enrollment-growth.html",
@@ -133,8 +160,8 @@
       "link": "https://thehill.com/policy/healthcare/6044106-hhs-autism-missing-person-initiative/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 19:10:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Employer health costs projected to rise 9.5 percent",
@@ -380,18 +407,18 @@
       "tag": "technology"
     },
     {
-      "title": "B&amp;H Photo Promo Codes and Deals This August 2026",
-      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "desc": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Meta Quest Promo Codes and Coupons for August 2026",
-      "desc": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "title": "B&amp;H Photo Promo Codes and Deals This August 2026",
+      "desc": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 05:00:00 +0000",
       "source": "Wired",

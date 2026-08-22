@@ -1,8 +1,26 @@
 {
-  "generated": "2026-08-22T20:13:18.773Z",
+  "generated": "2026-08-22T21:13:35.118Z",
   "news": [
     {
-      "title": "President Trump: White House ballroom construction &#039;under budget&#039;, &#039;ahead of schedule&#039;",
+      "title": "U.S. Senate race heats up as Mike Rogers addresses state GOP convention crowd",
+      "desc": "Rogers, who represented the Howell area in Congress from 2001 to 2015, narrowly lost Michigan’s 2024 U.S. Senate race to Democrat Elissa Slotkin.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/us-senate-race-heats-up-as-mike-rogers-addresses-state-gop-convention-crowd.html",
+      "date": "Aug 22, 2026",
+      "rawDate": "Sat, 22 Aug 2026 21:07:13 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rising data center backlash shakes up midterm races",
+      "desc": "As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities.  Key swing state candidates are scrambling to",
+      "link": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
+      "date": "Aug 22, 2026",
+      "rawDate": "Sat, 22 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "President Trump: White House ballroom construction &#039;under budget,&#039; &#039;ahead of schedule&#039;",
       "desc": "President Trump touted progress on the White House ballroom project on Saturday morning, a day after the Supreme Court temporarily permitted construction work to continue.  “Tremendous work has been d",
       "link": "https://thehill.com/homenews/administration/6045262-trump-white-house-ballroom-update/",
       "date": "Aug 22, 2026",
@@ -90,15 +108,6 @@
       "rawDate": "Sat, 22 Aug 2026 15:38:14 +0000",
       "source": "The Hill Politics",
       "tag": "government"
-    },
-    {
-      "title": "&#8216;This is my place of business&#8217; — cakes and coffee in an age of rage",
-      "desc": "This coffee shop owner is probably within his rights. Yet it must also be acknowledged what Sheehan is doing is far more extreme than what Jack Phillips did in the Masterpiece Cakeshop case.",
-      "link": "https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views/",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 14:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
@@ -844,15 +853,6 @@
       "link": "https://thehill.com/policy/technology/6038415-openai-pauses-ai-training/",
       "date": "Aug 19, 2026",
       "rawDate": "Wed, 19 Aug 2026 15:22:18 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Majority &#039;more concerned than excited&#039; about increased AI use in daily life: Survey",
-      "desc": "More Americans are now growing concerned over artificial intelligence use in daily life, according to a recent survey. A new Pew Research survey released Tuesday showed 52 percent of respondents said ",
-      "link": "https://thehill.com/policy/technology/6038294-ai-concerns-job-displacement/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 15:15:36 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

@@ -1,8 +1,44 @@
 {
-  "generated": "2026-08-23T21:13:04.419Z",
+  "generated": "2026-08-23T22:13:06.730Z",
   "news": [
     {
-      "title": "Oz says MMR vaccine &#039;is not a lethal vaccine&#039;",
+      "title": "Donalds says he&#039;s &#039;working&#039; with Haitian leaders to stabilize government after end of TPS",
+      "desc": "Rep. Byron Donalds (R-Fla.), the GOP nominee for Florida governor, said Sunday he is “working” with leaders in Haiti to stabilize the country, after the temporary protected status (TPS) of more than 3",
+      "link": "https://thehill.com/homenews/state-watch/6046053-donalds-haiti-stabilization-efforts/",
+      "date": "Aug 23, 2026",
+      "rawDate": "Sun, 23 Aug 2026 21:47:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pence: Stopping ballistic attacks in Ukraine will &#039;take the last fighting tool out of Vladimir Putin&#039;s hands&#039;",
+      "desc": "Former Vice President Mike Pence and Ukrainian President Volodymyr Zelensky on Sunday stressed the importance of Ukraine having the capabilities to deter Russian ballistic missile strikes.  During an ",
+      "link": "https://thehill.com/policy/international/6045983-pence-zelensky-ukraine-defense/",
+      "date": "Aug 23, 2026",
+      "rawDate": "Sun, 23 Aug 2026 21:19:38 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "This week on the Hill: Georgia, South Carolina special elections draw focus",
+      "desc": "Lawmakers are fanning out across their districts and states for fundraisers, local events and campaign stops as the midterm elections heat up, while national party leaders are increasingly wading into",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6044652-georgia-south-carolina-special-election-trump-hush-money/",
+      "date": "Aug 23, 2026",
+      "rawDate": "Sun, 23 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pressure mounts on Ethics Committee to speed up misconduct probes as midterms loom",
+      "desc": "Democrats and Republicans are pressing the House Ethics Committee to move more quickly on investigations involving allegations of sexual misconduct or domestic abuse, as a string of high-profile cases",
+      "link": "https://thehill.com/homenews/house/6044441-house-ethics-misconduct-investigations-midterms/",
+      "date": "Aug 23, 2026",
+      "rawDate": "Sun, 23 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Oz: MMR vaccine &#039;is not a lethal vaccine&#039;",
       "desc": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), noted Sunday the measles, mumps and rubella (MMR) vaccine is not lethal, contradicting President Trump.  “The ",
       "link": "https://thehill.com/policy/healthcare/6045961-oz-denies-mmr-lethality/",
       "date": "Aug 23, 2026",
@@ -92,43 +128,7 @@
       "tag": "associations"
     },
     {
-      "title": "Van Hollen says he wouldn&#039;t reject DSA endorsement, but &#039;certainly not seeking&#039; one",
-      "desc": "Sen. Chris Van Hollen (D-Md.) on Sunday did not shoot down a possible endorsement from the Democratic Socialists of America (DSA), but the Democratic lawmaker added that he “certainly isn’t seeking it",
-      "link": "https://thehill.com/homenews/campaign/6045751-van-hollen-dsa-endorsement-stance/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 17:25:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Texas GOP rep on Talarico: &#039;His views would kill Texas&#039;",
-      "desc": "Texas Rep. Beth Van Duyne (R) said Sunday that Senate Democratic nominee James Talarico backs policies that would “kill” their state. During an interview on “The Hill Sunday,” Van Duyne said Talarico ",
-      "link": "https://thehill.com/homenews/campaign/6045731-van-duyne-attacks-talarico/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 17:00:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "I grew up on food stamps. That&#039;s why I support healthier SNAP standards",
-      "desc": "Moises Arjona, Jr. argues that SNAP policy should restrict the purchase of unhealthy foods to combat rising obesity and diabetes rates, despite a federal court ruling against such restrictions.",
-      "link": "https://thehill.com/homenews/6044770-fighting-diabetes-rio-grande-valley/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Johnson says Kushner &#039;not directly involved&#039; in Trump administration after reported meeting with Jeffries",
-      "desc": "Speaker Mike Johnson (R-La.) on Sunday downplayed the reported meeting between Jared Kushner and House Democratic Leader Hakeem Jeffries (D-N.Y.). “I don’t know what that’s about. I know Jared has int",
-      "link": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 16:05:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Pence says US must prepare for &#039;inevitable&#039; action against Iran",
+      "title": "Pence: US must prepare for &#039;inevitable&#039; action against Iran",
       "desc": "Former Vice President Mike Pence argued Sunday the U.S. military should prepare for further strikes against Iran, action he deemed “inevitable.” “It's going to be absolutely imperative that we keep th",
       "link": "https://thehill.com/homenews/administration/6045637-us-military-preparedness-iran/",
       "date": "Aug 23, 2026",
@@ -801,15 +801,6 @@
       "rawDate": "Thu, 20 Aug 2026 17:43:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Invited media, military members held at gunpoint by Space Force security",
-      "desc": "Five journalists and the two military members escorting them to an event at Vandenberg Space Force Base, Calif., this week were briefly detained at gunpoint by security police who believed they were g",
-      "link": "https://thehill.com/policy/defense/6041787-media-military-escort-detained-space-force-incident-california/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 17:15:46 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "FBI raided Swalwell&#039;s home, seized devices as part of sexual assault probe",

@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-24T10:29:18.210Z",
+  "generated": "2026-08-24T11:19:15.463Z",
   "news": [
+    {
+      "title": "Four states where Democrats are running away from their own brand",
+      "desc": "A party confident in its own name doesn't need to find ways not to use it.",
+      "link": "https://thehill.com/opinion/campaign/6044012-democrats-independent-senate-strategy-explained/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "These 29 Michigan employers were fined a combined $1.3M for 2025 workplace deaths",
+      "desc": "Three companies face fines exceeding $200,000 after workplace death investigations.",
+      "link": "https://www.mlive.com/data/2026/08/these-29-michigan-employers-were-fined-a-combined-13m-for-2025-workplace-deaths.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 10:45:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
     {
       "title": "‘Radical&#039; has become the political word of the summer",
       "desc": "As campaigns prepare for the crucial fall stretch ahead of the midterm elections, the word “radical” is being slung against candidates on both sides of the aisle.  It’s happening as both parties are p",
@@ -119,15 +137,6 @@
       "tag": "health"
     },
     {
-      "title": "Barrasso: Monday will be &#039;D-Day for the economy in Iran’",
-      "desc": "Senate Majority Whip John Barrasso (R-Wyo.) said that Monday will be “D-Day” for the economy in Iran as the Trump administration and U.S. military vow to exert maximum financial and militaristic press",
-      "link": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 20:23:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Barrasso: Monday will be &#8216;D-Day for the economy in Iran’",
       "desc": "Senate Majority Whip John Barrasso (R-Wyo.) said that Monday will be “D-Day” for the economy in Iran as the Trump administration and U.S. military vow to exert maximum financial and militaristic press",
       "link": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
@@ -153,15 +162,6 @@
       "rawDate": "Sun, 23 Aug 2026 19:46:05 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Carney says US ‘attacked’ Canada with tariffs",
-      "desc": "Canadian Prime Minister Mark Carney on Sunday said the U.S. attacked Ottawa with tariffs, escalating a trade war that will impact residents on both sides of the border. “In recent days, the United Sta",
-      "link": "https://thehill.com/policy/international/6045895-carney-denounces-us-tariffs/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 19:39:17 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
@@ -414,24 +414,6 @@
       "rawDate": "Sat, 22 Aug 2026 11:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
-      "desc": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
-      "desc": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
-      "link": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Army Secretary eyes exit around end of year amid Hegseth tensions",
@@ -786,7 +768,7 @@
     },
     {
       "title": "Another polling firm comes under fire for &#039;falsified data&#039; on Florida primary",
-      "desc": "A major polling tracker announced Thursday it would suspend its use of data from a pollster after it discovered evidence that the firm allegedly “falsified data” in a survey of candidates in Florida��",
+      "desc": "A major polling tracker announced Thursday it would suspend its use of data from a pollster after it discovered evidence that the firm allegedly “falsified data” in a survey of candidates in Florida’s",
       "link": "https://thehill.com/homenews/campaign/6042103-pollsters-under-fire-midterms-false-data-florida-gubernatorial-primary/",
       "date": "Aug 20, 2026",
       "rawDate": "Thu, 20 Aug 2026 19:10:10 +0000",

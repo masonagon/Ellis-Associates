@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-24T19:22:20.833Z",
+  "generated": "2026-08-24T20:20:08.395Z",
   "news": [
+    {
+      "title": "Flint man sentenced to 18+ years in federal prison for heroin case",
+      "desc": "Isiah Claiborne, 38, received a 224-month federal prison sentence.",
+      "link": "https://www.mlive.com/news/flint/2026/08/flint-man-sentenced-to-18-years-in-federal-prison-for-heroin-case.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 20:06:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Raskin: &#8216;Trump&#8217;s idiotic trade war killing American businesses&#8217;",
+      "desc": "Rep. Jamie Raskin (D-Md.) on Sunday went after President Trump for his recent tariffs on Canada. “Stop Trump’s idiotic trade war killing American businesses. Let peaceful commerce among the nations pr",
+      "link": "https://thehill.com/homenews/house/6047644-raskin-criticizes-trump-canada-tariffs/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 20:02:32 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Putin wants to mobilize at least 300,000 more troops to Russia-Ukraine war: Zelensky",
+      "desc": "Ukrainian President Volodymyr Zelensky said Sunday that Russian President Vladimir Putin plans to draft 300,000 more troops in his continued war effort against Ukraine. Zelensky told reporters Russia ",
+      "link": "https://thehill.com/policy/international/6047627-zelensky-calls-for-patriot-missiles/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 19:55:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "18-year-old charged with attempted murder in U.P. stabbing",
+      "desc": "He allegedly stabbed another teen during an argument.",
+      "link": "https://www.mlive.com/news/2026/08/18-year-old-charged-with-attempted-murder-in-up-stabbing.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 19:48:52 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "3rd person dies from flesh-eating bacteria in Florida",
+      "desc": "At least two deaths caused by Vibriosis have been reported each year in Florida since 2017.",
+      "link": "https://thehill.com/homenews/state-watch/6046435-3rd-death-florida-flesh-eating-bacteria-vibrio/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 19:25:38 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "Trump administration lays out new $103K fee proposal for H-1B visas",
       "desc": "The Department of Homeland Security (DHS) issued a new proposed rule for H-1B visas on Monday that would charge a $103,265 fee for all workers seeking to gain employment in the U.S. subject to the ann",
@@ -12,7 +57,7 @@
     },
     {
       "title": "US military launches first known drug boat strike in months, killing 2 ‘narco-terrorists’",
-      "desc": "The U.S. military launched its first known alleged drug boat strike in two months off the coast of Latin America on Sunday, killing two “narco-terrorists” in the eastern Pacific.  The U.S. Southern Co",
+      "desc": "The U.S. military launched its first known strike on an alleged drug boat in two months off the coast of Latin America on Sunday, killing two “narco-terrorists” in the eastern Pacific.  The U.S. South",
       "link": "https://thehill.com/policy/defense/6047529-us-military-drug-boat-strike/",
       "date": "Aug 24, 2026",
       "rawDate": "Mon, 24 Aug 2026 19:17:45 +0000",
@@ -90,15 +135,6 @@
       "rawDate": "Mon, 24 Aug 2026 18:21:07 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "House Democrat: Party &#039;does not stand for what Hasan Piker stands for&#039;",
-      "desc": "Democratic Rep. Jake Auchincloss (Mass.) on Sunday said the party does not stand for what Hasan Piker does and criticized his rhetoric as it relates to political violence.  “Piker's ideology, whether ",
-      "link": "https://thehill.com/homenews/house/6047202-auchincloss-condemns-hasan-piker/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 18:17:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
@@ -461,15 +497,6 @@
       "tag": "education"
     },
     {
-      "title": "A murdered college student, a boyfriend behind bars and a controversial cold case team",
-      "desc": "Roberto D'Avanzo was convicted in 2004 of orchestrating his girlfriend's 1980 murder despite being incarcerated at the time. The cold case team that investigated him is now under scrutiny for its meth",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/a-murdered-college-student-a-boyfriend-behind-bars-and-a-controversial-cold-case-team.html",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 11:15:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "In Michigan’s U.S. Senate race, it’s ‘Trump sock puppet’ versus ‘fringe extremist’",
       "desc": "Will Michigan voters support a progressive Muslim candidate who is the son of Egyptian immigrants or a former congressman who is backing an unpopular president",
       "link": "https://www.mlive.com/politics/2026/08/in-michigans-us-senate-race-its-trump-sock-puppet-versus-fringe-extremist.html",
@@ -549,15 +576,6 @@
       "rawDate": "Sat, 22 Aug 2026 17:13:45 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Police find suspect vehicle from Flint hit-and-run crash in Saginaw County",
-      "desc": "The suspect vehicle from an Aug. 9 hit-and-run crash in Flint has been located and impounded, police said.",
-      "link": "https://www.mlive.com/news/flint/2026/08/police-find-suspect-vehicle-from-flint-hit-and-run-crash-in-saginaw-county.html",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 16:28:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Cases of &#039;scromiting&#039; condition tied to cannabis use spike among teens, young adults: New study",
@@ -659,24 +677,6 @@
       "tag": "safety"
     },
     {
-      "title": "Murderer’s lawsuit against Trump over immigration status ‘frivolous,’ judge says",
-      "desc": "Brandon Ortiz-Vite, who killed his girlfriend Ruby Garcia and left her body on the side of a Grand Rapids highway, was referred to by President Trump during the 2024 presidential election as a dangero",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/08/murderers-lawsuit-against-trump-over-immigration-status-frivolous-judge-says.html",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 19:54:22 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Navy reportedly weighs naming aircraft carrier for Trump instead of Black Pearl Harbor hero",
-      "desc": "The name of Pearl Harbor hero Doris Miller could be removed from one of the U.S. Navy’s next aircraft carriers, with President Donald Trump’s name reportedly among those being considered as a replacem",
-      "link": "https://thehill.com/policy/defense/6044226-navy-doris-miller-trump-aircraft-carrier/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 19:52:45 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "UM-Flint to launch first-ever intercollegiate athletics program amid enrollment growth",
       "desc": "UM-Flint Chancellor Laurence B. Alexander announced plans for the new program Friday during his second annual State of University address.",
       "link": "https://www.mlive.com/news/flint/2026/08/um-flint-to-launch-first-ever-intercollegiate-athletics-program-amid-enrollment-growth.html",
@@ -750,7 +750,7 @@
     },
     {
       "title": "Gen Z turns against capitalism as DSA takes off",
-      "desc": "Only 9 percent of Americans younger than 30 have a “very positive” view of capitalism, according to a new CBS/YouGov poll.  That shows a stark generation between Generation Z and older generations. Th",
+      "desc": "Only 9 percent of Americans younger than 30 have a “very positive” view of capitalism, according to a new��CBS/YouGov poll.  That shows a stark generation between Generation Z and older generations. T",
       "link": "https://thehill.com/blogs/in-the-know/6042507-gen-z-capitalism-socialism-sports-betting-gender-political-divide/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 10:00:00 +0000",
@@ -839,15 +839,6 @@
       "tag": "health"
     },
     {
-      "title": "FBI raided Swalwell&#039;s home, seized devices as part of sexual assault probe",
-      "desc": "Correction: The FBI raid of Swalwell’s home was related to sexual assault allegations. An earlier story included incorrect information. Updated at 12:18 p.m. EDT The FBI reportedly raided former Rep. ",
-      "link": "https://thehill.com/homenews/house/6041674-fbi-raids-swalwell-home/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 17:00:35 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "16-year-old who died while swimming in Gun Lake identified as Portage student",
       "desc": "A 16-year-old Portage Northern student and clarinet player drowned in Gun Lake on Aug. 14.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/08/16-year-old-who-died-while-swimming-in-gun-lake-identified-as-portage-student.html",
@@ -862,15 +853,6 @@
       "link": "https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak/",
       "date": "Aug 20, 2026",
       "rawDate": "Thu, 20 Aug 2026 14:26:04 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Frozen blueberries recall categorized under FDA&#039;s highest Class I risk level",
-      "desc": "The recalled blueberries had been shipped to stores in eight states.",
-      "link": "https://thehill.com/policy/healthcare/6041007-blueberry-recall-fda-publix/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 14:22:43 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     },

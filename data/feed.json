@@ -1,9 +1,90 @@
 {
-  "generated": "2026-08-24T18:27:49.547Z",
+  "generated": "2026-08-24T19:22:20.833Z",
   "news": [
     {
+      "title": "Trump administration lays out new $103K fee proposal for H-1B visas",
+      "desc": "The Department of Homeland Security (DHS) issued a new proposed rule for H-1B visas on Monday that would charge a $103,265 fee for all workers seeking to gain employment in the U.S. subject to the ann",
+      "link": "https://thehill.com/homenews/administration/6047349-new-h1b-visa-cost-proposal/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 19:20:50 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "US military launches first known drug boat strike in months, killing 2 ‘narco-terrorists’",
+      "desc": "The U.S. military launched its first known alleged drug boat strike in two months off the coast of Latin America on Sunday, killing two “narco-terrorists” in the eastern Pacific.  The U.S. Southern Co",
+      "link": "https://thehill.com/policy/defense/6047529-us-military-drug-boat-strike/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 19:17:45 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Iran warns vessels of fines, detention for violating Strait of Hormuz rules",
+      "desc": "Iran&#8217;s Persian Gulf Strait Authority (PGSA) on Sunday warned that it will fine and detain commercial vessels accused of violating its protocols for passing through the Strait of Hormuz. The PGSA",
+      "link": "https://thehill.com/policy/international/6047363-pgsa-warns-vessel-fines/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 19:15:54 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Paramount, California attorney general scrap meeting over merger legal battle",
+      "desc": "Officials at Paramount and California Attorney General Rob Bonta&#8217;s (D) office canceled a meeting set for Monday as tensions hold between the two sides over a planned mega-merger the media conglo",
+      "link": "https://thehill.com/homenews/media/6047436-california-attorney-general-rob-bonta-paramount-meeting-cancelled-warner-bros-discovery-merger/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 19:06:32 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Flint council to reconsider $4.6 million in federal housing grants after failed vote",
+      "desc": "The council is set to vote Monday on a resolution authorizing city officials to enter contracts with agencies for various HUD funded initiatives.",
+      "link": "https://www.mlive.com/news/flint/2026/08/flint-council-to-reconsider-46-million-in-federal-housing-grants-after-failed-vote.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 18:58:24 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions",
+      "desc": "From unexpected babies to \"Ozempic teeth,\" the ultra-popular class of GLP-1 medications are turning out to have a few unanticipated side effects. Emerging research shows the drugs, which have proven e",
+      "link": "https://thehill.com/policy/healthcare/6045719-glp-1-drugs-unexpected-side-effect-addiction-help/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 18:53:46 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "El-Sayed weighs in on Piker controversy: &#039;Nobody speaks for this campaign besides me&#039;",
+      "desc": "Michigan Democratic Senate nominee Abdul El-Sayed weighed in on the blowback from far-left Twitch streamer Hasan Piker's comments about a House candidate in the Great Lakes State, stating \"nobody spea",
+      "link": "https://thehill.com/homenews/campaign/6047343-el-sayed-piker-controversy/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 18:44:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Alabama attorney general subpoenas OpenAI over Hugging Face incident",
+      "desc": "Alabama Attorney General Steve Marshall (R) issued a subpoena to OpenAI on Monday requesting the company respond to a multistate investigation into the handling of its model breach of technology start",
+      "link": "https://thehill.com/policy/technology/6047157-alabama-openai-hugging-face-hack/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 18:44:12 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Bessent warns Iran&#8217;s global partners to cut ties or face ‘Operation Economic Outcast’",
+      "desc": "Treasury Secretary Scott Bessent on Monday issued a global warning for countries to cut any financial ties with Iran or risk being cut off from the U.S. dollar system, launching a new economic pressur",
+      "link": "https://thehill.com/homenews/administration/6047366-iran-economy-sanctions-bessent-trump/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 18:30:32 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
       "title": "Marines cancel joint drill with South Korea",
-      "desc": "The United States canceled a large joint amphibious landing exercise between the Marine Corps and South Korean forces set for September due to resource constraints tied to the U.S.-Israeli war in Iran",
+      "desc": "The United States canceled a large joint amphibious landing exercise between the Marine Corps and South Korean forces set for September over resource constraints tied to the U.S.-Israeli war in Iran, ",
       "link": "https://thehill.com/policy/defense/6047313-us-marines-south-korea-ssangyong-exercises-canceled-resource-constraints-iran-war/",
       "date": "Aug 24, 2026",
       "rawDate": "Mon, 24 Aug 2026 18:21:07 +0000",
@@ -11,29 +92,11 @@
       "tag": "safety"
     },
     {
-      "title": "House Democrat: Party &#039;does not stand for what Hasan Piker stands for’",
-      "desc": "Democratic Rep. Jake Auchincloss (Mass.) on Sunday said the party does not stand for what Hasan Piker does and further negating his rhetoric as it relates to political violence.  “Piker's ideology, wh",
+      "title": "House Democrat: Party &#039;does not stand for what Hasan Piker stands for&#039;",
+      "desc": "Democratic Rep. Jake Auchincloss (Mass.) on Sunday said the party does not stand for what Hasan Piker does and criticized his rhetoric as it relates to political violence.  “Piker's ideology, whether ",
       "link": "https://thehill.com/homenews/house/6047202-auchincloss-condemns-hasan-piker/",
       "date": "Aug 24, 2026",
       "rawDate": "Mon, 24 Aug 2026 18:17:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Trump, McMahon spotlight school choice at Rose Garden event",
-      "desc": "President Trump and Education Secretary Linda McMahon will host students and parents at the White House on Monday for a Rose Garden event highlighting the administration’s school choice push as a new ",
-      "link": "https://thehill.com/video-clips/6047241-watch-live-trump-mcmahon-school-choice-rose-garden-white-house/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 18:05:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Collins blasts Trump’s Canada tariffs as a ‘mistake’",
-      "desc": "Sen. Susan Collins (R-Maine), who faces a tough reelection race this November, blasted President Trump’s latest tariff threats against Canada as a “mistake,” arguing that the United States and especia",
-      "link": "https://thehill.com/homenews/senate/6047210-collins-trump-canada-tariffs/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 17:55:29 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -47,24 +110,6 @@
       "tag": "technology"
     },
     {
-      "title": "Canada&#8217;s opposition leader demands Carney reconvene Parliament after US trade talks collapse",
-      "desc": "Canadian opposition leader Pierre Poilievre pressed his country’s prime minister, Mark Carney, to reconvene the Canadian Parliament amid trade tensions with the U.S. “As Canadians are vulnerable to an",
-      "link": "https://thehill.com/policy/international/6047179-poilievre-urges-carney-reconvene-parliament/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 17:34:24 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Vance defends Canada trade war in visit to Maine; Collins skips rally",
-      "desc": "BREWER, Maine — Vice President Vance rallied Republicans in Maine on Monday, defending the escalating trade war with Canada that has drawn criticism from Sen. Susan Collins (R), who skipped the event.",
-      "link": "https://thehill.com/homenews/administration/6047160-vance-defends-canada-tariffs-maine-collins-skips/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 17:27:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Muskegon’s Honey Girl granola offers homemade recipe on store shelves",
       "desc": "After two years in the food industry, Emily Principe had an interest in food processing with healthier ingredients, which inspired her to create Honey Girl granola.",
       "link": "https://www.mlive.com/news/muskegon/2026/08/muskegons-honey-girl-granola-offers-homemade-recipe-on-store-shelves.html",
@@ -72,15 +117,6 @@
       "rawDate": "Mon, 24 Aug 2026 17:23:01 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Oklahoma GOP gubernatorial candidate: Trump&#039;s &#039;wrong&#039; on tariffs, beef imports",
-      "desc": "Oklahoma Attorney General Gentner Drummond, a candidate in Tuesday’s GOP runoff for the Sooner State's governor, said on Sunday that President Trump is “wrong” on tariffs and his beef import plan. “I ",
-      "link": "https://thehill.com/homenews/campaign/6047107-drummond-critiques-trump-beef-tariffs/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 17:21:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Saginaw Township soccer coach accused of trying to get ‘sexy’ selfie from girl, 13",
@@ -108,24 +144,6 @@
       "rawDate": "Mon, 24 Aug 2026 17:00:48 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Watch live: Bessent unveils &#8216;economic D-day&#8217; sanctions on Iran",
-      "desc": "Treasury Secretary Scott Bessent on Monday afternoon will unveil new sanctions on Iran, escalating the Trump administration&#8217;s pressure on the Islamic Republic to negotiate a deal to end the conf",
-      "link": "https://thehill.com/video-clips/6046874-watch-live-scott-bessent-sanctions-iran-war/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 16:52:10 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "New York supermarkets sue over Mamdani&#8217;s municipal grocery stores",
-      "desc": "A group of grocers in New York City filed two separate lawsuits on Monday against Mayor Zohran Mamdani’s administration following the proposal of municipal grocery stores across the Big Apple. Plainti",
-      "link": "https://thehill.com/homenews/state-watch/6046875-nyc-grocers-sue-mamdani-administration/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 16:32:19 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "What to know about Trump’s tariffs on Canadian goods",
@@ -191,8 +209,8 @@
       "tag": "associations"
     },
     {
-      "title": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
-      "desc": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war.  “What was billed as a two-week operatio",
+      "title": "Democrats demand Iran war cost details from Trump, Hegseth",
+      "desc": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war.  “What was billed as a two-week operatio",
       "link": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
       "date": "Aug 24, 2026",
       "rawDate": "Mon, 24 Aug 2026 15:15:30 +0000",
@@ -713,15 +731,6 @@
       "tag": "education"
     },
     {
-      "title": "Pentagon says more than 750 US service members wounded in Iran war",
-      "desc": "The Pentagon said more than 750 U.S. service members have been wounded since the war against Iran began in late February.  The department updated its war casualty database this week with another 50 in",
-      "link": "https://thehill.com/policy/defense/6043630-trump-economic-warfare-iran/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 15:59:04 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Garber High School ranked No. 1 in Bay County in U.S. News best high schools list",
       "desc": "Garber placed in the top 28% of public high schools nationally in the 2026-2027 rankings.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/garber-high-school-ranked-no-1-in-bay-county-in-us-news-best-high-schools-list.html",
@@ -848,15 +857,6 @@
       "tag": "education"
     },
     {
-      "title": "Hutchinson on NRSC data centers memo: &#039;Alarmist&#039; tone &#039;concerning&#039;",
-      "desc": "Former Arkansas Gov. Asa Hutchinson (R) called a recent private memo from the National Republican Senatorial Committee (NRSC) about data centers “alarmist in tone.” Appearing on NewsNation, Hutchinson",
-      "link": "https://thehill.com/homenews/campaign/6041408-hutchinson-nrsc-data-centers-memo/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 15:26:21 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Salmonella infections climb to 431 cases across multiple states: CDC",
       "desc": "The Centers for Disease Control and Prevention (CDC) said Wednesday that the salmonella outbreak linked to consumption of certain kinds of jalapeno peppers has grown to 431 cases across 32 states. The",
       "link": "https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak/",
@@ -884,15 +884,6 @@
       "tag": "education"
     },
     {
-      "title": "Cassidy criticizes Trump&#039;s FDA pick, says her role in vaccine order is &#039;almost disqualifying&#039;",
-      "desc": "Sen. Bill Cassidy (R-La.), who chairs the Senate Health Committee, laid out his concerns over President Trump’s choice to tap Dr. Heidi Overton to lead the Food and Drug Administration (FDA), saying h",
-      "link": "https://thehill.com/homenews/senate/6039997-bill-cassidy-heidi-overton-fda-vaccines/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 22:06:45 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Carman-Ainsworth schools delay start of year due to construction setbacks",
       "desc": "Carman-Ainsworth schools will start the 2026-27 year on Sept. 9 after construction issues.",
       "link": "https://www.mlive.com/news/flint/2026/08/carman-ainsworth-schools-delay-start-of-year-due-to-construction-setbacks.html",
@@ -900,15 +891,6 @@
       "rawDate": "Wed, 19 Aug 2026 22:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Fervor over data centers fires up competitive Ohio Senate race",
-      "desc": "One of the most competitive Senate races this year is pivoting around data centers.  The contest in Ohio between incumbent Sen. Jon Husted (R-Ohio) and former Sen. Sherrod Brown (D-Ohio) is a key exam",
-      "link": "https://thehill.com/homenews/campaign/6039515-ohio-senate-race-data-centers-husted-brown/",
-      "date": "Aug 19, 2026",
-      "rawDate": "Wed, 19 Aug 2026 19:17:44 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     }
   ]
 }

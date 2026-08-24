@@ -1,6 +1,69 @@
 {
-  "generated": "2026-08-24T14:33:21.867Z",
+  "generated": "2026-08-24T15:31:14.850Z",
   "news": [
+    {
+      "title": "Major retailer closing more stores while opening discount options",
+      "desc": "The Nordstrom company, which has four types of retail storefronts, is currently juggling its locations and inventory to better serve customers and increase profits.",
+      "link": "https://www.mlive.com/business/2026/08/major-retailer-closing-more-stores-while-opening-discount-options-heres-whats-happening.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 15:20:28 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
+      "desc": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war.  “What was billed as a two-week operatio",
+      "link": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 15:15:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Tim Scott &#039;very confident&#039; Darline Graham will win runoff",
+      "desc": "Sen. Tim Scott (R-S.C.) said Sunday he is “very confident” in Sen. Darline Graham (R-S.C.) winning her GOP primary runoff for Senate in the Palmetto State this week. During an appearance Sunday on “Me",
+      "link": "https://thehill.com/homenews/campaign/6046767-tim-scott-darline-graham-south-carolina-republican-primary-runoff/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 15:03:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Forget the recent socialist shift — Democrats are ready for an FDR revival",
+      "desc": "By 2028, most Americans will be ready to shift their attention to someone other than Trump. And the candidate who disavows the DSA and embraces the muscular, practical liberalism of FDR is the one who",
+      "link": "https://thehill.com/opinion/campaign/6043587-democrats-reject-dsa-agenda/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw parolee convicted of killing California travel nurse professes innocence at sentencing",
+      "desc": "A jury convicted Demetrius B. \"Chuck\" Williams of first-degree murder in the shooting death of travel nurse Eliza Vega-Aparicio, who was staying at his ex-girlfriend's sister's home.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-parolee-convicted-of-killing-california-travel-nurse-professes-innocence-at-sentencing.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 14:55:25 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Wall Street Journal blasts Trump for the ‘dumbest’ move yet",
+      "desc": "The board concluded by suggesting the tariffs will hurt Republicans in the midterm elections.",
+      "link": "https://www.mlive.com/politics/2026/08/wall-street-journal-blasts-trump-for-the-dumbest-move-yet.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 14:40:31 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fetal personhood and the anti-freedom Republicans",
+      "desc": "The consequences of politicians defining a fertilized egg as a legal person deserving the full protection of the law are far-reaching.",
+      "link": "https://thehill.com/opinion/campaign/6043531-fetal-personhood-and-the-anti-freedom-republicans/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 14:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "18-year-old charged with murder for fatal Grand Rapids crash in May",
       "desc": "Grand Rapids police said an 18-year-old man was arrested in Iowa. HIs arraignment is pending extradition.",
@@ -56,33 +119,6 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Trump administration ramps up Iran pressure as ‘economic D-Day’ arrives",
-      "desc": "The Trump administration is ramping up its pressure campaign against Iran on Monday, with Treasury Secretary Scott Bessent set to unveil new sanctions in what has been dubbed an “economic D-Day.&#8221",
-      "link": "https://thehill.com/homenews/administration/6046040-live-updates-donald-trump-scott-bessent-iran-war-sanctions-tariffs/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 12:33:48 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "The Senate races that will define the Democratic Party",
-      "desc": "Primaries have trended progressive, and whether that proves to be a winning formula at the statewide level will be among the defining questions of this cycle.",
-      "link": "https://thehill.com/opinion/campaign/6043983-alaska-senate-peltola-sulivan/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Is it finally time for a female president?",
-      "desc": "The next presidential election is more than two years away, but several women are already mentioned as possible candidates.",
-      "link": "https://thehill.com/opinion/campaign/6044456-redefining-presidential-strength/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Bessent doubles down on Trump warnings: &#039;Entering the endgame&#039; on Iran",
       "desc": "Treasury Secretary Scott Bessent on Sunday previewed the Trump administration’s economic offensive against Iran, set to begin Monday. Echoing President Trump’s rhetoric on the military operations agai",
       "link": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
@@ -90,15 +126,6 @@
       "rawDate": "Mon, 24 Aug 2026 11:54:40 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Bessent doubles down on Trump warnings: &#8216;Entering the endgame&#8217; on Iran",
-      "desc": "Treasury Secretary Scott Bessent on Sunday previewed the Trump administration’s economic offensive against Iran, set to begin Monday. Echoing President Trump’s rhetoric on the military operations agai",
-      "link": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 11:54:40 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "These 29 Michigan employers were fined a combined $1.3M for 2025 workplace deaths",
@@ -479,15 +506,6 @@
       "tag": "safety"
     },
     {
-      "title": "Teen in custody after stabbing in Upper Peninsula",
-      "desc": "An 18-year-old was arrested after allegedly stabbing another teen following a verbal altercation in Mackinac County.",
-      "link": "https://www.mlive.com/news/2026/08/teen-in-custody-after-stabbing-in-upper-peninsula.html",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 21:55:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and salmonella",
       "desc": "The Centers for Disease Control and Prevention (CDC) said Friday that alfalfa sprouts are linked to a current E. coli and salmonella outbreak. The agency has tied several foodborne illness cases to th",
       "link": "https://thehill.com/policy/healthcare/6044230-cdc-ecoli-salmonella-outbreak-alfalfa-sprouts/",
@@ -686,15 +704,6 @@
       "tag": "technology"
     },
     {
-      "title": "Army plans to phase out drone unit championed by sacked generals",
-      "desc": "The U.S. Army plans to phase out a drone unit that was studying and incorporating lessons from foreign wars, including the use of uncrewed systems in the Russia-Ukraine war, an Army official confirmed",
-      "link": "https://thehill.com/policy/defense/6042667-us-army-phasing-out-drone-unit/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 23:05:52 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Mike Rogers calls for 1-year data center moratorium",
       "desc": "Former Rep. Mike Rogers, the GOP nominee in a critical Senate battle in Michigan, on Thursday called for a one-year pause on data center construction, the latest sign of the political toxicity of the ",
       "link": "https://thehill.com/policy/technology/6042582-ai-infrastructure-political-toxicity-midterms/",
@@ -736,15 +745,6 @@
       "link": "https://www.mlive.com/politics/2026/08/mitch-mcconnells-gop-colleague-questions-need-for-more-health-details-happens-to-all-of-us.html",
       "date": "Aug 20, 2026",
       "rawDate": "Thu, 20 Aug 2026 19:52:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michigan Dems blame federal policies for SK Siltron plant closure",
-      "desc": "SK Siltron CSS is winding down its silicon carbide wafer facility with most employee terminations set for mid-September.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/michigan-dems-blame-federal-policies-for-sk-siltron-plant-closure.html",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 19:45:24 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },

@@ -1,6 +1,33 @@
 {
-  "generated": "2026-08-24T13:42:55.023Z",
+  "generated": "2026-08-24T14:33:21.867Z",
   "news": [
+    {
+      "title": "18-year-old charged with murder for fatal Grand Rapids crash in May",
+      "desc": "Grand Rapids police said an 18-year-old man was arrested in Iowa. HIs arraignment is pending extradition.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/18-year-old-charged-with-murder-for-fatal-grand-rapids-crash-in-may.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 14:26:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Debunked? Stunning secret may be at odds with Trump’s White House ballroom claim",
+      "desc": "Trump last week pointed to the \"military component\" of the ballroom.",
+      "link": "https://www.mlive.com/politics/2026/08/debunked-stunning-secret-may-be-at-odds-with-trumps-white-house-ballroom-claim.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 13:50:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Church bus crash puts 2 in hospital, 6 others evaluated for injuries",
+      "desc": "A red Chevrolet Malibu struck a church bus in Flint, leaving two women hospitalized and six others treated for minor injuries.",
+      "link": "https://www.mlive.com/news/flint/2026/08/church-bus-crash-puts-2-in-hospital-6-others-evaluated-for-injuries.html",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 13:45:46 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Driver arrested after ORV rollover kills 17-year-old",
       "desc": "Police said the teen was one of six people riding in a side-by-side when it rolled over in Oceana County.",
@@ -12,7 +39,7 @@
     },
     {
       "title": "76 percent in Canada say ending US trade negotiations was right call: Survey",
-      "desc": "Over three-quarters of Canadians believe that their country ending trade negotiations with the U.S. was the right call, according to a new poll. In the Angus Reid Institute poll, 76 percent of respond",
+      "desc": "More than three-quarters of Canadians believe their country ending trade negotiations with the U.S. was the right call, according to a new poll. In the Angus Reid Institute poll, 76 percent of respond",
       "link": "https://thehill.com/policy/international/6046482-canadians-support-ending-us-trade-talks/",
       "date": "Aug 24, 2026",
       "rawDate": "Mon, 24 Aug 2026 13:21:41 +0000",
@@ -72,33 +99,6 @@
       "rawDate": "Mon, 24 Aug 2026 11:54:40 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Congress must now do its part on Medicare fraud",
-      "desc": "Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations from undoing the current administration's progress.",
-      "link": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 11:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Canadian anger reaches fever pitch over Trump’s tariff war",
-      "desc": "In today's issue: ▪ Canada pledges tit-for-tat tariffs  ▪ Jeffries, Kushner meet ahead of midterms  ▪ Economic ‘D-Day’ for Iran  ▪ House Ethics Committee under pressure  Canada’s political leaders hav",
-      "link": "https://thehill.com/newsletters/morning-report/6046357-trump-tariff-war-canada-anger/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 11:15:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Four states where Democrats are running away from their own brand",
-      "desc": "A party confident in its own name doesn't need to find ways not to use it.",
-      "link": "https://thehill.com/opinion/campaign/6044012-democrats-independent-senate-strategy-explained/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "These 29 Michigan employers were fined a combined $1.3M for 2025 workplace deaths",
@@ -542,15 +542,6 @@
       "tag": "education"
     },
     {
-      "title": "Vehicle crashes head-on with police cruiser, ending pursuit",
-      "desc": "Two people were arrested.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/vehicle-crashes-head-on-with-police-cruiser-ending-pursuit.html",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 19:25:07 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "HHS launches autistic missing persons alert initiative",
       "desc": "The Department of Health and Human Services (HHS) announced on Friday a new federal initiative to improve preparedness and response efforts when individuals with autism are reported missing.  The agen",
       "link": "https://thehill.com/policy/healthcare/6044106-hhs-autism-missing-person-initiative/",
@@ -603,15 +594,6 @@
       "rawDate": "Fri, 21 Aug 2026 18:33:07 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Retired Flint police K9 Cayenne dies at nearly 11 years old",
-      "desc": "Flint Police K9 Cayenne, who served from 2017 to 2025, passed away on Aug. 19.",
-      "link": "https://www.mlive.com/news/flint/2026/08/retired-flint-police-k9-cayenne-dies-at-nearly-11-years-old.html",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 17:57:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Pentagon says more than 750 US service members wounded in Iran war",
@@ -774,15 +756,6 @@
       "rawDate": "Thu, 20 Aug 2026 19:10:10 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "3 things to know about Michigan Democratic lieutenant governor hopeful Winnie Brinks",
-      "desc": "Here’s three things you should know about the Senate Majority Leader from Grand Rapids political background and her vision for the state.",
-      "link": "https://www.mlive.com/politics/2026/08/3-things-to-know-about-michigan-democratic-lieutenant-governor-hopeful-winnie-brinks.html",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 18:56:35 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Career education millage renewal heads to Saginaw County voters in November",

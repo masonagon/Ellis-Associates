@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-24T20:20:08.395Z",
+  "generated": "2026-08-24T21:20:41.156Z",
   "news": [
+    {
+      "title": "Senate Democrats call for hearing on Iran war&#039;s strain on troops",
+      "desc": "Nearly all Senate Armed Services Committee minority members on Monday called on the panel’s head to hold a hearing with Pentagon leadership on the impact that extended deployments in support of the Ir",
+      "link": "https://thehill.com/policy/defense/6047832-iran-war-troop-hearing-uss-lincoln/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 21:18:21 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Supreme Court rules blue states sued too early over Trump’s mail voting order",
+      "desc": "The Supreme Court lifted a judge’s block on President Trump’s executive order adding to mail voting requirements, removing a key roadblock that prevented the policy from going into effect for the midt",
+      "link": "https://thehill.com/regulation/court-battles/6047813-supreme-court-trump-executive-order-mail-voting/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 21:11:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hegseth says economic pressure hurts Iranian regime &#039;the most&#039;",
+      "desc": "Defense Secretary Pete Hegseth said on Monday that the Trump administration’s economic pressure on Iran is hurting the regime “the most right now,” but did not rule out the U.S. military resuming airs",
+      "link": "https://thehill.com/policy/defense/6047724-operation-economic-outcast-tehran-pressure/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 20:41:14 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Abbott tells judge Minnesota&#039;s ICE officer extradition lawsuit ‘doomed to fail’",
+      "desc": "Texas Gov. Greg Abbott (R) asserted to a judge Monday that he’s not obligated to hand over an Immigration and Customs Enforcement (ICE) officer charged by Minnesota authorities with shooting a Venezue",
+      "link": "https://thehill.com/regulation/court-battles/6047665-greg-abbott-ice-agent-extradition/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 20:29:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Nevada sues Trump administration over Colorado River water use cuts",
+      "desc": "The state of Nevada is suing the federal government over its plans for Colorado River water use reductions, saying its cuts are too steep. Nevada sued Monday after the federal government finalized its",
+      "link": "https://thehill.com/policy/energy-environment/6047717-nevada-colorado-river-plan-lawsuit/",
+      "date": "Aug 24, 2026",
+      "rawDate": "Mon, 24 Aug 2026 20:19:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Flint man sentenced to 18+ years in federal prison for heroin case",
       "desc": "Isiah Claiborne, 38, received a 224-month federal prison sentence.",
@@ -48,7 +93,7 @@
     },
     {
       "title": "Trump administration lays out new $103K fee proposal for H-1B visas",
-      "desc": "The Department of Homeland Security (DHS) issued a new proposed rule for H-1B visas on Monday that would charge a $103,265 fee for all workers seeking to gain employment in the U.S. subject to the ann",
+      "desc": "The Department of Homeland Security (DHS) issued a new proposed rule for H-1B visas on Monday that would charge a $103,265 fee for all workers seeking to gain employment in the U.S. who are subject to",
       "link": "https://thehill.com/homenews/administration/6047349-new-h1b-visa-cost-proposal/",
       "date": "Aug 24, 2026",
       "rawDate": "Mon, 24 Aug 2026 19:20:50 +0000",
@@ -101,15 +146,6 @@
       "tag": "health"
     },
     {
-      "title": "El-Sayed weighs in on Piker controversy: &#039;Nobody speaks for this campaign besides me&#039;",
-      "desc": "Michigan Democratic Senate nominee Abdul El-Sayed weighed in on the blowback from far-left Twitch streamer Hasan Piker's comments about a House candidate in the Great Lakes State, stating \"nobody spea",
-      "link": "https://thehill.com/homenews/campaign/6047343-el-sayed-piker-controversy/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 18:44:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Alabama attorney general subpoenas OpenAI over Hugging Face incident",
       "desc": "Alabama Attorney General Steve Marshall (R) issued a subpoena to OpenAI on Monday requesting the company respond to a multistate investigation into the handling of its model breach of technology start",
       "link": "https://thehill.com/policy/technology/6047157-alabama-openai-hugging-face-hack/",
@@ -117,15 +153,6 @@
       "rawDate": "Mon, 24 Aug 2026 18:44:12 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Bessent warns Iran&#8217;s global partners to cut ties or face ‘Operation Economic Outcast’",
-      "desc": "Treasury Secretary Scott Bessent on Monday issued a global warning for countries to cut any financial ties with Iran or risk being cut off from the U.S. dollar system, launching a new economic pressur",
-      "link": "https://thehill.com/homenews/administration/6047366-iran-economy-sanctions-bessent-trump/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 18:30:32 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Marines cancel joint drill with South Korea",
@@ -524,24 +551,6 @@
       "tag": "safety"
     },
     {
-      "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-      "desc": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
-      "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Is Expensive Bottled Water Actually Better for You?",
-      "desc": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "NAACP slams Navy&#039;s reported talks to swap war hero&#039;s name on carrier with Trump&#039;s",
       "desc": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier — currently named after a Black World War II war hero — and had considered Presid",
       "link": "https://thehill.com/policy/defense/6045429-naacp-navy-war-hero-trump-swap/",
@@ -596,15 +605,6 @@
       "tag": "health"
     },
     {
-      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
-      "desc": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
-      "link": "https://www.wired.com/review/saily-ultra-esim/",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 13:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Flint council approves over $7M for Berston Field House expansion",
       "desc": "The contribution will support the first phase of the project, which includes the addition of new athletic fields and courts.",
       "link": "https://www.mlive.com/news/flint/2026/08/flint-council-approves-over-7m-for-berston-field-house-expansion.html",
@@ -641,15 +641,6 @@
       "tag": "technology"
     },
     {
-      "title": "Pentagon fires Stars and Stripes editor in chief, publisher, reporter",
-      "desc": "The Pentagon fired the publisher, editor in chief and at least one reporter at Stars and Stripes, a historically independent military news outlet, Friday as the department has looked to reshape its co",
-      "link": "https://thehill.com/policy/defense/6044565-pentagon-fires-stars-stripes-leaders/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 22:11:14 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and salmonella",
       "desc": "The Centers for Disease Control and Prevention (CDC) said Friday that alfalfa sprouts are linked to a current E. coli and salmonella outbreak. The agency has tied several foodborne illness cases to th",
       "link": "https://thehill.com/policy/healthcare/6044230-cdc-ecoli-salmonella-outbreak-alfalfa-sprouts/",
@@ -666,15 +657,6 @@
       "rawDate": "Fri, 21 Aug 2026 20:51:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Reports of sexual assault in military dropped for third year in a row: Pentagon",
-      "desc": "Reports of sexual assault in the U.S. military dropped for the third year in a row in 2025, and the Pentagon received a slightly lower number of sexual harassment complaints last year compared with 20",
-      "link": "https://thehill.com/policy/defense/6044400-us-military-sexual-assault-reports-drop/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 20:46:33 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "UM-Flint to launch first-ever intercollegiate athletics program amid enrollment growth",
@@ -750,7 +732,7 @@
     },
     {
       "title": "Gen Z turns against capitalism as DSA takes off",
-      "desc": "Only 9 percent of Americans younger than 30 have a “very positive” view of capitalism, according to a new��CBS/YouGov poll.  That shows a stark generation between Generation Z and older generations. T",
+      "desc": "Only 9 percent of Americans younger than 30 have a “very positive” view of capitalism, according to a new CBS/YouGov poll.  That shows a stark generation between Generation Z and older generations. Th",
       "link": "https://thehill.com/blogs/in-the-know/6042507-gen-z-capitalism-socialism-sports-betting-gender-political-divide/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 10:00:00 +0000",

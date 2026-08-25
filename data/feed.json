@@ -1,9 +1,90 @@
 {
-  "generated": "2026-08-25T14:35:45.085Z",
+  "generated": "2026-08-25T15:34:20.976Z",
   "news": [
     {
+      "title": "Michigan man, 29, killed by deputy after 2-hour police chase",
+      "desc": "Deputies pursued the man for two hours before the shooting.",
+      "link": "https://www.mlive.com/news/2026/08/michigan-man-29-killed-by-deputy-after-2-hour-police-chase.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 15:29:02 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democratic governors react to Supreme Court ruling on mail-in voting: &#039;States run elections, not Donald Trump&#039;",
+      "desc": "Democratic governors are expressing their dissatisfaction with the Supreme Court’s Monday decision to lift a lower court’s block on the Trump administration’s executive order restricting mail-in ballo",
+      "link": "https://thehill.com/homenews/campaign/6049176-trump-mail-in-voting-order-scotus-ruling/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 15:22:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Top Republican, a Trump ally, won’t bow yet to JD Vance in 2028",
+      "desc": "The senator also did not rule out running in 2028.",
+      "link": "https://www.mlive.com/politics/2026/08/top-republican-a-trump-ally-wont-bow-yet-to-jd-vance-in-2028.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 15:22:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms",
+      "desc": "The Supreme Court has removed one roadblock from the Trump administration’s attempts to impose severe restrictions on voting.",
+      "link": "https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 15:16:36 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Man charged with forging Chief Justice John Roberts’s signature, impersonating NSA agent",
+      "desc": "A man is facing federal charges over allegations that he impersonated a federal officer on several occasions and forged Chief Justice John Roberts’s signature on fabricated Indiana court documents. Jo",
+      "link": "https://thehill.com/regulation/court-battles/6049130-federal-charges-forgery-john-roberts-nsa-impersonation/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 15:16:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Graham, Norman tied in South Carolina Senate poll",
+      "desc": "Sen. Darline Graham and Rep. Ralph Norman are neck and neck in a new survey, as voting concludes Tuesday to determine which Republican will be on the ballot in South Carolina's Senate race. The poll, ",
+      "link": "https://thehill.com/homenews/campaign/6049032-graham-norman-sc-senate-runoff/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 15:11:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "States can build America&#039;s affordable energy future",
+      "desc": "Former Washington Gov. Jay Inslee argues that state governments must leverage their regulatory authority to advance affordable clean energy initiatives to counter the Trump administration's federal op",
+      "link": "https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-transition/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flint man gets more prison time for dragging 2 Bay County deputies during trading card theft",
+      "desc": "This is the sixth time this year a Michigan judge has sentenced Choya D. Horton, 46, to prison.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/flint-man-gets-more-prison-time-for-dragging-2-bay-county-deputies-during-trading-card-theft.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:42:43 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Cruz says GOP hasn&#039;t coalesced behind Vance for 2028 nomination: &#039;Oh, no&#039;",
+      "desc": "Sen. Ted Cruz (R-Texas), who ran for president in 2016 and is considered a possible future contender for the White House, says the Republican Party has not coalesced around Vice President Vance as its",
+      "link": "https://thehill.com/homenews/senate/6049018-cruz-vance-2028-presidential-nomination/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:38:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "2 measles-related deaths reported in Pennsylvania",
-      "desc": "Two individuals have died due to measles in Pennsylvania, the state’s Department of Health said Tuesday. Both individuals, who were unvaccinated, lived in Lancaster County. The state health department",
+      "desc": "Two individuals have died from measles in Pennsylvania, the state’s Department of Health said Tuesday. Both individuals, who were unvaccinated, lived in Lancaster County. The state health department s",
       "link": "https://thehill.com/policy/healthcare/6048989-pennsylvania-measles-deaths-unvaccinated/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 14:35:23 +0000",
@@ -12,7 +93,7 @@
     },
     {
       "title": "Fetterman viewed more favorably than GOP senator by Pennsylvania Republicans: Poll",
-      "desc": "Sen. John Fetterman (Pa.), the centrist Democrat who frequently criticizes his party for catering to its left-wing base, is more popular among Republicans in Pennsylvania than the state’s GOP senator,",
+      "desc": "Sen. John Fetterman (Pa.), a centrist Democrat who frequently criticizes his party for catering to its left-wing base, is more popular among Republicans in Pennsylvania than the state’s GOP senator, D",
       "link": "https://thehill.com/homenews/senate/6048811-fetterman-mccormick-pennsylvania-republican-voters/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 14:28:21 +0000",
@@ -30,7 +111,7 @@
     },
     {
       "title": "DOJ asks judge to lift nationwide block on mail-in voting restrictions",
-      "desc": "The Justice Department (DOJ) asked a federal judge in Massachusetts late Monday to lift a nationwide block on mail-in voting restrictions ahead of the November midterms. The DOJ wrote in a late-night ",
+      "desc": "The Department of Justice (DOJ) asked a federal judge in Massachusetts late Monday to lift a nationwide block on mail-in voting restrictions ahead of the November midterms. The DOJ wrote in a late-nig",
       "link": "https://thehill.com/regulation/court-battles/6048768-doj-request-lift-nationwide-block-restrictions-mail-in-ballots/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 14:16:10 +0000",
@@ -101,7 +182,7 @@
       "tag": "safety"
     },
     {
-      "title": "What is the U.S. reproductive tourism industry really selling?",
+      "title": "What is the US reproductive tourism industry really selling?",
       "desc": "So, is the U.S. a nation that helps its people bear children, or one that designs children and sells them to any willing buyer?",
       "link": "https://thehill.com/opinion/international/6046000-restrict-us-reproductive-tourism/",
       "date": "Aug 25, 2026",
@@ -119,15 +200,6 @@
       "tag": "associations"
     },
     {
-      "title": "Live updates: Trump taunts Canada over Lake Ontario&#039;s name; SC voters set to pick Graham or Norman",
-      "desc": "Tuesday's South Carolina Republican Senate runoff election between Sen. Darline Graham and Rep. Ralph Norman will test President Trump's endorsement power. MAGA Inc., a super PAC that backs Trump, has",
-      "link": "https://thehill.com/homenews/administration/6048263-live-updates-trump-canada-south-carolina-oklahoma-primaries/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 13:03:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Claim deadline nears for $68 million Google Assistant settlement",
       "desc": "There are just days remaining to submit a claim form.",
       "link": "https://thehill.com/business/6048533-claim-deadline-nears-for-68-million-google-assistant-settlement/",
@@ -137,15 +209,6 @@
       "tag": "technology"
     },
     {
-      "title": "Billionaire investor: US Treasury buybacks hurt credibility",
-      "desc": "Billionaire investor Stanley Druckenmiller on Monday criticized the Treasury Department’s buyback expansion plan, arguing it represents an artificial attempt to interfere in the bond market.  In a Wal",
-      "link": "https://thehill.com/business/6048451-us-treasury-buybacks-hurting-us-economy-investor-says/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 13:00:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
       "desc": "Apple’s Mac Mini and Mac Studio have been tough to buy for months, but updated versions have arrived. Both include new chips optimized for AI, with the M6 Mac Mini getting a $200 price bump.",
       "link": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
@@ -153,24 +216,6 @@
       "rawDate": "Tue, 25 Aug 2026 13:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Trump: French language not a factor in Canada trade talks",
-      "desc": "President Trump said Tuesday that Canada’s French language requirements are not a factor in the escalating trade tensions between Washington and Ottawa, contradicting Canadian Prime Minister Mark Carn",
-      "link": "https://thehill.com/policy/international/6048489-donald-trump-mark-carney-us-canada-trade-war-talks-french/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 12:47:14 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Trump eyes changing Lake Ontario name amid trade war with Canada",
-      "desc": "President Trump said Tuesday his administration is considering changing the name of Lake Ontario to Lake America, amid the trade war between the U.S. and Canada. “The United States is giving serious c",
-      "link": "https://thehill.com/homenews/administration/6048425-donald-trump-mark-carney-us-canada-trade-war-lake-ontario/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 12:27:20 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Skelton triple homicide case: 5 takeaways from first day of hearing",
@@ -533,15 +578,6 @@
       "tag": "safety"
     },
     {
-      "title": "Saginaw parolee convicted of killing California travel nurse professes innocence at sentencing",
-      "desc": "A jury convicted Demetrius B. \"Chuck\" Williams of first-degree murder in the shooting death of travel nurse Eliza Vega-Aparicio, who was staying at his ex-girlfriend's sister's home.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-parolee-convicted-of-killing-california-travel-nurse-professes-innocence-at-sentencing.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 14:55:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Wall Street Journal blasts Trump for the ‘dumbest’ move yet",
       "desc": "The board concluded by suggesting the tariffs will hurt Republicans in the midterm elections.",
       "link": "https://www.mlive.com/politics/2026/08/wall-street-journal-blasts-trump-for-the-dumbest-move-yet.html",
@@ -549,15 +585,6 @@
       "rawDate": "Mon, 24 Aug 2026 14:40:31 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "18-year-old charged with murder for fatal Grand Rapids crash in May",
-      "desc": "Grand Rapids police said an 18-year-old man was arrested in Iowa. HIs arraignment is pending extradition.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/08/18-year-old-charged-with-murder-for-fatal-grand-rapids-crash-in-may.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 14:26:01 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Debunked? Stunning secret may be at odds with Trump’s White House ballroom claim",
@@ -675,15 +702,6 @@
       "rawDate": "Sun, 23 Aug 2026 12:18:50 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "In Michigan’s U.S. Senate race, it’s ‘Trump sock puppet’ versus ‘fringe extremist’",
-      "desc": "Will Michigan voters support a progressive Muslim candidate who is the son of Egyptian immigrants or a former congressman who is backing an unpopular president",
-      "link": "https://www.mlive.com/politics/2026/08/in-michigans-us-senate-race-its-trump-sock-puppet-versus-fringe-extremist.html",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 11:07:05 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan teacher pay down 29% since 1995, creating ‘uphill battle’ for schools, study says",

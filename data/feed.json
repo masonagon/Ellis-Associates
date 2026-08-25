@@ -1,6 +1,96 @@
 {
-  "generated": "2026-08-25T13:41:28.250Z",
+  "generated": "2026-08-25T14:35:45.085Z",
   "news": [
+    {
+      "title": "2 measles-related deaths reported in Pennsylvania",
+      "desc": "Two individuals have died due to measles in Pennsylvania, the state’s Department of Health said Tuesday. Both individuals, who were unvaccinated, lived in Lancaster County. The state health department",
+      "link": "https://thehill.com/policy/healthcare/6048989-pennsylvania-measles-deaths-unvaccinated/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:35:23 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Fetterman viewed more favorably than GOP senator by Pennsylvania Republicans: Poll",
+      "desc": "Sen. John Fetterman (Pa.), the centrist Democrat who frequently criticizes his party for catering to its left-wing base, is more popular among Republicans in Pennsylvania than the state’s GOP senator,",
+      "link": "https://thehill.com/homenews/senate/6048811-fetterman-mccormick-pennsylvania-republican-voters/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:28:21 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw toddler smothered to death, doctor testifies in hearing for father charged with murder",
+      "desc": "Jovonni Outland died with cannabinoids and caffeine in his system at just 18 months, according to the pathologist who performed the autopsy on his remains.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-toddler-smothered-to-death-doctor-testifies-in-hearing-for-father-charged-with-murder.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:19:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "DOJ asks judge to lift nationwide block on mail-in voting restrictions",
+      "desc": "The Justice Department (DOJ) asked a federal judge in Massachusetts late Monday to lift a nationwide block on mail-in voting restrictions ahead of the November midterms. The DOJ wrote in a late-night ",
+      "link": "https://thehill.com/regulation/court-battles/6048768-doj-request-lift-nationwide-block-restrictions-mail-in-ballots/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:16:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "South Carolina GOP Senate runoff puts Trump’s influence to the test",
+      "desc": "Join The Hill's Amie Parnes and Caroline Vakil for a live discussion of tonight’s GOP faceoff in the South Carolina Senate runoff between Sen. Darline Graham (R-S.C.), who is backed by President Trump",
+      "link": "https://thehill.com/homenews/campaign/fight-for-2028/6048815-south-carolina-gop-senate-runoff-donald-trump-influence-midterms-discussion/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:09:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Darline Graham dodges when asked if she would&#039;ve certified 2020 election",
+      "desc": "Sen. Darline Graham (R-S.C.) on Monday refused to say whether she would have voted to certify the 2020 presidential election, as the Republican looks to secure a win in South Carolina’s GOP Senate run",
+      "link": "https://thehill.com/homenews/campaign/6048774-graham-refuses-election-certification-vote/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 14:07:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "China: New US sanctions on Iran &#8216;will only further intensify tensions&#8217;",
+      "desc": "Chinese Foreign Ministry spokesperson Lin Jian said Tuesday the latest U.S. sanctions on Iran “will only further intensify tensions” between the two countries. “Economic warfare and maximum pressure w",
+      "link": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:54:38 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Police confirm relationships between Missaukee County shooting victims, gunman",
+      "desc": "All six shooting victims were known to the gunman.",
+      "link": "https://www.mlive.com/news/2026/08/police-confirm-relationships-between-missaukee-shooting-victims-gunman.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:44:57 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Callaway apologizes for &#039;Good Good&#039; ad showing woman shoved to ground",
+      "desc": "Golf company Callaway is apologizing for an advertisement for a new driver posted by its media partner Good Good Golf that depicted violence against women and was subsequently taken down. In a stateme",
+      "link": "https://thehill.com/policy/sports-gaming/6048558-callaway-apologizes-good-good-ad/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:42:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Federal judge declines Maxwell bid to toss conviction",
+      "desc": "A federal judge on Tuesday declined a petition from Ghislaine Maxwell to set aside her conviction, a long-shot bid that would have allowed for a new trial. Maxwell represented herself in the habeas pe",
+      "link": "https://thehill.com/regulation/court-battles/6048676-ghislaine-maxwell-conviction-epstein-files/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:41:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "‘Crime in America’ podcast: Family dynamics gone wrong, manufactured love, AI as a co-conspirator",
       "desc": "Episode 3 of \"Crime in America\" covers a teen's AI-assisted alleged family murder, a massive U.S. marriage fraud scheme, and an under-reported Alabama mass murder case.",
@@ -38,6 +128,15 @@
       "tag": "government"
     },
     {
+      "title": "Claim deadline nears for $68 million Google Assistant settlement",
+      "desc": "There are just days remaining to submit a claim form.",
+      "link": "https://thehill.com/business/6048533-claim-deadline-nears-for-68-million-google-assistant-settlement/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:02:45 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
       "title": "Billionaire investor: US Treasury buybacks hurt credibility",
       "desc": "Billionaire investor Stanley Druckenmiller on Monday criticized the Treasury Department’s buyback expansion plan, arguing it represents an artificial attempt to interfere in the bond market.  In a Wal",
       "link": "https://thehill.com/business/6048451-us-treasury-buybacks-hurting-us-economy-investor-says/",
@@ -57,21 +156,12 @@
     },
     {
       "title": "Trump: French language not a factor in Canada trade talks",
-      "desc": "President Trump said on Tuesday that Canada’s French language requirements are not a factor in the escalating trade tensions between Washington and Ottawa, contradicting Canadian Prime Minister Mark C",
+      "desc": "President Trump said Tuesday that Canada’s French language requirements are not a factor in the escalating trade tensions between Washington and Ottawa, contradicting Canadian Prime Minister Mark Carn",
       "link": "https://thehill.com/policy/international/6048489-donald-trump-mark-carney-us-canada-trade-war-talks-french/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 12:47:14 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "A MAGA plot to keep power in Congress if they lose the election?",
-      "desc": "He will scare them away from the polls by posting federal agents at their voting places or discouraging them by disparaging mail-in ballots.",
-      "link": "https://thehill.com/opinion/campaign/6047610-house-election-loophole-risk/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Trump eyes changing Lake Ontario name amid trade war with Canada",
@@ -92,22 +182,13 @@
       "tag": "safety"
     },
     {
-      "title": "Canada expected to announce retaliatory tariffs on Tuesday",
-      "desc": "Canada is expected to unveil retaliatory tariffs on the U.S. on Tuesday, following President Trump’s new threats to escalate the trade war between the two countries. Prime Minister Mark Carney announc",
-      "link": "https://thehill.com/policy/international/6048418-canada-retaliatory-tariffs-us-carney-trump-trade-war/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 12:03:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "The Movement: MAHA and anti-abortion groups split on FDA nominee",
       "desc": "Anti-abortion groups and other conservatives largely applauded the White House announcement that President Trump would nominate health policy aide Dr. Heidi Overton for Food and Drug Administration (F",
       "link": "https://thehill.com/newsletters/the-movement/6048020-overton-fda-maha-abortion-convention-beef/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "A contaminated eyesore in this Michigan lakeside town is getting a stunning $8.6 million transformation",
@@ -126,15 +207,6 @@
       "rawDate": "Tue, 25 Aug 2026 11:27:32 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Bessent slow rolls ‘Economic D-Day’ on Iran",
-      "desc": "In today's issue: ▪ Voters head to polls in GOP runoffs ▪ Supreme Court upholds mail-in order for now ▪ Trump threatens another round of Canada tariffs ▪ Nevada sues over Colorado River use cuts Treas",
-      "link": "https://thehill.com/newsletters/morning-report/6048370-scott-bessent-trump-administration-slow-roll-iran-war-sanctions/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 11:19:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "The County Prosecutors Who Became ICE Informants",
@@ -162,15 +234,6 @@
       "rawDate": "Tue, 25 Aug 2026 10:32:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Trump’s fight with GOP senators over trade intensifies",
-      "desc": "President Trump is headed for a clash with Senate Republicans over his decision to pause tariffs on beef imports while ratcheting up tariffs on key Canadian goods. Trump’s plan to exempt 300,000 tons ",
-      "link": "https://thehill.com/homenews/senate/6047923-trump-beef-canada-tariffs-gop-senators/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "It Should Be Harder to Apply for a Job. No, Really",
@@ -506,24 +569,6 @@
       "tag": "government"
     },
     {
-      "title": "Church bus crash puts 2 in hospital, 6 others evaluated for injuries",
-      "desc": "A red Chevrolet Malibu struck a church bus in Flint, leaving two women hospitalized and six others treated for minor injuries.",
-      "link": "https://www.mlive.com/news/flint/2026/08/church-bus-crash-puts-2-in-hospital-6-others-evaluated-for-injuries.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 13:45:46 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Driver arrested after ORV rollover kills 17-year-old",
-      "desc": "Police said the teen was one of six people riding in a side-by-side when it rolled over in Oceana County.",
-      "link": "https://www.mlive.com/news/muskegon/2026/08/driver-arrested-after-orv-rollover-kills-17-year-old.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 13:31:28 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Bessent doubles down on Trump warnings: &#039;Entering the endgame&#039; on Iran",
       "desc": "Treasury Secretary Scott Bessent on Sunday previewed the Trump administration’s economic offensive against Iran, set to begin Monday. Echoing President Trump’s rhetoric on the military operations agai",
       "link": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
@@ -668,15 +713,6 @@
       "tag": "safety"
     },
     {
-      "title": "U.S. Senate race heats up as Mike Rogers addresses state GOP convention crowd",
-      "desc": "Rogers, who represented the Howell area in Congress from 2001 to 2015, narrowly lost Michigan’s 2024 U.S. Senate race to Democrat Elissa Slotkin.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/us-senate-race-heats-up-as-mike-rogers-addresses-state-gop-convention-crowd.html",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 21:07:13 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Rising data center backlash shakes up midterm races",
       "desc": "As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities.  Key swing state candidates are scrambling to",
       "link": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
@@ -684,15 +720,6 @@
       "rawDate": "Sat, 22 Aug 2026 21:00:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Michigan GOP backs John James’ pick for lieutenant governor",
-      "desc": "James announced state Rep. Jay DeBoyer as his pick earlier this month.",
-      "link": "https://www.mlive.com/politics/2026/08/michigan-gop-backs-john-james-pick-for-lieutenant-governor.html",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 17:13:45 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Cases of &#039;scromiting&#039; condition tied to cannabis use spike among teens, young adults: New study",
@@ -866,29 +893,11 @@
       "tag": "technology"
     },
     {
-      "title": "Americans&#039; drinking remains at record low: Poll",
-      "desc": "Americans' drinking remains at historically low levels with a survey released Thursday reporting the lowest levels of alcohol consumption among Americans in its history, dating back to 1939. A new Gal",
-      "link": "https://thehill.com/policy/healthcare/6042392-american-drinking-reaches-historic-lows/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 20:59:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "CFTC chair vows to &#039;move swiftly&#039; on crypto rules if Congress fails to pass legislation",
       "desc": "The head of the Commodity Futures Trading Commission (CFTC) vowed Thursday to “move swiftly” on establishing rules for the cryptocurrency market if Congress fails to pass legislation on the matter thi",
       "link": "https://thehill.com/policy/technology/6042267-cftc-crypto-clarity-act/",
       "date": "Aug 20, 2026",
       "rawDate": "Thu, 20 Aug 2026 20:09:40 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Another polling firm comes under fire for &#039;falsified data&#039; on Florida primary",
-      "desc": "A major polling tracker announced Thursday it would suspend its use of data from a pollster after it discovered evidence that the firm allegedly “falsified data” in a survey of candidates in Florida’s",
-      "link": "https://thehill.com/homenews/campaign/6042103-pollsters-under-fire-midterms-false-data-florida-gubernatorial-primary/",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 19:10:10 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

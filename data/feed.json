@@ -1,6 +1,51 @@
 {
-  "generated": "2026-08-25T17:23:47.388Z",
+  "generated": "2026-08-25T18:26:42.258Z",
   "news": [
+    {
+      "title": "Wisconsin district attorney declines to charge Musk over $1M voter giveaway",
+      "desc": "A Wisconsin state prosecutor declined to charge technology billionaire Elon Musk with election bribery for his $1 million check handouts to voters during the state's Supreme Court election last year. ",
+      "link": "https://thehill.com/policy/technology/6049563-prosecutor-declines-to-charge-musk-voter-giveaway/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 18:24:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Florida moves to end certain school vaccination requirements",
+      "desc": "The state of Florida wants to roll back a requirement that public and private school children receive four vaccines before enrolling.  A proposed rule from the state's Department of Health (DOH) would",
+      "link": "https://thehill.com/policy/healthcare/6049653-florida-religious-vaccination-exemptions/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 18:05:37 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Abdul El-Sayed distances from Hasan Piker — kind of",
+      "desc": "Is Michigan Senate candidate Abdul El-Sayed distancing himself from controversial Twitch streamer Hasan Piker? That’s the headline, but it’s not quite true.",
+      "link": "https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 17:59:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hochul predicts Mamdani will &#039;be helpful&#039; in her reelection bid",
+      "desc": "New York Gov. Kathy Hochul (D) said she believes New York City Mayor Zohran Mamdani (D) will give a boost to her reelection campaign. “I think he’ll be helpful,” Hochul said Monday after Politico aske",
+      "link": "https://thehill.com/homenews/campaign/6049687-hochul-mamdani-endorsement-boost/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 17:59:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Will this Trump-praised Democrat switch parties? New poll shows shocking results",
+      "desc": "The Democratic senator is now more beloved by GOP voters than his own party.",
+      "link": "https://www.mlive.com/politics/2026/08/will-this-trump-praised-democrat-switch-parties-new-poll-shows-shocking-results.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 17:39:18 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
     {
       "title": "Democrat jabs Trump over Lake Ontario threat: &#039;Let’s just call it Lake Natalie&#039;",
       "desc": "Rep. Debbie Dingell (D-Mich.) on Tuesday took a jab at President Trump over his threat to rename Lake Ontario to Lake America amid his trade war with Canada, saying the U.S. should \"just call it Lake ",
@@ -110,15 +155,6 @@
       "tag": "government"
     },
     {
-      "title": "How Trump can fix Puerto Rico&#039;s broken infrastructure",
-      "desc": "Former Gov. Luis Fortuño argues that the Federal Oversight and Management Board must replace its current mainland members with local leaders to resolve PREPA's decade-long bankruptcy and address Puert",
-      "link": "https://thehill.com/opinion/judiciary/6048289-trump-fomb-puerto-rico-electricity/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 16:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "9/11 victim identified nearly 25 years later with new forensic technique",
       "desc": "The terrorist attack killed 2,753 people in New York City.",
       "link": "https://thehill.com/homenews/state-watch/6049220-another-sept-11-victim-identified-mamdani-nyc/",
@@ -126,15 +162,6 @@
       "rawDate": "Tue, 25 Aug 2026 16:27:54 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Maxwell&#039;s attempt at freedom &#039;deeply troubling&#039;: Survivor",
-      "desc": "Maxwell is serving a 20-year federal prison sentence for her part in the sex trafficking of minor females.",
-      "link": "https://thehill.com/regulation/court-battles/6049212-ghislaine-maxwell-bid-overturn-conviction-troubling-jeffrey-epstein-survivor/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 16:24:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Board deadlock stalls proof of citizenship to vote proposal. Organizers say they’ll sue",
@@ -164,33 +191,6 @@
       "tag": "safety"
     },
     {
-      "title": "Shapiro holds 16-point lead in reelection bid polling",
-      "desc": "Pennsylvania Gov. Josh Shapiro (D) is cruising toward reelection, according to a new poll of likely voters in the Keystone State. The latest survey from The New York Times/Philadelphia Inquirer/Siena ",
-      "link": "https://thehill.com/homenews/campaign/6049300-josh-shapiro-pennsylvania-reelection-bid-survey/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 15:59:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Doug Ford responds to Trump&#8217;s Lake Ontario taunt: &#8216;A lot of rhetoric&#8217;",
-      "desc": "Ontario Premier Doug Ford dismissed President Trump’s Tuesday threat to rename a Canadian lake in honor of the U.S., a day after the pair publicly exchanged insults amid an escalating trade fight betw",
-      "link": "https://thehill.com/policy/international/6049319-ford-dismisses-trump-lake-threat/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 15:53:27 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Canada announces &#8216;dollar for dollar, rate for rate&#8217; retaliatory tariffs on US",
-      "desc": "Canada announced retaliatory tariffs on hundreds of American products as high as 50 percent Tuesday, just days after the collapse of negotiations between the two countries. Canadian Finance Minister F",
-      "link": "https://thehill.com/policy/international/6049341-canada-trade-war-trump-tariffs/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 15:52:02 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Saginaw man pleads to repeatedly stabbing, trying to kill man at East Side gas station",
       "desc": "The violent dispute over childcare is going to result in the 52-year-old assailant spending at least five years in prison.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-man-pleads-to-repeatedly-stabbing-trying-to-kill-man-at-east-side-gas-station.html",
@@ -198,15 +198,6 @@
       "rawDate": "Tue, 25 Aug 2026 15:46:34 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Lutnick&#8217;s last-minute demands derailed Canada trade talks: Reports",
-      "desc": "Commerce Secretary Howard Lutnick’s interventions in the U.S.-Canada trade talks helped the weeks-long negotiations fall apart, according to multiple reports, thrusting the two countries into a trade ",
-      "link": "https://thehill.com/homenews/administration/6049271-lutnick-canada-trade-war-trump-tariffs/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 15:42:56 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Inside the Flint water crisis investigation: 6 takeaways from the AG report",
@@ -551,24 +542,6 @@
       "tag": "safety"
     },
     {
-      "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
-      "desc": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March.",
-      "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 17:46:18 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Muskegon’s Honey Girl granola offers homemade recipe on store shelves",
-      "desc": "After two years in the food industry, Emily Principe had an interest in food processing with healthier ingredients, which inspired her to create Honey Girl granola.",
-      "link": "https://www.mlive.com/news/muskegon/2026/08/muskegons-honey-girl-granola-offers-homemade-recipe-on-store-shelves.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 17:23:01 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Forest Hills community mourns after senior dies in ORV crash",
       "desc": "Luke Kooistra, 17, a Forest Hills Eastern student, died Sunday following an ORV crash in Oceana County.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/forest-hills-community-mourns-after-senior-dies-in-orv-crash.html",
@@ -585,15 +558,6 @@
       "rawDate": "Mon, 24 Aug 2026 17:00:48 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "What to know about Trump’s tariffs on Canadian goods",
-      "desc": "After trade negotiations crumbled at the eleventh hour, President Donald Trump’s 50% tariffs on scores of Canadian imports kicked in over the weekend.",
-      "link": "https://www.mlive.com/politics/2026/08/what-to-know-about-trumps-tariffs-on-canadian-goods.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 16:20:02 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "‘Excited to create meaningful opportunities’: Lapeer welcomes students on first day of school",
@@ -839,15 +803,6 @@
       "tag": "health"
     },
     {
-      "title": "Employer health costs projected to rise 9.5 percent",
-      "desc": "A new risk analysis released by leading insurance broker Aon this week projected that employer health costs in the U.S. will rise by roughly 10 percent in 2027. Aon, the second largest global insuranc",
-      "link": "https://thehill.com/policy/healthcare/6043869-aon-projects-employee-health-costs-rise/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 18:57:23 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "First day of school 2026: See what day, time your Muskegon area district starts",
       "desc": "Here’s a list of the reopening dates for Muskegon County districts, and their school start and end times.",
       "link": "https://www.mlive.com/news/muskegon/2026/08/first-day-of-school-2026-see-what-day-time-your-muskegon-area-district-starts.html",
@@ -889,15 +844,6 @@
       "link": "https://thehill.com/blogs/in-the-know/6042507-gen-z-capitalism-socialism-sports-betting-gender-political-divide/",
       "date": "Aug 21, 2026",
       "rawDate": "Fri, 21 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "House Democrat: Rein in data centers without losing tech race to China",
-      "desc": "Democratic Rep. Suhas Subramanyam (Va.), whose district lies in a hotbed of data center activity, pushed to rein them in Thursday, but not enough where the U.S. would lose the technology race to China",
-      "link": "https://thehill.com/homenews/house/6042857-subramanyam-pushes-data-center-limits-ai/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 02:08:08 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

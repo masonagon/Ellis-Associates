@@ -1,6 +1,69 @@
 {
-  "generated": "2026-08-25T12:31:13.785Z",
+  "generated": "2026-08-25T13:41:28.250Z",
   "news": [
+    {
+      "title": "‘Crime in America’ podcast: Family dynamics gone wrong, manufactured love, AI as a co-conspirator",
+      "desc": "Episode 3 of \"Crime in America\" covers a teen's AI-assisted alleged family murder, a massive U.S. marriage fraud scheme, and an under-reported Alabama mass murder case.",
+      "link": "https://www.mlive.com/crime/2026/08/crime-in-america-podcast-family-dynamics-gone-wrong-manufactured-love-ai-as-a-co-conspirator.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:30:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "What is the U.S. reproductive tourism industry really selling?",
+      "desc": "So, is the U.S. a nation that helps its people bear children, or one that designs children and sells them to any willing buyer?",
+      "link": "https://thehill.com/opinion/international/6046000-restrict-us-reproductive-tourism/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:30:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Iran vows retaliation after widened US sanctions",
+      "desc": "Iran threatened to retaliate after the Trump administration on Monday unveiled a new effort to isolate the Islamic Republic from the global economy and ramp up pressure to bring the nearly six-month-l",
+      "link": "https://thehill.com/policy/international/6048535-iran-retaliation-threat-trump-administration-us-sanctions-operation-economic-outcast/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:23:41 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Live updates: Trump taunts Canada over Lake Ontario&#039;s name; SC voters set to pick Graham or Norman",
+      "desc": "Tuesday's South Carolina Republican Senate runoff election between Sen. Darline Graham and Rep. Ralph Norman will test President Trump's endorsement power. MAGA Inc., a super PAC that backs Trump, has",
+      "link": "https://thehill.com/homenews/administration/6048263-live-updates-trump-canada-south-carolina-oklahoma-primaries/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:03:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Billionaire investor: US Treasury buybacks hurt credibility",
+      "desc": "Billionaire investor Stanley Druckenmiller on Monday criticized the Treasury Department’s buyback expansion plan, arguing it represents an artificial attempt to interfere in the bond market.  In a Wal",
+      "link": "https://thehill.com/business/6048451-us-treasury-buybacks-hurting-us-economy-investor-says/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:00:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
+      "desc": "Apple’s Mac Mini and Mac Studio have been tough to buy for months, but updated versions have arrived. Both include new chips optimized for AI, with the M6 Mac Mini getting a $200 price bump.",
+      "link": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 13:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump: French language not a factor in Canada trade talks",
+      "desc": "President Trump said on Tuesday that Canada’s French language requirements are not a factor in the escalating trade tensions between Washington and Ottawa, contradicting Canadian Prime Minister Mark C",
+      "link": "https://thehill.com/policy/international/6048489-donald-trump-mark-carney-us-canada-trade-war-talks-french/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 12:47:14 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "A MAGA plot to keep power in Congress if they lose the election?",
       "desc": "He will scare them away from the polls by posting federal agents at their voting places or discouraging them by disparaging mail-in ballots.",
@@ -12,7 +75,7 @@
     },
     {
       "title": "Trump eyes changing Lake Ontario name amid trade war with Canada",
-      "desc": "President Trump said Tuesday that his administration is considering changing the name of Lake Ontario to Lake America, amid the trade war between the U.S. and Canada. “The United States is giving seri",
+      "desc": "President Trump said Tuesday his administration is considering changing the name of Lake Ontario to Lake America, amid the trade war between the U.S. and Canada. “The United States is giving serious c",
       "link": "https://thehill.com/homenews/administration/6048425-donald-trump-mark-carney-us-canada-trade-war-lake-ontario/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 12:27:20 +0000",
@@ -101,36 +164,9 @@
       "tag": "technology"
     },
     {
-      "title": "Graham hopes Trump propels her across finish line in South Carolina",
-      "desc": "The South Carolina Senate runoff on Tuesday is becoming a key test of President Trump’s endorsement power, as he throws all his weight behind a political newcomer seeking to fill shoes left by her bro",
-      "link": "https://thehill.com/homenews/campaign/6047169-graham-norman-south-carolina-senate-runoff/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump’s fight with GOP senators over trade intensifies",
       "desc": "President Trump is headed for a clash with Senate Republicans over his decision to pause tariffs on beef imports while ratcheting up tariffs on key Canadian goods. Trump’s plan to exempt 300,000 tons ",
       "link": "https://thehill.com/homenews/senate/6047923-trump-beef-canada-tariffs-gop-senators/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "South Carolina runoff pits America First against MAGA",
-      "desc": "Voters, especially Republican primary voters, don’t tend to make their decisions based on what’s going on overseas.  But with Uncle Sam’s place in the world looking a little unsteady and a doozy of a ",
-      "link": "https://thehill.com/homenews/6047895-south-carolina-republican-senate-primary-trump-iran-national-security/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Memo: Trump and Bessent crank up economic pressure on Iran as other options fall short",
-      "desc": "Six months into the war on Iran — and with less than three months left before the midterms — the Trump administration has decided it’s time for Plan C. Treasury Secretary Scott Bessent on Monday laid ",
-      "link": "https://thehill.com/homenews/administration/6047974-trump-bessent-iran-economy-sanctions/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 10:00:00 +0000",
       "source": "The Hill Economy",
@@ -165,7 +201,7 @@
     },
     {
       "title": "USS Abraham Lincoln headed for port in Thailand after 250 days at sea",
-      "desc": "Sailors and crew members on the USS Abraham Lincoln, which recently departed the Middle East after it was stationed in the region as part of the U.S. conflict with Iran, have a port call scheduled aft",
+      "desc": "Sailors and crew members on the USS Abraham Lincoln, which recently departed the Middle East after being stationed in the region as part of the U.S. conflict with Iran, have a port call scheduled afte",
       "link": "https://thehill.com/policy/defense/6048280-uss-abraham-lincoln-thailand-port-call/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 03:16:14 +0000",
@@ -488,15 +524,6 @@
       "tag": "safety"
     },
     {
-      "title": "1 dead, 2 injured in overnight crash in Flint",
-      "desc": "A man died and two others, including an infant, were injured in an early Sunday crash at Dupont Street and West Stewart Avenue in Flint.",
-      "link": "https://www.mlive.com/news/flint/2026/08/1-dead-2-injured-in-overnight-crash-in-flint.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 13:20:53 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Bessent doubles down on Trump warnings: &#039;Entering the endgame&#039; on Iran",
       "desc": "Treasury Secretary Scott Bessent on Sunday previewed the Trump administration’s economic offensive against Iran, set to begin Monday. Echoing President Trump’s rhetoric on the military operations agai",
       "link": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
@@ -504,15 +531,6 @@
       "rawDate": "Mon, 24 Aug 2026 11:54:40 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "These 29 Michigan employers were fined a combined $1.3M for 2025 workplace deaths",
-      "desc": "Three companies face fines exceeding $200,000 after workplace death investigations.",
-      "link": "https://www.mlive.com/data/2026/08/these-29-michigan-employers-were-fined-a-combined-13m-for-2025-workplace-deaths.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 10:45:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Back-to-school season expected to worsen record measles outbreak",
@@ -693,15 +711,6 @@
       "rawDate": "Sat, 22 Aug 2026 16:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Flint council approves over $7M for Berston Field House expansion",
-      "desc": "The contribution will support the first phase of the project, which includes the addition of new athletic fields and courts.",
-      "link": "https://www.mlive.com/news/flint/2026/08/flint-council-approves-over-7m-for-berston-field-house-expansion.html",
-      "date": "Aug 22, 2026",
-      "rawDate": "Sat, 22 Aug 2026 12:34:31 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "These are the cellphone rules for Ann Arbor-area students this school year",

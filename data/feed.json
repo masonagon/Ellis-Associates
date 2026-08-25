@@ -1,6 +1,69 @@
 {
-  "generated": "2026-08-25T19:24:18.770Z",
+  "generated": "2026-08-25T20:19:00.114Z",
   "news": [
+    {
+      "title": "Ann Arbor teachers, district reach tentative deal after nearly 9-month contract impasse",
+      "desc": "Ann Arbor Public Schools announced a tentative agreement Monday following months of bargaining, mediation and teacher protests, though contract details will remain under wraps until union members vote",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/ann-arbor-teachers-district-reach-tentative-deal-after-nearly-9-month-contract-impasse.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 20:09:37 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Senate Democrats question RFK Jr. on vaccine settlement divestment",
+      "desc": "A group of Senate Democrats are questioning whether Health and Human Services Secretary Robert F. Kennedy Jr. truly divested his financial interests in a lawsuit he helped spearhead challenging the HP",
+      "link": "https://thehill.com/policy/healthcare/6049217-senators-question-kennedy-gardasil-divestment/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 20:08:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Army sergeant&#039;s wife deported to Honduras under Trump crackdown",
+      "desc": "The wife of an active-duty U.S. soldier has reportedly been deported to Honduras, her native country, in the latest instance of a family member of an American service member being swept up in the Trum",
+      "link": "https://thehill.com/policy/defense/6050240-army-wife-deported-honduras-trump-immigration-crackdown/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 20:03:18 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Watch live: DDHQ and The Hill track and analyze SC Senate GOP special election runoff",
+      "desc": "The Hill presents one hour of real-time primary night coverage, diving deep into the 2026 South Carolina special U.S. Senate primary runoff Tuesday. The Hill's coverage will be anchored by NewsNation'",
+      "link": "https://thehill.com/video-clips/6049561-watch-live-ddhq-the-hill-sc-senate-gop-special-election-runoff/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 20:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lawmakers across the aisle pay tribute to Dolly Parton: &#039;A true national treasure&#039;",
+      "desc": "The death of Dolly Parton is uniting lawmakers on both sides of the aisle, with an outpouring from Democrats and Republicans alike mourning the loss of the \"true national treasure.\" The country music ",
+      "link": "https://thehill.com/blogs/in-the-know/6050214-dolly-parton-death-tribute/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 19:52:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pirro hit with bar complaint over bid to indict Democrats in illegal orders video",
+      "desc": "A legal watchdog has filed a bar complaint against U.S. Attorney for the District of Columbia Jeanine Pirro, arguing she violated various standards in seeking to bring charges against six Democratic l",
+      "link": "https://thehill.com/regulation/court-battles/6050161-pirro-bar-complaint-military-illegal-orders-video/",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 19:46:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police find 3 children living in squalor in Saginaw County, 2 adults charged",
+      "desc": "Three adults and three children were allegedly living in a single bedroom, while another bedroom was being used as a litter box for four animals.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/police-find-3-children-living-in-squalor-in-saginaw-county-2-adults-charged.html",
+      "date": "Aug 25, 2026",
+      "rawDate": "Tue, 25 Aug 2026 19:30:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Hillary Clinton says Republicans ‘secretly cheering’ for Mark Carney amid US-Canada trade negotiation",
       "desc": "Former Secretary of State Hillary Clinton claimed that Republicans are “secretly cheering” for Canadian Prime Minister Mark Carney amid tension between Washington and Ottawa over trade. “I can't imagi",
@@ -11,8 +74,8 @@
       "tag": "government"
     },
     {
-      "title": "Minister of Industry of Canada: &#8216;We&#8217;ll always call it Lake Ontario&#8217;",
-      "desc": "Canadian Minister of Industry Mélanie Joly rebuffed President Trump&#8217;s warning to rename Lake Ontario &#8220;Lake America&#8221; on Tuesday amid his trade war with Canada, saying Canadians will &",
+      "title": "Canada&#8217;s minister of industry: &#8216;We&#8217;ll always call it Lake Ontario&#8217;",
+      "desc": "Mélanie Joly, Canada&#8217;s minister of industry, rebuffed President Trump&#8217;s warning to rename Lake Ontario &#8220;Lake America&#8221; on Tuesday, saying Canadians will &#8220;always call it La",
       "link": "https://thehill.com/policy/international/6049814-canada-industry-minister-lake-ontario-defense/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 19:22:20 +0000",
@@ -70,8 +133,8 @@
       "link": "https://thehill.com/policy/technology/6049563-prosecutor-declines-to-charge-musk-voter-giveaway/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 18:24:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Florida moves to end certain school vaccination requirements",
@@ -81,24 +144,6 @@
       "rawDate": "Tue, 25 Aug 2026 18:05:37 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Abdul El-Sayed distances from Hasan Piker — kind of",
-      "desc": "Is Michigan Senate candidate Abdul El-Sayed distancing himself from controversial Twitch streamer Hasan Piker? That’s the headline, but it’s not quite true.",
-      "link": "https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 17:59:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Hochul predicts Mamdani will &#039;be helpful&#039; in her reelection bid",
-      "desc": "New York Gov. Kathy Hochul (D) said she believes New York City Mayor Zohran Mamdani (D) will give a boost to her reelection campaign. “I think he’ll be helpful,” Hochul said Monday after Politico aske",
-      "link": "https://thehill.com/homenews/campaign/6049687-hochul-mamdani-endorsement-boost/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 17:59:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Will this Trump-praised Democrat switch parties? New poll shows shocking results",
@@ -434,15 +479,6 @@
       "tag": "safety"
     },
     {
-      "title": "Skelton triple homicide preliminary exam reveals suicide attempt, home destruction",
-      "desc": "The preliminary examination for John Russel Skelton began Monday morning, Aug. 24, 2026, before Lenawee County District Judge Laura Schaedler. Skelton is charged with three counts each of open murder ",
-      "link": "https://www.mlive.com/news/jackson/2026/08/skelton-triple-homicide-preliminary-exam-reveals-suicide-attempt-home-destruction.html",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 00:11:49 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "FDA approves new blood test for Alzheimer’s disease",
       "desc": "The Food and Drug Administration (FDA) has granted approval for a new test for Alzheimer's disease, marking the fourth time such a blood test has been approved in less than two years. Roche announced ",
       "link": "https://thehill.com/policy/healthcare/6047899-fda-approves-roche-alzheimers-test/",
@@ -704,24 +740,6 @@
       "tag": "education"
     },
     {
-      "title": "Questions rise as US claims deeper control of Strait of Hormuz",
-      "desc": "How much oil is actually getting through the Strait of Hormuz? And is the reward for the Pentagon worth the resources it is expending? Those are some of the key outstanding questions as the Trump admi",
-      "link": "https://thehill.com/policy/defense/6045218-trump-hormuz-oil-transit/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "NAACP slams Navy&#039;s reported talks to swap war hero&#039;s name on carrier with Trump&#039;s",
-      "desc": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier — currently named after a Black World War II war hero — and had considered Presid",
-      "link": "https://thehill.com/policy/defense/6045429-naacp-navy-war-hero-trump-swap/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 03:09:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Rising data center backlash shakes up midterm races",
       "desc": "As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities.  Key swing state candidates are scrambling to",
       "link": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
@@ -794,15 +812,6 @@
       "tag": "education"
     },
     {
-      "title": "HHS launches autistic missing persons alert initiative",
-      "desc": "The Department of Health and Human Services (HHS) announced on Friday a new federal initiative to improve preparedness and response efforts when individuals with autism are reported missing.  The agen",
-      "link": "https://thehill.com/policy/healthcare/6044106-hhs-autism-missing-person-initiative/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 19:10:49 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "First day of school 2026: See what day, time your Muskegon area district starts",
       "desc": "Here’s a list of the reopening dates for Muskegon County districts, and their school start and end times.",
       "link": "https://www.mlive.com/news/muskegon/2026/08/first-day-of-school-2026-see-what-day-time-your-muskegon-area-district-starts.html",
@@ -853,15 +862,6 @@
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/career-education-millage-renewal-heads-to-saginaw-county-voters-in-november.html",
       "date": "Aug 20, 2026",
       "rawDate": "Thu, 20 Aug 2026 17:43:38 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "16-year-old who died while swimming in Gun Lake identified as Portage student",
-      "desc": "A 16-year-old Portage Northern student and clarinet player drowned in Gun Lake on Aug. 14.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/16-year-old-who-died-while-swimming-in-gun-lake-identified-as-portage-student.html",
-      "date": "Aug 20, 2026",
-      "rawDate": "Thu, 20 Aug 2026 16:41:37 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

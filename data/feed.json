@@ -1,14 +1,149 @@
 {
-  "generated": "2026-08-26T12:34:23.559Z",
+  "generated": "2026-08-26T13:46:51.541Z",
   "news": [
     {
-      "title": "&#8216;Lake America&#8217;? Who is responsible for naming geographic places?",
-      "desc": "President Donald Trump announced his desire to change the name amid an escalating trade dispute with Canada.",
-      "link": "https://thehill.com/homenews/administration/6050921-us-board-on-geographic-names-lake-ontario-lake-america-trump-administration/",
+      "title": "Meta settles social media addiction trial with states for up to $17B",
+      "desc": "Meta and a coalition of state attorneys general reached a settlement in the high-profile trial accusing the company of designing its platforms to be addictive for young users, according to court filin",
+      "link": "https://thehill.com/policy/technology/6051476-meta-settlement-youth-addiction-lawsuit/",
       "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 12:21:53 +0000",
+      "rawDate": "Wed, 26 Aug 2026 13:43:25 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Blanche&#039;s Justice Department has finally put parents&#039; rights ahead of abortionists",
+      "desc": "The department's acknowledgment calls for a reckoning over how selectively the law was wielded against people peacefully practicing their faith on public sidewalks.",
+      "link": "https://thehill.com/opinion/civil-rights/6046642-doj-parental-rights-shift/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Judge blocks Ohio proof-of-citizenship law for voter registration",
+      "desc": "A federal judge on Tuesday blocked Ohio from enforcing a new requirement that people provide documentary proof of citizenship when registering to vote at a motor vehicle bureau. Ohio Gov. Mike DeWine ",
+      "link": "https://thehill.com/regulation/court-battles/6051386-judge-blocks-ohio-proof-of-citizenship-law-midterms/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:29:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Motorcyclist critically injured in U.S. 131 crash near Grand Rapids",
+      "desc": "Michigan State Police found the rider in the grass on the opposite side of the guardrail at the U.S. 131 exit to 54th Street.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/motorcyclist-critically-injured-in-us-131-crash-near-grand-rapids.html",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:28:45 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Live updates: Trump notches endorsement wins; inflation holds steady",
+      "desc": "President Trump notched two big wins in Tuesday's elections, with Sen. Darline Graham (S.C.) and former state Sen. Mike Mazzei (Okla.) clinching the GOP nominations in their respective primary runoff ",
+      "link": "https://thehill.com/homenews/administration/6051255-live-updates-trump-iran-canada-dolly-parton/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:20:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "USS Abraham Lincoln sailor’s father released from immigration custody",
+      "desc": "A Nicaraguan immigrant who was detained by Border Patrol agents while his son spent more than nine months deployed in the Middle East has been released from custody, his family announced Tuesday. Luis",
+      "link": "https://thehill.com/policy/defense/6051341-navy-sailor-father-immigration-case-dhs/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:20:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "The sugar you ate as a baby may be affecting your health now, study finds",
+      "desc": "Researchers estimated the difference in telomere length was associated with a life expectancy increase of slightly more than two years.",
+      "link": "https://thehill.com/policy/healthcare/6051100-sugar-consumption-early-life-health-impact-study/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:14:19 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Trump, Vance to keynote GOP midterm convention",
+      "desc": "President Trump and Vice President JD Vance will address Republicans at the party’s midterm convention next month in Dallas in an effort to galvanize their MAGA base ahead of midterm elections where t",
+      "link": "https://thehill.com/homenews/administration/6051387-republican-midterm-convention-dallas/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:14:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats favored on cost of living in new survey",
+      "desc": "Registered voters prefer Democrats’ approach to tackling the cost of living over Republican plans as the issue remains a top concern ahead of the November midterms, according to a new survey. The late",
+      "link": "https://thehill.com/homenews/campaign/6051227-democrats-favored-cost-of-living-affordability-concerns-midterms-survey/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:08:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "1 fatally stabbed in Ypsilanti",
+      "desc": "The mens' ages were not immediately available.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/1-fatally-stabbed-in-ypsilanti.html",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:08:08 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Republicans have sacrificed Milton Friedman&#039;s free market on the altar of Trump",
+      "desc": "Today’s Republicans seem to have forgotten Friedman’s lesson in the market-distorting and economy-threatening effects of business-government collusion.",
+      "link": "https://thehill.com/opinion/white-house/6047004-trumps-state-capitalism-tech/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
+      "desc": "The site, called Stud or Dud, helps daters dig up dirt on potential paramours. It’s fueled by the same public data as PeopleFinders.com—and comes with many of the same concerns.",
+      "link": "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Republicans have sacrificed Milton Friedman&#8217;s free market on the altar of Trump",
+      "desc": "Today’s Republicans seem to have forgotten Friedman’s lesson in the market-distorting and economy-threatening effects of business-government collusion.",
+      "link": "https://thehill.com/opinion/white-house/6047004-trumps-state-capitalism-tech/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 13:00:00 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
+    },
+    {
+      "title": "Proposal to ban DTE, Consumers Energy political spending poised to make November ballot",
+      "desc": "Michigan Senate Majority Leader Winnie Brinks said the more than half a million petition signatures turned into the state sends a clear message voters want it on the ballot.",
+      "link": "https://www.mlive.com/politics/2026/08/proposal-to-ban-dte-consumers-energy-political-spending-poised-to-make-november-ballot.html",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 12:55:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Norman supporters boo Trump during concession speech",
+      "desc": "Supporters of Rep. Ralph Norman (R-S.C.) did not hold back their frustration with President Trump during the Senate candidate’s concession speech on Tuesday evening after he was defeated in South Caro",
+      "link": "https://thehill.com/homenews/campaign/6051267-ralph-norman-concession-speech-south-carolina-donald-trump-boos/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 12:46:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fed’s preferred inflation gauge remains flat at 3.7 percent in July",
+      "desc": "The Federal Reserve’s preferred measure of inflation remained flat in July, according to data from the Bureau of Economic Analysis released Wednesday.  The personal consumption expenditures (PCE) pric",
+      "link": "https://thehill.com/business/6050414-pce-inflation-remained-flat/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 12:44:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
     },
     {
       "title": "Cherry Republic to open its first Metro Detroit cherry-themed store",
@@ -29,15 +164,6 @@
       "tag": "safety"
     },
     {
-      "title": "What the Supreme Court’s mail ballot ruling means",
-      "desc": "The Supreme Court’s mail-in voting ruling on Monday in favor of President Trump stirred up the dust just ahead of the midterms. “Only time will tell,” the court cautioned on the lawfulness of Trump’s ",
-      "link": "https://thehill.com/newsletters/the-gavel/6050577-supreme-court-mail-in-voting-trump-policy/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
       "desc": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
       "link": "https://www.wired.com/gallery/best-wifi-routers/",
@@ -45,15 +171,6 @@
       "rawDate": "Wed, 26 Aug 2026 11:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Democrats see glimmer of hope in South Carolina after Darline Graham&#039;s win",
-      "desc": "In today's issue: ▪ Trump racks up wins in GOP runoffs ▪ Remembering Dolly Parton ��� Canada details retaliatory tariffs ▪ Troubling NFL CTE report Sen. Darline Graham’s (R-S.C.) narrow victory in Sou",
-      "link": "https://thehill.com/newsletters/morning-report/6051145-democrats-hopes-rise-darline-graham-win-south-carolina/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 11:23:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "AI Slop Is Ruining Cute Animals on the Internet",
@@ -74,42 +191,6 @@
       "tag": "government"
     },
     {
-      "title": "Susan Collins tries to keep Trump off the ballot in Maine",
-      "desc": "During a campaign stop in South Carolina last week, President Trump urged Republicans to turn out and vote as if he were on the ballot.  Sen. Susan Collins (R), fighting an uphill re-election battle i",
-      "link": "https://thehill.com/homenews/campaign/6050886-collins-distancing-trump-maine-senate-race/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP faces jam-packed September with funding, reconciliation on agenda",
-      "desc": "Republicans in both chambers are staring down a September sprint after returning from August recess, with a jam-packed legislative agenda and little time to clear their biggest remaining priorities be",
-      "link": "https://thehill.com/homenews/house/6050485-gop-september-legislative-sprint/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump plan to raise borrowing limit on shaky ground as debt roils bond market",
-      "desc": "President Trump’s plan to raise the debt limit through the end of his presidency before Republicans likely lose control of Congress is on shaky ground because of rising concerns over the national debt",
-      "link": "https://thehill.com/homenews/senate/6050623-trump-debt-limit-bond-market-republicans/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Memo: Canada’s Carney gets under Trump’s skin amid trade dispute",
-      "desc": "The personal is political, it’s said — and it certainly seems to have become so between President Trump and Canadian Prime Minister Mark Carney. The two men are at odds as a trade war between the two ",
-      "link": "https://thehill.com/homenews/administration/6050639-trump-carney-trade-war-us-canada-tariffs/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Corsair Discount Code: Up to 50% Off for August 2026",
       "desc": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
       "link": "https://www.wired.com/story/corsair-coupon/",
@@ -128,6 +209,15 @@
       "tag": "technology"
     },
     {
+      "title": "HP Coupon Codes and Deals August 2026",
+      "desc": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 05:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
       "title": "US launches new drug boat strike in the Caribbean, citing narcoterrorism",
       "desc": "The U.S. military launched a lethal strike on Tuesday against an alleged drug boat in the Caribbean traveling through “established narco-trafficking routes” as outlined by Southern Command.  Four onbo",
       "link": "https://thehill.com/policy/defense/6050947-us-military-drug-boat-strike/",
@@ -135,24 +225,6 @@
       "rawDate": "Wed, 26 Aug 2026 03:01:03 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Trump-backed Mazzei defeats Drummond in Oklahoma governor GOP runoff",
-      "desc": "Former state Sen. Mike Mazzei (R) is projected to defeat state Attorney General Gentner Drummond (R) in the Republican primary runoff for Oklahoma governor — a win for President Trump who backed Mazze",
-      "link": "https://thehill.com/homenews/campaign/6042137-mazzei-wins-oklahoma-gop-runoff/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 02:53:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Capitol Police seize guillotine from pickup truck",
-      "desc": "U.S. Capitol Police on Tuesday arrested a man after discovering a guillotine in the bed of a pickup truck parked on the eastern edge of the National Mall. Officers first spotted an illegally parked pi",
-      "link": "https://thehill.com/homenews/6050846-capitol-police-guillotine-pickup-truck/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 01:17:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Detroit man charged with intent to murder after Pontiac park shooting",
@@ -425,24 +497,6 @@
       "tag": "technology"
     },
     {
-      "title": "Police confirm relationships between Missaukee County shooting victims, gunman",
-      "desc": "All six shooting victims were known to the gunman.",
-      "link": "https://www.mlive.com/news/2026/08/police-confirm-relationships-between-missaukee-shooting-victims-gunman.html",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 13:44:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "‘Crime in America’ podcast: Family dynamics gone wrong, manufactured love, AI as a co-conspirator",
-      "desc": "Episode 3 of \"Crime in America\" covers a teen's AI-assisted alleged family murder, a massive U.S. marriage fraud scheme, and an under-reported Alabama mass murder case.",
-      "link": "https://www.mlive.com/crime/2026/08/crime-in-america-podcast-family-dynamics-gone-wrong-manufactured-love-ai-as-a-co-conspirator.html",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 13:30:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Claim deadline nears for $68 million Google Assistant settlement",
       "desc": "There are just days remaining to submit a claim form.",
       "link": "https://thehill.com/business/6048533-claim-deadline-nears-for-68-million-google-assistant-settlement/",
@@ -549,15 +603,6 @@
       "rawDate": "Mon, 24 Aug 2026 19:17:45 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Flint council to reconsider $4.6 million in federal housing grants after failed vote",
-      "desc": "The council is set to vote Monday on a resolution authorizing city officials to enter contracts with agencies for various HUD funded initiatives.",
-      "link": "https://www.mlive.com/news/flint/2026/08/flint-council-to-reconsider-46-million-in-federal-housing-grants-after-failed-vote.html",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 18:58:24 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions",
@@ -704,15 +749,6 @@
       "tag": "safety"
     },
     {
-      "title": "Pence: US must prepare for &#039;inevitable&#039; action against Iran",
-      "desc": "Former Vice President Mike Pence argued Sunday the U.S. military should prepare for further strikes against Iran, action he deemed “inevitable.” “It's going to be absolutely imperative that we keep th",
-      "link": "https://thehill.com/homenews/administration/6045637-us-military-preparedness-iran/",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 15:31:18 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "The odyssey of Ann Arbor: town is steeped in Greek history, culture",
       "desc": "From the Michigan Theater to various restaurants and a popular annual festival, Greeks who immigrated to Ann Arbor have made notable contributions to the city's culture.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/the-odyssey-of-ann-arbor-town-is-steeped-in-greek-history-culture.html",
@@ -781,24 +817,6 @@
       "link": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/",
       "date": "Aug 22, 2026",
       "rawDate": "Sat, 22 Aug 2026 00:51:40 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and salmonella",
-      "desc": "The Centers for Disease Control and Prevention (CDC) said Friday that alfalfa sprouts are linked to a current E. coli and salmonella outbreak. The agency has tied several foodborne illness cases to th",
-      "link": "https://thehill.com/policy/healthcare/6044230-cdc-ecoli-salmonella-outbreak-alfalfa-sprouts/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 20:52:04 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "TikTok reaches $400M settlement with DOJ over alleged children&#039;s privacy law violations",
-      "desc": "TikTok and its parent company, ByteDance, have agreed to pay $400 million to settle with the Department of Justice (DOJ) over allegations the platform violated a children’s online privacy law, the age",
-      "link": "https://thehill.com/policy/technology/6044396-doj-tiktok-privacy-fine/",
-      "date": "Aug 21, 2026",
-      "rawDate": "Fri, 21 Aug 2026 20:51:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

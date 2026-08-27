@@ -1,68 +1,401 @@
 {
-  "generated": "2026-08-27T13:24:29.505Z",
+  "generated": "2026-08-27T23:24:11.270Z",
   "news": [
     {
-      "title": "Democratic SC Senate nominee: &#039;Medicare for All is a policy from a few decades ago&#039;",
-      "desc": "South Carolina Senate Democratic nominee Annie Andrews on Wednesday dismissed Medicare for All as an outdated policy as she seeks to become the first Democrat to win a statewide race in the Palmetto S",
+      "title": "FDA approves new COVID-19 shots",
+      "desc": "The Food and Drug Administration approved updated COVID-19 vaccines on Thursday for people at higher risk, clearing the way for manufacturers to begin shipping them to pharmacies and physicians' offic",
+      "link": "https://thehill.com/policy/healthcare/6056305-fda-approves-updated-covid-vaccines/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 23:18:49 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Michigan man shot by deputy after 2-hour chase was stopped for no insurance, police say",
+      "desc": "Authorities say the 29-year-old Gaylord resident fled a traffic stop Saturday, crashed after striking a state police vehicle and was fatally shot after pointing a gun at an Otsego County sheriff’s off",
+      "link": "https://www.mlive.com/news/2026/08/michigan-man-shot-by-deputy-after-2-hour-chase-was-stopped-for-no-insurance-police-say.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 22:39:20 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "3 Stars and Stripes staffers sue Pentagon over firings at military news outlet",
+      "desc": "Three Stars and Stripes staffers sued the Pentagon in federal court Thursday, looking to prevent last week’s firings by the Department of Defense (DOD) at the military-focused newspaper.  Stars and St",
+      "link": "https://thehill.com/policy/defense/6056203-stars-and-stripes-pentagon-lawsuit-dod/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 22:18:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump gives GOP breathing room on data centers",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Trump toes line on data centers as GOP pushes back Republicans’ growing skepticism of data centers is forcing President Trump to balance his stead",
+      "link": "https://thehill.com/newsletters/technology/6056191-trump-data-centers-republicans-tech-newsletter/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 22:11:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump officials cast doubt on Pennsylvania measles death claims",
+      "desc": "Top Trump administration health officials are openly questioning the circumstances of two deaths that Pennsylvania officials attributed to measles.   “We don't know exactly what happened in Pennsylvan",
+      "link": "https://thehill.com/policy/healthcare/6056162-trump-officials-question-pennsylvania-measles/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 22:03:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Letter signed by Democratic senators calls on ICE to halt electric shock gloves",
+      "desc": "A group of mostly Democratic senators pressed for Immigration and Customs Enforcement (ICE) to not use gloves that can electrically shock people in a Thursday letter. In the letter addressed to ICE ac",
+      "link": "https://thehill.com/policy/national-security/6056134-senators-oppose-ice-shocking-gloves/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:50:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "All eyes on Warsh in Wyoming",
+      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  All eyes on Warsh in Wyoming Federal Reserve Chair Kevin Warsh ",
+      "link": "https://thehill.com/newsletters/business-economy/6056142-all-eyes-on-warsh-in-wyoming/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:48:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bank robbery reported in Auburn",
+      "desc": "Police are looking for a male suspect last seen fleeing eastbound on foot after robbing Huntington Bank.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/bank-robbery-reported-in-auburn.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:47:55 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "How an inside &#039;scoop&#039; revealed Pentagon links to pro-Trump influencer",
+      "desc": "A Utah software engineer, who runs a massive pro-President Trump social media account that has drawn attention from the likes of Elon Musk, made a sinister declaration in a post on Aug. 21. The “Deep ",
+      "link": "https://thehill.com/policy/defense/6056062-defense-department-special-government-employee-trump-influencer/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:44:47 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Judge blocks Trump administration plan to restructure housing grants",
+      "desc": "A federal judge on Wednesday halted the Trump administration’s plan to overhaul a decades-old grant program targeting housing discrimination, siding with fair housing groups that argued the changes hi",
+      "link": "https://thehill.com/regulation/court-battles/6056076-judge-halts-trump-housing-grants-overhaul/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:39:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man stabbed to death in Ypsilanti identified as 33-year-old from Detroit",
+      "desc": "Friends believe David Wagner's killer used a hatchet Wagner carried in his car for protection.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/man-stabbed-to-death-in-ypsilanti-identified-as-33-year-old-from-detroit.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:37:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Federal Reserve chief faces pivotal moment in Jackson Hole",
+      "desc": "Federal Reserve Chair Kevin Warsh is under the microscope as he heads to Jackson Hole for the Wyoming town’s signature economic symposium Friday, where eagle-eyed investors will be searching for any c",
+      "link": "https://thehill.com/business/6055663-warsh-jackson-hole-speech-preview/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:34:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump boosts Paxton amid GOP worries over Texas Senate flip",
+      "desc": "President Trump’s trip to Texas to boost GOP midterm efforts, including state Attorney General Ken Paxton’s (R) Senate campaign, is highlighting the red state’s prominence on the midterm election map ",
+      "link": "https://thehill.com/homenews/campaign/6055946-trump-paxton-texas-senate-spending/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:20:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+      "desc": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+      "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 21:08:34 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Live updates: DOJ argues Kennedy Center isn&#8217;t being renamed; Trump order renames Lake Ontario",
+      "desc": "President Trump signed an executive order Thursday afternoon that renames Lake Ontario to &#8220;Lake America,&#8221; following through on an idea he floated as the U.S.-Canada trade war hit fever pit",
+      "link": "https://thehill.com/homenews/administration/6053344-live-updates-kennedy-center-trump-texas-republicans/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 20:57:25 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Vermont&#8217;s GOP governor: Trump&#8217;s Lake Ontario order &#8216;petty and disappointing&#8217;",
+      "desc": "Vermont Gov. Phil Scott (R) on Thursday took issue with President Trump’s executive order renaming Lake Ontario as “Lake America” as his trade war with Canada intensifies.  “This is petty and disappoi",
+      "link": "https://thehill.com/homenews/state-watch/6055853-scott-criticizes-lake-america-order/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 20:47:07 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Father charged in 3 sons’ deaths had history of drinking and killed family puppy, ex-wife says",
+      "desc": "John Skelton was a problematic drinker who wouldn’t stop drinking until he passed out, his ex-wife from his first marriage, Michelle Lamphere, testified Thursday.",
+      "link": "https://www.mlive.com/news/jackson/2026/08/father-charged-in-3-sons-deaths-had-history-of-drinking-and-killed-family-puppy-ex-wife-says.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 20:44:48 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Gladwin man killed in single-vehicle crash in Midland County",
+      "desc": "Investigators are awaiting toxicology results to see if drugs or alcohol were factors in the crash.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/gladwin-man-killed-in-single-vehicle-crash-in-midland-county.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 20:06:07 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Karoline Leavitt confronted with one final question after Trump goes totally rogue on GOP",
+      "desc": "The outgoing White House press secretary addressed the president's amplification of conservative criticism against the Republican Party.",
+      "link": "https://www.mlive.com/politics/2026/08/karoline-leavitt-confronted-with-one-final-question-on-trumps-gop-trash-talk.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 19:58:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The keto ice cream you've seen at Walmart just filed for bankruptcy — here's why",
+      "desc": "The Chapter 11 filing came just weeks after a federal court ruled the keto brand had intentionally diluted a rival's trade dress.",
+      "link": "https://www.mlive.com/business/2026/08/the-keto-ice-cream-brand-sold-at-walmart-just-filed-for-bankruptcy-after-losing-a-stunning-238m-lawsuit.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 19:54:15 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Nvidia launches corporate PAC, expanding Washington footprint",
+      "desc": "Technology giant Nvidia is entering the election spending arena, launching a new corporate political action committee funded by employees. Nvidia filed a statement of organization Thursday, with the P",
+      "link": "https://thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 19:08:54 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "This restaurant only exists in Michigan ice arenas. Its Kalamazoo location is now open.",
+      "desc": "What started as concession stand conversions in hockey arenas is now a budding bar and grill franchise with Kalamazoo as its newest location. The owner started the business to spend more time watching",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/08/this-restaurant-only-exists-in-michigan-ice-arenas-its-kalamazoo-location-is-now-open.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:55:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Federal court rejects PhRMA challenge to Medicare drug price negotiation",
+      "desc": "A federal appeals court on Wednesday ruled against a lawsuit filed by representatives of the pharmaceutical industry challenging the federal Medicare drug price negotiation program, finding that drugm",
+      "link": "https://thehill.com/policy/healthcare/6055400-fifth-circuit-rejects-phrma-lawsuit/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:52:33 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "States sue Trump administration over family planning grant changes",
+      "desc": "A coalition of states sued the Trump administration Thursday to block changes to a family planning grant program that it alleges would strip federal funding from states and providers unless they align",
+      "link": "https://thehill.com/policy/healthcare/6055521-lawsuit-trump-contraception-restrictions/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:45:08 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375",
+      "desc": "I combed through the Labor Day sales to find the power tools and other essentials that cover nearly every household repair.",
+      "link": "https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:25:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Buc-ee’s to focus expansion on ‘conservative, business-friendly’ states, founder says",
+      "desc": "CEO Arch Aplin III didn't hold back when discussing where the beloved travel center chain will build next, and his comments are sparking debate about corporate politics.",
+      "link": "https://www.mlive.com/business/2026/08/buc-ees-to-focus-expansion-on-conservative-business-friendly-states-founder-says.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:25:15 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+      "desc": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+      "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:12:17 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Mary Free Bed gets approval for $60M in bonds for expansion projects",
+      "desc": "The hospital will repay the debt over 30 years to finance room renovations, a parking structure, an outpatient clinic and administrative office space.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/mary-free-bed-gets-approval-for-60m-in-bonds-for-expansion-projects.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:08:08 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "desc": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 18:06:52 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "‘Might sound crazy’: Biden once considered this shock move to help Trump, GOP lawmaker says",
+      "desc": "The governor pitched the “far-fetched idea” to the now-former president in 2023.",
+      "link": "https://www.mlive.com/politics/2026/08/might-sound-crazy-biden-once-considered-this-shock-move-to-help-trump-gop-lawmaker-says.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 17:38:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Netflix Failed at Video Games. Now It’s Trying to Promote Them",
+      "desc": "Netflix has walked back plans to put AAA games on its streaming platform. Instead, it's pivoting to marketing highly anticipated titles like Grand Theft Auto VI.",
+      "link": "https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 17:25:30 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Hillsdale College students immerse themselves in French language and culture through study abroad program",
+      "desc": "Five Hillsdale College students traveled to Tours, France, this spring and summer to study at the Institut de Touraine, where they lived with host families and took intensive French language courses w",
+      "link": "https://www.mlive.com/news/jackson/2026/08/hillsdale-college-students-immerse-themselves-in-french-language-and-culture-through-study-abroad-program.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 17:07:25 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Major supplier to Walmart, Safeway, Fresh Market files for bankruptcy",
+      "desc": "The company supplied salads and salad kits to stores such as Walmart, Albertsons, Safeway, H-E-B, The Fresh Market, and Meijer.",
+      "link": "https://www.mlive.com/business/2026/08/major-supplier-to-walmart-safeway-files-for-bankruptcy-winding-down-operations.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 16:56:22 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "desc": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 16:52:42 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Saginaw police disperse another large party, seize semi-auto rifle reported stolen in 2025",
+      "desc": "Police arrested a 17-year-old male during the Aug. 23 party, who has since been petitioned on criminal charges.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-police-disperse-another-large-party-seize-semi-auto-rifle-reported-stolen-in-2025.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 16:41:17 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "AI giant Nvidia&#039;s stock jumps after strong second quarter earnings",
+      "desc": "Nvidia’s stock leaped on Thursday, after the company reported strong earnings in the second quarter of this year. The company’s stock is up by roughly 8.5 percent as of just after 12 p.m. EDT Thursday",
+      "link": "https://thehill.com/policy/technology/6054988-nvidia-stock-leaps-q2-earnings/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 16:31:47 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "QVC Group is out of bankruptcy — and a familiar CEO is back in charge",
+      "desc": "The company secured $600 million in fresh financing and named a familiar interim CEO as it exits Chapter 11 bankruptcy.",
+      "link": "https://www.mlive.com/business/2026/08/the-retail-veteran-who-walked-away-from-qvc-is-now-running-it-again-after-a-stunning-bankruptcy-exit.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 16:12:21 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Army spending $2B to build nuclear microreactors at 5 bases",
+      "desc": "The U.S. Army is investing $2.2 billion in the development of nuclear microreactors at five bases to firm up national security through more dependable energy.  Nuclear microreactors can produce 1-20 m",
+      "link": "https://thehill.com/policy/defense/6054688-army-bases-nuclear-microreactors-janus-program/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 15:06:54 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "This Michigan high school let students paint their parking spots. And they’re spectacular.",
+      "desc": "Some used motivational quotes while others drew their favorite cartoon characters, showing off something meaningful to students while exploring self expression.",
+      "link": "https://www.mlive.com/news/flint/2026/08/this-michigan-high-school-let-students-paint-their-parking-spots-and-theyre-spectacular.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 14:58:12 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Before Michigan Democrats can focus on Trump, they must overcome their own divisions",
+      "desc": "State Democrats want to focus on President Donald Trump and the economy heading into November. But divisions from a bruising Senate primary continue to follow them.",
+      "link": "https://www.mlive.com/politics/2026/08/before-michigan-democrats-can-focus-on-trump-they-must-overcome-their-own-divisions.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 14:36:32 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "In brutal takedown, Trump shares post trashing GOP: ‘They are f---ing up right now’",
+      "desc": "He previously questioned whether GOP voters will show up during the midterms.",
+      "link": "https://www.mlive.com/politics/2026/08/in-brutal-takedown-trump-shares-post-trashing-gop-they-are-f-ing-up-right-now.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 13:58:10 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House Intel Chair: &#039;Joint service environment&#039; needs to prepare for future conflicts",
+      "desc": "House Intelligence Committee Chair Rick Crawford (R-Ark.) on Wednesday said the intelligence community needs to buy into a “joint service environment” in which the lines of communication are open and ",
+      "link": "https://thehill.com/homenews/house/6054333-crawford-intelligence-concerns/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 13:49:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump wants voters to ‘pretend’ he is on the ballot in November. But will that backfire?",
+      "desc": "Trump urged voters to treat the 2026 midterms as if he were on the ballot, despite his low approval ratings and voter dissatisfaction with the economy.",
+      "link": "https://www.mlive.com/politics/2026/08/trump-wants-voters-to-pretend-he-is-on-the-ballot-in-november-but-will-that-backfire.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 13:44:31 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "South Carolina Senate Democratic nominee: &#039;Medicare for All is a policy from a few decades ago&#039;",
+      "desc": "South Carolina Senate Democratic nominee Annie Andrews on Wednesday dismissed \"Medicare for All\" as an outdated policy as she seeks to become the first Democrat to win a statewide race in the Palmetto",
       "link": "https://thehill.com/homenews/campaign/6054250-medicare-all-annie-andrews-south-carolina-senate/",
       "date": "Aug 27, 2026",
       "rawDate": "Thu, 27 Aug 2026 13:06:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House Democrat pushes back on &#039;nutty stuff&#039; some in DSA support",
-      "desc": "Rep. Glenn Ivey (D-Md.) on Wednesday pushed back on some of the policy proposals included in the Democratic Socialists of America's (DSA) platform, calling it \"nutty stuff.\" Ivey said in an interview ",
-      "link": "https://thehill.com/homenews/campaign/6054209-democrats-clash-leftist-candidates/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 13:04:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bipartisan lawmakers turn up pressure on Serbian president as elections loom",
-      "desc": "A pair of bipartisan lawmakers are sending a warning to Serbian President Aleksandar Vučić to answer anti-corruption demands and sever ties with America’s adversaries or risk sanctions from the U.S.  ",
-      "link": "https://thehill.com/homenews/house/6054232-joe-wilson-bill-keating-aleksandar-vucic-serbia-warning-protests-elections-loom/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 13:03:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Data centers have the tech — now, they need to develop trust",
-      "desc": "Data centers should be built. America needs the jobs, the investment, the computing power, the competition and the strategic advantages they provide. But the industry should understand the bargain it ",
-      "link": "https://thehill.com/opinion/technology/6052886-ai-data-centers-public-trust/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 13:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Cook argues Trump administration has no legal basis to remove her from Federal Reserve board",
-      "desc": "Federal Reserve Governor Lisa Cook on Wednesday pushed back against the Trump administration's renewed attempt to fire her from the central bank's Board of Governors, despite a Supreme Court ruling pr",
-      "link": "https://thehill.com/homenews/administration/6054169-lisa-cook-trump-administration-federal-reserve-board-of-governors-firing/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 12:35:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mamdani socialism and Trump socialism — reject them both",
-      "desc": "Neither the modern left nor the modern right believes in keeping the state from owning and directing businesses.",
-      "link": "https://thehill.com/opinion/finance/6051425-rejecting-left-right-socialism/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 12:30:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "On the Ballot: Markey-Moulton matchup underlines competing visions for change in Democratic Party",
-      "desc": "Rep. Seth Moulton and Sen. Ed Markey are squaring off for Massachusetts's Democratic Senate nod next week in the latest primary to spotlight young challengers vying to push out the party's old guard. ",
-      "link": "https://thehill.com/newsletters/on-the-ballot/6051469-on-the-ballot-markey-moulton-massachusetts-senate-primary/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "5 takeaways from the third day of the Skelton triple homicide court hearing",
@@ -101,15 +434,6 @@
       "tag": "education"
     },
     {
-      "title": "Texas and Florida&#8217;s tort reforms helped make them great — now they are at risk",
-      "desc": "The economic dominance by Texas and Florida did not come about by accident.",
-      "link": "https://thehill.com/opinion/finance/6049321-texas-florida-tort-reform/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 11:30:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Best Posture Correctors for Better Body Alignment (2026)",
       "desc": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
       "link": "https://www.wired.com/gallery/posture-correctors/",
@@ -137,17 +461,8 @@
       "tag": "technology"
     },
     {
-      "title": "Republicans divided over preelection stimulus push as economy slows",
-      "desc": "Republicans on Capitol Hill are divided over whether to make a last-ditch push to enact legislation to stimulate the economy and cheer up voters before Election Day as the latest federal data shows th",
-      "link": "https://thehill.com/homenews/senate/6053833-gop-divided-economic-stimulus/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump toes line on data centers as more Republicans pump the brakes",
-      "desc": "Republicans’ growing skepticism about data centers is forcing President Trump to balance his steadfast support for the industry with pushback from his party ahead of the midterm elections. While Trump",
+      "desc": "Republicans’ growing skepticism of data centers is forcing President Trump to balance his steadfast support for the industry with pushback from his party ahead of the midterm elections. While Trump ha",
       "link": "https://thehill.com/homenews/administration/6053426-trump-balances-gop-pushback-data-centers/",
       "date": "Aug 27, 2026",
       "rawDate": "Thu, 27 Aug 2026 10:00:00 +0000",
@@ -173,38 +488,11 @@
       "tag": "government"
     },
     {
-      "title": "The brand that let you recycle your old jeans just filed for Chapter 11",
-      "desc": "Dion Vijdeboom said the company helped prove that circularity in fashion is not just an ambition — it can be done.",
-      "link": "https://www.mlive.com/business/2026/08/the-eco-friendly-jeans-brand-that-let-you-return-your-old-denim-has-filed-for-chapter-11-bankruptcy.html",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 09:00:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "The UK Power Grid Has a Phantom Data Center Problem",
       "desc": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
       "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
       "date": "Aug 27, 2026",
       "rawDate": "Thu, 27 Aug 2026 06:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Hostinger Promo Code: 79% Off for September 2026",
-      "desc": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "link": "https://www.wired.com/story/hostinger-coupon-code/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "TopResume Packages: Everything You Need to Get Hired",
-      "desc": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
-      "link": "https://www.wired.com/story/topresume-discount-code/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -219,7 +507,7 @@
     },
     {
       "title": "Flock contract cancellations grow among cities, other jurisdictions",
-      "desc": "Two Phoenix, Ariz. suburbs became the latest municipalities Wednesday to terminate their contracts with Flock Safety, cancelling their use of the company’s automated license plate readers (ALPRs) that",
+      "desc": "Two Phoenix, Ariz., suburbs became the latest municipalities Wednesday to terminate their contracts with Flock Safety, canceling their use of the company’s automated license plate readers (ALPRs) that",
       "link": "https://thehill.com/policy/technology/6053849-flock-contract-cancellations-grow-data-concerns/",
       "date": "Aug 27, 2026",
       "rawDate": "Thu, 27 Aug 2026 00:36:30 +0000",
@@ -236,8 +524,8 @@
       "tag": "safety"
     },
     {
-      "title": "Hegseth upgrades medals of three Marines who survived Afghanistan attack five years ago",
-      "desc": "Defense Secretary Pete Hegseth on Wednesday upgraded the valor awards of three Marines who guarded the Abbey Gate at the Hamid Karzai International Airport when a bomb went off as U.S. service members",
+      "title": "Hegseth upgrades medals of 3 Marines who survived Afghanistan attack 5 years ago",
+      "desc": "Defense Secretary Pete Hegseth on Wednesday upgraded the valor awards of three Marines who guarded the Abbey Gate at the Kabul International Airport when a bomb went off as U.S. service members were e",
       "link": "https://thehill.com/policy/defense/6053832-hegseth-upgrades-abbey-gate-awards/",
       "date": "Aug 26, 2026",
       "rawDate": "Wed, 26 Aug 2026 23:37:24 +0000",
@@ -425,15 +713,6 @@
       "tag": "safety"
     },
     {
-      "title": "Rising Dem throws shade at Biden, Harris: ‘Let’s move on’",
-      "desc": "Rob Sand, the Iowa state auditor, is locked in a highly competitive gubernatorial race against Republican Zach Lahn.",
-      "link": "https://www.mlive.com/politics/2026/08/rising-dem-throws-shade-at-biden-harris-lets-move-on.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 18:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "FDA approves groundbreaking new pancreatic cancer drug",
       "desc": "The Food and Drug Administration (FDA) on Wednesday approved a treatment for advanced pancreatic cancer, offering new life-extending care for patients with one of the most aggressive forms of cancer. ",
       "link": "https://thehill.com/policy/healthcare/6052834-fda-approves-pancreatic-cancer-drug/",
@@ -441,15 +720,6 @@
       "rawDate": "Wed, 26 Aug 2026 17:50:34 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Billionaire businessman named Grand Marshal of Detroit’s 100th Thanksgiving Parade",
-      "desc": "One of the largest parades in the country, it is syndicated across nearly 200 markets nationwide.",
-      "link": "https://www.mlive.com/business/2026/08/billionaire-businessman-named-grand-marshal-of-detroits-100th-thanksgiving-parade.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 17:32:47 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Woman killed in drive-by shooting, police use license plate reader to find vehicle",
@@ -470,15 +740,6 @@
       "tag": "education"
     },
     {
-      "title": "National pizza chain sells 28 restaurants in busy tourist destination",
-      "desc": "Wade Oney, a former chief operations officer at Papa John's, acquired the corporate-owned locations.",
-      "link": "https://www.mlive.com/business/2026/08/national-pizza-chain-sells-28-restaurants-in-busy-tourist-destination.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 17:01:50 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "RFK Jr. responds to Shapiro over measles-related deaths",
       "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. shot back at Pennsylvania Gov. Josh Shapiro (D) on social media after the governor blamed him and the Trump administration for playing a",
       "link": "https://thehill.com/policy/healthcare/6052342-kennedy-shapiro-measles-deaths/",
@@ -493,42 +754,6 @@
       "link": "https://www.mlive.com/news/detroit/2026/08/1-dead-1-injured-after-boat-goes-airborne-sinks-in-oakland-county-lake.html",
       "date": "Aug 26, 2026",
       "rawDate": "Wed, 26 Aug 2026 16:28:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Two Dan Sullivans make November Senate ballot in Alaska",
-      "desc": "Two candidates named Dan Sullivan advanced to Alaska’s Senate general election, creating a unique matchup with Democrat Mary Peltola in a key 2026 race.",
-      "link": "https://www.mlive.com/politics/2026/08/one-ballot-two-identical-names-and-a-senate-seat-at-stake-in-alaska.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 15:56:22 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Dolly Parton unites Trump, democratic socialists: ‘Probably won’t ever see anything like this’",
-      "desc": "The president, his predecessors and others mourned the loss of the legendary singer-songwriter.",
-      "link": "https://www.mlive.com/politics/2026/08/dolly-parton-unites-trump-democratic-socialists-probably-wont-ever-see-anything-like-this.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 15:29:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Saginaw teen shot in leg on city’s West Side",
-      "desc": "Police have no suspects in custody as of late Wednesday morning.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-teen-shot-in-leg-on-citys-west-side.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 15:15:27 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "FBI and Flint police report wide gap in city violent crime numbers",
-      "desc": "Why do Flint's crime numbers differ so sharply from FBI data? The answer may come down to reporting deadlines, case updates and how crimes are categorized.",
-      "link": "https://www.mlive.com/news/flint/2026/08/fbi-and-flint-police-report-wide-gap-in-city-violent-crime-numbers.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 15:13:55 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -551,42 +776,6 @@
       "tag": "education"
     },
     {
-      "title": "Bronner’s Christmas Wonderland hiring seasonal workers at Frankenmuth job fair",
-      "desc": "Bronner’s starting wage is $15 per hour, and the company offers $22.50 per hour on Saturday evenings and Sundays.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/bronners-christmas-wonderland-hiring-seasonal-workers-at-frankenmuth-job-fair.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 14:30:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Saginaw Township police testify parolee held gun to head, threatened ‘We’re all gonna die’",
-      "desc": "Police arrested the absconder in an elderly neighbor's house a few hours after the ordeal began, finding a pink 9mm handgun in his waistband.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-township-police-testify-parolee-held-gun-to-head-threatened-were-all-gonna-die.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 14:04:35 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Charges filed after 17-year-old dies in Northern Michigan crash",
-      "desc": "A 22-year-old is facing a felony charge related to driving while intoxicated.",
-      "link": "https://www.mlive.com/news/2026/08/charges-filed-after-17-year-old-dies-in-northern-michigan-crash.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 14:04:24 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump reportedly seeks to make 2026 elections all about him. Will that hurt Republicans?",
-      "desc": "Trump plans to run midterm ads highlighting his own record, despite a 39% approval rating, according to The Atlantic.",
-      "link": "https://www.mlive.com/politics/2026/08/trump-reportedly-seeks-to-make-2026-elections-all-about-him-will-that-hurt-republicans.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 14:01:18 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Meta settles social media addiction trial with states for up to $17B",
       "desc": "Meta and a coalition of state attorneys general reached a settlement in the high-profile trial accusing the company of designing its platforms to be addictive for young users, according to court filin",
       "link": "https://thehill.com/policy/technology/6051476-meta-settlement-youth-addiction-lawsuit/",
@@ -594,15 +783,6 @@
       "rawDate": "Wed, 26 Aug 2026 13:43:25 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Motorcyclist critically injured in U.S. 131 crash near Grand Rapids",
-      "desc": "Michigan State Police found the rider in the grass on the opposite side of the guardrail at the U.S. 131 exit to 54th Street.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/08/motorcyclist-critically-injured-in-us-131-crash-near-grand-rapids.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 13:28:45 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "USS Abraham Lincoln sailor’s father released from immigration custody",
@@ -623,24 +803,6 @@
       "tag": "health"
     },
     {
-      "title": "1 fatally stabbed in Ypsilanti",
-      "desc": "The mens' ages were not immediately available.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/1-fatally-stabbed-in-ypsilanti.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 13:08:08 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Proposal to ban DTE, Consumers Energy political spending poised to make November ballot",
-      "desc": "Michigan Senate Majority Leader Winnie Brinks said the more than half a million petition signatures turned into the state sends a clear message voters want it on the ballot.",
-      "link": "https://www.mlive.com/politics/2026/08/proposal-to-ban-dte-consumers-energy-political-spending-poised-to-make-november-ballot.html",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 12:55:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "US boat strike in the Caribbean kills four suspected of &#039;narco-trafficking&#039;",
       "desc": "The U.S. military launched a lethal strike on Tuesday against an alleged drug boat in the Caribbean traveling through “established narco-trafficking routes,” as outlined by U.S. Southern Command (Sout",
       "link": "https://thehill.com/policy/defense/6050947-us-military-drug-boat-strike/",
@@ -648,15 +810,6 @@
       "rawDate": "Wed, 26 Aug 2026 03:01:03 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Pennsylvania attorney general accuses Snapchat of failing to protect children in new lawsuit",
-      "desc": "Pennsylvania Attorney General Dave Sunday (R) announced a lawsuit Tuesday, accusing Snap, the parent company of Snapchat, of failing to protect children from compulsively using its platform. The compl",
-      "link": "https://thehill.com/policy/technology/6050412-pa-attorney-general-snapchat-lawsuit/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 21:41:19 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Ann Arbor teachers, district reach tentative deal after nearly 9-month contract impasse",
@@ -693,15 +846,6 @@
       "rawDate": "Tue, 25 Aug 2026 19:46:15 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Wisconsin district attorney declines to charge Musk over $1M voter giveaway",
-      "desc": "A Wisconsin state prosecutor declined to charge technology billionaire Elon Musk with election bribery for his $1 million check handouts to voters during the state's Supreme Court election last year. ",
-      "link": "https://thehill.com/policy/technology/6049563-prosecutor-declines-to-charge-musk-voter-giveaway/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 18:24:46 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Florida moves to end certain school vaccination requirements",
@@ -776,15 +920,6 @@
       "tag": "education"
     },
     {
-      "title": "FDA approves new blood test for Alzheimer’s disease",
-      "desc": "The Food and Drug Administration (FDA) has granted approval for a new test for Alzheimer's disease, marking the fourth time such a blood test has been approved in less than two years. Roche announced ",
-      "link": "https://thehill.com/policy/healthcare/6047899-fda-approves-roche-alzheimers-test/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 22:02:19 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Senate Democrats call for hearing on Iran war&#039;s strain on troops",
       "desc": "Nearly all Senate Armed Services Committee minority members on Monday called on the panel’s head to hold a hearing with Pentagon leadership to discuss the impact extended deployments in support of the",
       "link": "https://thehill.com/policy/defense/6047832-iran-war-troop-hearing-uss-lincoln/",
@@ -803,51 +938,6 @@
       "tag": "safety"
     },
     {
-      "title": "Putin wants to mobilize at least 300,000 more troops to Russia-Ukraine war: Zelensky",
-      "desc": "Ukrainian President Volodymyr Zelensky said Sunday that Russian President Vladimir Putin plans to draft 300,000 more troops in his continued war effort against Ukraine. Zelensky told reporters Russia ",
-      "link": "https://thehill.com/policy/international/6047627-zelensky-calls-for-patriot-missiles/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 19:55:12 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "3rd person dies from flesh-eating bacteria in Florida",
-      "desc": "At least two deaths caused by Vibriosis have been reported each year in Florida since 2017.",
-      "link": "https://thehill.com/homenews/state-watch/6046435-3rd-death-florida-flesh-eating-bacteria-vibrio/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 19:25:38 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "US military launches first known drug boat strike in months, killing 2 ‘narco-terrorists’",
-      "desc": "The U.S. military launched its first known strike on an alleged drug boat in two months off the coast of Latin America on Sunday, killing two “narco-terrorists” in the eastern Pacific.  The U.S. South",
-      "link": "https://thehill.com/policy/defense/6047529-us-military-drug-boat-strike/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 19:17:45 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions",
-      "desc": "From unexpected babies to \"Ozempic teeth,\" the ultra-popular class of GLP-1 medications are turning out to have a few unanticipated side effects. Emerging research shows the drugs, which have proven e",
-      "link": "https://thehill.com/policy/healthcare/6045719-glp-1-drugs-unexpected-side-effect-addiction-help/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 18:53:46 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Marines cancel joint drill with South Korea",
-      "desc": "The United States canceled a large joint amphibious landing exercise between the Marine Corps and South Korean forces set for September over resource constraints tied to the U.S.-Israeli war in Iran, ",
-      "link": "https://thehill.com/policy/defense/6047313-us-marines-south-korea-ssangyong-exercises-canceled-resource-constraints-iran-war/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 18:21:07 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Forest Hills community mourns after senior dies in ORV crash",
       "desc": "Luke Kooistra, 17, a Forest Hills Eastern student, died Sunday following an ORV crash in Oceana County.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/forest-hills-community-mourns-after-senior-dies-in-orv-crash.html",
@@ -855,15 +945,6 @@
       "rawDate": "Mon, 24 Aug 2026 17:00:54 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "2 US military refueling aircraft depart Bulgaria amid anger from Iran over deployment",
-      "desc": "Two U.S. military refueling aircraft departed Bulgaria last week amid Iran’s anger over the planes' deployment to Bezmer Air Base.   Two Air Force KC-135 planes left the air base located in the southe",
-      "link": "https://thehill.com/policy/defense/6047077-bulgaria-iran-air-force/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 17:00:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "‘Excited to create meaningful opportunities’: Lapeer welcomes students on first day of school",
@@ -880,33 +961,6 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/08/big-smiles-four-new-playgrounds-welcome-grand-rapids-students-back-to-school.html",
       "date": "Aug 24, 2026",
       "rawDate": "Mon, 24 Aug 2026 15:54:48 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Back-to-school season expected to worsen record measles outbreak",
-      "desc": "With kids returning to school amid the worst year of measles in more than 30 years and as a record number of children report exemptions from vaccines, the likelihood that the spread of measles will wo",
-      "link": "https://thehill.com/policy/healthcare/6044574-measles-cases-worsen-back-to-school/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "The odyssey of Ann Arbor: town is steeped in Greek history, culture",
-      "desc": "From the Michigan Theater to various restaurants and a popular annual festival, Greeks who immigrated to Ann Arbor have made notable contributions to the city's culture.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/the-odyssey-of-ann-arbor-town-is-steeped-in-greek-history-culture.html",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 14:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Why the University of Michigan hired Cybele C. Raver and what comes next",
-      "desc": "The hope is that Cybele Raver won’t just fill the position but remain in it.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/why-the-university-of-michigan-hired-cybele-c-raver-and-what-comes-next.html",
-      "date": "Aug 23, 2026",
-      "rawDate": "Sun, 23 Aug 2026 12:18:50 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

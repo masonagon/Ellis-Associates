@@ -1,32 +1,131 @@
 {
-  "generated": "2026-08-26T21:30:41.162Z",
+  "generated": "2026-08-27T02:27:37.471Z",
   "news": [
+    {
+      "title": "NASA administrator suggests putting data centers in space",
+      "desc": "NASA Administrator Jared Isaacman on Wednesday suggested housing data centers in space amid mounting controversy surrounding the facilities’ growing presence in the U.S. “Let's take our data centers, ",
+      "link": "https://thehill.com/policy/technology/6053940-nasa-administrator-ai-data-centers-space/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 02:25:18 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "GOP nominee for Texas House seat apologizes for &#039;crude&#039; online posts",
+      "desc": "Texas state House candidate Jorge Borrego issued an apology Wednesday for past posts that featured “crude and immature jokes” after laughing the posts off earlier this week. “In no ways do those past ",
+      "link": "https://thehill.com/homenews/campaign/6053905-texas-rep-candidate-borrego-apology/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 01:03:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Accused 9/11 &#8216;mastermind&#8217; to stand trial in 2028",
+      "desc": "The self-proclaimed and accused \"mastermind\" of the Sept. 11, 2001, terrorist attacks on the World Trade Center is scheduled to stand trial in 2028, according to an order issued Wednesday.",
+      "link": "https://thehill.com/regulation/court-battles/6053891-accused-911-attack-mastermind-trial-date/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 00:46:32 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Flock contract cancellations grow among cities, other jurisdictions",
+      "desc": "Two Phoenix, Ariz. suburbs became the latest municipalities Wednesday to terminate their contracts with Flock Safety, cancelling their use of the company’s automated license plate readers (ALPRs) that",
+      "link": "https://thehill.com/policy/technology/6053849-flock-contract-cancellations-grow-data-concerns/",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 00:36:30 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Man dies after early morning shooting on Flint’s north side",
+      "desc": "Police found the victim with a gunshot wound in the 100 block of East Bishop Avenue around 4 a.m. Wednesday. A suspect was arrested shortly afterward.",
+      "link": "https://www.mlive.com/news/flint/2026/08/man-dies-after-early-morning-shooting-on-flints-north-side.html",
+      "date": "Aug 27, 2026",
+      "rawDate": "Thu, 27 Aug 2026 00:01:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Dingell: November election isn&#039;t about Hasan Piker",
+      "desc": "Rep. Debbie Dingell (D-Mich.) on Wednesday expressed her frustration with media coverage surrounding left-wing streamer Hasan Piker and the upcoming Senate race in Michigan. “But I want to tell you: t",
+      "link": "https://thehill.com/homenews/campaign/6053835-dingell-frustrated-hasan-piker/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 23:55:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hegseth upgrades medals of three Marines who survived Afghanistan attack five years ago",
+      "desc": "Defense Secretary Pete Hegseth on Wednesday upgraded the valor awards of three Marines who guarded the Abbey Gate at the Hamid Karzai International Airport when a bomb went off as U.S. service members",
+      "link": "https://thehill.com/policy/defense/6053832-hegseth-upgrades-abbey-gate-awards/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 23:37:24 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Hegseth considering Pentagon chief spokesperson to replace Army secretary",
+      "desc": "Defense Secretary Pete Hegseth is considering his chief spokesperson, Sean Parnell, to succeed Army Secretary Dan Driscoll, who is eyeing an exit from the Pentagon in the coming months, two sources fa",
+      "link": "https://thehill.com/policy/defense/6053812-hegseth-considers-parnell-army-secretary/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 23:09:16 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Meta reaches $18B deal on kids&#039; use of Facebook, Instagram: 4 takeaways",
+      "desc": "A landmark settlement between Meta and attorneys general across the country will see the technology giant pay more than $18 billion to states but also roll out several changes to better protect kids a",
+      "link": "https://thehill.com/policy/technology/6053718-meta-pays-states-billions/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 22:23:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Maine Lobstermen&#8217;s Association fears becoming &#8216;collateral damage&#8217; in Canada tariff war",
+      "desc": "The Maine Lobstermen’s Association said Wednesday the escalating tariff battle between the U.S. and Canada threatens to make “collateral damage” out of the industry. Canada announced earlier this week",
+      "link": "https://thehill.com/business/6053700-maine-lobstermen-warn-canada-trade-war/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 22:22:35 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Democrats notch win in TV ad rate case",
+      "desc": "The 4th Circuit Court of Appeals ruled in favor of Democrats Tuesday in a 2-1 decision that requires super PACs and political parties to pay the same rate for television ads. The suit against the Fede",
+      "link": "https://thehill.com/regulation/court-battles/6053531-political-parties-super-pac-television-ad-lowest-unit-charge/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 22:07:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats in key House, Senate races sign AI regulation pledge amid data center scrutiny",
+      "desc": "Eighteen House, Senate and gubernatorial candidates have signed a pledge to push for beefed-up regulations on the AI industry, as the rapidly evolving technology continues to impact Americans.  The ca",
+      "link": "https://thehill.com/homenews/campaign/6053534-candidates-sign-ai-pact/",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 22:00:41 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Suspect in custody after fatal early morning shooting in Flint",
+      "desc": "The victim received medical attention on scene and was immediately transported to a local hospital. He later died from his injuries.",
+      "link": "https://www.mlive.com/news/flint/2026/08/suspect-in-custody-after-fatal-early-morning-shooting-in-flint.html",
+      "date": "Aug 26, 2026",
+      "rawDate": "Wed, 26 Aug 2026 21:32:18 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Bill Gates: AI will either be &#039;greatest equalizer&#039; or &#039;worst source of injustice&#039;",
       "desc": "Microsoft co-founder Bill Gates argued Tuesday that AI will either be the “greatest equalizer ever invented” or the “worst source of injustice,” calling for society to act quickly to prepare for the t",
       "link": "https://thehill.com/policy/technology/6053490-bill-gates-artificial-intelligence-warning/",
       "date": "Aug 26, 2026",
       "rawDate": "Wed, 26 Aug 2026 21:19:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Maine Republican governor nominee requests ICE at polling places during midterms",
-      "desc": "Bobby Charles, the Republican gubernatorial nominee in Maine, recently said he wants the Trump administration to deploy Immigration and Customs Enforcement (ICE) officers and U.S. Marshals to polling ",
-      "link": "https://thehill.com/homenews/state-watch/6053299-gop-nominee-maine-ice-elections/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 21:13:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Manchin calls for more independents in Congress: ‘People want a little bit more normalcy&#039;",
-      "desc": "Former Sen. Joe Manchin (I-W.Va.) — a former Democrat known for his staunch centrism — is continuing his push to bring more independents into Congress, now arguing that breaking away from the two-part",
-      "link": "https://thehill.com/homenews/campaign/6053257-manchin-congress-independent-candidates-more-normalcy/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 20:59:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
@@ -83,33 +182,6 @@
       "tag": "technology"
     },
     {
-      "title": "Judge orders ICE to release second witness to fatal Texas shooting",
-      "desc": "A federal judge in Houston ordered Immigration and Customs Enforcement (ICE) authorities on Monday to release a witness to last month’s fatal shooting of Lorenzo Salgado Araujo in the Texas city by ag",
-      "link": "https://thehill.com/regulation/court-battles/6053188-judge-orders-ice-release-witness/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 20:12:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Judge blocks Democrats&#039; redistricting push in Maryland",
-      "desc": "A Maryland judge Wednesday blocked an effort that would have proposed a constitutional amendment to redraw the state’s congressional districts to residents, marking another setback for Democratic redi",
-      "link": "https://thehill.com/regulation/court-battles/6053271-judge-blocks-maryland-redistricting-amendment/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 20:10:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Louisiana governor &#039;not concerned&#039; about environmental impact of Gulf Coast SpaceX facility",
-      "desc": "Louisiana Gov. Jeff Landry (R) brushed aside fears Wednesday morning about possible negative environmental impacts from SpaceX’s planned $100 billion launch facility in the state.   He told CBS News o",
-      "link": "https://thehill.com/homenews/state-watch/6053240-spacex-launch-facility-louisiana-jeff-landry/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 19:55:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Iran puts Europe on notice as US shifts to economic warfare",
       "desc": "Iran’s recent saber-rattling against Bulgaria has renewed questions over how much it’s willing to directly attack Europe in an effort to deter U.S. allies from aiding war efforts against Tehran.  Bulg",
       "link": "https://thehill.com/policy/defense/6053189-iran-bulgaria-threats-nato/",
@@ -160,8 +232,8 @@
       "link": "https://thehill.com/homenews/senate/6053139-hawley-investigates-flock-safety-cameras/",
       "date": "Aug 26, 2026",
       "rawDate": "Wed, 26 Aug 2026 18:56:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "University of Michigan hosts its biggest undergrad move-in week ever",
@@ -171,24 +243,6 @@
       "rawDate": "Wed, 26 Aug 2026 18:54:47 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Buc-ee&#039;s says it will prioritize &#039;conservative, business-friendly&#039; states amid pushback over logo lawsuits",
-      "desc": "Gas station and travel center chain Buc-ee's said it will seek out “conservative, business friendly” states for new locations after receiving pushback over its decision to go after small business owne",
-      "link": "https://thehill.com/business/6052969-bucees-trademark-infringement-lawsuits-conservative/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 18:35:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Buc-ee&#8217;s says it will prioritize &#8216;conservative, business-friendly&#8217; states amid pushback over logo lawsuits",
-      "desc": "Gas station and travel center chain Buc-ee&#8217;s said it will seek out “conservative, business friendly” states for new locations after receiving pushback over its decision to go after small busines",
-      "link": "https://thehill.com/business/6052969-bucees-trademark-infringement-lawsuits-conservative/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 18:35:13 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "New update: Where Trump stands in search to replace Karoline Leavitt",
@@ -205,8 +259,8 @@
       "link": "https://thehill.com/policy/international/6052863-doj-disrupts-chinese-hacking-operation/",
       "date": "Aug 26, 2026",
       "rawDate": "Wed, 26 Aug 2026 18:15:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
@@ -560,15 +614,6 @@
       "tag": "technology"
     },
     {
-      "title": "Witnesses recall comments on body disposal, underground organization in Skelton triple homicide case",
-      "desc": "The best ways to hide a body, keeping his children away from their mother and comments about an underground organization were the highlights of the second day of the John Skelton triple homicide heari",
-      "link": "https://www.mlive.com/news/jackson/2026/08/witnesses-recall-comments-on-body-disposal-underground-organization-in-skelton-triple-homicide-case.html",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 21:03:38 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Ann Arbor teachers, district reach tentative deal after nearly 9-month contract impasse",
       "desc": "Ann Arbor Public Schools announced a tentative agreement Monday following months of bargaining, mediation and teacher protests, though contract details will remain under wraps until union members vote",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/ann-arbor-teachers-district-reach-tentative-deal-after-nearly-9-month-contract-impasse.html",
@@ -602,15 +647,6 @@
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 19:46:15 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Police find 3 children living in squalor in Saginaw County, 2 adults charged",
-      "desc": "Three adults and three children were allegedly living in a single bedroom, while another bedroom was being used as a litter box for four animals.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/police-find-3-children-living-in-squalor-in-saginaw-county-2-adults-charged.html",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 19:30:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -686,24 +722,6 @@
       "tag": "health"
     },
     {
-      "title": "China: New US sanctions on Iran &#039;will only further intensify tensions&#039;",
-      "desc": "Chinese Foreign Ministry spokesperson Lin Jian said Tuesday the latest U.S. sanctions on Iran “will only further intensify tensions” between the two countries. “Economic warfare and maximum pressure w",
-      "link": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 13:54:38 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Claim deadline nears for $68 million Google Assistant settlement",
-      "desc": "There are just days remaining to submit a claim form.",
-      "link": "https://thehill.com/business/6048533-claim-deadline-nears-for-68-million-google-assistant-settlement/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 13:02:45 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "The Movement: MAHA and anti-abortion groups split on FDA nominee",
       "desc": "Anti-abortion groups and other conservatives largely applauded the White House announcement that President Trump would nominate health policy aide Dr. Heidi Overton for Food and Drug Administration (F",
       "link": "https://thehill.com/newsletters/the-movement/6048020-overton-fda-maha-abortion-convention-beef/",
@@ -776,15 +794,6 @@
       "tag": "health"
     },
     {
-      "title": "Trump administration lays out new $103K fee proposal for H-1B visas",
-      "desc": "The Department of Homeland Security (DHS) issued a new proposed rule for H-1B visas on Monday that would charge a $103,265 fee for all workers seeking to gain employment in the U.S. who are subject to",
-      "link": "https://thehill.com/homenews/administration/6047349-new-h1b-visa-cost-proposal/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 19:20:50 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "US military launches first known drug boat strike in months, killing 2 ‘narco-terrorists’",
       "desc": "The U.S. military launched its first known strike on an alleged drug boat in two months off the coast of Latin America on Sunday, killing two “narco-terrorists” in the eastern Pacific.  The U.S. South",
       "link": "https://thehill.com/policy/defense/6047529-us-military-drug-boat-strike/",
@@ -846,24 +855,6 @@
       "rawDate": "Mon, 24 Aug 2026 15:54:48 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Democrats demand Iran war cost details from Trump, Hegseth",
-      "desc": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war.  “What was billed as a two-week operatio",
-      "link": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 15:15:30 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Bessent doubles down on Trump warnings: &#039;Entering the endgame&#039; on Iran",
-      "desc": "Treasury Secretary Scott Bessent on Sunday previewed the Trump administration’s economic offensive against Iran, set to begin Monday. Echoing President Trump’s rhetoric on the military operations agai",
-      "link": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
-      "date": "Aug 24, 2026",
-      "rawDate": "Mon, 24 Aug 2026 11:54:40 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Back-to-school season expected to worsen record measles outbreak",

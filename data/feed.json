@@ -1,9 +1,36 @@
 {
-  "generated": "2026-08-29T18:03:34.553Z",
+  "generated": "2026-08-29T21:25:40.792Z",
   "news": [
     {
+      "title": "Leavitt is leaving the White House. Don&#039;t expect her to go far",
+      "desc": "Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump’s orbit as Republicans seek to defend their majorities on",
+      "link": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
+      "date": "Aug 29, 2026",
+      "rawDate": "Sat, 29 Aug 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
+      "desc": "Walmart has agreed to pay $50 million to settle a lawsuit claiming that its pharmacies filled hundreds of thousands of illegal prescriptions for controlled substances that fueled the opioid crisis, th",
+      "link": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
+      "date": "Aug 29, 2026",
+      "rawDate": "Sat, 29 Aug 2026 19:34:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Victim of Ypsilanti killing was stabbed 100 times",
+      "desc": "Two kitchen knives were found in the car.",
+      "link": "https://www.mlive.com/crime/2026/08/victim-of-ypsilanti-killing-was-stabbed-100-times.html",
+      "date": "Aug 29, 2026",
+      "rawDate": "Sat, 29 Aug 2026 19:13:18 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "Democrats sound alarm on US-Venezuela oil deal: &#039;This isn&#039;t a win&#039;",
-      "desc": "Democratic leaders slammed Friday's announcement by President Trump on a new deal to acquire majority U.S. control of over 65 million barrels of Venezuelan oil.  “Let's be clear: this isn't a win,” Ma",
+      "desc": "Democrats slammed Friday's announcement by President Trump on a new deal to acquire majority U.S. control of over 65 million barrels of Venezuelan oil.  “Let's be clear: this isn't a win,” Maryland Se",
       "link": "https://thehill.com/homenews/senate/6059052-democrats-slam-trump-venezuela-oil-deal/",
       "date": "Aug 29, 2026",
       "rawDate": "Sat, 29 Aug 2026 17:39:45 +0000",
@@ -39,7 +66,7 @@
     },
     {
       "title": "Abbott bars Texas agencies from funding Flock cameras",
-      "desc": "Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network.  The decision, which",
+      "desc": "Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network.  The decision, which",
       "link": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
       "date": "Aug 29, 2026",
       "rawDate": "Sat, 29 Aug 2026 15:17:15 +0000",
@@ -79,15 +106,6 @@
       "link": "https://thehill.com/homenews/campaign/6058875-begich-drops-alaska-governors-race/",
       "date": "Aug 29, 2026",
       "rawDate": "Sat, 29 Aug 2026 13:08:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Talarico talks healthcare with ally Mark Cuban, campaigning Democrats divided over Harris endorsements",
-      "desc": "Mark Cuban — the billionaire investor and former owner of the Dallas Mavericks — is set to appear alongside Texas Senate candidate James Talarico (D) in Fort Worth Saturday evening, where the pair wil",
-      "link": "https://thehill.com/homenews/administration/6058737-live-talarico-cuban-talk-trump-maga-inc/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 13:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -153,15 +171,6 @@
       "rawDate": "Sat, 29 Aug 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Democrats on campaign trail divided by Kamala Harris",
-      "desc": "Democratic candidates in competitive election races are taking different tacks this cycle over how close to affiliate themselves with former Vice President Kamala Harris, who’s lent her support to man",
-      "link": "https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "How to Run a Chatbot on Your Own Computer",
@@ -387,15 +396,6 @@
       "rawDate": "Fri, 28 Aug 2026 17:14:19 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Bay City taproom Governor’s Quarters hosts party to mark 1-year since Jeep crashed through wall",
-      "desc": "The Birch Run woman who crashed into the popular taproom has not been charged with a crime, as prosecutors are still awaiting analysis of her blood.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/bay-city-taproom-governors-quarters-hosts-party-to-mark-1-year-since-jeep-crashed-through-wall.html",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 16:43:41 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Why are flesh-eating bacteria expanding beyond traditional hotspots?",

@@ -1,6 +1,15 @@
 {
-  "generated": "2026-08-29T02:57:57.830Z",
+  "generated": "2026-08-29T09:44:52.554Z",
   "news": [
+    {
+      "title": "Psilocybin Might Make Your Brain Live in the Moment",
+      "desc": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
+      "link": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
+      "date": "Aug 29, 2026",
+      "rawDate": "Sat, 29 Aug 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Police search for man who allegedly robbed Muskegon Township bank Friday afternoon",
       "desc": "The incident at the local Comerica Bank remains under investigation, police said.",
@@ -81,15 +90,6 @@
       "rawDate": "Fri, 28 Aug 2026 21:45:55 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Tennessee plans to rename Nashville airport after Dolly Parton",
-      "desc": "Tennessee Gov. Bill Lee (R) announced a proposal Friday to rename Nashville’s airport in honor of Dolly Parton, following the late country music star’s death earlier this week.  “Dolly Parton’s extrao",
-      "link": "https://thehill.com/homenews/state-watch/6058436-bill-lee-proposes-dolly-parton-airport/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 21:33:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Trump administration asks Supreme Court to allow military&#039;s transgender ban",
@@ -398,15 +398,6 @@
       "tag": "technology"
     },
     {
-      "title": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
-      "desc": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why show how vast—and invasive—the network has become.",
-      "link": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Tech firms call for &#039;collective action&#039; against AI-powered hacking",
       "desc": "OpenAI is leading the call among other technology firms for “collective action” against “AI-enabled cyber attacks.” “Today’s AI advances are already giving defenders new ways to fix weaknesses that ha",
       "link": "https://thehill.com/policy/technology/6056449-openai-tech-firms-cyberattacks-response/",
@@ -495,15 +486,6 @@
       "rawDate": "Thu, 27 Aug 2026 19:08:54 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "This restaurant only exists in Michigan ice arenas. Its Kalamazoo location is now open.",
-      "desc": "What started as concession stand conversions in hockey arenas is now a budding bar and grill franchise with Kalamazoo as its newest location. The owner started the business to spend more time watching",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/this-restaurant-only-exists-in-michigan-ice-arenas-its-kalamazoo-location-is-now-open.html",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 18:55:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Federal court rejects PhRMA challenge to Medicare drug price negotiation",
@@ -664,15 +646,6 @@
       "link": "https://thehill.com/homenews/campaign/6053534-candidates-sign-ai-pact/",
       "date": "Aug 26, 2026",
       "rawDate": "Wed, 26 Aug 2026 22:00:41 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Bill Gates: AI will either be &#039;greatest equalizer&#039; or &#039;worst source of injustice&#039;",
-      "desc": "Microsoft co-founder Bill Gates argued Tuesday that AI will either be the “greatest equalizer ever invented” or the “worst source of injustice,” calling for society to act quickly to prepare for the t",
-      "link": "https://thehill.com/policy/technology/6053490-bill-gates-artificial-intelligence-warning/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 21:19:55 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

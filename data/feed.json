@@ -1,9 +1,108 @@
 {
-  "generated": "2026-08-30T08:45:25.191Z",
+  "generated": "2026-08-30T14:09:21.317Z",
   "news": [
     {
+      "title": "Driver ejected from vehicle, killed in Oakland County crash",
+      "desc": "Police say excessive speed and not wearing a seat belt were factors in the fatal crash.",
+      "link": "https://www.mlive.com/news/2026/08/driver-ejected-from-vehicle-killed-in-oakland-county-crash.html",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 14:02:46 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "2 seriously injured after vehicle rolls over in Ottawa County",
+      "desc": "Police are investigating the early morning crash in Zeeland Township that left a 20-year-old woman and 21-year-old man hospitalized.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/08/2-seriously-injured-after-vehicle-rolls-over-in-ottawa-county.html",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 13:13:54 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Live updates: US-Venezuela oil deal sparks debate; Doug Ford set for Sunday show appearance",
+      "desc": "President Trump this weekend announced a new deal for the U.S. to acquire majority control of over 65 million barrels of Venezuelan oil, which has prompted a mixed response on the home front. Senate D",
+      "link": "https://thehill.com/homenews/administration/6059344-live-updates-trump-venezuela-oil-deal/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 12:24:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ypsilanti high school earns rare 2nd authorization for prestigious academic program",
+      "desc": "The latest authorization expands student options and places the school among a select group statewide.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/08/ypsilanti-high-school-earns-rare-2nd-authorization-for-prestigious-academic-program.html",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 12:20:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "What happens when Republican senators have nothing left to lose? Not much.",
+      "desc": "Often called the “Wounded Bear” or YOLO (“you only live once”) Caucus, these lawmakers have nothing to lose. But despite a greater willingness to voice objections to Trump nominations and policies, th",
+      "link": "https://thehill.com/opinion/congress-blog/6057763-senators-abandoning-constitutional-checks/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Minnesota high court rejects Lindell&#039;s gubernatorial primary recount bid",
+      "desc": "The Minnesota Supreme Court on Saturday rejected MyPillow founder Mike Lindell's (R) bid for a recount of the state's gubernatorial primary election, effectively confirming an 11-point loss that he ha",
+      "link": "https://thehill.com/regulation/court-battles/6059439-minnesota-court-rejects-lindell-recount/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 11:52:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+      "desc": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.",
+      "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "State of Texas: Meta settlement to bring social media child safety changes",
+      "desc": "Meta, the social media giant, will pay $1 billion and implement new child safety regulations on its platforms as part of a settlement with the state of Texas.",
+      "link": "https://thehill.com/homenews/state-watch/6059237-state-of-texas-meta-settlement-to-bring-social-media-child-safety-changes/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 10:57:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why the Hottest New Wearables Want to Be Ignored",
+      "desc": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+      "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Shock poll reveals stunning number of Gen Z Trump voters who regret their 2024 vote",
+      "desc": "A Navigator poll found 31% of Gen Z Trump voters now regret their 2024 vote as the president faces record-low approval numbers.",
+      "link": "https://www.mlive.com/politics/2026/08/shock-poll-reveals-stunning-number-of-gen-z-trump-voters-who-regret-their-2024-vote.html",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 10:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP gambles on midterm dividends from RFK Jr.’s MAHA",
+      "desc": "Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again (MAHA) movement has barely made a splash to help bo",
+      "link": "https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "El-Sayed urges Democrats to unite, targets Rogers and Trump ties",
-      "desc": "As he took the stage against a backdrop of supporters and an American flag, U.S. Senate nominee Abdul El-Sayed attempted to outline the stakes for Democrats ahead of the November election.",
+      "desc": "As he took the stage at Saturday's Democratic party nominating convention, U.S. Senate nominee Abdul El-Sayed attempted to outline the stakes for Democrats ahead of the November election.",
       "link": "https://www.mlive.com/politics/2026/08/el-sayed-urges-democrats-to-unite-targets-rogers-and-trump-ties.html",
       "date": "Aug 30, 2026",
       "rawDate": "Sun, 30 Aug 2026 01:45:48 +0000",
@@ -29,7 +128,7 @@
       "tag": "government"
     },
     {
-      "title": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+      "title": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable",
       "desc": "Republicans are nearing the final stretch of the midterm election cycle with an increasingly unstable political landscape, as races for traditionally safe red seats grow competitive amid tensions over",
       "link": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
       "date": "Aug 29, 2026",
@@ -65,15 +164,6 @@
       "tag": "safety"
     },
     {
-      "title": "Democrats sound alarm on US-Venezuela oil deal: &#039;This isn&#039;t a win&#039;",
-      "desc": "Democrats slammed Friday's announcement by President Trump on a new deal to acquire majority U.S. control of over 65 million barrels of Venezuelan oil.  “Let's be clear: this isn't a win,” Maryland Se",
-      "link": "https://thehill.com/homenews/senate/6059052-democrats-slam-trump-venezuela-oil-deal/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 17:39:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "1 arrested for driving through barricade during standoff near Ypsilanti",
       "desc": "Police believe the driver was intoxicated.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/1-arrested-for-driving-through-barricade-during-standoff-near-ypsilanti.html",
@@ -83,24 +173,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump admin unjustly revoked pro-Palestinian foreign students&#039; visas, judge finds",
-      "desc": "A federal judge in California ruled Friday the Trump administration unconstitutionally sought to deport international students for pro-Palestinian activism and criticism of Israel.  In a 90-page rulin",
-      "link": "https://thehill.com/regulation/court-battles/6059009-federal-judge-trump-visa-activist-ruling/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 17:15:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Pentagon&#039;s new nuclear doctrine needs congressional guardrails",
-      "desc": "Critics in Congress and the arms control community are right: Any doctrine premised on “limited” nuclear use invites the illusion of control.",
-      "link": "https://thehill.com/opinion/national-security/6057538-dod-shifts-focus-tactical-nukes/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Abbott bars Texas agencies from funding Flock cameras",
       "desc": "Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network.  The decision, which",
       "link": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
@@ -108,15 +180,6 @@
       "rawDate": "Sat, 29 Aug 2026 15:17:15 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Operation Economic Outcast needs an off-ramp, not just a noose",
-      "desc": "Treasury Secretary Scott Bessent announced Operation Economic Outcast on Aug. 24, a massive expansion of sanctions aimed at severing Iran's ties to the global economy by targeting the infrastructure u",
-      "link": "https://thehill.com/opinion/international/6056167-trump-besent-iran-sanctions/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 15:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "White House teleprompter operator who placed bets on Trump’s speeches ordered to pay $172K",
@@ -371,24 +434,6 @@
       "tag": "safety"
     },
     {
-      "title": "Man accused of making up stabbing story to hide theft from Michigan Walmart store",
-      "desc": "Prosecutors claim a Michigan man who reported being stabbed was actually injured while stealing a gaming system from Walmart, later confessing he fabricated the attack to cover up the theft.",
-      "link": "https://www.mlive.com/news/flint/2026/08/man-accused-of-making-up-stabbing-story-to-hide-theft-from-michigan-walmart-store.html",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 18:42:12 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Prosecutors drop case against man who shot teen girl through door",
-      "desc": "The charge of reckless discharge of a firearm causing injury or death filed against Troy Allen Webb, 42, was dismissed on Aug. 12 at the request of the Jackson County Prosecutor’s Office, court record",
-      "link": "https://www.mlive.com/news/jackson/2026/08/prosecutors-drop-case-against-man-who-shot-teen-girl-through-door.html",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 18:23:19 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Microsoft Teams Has Become a Haven for Scammers in China",
       "desc": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
       "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
@@ -452,15 +497,6 @@
       "tag": "education"
     },
     {
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "desc": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-      "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 15:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Trump rips ‘jealous’ Hall of Fame voters over Yankees legend snub",
       "desc": "President Donald Trump goes to bat for Yankees legend snubbed by Baseball Hall of Fame.",
       "link": "https://www.mlive.com/politics/2026/08/trump-rips-jealous-hall-of-fame-voters-over-yankees-legend-snub.html",
@@ -477,42 +513,6 @@
       "rawDate": "Fri, 28 Aug 2026 12:01:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "The 31 Best Deals From the REI Labor Day Sale",
-      "desc": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale.",
-      "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 12:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Shake Shack, Jersey Mike’s among 5 new businesses coming to Allen Park’s ‘the Hill’",
-      "desc": "Five new businesses are coming to Allen Park’s “the Hill,” where three buildings are already under construction.",
-      "link": "https://www.mlive.com/news/detroit/2026/08/shake-shack-jersey-mikes-among-5-new-businesses-coming-to-allen-parks-the-hill.html",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 12:00:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "desc": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-      "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "desc": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-      "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 10:56:22 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Tech firms call for &#039;collective action&#039; against AI-powered hacking",
@@ -686,15 +686,6 @@
       "tag": "technology"
     },
     {
-      "title": "NASA administrator suggests putting data centers in space",
-      "desc": "NASA Administrator Jared Isaacman on Wednesday suggested housing data centers in space amid mounting controversy surrounding the facilities’ growing presence in the U.S. “Let's take our data centers, ",
-      "link": "https://thehill.com/policy/technology/6053940-nasa-administrator-ai-data-centers-space/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 02:25:18 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Hegseth upgrades medals of 3 Marines who survived Afghanistan attack 5 years ago",
       "desc": "Defense Secretary Pete Hegseth on Wednesday upgraded the valor awards of three Marines who guarded the Abbey Gate at the Kabul International Airport when a bomb went off as U.S. service members were e",
       "link": "https://thehill.com/policy/defense/6053832-hegseth-upgrades-abbey-gate-awards/",
@@ -857,29 +848,11 @@
       "tag": "health"
     },
     {
-      "title": "Saginaw schools leader says legal limits delayed public statement on alleged student sexual assault",
-      "desc": "\"We understand that the delay in being able to send this communication may have caused additional concerns and apologize for that,\" read a statement from Superintendent Ramont Roberts.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-schools-leader-says-legal-limits-delayed-public-statement-on-alleged-student-sexual-assault.html",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 16:44:06 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "What is CTE, and how many former NFL players have been diagnosed with it?",
       "desc": "So far, the degenerative brain disease has only been diagnosed after a person's death.",
       "link": "https://thehill.com/policy/healthcare/6048906-what-is-cte-and-how-many-former-nfl-players-have-been-diagnosed-with-it/",
       "date": "Aug 25, 2026",
       "rawDate": "Tue, 25 Aug 2026 16:36:32 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Thyroid tablets recalled nationwide over potential &#039;superpotency&#039;: FDA",
-      "desc": "Patients taking the affected lot are advised not to discontinue use without first consulting their health care provider.",
-      "link": "https://thehill.com/policy/healthcare/6049169-thyroid-tablets-recalled-nationwide-potential-superpotency-fda/",
-      "date": "Aug 25, 2026",
-      "rawDate": "Tue, 25 Aug 2026 16:10:51 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

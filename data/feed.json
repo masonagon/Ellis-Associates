@@ -1,6 +1,24 @@
 {
-  "generated": "2026-08-30T21:45:41.441Z",
+  "generated": "2026-08-31T00:04:35.153Z",
   "news": [
+    {
+      "title": "US strikes Iranian rocket launchers in first attack since late July",
+      "desc": "The U.S. military struck two Iranian rocket launchers on Sunday, marking its first attack on the Middle Eastern country in more than a month, according to a U.S. official. American forces struck the t",
+      "link": "https://thehill.com/policy/defense/6060116-us-strikes-iranian-rocket-launchers/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 22:47:24 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Markey trounces Moulton in Massachusetts Senate primary poll",
+      "desc": "Incumbent Sen. Ed Markey (D-Mass.) is handily leading Rep. Seth Moulton (D-Mass.) in a primary race for his seat in the upper chamber, according to a new poll. In the Emerson College Polling survey re",
+      "link": "https://thehill.com/homenews/campaign/6060059-markey-leading-moulton-poll/",
+      "date": "Aug 30, 2026",
+      "rawDate": "Sun, 30 Aug 2026 21:56:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
       "desc": "Freedom Fuel gas stations, which the Trump administration promoted last month, sold fuel that its supplier never paid for, according to a lawsuit filed earlier this month. The suit, which attorneys fo",
@@ -88,24 +106,6 @@
       "link": "https://thehill.com/homenews/administration/6059702-homan-milo-yiannopoulos-deported/",
       "date": "Aug 30, 2026",
       "rawDate": "Sun, 30 Aug 2026 17:52:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "4 big wins that come with housing affordability",
-      "desc": "While federal legislation like the 21st Century ROAD to Housing Act provides some relief, experts argue that local efforts to revitalize existing buildings and improve housing quality offer broader be",
-      "link": "https://thehill.com/opinion/finance/6058602-benefits-affordable-housing-communities/",
-      "date": "Aug 30, 2026",
-      "rawDate": "Sun, 30 Aug 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Clyburn says he backs El-Sayed: &#039;All of us deserve second chances&#039;",
-      "desc": "Rep. James Clyburn (D-S.C.) on Sunday said he supports Michigan Senate candidate Abdul El-Sayed (D) after he apologized for comments he made following an attack on a Detroit-area synagogue earlier thi",
-      "link": "https://thehill.com/homenews/campaign/6059613-clyburn-supports-el-sayed-michigan/",
-      "date": "Aug 30, 2026",
-      "rawDate": "Sun, 30 Aug 2026 16:59:33 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -246,7 +246,7 @@
     },
     {
       "title": "Abbott bars Texas agencies from funding Flock cameras",
-      "desc": "Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network.  The decision, which",
+      "desc": "Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network.  The decision, which",
       "link": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
       "date": "Aug 29, 2026",
       "rawDate": "Sat, 29 Aug 2026 15:17:15 +0000",
@@ -255,7 +255,7 @@
     },
     {
       "title": "White House teleprompter operator who placed bets on Trump’s speeches ordered to pay $172K",
-      "desc": "The White House teleprompter operator who placed online bets on President Trump’s speeches has been ordered to pay a total of $172,000, a federal agency said Friday.  The Commodity Futures Trading Com",
+      "desc": "The White House teleprompter operator who placed online bets on President Trump’s speeches has been ordered to pay a total of $172,000, a federal agency said Friday.  The Commodity Futures Trading Com",
       "link": "https://thehill.com/homenews/administration/6058917-white-house-teleprompter-speech-bets-fined/",
       "date": "Aug 29, 2026",
       "rawDate": "Sat, 29 Aug 2026 14:19:57 +0000",
@@ -756,15 +756,6 @@
       "rawDate": "Wed, 26 Aug 2026 20:32:14 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Iran puts Europe on notice as US shifts to economic warfare",
-      "desc": "Iran’s recent saber-rattling against Bulgaria has renewed questions over how much it’s willing to directly attack Europe in an effort to deter U.S. allies from aiding war efforts against Tehran.  Bulg",
-      "link": "https://thehill.com/policy/defense/6053189-iran-bulgaria-threats-nato/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 19:51:49 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "University of Michigan hosts its biggest undergrad move-in week ever",

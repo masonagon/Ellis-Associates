@@ -1,9 +1,18 @@
 {
-  "generated": "2026-08-31T00:04:35.153Z",
+  "generated": "2026-08-31T06:28:21.927Z",
   "news": [
     {
+      "title": "Saginaw police investigate incident involving force during arrest",
+      "desc": "“The Saginaw Police Department is aware of an incident involving our officers effecting an arrest in which force was used, which is currently circulating on social media,” read the statement from Sagi",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/saginaw-police-investigate-incident-involving-force-during-arrest.html",
+      "date": "Aug 31, 2026",
+      "rawDate": "Mon, 31 Aug 2026 00:08:09 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "US strikes Iranian rocket launchers in first attack since late July",
-      "desc": "The U.S. military struck two Iranian rocket launchers on Sunday, marking its first attack on the Middle Eastern country in more than a month, according to a U.S. official. American forces struck the t",
+      "desc": "The U.S. military struck two Iranian rocket launchers on Sunday, marking its first attack on the Middle Eastern country in more than a month, with Iran reportedly retaliating later in the day. America",
       "link": "https://thehill.com/policy/defense/6060116-us-strikes-iranian-rocket-launchers/",
       "date": "Aug 30, 2026",
       "rawDate": "Sun, 30 Aug 2026 22:47:24 +0000",
@@ -21,7 +30,7 @@
     },
     {
       "title": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
-      "desc": "Freedom Fuel gas stations, which the Trump administration promoted last month, sold fuel that its supplier never paid for, according to a lawsuit filed earlier this month. The suit, which attorneys fo",
+      "desc": "Freedom Fuel gas stations, which the Trump administration promoted last month, sold fuel that its supplier never paid for, a lawsuit filed earlier this month claims. The suit, which attorneys for Mans",
       "link": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
       "date": "Aug 30, 2026",
       "rawDate": "Sun, 30 Aug 2026 21:20:01 +0000",
@@ -97,17 +106,8 @@
       "link": "https://thehill.com/policy/defense/6059759-blumenthal-urges-ukraine-air-defense/",
       "date": "Aug 30, 2026",
       "rawDate": "Sun, 30 Aug 2026 18:01:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Homan after Milo Yiannopoulos deportation: &#039;Get them out quick&#039;",
-      "desc": "Editor's note: This story was updated to accurately reflect former Rep. Marjorie Taylor Greene's title. White House border czar Tom Homan on Sunday said federal immigration enforcement authorities \"ge",
-      "link": "https://thehill.com/homenews/administration/6059702-homan-milo-yiannopoulos-deported/",
-      "date": "Aug 30, 2026",
-      "rawDate": "Sun, 30 Aug 2026 17:52:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Driver killed in Ingham County after vehicle crashes into residence",
@@ -431,15 +431,6 @@
       "date": "Aug 28, 2026",
       "rawDate": "Fri, 28 Aug 2026 21:12:50 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Troublemakers, beware: Fire and police presence expected at pre-class partying",
-      "desc": "Students reportedly set fires during similar celebrations in 2025.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/troublemakers-beware-fire-and-police-presence-expected-at-pre-class-partying.html",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 20:45:14 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {

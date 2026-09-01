@@ -1,50 +1,176 @@
 {
-  "generated": "2026-09-01T15:20:20.068Z",
+  "generated": "2026-09-01T19:03:19.767Z",
   "news": [
     {
-      "title": "Ocasio-Cortez: &#039;Put a data center up in Mar-a-Lago&#039;",
-      "desc": "Progressive Rep. Alexandria Ocasio-Cortez (D-N.Y.) quipped Monday that a company should build an AI data center near President Trump’s Mar-a-Lago resort after he said communities will be “backwards an",
-      "link": "https://thehill.com/policy/technology/6063264-ocasio-cortez-data-center-mar-a-lago-florida/",
+      "title": "Two Democrats, in highly unusual move, cross the aisle to save GOP bills",
+      "desc": "Two Democrats took the unusual step of voting with Republicans to advance a batch of GOP-backed bills, preventing a handful of conservatives from tanking the vote and effectively saving Speaker Mike J",
+      "link": "https://thehill.com/homenews/house/6063798-golden-perez-gop-bills-advance/",
       "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 15:17:13 +0000",
+      "rawDate": "Tue, 01 Sep 2026 18:42:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House to host first press briefing in over 40 days",
+      "desc": "The White House will host a press briefing on Thursday, marking the first briefing in over 40 days.  A White House official who confirmed the plans did not specify who would be briefing the press.  Ne",
+      "link": "https://thehill.com/homenews/administration/6063949-white-house-press-briefing-scheduled/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 18:29:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Applications open for $1,926 grants for Flint youth community projects",
+      "desc": "The Charles Stewart Mott Foundation is accepting applications for the second round of its Youth Choice Awards, which gives Flint students chances to secure funding for community projects.",
+      "link": "https://www.mlive.com/news/flint/2026/09/applications-open-for-1926-grants-for-flint-youth-community-projects.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 18:28:22 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "See 7-figure salary for incoming University of Michigan president",
+      "desc": "C. Cybele Raver will make the same as the University of Michigan’s first presidential hiring made earlier this year.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/see-7-figure-salary-for-incoming-university-of-michigan-president.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 18:13:45 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "No negotiations with Canada right now: US trade rep",
+      "desc": "U.S. Trade Representative Jamieson Greer said there are no trade negotiations happening with Canada after they fell apart last month and tariffs from the Trump administration on Canadian goods went in",
+      "link": "https://thehill.com/business/6063839-greer-denies-canada-trade-talks/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 18:12:37 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "GOP senator ‘disappointed’ over departure of Army secretary who clashed with Hegseth",
+      "desc": "Sen. Mike Rounds (S.D.), a senior Republican on the Senate Armed Services Committee, said he was “disappointed” to learn of the resignation of Army Secretary Daniel Driscoll and expressed concern abou",
+      "link": "https://thehill.com/homenews/senate/6063890-hegseth-pentagon-leadership-turmoil/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 18:12:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Congress funds government until December, averting pre-election shutdown",
+      "desc": "The House on Tuesday voted to send a short-term extension of government funding to President Trump’s desk, avoiding a politically risky shutdown on the eve of the midterm elections.  The continuing re",
+      "link": "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 18:06:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US strikes IRGC targets in Iran in response to attacks on American forces",
+      "desc": "The U.S. military struck Islamic Revolutionary Guard Corps (IRGC) targets inside Iran on Tuesday following Tehran’s attacks on U.S. military assets in the region, the U.S. Central Command (Centcom) an",
+      "link": "https://thehill.com/policy/defense/6063807-us-strikes-irgc-targets-in-iran-in-response-to-attacks-on-american-forces/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 17:44:54 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "CDC, Pennsylvania clash over measles deaths",
+      "desc": "The Centers for Disease Control and Prevention (CDC) is disputing two measles deaths reported by Pennsylvania and excluding them from its official weekly tally of deaths, a radical departure from the ",
+      "link": "https://thehill.com/policy/healthcare/6063769-cdc-disputes-pennsylvania-measles-deaths/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 17:44:46 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Hakeem Jeffries calls Laura Loomer a ‘stone-cold racist,’ demands Republicans denounce her",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) went after right-wing influencer Laura Loomer for her rhetoric toward prominent left-leaning Black women in politics including Florida Democratic Senate ",
+      "link": "https://thehill.com/homenews/house/6063637-hakeem-jeffries-denounces-loomer-racism/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 17:07:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: House approves funding to avoid shutdown; US strikes Iran targets",
+      "desc": "U.S. Central Command announced Tuesday afternoon on X that the military had started striking Islamic Revolutionary Guard Corps (IRGC) targets following \"recent attempted attacks by the IRGC against co",
+      "link": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 16:59:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Like a nightmare’: City council reacts to video showing Saginaw police striking woman",
+      "desc": "Elected officials called the footage appalling at a packed Monday meeting where residents linked the incident to concerns about police training and the 2012 death of Milton Hall.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/like-a-nightmare-city-council-reacts-to-video-showing-saginaw-police-striking-woman.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 16:57:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "C. Cybele Raver officially appointed as University of Michigan president",
+      "desc": "UM's 17th president starts on Dec. 1, but will advise on a number of important hires in the coming weeks.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/c-cybele-raver-officially-appointed-as-university-of-michigan-president.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 16:56:35 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Man found dead on railroad tracks after being struck by train",
+      "desc": "Investigators determined that the man was struck Monday evening by the last Amtrak train that traveled through the area. No foul play is suspected at this time.",
+      "link": "https://www.mlive.com/news/jackson/2026/09/man-found-dead-on-railroad-tracks-after-being-struck-by-train.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 16:49:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Police identify man killed in Kentwood shooting",
+      "desc": "No arrests have been made as the investigation continues.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/police-identify-man-killed-in-kentwood-shooting.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 16:38:25 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "OpenAI: Apple&#039;s trade secret theft accusation is baseless",
+      "desc": "OpenAI argued in a court filing Monday that Apple’s accusations of trade theft against the AI company are baseless, suggesting the problem instead lies in the iPhone maker’s policies. The ChatGPT make",
+      "link": "https://thehill.com/policy/technology/6063525-openai-denies-apple-trade-theft-allegation/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 16:20:41 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
     {
-      "title": "Ocasio-Cortez: &#8216;Put a data center up in Mar-a-Lago&#8217;",
-      "desc": "Progressive Rep. Alexandria Ocasio-Cortez (D-N.Y.) quipped Monday that a company should build an AI data center near President Trump’s Mar-a-Lago resort after he said communities will be “backwards an",
-      "link": "https://thehill.com/policy/technology/6063264-ocasio-cortez-data-center-mar-a-lago-florida/",
+      "title": "Fox News host attacks possible 2028 contender as ‘ditzy’ in latest rant",
+      "desc": "On Monday, Jesse Watters said Ocasio-Cortez was “ditzy” and predicted that she will make a 2028 run for the White House.",
+      "link": "https://www.mlive.com/politics/2026/09/fox-news-host-attacks-possible-2028-contender-as-ditzy-in-latest-rant.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 16:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw woman who shot man 6 times heads to prison, says she’s a ‘domestic violence survivor’",
+      "desc": "On her 35th birthday, Darnisha R. Sanders received a prison term for repeatedly shooting her boyfriend, whom she then mocked when calling 911 to report the incident.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-woman-who-shot-man-6-times-heads-to-prison-says-shes-a-domestic-violence-survivor.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 15:59:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ocasio-Cortez: &#039;Put a data center up in Mar-a-Lago&#039;",
+      "desc": "Progressive Rep. Alexandria Ocasio-Cortez (D-N.Y.) quipped Monday that a company should build an AI data center near President Trump’s Mar-a-Lago resort, after he said communities will be “backwards a",
+      "link": "https://thehill.com/homenews/house/6063264-ocasio-cortez-data-center-mar-a-lago-florida/",
       "date": "Sep 1, 2026",
       "rawDate": "Tue, 01 Sep 2026 15:17:13 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Trump has asked Apple to change Lake Ontario name: Burgum",
-      "desc": "Interior Secretary Doug Burgum said that President Trump has asked tech company Apple to change the name of Lake Ontario to “Lake America” after an executive order from the president that pushed the n",
-      "link": "https://thehill.com/homenews/administration/6063349-trump-apple-map-lake-america/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 15:15:43 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Greg Bovino was under investigation when he retired, records show",
-      "desc": "Recently released federal records show Homeland Security officials had launched an internal investigation into controversial Border Patrol commander Greg Bovino shortly before he announced his retirem",
-      "link": "https://thehill.com/homenews/administration/6063186-greg-bovino-investigation-dhs-cbp/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:59:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whistleblower warns of potential USPS system failure for midterms",
-      "desc": "A whistleblower on Monday warned that the U.S. Postal Service (USPS) computer system is riddled with errors and could jeopardize mail-in voting in the November midterm elections, according to a statem",
-      "link": "https://thehill.com/homenews/administration/6063040-usps-midterm-voting-risk/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:45:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
@@ -63,51 +189,6 @@
       "rawDate": "Tue, 01 Sep 2026 14:22:11 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Watch live: House Dems give remarks amid race to avert shutdown, Iran war turmoil",
-      "desc": "House Democratic leaders will give remarks Tuesday as lawmakers face a packed week of legislative business, with the war with Iran, affordability concerns and the looming government shutdown among the",
-      "link": "https://thehill.com/video-clips/6063178-watch-live-house-democrats-press-conference-key-votes-cr-iran/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:17:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Europe blasts Russian finance minister&#8217;s attendance at Asheville G20",
-      "desc": "European financial officials pushed back on the U.S. decision to invite Russia’s finance minister to the G20 finance meeting in Asheville, N.C., this week. The European officials expressed concern tha",
-      "link": "https://thehill.com/policy/international/6063150-europans-oppose-russian-g20-invite/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:12:38 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Is the party that is seen as normal going to win?: Live Discussion",
-      "desc": "Democrats are making the case that they're the normal ones, betting that voters in 2028 will be tired of President Trump and will vote for a Democratic candidate seen as reasonable. It's a backlash to",
-      "link": "https://thehill.com/homenews/campaign/fight-for-2028/6063145-democrats-normal-party-woke-trump-live-discussion/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:10:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump administration taps Nicki Minaj, Dean Cain for &#8216;Shark Tank&#8217;-style show",
-      "desc": "Nicki Minaj and actor Dean Cain are taking starring roles in a &#8220;Shark Tank&#8221;-style event being held by the Small Business Administration (SBA). &#8220;Starships&#8221; rapper Minaj — who&#8",
-      "link": "https://thehill.com/blogs/in-the-know/6063190-sba-million-dollar-pitch-competition/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:08:30 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Trump calls on Congress to pass film and TV tax incentive",
-      "desc": "President Trump urged Congress on Monday evening to “immediately” approve federal tax incentives for movie and TV production.  In a Truth Social post, the president said he had met earlier in the day ",
-      "link": "https://thehill.com/homenews/administration/6063166-trump-proposes-federal-film-tax-incentives/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:05:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "House Republican pushes back on Trump data center support: &#039;I guess I&#039;m backwards and poor&#039;",
@@ -470,33 +551,6 @@
       "tag": "safety"
     },
     {
-      "title": "Secret Service searched dark web, 50 databases for missing Skelton boys, found nothing",
-      "desc": "The boys were last seen with their father at Thanksgiving in November 2010 in Morenci, a town along the Ohio border. They were ages 9, 7 and 5 at the time of their disappearance.",
-      "link": "https://www.mlive.com/news/jackson/2026/08/secret-service-searched-dark-web-50-databases-for-missing-skelton-boys-found-nothing.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 18:58:33 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "St. Charles man threatened to take girl out of U.S. to keep abusing her, prosecutors allege",
-      "desc": "Prosecutors allege the 45-year-old man sexually abused the girl in three Michigan counties since she was 7 years old.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/st-charles-man-threatened-to-take-girl-out-of-us-to-keep-abusing-her-prosecutors-allege.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 18:44:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Police arrest person of interest in Auburn bank robbery",
-      "desc": "Police are still hoping for the public’s help in obtaining more evidence to shore up their case.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/police-arrest-person-of-interest-in-auburn-bank-robbery.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 18:20:36 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Kalshi suspends GOP House candidate in North Carolina for betting on own race",
       "desc": "Prediction market Kalshi has suspended GOP House candidate Laurie Buckhout from its platform for three years, after it determined she wagered on her own race.  After launching her candidacy in North C",
       "link": "https://thehill.com/policy/technology/6061531-kalshi-prediction-market-ban-laurie-buckhout-north-carolina-gop-house-race/",
@@ -504,15 +558,6 @@
       "rawDate": "Mon, 31 Aug 2026 18:08:46 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Employee arrested after stabbing coworker at Great Lakes Crossing, police say",
-      "desc": "An 18-year-old Pontiac man was arrested after allegedly stabbing a coworker at a Sbarro restaurant inside Great Lakes Crossing Outlets.",
-      "link": "https://www.mlive.com/news/detroit/2026/08/employee-arrested-after-stabbing-coworker-at-great-lakes-crossing-police-say.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 18:02:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "For kindergartners and seniors alike, first day of school brings butterflies in Kalamazoo County",
@@ -569,15 +614,6 @@
       "tag": "government"
     },
     {
-      "title": "What Sleep Number's bankruptcy filing actually means for customers with open orders",
-      "desc": "The company says the Chapter 11 filing is part of a planned sale, not a shutdown.",
-      "link": "https://www.mlive.com/business/2026/08/heres-what-customers-of-this-popular-mattress-brand-need-to-know-right-now-after-the-companys-surprise-bankruptcy-filing.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 15:53:43 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Trump says communities opposed to data centers want to be &#039;backwards and poor&#039;",
       "desc": "President Trump said Monday that communities that do not want AI data centers will suffer economically.  “The only reason that communities throughout the U.S.A. should not want Data Centers is if they",
       "link": "https://thehill.com/policy/technology/6061094-trump-ai-data-centers-economy/",
@@ -594,15 +630,6 @@
       "rawDate": "Mon, 31 Aug 2026 12:02:36 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Michigan counties, towns spend $30B a year. Could collaboration get more done?",
-      "desc": "Some policymakers wish there was more collaboration between Michigan's 1,856 counties, cities, townships and villages. Others aren't convinced a problem exists.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/08/michigan-counties-towns-spend-30b-a-year-could-collaboration-get-more-done.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 11:05:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "US strikes Iranian rocket launchers in first attack since late July",
@@ -677,33 +704,6 @@
       "tag": "technology"
     },
     {
-      "title": "Hillsdale College and publisher to release Western civilization curriculum for high schools",
-      "desc": "Hillsdale College and Golden Thread Academic plan to release a comprehensive curriculum designed to teach Western civilization to high school students this fall.",
-      "link": "https://www.mlive.com/news/jackson/2026/08/hillsdale-college-and-publisher-to-release-western-civilization-curriculum-for-high-schools.html",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Dexter schools tap former Ann Arbor, Plymouth-Canton official as CFO",
-      "desc": "The local school district announced the chief financial",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/dexter-schools-tap-former-ann-arbor-plymouth-canton-official-as-cfo.html",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 12:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan’s newest campus landmark puts sustainability, growth on display",
-      "desc": "The College of Pharmacy’s mass-timber building reduces carbon emissions while creating collaborative spaces for students and researchers.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/university-of-michigans-newest-campus-landmark-puts-sustainability-growth-on-display.html",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 10:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Hegseth blocks promotions of 4 Army officers with ties to sacked generals",
       "desc": "Defense Secretary Pete Hegseth blocked promotions of four Army officers picked for promotion to one-star rank, some of whom have ties to top Army generals the Pentagon chief ousted earlier this year, ",
       "link": "https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/",
@@ -759,19 +759,10 @@
     },
     {
       "title": "Tech firms call for &#039;collective action&#039; against AI-powered hacking",
-      "desc": "OpenAI is leading the call among other technology firms for “collective action” against “AI-enabled cyber attacks.” “Today’s AI advances are already giving defenders new ways to fix weaknesses that ha",
+      "desc": "OpenAI is leading the call among other technology firms for “collective action” against ���AI-enabled cyber attacks.” “Today’s AI advances are already giving defenders new ways to fix weaknesses that ",
       "link": "https://thehill.com/policy/technology/6056449-openai-tech-firms-cyberattacks-response/",
       "date": "Aug 28, 2026",
       "rawDate": "Fri, 28 Aug 2026 03:42:28 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Centcom says Iranian sea mines cleared from Strait of Hormuz transit routes",
-      "desc": "The U.S. military said Thursday that it has cleared all Iranian sea mines along internationally recognized transit routes in the Strait of Hormuz. In a video posted to the social platform X on Thursda",
-      "link": "https://thehill.com/policy/defense/6056395-centcom-us-clears-iranian-sea-mines/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 01:40:21 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },
@@ -835,15 +826,6 @@
       "link": "https://thehill.com/policy/healthcare/6052834-fda-approves-pancreatic-cancer-drug/",
       "date": "Aug 26, 2026",
       "rawDate": "Wed, 26 Aug 2026 17:50:34 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "RFK Jr. responds to Shapiro over measles-related deaths",
-      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. shot back at Pennsylvania Gov. Josh Shapiro (D) on social media after the governor blamed him and the Trump administration for playing a",
-      "link": "https://thehill.com/policy/healthcare/6052342-kennedy-shapiro-measles-deaths/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 16:54:05 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

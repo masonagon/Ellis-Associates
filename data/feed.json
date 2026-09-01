@@ -1,23 +1,239 @@
 {
-  "generated": "2026-09-01T19:03:19.767Z",
+  "generated": "2026-09-01T22:13:58.045Z",
   "news": [
     {
-      "title": "Two Democrats, in highly unusual move, cross the aisle to save GOP bills",
-      "desc": "Two Democrats took the unusual step of voting with Republicans to advance a batch of GOP-backed bills, preventing a handful of conservatives from tanking the vote and effectively saving Speaker Mike J",
-      "link": "https://thehill.com/homenews/house/6063798-golden-perez-gop-bills-advance/",
+      "title": "Man accused of bringing guillotine near Capitol posted plans before arrest",
+      "desc": "The man accused of bringing a guillotine near the United States Capitol Building reportedly posted his plans on social media before traveling to the nation’s capital.  Philan-Tam-Duy Le posted on soci",
+      "link": "https://thehill.com/blogs/in-the-know/6064692-man-guillotine-plan-capitol/",
       "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 18:42:30 +0000",
+      "rawDate": "Tue, 01 Sep 2026 22:09:13 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "White House to host first press briefing in over 40 days",
-      "desc": "The White House will host a press briefing on Thursday, marking the first briefing in over 40 days.  A White House official who confirmed the plans did not specify who would be briefing the press.  Ne",
-      "link": "https://thehill.com/homenews/administration/6063949-white-house-press-briefing-scheduled/",
+      "title": "Ohio man pleads guilty to smashing windows at Vance&#039;s home",
+      "desc": "An Ohio man pleaded guilty Tuesday to vandalizing Vice President JD Vance’s Cincinnati home earlier this year. William D. DeFoor pleaded guilty in federal court to engaging in acts of physical violenc",
+      "link": "https://thehill.com/regulation/court-battles/6064527-ohio-man-pleads-guilty-vance/",
       "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 18:29:41 +0000",
+      "rawDate": "Tue, 01 Sep 2026 21:53:36 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "White House unveils new details of Venezuela agreement",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Administration details oil deal with Venezuela The Trump administration unveiled additional details Monday evening a",
+      "link": "https://thehill.com/newsletters/energy-environment/6064628-white-house-unveils-new-details-of-venezuela-agreement/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 21:46:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hemp ban set to be delayed a month after House passes funding bill",
+      "desc": "The House on Tuesday passed a short-term government funding bill that will buy the intoxicating hemp industry more time to fight off a looming crackdown on its products.  The continuing resolution, wh",
+      "link": "https://thehill.com/policy/healthcare/6064552-hemp-ban-delayed-house-funding-bill/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 21:32:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Former head of University of Michigan finances left amid mismanagement probe",
+      "desc": "The law firm concluded there was no indication of rules violations, a source close to the investigation told MLive.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/former-head-of-university-of-michigan-finances-left-amid-mismanagement-probe.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 21:30:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Zelensky warns airlines Russia&#039;s sky &#039;completely unsafe&#039;",
+      "desc": "Ukrainian President Volodymyr Zelensky warned airlines on Tuesday against flying into Russian airspace as his military responds to an \"escalation\" in missile and drone attacks. Zelensky said in an eve",
+      "link": "https://thehill.com/policy/international/6064459-zelensky-russia-airspace-ukraine-war-unsafe/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 21:15:38 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Live results: Massachusetts holds House primary contests",
+      "desc": "Massachusetts voters are at the polls Tuesday for a suite of House primary contests. Rep. Stephen Lynch (D), 71, of the 8th Congressional District faces a tough primary challenge from attorney Patrick",
+      "link": "https://thehill.com/homenews/campaign/6041275-live-results-massachusetts-house-primary/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Moulton vies to unseat Markey in Massachusetts Senate primary",
+      "desc": "Sen. Ed Markey and Rep. Seth Moulton are duking it out for the Democratic nod in the Massachusetts Senate race. Moulton has made the race about generational change, arguing it's time for \"a new genera",
+      "link": "https://thehill.com/homenews/senate/6041270-live-results-massachusetts-senate-primary/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Republicans jockey to take on Healey for Massachusetts governor&#039;s mansion",
+      "desc": "Massachusetts Gov. Maura Healey is running for a second term as the state's top executive. She faces no primary opponents, but on Tuesday will learn her Republican challenger. Abiomed CEO Mike Monogue",
+      "link": "https://thehill.com/homenews/campaign/6041276-live-results-massachusetts-governor-primary/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Carney suggests US officials stop &#8216;doing memes,&#8217; &#8216;throwing shade,&#8217; &#8216;trying to be tough&#8217;",
+      "desc": "Canadian Prime Minister Mark Carney went after U.S. officials on Monday amid trade tensions between the two countries, suggesting &#8220;the Americans stop doing memes.&#8221; “When the Americans stop",
+      "link": "https://thehill.com/policy/international/6064407-carney-urges-us-trade-dispute-seriousness/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 20:48:12 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "U.S. Supreme Court: Michigan must respond to citizenship voting proposal kept off ballot",
+      "desc": "A U.S. Supreme Court Justice has given the state until noon on Sept. 2 to respond to an emergency request by organizers aiming to require citizenship verification for all voters.",
+      "link": "https://www.mlive.com/politics/2026/09/us-supreme-court-michigan-must-respond-to-citizenship-voting-proposal-kept-off-ballot.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 20:21:52 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bessent predicts Strait of Hormuz will be &#039;worthless&#039; in 2 years",
+      "desc": "Treasury Secretary Scott Bessent said Tuesday that the Strait of Hormuz will be “worthless” to the oil industry in two years. Speaking to Fox Business’s Larry Kudlow on the sidelines of the Group of 2",
+      "link": "https://thehill.com/policy/energy-environment/6064086-bessent-strait-of-hormuz-worthless/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 20:16:39 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Bessent predicts Strait of Hormuz will be &#8216;worthless&#8217; in 2 years",
+      "desc": "Treasury Secretary Scott Bessent said Tuesday that the Strait of Hormuz will be “worthless” to the oil industry in two years. Speaking to Fox Business’s Larry Kudlow on the sidelines of the Group of 2",
+      "link": "https://thehill.com/policy/energy-environment/6064086-bessent-strait-of-hormuz-worthless/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 20:16:39 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Attorney representing Saginaw woman says police who struck her should be fired, charged",
+      "desc": "Detroit-based attorney Ven Johnson says Stephanie Anderson was beaten by police officers after reporting a hit-and-run. She was hospitalized twice and treated for head injuries and facial trauma.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/attorney-representing-saginaw-woman-says-police-who-struck-her-should-be-fired-charged.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 20:10:44 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Saginaw man charged with trying to meet up with ‘minor’ who was vigilante decoy",
+      "desc": "The defendant is at least the third man this year to face charges in Saginaw County after being implicated by online vigilante groups.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-charged-with-trying-to-meet-up-with-minor-who-was-vigilante-decoy.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 20:02:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "desc": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 20:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Abortion rights group launches $250K mail campaign targeting Susan Collins",
+      "desc": "One of the oldest abortion rights groups in the country is launching a $250,000 campaign targeting Sen. Susan Collins (R-Maine) over her 2018 vote to confirm Justice Brett Kavanaugh, a member of the S",
+      "link": "https://thehill.com/policy/healthcare/6064255-abortion-rights-group-targets-collins/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:59:59 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "How one Michigan school district enrolled 227 new students in one summer",
+      "desc": "A series of pop-up events and having real conversations with parents, families away from school throughout the summer pushed for this city's biggest jump in years.",
+      "link": "https://www.mlive.com/news/flint/2026/09/how-one-michigan-school-district-enrolled-227-new-students-in-one-summer.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:37:47 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump names pastor as tobacco health adviser at CDC",
+      "desc": "President Trump on Tuesday announced the selection of Darrell Scott, a pastor and longtime Trump supporter, to be the tobacco health adviser for the Centers for Disease Control and Prevention (CDC). T",
+      "link": "https://thehill.com/policy/healthcare/6063936-trump-cdc-tobacco-health-adviser-hhs-fda/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:34:07 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Digital evidence links father charged with murder to alleged fake woman he claimed took his 3 sons",
+      "desc": "A forensic search of John Skelton’s laptop cast doubt on his claim he gave his three boys to a woman after the search uncovered the woman’s digital trail led only to him.",
+      "link": "https://www.mlive.com/news/jackson/2026/09/digital-evidence-links-father-charged-with-murder-to-alleged-fake-woman-he-claimed-took-his-3-sons.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:20:06 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Tim Cook hands over reins of Apple, but remains Trump whisperer",
+      "desc": "Apple’s Tim Cook handed over the reins as CEO to John Ternus on Tuesday, but the technology giant won’t be losing his political clout and connections to Washington.  In his new role as executive chair",
+      "link": "https://thehill.com/policy/technology/6063963-cook-hands-over-apple-ceo-role/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:16:48 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Flint summit aims to equip small business owners with tools to grow",
+      "desc": "The free, day-long event at the University of Michigan-Flint's Riverfront Banquet Center features breakout sessions, networking, awards and a funding drawing.",
+      "link": "https://www.mlive.com/news/flint/2026/09/flint-summit-aims-to-equip-small-business-owners-with-tools-to-grow.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:14:29 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Lancaster coroner investigating child measles death amid Trump admin scrutiny",
+      "desc": "The Lancaster coroner’s office is investigating the second case of a child who reportedly died after testing positive for measles as the state faces scrutiny from the Trump administration about the de",
+      "link": "https://thehill.com/homenews/state-watch/6064071-lancaster-measles-death-investigation/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:13:25 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "What prosecutors say happened at JD Vance’s Cincinnati home",
+      "desc": "A Cincinnati man pleaded guilty to federal charges after authorities said he vandalized Vice President JD Vance’s home, causing thousands in damage.",
+      "link": "https://www.mlive.com/news/2026/09/what-prosecutors-say-happened-at-jd-vances-cincinnati-home.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:07:33 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump is renovating another part of the White House — and it’s not the ballroom",
+      "desc": "Politico’s West Wing Playbook reported on Tuesday that the General Services Administration (GSA) awarded a nearly $253,000 contract to renovate the bowling alley.",
+      "link": "https://www.mlive.com/politics/2026/09/trump-is-renovating-another-part-of-the-white-house-and-its-not-the-ballroom.html",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 19:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "MapQuest tops Apple, Google Maps in downloads after refusing Trump&#039;s &#039;Lake America&#039; change",
+      "desc": "MapQuest has surged in popularity on the app charts after the mapping service said it would not rename Lake Ontario to \"Lake America\" after President Trump signed an executive order changing its name.",
+      "link": "https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/",
+      "date": "Sep 1, 2026",
+      "rawDate": "Tue, 01 Sep 2026 18:33:31 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Applications open for $1,926 grants for Flint youth community projects",
@@ -38,33 +254,6 @@
       "tag": "education"
     },
     {
-      "title": "No negotiations with Canada right now: US trade rep",
-      "desc": "U.S. Trade Representative Jamieson Greer said there are no trade negotiations happening with Canada after they fell apart last month and tariffs from the Trump administration on Canadian goods went in",
-      "link": "https://thehill.com/business/6063839-greer-denies-canada-trade-talks/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 18:12:37 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "GOP senator ‘disappointed’ over departure of Army secretary who clashed with Hegseth",
-      "desc": "Sen. Mike Rounds (S.D.), a senior Republican on the Senate Armed Services Committee, said he was “disappointed” to learn of the resignation of Army Secretary Daniel Driscoll and expressed concern abou",
-      "link": "https://thehill.com/homenews/senate/6063890-hegseth-pentagon-leadership-turmoil/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 18:12:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Congress funds government until December, averting pre-election shutdown",
-      "desc": "The House on Tuesday voted to send a short-term extension of government funding to President Trump’s desk, avoiding a politically risky shutdown on the eve of the midterm elections.  The continuing re",
-      "link": "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 18:06:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "US strikes IRGC targets in Iran in response to attacks on American forces",
       "desc": "The U.S. military struck Islamic Revolutionary Guard Corps (IRGC) targets inside Iran on Tuesday following Tehran’s attacks on U.S. military assets in the region, the U.S. Central Command (Centcom) an",
       "link": "https://thehill.com/policy/defense/6063807-us-strikes-irgc-targets-in-iran-in-response-to-attacks-on-american-forces/",
@@ -81,24 +270,6 @@
       "rawDate": "Tue, 01 Sep 2026 17:44:46 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Hakeem Jeffries calls Laura Loomer a ‘stone-cold racist,’ demands Republicans denounce her",
-      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) went after right-wing influencer Laura Loomer for her rhetoric toward prominent left-leaning Black women in politics including Florida Democratic Senate ",
-      "link": "https://thehill.com/homenews/house/6063637-hakeem-jeffries-denounces-loomer-racism/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 17:07:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: House approves funding to avoid shutdown; US strikes Iran targets",
-      "desc": "U.S. Central Command announced Tuesday afternoon on X that the military had started striking Islamic Revolutionary Guard Corps (IRGC) targets following \"recent attempted attacks by the IRGC against co",
-      "link": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 16:59:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "‘Like a nightmare’: City council reacts to video showing Saginaw police striking woman",
@@ -317,15 +488,6 @@
       "tag": "technology"
     },
     {
-      "title": "Dell Coupon Codes: 20% Off for September 2026",
-      "desc": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Wayfair Coupons: Up to 80% Off September 2026",
       "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
       "link": "https://www.wired.com/story/wayfair-promo-code/",
@@ -434,15 +596,6 @@
       "tag": "safety"
     },
     {
-      "title": "Washtenaw County reports increase in AI-powered impersonation scams",
-      "desc": "The Washtenaw County Sheriff’s Office is reporting an increase of reports of scammers attempting to dupe residents by using AI to make their scams sound more convincing.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/washtenaw-county-reports-increase-in-ai-powered-impersonation-scams.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:43:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Los Alamos protesters warned for trespassing on University of Michigan official’s property",
       "desc": "The incident occurred at the home of an official who lives in Scio Township, police said.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/08/5-protesting-los-alamos-warned-for-trespassing-on-university-of-michigan-officials-property.html",
@@ -524,30 +677,12 @@
       "tag": "government"
     },
     {
-      "title": "Flint man previously convicted of seduction charged with soliciting lewd photos from teen",
-      "desc": "The man's prior conviction stemmed from him allegedly impregnating a 12-year-old girl when he was 17.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/flint-man-previously-convicted-of-seduction-charged-with-soliciting-lewd-photos-from-teen.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 19:41:07 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Pentagon brings on Grok and ChatGPT for military use",
       "desc": "The Pentagon announced on Monday that it brought on Starshield AI’s Grok for Government and OpenAI’s ChatGPT for unclassified military use, expanding the number of AI assistants on the department’s pl",
       "link": "https://thehill.com/policy/defense/6061714-pentagon-adds-grok-chatgpt-ai/",
       "date": "Aug 31, 2026",
       "rawDate": "Mon, 31 Aug 2026 19:30:49 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Where is John-Paul Miller now? An update on Netflix’s ‘Death of the Pastor’s Wife’",
-      "desc": "The Netflix docuseries 'Death of the Pastor's Wife' examines the events leading up to Mica Miller's death",
-      "link": "https://www.mlive.com/life/2026/08/where-is-john-paul-miller-now-an-update-on-netflixs-death-of-the-pastors-wife.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 19:25:52 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -596,24 +731,6 @@
       "tag": "technology"
     },
     {
-      "title": "See why this principal says there’s something extra special about the Essexville school community",
-      "desc": "“There’s nothing more exciting than the first day,\" said W.R. Bush Elementary Principal Kristen Hahl as she and school staff welcomed children to their first day of school on Monday, Aug. 31.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/08/see-why-this-principal-says-theres-something-extra-special-about-the-essexville-school-community.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 16:03:50 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "John James talks data centers, tariffs, Iran war in national interview",
-      "desc": "Congressman John James, GOP nominee for Michigan governor, appeared on \"Face the Nation.\" He said local control is key in the ongoing concern about data centers.",
-      "link": "https://www.mlive.com/politics/2026/08/john-james-talks-data-centers-tariffs-iran-war-in-national-interview.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 15:59:08 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump says communities opposed to data centers want to be &#039;backwards and poor&#039;",
       "desc": "President Trump said Monday that communities that do not want AI data centers will suffer economically.  “The only reason that communities throughout the U.S.A. should not want Data Centers is if they",
       "link": "https://thehill.com/policy/technology/6061094-trump-ai-data-centers-economy/",
@@ -659,15 +776,6 @@
       "tag": "safety"
     },
     {
-      "title": "Ypsilanti high school earns rare 2nd authorization for prestigious academic program",
-      "desc": "The latest authorization expands student options and places the school among a select group statewide.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/ypsilanti-high-school-earns-rare-2nd-authorization-for-prestigious-academic-program.html",
-      "date": "Aug 30, 2026",
-      "rawDate": "Sun, 30 Aug 2026 12:20:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "State of Texas: Meta settlement to bring social media child safety changes",
       "desc": "Meta, the social media giant, will pay $1 billion and implement new child safety regulations on its platforms as part of a settlement with the state of Texas.",
       "link": "https://thehill.com/homenews/state-watch/6059237-state-of-texas-meta-settlement-to-bring-social-media-child-safety-changes/",
@@ -684,24 +792,6 @@
       "rawDate": "Sun, 30 Aug 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Abbott bars Texas agencies from funding Flock cameras",
-      "desc": "Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network.  The decision, which",
-      "link": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 15:17:15 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "White House teleprompter operator who placed bets on Trump’s speeches ordered to pay $172K",
-      "desc": "The White House teleprompter operator who placed online bets on President Trump’s speeches has been ordered to pay a total of $172,000, a federal agency said Friday.  The Commodity Futures Trading Com",
-      "link": "https://thehill.com/homenews/administration/6058917-white-house-teleprompter-speech-bets-fined/",
-      "date": "Aug 29, 2026",
-      "rawDate": "Sat, 29 Aug 2026 14:19:57 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Hegseth blocks promotions of 4 Army officers with ties to sacked generals",
@@ -749,24 +839,6 @@
       "tag": "health"
     },
     {
-      "title": "Laser used to shoot down cartel drones near Mexico border",
-      "desc": "The U.S. military this week used a high-energy laser to shoot down three drones near the southern border that officials said were linked to Mexican drug cartels. The operation took place late Tuesday ",
-      "link": "https://thehill.com/policy/defense/6056680-us-military-laser-takedown-mexican-cartels-drones/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 12:01:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Tech firms call for &#039;collective action&#039; against AI-powered hacking",
-      "desc": "OpenAI is leading the call among other technology firms for “collective action” against ���AI-enabled cyber attacks.” “Today’s AI advances are already giving defenders new ways to fix weaknesses that ",
-      "link": "https://thehill.com/policy/technology/6056449-openai-tech-firms-cyberattacks-response/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 03:42:28 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "FDA approves new COVID-19 shots",
       "desc": "The Food and Drug Administration (FDA) approved updated COVID-19 vaccines on Thursday for people at higher risk, clearing the way for manufacturers to begin shipping them to pharmacies and physicians'",
       "link": "https://thehill.com/policy/healthcare/6056305-fda-approves-updated-covid-vaccines/",
@@ -790,42 +862,6 @@
       "link": "https://thehill.com/policy/healthcare/6055400-fifth-circuit-rejects-phrma-lawsuit/",
       "date": "Aug 27, 2026",
       "rawDate": "Thu, 27 Aug 2026 18:52:33 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "States sue Trump administration over family planning grant changes",
-      "desc": "A coalition of states sued the Trump administration Thursday to block changes to a family planning grant program that it alleges would strip federal funding from states and providers unless they align",
-      "link": "https://thehill.com/policy/healthcare/6055521-lawsuit-trump-contraception-restrictions/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 18:45:08 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "South Carolina Senate Democratic nominee: &#039;Medicare for All is a policy from a few decades ago&#039;",
-      "desc": "South Carolina Senate Democratic nominee Annie Andrews on Wednesday dismissed \"Medicare for All\" as an outdated policy as she seeks to become the first Democrat to win a statewide race in the Palmetto",
-      "link": "https://thehill.com/homenews/campaign/6054250-medicare-all-annie-andrews-south-carolina-senate/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 13:06:05 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "General Mills removes artificial colors from US cereals",
-      "desc": "General Mills said Wednesday that it has ended the use of artificial coloring in its United States cereal portfolio with intentions to remove the dyes from its full U.S. retail portfolio by the end of",
-      "link": "https://thehill.com/policy/healthcare/6053393-general-mills-removes-artificial-dyes/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 20:49:56 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "FDA approves groundbreaking new pancreatic cancer drug",
-      "desc": "The Food and Drug Administration (FDA) on Wednesday approved a treatment for advanced pancreatic cancer, offering new life-extending care for patients with one of the most aggressive forms of cancer. ",
-      "link": "https://thehill.com/policy/healthcare/6052834-fda-approves-pancreatic-cancer-drug/",
-      "date": "Aug 26, 2026",
-      "rawDate": "Wed, 26 Aug 2026 17:50:34 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

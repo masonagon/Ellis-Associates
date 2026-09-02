@@ -1,6 +1,231 @@
 {
-  "generated": "2026-09-02T14:50:10.715Z",
+  "generated": "2026-09-02T18:16:28.044Z",
   "news": [
+    {
+      "title": "Best Buy is using AI to change how you shop — and it's already showing up in the numbers",
+      "desc": "The Ask Blue shopping assistant and expanding Meta in-store experiences are central to the company's growth strategy.",
+      "link": "https://www.mlive.com/business/2026/09/the-ai-shopping-assistant-best-buy-is-betting-its-future-on-and-why-customers-are-responding.html",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 18:09:14 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Watch live: Trump meets with travel executives",
+      "desc": "President Trump on Wednesday afternoon welcomed a group of U.S. travel executives to the White House. Transportation Secretary Sean Duffy is also expected to attend. Watch live above.",
+      "link": "https://thehill.com/video-clips/6066903-watch-live-donald-trump-travel-executives-white-house-meeting/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:49:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Tillis urges Trump to fire Hegseth over &#039;inept management&#039; of military",
+      "desc": "Sen. Thom Tillis (R-N.C.), a former member of the Senate Armed Services Committee, is calling on President Trump to fire Secretary of Defense Pete Hegseth over what he called Hegseth’s “inept manageme",
+      "link": "https://thehill.com/homenews/senate/6066871-tillis-trump-fire-hegseth/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:43:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pro-Trump group releases first general election midterm ad",
+      "desc": "Securing American Greatness, the nonprofit arm of President Trump’s super PAC MAGA Inc., rolled out its first general election ads on Wednesday, featuring Trump front and center.  The ads are a part o",
+      "link": "https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:34:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats huddle to weigh changes to party rules following surprise defections",
+      "desc": "House Democrats huddled Wednesday morning to weigh potential changes to internal party rules after a pair of centrist lawmakers crossed the aisle a day earlier to help Republican leaders advance a ser",
+      "link": "https://thehill.com/homenews/house/6066756-democrats-rules-changes-jeffries-golden-perez/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:33:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man sues Washtenaw County sheriff’s office, deputies for using stun gun",
+      "desc": "The man alleges police used excessive force against him.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/man-sues-washtenaw-county-sheriffs-office-deputies-for-using-stun-gun.html",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:23:05 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Saginaw County man no longer charged with embezzling from ex paralyzed in crash",
+      "desc": "The prosecution and defense agreed the case was more of a civil than criminal matter.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-county-man-no-longer-charged-with-embezzling-from-ex-paralyzed-in-crash.html",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:17:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Driscoll breaks silence after resigning as Army secretary",
+      "desc": "Dan Driscoll broke his silence late Tuesday, announcing that his last full day as Army secretary will be Wednesday, but he did not offer a reason for why he is resigning from the post he has held for ",
+      "link": "https://thehill.com/policy/defense/6066683-army-secretary-dan-driscoll-response-resignation/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:16:06 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Employer health costs expected to see sharpest increase in 20 years: Survey",
+      "desc": "The cost of employer health benefits is projected to jump by the highest degree in more than 20 years next year, according to new projections released this week. Estimates released by the financial co",
+      "link": "https://thehill.com/policy/healthcare/6066452-employer-health-costs-spike-2027/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:09:47 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "House GOP campaign arm distributes more than 2,000 tickets for midterm convention in Texas",
+      "desc": "The National Republican Congressional Committee (NRCC) distributed more than 2,000 tickets for next week’s midterm convention in Texas, a source familiar with the event told The Hill on Wednesday.  Th",
+      "link": "https://thehill.com/homenews/campaign/6066614-texas-gop-midterms-convention-dallas/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:02:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New Jersey asks Supreme Court to review prediction market dispute",
+      "desc": "New Jersey asked the Supreme Court on Wednesday to weigh in on a growing legal battle between prediction markets and states over who has the authority to regulate the platforms. It marks the first tim",
+      "link": "https://thehill.com/policy/technology/6066637-nj-asks-scotus-prediction-markets/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 17:00:03 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Bessent: China not among countries agreeing &#8216;cheap exports&#8217; are unsustainable",
+      "desc": "Treasury Secretary Scott Bessent called out China on Tuesday for not wanting to address certain trade issues at the Group of 20 (G20) conference, saying the country did not agree cheap exports are “un",
+      "link": "https://thehill.com/business/6066584-bessent-calls-china-g20-dissenter/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 16:58:58 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump to host group of vulnerable GOP lawmakers at White House",
+      "desc": "President Trump will host a group of Republican lawmakers facing rough reelection bids for a Rose Garden dinner on Wednesday, the White House confirmed to The Hill.  The development comes as lawmakers",
+      "link": "https://thehill.com/homenews/administration/6066484-trump-republican-lawmakers-rose-garden-dinner/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 16:54:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: House panel examines birthright citizenship after Supreme Court ruling",
+      "desc": "A House Judiciary Committee panel on Wednesday will examine the Supreme Court’s recent decision on birthright citizenship and potential legislative responses to it. A majority of the justices ruled in",
+      "link": "https://thehill.com/video-clips/6065494-watch-live-house-judiciary-committee-birthright-citizenship/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 16:52:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Massachusetts Gaming Commission investigating Bill Simmons proxy bets",
+      "desc": "The Massachusetts Gaming Commission said it is investigating bets that sports media personality Bill Simmons said he had someone else place for him, a violation of the state's gambling rules. Simmons,",
+      "link": "https://thehill.com/policy/sports-gaming/6066513-bill-simmons-mgc-investigation/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 16:50:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Don’t blame free markets for populist failures",
+      "desc": "Norbert J. Michel argues that American economic struggles are driven by government spending and intervention rather than the failures of free-market capitalism advocated by modern populists.",
+      "link": "https://thehill.com/opinion/finance/6065121-fixing-cost-of-living-crisis/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 16:30:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Ebola death toll tops 3,000 in Congo outbreak",
+      "desc": "More than 3,000 people have now died in the fastest-growing Ebola outbreak in Congo’s history, according to new government data released Wednesday.  Congo’s Ministry of Health has recorded 6,186 confi",
+      "link": "https://thehill.com/policy/healthcare/6066460-ebola-death-toll-tops-3000-congo/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 16:29:39 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Live updates: US, Iran ramp up strikes; incumbents hold on in Massachusetts",
+      "desc": "U.S. Central Command launched a new round of strikes against Iran in retaliation for earlier attacks against American forces in Jordan. Tehran responded by targeting U.S. allies in the Persian Gulf re",
+      "link": "https://thehill.com/homenews/administration/6065183-live-updates-trump-iran-hegseth-house/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 16:20:31 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Judge rules Google does not have to break up ad tech business",
+      "desc": "A federal judge ruled Wednesday that Google does not have to break up its advertising technology business after finding last year that the search giant held an illegal monopoly over the industry. U.S.",
+      "link": "https://thehill.com/policy/technology/6066362-judge-rejects-google-adtech-breakup/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 15:52:58 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "desc": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 15:51:46 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump admin backs OpenAI &#039;fair use&#039; argument in suit from New York Times",
+      "desc": "President Trump's administration is signaling support of OpenAI as it defends itself from a lawsuit brought by The New York Times over fair use of the outlet's content. The Times sued OpenAI in 2023 o",
+      "link": "https://thehill.com/homenews/media/6066304-ny-times-openai-ai-lawsuit/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 15:50:27 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Hillsdale sheriff pleads not guilty to felony misconduct charges",
+      "desc": "Hillsdale County Sheriff Scott B. Hodshire was arraigned via Zoom on Wednesday, Sept. 2, 2026. before Jackson County District Judge Daniel Goostry. He is accused of obstruction of justice and miscondu",
+      "link": "https://www.mlive.com/news/jackson/2026/09/hillsdale-sheriff-pleads-not-guilty-to-felony-misconduct-charges.html",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 15:10:16 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Woman to serve 2 years probation, jail time for crash that killed 6-year-old son",
+      "desc": "Most of her jail term was suspended, court records indicate.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/woman-to-serve-2-years-probation-jail-time-for-crash-that-killed-6-year-old-son.html",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 15:03:07 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Employee charged after allegedly stabbing coworker at Great Lakes Crossing",
+      "desc": "A Sbarro employee allegedly stabbed a coworker four times at Great Lakes Crossing Outlets following a dispute over a stolen backpack.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/employee-charged-after-allegedly-stabbing-coworker-at-great-lakes-crossing.html",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 14:58:34 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "OpenAI: New model needs more safety measures before launch",
+      "desc": "OpenAI's forthcoming artificial intelligence model Astra is the company's first to meet its \"critical cybersecurity capability\" threshold and will require stronger safeguards before release, the AI fi",
+      "link": "https://thehill.com/policy/technology/6065937-openai-astra-requires-stronger-safeguards/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 14:53:47 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
     {
       "title": "USS Abraham Lincoln arrives in Thailand",
       "desc": "The USS Abraham Lincoln on Wednesday docked at the Laem Chabang port in Chonburi province in Thailand after more than 280 days at sea while on a record-setting deployment in the Middle East. The Nimit",
@@ -17,15 +242,6 @@
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 14:35:35 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ocasio-Cortez on if she&#039;d date a Republican: &#039;No, no foul to people who do&#039;",
-      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Tuesday she probably would not date a conservative, citing the importance of shared values in a relationship. The New York Democrat laughed when a TMZ repor",
-      "link": "https://thehill.com/homenews/house/6065920-ocasio-cortez-dating-values/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 14:16:55 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -54,24 +270,6 @@
       "rawDate": "Wed, 02 Sep 2026 13:38:56 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Live updates: US, Iran ramp up strikes; incumbents hold on in Massachusetts",
-      "desc": "U.S. Central Command launched a new round of strikes against Iran in retaliation for earlier attacks against American forces in Jordan. Tehran responded by targeting U.S. allies in the Persian Gulf re",
-      "link": "https://thehill.com/homenews/administration/6065183-live-updates-trump-iran-hegseth-house/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 13:10:28 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Prediction market profits are corrupting America, one public figure at a time",
-      "desc": "Does anyone really expect Republicans to regulate the Trump family’s prediction market cash cow?",
-      "link": "https://thehill.com/opinion/finance/6063911-prediction-market-corruption/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan State Police warn of cell phone delivery scam",
@@ -218,15 +416,6 @@
       "tag": "safety"
     },
     {
-      "title": "New mural introduces Grand Rapids’ rebranded River North District",
-      "desc": "Business leaders, residents and city officials unveiled a mural on Tuesday celebrating the district's new name, designed to highlight the area's growth and riverfront location.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/new-mural-introduces-grand-rapids-rebranded-river-north-district.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 22:32:47 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Hemp ban set to be delayed a month after House passes funding bill",
       "desc": "The House on Tuesday passed a short-term government funding bill that will buy the intoxicating hemp industry more time to fight off a looming crackdown on its products.  The continuing resolution, wh",
       "link": "https://thehill.com/policy/healthcare/6064552-hemp-ban-delayed-house-funding-bill/",
@@ -335,15 +524,6 @@
       "tag": "technology"
     },
     {
-      "title": "Flint summit aims to equip small business owners with tools to grow",
-      "desc": "The free, day-long event at the University of Michigan-Flint's Riverfront Banquet Center features breakout sessions, networking, awards and a funding drawing.",
-      "link": "https://www.mlive.com/news/flint/2026/09/flint-summit-aims-to-equip-small-business-owners-with-tools-to-grow.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 19:14:29 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Lancaster coroner investigating child measles-related death amid Trump admin scrutiny",
       "desc": "Editor's note: This story has been corrected to clarify the first child's cause of death as determined by the Lancaster coroner’s office and how the Pennsylvania’s Department of Health initially class",
       "link": "https://thehill.com/homenews/state-watch/6064071-lancaster-measles-death-investigation/",
@@ -434,24 +614,6 @@
       "tag": "education"
     },
     {
-      "title": "Man found dead on railroad tracks after being struck by train",
-      "desc": "Investigators determined that the man was struck Monday evening by the last Amtrak train that traveled through the area. No foul play is suspected at this time.",
-      "link": "https://www.mlive.com/news/jackson/2026/09/man-found-dead-on-railroad-tracks-after-being-struck-by-train.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 16:49:28 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Police identify man killed in Kentwood shooting",
-      "desc": "No arrests have been made as the investigation continues.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/police-identify-man-killed-in-kentwood-shooting.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 16:38:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "OpenAI: Apple&#039;s trade secret theft accusation is baseless",
       "desc": "OpenAI argued in a court filing Monday that Apple’s accusations of trade theft against the AI company are baseless, suggesting the problem instead lies in the iPhone maker’s policies. The ChatGPT make",
       "link": "https://thehill.com/policy/technology/6063525-openai-denies-apple-trade-theft-allegation/",
@@ -470,15 +632,6 @@
       "tag": "government"
     },
     {
-      "title": "Saginaw woman who shot man 6 times heads to prison, says she’s a ‘domestic violence survivor’",
-      "desc": "On her 35th birthday, Darnisha R. Sanders received a prison term for repeatedly shooting her boyfriend, whom she then mocked when calling 911 to report the incident.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-woman-who-shot-man-6-times-heads-to-prison-says-shes-a-domestic-violence-survivor.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 15:59:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Ocasio-Cortez: &#039;Put a data center up in Mar-a-Lago&#039;",
       "desc": "Progressive Rep. Alexandria Ocasio-Cortez (D-N.Y.) quipped Monday that a company should build an AI data center near President Trump’s Mar-a-Lago resort, after he said communities will be “backwards a",
       "link": "https://thehill.com/homenews/house/6063264-ocasio-cortez-data-center-mar-a-lago-florida/",
@@ -488,15 +641,6 @@
       "tag": "technology"
     },
     {
-      "title": "Ottawa County home invasion: Victim jumps from window to escape",
-      "desc": "Four Detroit-area men face felony charges after breaking into an Allendale Township apartment and threatening a 19-year-old at gunpoint on Aug. 29.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/ottawa-county-home-invasion-victim-jumps-from-window-to-escape.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 14:22:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "House Republican pushes back on Trump data center support: &#039;I guess I&#039;m backwards and poor&#039;",
       "desc": "GOP Rep. Tim Burchett (Tenn.) responded on Monday to President Trump’s statement that communities that oppose data center construction want to “end up being backwards and poor.” “I guess I’m backwards",
       "link": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
@@ -504,15 +648,6 @@
       "rawDate": "Tue, 01 Sep 2026 13:27:22 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Michigan man, woman arraigned on 6 child abuse charges related to living in squalid house",
-      "desc": "Rachel R. Ethridge, 33, and William J. Near III, 21, each face three counts of fourth-degree child abuse.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/michigan-man-woman-arraigned-on-6-child-abuse-charges-related-to-living-in-squalid-house.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 13:26:46 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Mangoes recalled in 4 states over salmonella risk",
@@ -542,22 +677,13 @@
       "tag": "government"
     },
     {
-      "title": "Judge to decide if Flint councilman will stand trial for violating election law",
-      "desc": "Flint City Councilman Leon El-Alamin faces an election fraud charge alleging he falsified his residency affidavit, with a preliminary examination set for Sept. 9.",
-      "link": "https://www.mlive.com/news/flint/2026/09/judge-to-decide-if-flint-councilman-will-stand-trial-for-violating-election-law.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 11:30:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "U-M, truckers and data centers: 3 takeaways from JD Vance’s Michigan visit",
       "desc": "While the vice president focused largely on the U.S. Senate race during Monday's visit, he also criticized U-M's enrollment practices, promoted stricter trucking standards and offered limited comments",
       "link": "https://www.mlive.com/news/detroit/2026/09/u-m-truckers-and-data-centers-3-takeaways-from-jd-vances-michigan-visit.html",
       "date": "Sep 1, 2026",
       "rawDate": "Tue, 01 Sep 2026 11:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "New Apple CEO John Ternus takes over from Tim Cook, ending 15-year tenure",
@@ -612,15 +738,6 @@
       "rawDate": "Mon, 31 Aug 2026 21:24:33 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Supreme Court keeps Trump’s White House ballroom project moving forward",
-      "desc": "The Supreme Court allowed construction of President Donald Trump’s White House ballroom to continue despite legal challenges from preservation groups.",
-      "link": "https://www.mlive.com/politics/2026/08/why-chief-justice-john-roberts-broke-ranks-in-a-major-white-house-fight.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 21:15:49 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "See the top 5 moments from Ann Arbor-area students’ first day of school",
@@ -686,15 +803,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump on talk of Hegseth 2028 run: &#039;It&#039;s very early to talk about that&#039;",
-      "desc": "President Trump told reporters Monday in the Oval Office that it’s too early to discuss the possibility of Defense Secretary Pete Hegseth running for president in 2028. “I think he’s doing a fantastic",
-      "link": "https://thehill.com/homenews/administration/6061917-trump-dismisses-hegseth-2028-run/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:23:55 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "FIM brings live blues music to intimate stage in Flint with August Wilson classic",
       "desc": "FIM Flint Repertory Theatre opens “Ma Rainey’s Black Bottom” Sept. 18 at the Elgood Theatre.",
       "link": "https://www.mlive.com/news/flint/2026/08/fim-brings-live-blues-music-to-intimate-stage-in-flint-with-august-wilson-classic.html",
@@ -711,42 +819,6 @@
       "rawDate": "Mon, 31 Aug 2026 20:02:48 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Pentagon brings on Grok and ChatGPT for military use",
-      "desc": "The Pentagon announced on Monday that it brought on Starshield AI’s Grok for Government and OpenAI’s ChatGPT for unclassified military use, expanding the number of AI assistants on the department’s pl",
-      "link": "https://thehill.com/policy/defense/6061714-pentagon-adds-grok-chatgpt-ai/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 19:30:49 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Kalshi suspends GOP House candidate in North Carolina for betting on own race",
-      "desc": "Prediction market Kalshi has suspended GOP House candidate Laurie Buckhout from its platform for three years, after it determined she wagered on her own race.  After launching her candidacy in North C",
-      "link": "https://thehill.com/policy/technology/6061531-kalshi-prediction-market-ban-laurie-buckhout-north-carolina-gop-house-race/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 18:08:46 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Kalshi bans Santos for life over bets on State of the Union attendance",
-      "desc": "The prediction market Kalshi is permanently banning former Rep. George Santos (R-N.Y.) from its platform for failing to cooperate in an investigation over wagers he placed on this year's State of the ",
-      "link": "https://thehill.com/policy/technology/6061177-kalshi-bans-george-santos/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 16:09:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump says communities opposed to data centers want to be &#039;backwards and poor&#039;",
-      "desc": "President Trump said Monday that communities that do not want AI data centers will suffer economically.  “The only reason that communities throughout the U.S.A. should not want Data Centers is if they",
-      "link": "https://thehill.com/policy/technology/6061094-trump-ai-data-centers-economy/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 15:36:53 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "GOP gambles on midterm dividends from RFK Jr.’s MAHA",
@@ -781,24 +853,6 @@
       "link": "https://thehill.com/policy/healthcare/6056305-fda-approves-updated-covid-vaccines/",
       "date": "Aug 27, 2026",
       "rawDate": "Thu, 27 Aug 2026 23:18:49 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump officials cast doubt on Pennsylvania measles death claims",
-      "desc": "Top Trump administration health officials are openly questioning the circumstances of two deaths that Pennsylvania officials attributed to measles.   “We don't know exactly what happened in Pennsylvan",
-      "link": "https://thehill.com/policy/healthcare/6056162-trump-officials-question-pennsylvania-measles/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 22:03:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Federal court rejects PhRMA challenge to Medicare drug price negotiation",
-      "desc": "A federal appeals court on Wednesday ruled against a lawsuit filed by representatives of the pharmaceutical industry challenging the federal Medicare drug price negotiation program, finding that drugm",
-      "link": "https://thehill.com/policy/healthcare/6055400-fifth-circuit-rejects-phrma-lawsuit/",
-      "date": "Aug 27, 2026",
-      "rawDate": "Thu, 27 Aug 2026 18:52:33 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

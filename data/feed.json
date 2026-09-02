@@ -1,6 +1,96 @@
 {
-  "generated": "2026-09-02T21:27:45.371Z",
+  "generated": "2026-09-02T23:43:19.088Z",
   "news": [
+    {
+      "title": "Federal judge blocks Trump’s new birthright citizenship order",
+      "desc": "A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S. District Judge Deborah Boardman granted a preliminary",
+      "link": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 23:35:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jury convicts Kalamazoo babysitter of killing 15-month-old Jermany Coleman",
+      "desc": "Tiffany Briana Moore, 34, was convicted of second-degree murder and first-degree child abuse in the death of 15-month-old Jermany Coleman, who died from blunt force injuries while in Moore's care in O",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/jury-convicts-kalamazoo-babysitter-of-killing-15-month-old-jermany-coleman.html",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 23:09:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Protect Our Care targeting 29 House Republicans",
+      "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Protect Our Care targeting 29 House Republicans Leading healthcare advocacy group Protect Our Care is naming ",
+      "link": "https://thehill.com/newsletters/healthcare/6067812-protect-our-care-targeting-29-house-republicans/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 23:06:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bessent rallies support for Trump agenda at G20",
+      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Bessent rallies support for Trump agenda at G20 Trea",
+      "link": "https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 22:42:46 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Ocasio-Cortez says she&#039;s concerned about Jeffries&#039;s meeting with Kushner: &#039;I don’t know what that was about&#039;",
+      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) voiced her concern over a meeting between House Minority Leader Hakeem Jeffries (D-N.Y.) and Jared Kushner, President Trump’s son-in-law. While walking near the ",
+      "link": "https://thehill.com/homenews/house/6067762-aoc-criticizes-jeffries-kushner-meeting/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 22:39:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump under pressure to contain Iran fighting as midterms near",
+      "desc": "President Trump is under pressure to avoid an escalatory spiral after launching the largest wave of strikes on Iran in weeks, with the U.S. military strained and the midterm elections rapidly approach",
+      "link": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 22:32:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Norman endorses Graham after questioning why Trump backed her",
+      "desc": "Rep. Ralph Norman (R-S.C.) gave his support Wednesday to Sen. Darline Graham (R-S.C.) for the Senate, after previously questioning why President Trump endorsed her in their tense Republican primary ru",
+      "link": "https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-endorsement/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 22:04:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House defends Trump&#039;s beef import plan after report on billionaire&#039;s influence",
+      "desc": "The White House defended President Trump’s decision to temporarily suspend higher tariffs on ground beef imports amid a report that a Brazilian billionaire influenced the decision. “President Trump’s ",
+      "link": "https://thehill.com/homenews/administration/6067644-trump-beef-tariffs-brazil-influence/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 21:49:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Thune says he worries about losing Senate majority: &#039;I’m a realist&#039;",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) admitted in a recent interview that he’s worried about Republicans losing their Senate majority, acknowledging the strong political headwinds they face this ",
+      "link": "https://thehill.com/homenews/senate/6067615-thune-gop-senate-majority/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 21:47:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Google avoids ad tech breakup",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Google avoids ad tech breakup A federal judge ruled Wednesday that Google does not have to break up its advertising technology business after find",
+      "link": "https://thehill.com/newsletters/technology/6067634-google-avoids-ad-tech-breakup/",
+      "date": "Sep 2, 2026",
+      "rawDate": "Wed, 02 Sep 2026 21:42:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Where is Wendi Adelson now? An update on Hulu’s ‘Welcome to the Family: The Murder of Dan Markel’",
       "desc": "Dan Markel was killed in a murder for hire plot in 2014",
@@ -20,24 +110,6 @@
       "tag": "safety"
     },
     {
-      "title": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
-      "desc": "A Republican proposal to amend the Constitution to prevent expanding the number of justices on the Supreme Court failed on the House floor.  Like all constitutional amendments, the measure needed a ⅔ ",
-      "link": "https://thehill.com/homenews/house/6067506-house-supreme-court-packing-amendment/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 21:20:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Lindsay Clancy can&#039;t handle another trial, her lawyer says",
-      "desc": "On Tuesday, the jury in Clancy's trial told the court they were deadlocked, raising the possibility the case could end with a hung jury.",
-      "link": "https://thehill.com/homenews/6067026-lindsay-clancy-trial-lawyer/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 21:20:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Kalamazoo airport to halt commercial flights during runway completion work",
       "desc": "AZO will suspend all commercial flights for a week this September to complete runway extension work that is being funded by a $14M federal grant.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/09/kalamazoo-airport-to-halt-commercial-flights-during-runway-completion-work.html",
@@ -48,21 +120,12 @@
     },
     {
       "title": "Lutnick claims that data centers, known for water consumption, &#039;don’t use water&#039;",
-      "desc": "Commerce Secretary Howard Lutnick claimed Wednesday that data centers “don’t use water” despite the facilities’ significant water use raising concerns for communities that may host them.  In an interv",
+      "desc": "Commerce Secretary Howard Lutnick claimed Wednesday that data centers “don’t use water” despite the facilities’ significant water usage raising concerns for communities that may host them.  In an inte",
       "link": "https://thehill.com/policy/energy-environment/6067549-lutnick-ai-data-centers-water/",
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 21:15:19 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Newsom, Schiff back Trump&#039;s push for federal film tax credit",
-      "desc": "Two California Democrats, Gov. Gavin Newsom and Sen. Adam Schiff, supported President Trump’s call this week to introduce a federal tax incentive for film and TV production in the U.S.  On Monday, the",
-      "link": "https://thehill.com/homenews/state-watch/6067488-newsom-schiff-trump-film-tax/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 21:00:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Bipartisan coalition urges Flint-area voters to reject Prop 1",
@@ -92,57 +155,12 @@
       "tag": "government"
     },
     {
-      "title": "DOJ opinion urges states to report migrants lacking permanent legal status",
-      "desc": "The Justice Department on Wednesday concluded that states must alert the federal government to any migrants without permanent legal status who are seeking access to welfare and other programs for low-",
-      "link": "https://thehill.com/homenews/administration/6067385-justice-department-states-migrants-safety-net-programs/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 20:20:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Why Republicans are snubbing Trump’s GOP midterm convention: ‘I didn’t want to go anyways’",
       "desc": "Politico found that 45 of those surveyed do not plan on attending the GOP midterm convention.",
       "link": "https://www.mlive.com/politics/2026/09/why-republicans-are-snubbing-trumps-gop-midterm-convention-i-didnt-want-to-go-anyways.html",
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 20:00:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House Republicans press Trump trade official over beef imports, Canada",
-      "desc": "U.S. Trade Representative Jamieson Greer faced questions from Republican lawmakers during a closed-door meeting Wednesday about the Trump administration’s trade stalemate with Canada and its controver",
-      "link": "https://thehill.com/homenews/senate/6067256-greer-meet-republican-trade-concerns/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 19:44:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "DOJ sues Kansas school district over transgender student policies",
-      "desc": "The Justice Department announced Monday a “first-of-its-kind lawsuit” against a school district in Kansas over transgender student policies.  The Justice Department's complaint was filed “to stop it f",
-      "link": "https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-transgender-lawsuit/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 19:26:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Susan Collins says Liz Cheney &#039;has no impact, in my view&#039;",
-      "desc": "Republican Sen. Susan Collins (Maine) said in an interview published Wednesday that former Rep. Liz Cheney (R-Wyo.) has “no impact” in politics. During a wide-ranging discussion with Politico’s Jonath",
-      "link": "https://thehill.com/homenews/senate/6067100-susan-collins-liz-cheney-no-impact/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 19:19:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "SEC investigating Daktronics in Kawhi Leonard case",
-      "desc": "The federal government and the NBA are investigating video display and scoreboard manufacturer Daktronics in connection with a scandal involving the Los Angeles Clippers in which the club allegedly ci",
-      "link": "https://thehill.com/policy/sports-gaming/6067088-sec-nba-daktronics-kawhi-leonard-los-angeles-clippers/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 19:12:52 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -515,15 +533,6 @@
       "tag": "safety"
     },
     {
-      "title": "Footage shows moments before deputies push man to the ground after driving through barricade",
-      "desc": "The footage shows a sheriff’s deputy shouting “get your f****** hands up” moments before tackling and arresting him.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/footage-shows-moments-before-police-push-man-to-the-ground-after-driving-through-barricade.html",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 22:58:24 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Hegseth imposes his will on Army with Driscoll resignation",
       "desc": "The resignation of Army Secretary Dan Driscoll underlines how Defense Secretary Pete Hegseth is increasingly imposing his will on the Pentagon after nearly 20 months in the role.  Driscoll’s departure",
       "link": "https://thehill.com/policy/defense/6064658-hegseth-consolidates-pentagon-power/",
@@ -687,7 +696,7 @@
     },
     {
       "title": "House Republican pushes back on Trump data center support: &#039;I guess I&#039;m backwards and poor&#039;",
-      "desc": "GOP Rep. Tim Burchett (Tenn.) responded on Monday to President Trump’s statement that communities that oppose data center construction want to ���end up being backwards and poor.” “I guess I’m backwar",
+      "desc": "GOP Rep. Tim Burchett (Tenn.) responded on Monday to President Trump’s statement that communities that oppose data center construction want to “end up being backwards and poor.” “I guess I’m backwards",
       "link": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
       "date": "Sep 1, 2026",
       "rawDate": "Tue, 01 Sep 2026 13:27:22 +0000",
@@ -783,15 +792,6 @@
       "rawDate": "Mon, 31 Aug 2026 20:53:17 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump approval dips to new low as Iran war weighs on support: Poll",
-      "desc": "President Trump’s approval rating sank to a new low in a University of Massachusetts (UMass) Amherst poll as the Iran war drags on. Just 32 percent of 1,000 respondents to the national survey, which t",
-      "link": "https://thehill.com/homenews/administration/6061903-umass-poll-trump-performance/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:52:26 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Los Alamos protesters warned for trespassing on University of Michigan official’s property",

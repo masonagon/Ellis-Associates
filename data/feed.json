@@ -1,12 +1,165 @@
 {
-  "generated": "2026-09-03T07:32:58.883Z",
+  "generated": "2026-09-03T12:24:07.821Z",
   "news": [
     {
-      "title": "KitchenAid Promo Codes: Save Up to 20%",
-      "desc": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "title": "Trump urges Republicans in tight races to run on his record",
+      "desc": "President Trump on Wednesday urged Republicans facing tight races in the November midterm elections to run on his record, pledging to join them on the campaign trail. Trump told Republican lawmakers a",
+      "link": "https://thehill.com/homenews/administration/6068248-donald-trump-gop-voting-record-midterms/",
       "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 05:00:00 +0000",
+      "rawDate": "Thu, 03 Sep 2026 12:03:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "On the Ballot: The provocateur both parties can’t stop talking about",
+      "desc": "The name on everyone’s lips in Washington in one of the most talked about Senate races this fall is neither candidate. It’s Hasan Piker.   He's been described as a left-wing “streamer from California.",
+      "link": "https://thehill.com/newsletters/on-the-ballot/6066962-on-the-ballot-hasan-piker-democrats-michigan/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How much can we believe the polls?",
+      "desc": "In today's issue: ▪ What to make of the polls ▪ Hegseth under rising scrutiny ▪ Google catches a break ▪ Schwartz’s first test as CDC director Most election observers seem to agree that about eight st",
+      "link": "https://thehill.com/newsletters/morning-report/6068234-political-campaign-polls-trust-midterms/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 11:12:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ugly AI Food Photos Are Only the Beginning",
+      "desc": "Restaurant menus with AI-generated food images are going viral for their off-putting aesthetic. But AI’s impact on modern menus runs even deeper.",
+      "link": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Best Air Quality Monitor for Outdoors and Indoors in 2026",
+      "desc": "These WIRED-tested indoor and outdoor air quality monitors give you insights into your home’s air quality, warn of potentially harmful pollutant levels, and help keep tabs on your environment.",
+      "link": "https://www.wired.com/story/best-air-quality-monitors/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:31:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "DOGE Affiliate Asked for College Credits for Participating in Takeover",
+      "desc": "According to new documents obtained through a Freedom of Information Act request, an undergraduate working with DOGE requested that his work for HUD count towards his University of Chicago degree.",
+      "link": "https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Jeffries faces tricky balancing act on Democratic defectors",
+      "desc": "This week’s stunning defection by two centrist Democrats has posed a dilemma for House Minority Leader Hakeem Jeffries (D-N.Y.) — now caught between liberals calling for scalps and others in the party",
+      "link": "https://thehill.com/homenews/house/6067840-jeffries-democrat-defection-dilemma/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Sand holds edge over Lahn in Iowa governor&#039;s race while Hinson leads Turek for Senate: Poll",
+      "desc": "Democratic state auditor Rob Sand is leading Republican businessman Zach Lahn in the tense Iowa governor’s race, new polling shows, while Democrat Josh Turek trails Republican Rep. Ashley Hinson in th",
+      "link": "https://thehill.com/homenews/campaign/6067538-sand-lahn-turek-hinson-iowa-poll/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Some Republicans are planning to skip Trump’s GOP convention",
+      "desc": "Republicans are cautiously approaching the party’s midterm convention next week as President Trump spirals in polls, with some candidates and lawmakers deciding to skip the gathering all together.   T",
+      "link": "https://thehill.com/homenews/campaign/6067580-gop-midterm-convention-trump-polls/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hegseth headed for clash with GOP senators as frustrations grow",
+      "desc": "Secretary of Defense Pete Hegseth is on a collision course with GOP senators as key lawmakers have major concerns about the turnover of senior staff, the lack of a clear plan for ending the Iran war, ",
+      "link": "https://thehill.com/policy/defense/6067589-hegseth-pentagon-senator-clash/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic senators ask McMahon for details on student loan administration spending",
+      "desc": "Four Democratic senators sent a letter Wednesday to Education Secretary Linda McMahon, calling for her to share details on how her department used $1 billion in funding intended for student loan admin",
+      "link": "https://thehill.com/homenews/education/6068035-democratic-senators-education-loan-spending-letter/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump, AI industry go on offensive to counter data center backlash",
+      "desc": "President Trump and the AI industry are going on the offensive, attempting to bolster support for data centers as they contend with a groundswell of public opposition that has swept across party lines",
+      "link": "https://thehill.com/policy/technology/6067399-trump-ai-data-centers-offensive/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "desc": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+      "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "CDC, Pennsylvania&#039;s growing feud over measles: 4 things to know",
+      "desc": "Pennsylvania health officials last week announced two unvaccinated people died from measles-associated conditions, including an infant.   But the announcement was just the beginning of a growing polit",
+      "link": "https://thehill.com/policy/healthcare/6067715-pennsylvania-measles-deaths-dispute-cdc/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Sand holds edge over Lahn in Iowa governor&#8217;s race while Hinson leads Turek for Senate: Poll",
+      "desc": "Democratic state auditor Rob Sand is leading Republican businessman Zach Lahn in the tense Iowa governor’s race, new polling shows, while Democrat Josh Turek trails Republican Rep. Ashley Hinson in th",
+      "link": "https://thehill.com/homenews/campaign/6067538-sand-lahn-turek-hinson-iowa-poll/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+      "desc": "While companies promise they can help users monitor gut health, experts suggest that smart toilets provide little in the way of benefits to the average person.",
+      "link": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Did the bags get shorter?' — How one Trader Joe's shopper busted the grocer's secret change",
+      "desc": "A viral Instagram reel exposed the unannounced change after a shopper used a tape measure to confirm the difference.",
+      "link": "https://www.mlive.com/business/2026/09/trader-joes-quietly-did-this-with-its-grocery-bags-and-hoped-nobody-would-notice-but-shoppers-definitely-did-and-are-absolutely-furious-about-it.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 09:30:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Face Recognition Is Becoming the Norm for Dating Apps",
+      "desc": "To keep scammers at bay, dating apps are embracing biometric scanning tools and “verified human” badges. These moves are sparking concerns about surveillance and privacy.",
+      "link": "https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 09:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -20,15 +173,6 @@
       "tag": "government"
     },
     {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "desc": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 01:32:02 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Biden to attend Ground Zero 9/11 memorial ceremony for 25th anniversary",
       "desc": "Former President Biden will be at Ground Zero in New York City for the 25th anniversary of the Sept. 11, 2001, terrorist attacks, The Hill's sister network NewsNation confirmed Wednesday. A spokespers",
       "link": "https://thehill.com/homenews/administration/6067901-biden-ground-zero-sept-11-anniversary/",
@@ -36,24 +180,6 @@
       "rawDate": "Thu, 03 Sep 2026 00:33:40 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Vance to give White House&#039;s first press briefing in more than 40 days",
-      "desc": "Vice President Vance will host the first White House press briefing since July on Thursday, the White House Press Office announced. “Vice President @JDVance will take the podium tomorrow at 1:00 PM,” ",
-      "link": "https://thehill.com/homenews/administration/6067880-vance-to-host-white-house-briefing/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 23:44:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Federal judge blocks Trump’s new birthright citizenship order",
-      "desc": "A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S. District Judge Deborah Boardman granted a preliminary",
-      "link": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 23:35:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Jury convicts Kalamazoo babysitter of killing 15-month-old Jermany Coleman",
@@ -65,67 +191,13 @@
       "tag": "safety"
     },
     {
-      "title": "Protect Our Care targeting 29 House Republicans",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Protect Our Care targeting 29 House Republicans Leading healthcare advocacy group Protect Our Care is naming ",
-      "link": "https://thehill.com/newsletters/healthcare/6067812-protect-our-care-targeting-29-house-republicans/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 23:06:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bessent rallies support for Trump agenda at G20",
-      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Bessent rallies support for Trump agenda at G20 Trea",
-      "link": "https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 22:42:46 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Ocasio-Cortez says she&#039;s concerned about Jeffries&#039;s meeting with Kushner: &#039;I don’t know what that was about&#039;",
-      "desc": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) voiced her concern over a meeting between House Minority Leader Hakeem Jeffries (D-N.Y.) and Jared Kushner, President Trump’s son-in-law. While walking near the ",
-      "link": "https://thehill.com/homenews/house/6067762-aoc-criticizes-jeffries-kushner-meeting/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 22:39:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump under pressure to contain Iran fighting as midterms near",
       "desc": "President Trump is under pressure to avoid an escalatory spiral after launching the largest wave of strikes on Iran in weeks, with the U.S. military strained and the midterm elections rapidly approach",
       "link": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 22:32:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Norman endorses Graham after questioning why Trump backed her",
-      "desc": "Rep. Ralph Norman (R-S.C.) gave his support Wednesday to Sen. Darline Graham (R-S.C.) for the Senate, after previously questioning why President Trump endorsed her in their tense Republican primary ru",
-      "link": "https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-endorsement/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 22:04:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "White House defends Trump&#039;s beef import plan after report on billionaire&#039;s influence",
-      "desc": "The White House defended President Trump’s decision to temporarily suspend higher tariffs on ground beef imports amid a report that a Brazilian billionaire influenced the decision. “President Trump’s ",
-      "link": "https://thehill.com/homenews/administration/6067644-trump-beef-tariffs-brazil-influence/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 21:49:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Thune says he worries about losing Senate majority: &#039;I’m a realist&#039;",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) admitted in a recent interview that he’s worried about Republicans losing their Senate majority, acknowledging the strong political headwinds they face this ",
-      "link": "https://thehill.com/homenews/senate/6067615-thune-gop-senate-majority/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 21:47:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Where is Wendi Adelson now? An update on Hulu’s ‘Welcome to the Family: The Murder of Dan Markel’",
@@ -695,15 +767,6 @@
       "tag": "education"
     },
     {
-      "title": "New Apple CEO John Ternus takes over from Tim Cook, ending 15-year tenure",
-      "desc": "Apple's new CEO John Ternus takes the helm of the iconic tech giant on Tuesday, ending Tim Cook's 15-year tenure during which the company's value skyrocketed to $4.6 trillion thanks to the iPhone's en",
-      "link": "https://thehill.com/policy/technology/6062715-apple-ceo-john-ternus-takes-reins-tim-cook-resigns/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 10:50:40 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "GLP-1s may work by activating an unlikely weight loss ally",
       "desc": "Unfortunately, testing hunger neurons in a living person isn't possible, but the study's authors hope their data can guide researchers toward new weight loss treatments.",
       "link": "https://thehill.com/policy/healthcare/6062638-glp-1s-unlikely-weight-loss-ally/",
@@ -711,15 +774,6 @@
       "rawDate": "Tue, 01 Sep 2026 10:10:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Caine tells Slotkin there are no plans to send military to polls in November",
-      "desc": "Joint Chiefs of Staff Chair Gen. Dan Caine told Sen. Elissa Slotkin (D-Mich.) in a letter that there are no plans to send the military to the polls in November’s midterm elections. “Election administr",
-      "link": "https://thehill.com/policy/defense/6062392-caine-denies-military-election-intervention/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 00:44:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Federal judge delays a mifepristone lawsuit until after midterms",
@@ -799,15 +853,6 @@
       "link": "https://thehill.com/policy/healthcare/6056692-vibrio-flesh-eating-bacteria-expanding/",
       "date": "Aug 28, 2026",
       "rawDate": "Fri, 28 Aug 2026 16:42:53 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Officials widen lettuce-linked cyclospora outbreak probe to 20 states",
-      "desc": "Cases of a parasitic illness linked to iceberg lettuce have been confirmed in 20 states, health officials said, as the largest outbreak of the disease in U.S. history keeps growing.  The Food and Drug",
-      "link": "https://thehill.com/policy/healthcare/6057495-cyclospora-outbreak-texas-georgia-tennesse-fda-cdc/",
-      "date": "Aug 28, 2026",
-      "rawDate": "Fri, 28 Aug 2026 15:40:33 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

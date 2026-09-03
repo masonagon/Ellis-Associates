@@ -1,32 +1,302 @@
 {
-  "generated": "2026-09-03T12:24:07.821Z",
+  "generated": "2026-09-03T16:47:22.997Z",
   "news": [
     {
-      "title": "Trump urges Republicans in tight races to run on his record",
-      "desc": "President Trump on Wednesday urged Republicans facing tight races in the November midterm elections to run on his record, pledging to join them on the campaign trail. Trump told Republican lawmakers a",
-      "link": "https://thehill.com/homenews/administration/6068248-donald-trump-gop-voting-record-midterms/",
+      "title": "Welcome back: Beecher High School reopening after more than two decades",
+      "desc": "The building closed in 2004, with students relocated to the middle school.",
+      "link": "https://www.mlive.com/news/flint/2026/09/welcome-back-beecher-high-school-reopening-after-more-than-two-decades.html",
       "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 12:03:00 +0000",
+      "rawDate": "Thu, 03 Sep 2026 16:45:40 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "desc": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
+      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 16:42:40 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Comer expects McConnell to return with Senate after Labor Day",
+      "desc": "Rep. James Comer (R-Ky.) said Thursday that Sen. Mitch McConnell (R-Ky.) is aiming to return to Capitol Hill from his months-long absence when the Senate reconvenes Sept. 14. “I expect that. I sure ho",
+      "link": "https://thehill.com/homenews/house/6069343-comer-mitch-mcconnell-absence-return-update/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 16:32:34 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "On the Ballot: The provocateur both parties can’t stop talking about",
-      "desc": "The name on everyone’s lips in Washington in one of the most talked about Senate races this fall is neither candidate. It’s Hasan Piker.   He's been described as a left-wing “streamer from California.",
-      "link": "https://thehill.com/newsletters/on-the-ballot/6066962-on-the-ballot-hasan-piker-democrats-michigan/",
+      "title": "Jeffries, Democrats shift tone, aim to move beyond defector scandal",
+      "desc": "House Democrats appear ready to move beyond the defection scandal that riled the caucus earlier in the week. House Minority Leader Hakeem Jeffries (D-N.Y.) and his top deputies had declared on Tuesday",
+      "link": "https://thehill.com/homenews/house/6069382-gluesenkamp-perez-rule-defection/",
       "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 12:00:00 +0000",
+      "rawDate": "Thu, 03 Sep 2026 16:31:55 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "How much can we believe the polls?",
-      "desc": "In today's issue: ▪ What to make of the polls ▪ Hegseth under rising scrutiny ▪ Google catches a break ▪ Schwartz’s first test as CDC director Most election observers seem to agree that about eight st",
-      "link": "https://thehill.com/newsletters/morning-report/6068234-political-campaign-polls-trust-midterms/",
+      "title": "Trump defends handling of US munitions amid Iran conflict",
+      "desc": "President Trump on Thursday said the U.S. has “virtually unlimited” amounts of mid- to high-grade munitions, pushing back on reports of the Pentagon depleting its stockpiles in the Iran war. In a post",
+      "link": "https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition/",
       "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 11:12:00 +0000",
+      "rawDate": "Thu, 03 Sep 2026 16:31:17 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "US trade deficit grows to $88.6B",
+      "desc": "The U.S. trade deficit grew to $88.6 billion in July, rising to its highest level in more than a year, according to new data released Thursday by the Commerce Department. The flow of goods and service",
+      "link": "https://thehill.com/business/6069223-us-trade-deficit-july-rise/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 16:00:29 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Watch live: Vance leads first press briefing since Leavitt departure",
+      "desc": "Vice President Vance will speak to reporters Thursday morning from the White House, marking the first official briefing since July 23 and following former press secretary Karoline Leavitt's departure ",
+      "link": "https://thehill.com/video-clips/6069006-watch-live-jd-vance-white-house-press-briefing-karoline-leavitt-departure/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
+      "desc": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
+      "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Sanders, Casar call for artificial superintelligence ban amid rogue AI hackings",
+      "desc": "Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) are calling for a permanent ban on the development and deployment of artificial superintelligence, citing a series of recent hackings involvin",
+      "link": "https://thehill.com/policy/technology/6069131-sanders-casar-ai-superintelligence-ban/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:57:36 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Democrats press DHS on election security funding",
+      "desc": "Two congressional Democrats are pressing Department of Homeland Security (DHS) Secretary Markwayne Mullin to “explain the delay as to why federal funds have not yet been provided” to local and state e",
+      "link": "https://thehill.com/homenews/senate/6069220-cisa-funding-delay-ei-isac/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:57:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Global bond yields fall after Fed governor says he may back holding rates steady",
+      "desc": "Bond yields around the world fell Thursday, after Federal Reserve board of governors member Christopher Waller said he would support holding interest rates steady if economic conditions warrant it. “I",
+      "link": "https://thehill.com/business/6069071-bond-yields-fall-us-treasury/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:57:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Musk&#039;s America PAC spends about $800K in key midterm races",
+      "desc": "Tech mogul Elon Musk’s super PAC has spent around $800,000 in top House and Senate races this cycle, according to the latest filings. America PAC spent the most in Texas, doling out roughly $248,000 a",
+      "link": "https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:52:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Costco cuts online service with no warning",
+      "desc": "The service allowed Costco members to order discounted products and services directly froma curated list of companies.",
+      "link": "https://www.mlive.com/business/2026/09/costco-eliminates-one-of-its-online-services-with-no-warning.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:37:57 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Michigan man charged with multiple child sex abuse crimes",
+      "desc": "He faces multiple felony counts.",
+      "link": "https://www.mlive.com/news/2026/09/michigan-man-charged-with-multiple-child-sex-abuse-crimes.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:36:23 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "CBP extends pause of some border construction, including in Texas national park",
+      "desc": "The federal government is extending a pause on some construction of President Trump’s signature border wall, as well as additional border construction in a national park in Texas’s Big Bend region, ac",
+      "link": "https://thehill.com/policy/energy-environment/6069104-texas-cbp-trump-border-wall-big-bend/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:34:55 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Our healthcare system is crashing. Congress must stabilize it.",
+      "desc": "Congresswoman Maxine Dexter argues that the U.S. healthcare system is in crisis due to Medicaid cuts and corporate consolidation. She is calling for federal investment to treat healthcare delivery as ",
+      "link": "https://thehill.com/opinion/healthcare/6067716-stop-medical-bleeding/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why we&#8217;re suing to release small business funds Congress already approved",
+      "desc": "Two small business support organization leaders filed a lawsuit against the Trump administration to compel the release of hundreds of millions of dollars in congressional appropriations for the Commun",
+      "link": "https://thehill.com/opinion/finance/6067136-cdfi-fund-lawsuit-small-businesses/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:30:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Bangor Township man kills dog after it attacked him during fight with roommate",
+      "desc": "A Rottweiler named Luna sustained one gunshot wound, which proved fatal.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bangor-township-man-kills-dog-after-it-attacked-him-during-fight-with-roommate.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:26:55 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "House Republican: China &#039;has it right&#039; on AI use in classrooms",
+      "desc": "Rep. Carlos Gimenez (R-Fla.) on Wednesday praised China's use of artificial intelligence in classrooms. “I think in this case, I think Beijing actually has it right. As long as AI is not used to suppl",
+      "link": "https://thehill.com/policy/technology/6069042-rep-gimenez-praises-china-ai/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:16:52 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Mamdani bans AI use in NYC elementary, middle schools amid tech industry skepticism",
+      "desc": "New York City Mayor Zohran Mamdani (D) on Wednesday unveiled a one-year moratorium on AI use in public school classrooms through eighth grade, days before students return to school in the Big Apple. T",
+      "link": "https://thehill.com/homenews/education/6068760-zohran-mamdani-bans-generative-ai-nyc-public-schools/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 15:02:14 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Police dog finds man in doghouse who allegedly assaulted 2 people",
+      "desc": "Deputies found an adult male and female with visible facial injuries. The female also had a head injury caused by a blunt object.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/police-dog-finds-man-in-doghouse-who-allegedly-assaulted-2-people.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 14:52:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Lapeer father waives exam, enters not guilty plea in severe child abuse case",
+      "desc": "A Lapeer couple faces charges after their two-month-old suffered multiple fractures and retinal hemorrhaging.",
+      "link": "https://www.mlive.com/news/flint/2026/09/lapeer-father-waives-exam-enters-not-guilty-plea-in-severe-child-abuse-case.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 14:17:09 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Deadly Facebook Marketplace encounter leaves man with years-long prison sentence",
+      "desc": "Santiago Christopher Barajas was sentenced Wednesday, Sept. 2 to a minimum five years in prison for manslaughter and felony firearm.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/deadly-facebook-marketplace-encounter-leaves-man-with-years-long-prison-sentence.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 14:07:33 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Interim CEO picked for Michigan Medicine",
+      "desc": "University of Michigan President Domenico Grasso will recommend two leadership appointments at Michigan Medicine when the Board of Regents meets Sept. 17, setting the stage for a transition following ",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/interim-michigan-medicine-ceo-picked-by-university-of-michigan.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 14:01:42 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Nvidia acquires Hugging Face in push for open-source technology",
+      "desc": "The technology giant Nvidia will acquire the open-source platform Hugging Face for nearly $13 billion as part of the company's push for open artificial intelligence systems. In an announcement Thursda",
+      "link": "https://thehill.com/policy/technology/6068386-nvidia-acquires-hugging-face/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 13:57:49 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Bacon echoes Tillis: Hegseth &#039;would not be on my team&#039;",
+      "desc": "Rep. Don Bacon (R-Neb.) in a Wednesday interview backed up his colleague in the Senate, Sen. Thom Tillis (R-N.C.), in pushing for the ouster of Defense Secretary Pete Hegseth. “I agree with the sentim",
+      "link": "https://thehill.com/policy/defense/6068468-bacon-tillis-push-hegseth-ouster/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 13:28:32 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "NASA chief Jared Isaacman outlines first steps for &#039;moon base&#039;",
+      "desc": "The moon base, Isaacman said, will help NASA learn how to live away from Earth, and possibly later to Mars and other planets.",
+      "link": "https://thehill.com/homenews/space/6067876-nasa-jared-isaacman-outlines-moon-base/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 13:23:02 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "JD Vance to host first White House briefing since July. Here’s what to know.",
+      "desc": "There has not been a White House press briefing since July 23.",
+      "link": "https://www.mlive.com/politics/2026/09/jd-vance-to-host-first-white-house-briefing-since-july-heres-what-to-know.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 13:03:29 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "desc": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Former Air Force secretary: Hegseth&#039;s Pentagon &#039;dysfunctional&#039;",
+      "desc": "Former Secretary of the Air Force Frank Kendall III on Wednesday called the Defense Department under Secretary Pete Hegseth \"dysfunctional.\" CNN's Kaitlan Collins asked Kendall, who served under the B",
+      "link": "https://thehill.com/policy/defense/6068287-former-air-force-secretary-hegeseths-pentagon-dysfunctional/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 12:57:27 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "7 Michigan counties doubled the state’s school vaccine waiver rate in 2025",
+      "desc": "Michigan’s student waiver rate reached a 12-year high. The higher rates worry public health officials, pointing to rising cases of vaccine-preventable illnesses like measles, mumps and whooping cough.",
+      "link": "https://www.mlive.com/public-interest/2026/09/7-michigan-counties-doubled-the-states-school-vaccine-waiver-rate-in-2025.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 12:55:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump’s new bid to curb birthright citizenship blocked by judge",
+      "desc": "A federal judge granted a preliminary injunction on Wednesday, stopping President Trump's executive order until a class-action lawsuit by immigrant families is resolved.",
+      "link": "https://www.mlive.com/news/2026/09/trumps-new-bid-to-curb-birthright-citizenship-blocked-by-judge.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 12:46:55 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "desc": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+      "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 12:43:09 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Ugly AI Food Photos Are Only the Beginning",
@@ -56,49 +326,13 @@
       "tag": "technology"
     },
     {
-      "title": "Jeffries faces tricky balancing act on Democratic defectors",
-      "desc": "This week’s stunning defection by two centrist Democrats has posed a dilemma for House Minority Leader Hakeem Jeffries (D-N.Y.) — now caught between liberals calling for scalps and others in the party",
-      "link": "https://thehill.com/homenews/house/6067840-jeffries-democrat-defection-dilemma/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sand holds edge over Lahn in Iowa governor&#039;s race while Hinson leads Turek for Senate: Poll",
-      "desc": "Democratic state auditor Rob Sand is leading Republican businessman Zach Lahn in the tense Iowa governor’s race, new polling shows, while Democrat Josh Turek trails Republican Rep. Ashley Hinson in th",
-      "link": "https://thehill.com/homenews/campaign/6067538-sand-lahn-turek-hinson-iowa-poll/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Some Republicans are planning to skip Trump’s GOP convention",
-      "desc": "Republicans are cautiously approaching the party’s midterm convention next week as President Trump spirals in polls, with some candidates and lawmakers deciding to skip the gathering all together.   T",
-      "link": "https://thehill.com/homenews/campaign/6067580-gop-midterm-convention-trump-polls/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hegseth headed for clash with GOP senators as frustrations grow",
       "desc": "Secretary of Defense Pete Hegseth is on a collision course with GOP senators as key lawmakers have major concerns about the turnover of senior staff, the lack of a clear plan for ending the Iran war, ",
       "link": "https://thehill.com/policy/defense/6067589-hegseth-pentagon-senator-clash/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democratic senators ask McMahon for details on student loan administration spending",
-      "desc": "Four Democratic senators sent a letter Wednesday to Education Secretary Linda McMahon, calling for her to share details on how her department used $1 billion in funding intended for student loan admin",
-      "link": "https://thehill.com/homenews/education/6068035-democratic-senators-education-loan-spending-letter/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Trump, AI industry go on offensive to counter data center backlash",
@@ -126,15 +360,6 @@
       "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Sand holds edge over Lahn in Iowa governor&#8217;s race while Hinson leads Turek for Senate: Poll",
-      "desc": "Democratic state auditor Rob Sand is leading Republican businessman Zach Lahn in the tense Iowa governor’s race, new polling shows, while Democrat Josh Turek trails Republican Rep. Ashley Hinson in th",
-      "link": "https://thehill.com/homenews/campaign/6067538-sand-lahn-turek-hinson-iowa-poll/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
@@ -165,12 +390,12 @@
     },
     {
       "title": "Trump signs stopgap funding bill into law, temporarily avoiding shutdown",
-      "desc": "President Trump on Wednesday signed a stopgap government funding bill into law, affirming Congress's efforts to temporarily avert a shutdown until at least Dec. 11. By signing the “Continuing Appropri",
+      "desc": "President Trump on Wednesday signed a stopgap government funding bill into law, affirming Congress's efforts to temporarily avert a shutdown until at least Dec. 11. By signing the Continuing Appropria",
       "link": "https://thehill.com/homenews/administration/6067996-trump-stopgap-funding-law-government-shutdown/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 02:36:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Biden to attend Ground Zero 9/11 memorial ceremony for 25th anniversary",
@@ -443,24 +668,6 @@
       "tag": "safety"
     },
     {
-      "title": "John Fetterman hurls major accusation at Democratic Party: ‘Orgy of socialism’",
-      "desc": "Fetterman told Fox News anchor Sean Hannity on Tuesday that while he would not be switching political parties, he will remain critical of the Democratic Socialists of America (DSA).",
-      "link": "https://www.mlive.com/politics/2026/09/john-fetterman-hurls-major-accusation-at-democratic-party-orgy-of-socialism.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 14:35:35 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Suspect arraigned in deadly Richfield Township crash",
-      "desc": "Charles McComas, 23, was arraigned on OWI charges after a July 4th night crash killed a woman and critically injured a child.",
-      "link": "https://www.mlive.com/news/flint/2026/09/suspect-arraigned-in-deadly-richfield-township-crash.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 14:13:24 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Dallas police shutting down hundreds of Flock cameras after funding pause",
       "desc": "The Dallas Police Department said Tuesday it is shutting down more than 300 Flock cameras after Texas Gov. Greg Abbott (R) ordered state agencies to halt funding for the roadside camera network. The c",
       "link": "https://thehill.com/policy/technology/6065838-dallas-police-flock-camera-funding-freeze/",
@@ -479,30 +686,12 @@
       "tag": "technology"
     },
     {
-      "title": "Michigan State Police warn of cell phone delivery scam",
-      "desc": "The scammer falsely claimed that a wrong phone/refurbished device had been mistakenly sent and instructed the customer to return it, saying it was “urgent.”",
-      "link": "https://www.mlive.com/news/2026/09/michigan-state-police-warn-of-cell-phone-delivery-scam.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 12:54:02 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Iran targets US allies in Gulf after latest strikes",
       "desc": "Iran launched missiles and drones at U.S. allies and military bases across the Middle East early Wednesday, in retaliation for the renewed wave of U.S. strikes targeting Iran late Tuesday as the war s",
       "link": "https://thehill.com/policy/international/6065430-iran-retaliation-middle-east-kuwait-bahrain-jordan-iraq-us-war/",
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 12:03:46 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "5 takeaways from day six of the John Skelton triple homicide court hearing",
-      "desc": "As John Skelton’s preliminary examination entered its sixth day of testimony Tuesday, Sept. 1, the judge heard testimony from an FBI master forensic investigator who searched Skelton’s computer lookin",
-      "link": "https://www.mlive.com/news/jackson/2026/09/5-takeaways-from-day-six-of-the-john-skelton-triple-homicide-court-hearing.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 12:00:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -524,15 +713,6 @@
       "tag": "education"
     },
     {
-      "title": "Detroit airport dog sniffs out potentially destructive moth in traveler’s luggage",
-      "desc": "Inspectors searched the luggage and found the winged insect among corn and seeds being carried by the traveler.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-airport-dog-sniffs-out-moth-never-before-intercepted-at-a-us-port.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 10:30:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "US launches new strikes against Iran as Trump says he&#039;s &#039;not trying to force Iran to the negotiating table&#039;",
       "desc": "The U.S. military completed a new wave of strikes Tuesday on targets in Iran as the conflict in the region stretches into its sixth month. “U.S. forces struck Islamic Revolutionary Guard Corps (IRGC) ",
       "link": "https://thehill.com/policy/defense/6065153-us-military-strikes-iran-targets/",
@@ -548,15 +728,6 @@
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 01:40:13 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Oakland County mom gets prison for leaving kids in squalid home for 4 years",
-      "desc": "Kelli Marie Bryant, 35, was sentenced to serve between six and 30 years in prison after her three children were found living alone in squalid conditions for nearly four years.",
-      "link": "https://www.mlive.com/crime/2026/09/oakland-county-mom-gets-prison-for-leaving-kids-in-squalid-home-for-4-years.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 01:26:29 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -596,24 +767,6 @@
       "tag": "education"
     },
     {
-      "title": "Zelensky warns airlines Russia&#039;s sky &#039;completely unsafe&#039;",
-      "desc": "Ukrainian President Volodymyr Zelensky warned airlines on Tuesday against flying into Russian airspace as his military responds to an \"escalation\" in missile and drone attacks. Zelensky said in an eve",
-      "link": "https://thehill.com/policy/international/6064459-zelensky-russia-airspace-ukraine-war-unsafe/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 21:15:38 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Bessent predicts Strait of Hormuz will be &#039;worthless&#039; in 2 years",
-      "desc": "Treasury Secretary Scott Bessent said Tuesday that the Strait of Hormuz will be “worthless” to the oil industry in two years. Speaking to Fox Business’s Larry Kudlow on the sidelines of the Group of 2",
-      "link": "https://thehill.com/policy/energy-environment/6064086-bessent-strait-of-hormuz-worthless/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 20:16:39 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Abortion rights group launches $250K mail campaign targeting Susan Collins",
       "desc": "One of the oldest abortion rights groups in the country is launching a $250,000 campaign targeting Sen. Susan Collins (R-Maine) over her 2018 vote to confirm Justice Brett Kavanaugh, a member of the S",
       "link": "https://thehill.com/policy/healthcare/6064255-abortion-rights-group-targets-collins/",
@@ -641,15 +794,6 @@
       "tag": "health"
     },
     {
-      "title": "Tim Cook hands over reins of Apple, but remains Trump whisperer",
-      "desc": "Apple’s Tim Cook handed over the reins as CEO to John Ternus on Tuesday, but the technology giant won’t be losing his political clout and connections to Washington.  In his new role as executive chair",
-      "link": "https://thehill.com/policy/technology/6063963-cook-hands-over-apple-ceo-role/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 19:16:48 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Lancaster coroner investigating child measles-related death amid Trump admin scrutiny",
       "desc": "Editor's note: This story has been corrected to clarify the first child's cause of death as determined by the Lancaster coroner’s office and how the Pennsylvania’s Department of Health initially class",
       "link": "https://thehill.com/homenews/state-watch/6064071-lancaster-measles-death-investigation/",
@@ -657,15 +801,6 @@
       "rawDate": "Tue, 01 Sep 2026 19:13:25 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "MapQuest tops Apple, Google Maps in downloads after refusing Trump&#039;s &#039;Lake America&#039; change",
-      "desc": "MapQuest has surged in popularity on the app charts after the mapping service said it would not rename Lake Ontario to \"Lake America\" after President Trump signed an executive order changing its name.",
-      "link": "https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 18:33:31 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Applications open for $1,926 grants for Flint youth community projects",
@@ -686,15 +821,6 @@
       "tag": "education"
     },
     {
-      "title": "US strikes IRGC targets in Iran in response to attacks on American forces",
-      "desc": "The U.S. military struck Islamic Revolutionary Guard Corps (IRGC) targets inside Iran on Tuesday following Tehran’s attacks on U.S. military assets in the region, the U.S. Central Command (Centcom) an",
-      "link": "https://thehill.com/policy/defense/6063807-us-strikes-irgc-targets-in-iran-in-response-to-attacks-on-american-forces/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 17:44:54 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "CDC, Pennsylvania clash over measles deaths",
       "desc": "The Centers for Disease Control and Prevention (CDC) is disputing two measles deaths reported by Pennsylvania and excluding them from its official weekly tally of deaths, a radical departure from the ",
       "link": "https://thehill.com/policy/healthcare/6063769-cdc-disputes-pennsylvania-measles-deaths/",
@@ -713,33 +839,6 @@
       "tag": "education"
     },
     {
-      "title": "OpenAI: Apple&#039;s trade secret theft accusation is baseless",
-      "desc": "OpenAI argued in a court filing Monday that Apple’s accusations of trade theft against the AI company are baseless, suggesting the problem instead lies in the iPhone maker’s policies. The ChatGPT make",
-      "link": "https://thehill.com/policy/technology/6063525-openai-denies-apple-trade-theft-allegation/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 16:20:41 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Ocasio-Cortez: &#039;Put a data center up in Mar-a-Lago&#039;",
-      "desc": "Progressive Rep. Alexandria Ocasio-Cortez (D-N.Y.) quipped Monday that a company should build an AI data center near President Trump’s Mar-a-Lago resort, after he said communities will be “backwards a",
-      "link": "https://thehill.com/homenews/house/6063264-ocasio-cortez-data-center-mar-a-lago-florida/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 15:17:13 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "House Republican pushes back on Trump data center support: &#039;I guess I&#039;m backwards and poor&#039;",
-      "desc": "GOP Rep. Tim Burchett (Tenn.) responded on Monday to President Trump’s statement that communities that oppose data center construction want to “end up being backwards and poor.” “I guess I’m backwards",
-      "link": "https://thehill.com/homenews/house/6062972-data-centers-republicans-trump-burchett/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 13:27:22 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Mangoes recalled in 4 states over salmonella risk",
       "desc": "The mangoes were sold from Aug. 10 to 21, some in select Walmart stores.",
       "link": "https://thehill.com/policy/healthcare/6062829-walmart-recalled-mexican-mangoes/",
@@ -747,15 +846,6 @@
       "rawDate": "Tue, 01 Sep 2026 12:45:20 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "The Movement: Meta settlement gets praise, pushback from the right",
-      "desc": "Family- and culture-focused groups on the right praised last week’s court settlement that requires Meta to institute safety and addiction guardrails for teenagers on its platforms. But free speech and",
-      "link": "https://thehill.com/newsletters/the-movement/6062310-meta-settlement-conservatives/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 12:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "U-M, truckers and data centers: 3 takeaways from JD Vance’s Michigan visit",
@@ -799,33 +889,6 @@
       "link": "https://www.mlive.com/news/muskegon/2026/08/muskegon-heights-school-begins-superintendent-search-amid-silence-over-leadership-shakeup.html",
       "date": "Aug 31, 2026",
       "rawDate": "Mon, 31 Aug 2026 20:53:17 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Los Alamos protesters warned for trespassing on University of Michigan official’s property",
-      "desc": "The incident occurred at the home of an official who lives in Scio Township, police said.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/5-protesting-los-alamos-warned-for-trespassing-on-university-of-michigan-officials-property.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:42:03 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Witness the heartwarming way Flint schools welcomed students back on first day",
-      "desc": "Flint superintendent Kevelin Jones II said this is just the beginning of the energy he knows will carry through to true growth in each scholar's educational journey this school year.",
-      "link": "https://www.mlive.com/news/flint/2026/08/witness-the-heartwarming-way-flint-schools-welcomed-students-back-on-first-day.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:37:01 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "‘Welcome back!’ First day of school marked by traditions for Ann Arbor-area students",
-      "desc": "From celebrity-style clap-ins in Ypsilanti to red-carpet photo ops in Saline, local schools kicked off the new year with celebrations aimed at easing first-day jitters.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/welcome-back-first-day-of-school-marked-by-traditions-for-ann-arbor-area-students.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:30:08 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

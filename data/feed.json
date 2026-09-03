@@ -1,8 +1,161 @@
 {
-  "generated": "2026-09-03T19:31:47.194Z",
+  "generated": "2026-09-03T22:03:31.389Z",
   "news": [
     {
-      "title": "Panetta says Hegseth is &#039;undermining the strength&#039; of the US military",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "desc": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 21:56:21 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Supreme Court denies Michigan group’s bid for citizenship voting proposal on ballot",
+      "desc": "A U.S. Supreme Court justice has denied an emergency request by Michigan organizers to place a constitutional amendment to require citizenship verification for voters on the November ballot.",
+      "link": "https://www.mlive.com/politics/2026/09/supreme-court-denies-michigan-groups-bid-for-citizenship-voting-proposal-on-ballot.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 21:55:03 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "desc": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 21:48:24 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Michigan father to stand trial for murder of his 3 sons missing since 2010",
+      "desc": "A Lenawee County judge ruled there is sufficient evidence to allow a jury to decide if a Michigan father killed his three sons and hid their bodies 15 years ago.",
+      "link": "https://www.mlive.com/news/jackson/2026/09/michigan-father-to-stand-trial-for-murder-of-his-3-sons-missing-since-2010.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 21:40:52 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jim Justice considering run for West Virginia governor",
+      "desc": "West Virginia Sen. Jim Justice (R) said Thursday he is considering a run at the governor’s mansion in 2028, after leaving it to join the upper chamber less than two years ago. During an appearance on ",
+      "link": "https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 21:24:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "OpenAI releases new model after reaching ‘critical’ cyber threshold",
+      "desc": "OpenAI began rolling out its latest AI model, GPT-6 Astra, to a limited group of organizations Thursday, after declaring earlier this week it was the first model to cross the company’s threshold for h",
+      "link": "https://thehill.com/policy/technology/6070203-openai-rolls-out-gpt-6-astra/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 20:54:22 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Interior preparing to start work on Trump&#039;s arch &#039;over the next two-week period&#039;",
+      "desc": "The federal government is preparing “over the next two-week period” to start work on President Trump’s proposed triumphal arch in the Washington, D.C., area, Interior Secretary Doug Burgum said Thursd",
+      "link": "https://thehill.com/policy/energy-environment/6070202-trump-dc-arch-interior/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 20:50:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rove: &#039;Time is running out&#039; for Paxton in Texas Senate race",
+      "desc": "Republican strategist Karl Rove expressed his doubts about Texas Republican Senate candidate Ken Paxton’s chances in his November race. “So, time is running out. If the president wants to have Paxton ",
+      "link": "https://thehill.com/homenews/campaign/6070144-rove-paxton-texas-senate-time/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 20:44:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Woman sues police officer after injuries during alleged shoplifting arrest",
+      "desc": "A 75-year-old woman is suing a Flint Township officer who allegedly threw her to the ground during a shoplifting stop, leaving her with a fractured wrist, broken leg, and head injuries.",
+      "link": "https://www.mlive.com/news/flint/2026/09/woman-sues-police-officer-after-injuries-during-alleged-shoplifting-arrest.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 20:34:08 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ann Arbor-area schools delay dismissal, shelter in place amid tornado warning",
+      "desc": "Before the storm passed through the area, students and staff at schools around Washtenaw County were instructed to remain in designated areas until this afternoon's tornado warning had passed.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-area-schools-delay-dismissal-shelter-in-place-amid-tornado-warning.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 20:27:18 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Tornado warning interrupts Skelton ruling",
+      "desc": "A judge was interrupted in her ruling Thursday by a tornado warning.",
+      "link": "https://www.mlive.com/news/jackson/2026/09/tornado-warning-interrupts-skelton-ruling.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 20:20:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Missouri House candidate charged in alleged plot to plant cocaine on opponent",
+      "desc": "A Republican candidate for the Missouri House is facing federal charges after prosecutors say he orchestrated a plot to plant drugs, including cocaine, on his primary opponent in the lead-up to the Au",
+      "link": "https://thehill.com/homenews/state-watch/6070005-missouri-rep-ross-drug-plot/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 19:51:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bay City motorcyclist killed in Veterans Memorial Bridge crash",
+      "desc": "Police do not believe alcohol or drugs were factors in the fatal collision.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bay-city-motorcyclist-killed-in-veterans-memorial-bridge-crash.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 19:48:15 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Saginaw police outline process for investigating citizen complaints against staff",
+      "desc": "The Saginaw Police Department released their policy after launching an internal investigation into officers who were recorded stunning a woman with Tasers and repeatedly striking her with their hands.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-police-outline-process-for-investigating-citizen-complaints-against-staff.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 19:47:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "&#039;I wouldn&#039;t call it a war,&#039; Vance says after Iran hostilities flare",
+      "desc": "Vice President Vance said Thursday that he wouldn’t call the military operation between the U.S. and Iran “a war,” despite the eruption of hostilities this week. \"I wouldn't call it a war. Right now, ",
+      "link": "https://thehill.com/homenews/administration/6069975-vance-refuses-iran-war-label/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 19:46:26 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Mitch McConnell expected to return to Senate after Labor Day, says GOP lawmaker",
+      "desc": "Comer, the chairman of the House Oversight Committee, told reporters on Thursday that he expects McConnell, 84, to return to work following the Senate’s recess.",
+      "link": "https://www.mlive.com/politics/2026/09/mitch-mcconnell-expected-to-return-to-senate-after-labor-day-says-gop-lawmaker.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 19:36:41 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bipartisan insulin price cap introduced in House as lawmakers seek affordability win",
+      "desc": "Bipartisan House lawmakers, including two battleground Republicans, introduced legislation Thursday to ensure people with private health insurance don’t pay more than $35 a month for insulin.  Lawmake",
+      "link": "https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 19:31:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Panetta: Hegseth is &#039;undermining the strength&#039; of the US military",
       "desc": "Former Defense Secretary Leon Panetta blasted current Pentagon chief Pete Hegseth on Thursday for \"undermining the strength\" of the U.S. military. “I think the secretary is undermining the strength of",
       "link": "https://thehill.com/policy/defense/6069868-leon-panetta-hegseth-criticism-undermines-military/",
       "date": "Sep 3, 2026",
@@ -11,11 +164,11 @@
       "tag": "safety"
     },
     {
-      "title": "Patagonia joins lawsuit against Trump&#039;s Utah national monument reduction",
-      "desc": "The outdoor retailer Patagonia on Wednesday joined a lawsuit against the Trump administration over its executive orders to shrink the sizes of the Bears Ears and Grand Staircase-Escalante national mon",
-      "link": "https://thehill.com/policy/energy-environment/6069727-patagonia-joins-national-monuments-lawsuit/",
+      "title": "Vance says he won&#039;t turn on &#039;friend&#039; Carlson over Trump, Rogers criticism",
+      "desc": "Vice President Vance defended his relationship with right-wing media personality Tucker Carlson during Thursday's White House press briefing, saying he won't allow political disagreements to ruin frie",
+      "link": "https://thehill.com/homenews/administration/6069864-vance-defends-tucker-carlson-friendship/",
       "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 19:05:18 +0000",
+      "rawDate": "Thu, 03 Sep 2026 19:13:14 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -29,22 +182,13 @@
       "tag": "health"
     },
     {
-      "title": "&#039;Ghetto&#039;: Laura Loomer must be denounced for racist comments",
-      "desc": "If Republicans cannot simply say that racism is wrong, that 9/11 is not an inside job, and that President Trump should disassociate himself from people who traffic in this kind of hateful, vile and bi",
-      "link": "https://thehill.com/opinion/lindseys-lens/6069767-laura-loomer-racist-comments/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 18:25:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Massie unveils Flock-Off Act aimed at restricting surveillance cameras",
       "desc": "Rep. Thomas Massie (R-Ky.) unveiled a bill Thursday aimed at restricting the use of federal funds for automated license plate reader cameras (ALPRs) and biometric surveillance cameras. The Flock-Off A",
       "link": "https://thehill.com/homenews/house/6069706-thomas-massie-flock-off-act-federal-funds/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 18:21:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Pentagon temporarily rescinds mandatory testosterone testing guidance",
@@ -54,24 +198,6 @@
       "rawDate": "Thu, 03 Sep 2026 18:12:01 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Of course Darializa Avila Chevalier slams fellow Dems for denouncing socialism",
-      "desc": "I commend the Democrats who voted to condemn socialism, because it shouldn’t even be a question: Yes, of course we are opposed to socialism. We are also opposed to fascism, and communism, and Nazism, ",
-      "link": "https://thehill.com/opinion/robbys-radar/6069743-avila-chevalier-slams-democrats/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 18:11:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Vance leads White House press briefing, addresses gas prices, Venezuela oil deal",
-      "desc": "Vice President Vance is leading the White House's first press briefing in 42 days Thursday afternoon, speaking in place of a press secretary — a role that remains vacant after Karoline Leavitt's end-o",
-      "link": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 18:11:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
@@ -99,15 +225,6 @@
       "rawDate": "Thu, 03 Sep 2026 17:46:47 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Tucker Carlson: El-Sayed campaign &#039;literally Trumpian&#039;",
-      "desc": "Right-wing media personality Tucker Carlson described Michigan Democratic Senate candidate Abdul El-Sayed’s campaign as \"literally Trumpian” in his podcast episode released Wednesday. During an interv",
-      "link": "https://thehill.com/homenews/media/6069453-tucker-carlson-el-sayed-campaign-trumpian/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 17:29:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Microsoft backing measure protecting consumers over data center water usage costs",
@@ -183,7 +300,7 @@
     },
     {
       "title": "Musk&#039;s America PAC spends about $800K in key midterm races",
-      "desc": "Tech mogul Elon Musk’s super PAC has spent around $800,000 in top House and Senate races this cycle, according to the latest filings. America PAC spent the most in Texas, doling out roughly $248,000 a",
+      "desc": "Tech mogul Elon Musk���s super PAC has spent around $800,000 in top House and Senate races this cycle, according to the latest filings. America PAC spent the most in Texas, doling out roughly $248,000",
       "link": "https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 15:52:36 +0000",
@@ -416,15 +533,6 @@
       "tag": "health"
     },
     {
-      "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
-      "desc": "While companies promise they can help users monitor gut health, experts suggest that smart toilets provide little in the way of benefits to the average person.",
-      "link": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Did the bags get shorter?' — How one Trader Joe's shopper busted the grocer's secret change",
       "desc": "A viral Instagram reel exposed the unannounced change after a shopper used a tape measure to confirm the difference.",
       "link": "https://www.mlive.com/business/2026/09/trader-joes-quietly-did-this-with-its-grocery-bags-and-hoped-nobody-would-notice-but-shoppers-definitely-did-and-are-absolutely-furious-about-it.html",
@@ -432,15 +540,6 @@
       "rawDate": "Thu, 03 Sep 2026 09:30:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Face Recognition Is Becoming the Norm for Dating Apps",
-      "desc": "To keep scammers at bay, dating apps are embracing biometric scanning tools and “verified human” badges. These moves are sparking concerns about surveillance and privacy.",
-      "link": "https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump signs stopgap funding bill into law, temporarily avoiding shutdown",
@@ -560,57 +659,12 @@
       "tag": "government"
     },
     {
-      "title": "Saginaw man who testified friend killed teen father-to-be gets at least a decade in prison",
-      "desc": "Antrell Wright Jr. testified that Donsha Wesby-Whitley suggested robbing a gun buyer to settle the debt. The plan ended with 18-year-old Tyreion Thomas shot in the back, weeks before his high school g",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-who-testified-friend-killed-teen-father-to-be-gets-at-least-a-decade-in-prison.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 18:47:16 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Ex-attorney sentenced for fatal U.P. bar shooting",
-      "desc": "An argument between two friends escalated into the shooting death of a 53-year-old man.",
-      "link": "https://www.mlive.com/news/2026/09/ex-attorney-sentenced-for-fatal-up-bar-shooting.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 18:40:10 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Best Buy is using AI to change how you shop — and it's already showing up in the numbers",
-      "desc": "The Ask Blue shopping assistant and expanding Meta in-store experiences are central to the company's growth strategy.",
-      "link": "https://www.mlive.com/business/2026/09/the-ai-shopping-assistant-best-buy-is-betting-its-future-on-and-why-customers-are-responding.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 18:09:14 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Tillis urges Trump to fire Hegseth over &#039;inept management&#039; of military",
       "desc": "Sen. Thom Tillis (R-N.C.), a former member of the Senate Armed Services Committee, is calling on President Trump to fire Secretary of Defense Pete Hegseth over what he called Hegseth’s “inept manageme",
       "link": "https://thehill.com/homenews/senate/6066871-tillis-trump-fire-hegseth/",
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 17:43:47 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Man sues Washtenaw County sheriff’s office, deputies for using stun gun",
-      "desc": "The man alleges police used excessive force against him.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/man-sues-washtenaw-county-sheriffs-office-deputies-for-using-stun-gun.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 17:23:05 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Saginaw County man no longer charged with embezzling from ex paralyzed in crash",
-      "desc": "The prosecution and defense agreed the case was more of a civil than criminal matter.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-county-man-no-longer-charged-with-embezzling-from-ex-paralyzed-in-crash.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 17:17:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -668,24 +722,6 @@
       "tag": "technology"
     },
     {
-      "title": "Trump admin backs OpenAI &#039;fair use&#039; argument in suit from New York Times",
-      "desc": "President Trump's administration is signaling support of OpenAI as it defends itself from a lawsuit brought by The New York Times over fair use of the outlet's content. The Times sued OpenAI in 2023 o",
-      "link": "https://thehill.com/homenews/media/6066304-ny-times-openai-ai-lawsuit/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 15:50:27 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Hillsdale sheriff pleads not guilty to felony misconduct charges",
-      "desc": "Hillsdale County Sheriff Scott B. Hodshire was arraigned via Zoom on Wednesday, Sept. 2, 2026. before Jackson County District Judge Daniel Goostry. He is accused of obstruction of justice and miscondu",
-      "link": "https://www.mlive.com/news/jackson/2026/09/hillsdale-sheriff-pleads-not-guilty-to-felony-misconduct-charges.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 15:10:16 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "USS Abraham Lincoln arrives in Thailand",
       "desc": "The USS Abraham Lincoln on Wednesday docked at the Laem Chabang port in Chonburi province in Thailand after more than 280 days at sea while on a record-setting deployment in the Middle East. The Nimit",
       "link": "https://thehill.com/policy/defense/6065845-uss-abraham-lincoln-thailand-visit/",
@@ -720,15 +756,6 @@
       "rawDate": "Wed, 02 Sep 2026 10:45:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "US launches new strikes against Iran as Trump says he&#039;s &#039;not trying to force Iran to the negotiating table&#039;",
-      "desc": "The U.S. military completed a new wave of strikes Tuesday on targets in Iran as the conflict in the region stretches into its sixth month. “U.S. forces struck Islamic Revolutionary Guard Corps (IRGC) ",
-      "link": "https://thehill.com/policy/defense/6065153-us-military-strikes-iran-targets/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 02:45:16 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Hemp ban set to be delayed a month after House passes funding bill",
@@ -864,24 +891,6 @@
       "rawDate": "Mon, 31 Aug 2026 20:56:32 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Muskegon Heights school begins superintendent search amid silence over leadership shakeup",
-      "desc": "Muskegon Heights Public School Academy System is searching for a new leader after the sudden departure of the former Superintendent Lakisha Loudermill without explanation.",
-      "link": "https://www.mlive.com/news/muskegon/2026/08/muskegon-heights-school-begins-superintendent-search-amid-silence-over-leadership-shakeup.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:53:17 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Trump announces Medicaid drug pricing deals with 9 firms",
-      "desc": "The Trump administration on Monday announced new Medicaid drug pricing agreements with nine midsize biotechnology and pharmaceutical companies.  Every drug “will be at the lowest prices available anyw",
-      "link": "https://thehill.com/policy/healthcare/6061821-trump-medicaid-drug-pricing/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:02:48 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

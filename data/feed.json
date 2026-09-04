@@ -1,6 +1,51 @@
 {
-  "generated": "2026-09-04T05:16:55.771Z",
+  "generated": "2026-09-04T10:14:53.519Z",
   "news": [
+    {
+      "title": "Democrats worry rising socialism turning off Hispanic voters",
+      "desc": "Democrats have been trying to regain lost ground with Hispanic voters since the bruising 2024 election.  But as they attempt to win back voters who migrated to the GOP, Democrats are also gripping wit",
+      "link": "https://thehill.com/homenews/campaign/6070463-democrats-hispanic-voter-socialism/",
+      "date": "Sep 4, 2026",
+      "rawDate": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats weigh how big to go on healthcare reform in midterm push",
+      "desc": "Democratic lawmakers and policy groups are all throwing their ideas for healthcare reform in the ring, but it remains to be seen what the party is willing to consider as it seeks to retake control of ",
+      "link": "https://thehill.com/policy/healthcare/6070400-democratic-party-healthcare-vision/",
+      "date": "Sep 4, 2026",
+      "rawDate": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Maxwell Frost sees greater Gen Z influence on Congress as an improvement",
+      "desc": "Congress is getting younger, and Rep. Maxwell Frost (D-Fla.) is at the forefront of it. Frost, 29, is the only Generation Z member of Congress. It’s a Congress still dominated by octogenarians — from ",
+      "link": "https://thehill.com/homenews/house/6070350-frost-gen-z-congress/",
+      "date": "Sep 4, 2026",
+      "rawDate": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "desc": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "date": "Sep 4, 2026",
+      "rawDate": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Silicon Valley Is Having a ‘Hot Girl Renaissance’",
+      "desc": "A San Francisco “Hot List” is trying to buck stereotypes about dating in tech circles amid wider debates about the value of being perceived as attractive.",
+      "link": "https://www.wired.com/story/silicon-valley-is-having-a-hot-girl-renaissance/",
+      "date": "Sep 4, 2026",
+      "rawDate": "Fri, 04 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Foreo Discount Codes and Deals: Up to 50% Off",
       "desc": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
@@ -119,15 +164,6 @@
       "tag": "government"
     },
     {
-      "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
-      "desc": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
-      "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 22:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Benchmark mortgage rate hits highest mark in more than a year",
       "desc": "The 30-year mortgage rate reached its highest mark in more than a year Thursday, portending lower purchasing power for prospective homebuyers.  The benchmark 30-year fixed mortgage rate is 6.71 percen",
       "link": "https://thehill.com/business/6070374-mortgage-rates-hit-yearly-high/",
@@ -146,24 +182,6 @@
       "tag": "education"
     },
     {
-      "title": "Missouri Supreme Court throws out GOP-favored House maps",
-      "desc": "The Missouri Supreme Court dealt a blow to President Trump and Republicans Thursday, ruling the GOP could not issue a new map aimed at giving the party an additional seat in the House until the congre",
-      "link": "https://thehill.com/homenews/campaign/6070458-missouri-supreme-court-redistricting-republicans/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 22:15:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "desc": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 21:56:21 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "U.S. Supreme Court denies Michigan group’s bid for citizenship voting proposal on ballot",
       "desc": "A U.S. Supreme Court justice has denied an emergency request by organizers to place a constitutional amendment to require citizenship verification for voters on the November ballot.",
       "link": "https://www.mlive.com/politics/2026/09/supreme-court-denies-michigan-groups-bid-for-citizenship-voting-proposal-on-ballot.html",
@@ -180,15 +198,6 @@
       "rawDate": "Thu, 03 Sep 2026 21:40:52 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Jim Justice considering run for West Virginia governor",
-      "desc": "West Virginia Sen. Jim Justice (R) said Thursday he is considering a run at the governor’s mansion in 2028, after leaving it to join the upper chamber less than two years ago. During an appearance on ",
-      "link": "https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 21:24:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "OpenAI releases new model after reaching ‘critical’ cyber threshold",
@@ -381,7 +390,7 @@
     },
     {
       "title": "Musk&#039;s America PAC spends about $800K in key midterm races",
-      "desc": "Tech mogul Elon Musk’s super PAC has spent around $800,000 in top House and Senate races this cycle, according to the latest filings. America PAC spent the most in Texas, doling out roughly $248,000 a",
+      "desc": "Tech mogul Elon Musk���s super PAC has spent around $800,000 in top House and Senate races this cycle, according to the latest filings. America PAC spent the most in Texas, doling out roughly $248,000",
       "link": "https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 15:52:36 +0000",
@@ -846,15 +855,6 @@
       "rawDate": "Tue, 01 Sep 2026 11:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "GLP-1s may work by activating an unlikely weight loss ally",
-      "desc": "Unfortunately, testing hunger neurons in a living person isn't possible, but the study's authors hope their data can guide researchers toward new weight loss treatments.",
-      "link": "https://thehill.com/policy/healthcare/6062638-glp-1s-unlikely-weight-loss-ally/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 10:10:40 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

@@ -1,6 +1,96 @@
 {
-  "generated": "2026-09-03T22:03:31.389Z",
+  "generated": "2026-09-04T00:34:11.181Z",
   "news": [
+    {
+      "title": "Auto companies call for ban on Chinese-made cars",
+      "desc": "A group representing American automakers sent a letter Thursday to congressional leaders asking for a “permanent ban” on Chinese-made cars in the U.S. John Bozzella, the Alliance for Automotive Innova",
+      "link": "https://thehill.com/policy/transportation/6070614-auto-companies-congress-letter-chinese-car-ban/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 23:57:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump administration warns agencies could stop helping Smithsonian",
+      "desc": "The Trump administration is threatening to cut off federal agencies’ participation with the Smithsonian Institution, accusing its leaders of promoting a “culture of ideological activism\" — the latest ",
+      "link": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 23:47:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2 charged in Kentwood shooting that left 1 dead, 1 injured this week",
+      "desc": "Isaiah Guerrero faces murder charges and Oscar Lagunes-Munoz is charged with lying to police following the Aug. 31 fatal shooting of Juan Diego Cisneros in Kentwood.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/2-charged-in-kentwood-shooting-that-left-1-dead-1-injured-this-week.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 23:29:02 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump announces Telle as acting Army secretary following Driscoll&#039;s resignation",
+      "desc": "President Trump announced Thursday evening that Adam Telle, the current assistant secretary of the Army for Civil Works, will be the acting Army secretary following this week’s resignation of Dan Dris",
+      "link": "https://thehill.com/homenews/administration/6070592-trump-adam-telle-army-secretary-announcement/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 23:10:01 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says",
+      "desc": "The Pentagon is attempting to divert billions of dollars from the National Institutes of Health (NIH) to bolster the agency's budget, according to the top Democrat on the House Appropriations Committe",
+      "link": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 22:48:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Judge halts EPA effort to overturn California car rules",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Judge halts EPA effort to overturn California car rules A federal judge late Wednesday temporarily blocked a Trump a",
+      "link": "https://thehill.com/newsletters/energy-environment/6070522-judge-halts-epa-effort-to-overturn-california-car-rules/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 22:41:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
+      "desc": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
+      "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 22:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Benchmark mortgage rate hits highest mark in more than a year",
+      "desc": "The 30-year mortgage rate reached its highest mark in more than a year Thursday, portending lower purchasing power for prospective homebuyers.  The benchmark 30-year fixed mortgage rate is 6.71 percen",
+      "link": "https://thehill.com/business/6070374-mortgage-rates-hit-yearly-high/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 22:29:27 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Hillsdale College announces 2027 commencement speaker",
+      "desc": "Hillsdale College President Larry Arnn called the commentator witty, quick and profound.",
+      "link": "https://www.mlive.com/news/jackson/2026/09/hillsdale-college-announces-2027-commencement-speaker.html",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 22:17:19 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Missouri Supreme Court throws out GOP-favored House maps",
+      "desc": "The Missouri Supreme Court dealt a blow to President Trump and Republicans Thursday, ruling the GOP could not issue a new map aimed at giving the party an additional seat in the House until the congre",
+      "link": "https://thehill.com/homenews/campaign/6070458-missouri-supreme-court-redistricting-republicans/",
+      "date": "Sep 3, 2026",
+      "rawDate": "Thu, 03 Sep 2026 22:15:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
       "desc": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
@@ -11,8 +101,8 @@
       "tag": "technology"
     },
     {
-      "title": "Supreme Court denies Michigan group’s bid for citizenship voting proposal on ballot",
-      "desc": "A U.S. Supreme Court justice has denied an emergency request by Michigan organizers to place a constitutional amendment to require citizenship verification for voters on the November ballot.",
+      "title": "U.S. Supreme Court denies Michigan group’s bid for citizenship voting proposal on ballot",
+      "desc": "A U.S. Supreme Court justice has denied an emergency request by organizers to place a constitutional amendment to require citizenship verification for voters on the November ballot.",
       "link": "https://www.mlive.com/politics/2026/09/supreme-court-denies-michigan-groups-bid-for-citizenship-voting-proposal-on-ballot.html",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 21:55:03 +0000",
@@ -56,24 +146,6 @@
       "tag": "technology"
     },
     {
-      "title": "Interior preparing to start work on Trump&#039;s arch &#039;over the next two-week period&#039;",
-      "desc": "The federal government is preparing “over the next two-week period” to start work on President Trump’s proposed triumphal arch in the Washington, D.C., area, Interior Secretary Doug Burgum said Thursd",
-      "link": "https://thehill.com/policy/energy-environment/6070202-trump-dc-arch-interior/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 20:50:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Rove: &#039;Time is running out&#039; for Paxton in Texas Senate race",
-      "desc": "Republican strategist Karl Rove expressed his doubts about Texas Republican Senate candidate Ken Paxton’s chances in his November race. “So, time is running out. If the president wants to have Paxton ",
-      "link": "https://thehill.com/homenews/campaign/6070144-rove-paxton-texas-senate-time/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 20:44:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Woman sues police officer after injuries during alleged shoplifting arrest",
       "desc": "A 75-year-old woman is suing a Flint Township officer who allegedly threw her to the ground during a shoplifting stop, leaving her with a fractured wrist, broken leg, and head injuries.",
       "link": "https://www.mlive.com/news/flint/2026/09/woman-sues-police-officer-after-injuries-during-alleged-shoplifting-arrest.html",
@@ -99,15 +171,6 @@
       "rawDate": "Thu, 03 Sep 2026 20:20:37 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Missouri House candidate charged in alleged plot to plant cocaine on opponent",
-      "desc": "A Republican candidate for the Missouri House is facing federal charges after prosecutors say he orchestrated a plot to plant drugs, including cocaine, on his primary opponent in the lead-up to the Au",
-      "link": "https://thehill.com/homenews/state-watch/6070005-missouri-rep-ross-drug-plot/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 19:51:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Bay City motorcyclist killed in Veterans Memorial Bridge crash",
@@ -151,8 +214,8 @@
       "link": "https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 19:31:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Panetta: Hegseth is &#039;undermining the strength&#039; of the US military",
@@ -162,15 +225,6 @@
       "rawDate": "Thu, 03 Sep 2026 19:31:31 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Vance says he won&#039;t turn on &#039;friend&#039; Carlson over Trump, Rogers criticism",
-      "desc": "Vice President Vance defended his relationship with right-wing media personality Tucker Carlson during Thursday's White House press briefing, saying he won't allow political disagreements to ruin frie",
-      "link": "https://thehill.com/homenews/administration/6069864-vance-defends-tucker-carlson-friendship/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 19:13:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Leading medical groups update flu, COVID vaccine recommendations amid confusion",
@@ -515,15 +569,6 @@
       "tag": "technology"
     },
     {
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "desc": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
-      "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "CDC, Pennsylvania&#039;s growing feud over measles: 4 things to know",
       "desc": "Pennsylvania health officials last week announced two unvaccinated people died from measles-associated conditions, including an infant.   But the announcement was just the beginning of a growing polit",
       "link": "https://thehill.com/policy/healthcare/6067715-pennsylvania-measles-deaths-dispute-cdc/",
@@ -583,15 +628,6 @@
       "link": "https://www.mlive.com/life/2026/09/where-is-wendi-adelson-now-an-update-on-hulus-welcome-to-the-family-the-murder-of-dan-markel.html",
       "date": "Sep 2, 2026",
       "rawDate": "Wed, 02 Sep 2026 21:24:13 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Judge dismisses case of man accused of stalking Bay City family, torching car",
-      "desc": "Justin Beavers had faced charges of arson, stalking and threatening to kill a Bay County family. Prosecutor Michael Kanuszewski plans to appeal the rare dismissal.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/judge-dismisses-case-of-man-accused-of-stalking-bay-city-family-torching-car.html",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 21:20:51 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -704,15 +740,6 @@
       "tag": "health"
     },
     {
-      "title": "Live updates: US, Iran ramp up strikes; incumbents hold on in Massachusetts",
-      "desc": "U.S. Central Command launched a new round of strikes against Iran in retaliation for earlier attacks against American forces in Jordan. Tehran responded by targeting U.S. allies in the Persian Gulf re",
-      "link": "https://thehill.com/homenews/administration/6065183-live-updates-trump-iran-hegseth-house/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 16:20:31 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Judge rules Google does not have to break up ad tech business",
       "desc": "A federal judge ruled Wednesday that Google does not have to break up its advertising technology business after finding last year that the search giant held an illegal monopoly over the industry. U.S.",
       "link": "https://thehill.com/policy/technology/6066362-judge-rejects-google-adtech-breakup/",
@@ -720,24 +747,6 @@
       "rawDate": "Wed, 02 Sep 2026 15:52:58 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "USS Abraham Lincoln arrives in Thailand",
-      "desc": "The USS Abraham Lincoln on Wednesday docked at the Laem Chabang port in Chonburi province in Thailand after more than 280 days at sea while on a record-setting deployment in the Middle East. The Nimit",
-      "link": "https://thehill.com/policy/defense/6065845-uss-abraham-lincoln-thailand-visit/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 14:41:56 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Iran targets US allies in Gulf after latest strikes",
-      "desc": "Iran launched missiles and drones at U.S. allies and military bases across the Middle East early Wednesday, in retaliation for the renewed wave of U.S. strikes targeting Iran late Tuesday as the war s",
-      "link": "https://thehill.com/policy/international/6065430-iran-retaliation-middle-east-kuwait-bahrain-jordan-iraq-us-war/",
-      "date": "Sep 2, 2026",
-      "rawDate": "Wed, 02 Sep 2026 12:03:46 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Michigan schools see 12-year-high vaccine waiver rate. How covered is your kid’s school?",
@@ -873,24 +882,6 @@
       "rawDate": "Tue, 01 Sep 2026 10:10:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Federal judge delays a mifepristone lawsuit until after midterms",
-      "desc": "A federal judge on Sunday paused a lawsuit seeking to revoke the Food and Drug Administration’s (FDA) approval of the abortion pill mifepristone until after the midterm elections.  Judge Reed O’Connor",
-      "link": "https://thehill.com/policy/healthcare/6062042-judge-pauses-mifepristone-lawsuit/",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 21:24:33 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "See the top 5 moments from Ann Arbor-area students’ first day of school",
-      "desc": "These are celebrations that stood out Monday for the first day of school in two Washtenaw County districts.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/08/see-the-top-5-moments-from-ann-arbor-area-students-first-day-of-school.html",
-      "date": "Aug 31, 2026",
-      "rawDate": "Mon, 31 Aug 2026 20:56:32 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     }
   ]
 }

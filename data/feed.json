@@ -1,6 +1,42 @@
 {
-  "generated": "2026-09-05T20:51:05.320Z",
+  "generated": "2026-09-05T22:30:56.407Z",
   "news": [
+    {
+      "title": "Trump admin ends $45M support for Namibia HIV program",
+      "desc": "The Trump administration announced it will be ending $45 million in support for Namibia’s HIV response program following two decades of annual payments. The U.S. will provide its final $45 million pay",
+      "link": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
+      "date": "Sep 5, 2026",
+      "rawDate": "Sat, 05 Sep 2026 22:24:04 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Police warn of counterfeit bills being passed at mid-Michigan businesses",
+      "desc": "A mid-Michigan police department is warning residents of counterfeit $100 bills being passed at local businesses.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/police-warn-of-counterfeit-bills-being-passed-at-mid-michigan-businesses.html",
+      "date": "Sep 5, 2026",
+      "rawDate": "Sat, 05 Sep 2026 22:17:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump&#039;s MAGA Inc. super-PAC funnels $10 million into Ken Paxton&#039;s Senate campaign",
+      "desc": "President Trump’s super-PAC MAGA Inc. gave $10 million to Texas Attorney General Ken Paxton's (R) Senate campaign ahead of the 2026 midterm elections, according to Federal Election Commission (FEC) fi",
+      "link": "https://thehill.com/homenews/campaign/6073421-trump-maga-inc-paxton-donation-10-million/",
+      "date": "Sep 5, 2026",
+      "rawDate": "Sat, 05 Sep 2026 21:43:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump faces down beef backlash. Will import plan pay off?",
+      "desc": "President Trump is pushing ahead with his plan to import foreign beef as a way to reduce prices for Americans, despite the backlash from cattle farmers and Republicans whose states would be most be mo",
+      "link": "https://thehill.com/homenews/administration/6072701-trump-imports-foreign-beef/",
+      "date": "Sep 5, 2026",
+      "rawDate": "Sat, 05 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Sunday shows preview: Trump travels to Texas for RNC midterm convention; Administration downplays Iran war consequences",
       "desc": "President Trump will head to the GOP’s convention in Dallas next week — an event aimed at galvanizing Republican voters to get out the vote ahead of the midterm elections this November.  The president",
@@ -90,24 +126,6 @@
       "rawDate": "Sat, 05 Sep 2026 15:31:13 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Judge rules former Sen. Kyrsten Sinema can now be sued under NC &#039;homewrecker&#039; law",
-      "desc": "A federal judge ruled Friday that former Sen. Kyrsten Sinema (I-Ariz.) can be sued under North Carolina’s homewrecker law for her romantic relationship with a married member of her security detail. Si",
-      "link": "https://thehill.com/regulation/court-battles/6073058-kyrsten-sinema-homewrecker-law-judge-ruling/",
-      "date": "Sep 5, 2026",
-      "rawDate": "Sat, 05 Sep 2026 15:11:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The fastest growing (and declining) job industries of the next decade: Federal data",
-      "desc": "Overall, the U.S. economy is expected to add millions of jobs in the coming years, but some industries may fare better than others.",
-      "link": "https://thehill.com/business/economy/6061614-the-fastest-growing-and-declining-job-industries-of-the-next-decade-federal-data/",
-      "date": "Sep 5, 2026",
-      "rawDate": "Sat, 05 Sep 2026 15:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Pentagon gave polygraph tests to high-ranking officials to find leakers: Reports",
@@ -506,15 +524,6 @@
       "tag": "technology"
     },
     {
-      "title": "Grand Rapids daycare teacher, 20, arrested in child sex abuse investigation",
-      "desc": "A 20-year-old West Michigan daycare teacher employed by two area schools has been arrested following a multi-jurisdictional child sex abuse investigation.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/grand-rapids-daycare-teacher-20-arrested-in-child-sex-abuse-investigation.html",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 00:57:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump announces Telle as acting Army secretary following Driscoll&#039;s resignation",
       "desc": "President Trump announced Thursday evening that Adam Telle, the current assistant secretary of the Army for Civil Works, will be the acting Army secretary following this week’s resignation of Dan Dris",
       "link": "https://thehill.com/homenews/administration/6070592-trump-adam-telle-army-secretary-announcement/",
@@ -844,15 +853,6 @@
       "link": "https://thehill.com/policy/healthcare/6064255-abortion-rights-group-targets-collins/",
       "date": "Sep 1, 2026",
       "rawDate": "Tue, 01 Sep 2026 19:59:59 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump names pastor as tobacco health adviser at CDC",
-      "desc": "President Trump on Tuesday announced the selection of Darrell Scott, a pastor and longtime Trump supporter, to be the tobacco health adviser for the Centers for Disease Control and Prevention (CDC). T",
-      "link": "https://thehill.com/policy/healthcare/6063936-trump-cdc-tobacco-health-adviser-hhs-fda/",
-      "date": "Sep 1, 2026",
-      "rawDate": "Tue, 01 Sep 2026 19:34:07 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

@@ -1,8 +1,44 @@
 {
-  "generated": "2026-09-06T16:36:06.622Z",
+  "generated": "2026-09-06T18:45:31.452Z",
   "news": [
     {
-      "title": "Trump administration makes new appeal for Supreme Court to allow mail voting changes ahead of midterms",
+      "title": "Lawler disagrees with Trump on Iran war: &#039;It is certainly not small potatoes&#039;",
+      "desc": "Rep. Mike Lawler (R-N.Y.) on Sunday broke with President Trump regarding the commander in chief's recent statement about the Iran war where he downplayed the conflict. “Any time you are at war or in a",
+      "link": "https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small-potatoes/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 17:39:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why the golf industry largely supports permanent daylight saving time",
+      "desc": "The U.S. may be teeing up for an end to a twice-a-year practice.",
+      "link": "https://thehill.com/policy/energy-environment/6069608-why-the-golf-industry-largely-supports-permanent-daylight-saving-time/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 17:15:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "The hidden cost of losing your community bank: disruptive innovation",
+      "desc": "If policymakers are serious about sustaining American innovation, they should consider what happens downstream of bank mergers.",
+      "link": "https://thehill.com/opinion/finance/6071850-mega-bank-dominance-risks-growth/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Wright says Iran war worth it to &#039;reset&#039; Middle East",
+      "desc": "Energy Secretary Chris Wright said Sunday the Iran war is necessary, arguing the U.S. needs to “reset” the Middle East. During an interview on ABC News’s “This Week,” Wright reiterated the longstandin",
+      "link": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 16:53:37 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "DOJ makes new appeal for Supreme Court to allow mail voting changes",
       "desc": "The Trump administration on Sunday again asked the Supreme Court to allow it to restrict mail-in voting this election cycle. In a 40-page emergency application, Solicitor General D. John Sauer asked t",
       "link": "https://thehill.com/regulation/court-battles/6073865-trump-administration-asks-scotus-mailballot-restriction/",
       "date": "Sep 6, 2026",
@@ -30,7 +66,7 @@
     },
     {
       "title": "Former Air Force secretary questions &#039;advice&#039; Trump received before starting Iran war",
-      "desc": "Former Air Force Secretary Frank Kendall III on Sunday questioned the “advice” President Trump received in the lead-up to the Iran war. “What I don't understand, frankly, about the Iran war is what ad",
+      "desc": "Former Air Force Secretary Frank Kendall on Sunday questioned the “advice” President Trump received in the lead-up to the Iran war. “What I don't understand, frankly, about the Iran war is what advice",
       "link": "https://thehill.com/policy/defense/6073796-kendall-questions-trump-iran-war/",
       "date": "Sep 6, 2026",
       "rawDate": "Sun, 06 Sep 2026 15:29:19 +0000",
@@ -88,8 +124,8 @@
       "link": "https://thehill.com/policy/international/6073737-trump-envoy-kyiv-peace-talks-zelensky-putin/",
       "date": "Sep 6, 2026",
       "rawDate": "Sun, 06 Sep 2026 13:46:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Pickup driver killed after being ejected in West Michigan rollover crash",
@@ -119,15 +155,6 @@
       "tag": "safety"
     },
     {
-      "title": "Hunter Biden: &#039;I may have to&#039; run for president in 2028",
-      "desc": "Former President Biden’s (D) son, Hunter Biden, said that he may have to consider a 2028 presidential run amid speculation on who the Democratic nominee could be. In a conversation with radio host Joh",
-      "link": "https://thehill.com/homenews/campaign/6073586-hunter-biden-says-i-may-have-to-run-in-2028/",
-      "date": "Sep 6, 2026",
-      "rawDate": "Sun, 06 Sep 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "My Brief Summer Fling With Siri AI",
       "desc": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
       "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
@@ -135,15 +162,6 @@
       "rawDate": "Sun, 06 Sep 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Controversy swirls around Trump&#039;s Venezuela business partner",
-      "desc": "The Trump administration’s Venezuela oil deal puts the federal government in business with a controversial figure from the South American nation. Recent reporting links North American Blue Energy Part",
-      "link": "https://thehill.com/policy/energy-environment/6072632-trump-venezuelan-oil-deal/",
-      "date": "Sep 6, 2026",
-      "rawDate": "Sun, 06 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
@@ -300,7 +318,7 @@
     },
     {
       "title": "Hegseth’s pick faces competition in search for new Army secretary",
-      "desc": "Sean Parnell, the Pentagon spokesman and Defense Secretary Pete Hegseth’s top choice for the next Army secretary, is among at least four candidates being considered for the role, sources familiar with",
+      "desc": "Sean Parnell, the Pentagon spokesperson and Defense Secretary Pete Hegseth’s top choice for the next Army secretary, is among at least four candidates being considered for the role, sources familiar w",
       "link": "https://thehill.com/policy/defense/6072769-candidates-compete-army-secretary-role/",
       "date": "Sep 5, 2026",
       "rawDate": "Sat, 05 Sep 2026 10:00:00 +0000",
@@ -659,15 +677,6 @@
       "tag": "health"
     },
     {
-      "title": "Panetta: Hegseth is &#039;undermining the strength&#039; of the US military",
-      "desc": "Former Defense Secretary Leon Panetta blasted current Pentagon chief Pete Hegseth on Thursday for \"undermining the strength\" of the U.S. military. “I think the secretary is undermining the strength of",
-      "link": "https://thehill.com/policy/defense/6069868-leon-panetta-hegseth-criticism-undermines-military/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 19:31:31 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Leading medical groups update flu, COVID vaccine recommendations amid confusion",
       "desc": "A coalition of leading medical groups has released its own vaccine recommendations for the 2026-27 respiratory viral season based on their independent evidence review of existing data. The Vaccine Int",
       "link": "https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations/",
@@ -691,8 +700,8 @@
       "link": "https://thehill.com/policy/defense/6069728-pentagon-temporarily-rescinds-testosterone-guidance/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 18:12:01 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "FBI investigating report of millions of driver&#039;s licenses being leaked on dark web",

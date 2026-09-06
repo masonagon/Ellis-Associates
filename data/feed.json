@@ -1,6 +1,15 @@
 {
-  "generated": "2026-09-06T00:25:28.273Z",
+  "generated": "2026-09-06T05:20:53.941Z",
   "news": [
+    {
+      "title": "Woman, 58, killed, bystanders wounded in shooting outside Metro Detroit restaurant",
+      "desc": "Police say an argument between two concealed pistol license holders escalated into gunfire in a TGI Fridays parking lot late Friday. A Southfield man has been arrested.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/woman-58-killed-bystanders-wounded-in-shooting-outside-metro-detroit-restaurant.html",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 00:39:42 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Mid-Michigan boy, 12, killed, 13-year-old sister injured in crash while riding bikes",
       "desc": "Michigan State Police say the siblings were riding on the shoulder of Grand River Avenue when they were struck by a vehicle Saturday morning in Ingham County.",
@@ -461,15 +470,6 @@
       "tag": "safety"
     },
     {
-      "title": "Charge dropped against man pulled from car by Grand Rapids police, breaking officer’s leg",
-      "desc": "Emran Sharifi was charged with assaulting or resisting a police officer causing serious impairment.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/charges-dropped-against-man-pulled-from-car-by-grand-rapids-police-breaking-officers-leg.html",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 13:05:03 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump asks Supreme Court to revive disputed mail ballot rule",
       "desc": "President Trump's administration is asking the U.S. Supreme Court again to let it move ahead with restrictions on mail ballots before the midterm elections.",
       "link": "https://www.mlive.com/politics/2026/09/trump-asks-supreme-court-to-revive-disputed-mail-ballot-rule.html",
@@ -588,7 +588,7 @@
     },
     {
       "title": "&#039;I wouldn&#039;t call it a war,&#039; Vance says after Iran hostilities flare",
-      "desc": "Vice President Vance said Thursday that he wouldn��t call the military operation between the U.S. and Iran “a war,” despite the eruption of hostilities this week. \"I wouldn't call it a war. Right now,",
+      "desc": "Vice President Vance said Thursday that he wouldn’t call the military operation between the U.S. and Iran “a war,” despite the eruption of hostilities this week. \"I wouldn't call it a war. Right now, ",
       "link": "https://thehill.com/homenews/administration/6069975-vance-refuses-iran-war-label/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 19:46:26 +0000",
@@ -705,7 +705,7 @@
     },
     {
       "title": "Musk&#039;s America PAC spends about $800K in key midterm races",
-      "desc": "Tech mogul Elon Musk��s super PAC has spent around $800,000 in top House and Senate races this cycle, according to the latest filings. America PAC spent the most in Texas, doling out roughly $248,000 ",
+      "desc": "Tech mogul Elon Musk’s super PAC has spent around $800,000 in top House and Senate races this cycle, according to the latest filings. America PAC spent the most in Texas, doling out roughly $248,000 a",
       "link": "https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge/",
       "date": "Sep 3, 2026",
       "rawDate": "Thu, 03 Sep 2026 15:52:36 +0000",

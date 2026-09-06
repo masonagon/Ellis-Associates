@@ -1,6 +1,60 @@
 {
-  "generated": "2026-09-06T18:45:31.452Z",
+  "generated": "2026-09-06T20:57:52.265Z",
   "news": [
+    {
+      "title": "GOP Sen. John Kennedy hedges on support for Hegseth",
+      "desc": "Sen. John Kennedy (R-La.) on Sunday dodged questions about Defense Secretary Pete Hegseth as other Republicans voice concerns over the Iran war and senior Defense staff turnover. NBC News's Kristen We",
+      "link": "https://thehill.com/homenews/senate/6074062-john-kennedy-hegseth-pentagon-support-questions/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 20:30:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Airplane overruns Miami runway; Energy secretary downplays rising gas prices as US, Iran trade strikes",
+      "desc": "An Amazon cargo plane ran off a runway at Miami International Airport on Sunday and struck multiple vehicles. It burst into flames and forced the closure of all runways at the airport. Transportation ",
+      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 20:23:28 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport",
+      "desc": "The Federal Aviation Administration said the aircraft overran the runway at around 2 p.m. after heading into Florida from San Juan, Puerto Rico.",
+      "link": "https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 19:56:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hinojosa on Trump $10 million Paxton race investment: &#039;I welcome the attention on Texas&#039;",
+      "desc": "Texas gubernatorial candidate Gina Hinojosa (D) embraced the new spotlight on her state brought on by the unexpectedly close Senate race between Democrat James Talarico and Republican Ken Paxton. “You",
+      "link": "https://thehill.com/homenews/campaign/6074013-hinojosa-texas-elections-democrats-tossup-attention/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 19:20:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pennsylvania Democrat says he &#039;might&#039; challenge Fetterman in 2028",
+      "desc": "Pennsylvania Rep. Chris Deluzio (D-Pa.) said Sunday he “might” mount a primary challenge to Sen. John Fetterman (D-Pa.) in 2028. “I might, I haven’t decided that. And to be really blunt, I’m doing eve",
+      "link": "https://thehill.com/homenews/campaign/6074036-deluzio-challenges-fetterman-2028/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 19:16:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Carr: FCC ‘looking at a lot of actions’ to stop broadcasters&#039; partisan coverage",
+      "desc": "Federal Communications Commission (FCC) Chair Brendan Carr on Sunday said he is “looking at a lot of actions” to prevent networks from airing fake polls and partisan coverage ahead of midterm election",
+      "link": "https://thehill.com/homenews/administration/6073995-carr-fcc-trump-nbc-punishment/",
+      "date": "Sep 6, 2026",
+      "rawDate": "Sun, 06 Sep 2026 19:04:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Lawler disagrees with Trump on Iran war: &#039;It is certainly not small potatoes&#039;",
       "desc": "Rep. Mike Lawler (R-N.Y.) on Sunday broke with President Trump regarding the commander in chief's recent statement about the Iran war where he downplayed the conflict. “Any time you are at war or in a",
@@ -52,8 +106,8 @@
       "link": "https://thehill.com/policy/healthcare/6072639-trump-louisiana-mifepristone-test/",
       "date": "Sep 6, 2026",
       "rawDate": "Sun, 06 Sep 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "2 killed, 4 critically injured in fiery 3-vehicle Michigan crash",
@@ -83,26 +137,8 @@
       "tag": "government"
     },
     {
-      "title": "Live updates: Energy secretary downplays rising gas prices as US, Iran trade strikes",
-      "desc": "Energy Secretary Chris Wright appeared on four Sunday morning news programs after the U.S. and Iran traded tit-for-tat strikes this weekend. Iranian officials on Sunday took credit for an attack on an",
-      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
-      "date": "Sep 6, 2026",
-      "rawDate": "Sun, 06 Sep 2026 15:11:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "The Faster Labor Contracts Act would give workers a fair shot at a better life",
-      "desc": "Rep. Brian Fitzpatrick called on the Senate to pass the Faster Labor Contracts Act to expedite collective bargaining and protect the economic security of working families.",
-      "link": "https://thehill.com/opinion/congress-blog/labor/6072523-senate-labor-contracts-act-vote/",
-      "date": "Sep 6, 2026",
-      "rawDate": "Sun, 06 Sep 2026 15:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Former Air Force secretary says he &#039;couldn&#039;t serve&#039; in Trump administration",
-      "desc": "Former Air Force Secretary Frank Kendall III said Sunday he “couldn’t serve” in the Trump administration, blasting Defense Secretary Pete Hegseth’s leadership of the Pentagon. “I’ve never seen an atte",
+      "desc": "Former Air Force Secretary Frank Kendall said Sunday he “couldn’t serve” in the Trump administration, blasting Defense Secretary Pete Hegseth’s leadership of the Pentagon. “I’ve never seen an attempt ",
       "link": "https://thehill.com/policy/defense/6073772-kendall-blasts-hegseth-leadership/",
       "date": "Sep 6, 2026",
       "rawDate": "Sun, 06 Sep 2026 14:43:48 +0000",
@@ -120,7 +156,7 @@
     },
     {
       "title": "Trump envoys set for Zelensky meeting after Russia-Ukraine peace talks with Putin",
-      "desc": "President Trump’s son-in-law Jared Kushner and special envoy Steve Witkoff on Sunday made their way to Kyiv to discuss the Ukraine war with the country’s president, Volodymyr Zelensky. The New York Ti",
+      "desc": "Two top U.S. envoys — Steve Witkoff and President Trump’s son-in-law Jared Kushner — on Sunday made their way to Kyiv to discuss the Ukraine war with the country’s president, Volodymyr Zelensky. The N",
       "link": "https://thehill.com/policy/international/6073737-trump-envoy-kyiv-peace-talks-zelensky-putin/",
       "date": "Sep 6, 2026",
       "rawDate": "Sun, 06 Sep 2026 13:46:17 +0000",
@@ -209,8 +245,8 @@
       "tag": "safety"
     },
     {
-      "title": "Trump admin ends $45M support for Namibia HIV program",
-      "desc": "The Trump administration announced it will be ending $45 million in support for Namibia’s HIV response program following two decades of annual payments. The U.S. will provide its final $45 million pay",
+      "title": "Trump administration ends $45M support for Namibia HIV program",
+      "desc": "The Trump administration announced it will be ending its financial support for Namibia's HIV response program, following a little more than two decades of annual payments — totaling more than $1.1 bil",
       "link": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
       "date": "Sep 5, 2026",
       "rawDate": "Sat, 05 Sep 2026 22:24:04 +0000",
@@ -657,15 +693,6 @@
       "rawDate": "Thu, 03 Sep 2026 20:27:18 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "&#039;I wouldn&#039;t call it a war,&#039; Vance says after Iran hostilities flare",
-      "desc": "Vice President Vance said Thursday that he wouldn’t call the military operation between the U.S. and Iran “a war,” despite the eruption of hostilities this week. \"I wouldn't call it a war. Right now, ",
-      "link": "https://thehill.com/homenews/administration/6069975-vance-refuses-iran-war-label/",
-      "date": "Sep 3, 2026",
-      "rawDate": "Thu, 03 Sep 2026 19:46:26 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Bipartisan insulin price cap introduced in House as lawmakers seek affordability win",

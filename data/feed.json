@@ -1,9 +1,18 @@
 {
-  "generated": "2026-09-06T22:42:32.391Z",
+  "generated": "2026-09-07T00:32:41.523Z",
   "news": [
     {
+      "title": "Trump to speak at both nights of RNC midterm convention",
+      "desc": "President Trump, who is already slated to speak on the first night of the Republican National Committee's inaugural midterm convention in Dallas, will also close out the event's second night, The Hill",
+      "link": "https://thehill.com/homenews/administration/6074352-trump-rnc-midterm-convention-two-speeches/",
+      "date": "Sep 7, 2026",
+      "rawDate": "Mon, 07 Sep 2026 00:23:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Trump says White House helipad work is done after August project restart",
-      "desc": "President Trump on Sunday announced that the White House helipad, which was redone at his request last month, has been completed. Trump posted a photo of former President Dwight D. Eisenhower on the W",
+      "desc": "President Trump on Sunday announced that the White House helipad — which was redone at his request last month — has been completed. Trump posted a photo on Truth Social of former President Eisenhower ",
       "link": "https://thehill.com/homenews/administration/6074141-trump-completes-white-house-helipad/",
       "date": "Sep 6, 2026",
       "rawDate": "Sun, 06 Sep 2026 21:15:02 +0000",
@@ -79,17 +88,8 @@
       "link": "https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small-potatoes/",
       "date": "Sep 6, 2026",
       "rawDate": "Sun, 06 Sep 2026 17:39:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Why the golf industry largely supports permanent daylight saving time",
-      "desc": "The U.S. may be teeing up for an end to a twice-a-year practice.",
-      "link": "https://thehill.com/policy/energy-environment/6069608-why-the-golf-industry-largely-supports-permanent-daylight-saving-time/",
-      "date": "Sep 6, 2026",
-      "rawDate": "Sun, 06 Sep 2026 17:15:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Wright says Iran war worth it to &#039;reset&#039; Middle East",
@@ -281,8 +281,8 @@
       "tag": "safety"
     },
     {
-      "title": "RFK Jr. accepts PA child died of measles, says Shapiro hastily &#039;politicized&#039; death",
-      "desc": "Health and Human Services Secretary Robert F. Kennedy Jr. acknowledged Friday that measles caused the death of an infant in Pennsylvania, after previously questioning the state’s reporting of two meas",
+      "title": "RFK Jr. accepts Pa. child died of measles, says Shapiro hastily &#039;politicized&#039; death",
+      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. acknowledged Friday that measles caused the death of an infant in Pennsylvania, after previously questioning the state’s reporting of tw",
       "link": "https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsylvania-measles-death/",
       "date": "Sep 5, 2026",
       "rawDate": "Sat, 05 Sep 2026 15:48:39 +0000",

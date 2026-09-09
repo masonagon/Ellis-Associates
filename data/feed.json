@@ -1,14 +1,212 @@
 {
-  "generated": "2026-09-09T18:14:48.890Z",
+  "generated": "2026-09-09T21:24:45.462Z",
   "news": [
     {
-      "title": "White House axes border wall game after Tetris pushback",
-      "desc": "The White House has removed its “Build the Wall” game from its MAGA-themed online arcade after the Tetris co. warned about possible copyright infringement. The block game closely resembled mechanics u",
-      "link": "https://thehill.com/homenews/administration/6079556-white-house-removes-build-wall/",
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "desc": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+      "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
       "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 18:06:12 +0000",
+      "rawDate": "Wed, 09 Sep 2026 21:15:27 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Rockford school board censures trustee over ‘race-based’ email",
+      "desc": "The trustee's attorney says she was asking a question on behalf of a parent, but the board found the message violated conduct policies.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/rockford-school-board-censures-trustee-over-race-based-email.html",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 21:02:16 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Live results: McKee fights to hold on to Rhode Island governor&#039;s mansion",
+      "desc": "Rhode Island Gov. Dan McKee (D) is in a tough reelection battle Wednesday, facing off against Helena Foulkes for the Democratic Party's nomination. Foulkes, a former CVS Pharmacy executive, narrowly l",
+      "link": "https://thehill.com/homenews/campaign/6041285-live-results-rhode-island-governor-primary/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 21:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Live results: Rhode Island votes in House primaries",
+      "desc": "Rhode Islanders are weighing in on a pair of House primary elections Wednesday. Both incumbents — Democratic Reps. Gabe Amo and Seth Magaziner — are running uncontested for their party's nomination. P",
+      "link": "https://thehill.com/homenews/state-watch/6068643-live-results-rhode-island-house-primaries/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Reed seeks sixth term as Rhode Island senator in primary",
+      "desc": "Sen. Jack Reed (D) is running for a sixth term representing Rhode Island in a Wednesday primary. He is facing off against two other Democrats to take on Raymond McKay, the GOP's presumptive nominee. R",
+      "link": "https://thehill.com/homenews/campaign/6041279-live-results-rhode-island-senate-primary/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump snaps at ABC reporter over question on Republicans avoiding GOP convention",
+      "desc": "President Trump hit back at a question Wednesday over why some Republican candidates were skipping the midterm GOP convention in Dallas, saying there isn’t room for everyone. Trump said that “everybod",
+      "link": "https://thehill.com/homenews/administration/6080068-republicans-skip-midterm-gop-rally/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 20:49:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watchdog clears Omar of misconduct after probe into financial filings",
+      "desc": "Congress’s official ethics watchdog has cleared Rep. Ilhan Omar (D-Minn.) of misconduct related to inflated financial filings, according to the Minnesota Democrat's office. The Office of Congressional",
+      "link": "https://thehill.com/homenews/house/6080052-congressional-ethics-watchdog-omar/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 20:47:21 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lewandowski pushes back on &#039;politically driven&#039; Wall Street Journal report",
+      "desc": "Former Trump adviser Corey Lewandowski on Tuesday pushed back on a recent Wall Street Journal article alleging he controlled billions of dollars of Department of Homeland Security (DHS) contracts, acc",
+      "link": "https://thehill.com/homenews/administration/6079649-lewandowski-wall-street-journal-dhs-report-denial/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 20:22:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Family begs judge to lock up killer for life: ‘This man should die in prison’",
+      "desc": "Robert Marion received a 27-year sentence for killing Esther Claxton, his longtime partner, during a violent argument at their Grand Rapids home in 2023.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/family-begs-judge-to-lock-up-killer-for-life-this-man-should-die-in-prison.html",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 20:16:19 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Kash Patel to testify before Congress next week",
+      "desc": "FBI Director Kash Patel is set to testify on Tuesday in front of Congress, according to members of the Senate Judiciary Committee. In a Wednesday post on the social platform X, the account for the Dem",
+      "link": "https://thehill.com/homenews/senate/6079918-kash-patel-senate-testimony/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 20:09:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch: The Hill &#039;Rising&#039; presents live special primetime RNC midterm convention coverage",
+      "desc": "The Hill's \"Rising\" takes over primetime, presenting live coverage of the Republican National Committee's (RNC) first midterm convention focused on modern American history Sept. 9-10 from 8:30 p.m. to",
+      "link": "https://thehill.com/video-clips/6079432-watch-the-hill-rising-live-primetime-coverage-gop-midterm-convention-dallas/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 20:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Qatari-gifted Air Force One deploys inflatable slide before departing for GOP convention in Texas",
+      "desc": "An emergency inflatable slide on the Qatari-gifted Air Force One was deployed at Joint Base Andrews before President Trump departed for the Republican midterm convention in Dallas on Wednesday. The sl",
+      "link": "https://thehill.com/homenews/administration/6079809-trump-air-force-one-slide/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:41:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Appeals court hears bid to curtail access to medication abortion",
+      "desc": "A federal appeals court Wednesday heard arguments in a case that could eventually wipe out access to medication abortion, even in blue states that protect abortion.  A three-judge panel of the 5th U.S",
+      "link": "https://thehill.com/policy/healthcare/6079744-appeals-court-mifepristone-medication-argument/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:36:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "ICE&#039;s &#039;Midway Blitz&#039; operation cost Chicago businesses $1.2 billion: Study",
+      "desc": "Immigration and Customs Enforcement’s (ICE) Chicago-area operation cost local businesses more than $1.2 billion last year, according to a new study. The study, conducted by researchers at the Universi",
+      "link": "https://thehill.com/homenews/state-watch/6079755-ice-operation-chicago-business-cost/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:33:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "ICE&#8217;s &#8216;Midway Blitz&#8217; operation cost Chicago businesses $1.2 billion: Study",
+      "desc": "Immigration and Customs Enforcement’s (ICE) Chicago-area operation cost local businesses more than $1.2 billion last year, according to a new study. The study, conducted by researchers at the Universi",
+      "link": "https://thehill.com/homenews/state-watch/6079755-ice-operation-chicago-business-cost/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:33:07 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Apple&#039;s new foldable phone is $1,999",
+      "desc": "Apple unveiled its long-awaited foldable phone, dubbed the iPhone Duo, on Wednesday, marking the technology giant's first foldable smartphone. The iPhone Duo will retail at $1,999, the most expensive ",
+      "link": "https://thehill.com/policy/technology/6079703-apple-foldable-phone-launch/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:31:12 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump predicts Iran war will end &#039;immediately after the election&#039;",
+      "desc": "President Trump said Wednesday he believes the U.S. war with Iran will end “immediately” after November’s midterm elections. “I think the war is going to end immediately after the election,” Trump tol",
+      "link": "https://thehill.com/homenews/administration/6079754-trump-comments-iran-midterms/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:27:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
+      "desc": "The company’s September event introduced Apple’s first ever foldable iPhone, along with new iPhone 18 Pro models, updates to the Apple Watch, some AirPods, and more advances to Siri AI.",
+      "link": "https://www.wired.com/story/everything-apple-announced-september-2026/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:21:18 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
+      "desc": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence.",
+      "link": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:07:42 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "7 Michigan universities average ‘D’ grade for free speech on campus, ranking says",
+      "desc": "Michigan Technological University graded well, while five of the other six Michigan universities ranked outside the top 100 per the Foundation for Individual Rights and Expression.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/7-michigan-universities-average-d-grade-for-free-speech-on-campus-ranking-says.html",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Steelcase names new president after HNI acquisition",
+      "desc": "Steelcase on Wednesday announced Irene Tasi has been named the company’s next president and CEO. She will begin her duties on Sept. 14.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/steelcase-names-new-ceo-after-hni-acquisition.html",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 19:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Muskegon’s history of economic reinvention to be highlighted by PBS in national series",
+      "desc": "The episode is expected to air on New Year’s Eve.",
+      "link": "https://www.mlive.com/news/muskegon/2026/09/muskegons-history-of-economic-reinvention-to-be-highlighted-by-pbs-in-national-series.html",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 18:59:13 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+      "desc": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more se",
+      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 18:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "Teen charged with murder in 2025 shooting death of Saginaw man",
@@ -45,24 +243,6 @@
       "rawDate": "Wed, 09 Sep 2026 17:50:54 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Jackson, El-Sayed hold slight edge in key Senate races: CNN poll",
-      "desc": "A new poll found Democratic Senate nominees Troy Jackson and Abdul El-Sayed holding slight leads in their respective races, with less than two months before Election Day. The CNN/SSRS survey, released",
-      "link": "https://thehill.com/homenews/campaign/6079483-troy-jackson-abdul-el-sayed-maine-michigan-democratic-senate-races/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 17:48:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Who won&#039;t be at RNC&#039;s midterm convention in Dallas",
-      "desc": "Republicans are holding a midterm convention Wednesday and Thursday in Dallas, two months out from a general election that will have high stakes for President Trump and his party. However, the convent",
-      "link": "https://thehill.com/homenews/campaign/6079435-midterm-convention-republicans-attendance/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 17:45:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Massive power line projects will stretch more than 250 miles across Michigan",
@@ -110,15 +290,6 @@
       "tag": "safety"
     },
     {
-      "title": "More Americans skeptical of government information: Survey",
-      "desc": "A new poll has found that Americans are more skeptical of information released by the federal government, with majorities saying they have little to no trust in the government. The Associated Press-NO",
-      "link": "https://thehill.com/homenews/administration/6079150-americans-skeptical-government-trust/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 17:02:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Man held on $10M bond pleads guilty to sexually assaulting a child",
       "desc": "He faces up to life in prison.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/man-held-on-10m-bond-pleads-guilty-to-sexually-assaulting-a-child.html",
@@ -137,31 +308,13 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Republicans converge on Dallas for Trump&#039;s midterm convention",
-      "desc": "Administration officials, Republican candidates and party leaders will join President Trump in Dallas on Wednesday for the opening of a two-day Republican National Committee midterm convention. The pr",
-      "link": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 16:49:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Bipartisan coalition pushes Trump administration on AI security framework release",
       "desc": "A group of organizations from both sides of the aisle called on President Trump to publicly release his administration's framework on government AI testing, arguing the closed-door policy raises conce",
       "link": "https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing/",
       "date": "Sep 9, 2026",
       "rawDate": "Wed, 09 Sep 2026 16:47:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Holder blasts Blanche over planned GOP convention speech: &#039;Disgraceful&#039;",
-      "desc": "Former Attorney General Eric Holder on Tuesday slammed the sitting Department of Justice (DOJ) chief over his decision to address attendees at the Republican National Committee’s (RNC) first midterm c",
-      "link": "https://thehill.com/homenews/administration/6079214-eric-holder-todd-blanche-gop-midterm-convention-speech-critique/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 16:42:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Pinconning man charged with robbing Auburn bank after shaving beard, posting selfie on Facebook",
@@ -272,15 +425,6 @@
       "tag": "safety"
     },
     {
-      "title": "Record store closes, New York-style pizzeria returns and more Flint-area business news",
-      "desc": "Catch up on those stories and other local business news with these recent headlines.",
-      "link": "https://www.mlive.com/news/flint/2026/09/record-store-closes-new-york-style-pizzeria-returns-and-more-flint-area-business-news.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 12:42:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "WHO report warns of link between smoking and infertility",
       "desc": "A new report summarizes decades of evidence linking tobacco smoke with fertility problems.",
       "link": "https://thehill.com/policy/healthcare/6077021-health-risks-tobacco-smoking-infertility-world-health-organization-report/",
@@ -340,15 +484,6 @@
       "link": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
       "date": "Sep 9, 2026",
       "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "The Fairphone (Gen 6+) Review: Finally in the US",
-      "desc": "With affordable replacement parts, a five-year warranty, and updates through 2033, the Fairphone proves sustainability doesn’t mean major compromise.",
-      "link": "https://www.wired.com/review/the-fairphone-gen-6-plus/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 09:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -477,15 +612,6 @@
       "rawDate": "Tue, 08 Sep 2026 19:29:43 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Woman stabbed 3 times in Thomas Township, Flock cameras lead police to 2 female suspects",
-      "desc": "Police used license plate readers to track down two suspects who allegedly fled after a woman was stabbed three times during a Labor Day argument on McCliggott Road.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/woman-stabbed-3-times-in-thomas-township-flock-cameras-lead-police-to-2-female-suspects.html",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 19:17:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "3 Michiganders slated to speak at Trump’s midterm convention in Dallas",
@@ -722,15 +848,6 @@
       "tag": "health"
     },
     {
-      "title": "Former Air Force secretary questions &#039;advice&#039; Trump received before starting Iran war",
-      "desc": "Former Air Force Secretary Frank Kendall on Sunday questioned the “advice” President Trump received in the lead-up to the Iran war. “What I don't understand, frankly, about the Iran war is what advice",
-      "link": "https://thehill.com/policy/defense/6073796-kendall-questions-trump-iran-war/",
-      "date": "Sep 6, 2026",
-      "rawDate": "Sun, 06 Sep 2026 15:29:19 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Hillsdale College sends 17 students to Washington for semester-long internship program",
       "desc": "Seventeen Hillsdale College students are spending the fall semester in Washington, D.C., combining full-time internships with evening coursework through the college’s Washington-Hillsdale Internship P",
       "link": "https://www.mlive.com/news/jackson/2026/09/hillsdale-college-sends-17-students-to-washington-for-semester-long-internship-program.html",
@@ -794,24 +911,6 @@
       "tag": "technology"
     },
     {
-      "title": "Hillsdale College announces September shooting sports schedule",
-      "desc": "Hillsdale College’s John Anthony Halter Shooting Sports Education Center will host a series of shooting sports events throughout September, including competitive matches, training courses and practice",
-      "link": "https://www.mlive.com/news/jackson/2026/09/hillsdale-college-announces-september-shooting-sports-schedule.html",
-      "date": "Sep 5, 2026",
-      "rawDate": "Sat, 05 Sep 2026 10:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Ann Arbor teachers ratify deal with district after months-long contract stalemate",
-      "desc": "The Ann Arbor Public Schools Board of Education is expected to consider the tentative deal at its next meeting Wednesday, Sept. 9. A representative for the teachers' union says the deal lasts through ",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-teachers-ratify-deal-with-district-after-months-long-contract-stalemate.html",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 22:07:10 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Lancaster County infant confirmed to have died from measles in Pennsylvania",
       "desc": "A 6-week-old infant’s death in Pennsylvania was caused by measles, the Lancaster County coroner confirmed Friday. County coroner Stephen Diamantoni said the child, who died last month, was born with A",
       "link": "https://thehill.com/policy/healthcare/6072325-pennsylvania-infant-measles-death/",
@@ -835,33 +934,6 @@
       "link": "https://thehill.com/policy/healthcare/6071686-epinephrine-injection-recalled-fatal-health-risk-fda/",
       "date": "Sep 4, 2026",
       "rawDate": "Fri, 04 Sep 2026 17:54:20 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Nearly a third of AI chatbot replies to voting questions inaccurate, outdated: Study",
-      "desc": "Artificial intelligence chatbots are becoming a source for voters to ask questions about upcoming elections, but a new study determined nearly a third of AI-generated replies could be inaccurate or ou",
-      "link": "https://thehill.com/policy/technology/6071757-ai-chatbots-election-info-inaccuracy/",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 16:57:07 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Hawley expands Flock camera probe to other AI-powered surveillance systems",
-      "desc": "Sen. Josh Hawley (R-Mo.) announced Thursday he would broaden his probe into Flock Safety’s roadside cameras to include AI surveillance networks run by three other companies.  “Flock does not stand alo",
-      "link": "https://thehill.com/homenews/senate/6071467-hawley-flock-camera-probe-ai-surveillance/",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 15:22:28 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Democrats weigh how big to go on healthcare reform in midterm push",
-      "desc": "Democratic lawmakers and policy groups are throwing their ideas for healthcare reform in the ring, but it remains to be seen what the party will be willing to consider as it seeks to retake control of",
-      "link": "https://thehill.com/policy/healthcare/6070400-democratic-party-healthcare-vision/",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

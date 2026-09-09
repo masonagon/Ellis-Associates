@@ -1,6 +1,78 @@
 {
-  "generated": "2026-09-09T05:36:41.674Z",
+  "generated": "2026-09-09T10:29:17.295Z",
   "news": [
+    {
+      "title": "The Memo: Trump’s midterm convention presents GOP candidates with stark dilemma",
+      "desc": "The Trump-centric Republican midterm convention that kicks off Wednesday in Dallas is putting GOP candidates in a tight spot. On one hand, there are clear arguments in favor of attending the conventio",
+      "link": "https://thehill.com/homenews/analysis/6077563-trump-midterm-convention-gop-candidates/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Conservatives split over Trump plan to pay stay-at-home parents",
+      "desc": "A new proposal from the White House to expand childcare subsidies to cover stay-at-home parents is dividing conservatives.  The idea is not a new one. The rule change the administration is pushing for",
+      "link": "https://thehill.com/homenews/administration/6077706-trump-childcare-subsidy-stay-at-home-parents/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump’s escalation of fight with Canada puts GOP Senate candidates in a vice",
+      "desc": "President Trump's escalation of the trade war with Canada is coming at a bad time for Senate Republican candidates, who are being put in the awkward place of having to defend the administration's econ",
+      "link": "https://thehill.com/homenews/senate/6077659-trump-canada-trade-war-gop-candidates-midterms/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republicans head to Dallas for first GOP midterm convention: What to know",
+      "desc": "The Republican National Committee's (RNC) midterm convention kicks off in Dallas on Wednesday, a first-of-its kind event aimed at helping Republicans buck President Trump's low approval numbers and de",
+      "link": "https://thehill.com/homenews/campaign/6077615-rnc-midterm-convention-trump-dallas/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
+      "desc": "A team-up with Waymo in Nashville has former Lyft drivers maintaining self-driving cars. What’s next?",
+      "link": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
+      "desc": "Trump has touted a recent Census report. WIRED found grave flaws in its analysis and the process behind it, and confirmed the identity of several of its authors—among them a one-time DOGE affiliate.",
+      "link": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Fairphone (Gen 6+) Review: Finally in the US",
+      "desc": "With affordable replacement parts, a five-year warranty, and updates through 2033, the Fairphone proves sustainability doesn’t mean major compromise.",
+      "link": "https://www.wired.com/review/the-fairphone-gen-6-plus/",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Is your Walgreens closing? The company just confirmed its latest list",
+      "desc": "The chain had announced plans to close up to 1,200 underperforming U.S. locations before the acquisition was completed.",
+      "link": "https://www.mlive.com/business/2026/09/walgreens-once-planned-to-close-1200-stores-now-the-number-is-under-100-heres-the-new-list.html",
+      "date": "Sep 9, 2026",
+      "rawDate": "Wed, 09 Sep 2026 09:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
     {
       "title": "Valvoline Coupons and Promo Codes for September 2026",
       "desc": "We've gathered all the top Valvoline coupons and promo codes for September 2026, including deals on full synthetic oil changes and other essential maintenance.",
@@ -124,17 +196,8 @@
       "link": "https://thehill.com/regulation/court-battles/6077588-supreme-court-vaccine-religious-exemption-new-york/",
       "date": "Sep 8, 2026",
       "rawDate": "Tue, 08 Sep 2026 22:37:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Former Texas attorney general aide, Paxton whistleblower backs Talarico in attack ad",
-      "desc": "Democratic Senate candidate James Talarico released a new advertisement with a former aide to his Republican rival, Texas Attorney General Ken Paxton. According to The Texas Tribune, David Maxwell spe",
-      "link": "https://thehill.com/homenews/campaign/6077568-talarico-ad-ex-paxton-aide/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 22:33:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Man arraigned after being shot by officer in armed standoff",
@@ -144,24 +207,6 @@
       "rawDate": "Tue, 08 Sep 2026 22:28:37 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Federal court to hear arguments on abortion pill access",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Federal court to hear arguments on abortion pill access A three-judge panel on the 5th U.S. Circuit Court of ",
-      "link": "https://thehill.com/newsletters/healthcare/6077518-federal-court-to-hear-arguments-on-abortion-pill-access/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 22:11:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Supreme Court denies GOP on Missouri map suit; Canadian tariffs, Trump threats grow trade war",
-      "desc": "Supreme Court Justice Brett Kavanaugh on Tuesday denied a request to lift a block on Missouri’s new congressional map, which was poised to give Republicans a pickup opportunity in November. The decisi",
-      "link": "https://thehill.com/homenews/administration/6075462-live-updates-trump-canada-tariffs-rnc-midterm-convention/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 21:52:58 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "US military destroys 5 Iranian oil tankers",
@@ -180,24 +225,6 @@
       "rawDate": "Tue, 08 Sep 2026 21:33:06 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
-      "desc": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
-      "link": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 21:15:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "desc": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 20:12:51 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "National Guard member arrested in DC, accused of pulling gun in argument over hairstyles",

@@ -1,9 +1,63 @@
 {
-  "generated": "2026-09-10T02:20:38.015Z",
+  "generated": "2026-09-10T07:41:32.699Z",
   "news": [
     {
+      "title": "Trump Offers Every American $5,000 If Republicans Win The Midterms",
+      "desc": "The extraordinary proposal, delivered during the president's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.",
+      "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 06:30:32 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "GOP midterm convention lives up to its &#039;Trump-a-Palooza&#039; hype",
+      "desc": "DALLAS — The Republican National Committee’s first-ever midterm convention lived up to its “Trump-a-palooza” nickname as the two-day Dallas bash kicked off Wednesday.   Posters of the president — from",
+      "link": "https://thehill.com/homenews/campaign/6080104-trump-gop-midterm-convention-dallas/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 04:47:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump implores GOP to &#039;pretend&#039; he&#039;s on November ballot at first night of midterm convention",
+      "desc": "President Trump renewed his calls on Wednesday for Republicans to pretend that he's on the ballot in November, promising $5,000 for every U.S. adult if the GOP holds onto the House and Senate. “I'm as",
+      "link": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 04:14:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fetterman says he&#039;ll still caucus with Democrats after video appearance at GOP midterm convention",
+      "desc": "Sen. John Fetterman (D-Pa.) confirmed Wednesday night he still plans to caucus with the Democratic Party despite making a video appearance during the Republican National Committee's midterm convention",
+      "link": "https://thehill.com/homenews/senate/6080746-fetterman-democrat-caucus-gop-midterm-video/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 03:19:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ann Arbor teachers’ contract ratified. Here’s what it means for raises.",
+      "desc": "School board approves deal with retroactive pay increases, added health care support and another round of bargaining next year.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-teachers-contract-ratified-heres-what-it-means-for-raises.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 03:09:12 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump pledges $5K &#039;Trump dividend&#039; if Republicans hold onto Congress",
+      "desc": "President Trump pledged a $5,000 payout to U.S. adults on Wednesday, but only if Republicans hold onto their majority in Congress come November. \"Here is my promise: if the Republicans win the House o",
+      "link": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 02:48:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Live updates: Trump closes out Day 1 of GOP convention in Dallas with &#039;Trump dividend&#039; announcement",
-      "desc": "President Trump has taken the stage in Dallas for the opening of a two-day Republican National Committee (RNC) midterm convention. \"I'm asking you to pretend that I'm on the ballot,\" he said, adding, ",
+      "desc": "President Trump took the stage in Dallas to close out the first day of the Republican National Committee (RNC) midterm convention. \"I'm asking you to pretend that I'm on the ballot,\" he said, adding, ",
       "link": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/",
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 02:16:37 +0000",
@@ -115,8 +169,8 @@
       "link": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
       "date": "Sep 9, 2026",
       "rawDate": "Wed, 09 Sep 2026 22:14:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
@@ -126,15 +180,6 @@
       "rawDate": "Wed, 09 Sep 2026 22:11:55 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Missouri’s chaotic redistricting battle: Where it stands",
-      "desc": "A showdown over Missouri's congressional map has taken several turns in the last week, as competing court rulings leave lingering questions about which district boundaries should be in effect for the ",
-      "link": "https://thehill.com/regulation/court-battles/6080105-missouri-redistricting-congressional-map-legal-fight/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 21:53:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "90 employees being laid off as Owosso pickup truck accessory manufacturer announces closure",
@@ -470,15 +515,6 @@
       "tag": "safety"
     },
     {
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "desc": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Oil rises past $100 a barrel after latest Middle East attacks",
       "desc": "Oil prices climbed above $100 per barrel Wednesday for the first time since July as renewed fighting in the Middle East raised concerns about further disruptions to global energy supplies. Brent crude",
       "link": "https://thehill.com/policy/energy-environment/6078319-oil-prices-surge-middle-east-conflict/",
@@ -512,42 +548,6 @@
       "date": "Sep 9, 2026",
       "rawDate": "Wed, 09 Sep 2026 11:41:03 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More",
-      "desc": "Get all the news when it happens, as our reporters bring you live updates from Apple Park, the company’s headquarters in Cupertino, California.",
-      "link": "https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
-      "desc": "The cable news network’s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
-      "desc": "A team-up with Waymo in Nashville has former Lyft drivers maintaining self-driving cars. What’s next?",
-      "link": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
-      "desc": "Trump has touted a recent Census report. WIRED found grave flaws in its analysis and the process behind it, and confirmed the identity of several of its authors—among them a one-time DOGE affiliate.",
-      "link": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -907,15 +907,6 @@
       "link": "https://www.mlive.com/news/flint/2026/09/flint-research-symposium-to-highlight-community-academic-partnerships.html",
       "date": "Sep 5, 2026",
       "rawDate": "Sat, 05 Sep 2026 14:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Ferris State students watch the first home game of the season from their dorm room windows",
-      "desc": "In August, the Ferris State University unveiled its newest dorm building, Stadium Hall, located on the north side of the football field. Community spaces and dorm room windows face directly over the n",
-      "link": "https://www.mlive.com/sports/2026/09/ferris-state-students-watch-the-first-home-game-of-the-season-from-their-dorm-room-windows.html",
-      "date": "Sep 5, 2026",
-      "rawDate": "Sat, 05 Sep 2026 13:54:13 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

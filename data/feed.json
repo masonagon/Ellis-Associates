@@ -1,41 +1,167 @@
 {
-  "generated": "2026-09-10T07:41:32.699Z",
+  "generated": "2026-09-10T12:32:41.657Z",
   "news": [
     {
-      "title": "Trump Offers Every American $5,000 If Republicans Win The Midterms",
-      "desc": "The extraordinary proposal, delivered during the president's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.",
+      "title": "Bet on it: The Trumps&#8217; ties to prediction markets will become the IRS&#8217;s problem",
+      "desc": "The IRS has remained uncharacteristically reticent on the associated tax implications of such transactions.",
+      "link": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 12:30:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "O&#039;Reilly: &#039;Fetterman is going to be a Republican&#039;",
+      "desc": "Political commentator Bill O'Reilly suggested Sen. John Fetterman (D-Pa.), who once vowed to leave the Democratic Party if its policy position toward Israel changes, \"is going to be a Republican.\" O'R",
+      "link": "https://thehill.com/homenews/senate/6080968-bill-oreilly-john-fetterman-democrats-republicans-midterms-gop-convention/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 12:03:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "On the Ballot: One year after Charlie Kirk’s assassination, Turning Point USA presses on",
+      "desc": "Turning Point USA (TPUSA) is navigating its first election cycle without its founder.   Thursday marks one year since Charlie Kirk was assassinated at a Utah university during one of his “Prove Me Wro",
+      "link": "https://thehill.com/homenews/6078925-on-the-ballot-charlie-kirk-assasination-turning-point-usa/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Police used Flock cameras, phone location to track suspect in killing of pregnant woman and her baby",
+      "desc": "Flock cameras, Ring footage, and cellphone data helped investigators arrest Leo Stringer, 32, in Tennessee in connection to the fatal shooting of pregnant Ashley Williams and the death of her newborn ",
+      "link": "https://www.mlive.com/news/flint/2026/09/police-used-flock-cameras-phone-location-to-track-suspect-in-killing-of-pregnant-woman-and-her-baby.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 11:59:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump promises $5,000 checks as Republican Party tries to defy midterm election history",
+      "desc": "During Republicans first ever midterm convention in Dallas on Wednesday, the president made a promise to pay adults a $5,000 dividend if the party wins the midterm elections.",
+      "link": "https://www.mlive.com/politics/2026/09/trump-promises-5000-checks-as-republican-party-tries-to-defy-midterm-election-history.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 11:38:01 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The man who forced Congress to care for 9/11 survivors",
+      "desc": "Twenty-five years after the attacks, twice as many people have died from illnesses linked to World Trade Center exposure as were killed on September 11 itself.",
+      "link": "https://thehill.com/opinion/national-security/6077146-john-feal-911-advocacy/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 11:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump, Fetterman deliver surprises at RNC night 1",
+      "desc": "In today's issue: ▪ Trump’s expensive election promise ▪ A rare primary loss for a governor ▪ Apple unveils foldable iPhone ▪ AI researchers issue stark warning President Trump wrapped up the first da",
+      "link": "https://thehill.com/newsletters/morning-report/6080953-donald-trump-john-fetterman-gop-midterm-convention-day-1/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 11:16:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
+      "desc": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
+      "link": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:45:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Everything New You Can Do With Siri AI",
+      "desc": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ford neck and neck with Lombardo in toss-up Nevada governor&#039;s race: Poll",
+      "desc": "Nevada Gov. Joe Lombardo (R) and state Attorney General Aaron Ford (D) are neck and neck in the state’s gubernatorial race, according to new polling released on Thursday. The Democratic candidate led ",
+      "link": "https://thehill.com/homenews/campaign/6080153-ford-lombardo-nevada-gubernatorial-poll/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House Republicans back Max Miller reelection, but keep their distance",
+      "desc": "Many House Republicans are backing Rep. Max Miller’s (R-Ohio) bid for reelection — but they’re also keeping their distance. Those Republicans want to preserve a seat once considered safely in GOP hand",
+      "link": "https://thehill.com/homenews/house/6080271-house-gop-max-miller-ohio/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic donors determined to oust Trump say they’re opening checkbooks",
+      "desc": "Democratic donors who were once turned off by the state of their party are beginning to write checks again, spurred by the prospect of Republican losses in November’s midterm elections.  But their ret",
+      "link": "https://thehill.com/homenews/campaign/6079964-trump-opposition-dnc-funding/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The elephant in the room at the RNC: Trump&#039;s money",
+      "desc": "President Trump’s massive campaign war chest is looming over the GOP’s midterm convention in Dallas this week as Republicans grow frustrated with how his political operation has spent in races this cy",
+      "link": "https://thehill.com/homenews/administration/6080226-trump-campaign-spending-gop-convention/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Public anger over AI boom triggers GOP midterm worries",
+      "desc": "The spread of Flock cameras and AI data centers have become big issues in the midterm elections, with lawmakers calling for curbs on Flock’s surveillance network and more than 700 candidates mentionin",
+      "link": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "desc": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
+      "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "AI advocacy group launches state-level policy push",
+      "desc": "Americans for Responsible Innovation (ARI), a nonprofit pushing for stronger AI guardrails, launched a new state-level initiative Thursday focused on advocating for AI policy across all 50 states. The",
+      "link": "https://thehill.com/policy/technology/6079886-ari-launches-state-ai-policy-push/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 09:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Our Favorite GoPro 360 Camera Is Now 40 Percent Off",
+      "desc": "The GoPro Max 2 is almost half off at Amazon and other retailers, along with other great action camera deals.",
+      "link": "https://www.wired.com/story/gopro-max-2-deal-september-2026/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump Probably Won't Give $5,000 to Every US Adult if Republicans Win the Midterms",
+      "desc": "The eyebrow-raising proposal, delivered during the president’s speech at the midterm convention, would cost $1.2 trillion and would need congressional approval.",
       "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 06:30:32 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "GOP midterm convention lives up to its &#039;Trump-a-Palooza&#039; hype",
-      "desc": "DALLAS — The Republican National Committee’s first-ever midterm convention lived up to its “Trump-a-palooza” nickname as the two-day Dallas bash kicked off Wednesday.   Posters of the president — from",
-      "link": "https://thehill.com/homenews/campaign/6080104-trump-gop-midterm-convention-dallas/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 04:47:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump implores GOP to &#039;pretend&#039; he&#039;s on November ballot at first night of midterm convention",
-      "desc": "President Trump renewed his calls on Wednesday for Republicans to pretend that he's on the ballot in November, promising $5,000 for every U.S. adult if the GOP holds onto the House and Senate. “I'm as",
-      "link": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 04:14:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fetterman says he&#039;ll still caucus with Democrats after video appearance at GOP midterm convention",
-      "desc": "Sen. John Fetterman (D-Pa.) confirmed Wednesday night he still plans to caucus with the Democratic Party despite making a video appearance during the Republican National Committee's midterm convention",
-      "link": "https://thehill.com/homenews/senate/6080746-fetterman-democrat-caucus-gop-midterm-video/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 03:19:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Ann Arbor teachers’ contract ratified. Here’s what it means for raises.",
@@ -47,24 +173,6 @@
       "tag": "education"
     },
     {
-      "title": "Trump pledges $5K &#039;Trump dividend&#039; if Republicans hold onto Congress",
-      "desc": "President Trump pledged a $5,000 payout to U.S. adults on Wednesday, but only if Republicans hold onto their majority in Congress come November. \"Here is my promise: if the Republicans win the House o",
-      "link": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 02:48:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Trump closes out Day 1 of GOP convention in Dallas with &#039;Trump dividend&#039; announcement",
-      "desc": "President Trump took the stage in Dallas to close out the first day of the Republican National Committee (RNC) midterm convention. \"I'm asking you to pretend that I'm on the ballot,\" he said, adding, ",
-      "link": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 02:16:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pro-Palestine activists return to court in University of Michigan vandalism case",
       "desc": "While organizers gathered to support the group of eight defendants, a federal judge partially granted a protective order after attorneys sparred over limits on sharing evidence collected by investigat",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/pro-palestine-activists-return-to-court-in-university-of-michigan-vandalism-case.html",
@@ -72,42 +180,6 @@
       "rawDate": "Thu, 10 Sep 2026 01:42:12 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Incumbents fall in Rhode Island primaries: 3 takeaways",
-      "desc": "It was a bad night to be an incumbent in Rhode Island on Wednesday, with the governor and the mayor of the state’s largest city losing their Democratic primaries.  Former CVS executive Helena Foulkes ",
-      "link": "https://thehill.com/homenews/campaign/6079278-rhode-island-primary-mckee-smiley-takeaways/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 01:10:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democratic socialist ousts Providence mayor in primary",
-      "desc": "Democratic socialist David Morales is projected to oust Providence Mayor Brett Smiley (D) from a Tuesday primary, according to Decision Desk HQ. Morales, a state lawmaker, leads the incumbent by about",
-      "link": "https://thehill.com/homenews/campaign/6079175-democratic-socialist-wins-providence-mayoral-primary/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 00:35:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Reed easily wins Democratic primary for sixth Rhode Island Senate term",
-      "desc": "Sen. Jack Reed (D) sailed through his Rhode Island Democratic primary on Wednesday, easily besting longshot challengers, according to a Decision Desk HQ projection. The win in the deep blue state puts",
-      "link": "https://thehill.com/homenews/campaign/6079928-reed-wins-rhode-island-senate-primary/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 00:27:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Rhode Island governor ousted in Democratic primary",
-      "desc": "Rhode Island Gov. Dan McKee is projected to lose his reelection bid to former CVS executive Helena Foulkes in the Democratic primary for Rhode Island, according to Decision Desk HQ. (DDHQ).  Foulkes l",
-      "link": "https://thehill.com/homenews/campaign/6079937-mckee-loses-rhode-island-governor-primary/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 00:24:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Expert reveals why Trump’s GOP convention might be a bust: ‘This idea is so ill-conceived’",
@@ -119,24 +191,6 @@
       "tag": "government"
     },
     {
-      "title": "Fetterman appears in video praising McCormick at GOP midterm convention",
-      "desc": "Democratic Sen. John Fetterman (Pa.) appeared in a video praising fellow Pennsylvania Sen. Dave McCormick (R) at the Republican National Committee’s (RNC) midterm convention Wednesday. \"Why am I here ",
-      "link": "https://thehill.com/homenews/senate/6080435-fetterman-mccormick-trump-gop-midterm-convention-dallas/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 23:17:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House GOP leaders use convention speeches to take aim at &#039;crazy communists&#039;",
-      "desc": "House Republican leaders are sharpening their attacks on Democratic progressives and socialists as the party looks to hold its narrow majority, using the GOP midterm convention in Dallas, Texas, to fr",
-      "link": "https://thehill.com/homenews/campaign/6080427-scalise-emmer-anti-communist-rnc-convention/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 23:13:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "NASA wants to see your pictures of the sky. Here&#039;s why",
       "desc": "NASA wants you to point your phone to the sky and take a picture of the clouds. For science.",
       "link": "https://thehill.com/policy/technology/6080059-nasa-wants-to-see-your-pictures-of-the-sky-heres-why/",
@@ -144,15 +198,6 @@
       "rawDate": "Wed, 09 Sep 2026 22:38:07 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "GOP lawmaker says Paxton must debate Talarico to win Texas",
-      "desc": "Rep. Pete Sessions (R-Texas) said Wednesday that Texas Attorney General Ken Paxton (R) must debate his opponent, Democratic nominee James Talarico, to win the state’s Senate election. In an interview ",
-      "link": "https://thehill.com/homenews/campaign/6080357-pete-sessions-ken-paxton-debate-james-talarico/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 22:35:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Apple unveils foldable phone as Ternus takes stage: 5 takeaways",
@@ -170,15 +215,6 @@
       "date": "Sep 9, 2026",
       "rawDate": "Wed, 09 Sep 2026 22:14:11 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "desc": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
-      "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 22:11:55 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -207,15 +243,6 @@
       "rawDate": "Wed, 09 Sep 2026 21:25:33 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-      "desc": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
-      "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 21:15:27 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Rockford school board censures trustee over ‘race-based’ email",
@@ -263,24 +290,6 @@
       "tag": "safety"
     },
     {
-      "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
-      "desc": "The company’s September event introduced Apple’s first ever foldable iPhone, along with new iPhone 18 Pro models, updates to the Apple Watch, some AirPods, and more advances to Siri AI.",
-      "link": "https://www.wired.com/story/everything-apple-announced-september-2026/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 19:21:18 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
-      "desc": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence.",
-      "link": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 19:07:42 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "7 Michigan universities average ‘D’ grade for free speech on campus, ranking says",
       "desc": "Michigan Technological University graded well, while five of the other six Michigan universities ranked outside the top 100 per the Foundation for Individual Rights and Expression.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/7-michigan-universities-average-d-grade-for-free-speech-on-campus-ranking-says.html",
@@ -306,15 +315,6 @@
       "rawDate": "Wed, 09 Sep 2026 18:59:13 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "desc": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more se",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 18:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Teen charged with murder in 2025 shooting death of Saginaw man",
@@ -452,15 +452,6 @@
       "tag": "government"
     },
     {
-      "title": "Popular sandwich chain with toasty subs opens first location in major market",
-      "desc": "More locations will be developed over the next seven years.",
-      "link": "https://www.mlive.com/business/2026/09/popular-sandwich-chain-with-toasty-subs-opens-first-location-in-major-market.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 15:13:55 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Trump administration names permanent FDA division leaders",
       "desc": "The Trump administration permanently filled four key leadership roles in the Food and Drug Administration (FDA) on Tuesday, the agency announced, following the nomination of Heidi Overton to lead the ",
       "link": "https://thehill.com/policy/healthcare/6079000-trump-fills-key-fda-leadership/",
@@ -504,15 +495,6 @@
       "rawDate": "Wed, 09 Sep 2026 14:22:26 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Body of missing boater recovered from Lake St. Clair, Coast Guard says",
-      "desc": "The body of a 74-year-old man who fell overboard in Lake St. Clair has been recovered near the Grosse Pointe Yacht Club.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/body-of-missing-boater-recovered-from-lake-st-clair-coast-guard-says.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 13:08:04 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Oil rises past $100 a barrel after latest Middle East attacks",
@@ -704,15 +686,6 @@
       "tag": "education"
     },
     {
-      "title": "Help shape MLive’s election coverage: Rank the issues that matter most this November",
-      "desc": "Take MLive's survey inside the story and tell us which five issues matter most to you this election.",
-      "link": "https://www.mlive.com/politics/2026/09/help-shape-mlives-election-coverage-rank-the-issues-that-matter-most-this-november.html",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 16:32:52 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Marching bands: Oakridge High School previews ‘Phases’ performance at halftime",
       "desc": "The Oakridge Eagles marching band previewed its 2026 show, \"Phases,\" which represents the four elements as they change and evolve.",
       "link": "https://www.mlive.com/news/muskegon/2026/09/marching-bands-oakridge-high-school-previews-phases-performance-at-halftime.html",
@@ -801,15 +774,6 @@
       "rawDate": "Mon, 07 Sep 2026 12:19:38 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "It&#039;s not just Flock. These cameras, ALPRs may also be in your community",
-      "desc": "Backlash to Flock cameras has been growing in recent months, but the surveillance equipment company isn't the only one that may be operating in your neighborhood.",
-      "link": "https://thehill.com/policy/technology/6073913-alpr-camera-privacy-debate/",
-      "date": "Sep 7, 2026",
-      "rawDate": "Mon, 07 Sep 2026 11:35:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Collins&#039;s Kavanaugh vote becomes key weapon for opponents",

@@ -1,41 +1,167 @@
 {
-  "generated": "2026-09-10T16:47:22.170Z",
+  "generated": "2026-09-10T19:22:38.025Z",
   "news": [
     {
-      "title": "The House must act to cut Putin&#039;s Arctic gas lifeline",
-      "desc": "The bipartisan Lindsey O. Graham Sanctioning Russia and Iran Act passed the Senate, potentially allowing the U.S. government to block the specialized tankers used by Russia to export liquefied natural",
-      "link": "https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers/",
+      "title": "US military takes lighter touch toward new targets in boat strike campaign",
+      "desc": "A year into the U.S. military’s deadly sea-based campaign to stamp out “narco-trafficking,” it is zeroing in on a new target, “floating refueling stations,” and taking a more human approach to sinking",
+      "link": "https://thehill.com/policy/defense/6082785-us-military-targets-refueling-vessels-drug-fight/",
       "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 16:30:00 +0000",
+      "rawDate": "Thu, 10 Sep 2026 19:12:19 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Will AI kill all humans? Anthropic employees freak out!",
+      "desc": "Republicans are expressing the appropriate level of concern. You know who isn’t expressing the appropriate level of concern? Democrats.",
+      "link": "https://thehill.com/opinion/robbys-radar/6082742-will-ai-kill-all-humans-anthropic-employees-freak-out/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 18:57:43 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
+      "title": "Live updates: Missouri will revert to 2022 district map; Trump, Vance to close out RNC midterm convention",
+      "desc": "The full Supreme Court on Thursday morning ruled against the GOP-favored Missouri congressional map. In a brief and unsigned opinion, justices sided with a Democratic-aligned organizer, who is attempt",
+      "link": "https://thehill.com/homenews/administration/6080688-live-trump-vance-rnc-midterm-convention-charlie-kirk-missouri/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 18:49:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Appeals court denies Trump administration&#039;s mail ballot restrictions",
+      "desc": "A federal appeals court on Thursday upheld a block on the Trump administration’s restrictions on mail-in voting, as the Supreme Court considers the case. Three judges on the U.S. Court of Appeals for ",
+      "link": "https://thehill.com/regulation/court-battles/6082392-appeals-court-upholds-mail-ballot-restrictions/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 18:49:11 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump defends timing of $5,000 dividend announcement",
+      "desc": "President Trump defended the timing of his proposal to give every U.S. adult a $5,000 dividend — but only if Republicans maintain their majorities in the House and the Senate.  \"Why not just give the ",
+      "link": "https://thehill.com/homenews/administration/6082670-trump-defends-five-thousand-dividend/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 18:40:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bay City to repair fence at toxic former Surath property",
+      "desc": "City officials are working with nonprofits to relocate unhoused residents from the contaminated former scrapyard, which contains hazardous levels of lead and cadmium.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bay-city-to-repair-fence-at-toxic-former-surath-property.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 18:23:18 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flint breaks ground on $17.5M regional police and fire training campus",
+      "desc": "Flint broke ground on a regional public safety training campus featuring an indoor firearms range, firefighter training towers, and classrooms to serve agencies across Genesee County.",
+      "link": "https://www.mlive.com/news/flint/2026/09/flint-breaks-ground-on-175m-regional-police-and-fire-training-campus.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 18:07:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "FCC commissioner: Kimmel&#039;s &#039;self-censorship&#039; shows Trump&#039;s bid to &#039;control&#039; media working",
+      "desc": "The Federal Communications Commission's (FCC) lone Democratic commissioner is pointing to ABC comedian Jimmy Kimmel's decision not to broadcast an interview with Texas Senate nominee James Talarico (D",
+      "link": "https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:57:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump: If GOP wins midterms, all adult citizens will get $5K dividend &#124; RISING",
+      "desc": "OPINION: President Trump says he will give $5,000 to every adult American if Republicans retain control of the House and Senate in this year's midterms.",
+      "link": "https://thehill.com/homenews/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:54:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Missouri judges press state on map plans after Supreme Court ruling",
+      "desc": "Missouri’s top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials from implementing their new, GOP-favored lines.  Tha",
+      "link": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:41:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rep. Madeleine Dean slams Fetterman, calls video appearance &#039;gravely disappointing&#039;",
+      "desc": "Rep. Madeleine Dean (D-Pa.) didn’t mince words about Sen. John Fetterman (D-Pa.) and his video appearance at the Republican National Committee's (RNC) midterm convention, calling it a “stunt” that she",
+      "link": "https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:34:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump administration alleges UC Berkeley law school favors Black applicants",
+      "desc": "Officials from the Justice Department and Education Department alleged Wednesday that the University of California's Berkeley School of Law favors Black applicants over white and Asian applicants, in ",
+      "link": "https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:24:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Roughly half of hospitals complying with price transparency rules: Report",
+      "desc": "Even though compliance rates have reached a record high, only about half of U.S. hospitals are in full compliance with federal price transparency rules, according to a report released Thursday. The no",
+      "link": "https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:20:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Nearly 50 years after Tammi Pearo’s murder, convicted killer released from prison",
+      "desc": "James Muhamet and an accomplice abducted 13-year-old Tammi Lea Pearo from her bicycle in 1978, raped and strangled her, then left her body in a wooded area.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/nearly-50-years-after-tammi-pearos-murder-convicted-killer-released-from-prison.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:16:23 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Multistate salmonella outbreak linked to broccoli sprouts: FDA",
+      "desc": "The Food and Drug Administration (FDA) reported Wednesday it will investigate a multistate outbreak of salmonella linked to recalled broccoli sprouts. The Centers for Disease Control and Prevention (C",
+      "link": "https://thehill.com/policy/healthcare/6082261-fda-investigates-salmonella-broccoli-sprouts/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:15:39 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Bridgeport Township school bus monitor pleads guilty to sending lewd message to ‘minor’",
+      "desc": "Timothy Kuss, 52, admitted to messaging what he thought was a 15-year-old girl but was actually an online decoy.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bridgeport-township-school-bus-monitor-pleads-guilty-to-sending-lewd-message-to-minor.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:13:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump pledges $500 ObamaCare rebate checks",
+      "desc": "The Trump administration is pledging to send $500 rebate checks to nearly 1 million Americans who the White House says were overcharged for ObamaCare coverage.  In a recorded message posted Thursday t",
+      "link": "https://thehill.com/policy/healthcare/6082253-trump-pledges-healthcare-rebate-checks/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 17:04:08 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
       "title": "Which iPhone 18 Model Should You Buy?",
-      "desc": "Apple's new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that's right for you.",
+      "desc": "Apple’s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that’s right for you.",
       "link": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 16:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Five things to know about Trump&#039;s $5K dividend pledge",
-      "desc": "President Trump on Wednesday pledged to dole out $5,000 dividends to U.S. adults only if Republicans keep their control of Congress after the fall midterm elections, the latest financial promise he ha",
-      "link": "https://thehill.com/homenews/administration/6081142-trump-pledges-five-thousand-dividends/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 16:25:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "El-Sayed hits Rogers on GOP convention appearance in new online game",
-      "desc": "Michigan Democratic Senate candidate Abdul El-Sayed is trolling his Republican opponent, former Rep. Mike Rogers (R-Mich.), over his appearance at the GOP midterm convention in Dallas via a video game",
-      "link": "https://thehill.com/homenews/campaign/6082103-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 16:25:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Former President Bush to Gen. Dan Caine: &#039;Thank God you are where you are&#039;",
@@ -45,15 +171,6 @@
       "rawDate": "Thu, 10 Sep 2026 16:14:43 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Utah governor designates Sept. 10 as &#039;Charlie Kirk Day&#039; 1 year after assassination",
-      "desc": "Utah Gov. Spencer Cox announced Thursday that Sept. 10 would be known as “Charlie Kirk Day” in Utah, a year after the political commentator was assassinated in the state. “One year ago today, Charlie ",
-      "link": "https://thehill.com/homenews/state-watch/6082031-utah-spencer-cox-charlie-kirk-day/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 16:09:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Man stabbed in chest in Ypsilanti",
@@ -71,15 +188,6 @@
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 16:00:31 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Talarico touts GOP support for Senate campaign",
-      "desc": "Texas Democratic Senate nominee James Talarico on Thursday touted endorsements from 21 current and former Republican officials and party leaders ahead of his November faceoff against state Attorney Ge",
-      "link": "https://thehill.com/homenews/campaign/6081974-republicans-endorse-talarico/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 15:53:28 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -110,24 +218,6 @@
       "tag": "safety"
     },
     {
-      "title": "Interest groups spend $31 million lobbying Congress on Cruz, Cantwell college sports bill",
-      "desc": "Interested parties in recent months have poured tens of millions of dollars into lobbying lawmakers on sweeping legislation regulating the big business of college sports. The Protect College Sports Ac",
-      "link": "https://thehill.com/policy/sports-gaming/6081927-ncaa-college-sports-bill/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 15:43:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump faces blowback with $5,000 dividend promise",
-      "desc": "President Trump’s pledge to distribute $5,000 to every U.S. adult if Republicans win the midterms is drawing backlash from Republicans and Democrats as the president’s allies are forced to explain and",
-      "link": "https://thehill.com/homenews/administration/6081944-trump-dividend-pledge-backlash/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 15:41:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "SNAP waivers rescinded in 5 states after court ruling, sparks reform for other states",
       "desc": "A federal judge struck down SNAP food restriction waivers in five states, prompting the USDA to require 30-day public comment periods before implementing similar waivers in other states.",
       "link": "https://www.mlive.com/life/2026/09/snap-waivers-rescinded-in-5-states-after-court-ruling-sparks-reform-for-other-states.html",
@@ -137,22 +227,13 @@
       "tag": "government"
     },
     {
-      "title": "House &#039;member day&#039; hearing airs reform proposals",
-      "desc": "The House Rules Committee recently held its biennial hearing where 12 members provided recommendations ranging from remote proxy voting for parents to improved legislative time allocation and stricter",
-      "link": "https://thehill.com/opinion/congress-blog/6079308-house-rule-change-recommendations/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 15:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Denver sues to block ICE officers from voting sites",
       "desc": "The city of Denver filed a lawsuit Thursday to block Immigration and Customs Enforcement (ICE) officers from going to voting sites. The lawsuit against the Department of Homeland Security (DHS) and Se",
       "link": "https://thehill.com/regulation/court-battles/6081890-denver-lawsuit-ice-polling-sites/",
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 15:29:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Triple-shooting in Saginaw leaves 3 teens wounded",
@@ -189,15 +270,6 @@
       "rawDate": "Thu, 10 Sep 2026 15:08:51 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Chip Roy on Trump dividends: ‘Dependency is evil &#038; soul-sucking in all its forms’",
-      "desc": "Rep. Chip Roy (R-Texas) criticized President Trump’s Wednesday proposal to give every American adult a $5,000 dividend if the GOP wins the midterms, as other Republicans have also voiced skepticism ab",
-      "link": "https://thehill.com/homenews/house/6081696-chip-roy-criticizes-trump-dividend/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 15:05:28 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Mott Community College to mark 25th anniversary of 9/11 with campus ceremony",
@@ -353,7 +425,7 @@
       "tag": "technology"
     },
     {
-      "title": "Trump Probably Won't Give $5,000 to Every US Adult if Republicans Win the Midterms",
+      "title": "Trump Probably Won’t Give $5,000 to Every US Adult if Republicans Win the Midterms",
       "desc": "The eyebrow-raising proposal, delivered during the president’s speech at the midterm convention, would cost $1.2 trillion and would need congressional approval.",
       "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
       "date": "Sep 10, 2026",
@@ -423,15 +495,6 @@
       "rawDate": "Wed, 09 Sep 2026 22:14:11 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "90 employees being laid off as Owosso pickup truck accessory manufacturer announces closure",
-      "desc": "Rugged Liner detailed the layoffs in a WARN notice filed with the Michigan Department of Labor and Economic Opportunity on Aug. 26.",
-      "link": "https://www.mlive.com/news/flint/2026/09/90-employees-being-laid-off-as-owosso-pickup-truck-accessory-manufacturer-announces-closure.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 21:38:51 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Center Line man gets decades in prison for hotel murder",
@@ -506,15 +569,6 @@
       "tag": "education"
     },
     {
-      "title": "Teen charged with murder in 2025 shooting death of Saginaw man",
-      "desc": "Prosecutors allege the 16-year-old shot Torriano Yrlas-Thomas in the chest during a marijuana robbery on Lowell Street. Investigators found incriminating messages the teen allegedly wrote after the sh",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/teen-charged-with-murder-in-2025-shooting-death-of-saginaw-man.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 18:02:32 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "ESPN analyst didn’t run for Senate because he was told what to say",
       "desc": "The analyst opened up recently about the decision to stay out of politics.",
       "link": "https://www.mlive.com/sports/2026/09/finebaum-reveals-he-didnt-run-for-senate-because-he-was-told-disney-is-woke.html",
@@ -542,24 +596,6 @@
       "tag": "health"
     },
     {
-      "title": "Star of beloved TV show charged with sexual assault, voyeurism and exposure",
-      "desc": "A British actor has been charged with a series of alleged sexual offenses involving five women",
-      "link": "https://www.mlive.com/life/2026/09/star-of-beloved-tv-show-charged-with-sexual-assault-voyeurism-and-exposure.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 17:21:50 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Police respond to armed domestic assault complaint on Egleston Avenue in Burton",
-      "desc": "Multiple police agencies responded to an armed domestic assault on Egleston Avenue, where officers are in contact with a non-compliant suspect.",
-      "link": "https://www.mlive.com/news/flint/2026/09/police-respond-to-armed-domestic-assault-complaint-on-egleston-street-in-burton.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 17:18:21 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Bipartisan coalition pushes Trump administration on AI security framework release",
       "desc": "A group of organizations from both sides of the aisle called on President Trump to publicly release his administration's framework on government AI testing, arguing the closed-door policy raises conce",
       "link": "https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing/",
@@ -585,15 +621,6 @@
       "rawDate": "Wed, 09 Sep 2026 15:11:27 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Vulnerable GOP senator sounds alarm on Trump’s escalating trade war with Canada",
-      "desc": "Susan Collins, who is facing a tough reelection bid in Maine, warned that Trump's trade war is significantly impacting her home state.",
-      "link": "https://www.mlive.com/politics/2026/09/vulnerable-gop-senator-sounds-alarm-on-trumps-escalating-trade-war-with-canada.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 15:03:42 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Anthropic researchers warn out-of-control AI could destroy humans",
@@ -830,15 +857,6 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Canadian retaliatory tariffs loom; Big Tech opposition grows as midterms approach",
-      "desc": "Monday is the last day before Canada's \"dollar for dollar\" retaliatory tariffs are set to go into effect, two weeks after President Trump put 50 percent levies on $27.6 billion worth of Canadian produ",
-      "link": "https://thehill.com/homenews/administration/6074261-live-canadian-tariffs-loom-us-iran-strikes/",
-      "date": "Sep 7, 2026",
-      "rawDate": "Mon, 07 Sep 2026 12:29:27 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Collins&#039;s Kavanaugh vote becomes key weapon for opponents",
       "desc": "Democrats and reproductive rights groups are zeroing in on Sen. Susan Collins’s (R-Maine) vote to confirm Justice Brett Kavanaugh as a pillar of their campaign to oust her, arguing she paved the way f",
       "link": "https://thehill.com/policy/healthcare/6072524-maine-senate-race-abortion-collins/",
@@ -871,42 +889,6 @@
       "link": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
       "date": "Sep 5, 2026",
       "rawDate": "Sat, 05 Sep 2026 22:24:04 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "UM-Flint police chief to stay after reconsidering planned departure",
-      "desc": "The announcement comes after reports that Ray Hall planned to leave the position this fall.",
-      "link": "https://www.mlive.com/news/flint/2026/09/um-flint-police-chief-to-stay-after-reconsidering-planned-departure.html",
-      "date": "Sep 5, 2026",
-      "rawDate": "Sat, 05 Sep 2026 17:26:22 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "RFK Jr. accepts Pa. child died of measles, says Shapiro hastily &#039;politicized&#039; death",
-      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. acknowledged Friday that measles caused the death of an infant in Pennsylvania, after previously questioning the state’s reporting of tw",
-      "link": "https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsylvania-measles-death/",
-      "date": "Sep 5, 2026",
-      "rawDate": "Sat, 05 Sep 2026 15:48:39 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Lancaster County infant confirmed to have died from measles in Pennsylvania",
-      "desc": "A 6-week-old infant’s death in Pennsylvania was caused by measles, the Lancaster County coroner confirmed Friday. County coroner Stephen Diamantoni said the child, who died last month, was born with A",
-      "link": "https://thehill.com/policy/healthcare/6072325-pennsylvania-infant-measles-death/",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 20:42:28 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Epinephrine injection recalled over potentially fatal health risks",
-      "desc": "Consumers, retailers and health care facilities should stop using the product and discard or return it, the FDA said.",
-      "link": "https://thehill.com/policy/healthcare/6071686-epinephrine-injection-recalled-fatal-health-risk-fda/",
-      "date": "Sep 4, 2026",
-      "rawDate": "Fri, 04 Sep 2026 17:54:20 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

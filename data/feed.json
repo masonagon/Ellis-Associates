@@ -1,50 +1,140 @@
 {
-  "generated": "2026-09-10T19:22:38.025Z",
+  "generated": "2026-09-10T22:07:48.568Z",
   "news": [
     {
+      "title": "Lummis ramps up pressure on Democrats over crypto bill",
+      "desc": "Sen. Cynthia Lummis (R-Wyo.) is ramping up pressure on Democrats to back the Clarity Act as it heads to the Senate floor next week for a procedural vote, highlighting the changes they have secured to ",
+      "link": "https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 21:20:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "9/11 attacks among &#039;most important historic events&#039; in US adults&#039; lifetimes: Poll",
+      "desc": "Nearly half of American adults consider the Sept. 11, 2001, attacks among the “most important historic events” in their lifetimes, a new poll found. In an Ipsos survey published Tuesday, 47 percent of",
+      "link": "https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 21:14:19 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Talarico leads Paxton in Texas by 4 points: Poll",
+      "desc": "Texas Democratic state Rep. James Talarico leads his Republican opponent, Texas Attorney General Ken Paxton, by 4 percentage points in a poll in the U.S. Senate race released Thursday.  The AARP poll,",
+      "link": "https://thehill.com/homenews/campaign/6083122-james-talarico-ken-paxton-texas-senate-aarp-poll/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 21:02:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "SpaceX sues Paxton, Texas county over public records",
+      "desc": "SpaceX filed a lawsuit Tuesday against Texas Attorney General Ken Paxton (R) and Grimes County to block the release of the company’s public records, according to court records.  The lawsuit requested ",
+      "link": "https://thehill.com/regulation/court-battles/6083046-spacex-lawsuit-ken-paxton-grimes-county/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:48:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New trial ordered for man convicted in downtown Grand Rapids shooting",
+      "desc": "The Michigan Court of Appeals ruled Genesis Lewis should get a new trial. He was convicted of second-degree murder.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/new-trial-for-man-convicted-in-downtown-grand-rapids-shooting.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:39:56 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "DDHQ shifts Senate odds to Democrats, then back to GOP: &#039;A coin flip&#039;",
+      "desc": "The election handicapper Decision Desk HQ (DDHQ) on Wednesday briefly shifted its odds of the Democrats winning the Senate to 51 percent, underscoring the party's growing momentum in the midterm elect",
+      "link": "https://thehill.com/homenews/6083047-senate-race-tossup-democrats-ddhq/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:31:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Is AI Actually Going to Kill Us All?",
+      "desc": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:30:37 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Human rabies exposure cases on the rise, CDC warns",
+      "desc": "The CDC said it has received a rise in reports of human rabies exposure cases this summer, prompting an alert to healthcare providers.",
+      "link": "https://thehill.com/policy/healthcare/6082853-human-rabies-exposure-cases-on-the-rise-cdc-warns/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:29:44 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
+      "desc": "While the strengthening El Niño helped boost temperatures, climate change is the main culprit for making August so hot.",
+      "link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:20:23 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Rubio says he has &#039;no plans at this time&#039; to run for president",
+      "desc": "Secretary of State Marco Rubio, whose name has been floated as a possible 2028 Republican contender to succeed President Trump, said he has no plans to launch another bid for the White House. \"I don't",
+      "link": "https://thehill.com/homenews/campaign/6082856-rubio-no-plans-2028-presidential-run/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:19:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Vance, Trump to speak as RNC kicks off midterm convention Day 2; Missouri will revert to old map",
+      "desc": "Vice President Vance will take his turn at the Republican National Committee midterm convention podium Thursday night, followed by President Trump, as GOP members close out their two-day push to energ",
+      "link": "https://thehill.com/homenews/administration/6080688-live-trump-vance-rnc-midterm-convention-charlie-kirk-missouri/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:09:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "El-Sayed hits Rogers on GOP convention appearance in new online game",
+      "desc": "Michigan Democratic Senate candidate Abdul El-Sayed is trolling his Republican opponent, former Rep. Mike Rogers (R-Mich.), over his appearance at the GOP midterm convention in Dallas via a video game",
+      "link": "https://thehill.com/homenews/6082275-el-sayed-hits-rogers-on-gop-convention-appearance-in-new-online-game/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 20:06:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw woman charged with stabbing another woman three times",
+      "desc": "Police arrested the 38-year-old woman within a few hours of the stabbing.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-woman-charged-with-stabbing-another-woman-three-times.html",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 19:47:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Iran is producing ballistic missiles again: Report",
+      "desc": "Iran has resumed production of ballistic missiles, The Wall Street Journal reported Thursday, contradicting the Trump administration's claims that Tehran's military capabilities have been destroyed in",
+      "link": "https://thehill.com/policy/international/6082738-iran-ballistic-missiles/",
+      "date": "Sep 10, 2026",
+      "rawDate": "Thu, 10 Sep 2026 19:42:40 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
       "title": "US military takes lighter touch toward new targets in boat strike campaign",
-      "desc": "A year into the U.S. military’s deadly sea-based campaign to stamp out “narco-trafficking,” it is zeroing in on a new target, “floating refueling stations,” and taking a more human approach to sinking",
+      "desc": "A year into its deadly sea-based campaign to stamp out “narco-trafficking,” the U.S. military is zeroing in on a new target — “floating refueling stations” — and taking a more human approach to sinkin",
       "link": "https://thehill.com/policy/defense/6082785-us-military-targets-refueling-vessels-drug-fight/",
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 19:12:19 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Will AI kill all humans? Anthropic employees freak out!",
-      "desc": "Republicans are expressing the appropriate level of concern. You know who isn’t expressing the appropriate level of concern? Democrats.",
-      "link": "https://thehill.com/opinion/robbys-radar/6082742-will-ai-kill-all-humans-anthropic-employees-freak-out/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 18:57:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Missouri will revert to 2022 district map; Trump, Vance to close out RNC midterm convention",
-      "desc": "The full Supreme Court on Thursday morning ruled against the GOP-favored Missouri congressional map. In a brief and unsigned opinion, justices sided with a Democratic-aligned organizer, who is attempt",
-      "link": "https://thehill.com/homenews/administration/6080688-live-trump-vance-rnc-midterm-convention-charlie-kirk-missouri/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 18:49:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Appeals court denies Trump administration&#039;s mail ballot restrictions",
-      "desc": "A federal appeals court on Thursday upheld a block on the Trump administration’s restrictions on mail-in voting, as the Supreme Court considers the case. Three judges on the U.S. Court of Appeals for ",
-      "link": "https://thehill.com/regulation/court-battles/6082392-appeals-court-upholds-mail-ballot-restrictions/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 18:49:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump defends timing of $5,000 dividend announcement",
-      "desc": "President Trump defended the timing of his proposal to give every U.S. adult a $5,000 dividend — but only if Republicans maintain their majorities in the House and the Senate.  \"Why not just give the ",
-      "link": "https://thehill.com/homenews/administration/6082670-trump-defends-five-thousand-dividend/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 18:40:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Bay City to repair fence at toxic former Surath property",
@@ -65,58 +155,13 @@
       "tag": "safety"
     },
     {
-      "title": "FCC commissioner: Kimmel&#039;s &#039;self-censorship&#039; shows Trump&#039;s bid to &#039;control&#039; media working",
-      "desc": "The Federal Communications Commission's (FCC) lone Democratic commissioner is pointing to ABC comedian Jimmy Kimmel's decision not to broadcast an interview with Texas Senate nominee James Talarico (D",
-      "link": "https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:57:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump: If GOP wins midterms, all adult citizens will get $5K dividend &#124; RISING",
-      "desc": "OPINION: President Trump says he will give $5,000 to every adult American if Republicans retain control of the House and Senate in this year's midterms.",
-      "link": "https://thehill.com/homenews/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:54:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Missouri judges press state on map plans after Supreme Court ruling",
-      "desc": "Missouri’s top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials from implementing their new, GOP-favored lines.  Tha",
-      "link": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:41:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Rep. Madeleine Dean slams Fetterman, calls video appearance &#039;gravely disappointing&#039;",
-      "desc": "Rep. Madeleine Dean (D-Pa.) didn’t mince words about Sen. John Fetterman (D-Pa.) and his video appearance at the Republican National Committee's (RNC) midterm convention, calling it a “stunt” that she",
-      "link": "https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:34:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump administration alleges UC Berkeley law school favors Black applicants",
-      "desc": "Officials from the Justice Department and Education Department alleged Wednesday that the University of California's Berkeley School of Law favors Black applicants over white and Asian applicants, in ",
-      "link": "https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:24:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Roughly half of hospitals complying with price transparency rules: Report",
       "desc": "Even though compliance rates have reached a record high, only about half of U.S. hospitals are in full compliance with federal price transparency rules, according to a report released Thursday. The no",
       "link": "https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/",
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 17:20:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Nearly 50 years after Tammi Pearo’s murder, convicted killer released from prison",
@@ -416,24 +461,6 @@
       "tag": "technology"
     },
     {
-      "title": "Our Favorite GoPro 360 Camera Is Now 40 Percent Off",
-      "desc": "The GoPro Max 2 is almost half off at Amazon and other retailers, along with other great action camera deals.",
-      "link": "https://www.wired.com/story/gopro-max-2-deal-september-2026/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump Probably Won’t Give $5,000 to Every US Adult if Republicans Win the Midterms",
-      "desc": "The eyebrow-raising proposal, delivered during the president’s speech at the midterm convention, would cost $1.2 trillion and would need congressional approval.",
-      "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 06:30:32 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Ann Arbor teachers’ contract ratified. Here’s what it means for raises.",
       "desc": "School board approves deal with retroactive pay increases, added health care support and another round of bargaining next year.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-teachers-contract-ratified-heres-what-it-means-for-raises.html",
@@ -497,15 +524,6 @@
       "tag": "technology"
     },
     {
-      "title": "Center Line man gets decades in prison for hotel murder",
-      "desc": "Luke Svacha, 52, barricaded himself in his home after shooting 24-year-old Jajuan Marls at a Sterling Heights hotel, authorities said.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/center-line-man-gets-decades-in-prison-for-hotel-murder.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 21:34:43 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
       "desc": "Iran appears ready to fight back against growing U.S. leverage in the Strait of Hormuz, and the threat of renewed war is causing oil prices to rise even as more ships are making it through the vital w",
       "link": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
@@ -522,15 +540,6 @@
       "rawDate": "Wed, 09 Sep 2026 21:02:16 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Family begs judge to lock up killer for life: ‘This man should die in prison’",
-      "desc": "Robert Marion received a 27-year sentence for killing Esther Claxton, his longtime partner, during a violent argument at their Grand Rapids home in 2023.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/family-begs-judge-to-lock-up-killer-for-life-this-man-should-die-in-prison.html",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 20:16:19 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Appeals court hears bid to curtail access to medication abortion",
@@ -776,15 +785,6 @@
       "tag": "education"
     },
     {
-      "title": "China&#039;s Huawei Technologies faces racketeering trial in New York",
-      "desc": "NEW YORK (AP) — Huawei Technologies, a leading Chinese tech company, faces a criminal racketeering trial in New York over charges that it stole technology, plotted to steal U.S. trade secrets and comm",
-      "link": "https://thehill.com/policy/technology/huawei-technologies-racketeering-trial/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 17:21:22 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Michigan Ross opens Los Angeles campus to expand West Coast reach",
       "desc": "The University of Michigan’s Ross School of Business has opened a 20,000-square-foot campus in Los Angeles, marking a significant expansion of its West Coast presence more than a decade after first es",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/michigan-ross-opens-los-angeles-campus-to-expand-west-coast-reach.html",
@@ -801,24 +801,6 @@
       "rawDate": "Tue, 08 Sep 2026 15:28:57 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Prize-winning mathematician launches AI safety institute",
-      "desc": "A prize-winning mathematician has launched a new institute dedicated to developing the “mathematical foundations” for AI safety. Jacob Tsimerman, who won the prestigious Fields Medal earlier this year",
-      "link": "https://thehill.com/policy/technology/6076244-jacob-tsimerman-launches-maisi/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 14:51:36 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Russia resumes strikes on Kyiv after pause for US envoys&#039; visit",
-      "desc": "Russia resumed strikes on Kyiv and across Ukraine early on Tuesday following a pause in attacks that allowed President Trump’s top envoys for peace negotiations to meet Ukrainian President Volodymyr Z",
-      "link": "https://thehill.com/policy/international/6076209-russia-resumes-ukraine-strikes/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 14:35:12 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Drug-resistant ringworm fungus has spread to 29 countries: Study",
@@ -848,15 +830,6 @@
       "tag": "health"
     },
     {
-      "title": "Witkoff touts &#039;substantive progress&#039; after peace talks with Ukraine, Russia",
-      "desc": "Editor's note: This story has been updated to accurately reflect the length of the war between Russia and Ukraine. Special envoy Steve Witkoff touted “substantive progress” in the wake of U.S. talks o",
-      "link": "https://thehill.com/policy/international/6075212-witkoff-progress-russia-ukraine-talks/",
-      "date": "Sep 7, 2026",
-      "rawDate": "Mon, 07 Sep 2026 18:46:56 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Collins&#039;s Kavanaugh vote becomes key weapon for opponents",
       "desc": "Democrats and reproductive rights groups are zeroing in on Sen. Susan Collins’s (R-Maine) vote to confirm Justice Brett Kavanaugh as a pillar of their campaign to oust her, arguing she paved the way f",
       "link": "https://thehill.com/policy/healthcare/6072524-maine-senate-race-abortion-collins/",
@@ -882,15 +855,6 @@
       "rawDate": "Sun, 06 Sep 2026 10:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump administration ends $45M support for Namibia HIV program",
-      "desc": "The Trump administration announced it will be ending its financial support for Namibia's HIV response program, following a little more than two decades of annual payments — totaling more than $1.1 bil",
-      "link": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
-      "date": "Sep 5, 2026",
-      "rawDate": "Sat, 05 Sep 2026 22:24:04 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

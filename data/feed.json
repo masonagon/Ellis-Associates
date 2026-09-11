@@ -1,41 +1,158 @@
 {
-  "generated": "2026-09-11T10:18:58.232Z",
+  "generated": "2026-09-11T14:44:20.087Z",
   "news": [
     {
-      "title": "Democrats gain ground among Hispanic voters disenchanted with Trump",
-      "desc": "President Trump's gains with Hispanic voters helped catapult him to the White House in 2024, raising questions about whether the key voting bloc had left the Democratic coalition.  But less than two y",
-      "link": "https://thehill.com/homenews/campaign/6083292-hispanic-voters-democratic-party-economy-immigration/",
+      "title": "Genesee County students can now enroll in TeenQuest career readiness program",
+      "desc": "Genesee County teens aged 14-19 can develop job readiness and life skills through TeenQuest, offered in-person at local schools and virtually starting Sept. 21.",
+      "link": "https://www.mlive.com/news/flint/2026/09/genesee-county-students-can-enroll-in-teenquest-career-readiness-program.html",
       "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 10:00:00 +0000",
+      "rawDate": "Fri, 11 Sep 2026 14:36:21 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "GVSU’s biggest bet in years is its future as a tech hub. Not everyone is convinced",
+      "desc": "Grand Valley State University students and faculty say much of the campus community has paid little attention to the $166 million Blue Dot Lab. Those who have are divided on its impact.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/gvsus-biggest-bet-in-years-is-its-future-as-a-tech-hub-not-everyone-is-convinced.html",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 14:35:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Carney: Latest Trump trade moves &#8216;relatively modest&#8217;",
+      "desc": "Canadian Prime Minister Mark Carney said Thursday that President Trump’s latest round of tariffs is “relatively modest” compared with the United States&#8217;s past moves.  When talking with reporters",
+      "link": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 14:27:58 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Midland man charged with murder in drunken-driving death of woman, 79",
+      "desc": "Malcolm R. Hatter told police he had been drinking and went for a drive after learning of his brother's death.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/midland-man-charged-with-murder-in-drunken-driving-death-of-woman-79.html",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 14:15:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Collins: Trump’s proposed $5K dividend ‘extraordinarily costly’",
+      "desc": "Sen. Susan Collins (R-Maine) said President Trump’s proposal to give $5,000 to every American adult if Republicans win the midterm elections “would be extraordinarily costly” and questioned providing ",
+      "link": "https://thehill.com/homenews/senate/6084345-collins-trump-dividend-midterms/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 14:08:58 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Trump officials blur Hatch Act lines with GOP convention speeches",
-      "desc": "Five years after top Trump officials were found in violation of the Hatch Act over their appearances at the 2020 Republican National Convention, President Trump's Cabinet is once again taking the stag",
-      "link": "https://thehill.com/homenews/administration/6083279-hatch-act-trump-cabinet-rnc/",
+      "title": "El-Sayed on GOP convention attendee&#039;s call for him to be shot: &#039;Call it out for what it is&#039;",
+      "desc": "Democratic Michigan Senate candidate Abdul El-Sayed said Thursday that he hoped Republicans would “call it out for what it is” when discussing shouts from a GOP midterm convention attendee who called ",
+      "link": "https://thehill.com/homenews/campaign/6084169-elsayed-condemns-convention-threat/",
       "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 10:00:00 +0000",
+      "rawDate": "Fri, 11 Sep 2026 13:44:01 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Fetterman’s GOP convention appearance raises questions about his political future",
-      "desc": "Sen. John Fetterman's (D-Pa.) surprise video appearance at the Republican National Committee's (RNC) first-ever midterm convention is roiling Democrats in Washington, who are growing exasperated by hi",
-      "link": "https://thehill.com/homenews/senate/6083365-fetterman-gop-convention-video-pennsylvania/",
+      "title": "9/11 has had a lasting effect on world affairs",
+      "desc": "Reflecting on twenty-five years since the Sept. 11 attacks, Stuart Gottlieb examines how the tragedy reshaped American foreign policy, shifted focus toward non-state actors, redefined terrorism as war",
+      "link": "https://thehill.com/opinion/national-security/6082720-9-11-anniversary-american-foreign-policy/",
       "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 10:00:00 +0000",
+      "rawDate": "Fri, 11 Sep 2026 13:30:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "9/11: The moment that changed the George W. Bush presidency",
-      "desc": "Twenty-five years ago today, I was in an elementary school in Florida with President George W. Bush, who was in the middle of a lesson with students when White House chief of staff Andy Card leaned ov",
-      "link": "https://thehill.com/homenews/administration/6083232-preemptive-war-democratization-doctrines/",
+      "title": "Democrats top Republicans by 11 points for House control: Survey",
+      "desc": "Voters would rather see Democrats take control of the House than Republicans keep their majority in the lower chamber in November's elections, according to a new survey. The Quinnipiac University poll",
+      "link": "https://thehill.com/homenews/campaign/6083950-democrats-republicans-house-control-midterms-survey/",
       "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 10:00:00 +0000",
+      "rawDate": "Fri, 11 Sep 2026 13:23:32 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "‘It’s a cult’: Trump ignites outrage after MAGA Republicans pledge haunting oath to him",
+      "desc": "Donald Trump had his followers swear an oath to him, promising that they will do whatever it takes to vote in the 2026 midterm elections.",
+      "link": "https://www.mlive.com/politics/2026/09/its-a-cult-trump-ignites-outrage-after-maga-republicans-pledge-haunting-oath-to-him.html",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 13:17:14 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "In the shadow of the towers: 25 years of post-9/11 America",
+      "desc": "Congress has the opportunity to begin to rectify some of the harms of the post-9/11 era.",
+      "link": "https://thehill.com/opinion/national-security/6079688-post-911-civil-rights-legislation/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DeSantis knocks Trump&#039;s $5K dividend payment pledge: &#039;More debt and more inflation&#039;",
+      "desc": "Florida Gov. Ron DeSantis (R) on Thursday criticized President Trump’s controversial proposal to pay out $5,000 checks to every U.S. adult if Republicans win the midterms.  “What I would say is, if yo",
+      "link": "https://thehill.com/homenews/state-watch/6083953-ron-desantis-donald-trump-dividends-midterms/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 12:57:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "25 years after 9/11: How the attacks transformed American politics",
+      "desc": "Twenty-five years after the attacks on Sept. 11, 2001, The Hill’s Bill Sammon and Chris Stirewalt examine how that day transformed George W. Bush’s presidency and altered the course of American politi",
+      "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6083907-25-years-sept-11-attacks-american-politics-live-discussion/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 12:39:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "USA united after 9/11; why unity is now improbable after a seismic event",
+      "desc": "An analysis of the twenty-five years following the Sept. 11 terrorist attacks suggests that five fundamental shifts in media, politics, government trust, and the economy have created a level of nation",
+      "link": "https://thehill.com/opinion/white-house/6082611-post-911-america-political-shifts/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 12:30:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Judge tells Saginaw man who murdered father of 7 he hopes he has ‘long and miserable life’ in prison",
+      "desc": "The judge called the convicted murderer a coward for ambushing and shooting Da'Quan Mims 11 times outside West Side Party Store in on Father's Day in 2024.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/judge-tells-saginaw-man-who-murdered-father-of-7-he-hopes-he-has-long-and-miserable-life-in-prison.html",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 12:09:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Dearborn man, 27, fatally shot inside his Detroit clothing store",
+      "desc": "Ali Aoun, 27, was found fatally shot inside his clothing store on Woodward Avenue in Detroit, police said.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/dearborn-man-27-fatally-shot-inside-his-detroit-clothing-store.html",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 12:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "This Man Has a Cult Internet Following Over His Olive Garden Lifetime Pasta Pass",
+      "desc": "Braden Sinclair is one of just 50 people in the world who can have unlimited pasta at the chain for life. Now, fans are deciding what he should eat next.",
+      "link": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
+      "desc": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
+      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "date": "Sep 11, 2026",
+      "rawDate": "Fri, 11 Sep 2026 10:45:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
     },
     {
       "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
@@ -56,9 +173,9 @@
       "tag": "technology"
     },
     {
-      "title": "Ulta Promo Codes: Up to 20% Off in September 2026",
-      "desc": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
+      "title": "Corsair Discount Code: Up to 50% Off for September 2026",
+      "desc": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+      "link": "https://www.wired.com/story/corsair-coupon/",
       "date": "Sep 11, 2026",
       "rawDate": "Fri, 11 Sep 2026 05:00:00 +0000",
       "source": "Wired",
@@ -74,49 +191,13 @@
       "tag": "technology"
     },
     {
-      "title": "Corsair Discount Code: Up to 50% Off for September 2026",
-      "desc": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-      "link": "https://www.wired.com/story/corsair-coupon/",
+      "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
+      "desc": "Anthropic said Thursday it has blocked efforts by bad actors to use its artificial intelligence models for malicious activity such as cyberattacks, surveillance, and research that could have led to bi",
+      "link": "https://thehill.com/policy/technology/anthropic-ai-claude-bioweapons/",
       "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
+      "rawDate": "Fri, 11 Sep 2026 03:59:02 +0000",
+      "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "RNC finale ‘all about Vance’ as GOP base looks to 2028",
-      "desc": "Vice President Vance roused the closing night crowd at the Republican National Committee’s Dallas convention amid growing chatter about his 2028 prospects.   The Thursday night keynote — interrupted a",
-      "link": "https://thehill.com/homenews/campaign/6083650-vance-rnc-keynote-2028-chatter/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 03:49:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Oz wants ‘unexpected star’ Fetterman to cross the aisle and become Republican",
-      "desc": "Centers for Medicare &#38; Medicaid (CMM) Administrator Dr. Mehmet Oz said on a podcast Thursday that he wants Sen. John Fetterman (D), his rival in Pennsylvania's 2022 Senate race, to cross the aisle",
-      "link": "https://thehill.com/homenews/state-watch/6083586-oz-wants-fetterman-join-gop/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 03:24:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump leads convention in pledge: &#039;You go to h---’ if you don’t vote",
-      "desc": "President Trump closed out the Republican midterm convention in Dallas on Thursday by urging attendees to pledge to go out and vote in November’s midterm elections.  “Please raise your right hand,” Tr",
-      "link": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 03:17:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Vance takes aim at Talarico in Texas convention speech",
-      "desc": "Vice President Vance issued sharp criticism of James Talarico in the Democratic Senate candidate's backyard, while speaking at the Republican National Committee’s (RNC) midterm convention in Dallas on",
-      "link": "https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 03:03:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "New Mexico Democrats call on Apple, Google to keep state&#039;s name on map",
@@ -124,8 +205,8 @@
       "link": "https://thehill.com/policy/technology/6083529-lawmakers-urge-apple-google-new-mexico/",
       "date": "Sep 11, 2026",
       "rawDate": "Fri, 11 Sep 2026 02:19:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Warren man accused of sexually assaulting juvenile",
@@ -135,15 +216,6 @@
       "rawDate": "Fri, 11 Sep 2026 00:36:43 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump says he would ‘probably’ be able to make deals with Democrats",
-      "desc": "President Trump said he would “probably” be able to make deals with Democrats should they take back majorities in Congress — but warned he would also work to block their agenda. “I’ll be a block. I’ll",
-      "link": "https://thehill.com/homenews/administration/6083451-trump-potential-democratic-majority-probably-deals/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 00:12:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan lieutenant governor candidate arrested on felony larceny charge",
@@ -443,15 +515,6 @@
       "tag": "associations"
     },
     {
-      "title": "Burton suspect surrenders after standoff with multiple police agencies",
-      "desc": "A domestic assault suspect barricaded near Egleston Avenue in Burton surrendered to Michigan State Police shortly after a large multi-agency law enforcement response was deployed.",
-      "link": "https://www.mlive.com/news/flint/2026/09/burton-suspect-surrenders-after-standoff-with-multiple-police-agencies.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 13:24:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Suspected cartel drone traffic down 75 percent due to Army lasers: CBP sources",
       "desc": "The military acquired high-energy laser tech in 2025 and began using it in August, which led to 100 drones being shot down.",
       "link": "https://thehill.com/policy/defense/6079682-drug-cartel-drone-traffic-down-southern-border-cbp/",
@@ -468,33 +531,6 @@
       "rawDate": "Thu, 10 Sep 2026 13:17:46 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "These 13 companies might not exist by 2027 — is one of your favorites on the list?",
-      "desc": "Inflation, debt and shifting habits are threatening Target, iRobot, Porsche and more.",
-      "link": "https://www.mlive.com/business/2026/09/13-brands-you-grew-up-loving-could-be-gone-before-2027-heres-the-full-list.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 13:09:33 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Bay County judge dismissed stalking, arson case after ruling prosecutors abused their power",
-      "desc": "A judge dismissed the case against Justin Beavers after prosecutors missed deadlines for witness lists and discovery materials, calling it an abuse of prosecutorial power.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bay-county-judge-dismissed-stalking-arson-case-after-ruling-prosecutors-abused-their-power.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 12:42:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Police used Flock cameras, phone location to track suspect in killing of pregnant woman and her baby",
-      "desc": "Flock cameras, Ring footage, and cellphone data helped investigators arrest Leo Stringer, 32, in Tennessee in connection to the fatal shooting of pregnant Ashley Williams and the death of her newborn ",
-      "link": "https://www.mlive.com/news/flint/2026/09/police-used-flock-cameras-phone-location-to-track-suspect-in-killing-of-pregnant-woman-and-her-baby.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 11:59:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Trump promises $5,000 checks as Republican Party tries to defy midterm election history",
@@ -686,15 +722,6 @@
       "tag": "technology"
     },
     {
-      "title": "Microsoft, AFT unveil AI safety and privacy standard for schools",
-      "desc": "Microsoft and the American Federation of Teachers (AFT) unveiled a new AI safety and privacy standard for schools Wednesday, after two of the nation’s largest school districts placed strict new limits",
-      "link": "https://thehill.com/policy/technology/6078730-microsoft-aft-ai-safety-privacy/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 14:22:26 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Oil rises past $100 a barrel after latest Middle East attacks",
       "desc": "Oil prices climbed above $100 per barrel Wednesday for the first time since July as renewed fighting in the Middle East raised concerns about further disruptions to global energy supplies. Brent crude",
       "link": "https://thehill.com/policy/energy-environment/6078319-oil-prices-surge-middle-east-conflict/",
@@ -830,15 +857,6 @@
       "tag": "education"
     },
     {
-      "title": "Marching bands: Oakridge High School previews ‘Phases’ performance at halftime",
-      "desc": "The Oakridge Eagles marching band previewed its 2026 show, \"Phases,\" which represents the four elements as they change and evolve.",
-      "link": "https://www.mlive.com/news/muskegon/2026/09/marching-bands-oakridge-high-school-previews-phases-performance-at-halftime.html",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 15:28:57 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Drug-resistant ringworm fungus has spread to 29 countries: Study",
       "desc": "An itchy skin fungus that resists standard treatment has spread to 29 countries, and cases have tripled in just a few years.",
       "link": "https://thehill.com/policy/healthcare/6073872-drug-resistant-ringworm-fungus-spreading-cdc-study/",
@@ -846,15 +864,6 @@
       "rawDate": "Tue, 08 Sep 2026 12:53:30 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Marching bands: Mona Shores honors ‘Legends of Latin’ with halftime performance",
-      "desc": "Directed by Jason Boyden, the band's 2026 show features classic selections intended to showcase the genre’s bold melodies and driving percussion.",
-      "link": "https://www.mlive.com/news/muskegon/2026/09/marching-bands-mona-shores-honors-legends-of-latin-with-halftime-performance.html",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 12:20:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "GLP-1 prescriptions for kids up more than 30,000 percent since 2019",

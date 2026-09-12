@@ -1,6 +1,24 @@
 {
-  "generated": "2026-09-11T23:43:33.100Z",
+  "generated": "2026-09-12T02:22:53.768Z",
   "news": [
+    {
+      "title": "Bacon says he&#039;s mulling 2028 White House bid",
+      "desc": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview",
+      "link": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 00:50:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Student nearly hit by car passing school bus in Bedford Township",
+      "desc": "Video captured the moment a blue Chevrolet Malibu came within inches of striking an elementary student crossing Douglas Road on Wednesday afternoon.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/student-nearly-hit-by-car-passing-school-bus-in-bedford-township.html",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 00:50:02 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Proxy fight in Yemen heats up, risking new front in US-Iran war",
       "desc": "The Iranian-backed Houthi rebel group’s reported takeover of a Yemen port city is raising the stakes in Tehran’s war with the U.S. Saudi Arabia, which backs Yemen’s military, is reportedly urging Pres",
@@ -106,17 +124,8 @@
       "link": "https://thehill.com/policy/healthcare/6085116-cdc-cyclospora-outbreak-over/",
       "date": "Sep 11, 2026",
       "rawDate": "Fri, 11 Sep 2026 19:16:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Federal court rules against Trump order keeping Michigan coal plant running",
-      "desc": "A federal appeals court on Friday struck down an order from the Trump administration keeping a Michigan coal plant open past its planned retirement. The U.S. Court of Appeals for the D.C. Circuit rule",
-      "link": "https://thehill.com/homenews/administration/6085207-court-strikes-michigan-coal-plant-order/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 19:15:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Man, woman, 3 dogs dead after Labor Day weekend crash with box truck",
@@ -353,15 +362,6 @@
       "tag": "technology"
     },
     {
-      "title": "Lenovo Coupon Codes: 15% Off in September 2026",
-      "desc": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
       "desc": "Anthropic said Thursday it has blocked efforts by bad actors to use its artificial intelligence models for malicious activity such as cyberattacks, surveillance, and research that could have led to bi",
       "link": "https://thehill.com/policy/technology/anthropic-ai-claude-bioweapons/",
@@ -548,15 +548,6 @@
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 16:14:43 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Man stabbed in chest in Ypsilanti",
-      "desc": "The man is in stable condition, police said.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/man-stabbed-in-chest-in-ypsilanti.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 16:06:43 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {

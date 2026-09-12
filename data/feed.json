@@ -1,6 +1,69 @@
 {
-  "generated": "2026-09-12T07:30:04.623Z",
+  "generated": "2026-09-12T11:49:48.316Z",
   "news": [
+    {
+      "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
+      "desc": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
+      "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "desc": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Memo: Trump’s convention may struggle to turn tide for GOP",
+      "desc": "President Trump basked in the approval of the MAGA base during this week’s Republican midterm convention in Dallas. But the bigger question is whether the event made any difference to a political land",
+      "link": "https://thehill.com/homenews/campaign/6085663-trump-republican-midterm-convention-impact/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
+      "desc": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross leg",
+      "link": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "McConnell&#039;s return shines spotlight on older lawmakers",
+      "desc": "Sen. Mitch McConnell's (R-Ky.) expected return to the Senate next week is drawing attention again to the health of aging lawmakers. McConnell, 84, was hospitalized over the summer for nearly two month",
+      "link": "https://thehill.com/homenews/senate/6085627-mitch-mcconnell-aging-lawmakers-term-limits-health-challenges/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+      "desc": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
+      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+      "desc": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
+      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "North Korea fires ballistic missiles after condemning military drill as threat",
       "desc": "North Korea launched ballistic missiles toward the sea Saturday, a day after the U.S., South Korea and Japan completed a trilateral military drill in response to North Korean nuclear threats. The miss",
@@ -72,15 +135,6 @@
       "rawDate": "Fri, 11 Sep 2026 20:55:10 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Stubborn inflation raises prospect of Fed rate hike",
-      "desc": "The Federal Reserve appears increasingly likely to hike interest rates next week, as inflation remains stubbornly elevated amid the war with Iran.  New data out Friday showed annual inflation remained",
-      "link": "https://thehill.com/business/6085407-cpi-inflation-federal-reserve-interest-rates/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 20:49:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "TikTok misled consumers about filtering content for minors, judge rules",
@@ -340,24 +394,6 @@
       "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
       "date": "Sep 11, 2026",
       "rawDate": "Fri, 11 Sep 2026 10:45:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
-      "desc": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
-      "link": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 09:15:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "desc": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 09:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -630,15 +666,6 @@
       "rawDate": "Thu, 10 Sep 2026 13:20:22 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Trump’s $5,000 promise to Americans met with fierce backlash: ‘Language of bribery’",
-      "desc": "Trump was accused of attempting to bribe voters with his promise of $5,000 checks only if Republicans win the midterm elections.",
-      "link": "https://www.mlive.com/politics/2026/09/trumps-5000-promise-to-americans-met-with-fierce-backlash-language-of-bribery.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 13:17:46 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Public anger over AI boom triggers GOP midterm worries",

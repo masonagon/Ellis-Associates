@@ -1,6 +1,51 @@
 {
-  "generated": "2026-09-12T14:42:50.308Z",
+  "generated": "2026-09-12T17:33:58.385Z",
   "news": [
+    {
+      "title": "Anthropic CEO calls to &#039;slow the pace&#039; of AI development amid safety concerns",
+      "desc": "Anthropic CEO Dario Amodei said Saturday that artificial intelligence development must slow down to allow for the implementation of necessary risk prevention safeguards.  “We must slow the pace at whi",
+      "link": "https://thehill.com/policy/technology/6086167-anthropic-ceo-ai-development-guardrails/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 17:06:38 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump plots a campaign blitz; GOP candidates face a decision",
+      "desc": "President Trump’s upcoming midterm campaign blitz is risking dragging down Republicans facing tough reelection bids as his approval rating plummets ahead of November.  Trump will head to battleground ",
+      "link": "https://thehill.com/homenews/administration/6085604-gop-candidates-split-strategy/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Graham accepts debate with Andrews after challenger pushes for more",
+      "desc": "Sen. Darline Graham (R-S.C.) announced Friday she plans to debate her Democratic challenger in South Carolina’s Senate race, pediatrician Annie Andrews, ahead of November's elections. “I’m in,” Graham",
+      "link": "https://thehill.com/homenews/campaign/6086086-darline-graham-annie-andrews-debate-announcement/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 15:47:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "20-year-old man killed in west Michigan shooting, police seeking tips",
+      "desc": "Authorities are investigating after the fatal shooting at Blossom Acres Housing Complex on Friday night, Sept. 11. Anyone with information is urged to contact police.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/20-year-old-man-killed-in-west-michigan-shooting-police-seeking-tips.html",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 15:28:58 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Cruz met with jeers on ESPN&#039;s College Gameday during appearance advocating for Senate college sports bill",
+      "desc": "Sen. Ted Cruz (R-Texas) appeared on ESPN's College Gameday Saturday morning to make the case for the Protect College Sports Act, a bipartisan piece of legislation that would regulate the big business ",
+      "link": "https://thehill.com/policy/sports-gaming/6086052-cruz-espn-college-gameday-act-boos/",
+      "date": "Sep 12, 2026",
+      "rawDate": "Sat, 12 Sep 2026 15:14:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "$19M plan to turn former Grand Rapids school into 48 apartments approved",
       "desc": "Commonwealth Development won approval for 48 income-restricted apartments across three buildings at the former Stocking Elementary School, but construction depends on securing low-income housing tax c",
@@ -47,15 +92,6 @@
       "tag": "government"
     },
     {
-      "title": "For many Democrats this cycle, the tipping point between victory and defeat is Israel",
-      "desc": "Beneath their putative “big tent,” the national Democratic Party is embroiled in an ideological civil war — one that is likely to intensify through 2028's presidential campaign.",
-      "link": "https://thehill.com/opinion/campaign/6084758-democrats-israel-ideological-war/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Are Ann Arbor school buildings on the chopping block? Here’s 3 things to know.",
       "desc": "Whether it’s building sales or consolidating schools, some ongoing and long-term decisions to generate revenue and fill AAPS' budget gap has left some local families on edge.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/are-ann-arbor-school-buildings-on-the-chopping-block-heres-3-things-to-know.html",
@@ -83,33 +119,6 @@
       "tag": "technology"
     },
     {
-      "title": "The Memo: Trump’s convention may struggle to turn tide for GOP",
-      "desc": "President Trump basked in the approval of the MAGA base during this week’s Republican midterm convention in Dallas. But the bigger question is whether the event made any difference to a political land",
-      "link": "https://thehill.com/homenews/campaign/6085663-trump-republican-midterm-convention-impact/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
-      "desc": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross leg",
-      "link": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "McConnell&#039;s return shines spotlight on older lawmakers",
-      "desc": "Sen. Mitch McConnell's (R-Ky.) expected return to the Senate next week is drawing attention again to the health of aging lawmakers. McConnell, 84, was hospitalized over the summer for nearly two month",
-      "link": "https://thehill.com/homenews/senate/6085627-mitch-mcconnell-aging-lawmakers-term-limits-health-challenges/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
       "desc": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
       "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
@@ -135,15 +144,6 @@
       "rawDate": "Sat, 12 Sep 2026 02:40:26 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Bacon says he&#039;s mulling 2028 White House bid",
-      "desc": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview",
-      "link": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 00:50:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Student nearly hit by car passing school bus in Bedford Township",
@@ -596,15 +596,6 @@
       "tag": "health"
     },
     {
-      "title": "Bridgeport Township school bus monitor pleads guilty to sending lewd message to ‘minor’",
-      "desc": "Timothy Kuss, 52, admitted to messaging what he thought was a 15-year-old girl but was actually an online decoy.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bridgeport-township-school-bus-monitor-pleads-guilty-to-sending-lewd-message-to-minor.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:13:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump pledges $500 ObamaCare rebate checks",
       "desc": "The Trump administration is pledging to send $500 rebate checks to nearly 1 million Americans who the White House says were overcharged for ObamaCare coverage.  In a recorded message posted Thursday t",
       "link": "https://thehill.com/policy/healthcare/6082253-trump-pledges-healthcare-rebate-checks/",
@@ -810,15 +801,6 @@
       "rawDate": "Wed, 09 Sep 2026 17:50:54 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Bipartisan coalition pushes Trump administration on AI security framework release",
-      "desc": "A group of organizations from both sides of the aisle called on President Trump to publicly release his administration's framework on government AI testing, arguing the closed-door policy raises conce",
-      "link": "https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 16:47:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Trump administration names permanent FDA division leaders",

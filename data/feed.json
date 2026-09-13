@@ -1,9 +1,36 @@
 {
-  "generated": "2026-09-13T21:58:26.010Z",
+  "generated": "2026-09-13T23:54:40.562Z",
   "news": [
     {
+      "title": "Pennsylvania woman dies from measles complications",
+      "desc": "The Jefferson County, Pa., Coroner's Office on Sunday said a 40-year-old woman died from complications with measles, the state's third measles-related death this year. Coroner Greg Furlong wrote on Fa",
+      "link": "https://thehill.com/policy/healthcare/6087275-pennsylvania-third-measles-death/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 23:30:16 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Poll: Democratic voters driven by Trump opposition more than party platform",
+      "desc": "A new poll shows that Democratic voters are more driven to cast their ballots in the November midterms elections out of their opposition to President Trump more so than the party's platform. The CBS N",
+      "link": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 22:41:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "El-Sayed on Piker: Not interested &#039;in having a conversation about streamers in California&#039;",
+      "desc": "Michigan Democratic Senate candidate Abdul El-Sayed on Sunday pushed back on questions about far-left streamer Hasan Piker, who he previously campaigned with. “There are Jewish voters in your state wh",
+      "link": "https://thehill.com/homenews/campaign/6087218-el-sayed-denies-piker-relevance/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 22:18:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Centcom commander &#039;not concerned at all&#039; about munitions stockpiles",
-      "desc": "Adm. Brad Cooper, the commander of U.S. Central Command (Centcom), said he is \"not concerned at all\" about the U.S.'s munition stockpile amid reports that the Pentagon has depleted its stockpiles to f",
+      "desc": "Adm. Brad Cooper, the commander of U.S. Central Command (Centcom), said he is \"not concerned at all\" about the U.S.'s munitions inventories amid reports that the Pentagon has depleted its stockpiles t",
       "link": "https://thehill.com/policy/defense/6087006-centcom-commander-dismisses-munition-shortage/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 20:16:34 +0000",
@@ -39,7 +66,7 @@
     },
     {
       "title": "Dem rep urges Johnson: &#039;Bring us back to Congress&#039; to discuss AI",
-      "desc": "Democratic Rep. Greg Stanton (Ariz.) said Sunday that Speaker Mike Johnson (R-La.) should keep lawmakers in session to address the risks of rapidly advancing artificial intelligence (AI) models. “We s",
+      "desc": "Democratic Rep. Greg Stanton (Ariz.) said Sunday that Speaker Mike Johnson (R-La.) should keep lawmakers in session to address the risks of rapidly advancing artificial intelligence models. “We should",
       "link": "https://thehill.com/policy/technology/6087028-democrats-urge-congress-ai-safety/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 19:49:35 +0000",
@@ -48,7 +75,7 @@
     },
     {
       "title": "GOP rep on AI: &#039;Let&#039;s get on top of it&#039;",
-      "desc": "GOP Rep. Mike Flood (Neb.) said Sunday the federal government should implement artificial intelligence safeguards to prevent the technology from falling into the wrong “hands.” During an interview on ",
+      "desc": "GOP Rep. Mike Flood (Neb.) said Sunday the federal government should implement artificial intelligence safeguards to prevent the technology from falling into the wrong hands. During an interview on Ne",
       "link": "https://thehill.com/policy/technology/6086989-flood-calls-ai-safeguards/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 19:24:32 +0000",
@@ -97,17 +124,8 @@
       "link": "https://thehill.com/homenews/house/6086831-flood-prioritizes-pentagon-over-dividend/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 17:27:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump&#039;s coastal power grab should alarm all Americans",
-      "desc": "The right to manage the coast should remain equal under the law for all coastal states.",
-      "link": "https://thehill.com/opinion/energy-environment/6085213-trump-california-coastal-takeover/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Gallego on AI leaders backing slowdown: ‘Akin to Dr. Frankenstein telling us &quot;The monster is loose&quot;’",
@@ -871,15 +889,6 @@
       "link": "https://thehill.com/homenews/state-watch/6077522-mamdani-releases-911-records/",
       "date": "Sep 8, 2026",
       "rawDate": "Tue, 08 Sep 2026 23:00:17 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Supreme Court declines to intervene in New York religious vaccine exemption case",
-      "desc": "The Supreme Court on Tuesday declined to intervene in a lawsuit brought by a New York mother who wanted to send her child to kindergarten while a challenge over the state’s vaccine requirements contin",
-      "link": "https://thehill.com/regulation/court-battles/6077588-supreme-court-vaccine-religious-exemption-new-york/",
-      "date": "Sep 8, 2026",
-      "rawDate": "Tue, 08 Sep 2026 22:37:42 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

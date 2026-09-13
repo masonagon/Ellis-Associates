@@ -1,6 +1,60 @@
 {
-  "generated": "2026-09-13T19:08:59.262Z",
+  "generated": "2026-09-13T21:58:26.010Z",
   "news": [
+    {
+      "title": "Centcom commander &#039;not concerned at all&#039; about munitions stockpiles",
+      "desc": "Adm. Brad Cooper, the commander of U.S. Central Command (Centcom), said he is \"not concerned at all\" about the U.S.'s munition stockpile amid reports that the Pentagon has depleted its stockpiles to f",
+      "link": "https://thehill.com/policy/defense/6087006-centcom-commander-dismisses-munition-shortage/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 20:16:34 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "This Week on The Hill: Congress returns to a packed agenda",
+      "desc": "The Senate returns this week to a packed agenda, with lawmakers facing a trio of unfinished priorities: crypto legislation, the farm bill and the budget resolution that Republicans need to unlock a th",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6086967-senate-budget-resolution-crypto-farm-bill/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 19:57:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Maine’s lobster industry finds itself squeezed on all sides amid Canada trade war",
+      "desc": "STONINGTON, MAINE — The Maine lobster business has found itself in the crosshairs of a trade war and congressional infighting as rising costs and other pressures leave the heritage industry in a preca",
+      "link": "https://thehill.com/homenews/state-watch/6085057-maine-lobster-industry-pressures/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 19:54:03 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Motorcyclist hospitalized after crash in Cass County",
+      "desc": "The 18-year-old was wearing a helmet when he lost control and struck a tree, police said.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/motorcyclist-hospitalized-after-crash-in-cass-county.html",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 19:50:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Dem rep urges Johnson: &#039;Bring us back to Congress&#039; to discuss AI",
+      "desc": "Democratic Rep. Greg Stanton (Ariz.) said Sunday that Speaker Mike Johnson (R-La.) should keep lawmakers in session to address the risks of rapidly advancing artificial intelligence (AI) models. “We s",
+      "link": "https://thehill.com/policy/technology/6087028-democrats-urge-congress-ai-safety/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 19:49:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP rep on AI: &#039;Let&#039;s get on top of it&#039;",
+      "desc": "GOP Rep. Mike Flood (Neb.) said Sunday the federal government should implement artificial intelligence safeguards to prevent the technology from falling into the wrong “hands.” During an interview on ",
+      "link": "https://thehill.com/policy/technology/6086989-flood-calls-ai-safeguards/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 19:24:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Lawler deflects on supporting Trump&#039;s $5K dividend pledge: &#039;How do you pay for it?&#039;",
       "desc": "Rep. Mike Lawler (R-N.Y.) on Sunday joined multiple Republican lawmakers in questioning the fiscal sense of President Trump’s proposal to send $5,000 to every American adult.  During an interview on A",
@@ -65,22 +119,13 @@
       "tag": "technology"
     },
     {
-      "title": "Data center hysteria is our latest group chat gone wild",
-      "desc": "The author argues against the growing public panic surrounding data centers, suggesting instead that they be managed through transparent regulation and market-based utility rates rather than bans or s",
-      "link": "https://thehill.com/opinion/technology/6085695-data-center-panic-solved/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 16:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Obama pushes Jeffries to move AI oversight to center of agenda: Report",
       "desc": "Former President Obama reportedly urged House Democratic Leader Hakeem Jeffries (N.Y.) to make AI oversight a central tenet of his caucus’s agenda earlier this week. Obama told Jeffries at a Thursday ",
       "link": "https://thehill.com/policy/technology/6086768-obama-urges-ai-oversight/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 15:59:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Trump downplays AI warnings, citing competition with China",
@@ -97,8 +142,8 @@
       "link": "https://thehill.com/homenews/house/6086761-jeffries-urges-ai-regulation/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 15:13:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Johnson on AI regulation: ‘We don&#039;t need everybody to panic right now’",
@@ -106,17 +151,8 @@
       "link": "https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 15:11:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The fallout from the US-Canada trade clash transcends economic impact",
-      "desc": "Even more concerning is the prospect that the North America alliance could weaken while NATO also faces increasing strains.",
-      "link": "https://thehill.com/opinion/international/6082127-us-canada-trade-war-tariffs/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 15:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Former AI researcher: &#039;Not enough time&#039; for employees to consider safety of models",
@@ -129,7 +165,7 @@
     },
     {
       "title": "Debate, confusion explodes over AI &#039;doomsday’ warnings",
-      "desc": "A former Anthropic researcher’s warning that AI could soon destroy humanity broke past the typical tech circles last week, setting off a new firestorm of debate over the technology’s rapid development",
+      "desc": "A former Anthropic researcher's warning that AI could soon destroy humanity broke past the typical tech circles last week, setting off a new firestorm of debate over the technology’s rapid development",
       "link": "https://thehill.com/policy/technology/6085616-anthropic-resignation-viral-debate/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 14:18:50 +0000",
@@ -282,7 +318,7 @@
     },
     {
       "title": "Driscoll touts Ukraine&#039;s military innovation in first public appearance since resigning as Army Secretary",
-      "desc": "Former Army Secretary Dan Driscoll appeared for the first time since his resignation in August from the role, discussing Ukraine’s military innovations at the Yalta European Strategy forum – an annual",
+      "desc": "Former Army Secretary Dan Driscoll appeared for the first time since his resignation from the role in August, discussing Ukraine’s military innovations at the Yalta European Strategy forum — an annual",
       "link": "https://thehill.com/policy/defense/6086519-driscoll-touts-ukraines-military-innovation-in-first-public-appearance-since-resigning-as-army-secretary/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 03:06:16 +0000",
@@ -686,24 +722,6 @@
       "tag": "safety"
     },
     {
-      "title": "SpaceX sues Paxton, Texas county over public records",
-      "desc": "SpaceX filed a lawsuit Tuesday against Texas Attorney General Ken Paxton (R) and Grimes County to block the release of the company’s public records, according to court records.  The lawsuit requested ",
-      "link": "https://thehill.com/regulation/court-battles/6083046-spacex-lawsuit-ken-paxton-grimes-county/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 20:48:04 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "New trial ordered for man convicted in downtown Grand Rapids shooting",
-      "desc": "The Michigan Court of Appeals ruled Genesis Lewis should get a new trial. He was convicted of second-degree murder.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/new-trial-for-man-convicted-in-downtown-grand-rapids-shooting.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 20:39:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Human rabies exposure cases on the rise, CDC warns",
       "desc": "The CDC said it has received a rise in reports of human rabies exposure cases this summer, prompting an alert to healthcare providers.",
       "link": "https://thehill.com/policy/healthcare/6082853-human-rabies-exposure-cases-on-the-rise-cdc-warns/",
@@ -783,24 +801,6 @@
       "rawDate": "Thu, 10 Sep 2026 15:50:36 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Denver sues to block ICE officers from voting sites",
-      "desc": "The city of Denver filed a lawsuit Thursday to block Immigration and Customs Enforcement (ICE) officers from going to voting sites. The lawsuit against the Department of Homeland Security (DHS) and Se",
-      "link": "https://thehill.com/regulation/court-battles/6081890-denver-lawsuit-ice-polling-sites/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 15:29:24 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "OpenAI pushes for mandatory safety requirements after rogue agent breakouts",
-      "desc": "The artificial intelligence firm OpenAI is calling for mandatory safety requirements for the technology following a series of model hackings and ominous warnings from researchers. In a blog post Wedne",
-      "link": "https://thehill.com/policy/technology/6081501-openai-calls-mandatory-ai-safety-requirements/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 15:08:51 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Mott Community College to mark 25th anniversary of 9/11 with campus ceremony",

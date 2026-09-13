@@ -1,6 +1,123 @@
 {
-  "generated": "2026-09-13T12:59:17.623Z",
+  "generated": "2026-09-13T16:53:07.832Z",
   "news": [
+    {
+      "title": "Gallego on AI leaders backing slowdown: ‘Akin to Dr. Frankenstein telling us &quot;The monster is loose&quot;’",
+      "desc": "Sen. Ruben Gallego (D-Ariz.) pushed for more artificial intelligence regulation in the wake of tech leaders pressing for slowing down the technology's development. “This isn't previous tech. Previous ",
+      "link": "https://thehill.com/policy/technology/6086821-senator-ruben-gallego-ai-regulation/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 16:48:02 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Data center hysteria is our latest group chat gone wild",
+      "desc": "The author argues against the growing public panic surrounding data centers, suggesting instead that they be managed through transparent regulation and market-based utility rates rather than bans or s",
+      "link": "https://thehill.com/opinion/technology/6085695-data-center-panic-solved/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 16:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Obama pushes Jeffries to move AI oversight to center of agenda: Report",
+      "desc": "Former President Obama reportedly urged House Democratic Leader Hakeem Jeffries (N.Y.) to make AI oversight a central tenet of his caucus’s agenda earlier this week. Obama told Jeffries at a Thursday ",
+      "link": "https://thehill.com/policy/technology/6086768-obama-urges-ai-oversight/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 15:59:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump downplays AI warnings, citing competition with China",
+      "desc": "President Trump on Sunday downplayed the growing concerns over artificial intelligence's rapid development and its implications for the future of humanity, saying guardrails can be placed on the techn",
+      "link": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 15:57:05 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Jeffries says Congress should &#039;act urgently&#039; on AI safeguards",
+      "desc": "House Democratic Leader Hakeem Jeffries (N.Y.) said Sunday he supports immediate congressional action on regulating the development of AI. “We certainly need to begin to act urgently to address the ch",
+      "link": "https://thehill.com/homenews/house/6086761-jeffries-urges-ai-regulation/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 15:13:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Johnson on AI regulation: ‘We don&#039;t need everybody to panic right now’",
+      "desc": "House Speaker Mike Johnson (R-La.) on Sunday expressed restraint around the idea of artificial intelligence (AI) regulation in the wake of tech leaders pushing for a slowdown in the development. “If C",
+      "link": "https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 15:11:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The fallout from the US-Canada trade clash transcends economic impact",
+      "desc": "Even more concerning is the prospect that the North America alliance could weaken while NATO also faces increasing strains.",
+      "link": "https://thehill.com/opinion/international/6082127-us-canada-trade-war-tariffs/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 15:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Former AI researcher: &#039;Not enough time&#039; for employees to consider safety of models",
+      "desc": "Days after he resigned from Anthropic, former AI researcher Jacob Coxon said Sunday there is “not enough time” for employees to consider the risks of the technology they are working on. During an inte",
+      "link": "https://thehill.com/policy/technology/6086701-coxon-warns-ai-race-danger/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 14:52:50 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Debate, confusion explodes over AI &#039;doomsday’ warnings",
+      "desc": "A former Anthropic researcher’s warning that AI could soon destroy humanity broke past the typical tech circles last week, setting off a new firestorm of debate over the technology’s rapid development",
+      "link": "https://thehill.com/policy/technology/6085616-anthropic-resignation-viral-debate/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 14:18:50 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "A &#039;zero gravity, zero taxes&#039; strategy to replace the International Space Station",
+      "desc": "Congress could revive the zero gravity, zero taxes legislation in the current era, pass it and send it to the president to sign into law.",
+      "link": "https://thehill.com/opinion/technology/6082250-nasa-low-earth-orbit-strategy/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 14:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man found beaten to death in Grand Rapids",
+      "desc": "Police discovered the victim near Bridge Street NW and National Avenue NW early Sunday morning.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/man-found-beaten-to-death-in-grand-rapids.html",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 13:17:48 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Live updates: Lawmakers set to return from recess; Trump attends golf tournament in Ireland",
+      "desc": "House and Senate lawmakers will return to Washington this week with a packed agenda before much of their focus shifts to the fast-approaching midterm elections. The Senate is expected to continue talk",
+      "link": "https://thehill.com/homenews/administration/6086633-live-updates-congress-returns-washington-agenda-trump-ireland/",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 13:02:06 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Eastern Market After Dark returns with art, food and late-night fun",
+      "desc": "The popular nighttime event returns to Detroit’s Eastern Market with art, music, food and special events across the district.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/eastern-market-after-dark-returns-with-art-food-and-late-night-fun.html",
+      "date": "Sep 13, 2026",
+      "rawDate": "Sun, 13 Sep 2026 13:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
     {
       "title": "Tiffany suffers minor injuries after plane makes emergency lake landing",
       "desc": "Rep. Tom Tiffany (R-Wis.), who is running for governor of Wisconsin, said Sunday he sustained “minor injuries” after his plane made an emergency landing in a lake. Tiffany wrote on social platform X t",
@@ -38,18 +155,18 @@
       "tag": "government"
     },
     {
-      "title": "Detroit pays students to show up for school. The program is expanding",
-      "desc": "Detroit's program rewarding students for perfect attendance is expanding after the district reported a drop in chronic absenteeism.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-pays-students-to-show-up-for-school-the-program-is-expanding.html",
+      "title": "These Ann Arbor-area schools had the top state test results",
+      "desc": "An MLive analysis found standout schools across Washtenaw County, including Washtenaw Technical Middle College, South Arbor Charter Academy and several Ann Arbor Public School sites.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/these-ann-arbor-area-schools-had-the-top-state-test-results.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "These Ann Arbor-area schools had the top state test results",
-      "desc": "An MLive analysis found standout schools across Washtenaw County, including Washtenaw Technical Middle College, South Arbor Charter Academy and several Ann Arbor Public School sites.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/these-ann-arbor-area-schools-had-the-top-state-test-results.html",
+      "title": "Detroit pays students to show up for school. The program is expanding",
+      "desc": "Detroit's program rewarding students for perfect attendance is expanding after the district reported a drop in chronic absenteeism.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-pays-students-to-show-up-for-school-the-program-is-expanding.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
@@ -72,15 +189,6 @@
       "rawDate": "Sun, 13 Sep 2026 11:35:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "State of Texas: Paxton and Talarico in their own words",
-      "desc": "At the Republican party’s first-ever midterm convention, President Donald Trump called upon attendees in Dallas to support Ken Paxton in the upcoming Texas senatorial race.",
-      "link": "https://thehill.com/homenews/campaign/6086429-state-of-texas-paxton-and-talarico-in-their-own-words/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 11:03:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Fraternity shut down, lawsuit pending in death of University of Michigan student",
@@ -128,15 +236,6 @@
       "tag": "government"
     },
     {
-      "title": "Republicans cast Muslim Democrats as chief enemies in &#039;dangerous&#039; midterm pitch",
-      "desc": "Republicans are elevating anti-Muslim rhetoric as a key part of their midterm pitch, prompting sharp rebuke from Democrats and political observers.  The attacks ramped up at Republicans’ first-ever mi",
-      "link": "https://thehill.com/homenews/campaign/6085055-gop-cruz-muslim-democrats-midterms/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "AI Agents Are Thirsty for Power",
       "desc": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
       "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
@@ -164,75 +263,12 @@
       "tag": "safety"
     },
     {
-      "title": "Sullivan, Peltola face off in fish-focused debate",
-      "desc": "Incumbent Sen. Dan Sullivan (R-Alaska) and opponent former Rep. Mary Peltola (D-Alaska) faced off in their first head-to-head debate Saturday, which centered on the state&#8217;s fishing industry In a",
-      "link": "https://thehill.com/homenews/campaign/6086478-alaska-senate-debate-peltola-sullivan/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 01:02:24 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "NAACP: Ted Cruz's legislation dangerous to ‘Black athletes’",
       "desc": "The organization took to social media on Saturday.",
       "link": "https://www.mlive.com/sports/2026/09/naacp-reacts-to-ted-cruz-on-espn-says-protect-college-sports-act-dangerous-to-black-athletes.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 01:00:22 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Kamala Harris&#039; home targeted by trespasser",
-      "desc": "A person was stopped by law enforcement on the property of former Vice President Kamala Harris and Second Gentleman Doug Emhoff following reports that there was a trespasser. \"Last night, security per",
-      "link": "https://thehill.com/blogs/in-the-know/6086440-kamala-harris-property-trespasser-stopped/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 23:53:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
-      "desc": "Sen. Roger Marshall (R-Kans.) appeared to shift his opinion on President Trump’s $5,000 dividends announced earlier this week. In a debate at the Kansas State Fair against Democratic opponent Adam Ham",
-      "link": "https://thehill.com/homenews/senate/6086408-marshall-shifts-trump-dividends/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 22:44:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump&#039;s plan to halve FEMA workforce illegal, judge rules",
-      "desc": "A federal judge determined Friday that the Trump administration broke the law when it attempted to cut the Federal Emergency Management Agency’s (FEMA) workforce, a ruling which coincided with America",
-      "link": "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 21:56:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Redistricting rulings injects chaos, uncertainty into Missouri House races",
-      "desc": "Missouri election officials and candidates are bracing for chaos in November amid concerns the state's redistricting saga could spark widespread confusion for voters at the ballot box. The Supreme Cou",
-      "link": "https://thehill.com/homenews/6085372-missouri-redistricting-election-chaos/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump&#039;s childhood home sells for nearly $2 million",
-      "desc": "President Trump’s New York City childhood home sold for $1.93 million following renovations that transformed the previously damaged property.  The Tudor-style house was bought by an undisclosed buyer ",
-      "link": "https://thehill.com/blogs/in-the-know/6086315-trump-nyc-childhood-home-sale/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 20:41:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sunday shows preview: Republicans talk strategy as midterms approach; Iran conflict, Canada trade war leave economy in flux",
-      "desc": "Republican leaders traveled to Dallas this week for the GOP’s midterm convention, fueling the party's President Trump-forward midterm strategy, as the party fights to maintain control in both chambers",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6086297-sunday-shows-republicans-strategy-economy-struggles/",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 20:35:42 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -650,15 +686,6 @@
       "tag": "health"
     },
     {
-      "title": "Saginaw woman charged with stabbing another woman three times",
-      "desc": "Police arrested the 38-year-old woman within a few hours of the stabbing.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-woman-charged-with-stabbing-another-woman-three-times.html",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 19:47:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Iran is producing ballistic missiles again: Report",
       "desc": "Iran has resumed production of ballistic missiles, The Wall Street Journal reported Thursday, contradicting the Trump administration's claims that Tehran's military capabilities have been destroyed in",
       "link": "https://thehill.com/policy/international/6082738-iran-ballistic-missiles/",
@@ -767,24 +794,6 @@
       "tag": "safety"
     },
     {
-      "title": "Public anger over AI boom triggers GOP midterm worries",
-      "desc": "The spread of Flock cameras and AI data centers have become big issues in the midterm elections, with lawmakers calling for curbs on Flock’s surveillance network and more than 700 candidates mentionin",
-      "link": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "AI advocacy group launches state-level policy push",
-      "desc": "Americans for Responsible Innovation (ARI), a nonprofit pushing for stronger AI guardrails, launched a new state-level initiative Thursday focused on advocating for AI policy across all 50 states. The",
-      "link": "https://thehill.com/policy/technology/6079886-ari-launches-state-ai-policy-push/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 09:30:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Ann Arbor teachers’ contract ratified. Here’s what it means for raises.",
       "desc": "School board approves deal with retroactive pay increases, added health care support and another round of bargaining next year.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-teachers-contract-ratified-heres-what-it-means-for-raises.html",
@@ -794,33 +803,6 @@
       "tag": "education"
     },
     {
-      "title": "NASA wants to see your pictures of the sky. Here&#039;s why",
-      "desc": "NASA wants you to point your phone to the sky and take a picture of the clouds. For science.",
-      "link": "https://thehill.com/policy/technology/6080059-nasa-wants-to-see-your-pictures-of-the-sky-heres-why/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 22:38:07 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Apple unveils foldable phone as Ternus takes stage: 5 takeaways",
-      "desc": "Apple rolled out its next generation of the iPhone, AirPod and Apple Watch, with the company’s first-ever foldable smartphone taking center stage on Wednesday. The \"Surprise and Shine” event marked Jo",
-      "link": "https://thehill.com/policy/technology/6080164-apple-unveils-foldable-iphone-duo-ternus-debut/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 22:31:49 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Lawmakers sound alarm on AI dangers after Anthropic researchers&#039; warning",
-      "desc": "Lawmakers from both political parties expressed concern on Wednesday after several current and former researchers at the artificial intelligence company Anthropic issued stark warnings about this deve",
-      "link": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 22:14:11 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Appeals court hears bid to curtail access to medication abortion",
       "desc": "A federal appeals court Wednesday heard arguments in a case that could eventually wipe out access to medication abortion, even in blue states that protect abortion.  A three-judge panel of the 5th U.S",
       "link": "https://thehill.com/policy/healthcare/6079744-appeals-court-mifepristone-medication-argument/",
@@ -828,15 +810,6 @@
       "rawDate": "Wed, 09 Sep 2026 19:36:49 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Apple&#039;s new foldable phone is $1,999",
-      "desc": "Apple unveiled its long-awaited foldable phone, dubbed the iPhone Duo, on Wednesday, marking the technology giant's first foldable smartphone. The iPhone Duo will retail at $1,999, the most expensive ",
-      "link": "https://thehill.com/policy/technology/6079703-apple-foldable-phone-launch/",
-      "date": "Sep 9, 2026",
-      "rawDate": "Wed, 09 Sep 2026 19:31:12 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Supplements for dogs recalled over salmonella risks",

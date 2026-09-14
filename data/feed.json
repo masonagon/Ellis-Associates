@@ -1,18 +1,162 @@
 {
-  "generated": "2026-09-14T20:05:15.907Z",
+  "generated": "2026-09-14T23:37:40.534Z",
   "news": [
     {
-      "title": "Sanders, Bannon to speak at event calling for AI controls",
-      "desc": "Political figures across the aisle, including Sen. Bernie Sanders (I-Vt.) and former Trump White House adviser Steve Bannon, are finding themselves on the same side of a growing fight over artificial ",
-      "link": "https://thehill.com/policy/technology/6088599-bernie-sanders-steve-bannon-ai-regulation-event/",
+      "title": "Iran strikes on US diplomatic facilities in 4 Gulf countries cost $184M: IG report",
+      "desc": "U.S. diplomatic facilities in four Gulf countries suffered around $184 million in estimated damages from Iranian military strikes, according to a new report from the Pentagon’s watchdog made public on",
+      "link": "https://thehill.com/policy/defense/6089324-iranian-strikes-us-diplomatic-damage/",
       "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 20:01:37 +0000",
+      "rawDate": "Mon, 14 Sep 2026 23:20:49 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Crypto regulation bill faces Senate vote",
+      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Clarity Act faces Senate test A cryptocurrency regulation bill ",
+      "link": "https://thehill.com/newsletters/business-economy/6089318-crypto-regulation-bill-faces-senate-vote/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 23:08:26 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "RFK Jr. to headline Children&#039;s Health Defense conference in D.C.",
-      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. is scheduled to give a keynote address this week at a conference for Children’s Health Defense (CHD), the anti-vaccine advocacy organiza",
+      "title": "Detroit man sentenced to up to 50 years for fatal shooting",
+      "desc": "Damon Bentley, 28, was sentenced to 27-50 years in prison after a Wayne County jury convicted him of second-degree murder.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-man-sentenced-to-up-to-50-years-for-fatal-shooting.html",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 22:41:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "McConnell returns to Senate to cast first vote since June",
+      "desc": "Sen. Mitch McConnell (R-Ky.) returned to the Senate Monday evening to cast his first vote since June 11 after spending months away from the Capitol recuperating from a fall he suffered at home. McConn",
+      "link": "https://thehill.com/homenews/senate/6089224-mitch-mcconnell-returns-senate/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 22:26:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "1 dead, 2 injured in crash on Portage Street in Kalamazoo",
+      "desc": "A 37-year-old man died and two others were injured in a multi-vehicle crash at Portage Street and Howland Avenue in Kalamazoo on Sept. 14.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/1-dead-2-injured-in-crash-on-portage-street-in-kalamazoo.html",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 22:22:23 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Police arrest woman in connection with armed robbery at Bay City 7-Eleven",
+      "desc": "A 64-year-old Bay City woman was arrested Sept. 14 in connection to an armed robbery on Sept. 5.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/police-arrest-woman-in-connection-with-armed-robbery-at-bay-city-7-eleven.html",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 22:15:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Cruz: Trump should sign college sports bill live on ESPN&#039;s &#039;College GameDay&#039; once passed",
+      "desc": "Sen. Ted Cruz (R-Texas) told reporters he would like to see the Protect College Sports Act, the proposed landmark legislation regulating the big business of college sports, signed by President Trump l",
+      "link": "https://thehill.com/policy/sports-gaming/6089095-ted-cruz-protect-college-sports-act-trump-espn-gameday/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 22:01:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Woman convicted of second-degree murder in Flint gas station shooting",
+      "desc": "A Flint jury convicted Shananna Patrice Thorns of second-degree murder after she fatally shot 20-year-old Isis Destine Walker.",
+      "link": "https://www.mlive.com/news/flint/2026/09/woman-convicted-of-second-degree-murder-in-flint-gas-station-shooting.html",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 21:51:43 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "As AI fears spike, Trump bats down calls for regulation",
+      "desc": "President Trump is downplaying the mounting concerns about artificial intelligence and resisting calls for regulation, putting him out of step with a growing chorus of worries coming from within the t",
+      "link": "https://thehill.com/homenews/administration/6089123-trump-resists-ai-regulation-warnings/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 21:45:52 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump nominates Wesley Hunt to Saudi Arabia ambassador post",
+      "desc": "President Trump on Monday nominated Rep. Wesley Hunt (R-Texas) to serve as U.S. ambassador to Saudi Arabia. Trump sent the nominations of Hunt and a slew of other individuals to the Senate, which has ",
+      "link": "https://thehill.com/homenews/administration/6088993-trump-nominates-wesley-hunt-ambassador/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 21:05:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jeffries calls on Congress to stay in Washington to address AI concerns",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) is calling on House GOP leaders to remain in Washington to allow Congress to consider new limits on AI companies following dire warnings from industry in",
+      "link": "https://thehill.com/homenews/house/6089031-jeffries-ai-congress-washington/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 20:45:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump guts climate rules for coal and gas power plants",
+      "desc": "The Trump administration on Monday gutted regulations that limited planet-warming emissions from coal- and gas-fired power plants.&#160; The move allows a sector that makes up a large share of the U.S",
+      "link": "https://thehill.com/policy/energy-environment/6088870-trump-epa-climate-change-coal-gas-power-plants/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 20:45:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump adds extra sanctions to Russian bank for ties to Iran",
+      "desc": "The Trump administration on Monday added extra sanctions on one of Russia’s largest financial institutions, VTB, over its ties to Iran, layering on penalties first imposed because of Moscow’s full-sca",
+      "link": "https://thehill.com/homenews/administration/6088975-trump-vtb-sanctions-iran/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 20:31:13 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Thune: Legislation to regulate AI needs to have a &#039;light touch&#039;",
+      "desc": "Senate Majority Leader John Thune (R-S.D.) on Monday said any legislation Congress passes to regulate AI must have a “light touch” so as not to stifle innovation and tempered recent warnings that supe",
+      "link": "https://thehill.com/homenews/senate/6088903-john-thune-artificial-intelligence-legislation/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 20:08:10 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Vance confirms calls to generals, admirals on US foreign policy",
+      "desc": "Vice President Vance appeared to confirm on Monday a New York Times story that reported he made calls to U.S. military commanders in the Middle East, Asia and Europe to get their assessments on the Ir",
+      "link": "https://thehill.com/homenews/administration/6088898-vance-comments-iran-calls/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 20:07:13 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Sanders, Bannon to speak at event calling for AI controls",
+      "desc": "Political figures across the aisle, including Sen. Bernie Sanders (I-Vt.) and former Trump White House adviser Steve Bannon, are finding themselves on the same side of a growing fight over AI regulati",
+      "link": "https://thehill.com/policy/technology/6088599-bernie-sanders-steve-bannon-ai-regulation-event/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 20:01:37 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "1978 murder victim’s sister outraged after convicted killer released from prison",
+      "desc": "Monica Graham says James Muhamet got to see his family and celebrate holidays for 48 years. Her sister Tammi got \"put in the ground\" and missed out on everything in life.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/1978-murder-victims-sister-outraged-after-convicted-killer-released-from-prison.html",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 20:01:34 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "RFK Jr. to headline Children&#039;s Health Defense conference in DC",
+      "desc": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. is scheduled to give a keynote address this week at a conference for Children’s Health Defense, the anti-vaccine advocacy organization h",
       "link": "https://thehill.com/policy/healthcare/6088845-rfk-jr-scheduled-chd-keynote/",
       "date": "Sep 14, 2026",
       "rawDate": "Mon, 14 Sep 2026 19:48:03 +0000",
@@ -43,8 +187,8 @@
       "link": "https://thehill.com/policy/technology/6088725-trump-backs-ai-surveillance/",
       "date": "Sep 14, 2026",
       "rawDate": "Mon, 14 Sep 2026 19:07:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Jackson College hosting free health fair with screenings that could detect serious conditions early",
@@ -56,24 +200,6 @@
       "tag": "education"
     },
     {
-      "title": "Sydney Sweeney criticized by female athletes for nude sports prediction market ad",
-      "desc": "Actor Sydney Sweeney is facing criticism from a growing number of female athletes online over a new advertisement for a sports prediction market platform in which she appears wearing little or no clot",
-      "link": "https://thehill.com/homenews/media/6088590-sydney-sweeney-ad-backlash/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 18:51:08 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Watch live: Jeffries gives remarks as AI safety concerns mount",
-      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) will speak with reporters Monday afternoon as calls for guardrails around artificial intelligence (AI) build after industry experts raised red flags arou",
-      "link": "https://thehill.com/video-clips/6088601-watch-live-hakeem-jeffries-press-conference-midterms-ai-fears/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 18:34:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Bay City police warn of warrant scam targeting residents",
       "desc": "The Department of Public Safety says it will never call residents demanding payment or threatening arrest. Several Bay City residents have already received fraudulent calls from people claiming to be ",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bay-city-police-warn-of-warrant-scam-targeting-residents.html",
@@ -81,15 +207,6 @@
       "rawDate": "Mon, 14 Sep 2026 18:33:57 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Florida’s ‘Alligator Alcatraz’ confined migrants in &#039;small metal enclosures&#039;: DHS internal watchdog",
-      "desc": "A new report reviewing the conditions at the now-closed \"Alligator Alcatraz\" center in Florida slammed U.S. Immigration and Customs Enforcement (ICE) for failing to meet a variety of federal standards",
-      "link": "https://thehill.com/homenews/state-watch/6088629-ice-alligator-alcatraz-report/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 18:24:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Woman injured, suspect dead after reported gunshot in U.P.",
@@ -107,15 +224,6 @@
       "date": "Sep 14, 2026",
       "rawDate": "Mon, 14 Sep 2026 18:02:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Lowering gas prices requires stopping climate shakedowns",
-      "desc": "President Trump met with oil refiners to discuss expanding capacity, but analysts suggest that lowering gasoline prices requires legislative action to block state climate lawsuits and foreign regulati",
-      "link": "https://thehill.com/opinion/energy-environment/6087471-trump-climate-shakedown-act/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -137,15 +245,6 @@
       "tag": "health"
     },
     {
-      "title": "Kennedy Center could close as early as Tuesday as officials warn of impending ‘fiscal collapse’",
-      "desc": "The Kennedy Center board is set to vote Tuesday on whether to immediately close the institution’s main building for renovations, as a court battle over renewed attempts to add President Trump’s name t",
-      "link": "https://thehill.com/regulation/court-battles/6088481-kennedy-center-close-fiscal-collapse-trump-name-battle/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 17:26:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Marching bands: The Belding Black Knights perform at halftime",
       "desc": "The Belding Black Knights Marching Band performed the first three movements of its competition show, \"Unless,\" at halftime during Belding's game against Fruitport on Friday, Sept. 11, 2026. Directed b",
       "link": "https://www.mlive.com/highschoolsports/2026/09/marching-bands-the-belding-black-knights-perform-at-halftime.html",
@@ -160,17 +259,8 @@
       "link": "https://thehill.com/policy/healthcare/6088472-states-sue-trump-public-charge-rule/",
       "date": "Sep 14, 2026",
       "rawDate": "Mon, 14 Sep 2026 17:25:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Manchin endorses Collins in Maine Senate race",
-      "desc": "Former Sen. Joe Manchin (I-W.Va.), a prominent centrist who left the Democratic Party at the end of his Senate career, has endorsed Sen. Susan Collins (R-Maine), praising her as the “soul of the Senat",
-      "link": "https://thehill.com/homenews/senate/6088483-manchin-susan-collins-senate/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 17:17:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Whitmer visits South Korea to pursue Michigan manufacturing investments",
@@ -470,24 +560,6 @@
       "tag": "safety"
     },
     {
-      "title": "Gallego on AI leaders backing slowdown: ‘Akin to Dr. Frankenstein telling us &quot;The monster is loose&quot;’",
-      "desc": "Sen. Ruben Gallego (D-Ariz.) pushed for more artificial intelligence regulation in the wake of tech leaders pressing for slowing down the technology's development. “This isn't previous tech. Previous ",
-      "link": "https://thehill.com/policy/technology/6086821-senator-ruben-gallego-ai-regulation/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 16:48:02 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Obama pushes Jeffries to move AI oversight to center of agenda: Report",
-      "desc": "Former President Obama reportedly urged House Democratic Leader Hakeem Jeffries (N.Y.) to make AI oversight a central tenet of his caucus’s agenda earlier this week. Obama told Jeffries at a Thursday ",
-      "link": "https://thehill.com/policy/technology/6086768-obama-urges-ai-oversight/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 15:59:39 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Man found beaten to death in Grand Rapids",
       "desc": "Police discovered the victim near Bridge Street NW and National Avenue NW early Sunday morning.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/man-found-beaten-to-death-in-grand-rapids.html",
@@ -551,29 +623,11 @@
       "tag": "education"
     },
     {
-      "title": "What do candidates for Michigan governor say about Flock cameras?",
-      "desc": "Amid growing public opposition, Michigan’s candidates for governor have begun to stake out their positions on Flock cameras.",
-      "link": "https://www.mlive.com/politics/2026/09/what-do-candidates-for-michigan-governor-say-about-flock-cameras.html",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 11:45:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Is Dana Chandler still in prison? An update on HBO’s ‘A Killer Story’",
       "desc": "The new HBO docuseries 'A Killer Story' explores one couple's obsession with proving a convicted murderer's innocence",
       "link": "https://www.mlive.com/life/2026/09/is-dana-chandler-still-in-prison-an-update-on-hbos-a-killer-story.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 11:35:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Fraternity shut down, lawsuit pending in death of University of Michigan student",
-      "desc": "“We’re going to name anyone that was responsible,\" the attorney said.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/fraternity-shut-down-lawsuit-pending-in-death-of-university-of-michigan-student.html",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 11:00:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -632,15 +686,6 @@
       "tag": "safety"
     },
     {
-      "title": "20-year-old man killed in west Michigan shooting, police seeking tips",
-      "desc": "Authorities are investigating after the fatal shooting at Blossom Acres Housing Complex on Friday night, Sept. 11. Anyone with information is urged to contact police.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/09/20-year-old-man-killed-in-west-michigan-shooting-police-seeking-tips.html",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 15:28:58 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "$19M plan to turn former Grand Rapids school into 48 apartments approved",
       "desc": "Commonwealth Development won approval for 48 income-restricted apartments across three buildings at the former Stocking Elementary School, but construction depends on securing low-income housing tax c",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/19m-plan-to-turn-former-grand-rapids-school-into-48-apartments-approved.html",
@@ -677,15 +722,6 @@
       "tag": "safety"
     },
     {
-      "title": "Student nearly hit by car passing school bus in Bedford Township",
-      "desc": "Video captured the moment a blue Chevrolet Malibu came within inches of striking an elementary student crossing Douglas Road on Wednesday afternoon.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/student-nearly-hit-by-car-passing-school-bus-in-bedford-township.html",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 00:50:02 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Proxy fight in Yemen heats up, risking new front in US-Iran war",
       "desc": "The Iranian-backed Houthi rebel group’s reported takeover of a Yemen port city is raising the stakes in Tehran’s war with the U.S. Saudi Arabia, which backs Yemen’s military, is reportedly urging Pres",
       "link": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/",
@@ -700,17 +736,8 @@
       "link": "https://www.mlive.com/news/2026/09/former-msu-resident-physician-accused-of-sexually-assaulting-patients.html",
       "date": "Sep 11, 2026",
       "rawDate": "Fri, 11 Sep 2026 21:48:42 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Second arrest made in Kalamazoo homicide case",
-      "desc": "A 21-year-old man has been arrested and charged in connection with a shooting death in Kalamazoo.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/09/second-arrest-made-in-kalamazoo-homicide-case.html",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 21:20:43 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "CIA releases never-before-seen warnings to Bush, Clinton about al Qaeda",
@@ -812,15 +839,6 @@
       "tag": "health"
     },
     {
-      "title": "9/11 attacks among &#039;most important historic events&#039; in US adults&#039; lifetimes: Poll",
-      "desc": "Nearly half of American adults consider the Sept. 11, 2001, attacks among the “most important historic events” in their lifetimes, a new poll found. In an Ipsos survey published Tuesday, 47 percent of",
-      "link": "https://thehill.com/blogs/blog-briefing-room/news/6083091-9-11-most-important-historic-event-poll/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 21:14:19 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Human rabies exposure cases on the rise, CDC warns",
       "desc": "The CDC said it has received a rise in reports of human rabies exposure cases this summer, prompting an alert to healthcare providers.",
       "link": "https://thehill.com/policy/healthcare/6082853-human-rabies-exposure-cases-on-the-rise-cdc-warns/",
@@ -828,24 +846,6 @@
       "rawDate": "Thu, 10 Sep 2026 20:29:44 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Iran is producing ballistic missiles again: Report",
-      "desc": "Iran has resumed production of ballistic missiles, The Wall Street Journal reported Thursday, contradicting the Trump administration's claims that Tehran's military capabilities have been destroyed in",
-      "link": "https://thehill.com/policy/international/6082738-iran-ballistic-missiles/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 19:42:40 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US military takes lighter touch toward new targets in boat strike campaign",
-      "desc": "A year into its deadly sea-based campaign to stamp out “narco-trafficking,” the U.S. military is zeroing in on a new target — “floating refueling stations” — and taking a more humane approach to sinki",
-      "link": "https://thehill.com/policy/defense/6082785-us-military-targets-refueling-vessels-drug-fight/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 19:12:19 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Roughly half of hospitals complying with price transparency rules: Report",

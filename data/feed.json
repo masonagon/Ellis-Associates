@@ -1,6 +1,42 @@
 {
-  "generated": "2026-09-14T23:37:40.534Z",
+  "generated": "2026-09-15T02:41:28.006Z",
   "news": [
+    {
+      "title": "Russia sanctions bill passes House Rules Committee",
+      "desc": "The House Rules Committee on Monday approved bipartisan legislation aimed at increasing sanctions on Russia amid its war in Ukraine. The bill, which the late Sen. Lindsey Graham (R-S.C.) championed, w",
+      "link": "https://thehill.com/homenews/house/6089480-house-approves-russia-sanctions-bill/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 02:31:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Blanche to hold press briefing in Rose Garden Tuesday",
+      "desc": "Attorney General Todd Blanche will brief reporters in the White House Rose Garden on Tuesday, as he will become the latest administration official to fill the shoes of former White House press secreta",
+      "link": "https://thehill.com/homenews/administration/6089351-todd-blanche-white-house-briefing/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 00:39:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+      "desc": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November.",
+      "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 00:23:42 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Paxton gets $54M boost from Senate Leadership Fund&#039;s Texas PAC",
+      "desc": "Texas Attorney General Ken Paxton’s (R) Senate campaign received nearly $54 million from the GOP-aligned Senate Leadership Fund’s (SLF) Texas affiliate, according to a filing. The Austin-based Texas P",
+      "link": "https://thehill.com/homenews/state-watch/6089304-paxton-receives-54-million-slf/",
+      "date": "Sep 14, 2026",
+      "rawDate": "Mon, 14 Sep 2026 23:47:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Iran strikes on US diplomatic facilities in 4 Gulf countries cost $184M: IG report",
       "desc": "U.S. diplomatic facilities in four Gulf countries suffered around $184 million in estimated damages from Iranian military strikes, according to a new report from the Pentagon’s watchdog made public on",
@@ -83,22 +119,13 @@
       "tag": "technology"
     },
     {
-      "title": "Trump nominates Wesley Hunt to Saudi Arabia ambassador post",
-      "desc": "President Trump on Monday nominated Rep. Wesley Hunt (R-Texas) to serve as U.S. ambassador to Saudi Arabia. Trump sent the nominations of Hunt and a slew of other individuals to the Senate, which has ",
-      "link": "https://thehill.com/homenews/administration/6088993-trump-nominates-wesley-hunt-ambassador/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 21:05:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Jeffries calls on Congress to stay in Washington to address AI concerns",
       "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) is calling on House GOP leaders to remain in Washington to allow Congress to consider new limits on AI companies following dire warnings from industry in",
       "link": "https://thehill.com/homenews/house/6089031-jeffries-ai-congress-washington/",
       "date": "Sep 14, 2026",
       "rawDate": "Mon, 14 Sep 2026 20:45:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Trump guts climate rules for coal and gas power plants",
@@ -605,18 +632,18 @@
       "tag": "government"
     },
     {
-      "title": "Detroit pays students to show up for school. The program is expanding",
-      "desc": "Detroit's program rewarding students for perfect attendance is expanding after the district reported a drop in chronic absenteeism.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-pays-students-to-show-up-for-school-the-program-is-expanding.html",
+      "title": "These Ann Arbor-area schools had the top state test results",
+      "desc": "An MLive analysis found standout schools across Washtenaw County, including Washtenaw Technical Middle College, South Arbor Charter Academy and several Ann Arbor Public School sites.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/these-ann-arbor-area-schools-had-the-top-state-test-results.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "These Ann Arbor-area schools had the top state test results",
-      "desc": "An MLive analysis found standout schools across Washtenaw County, including Washtenaw Technical Middle College, South Arbor Charter Academy and several Ann Arbor Public School sites.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/these-ann-arbor-area-schools-had-the-top-state-test-results.html",
+      "title": "Detroit pays students to show up for school. The program is expanding",
+      "desc": "Detroit's program rewarding students for perfect attendance is expanding after the district reported a drop in chronic absenteeism.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-pays-students-to-show-up-for-school-the-program-is-expanding.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
@@ -655,15 +682,6 @@
       "link": "https://www.wired.com/review/coway-airmega-halo/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 10:05:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "AI Agents Are Thirsty for Power",
-      "desc": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },

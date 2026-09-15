@@ -1,23 +1,338 @@
 {
-  "generated": "2026-09-15T14:02:02.789Z",
+  "generated": "2026-09-15T18:37:11.759Z",
   "news": [
     {
-      "title": "Why 90 percent of US baby formula lawsuits landed in two Illinois counties",
-      "desc": "IRather than a case built on sound science, plaintiffs’ lawyers built a business model whose cornerstone is a friendly courtroom that can deliver what the evidence does not.",
-      "link": "https://thehill.com/opinion/congress-blog/judicial/6088750-preterm-formula-consumer-protection/",
+      "title": "Republicans may gain nothing from redistricting: DDHQ",
+      "desc": "Republicans aiming to gain seats in Congress after several GOP-controlled states redrew their congressional maps in the last year may gain nothing in the November midterm elections, according to the e",
+      "link": "https://thehill.com/homenews/state-watch/6090677-ddhq-forecast-democrats-house-majority/",
       "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 14:00:00 +0000",
+      "rawDate": "Tue, 15 Sep 2026 18:31:32 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Live updates: Trump blasts Supreme Court after mail ballot ruling; Patel testifies before Senate Judiciary panel",
-      "desc": "President Trump upbraided the Supreme Court on Tuesday morning for its 7-2 ruling against his mail-in ballot restrictions the evening prior. \"These are not the people I interviewed to serve on the Uni",
+      "title": "Live updates: Blanche to brief press in White House Rose Garden; Kennedy Center loses bid to add Trump&#039;s name",
+      "desc": "Attorney General Todd Blanche is set to brief reporters in the Rose Garden on Tuesday, becoming the latest administration official to step in since the departure of former White House press secretary ",
       "link": "https://thehill.com/homenews/state-watch/6089511-live-updates-trump-blanche-kash-patel-senate/",
       "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 13:51:48 +0000",
+      "rawDate": "Tue, 15 Sep 2026 18:30:23 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Man convicted for fatal shooting could serve just 5 years in prison, angering victim’s family",
+      "desc": "The victim was a father of eight and new grandfather to twins.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/man-convicted-for-fatal-shooting-could-serve-just-5-years-in-prison-angering-victims-family.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 18:22:41 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump’s DOJ threatens litigation over Ann Arbor schools’ transgender student policy",
+      "desc": "The Trump administration says recent revisions did not address concerns over parental access to student records, calling a notice this week the 'final opportunity to cure' allegations against AAPS.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/trumps-doj-threatens-litigation-over-ann-arbor-schools-transgender-student-policy.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 18:09:50 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Electric motorcycle rider seriously injured in Rochester Hills crash",
+      "desc": "A Rochester Hills man suffered serious injuries after his electric motorcycle collided with a pickup truck, prompting the county sheriff to call for stricter legislation on e-bikes and e-motos.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/electric-motorcycle-rider-seriously-injured-in-rochester-hills-crash.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 18:07:54 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "&#039;This is a jobs bill&#039;: Jon Voight, film industry leaders make push for federal tax credit",
+      "desc": "Jon Voight is joining a bipartisan group of lawmakers touting the need for a federal film and TV production tax credit, saying a new report shows such an incentive would \"level the playing field and b",
+      "link": "https://thehill.com/blogs/in-the-know/6090959-jon-voight-hollywood-tax-incentive-trump/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 18:05:29 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "&#8216;This is a jobs bill&#8217;: Jon Voight, film industry leaders make push for federal tax credit",
+      "desc": "Jon Voight is joining a bipartisan group of lawmakers touting the need for a federal film and TV production tax credit, saying a new report shows such an incentive would &#8220;level the playing field",
+      "link": "https://thehill.com/blogs/in-the-know/6090959-jon-voight-hollywood-tax-incentive-trump/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 18:05:29 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "desc": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 18:00:09 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Marching bands: Fremont brings Greek mythology to life with ‘Medusa’ halftime show",
+      "desc": "The 90-member ensemble performed Randall Standridge’s “Medusa,” a dramatic musical work inspired by the legendary figure from ancient mythology.",
+      "link": "https://www.mlive.com/news/muskegon/2026/09/marching-bands-fremont-brings-greek-mythology-to-life-with-medusa-halftime-show.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:51:34 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
+      "desc": "FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors.",
+      "link": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:50:40 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Cadillac man sentenced for sexually abusing 5-year-old child",
+      "desc": "He received a minimum 38.3-year prison sentence after being convicted of six counts of criminal sexual conduct.",
+      "link": "https://www.mlive.com/news/2026/09/cadillac-man-sentenced-for-sexually-abusing-5-year-old-child.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:48:06 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Dem leaders warn against AI companies policing themselves: ‘We need Congress to act’",
+      "desc": "Top House Democrats warned Tuesday that AI companies can’t be trusted to regulate themselves, arguing that the federal government will have to step in with industry-wide rules designed to ensure publi",
+      "link": "https://thehill.com/homenews/house/6090811-house-democrats-demand-ai-regulation/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:41:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Blanche briefs reporters from Rose Garden",
+      "desc": "Attorney General Todd Blanche will speak with reporters Tuesday afternoon in the White House Rose Garden. Few details are known about the briefing, but it marks only the second since former press secr",
+      "link": "https://thehill.com/video-clips/6090603-watch-live-todd-blanche-doj-rose-garden-press-briefing/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:40:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Maine senators push for Senate to take up House whale bill championed by lobster industry",
+      "desc": "Maine’s two senators are urging the Senate Commerce Committee to take up and advance House-passed legislation that would extend a pause in rulemaking on protections for the right whales in an effort t",
+      "link": "https://thehill.com/homenews/state-watch/6090789-maine-collins-king-senate-whale-bill-lobster-industry/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:31:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Abbott agrees to settle DOJ lawsuit over baby formula plant contamination",
+      "desc": "Abbott Laboratories will pay $385 million to settle allegation related to how it operated a manufacturing plant tied to contaminated powdered baby formula suspected of causing infant deaths.  Contamin",
+      "link": "https://thehill.com/policy/healthcare/6090700-abbott-formula-contamination-settlement/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:23:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Waters has heated exchange with Bessent on AI",
+      "desc": "Rep. Maxine Waters (D-Calif.) went after Treasury Secretary Scott Bessent on Tuesday for the Trump administration’s policy on artificial intelligence, as warnings about the technology percolate. Durin",
+      "link": "https://thehill.com/policy/technology/6090717-waters-attacks-trump-ai-policy/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:15:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US household income breaks 58-year-old record. These groups saw the biggest gains",
+      "desc": "The median household made $87,460 in 2025, but not everyone is a winner.",
+      "link": "https://thehill.com/business/personal-finance/6090509-us-household-income-breaks-58-year-old-record-these-groups-saw-the-biggest-gains/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:10:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why Democrats keep coming back to Hasan Piker",
+      "desc": "Democratic politicians continue to seek access to Hasan Piker's massive youth audience despite controversies surrounding his rhetoric, driven by his ability to provide young voters with political mean",
+      "link": "https://thehill.com/opinion/campaign/6089598-piker-influence-young-voters/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Massie launches effort to impeach Hegseth",
+      "desc": "Rep. Thomas Massie (R-Ky.) on Tuesday launched an effort to impeach Secretary of Defense Pete Hegseth, citing the Pentagon’s military actions against Iran.  Massie, a frequent critic of President Trum",
+      "link": "https://thehill.com/homenews/house/6090661-thomas-massie-pete-hegseth-impeachment-iran/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:51:04 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "New poll shows 1 party with huge advantage in midterm elections — and it’s all thanks to Trump",
+      "desc": "The New York Times/Siena College poll, released Tuesday, found that Democrats have an 8-point advantage over Republicans.",
+      "link": "https://www.mlive.com/politics/2026/09/new-poll-shows-1-party-with-huge-advantage-in-midterm-elections-and-its-all-thanks-to-trump.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:49:47 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Shroom fest returns to Ann Arbor as psychedelic industry expands with more shops",
+      "desc": "“We’re all about plant medicine,” said Rasha Hamoudi, co-president of the Lookout Project, the University of Michigan student organizing group behind this year’s Entheofest.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/shroom-fest-returns-to-ann-arbor-as-psychedelic-industry-expands-with-more-shops.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:47:39 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Judge blocks new Trump inscription on Kennedy Center",
+      "desc": "A federal judge on Tuesday blocked the Kennedy Center’s latest attempt to inscribe President Trump's name on building — and to rename the campus after him.  U.S. District Judge Christopher Cooper rule",
+      "link": "https://thehill.com/regulation/court-battles/6090649-trump-kennedy-center-inscription-judge/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:45:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DC, Maryland members seek to prevent permanent fencing at Capitol complex",
+      "desc": "District of Columbia Del. Elanor Holmes Norton (D) and Sen. Chris Van Hollen (D-Md.) announced legislation Tuesday barring permanent fencing around the Capitol, arguing the complex should remain open ",
+      "link": "https://thehill.com/homenews/state-watch/6090597-dc-maryland-washington-capitol-fencing-jan-6/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:36:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "$2,500 reward offered for Saginaw teen charged with murder in 2025 fatal shooting",
+      "desc": "Eric M. Brooks Jr. has been wanted on an open-murder warrant since Sept. 3.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/2500-reward-offered-for-saginaw-teen-charged-with-murder-in-2025-fatal-shooting.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:08:52 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Pentagon tells Congress Iran war cost at least $42 billion",
+      "desc": "The Pentagon told Congress last month that the cost of the war against Iran has now climbed over $42 billion, a $4.5 billion increase on the most recent public estimate from the Department of Defense ",
+      "link": "https://thehill.com/policy/defense/6090292-pentagon-iran-war-cost-increase/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:00:26 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Join WIRED@Night for an Uncanny Valley Live Recording on Women, Tech, and Power",
+      "desc": "An evening of podcasting in San Francisco (with a discount for WIRED readers).",
+      "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Marching bands: See what West Michigan’s Flight II bands are performing in 2026",
+      "desc": "MCBA Flight II bands in West Michigan include Jenison, Byron Center, Portage Northern, Lakeview and Northview high schools.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-what-west-michigans-flight-ii-bands-are-performing-in-2026.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Gavin Newsom’s stunning 2028 decision sparks rumors: ‘I don’t believe it’",
+      "desc": "He said he wouldn't challenge this top Democrat.",
+      "link": "https://www.mlive.com/politics/2026/09/gavin-newsoms-stunning-2028-decision-sparks-rumors-i-dont-believe-it.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 15:52:41 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "These 3 Michigan children’s hospitals are best in Midwest, U.S. News says",
+      "desc": "The Ann Arbor, Grand Rapids and Detroit hospitals featured in nationally ranked categories, as well.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/these-3-michigan-childrens-hospitals-are-best-in-midwest-us-news-says.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 15:43:33 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "California Democrat: &#039;We need to have a safety stand-down with AI&#039;",
+      "desc": "Rep. George Whitesides (D-Calif.) on Monday said that the U.S. needs \"a safety stand-down\" regarding AI amid growing calls for regulation coming from both the tech industry and members of Congress. \"I",
+      "link": "https://thehill.com/policy/technology/6090277-california-democrat-ai-safety-regulation/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 15:37:47 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Saginaw man pleads to manslaughter in 2024 shooting death of friend",
+      "desc": "Originally charged with murder, 43-year-old Andreaw Dawkins pleaded no contest to involuntary manslaughter in the homicide of Julian L. Arroyo.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-pleads-to-manslaughter-in-2024-shooting-death-of-friend.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 15:08:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan removes 20K from sex offender registry",
+      "desc": "The state Supreme Court ruled that changes in the sex offender registry could not be applied retroactively.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/michigan-removes-20k-from-sex-offender-registry.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 14:55:29 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump makes stunning U-turn on his own Supreme Court picks: ‘Not the people I interviewed’",
+      "desc": "Donald Trump raged against the Supreme Court after it rejected his mail ballot restrictions ahead of the midterm elections.",
+      "link": "https://www.mlive.com/politics/2026/09/trump-makes-stunning-u-turn-on-his-own-supreme-court-picks-not-the-people-i-interviewed.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 14:41:29 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo courthouse was evacuated after bomb threat made by phone",
+      "desc": "The courthouse is open today, officials said.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/kalamazoo-courthouse-was-evacuated-after-bomb-threat-made-by-phone.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 14:29:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Study links cats to more anxiety, behavioral issues in young kids",
+      "desc": "Researchers found kids aged 4-5 who had a cat were more likely to show signs of anxiety, withdrawal or emotional struggles.",
+      "link": "https://thehill.com/policy/healthcare/6090074-cats-behavioral-issues-young-kids-study/",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 14:28:21 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Watch: Mitch McConnell finally captured on camera",
+      "desc": "The senator was spotted in a wheelchair leaving his home before appearing on the Senate floor.",
+      "link": "https://www.mlive.com/politics/2026/09/watch-mitch-mcconnell-finally-captured-on-camera.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 14:07:23 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Northwood University’s 63rd annual auto show opens Sept. 18 with new main stage, record sponsorship",
+      "desc": "The student-led outdoor car show runs Sept. 18-20 in Midland with free admission.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/northwood-universitys-63rd-annual-auto-show-opens-sept-18-with-new-main-stage-record-sponsorship.html",
+      "date": "Sep 15, 2026",
+      "rawDate": "Tue, 15 Sep 2026 14:03:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Shark Tank stars kick off 2026 Tech Week Grand Rapids",
@@ -47,87 +362,6 @@
       "tag": "education"
     },
     {
-      "title": "A Republican convention about fear collides with a midterm about prices",
-      "desc": "For all of the energy Republicans spent casting Democrats as radical communists, they left Dallas having answered a question most voters are not asking.",
-      "link": "https://thehill.com/opinion/campaign/6087693-trump-midterm-affordability-gap/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 13:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whistleblower says DHS voter probe might violate state laws, wrongly target US citizens",
-      "desc": "Department of Homeland Security (DHS) employees were told to pose as voters while searching for noncitizens on state voter rolls, according to a whistleblower report released Monday. Employees were gi",
-      "link": "https://thehill.com/homenews/administration/6089876-dhs-whistleblower-voter-probe/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 13:20:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michelle Obama&#039;s voting initiative courts Gen Z by tapping influencers",
-      "desc": "Former first lady Michelle Obama's voter registration and engagement initiative is targeting Generation Z, launching a \"Voting Squad\" made up of popular content creators and aimed at urging young peop",
-      "link": "https://thehill.com/blogs/in-the-know/6089856-michelle-obamas-when-we-all-vote-squad-influencers/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 13:14:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Patel defends travel, vehicle acquisition ahead of hearing",
-      "desc": "FBI Director Kash Patel on Monday defended his personal travel and the law enforcement agency's purchase of several luxury armored BMWs under his leadership amid scrutiny. Patel is scheduled to appear",
-      "link": "https://thehill.com/homenews/administration/6089806-kash-patel-travel-vehicle-controversies-senate-hearing/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 13:04:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "UT-Austin students fire back after Republican&#039;s &#039;blatantly racist&#039; post",
-      "desc": "University of Texas at Austin (UT-Austin) students fired back Monday against a \"blatantly racist” post from the Republican nominee for Texas railroad commissioner, Bo French. French posted an image ov",
-      "link": "https://thehill.com/homenews/state-watch/6089816-ut-students-rebuke-bo-french/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 13:02:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats urge RFK Jr. to scrap proposed Head Start overhaul",
-      "desc": "Democrats are pressing Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. to scrap a proposed overhaul of the Head Start program, warning the changes would weaken services for thousands o",
-      "link": "https://thehill.com/homenews/house/6089555-hhs-head-start-democrats-rfk/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Bessent faces House questions on economy",
-      "desc": "Treasury Secretary Scott Bessent will testify Tuesday before the House Financial Services Committee on the state of the U.S. financial system, as President Trump's economic agenda faces scrutiny amid ",
-      "link": "https://thehill.com/video-clips/6089787-watch-live-scott-bessent-us-economy-house-financial-services-committee-hearing/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 12:52:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: House Republicans give remarks amid AI turmoil",
-      "desc": "House Republican leaders will speak with reporters Tuesday morning as calls mount for more transparency around artificial intelligence and implementing guardrails around the rapidly developing technol",
-      "link": "https://thehill.com/video-clips/6089773-watch-live-house-republicans-press-conference-ai-midterms-russia-sanctions/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 12:32:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "McMahon has a chance to lock in charter school opportunities",
-      "desc": "Before federal dollars go out the door, the Education Department should return to the question Congress intended it to ask in 1997.",
-      "link": "https://thehill.com/opinion/education/6088318-mcmahon-codify-charter-school-laws/",
-      "date": "Sep 15, 2026",
-      "rawDate": "Tue, 15 Sep 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Marching bands: See what the biggest West Michigan schools are performing in 2026",
       "desc": "West Michigan's MCBA Flight I marching bands include Grandville, Hudsonville and Rockford high schools.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-what-the-biggest-west-michigan-schools-are-performing-in-2026.html",
@@ -138,7 +372,7 @@
     },
     {
       "title": "Ossoff: ‘Compromised’ Trump won’t regulate AI",
-      "desc": "Sen. Jon Ossoff (D-Ga.) on Monday said President Trump will likely not heed calls from technology leaders to implement guardrails on the development of artificial intelligence (AI) because of his fami",
+      "desc": "Sen. Jon Ossoff (D-Ga.) on Monday said President Trump likely will not heed calls from technology leaders to implement guardrails on the development of AI because of his family’s investments in the in",
       "link": "https://thehill.com/homenews/senate/6089724-jon-ossoff-donald-trump-ai-fears-regulation/",
       "date": "Sep 15, 2026",
       "rawDate": "Tue, 15 Sep 2026 12:01:00 +0000",
@@ -452,15 +686,6 @@
       "tag": "government"
     },
     {
-      "title": "2 injured in shooting at Wisner Stadium in Pontiac, suspect arrested",
-      "desc": "A 37-year-old Auburn Hills man was arrested after shooting a 19-year-old man and pistol-whipping a woman at a youth athletic event in Pontiac on Sunday.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/2-injured-in-shooting-at-wisner-stadium-in-pontiac-suspect-arrested.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 17:58:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "GLP-1-driven vitamin deficiency linked to rare brain disorder: Study",
       "desc": "Researchers found a rare but potentially life-threatening brain disorder in a small number of people taking Ozempic, Wegovy and similar drugs.",
       "link": "https://thehill.com/policy/healthcare/6086303-glp-1-vitamin-deficiency-rare-brain-disorder-study/",
@@ -488,48 +713,12 @@
       "tag": "health"
     },
     {
-      "title": "Whitmer visits South Korea to pursue Michigan manufacturing investments",
-      "desc": "Gov. Gretchen Whitmer is headed to South Korea for a weeklong investment trip, her office announced on Monday, Sept. 14.",
-      "link": "https://www.mlive.com/politics/2026/09/whitmer-visits-south-korea-to-pursue-michigan-manufacturing-investments.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 17:16:56 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What matters most to you this election? Take MLive’s survey before it closes",
-      "desc": "Take MLive's survey inside the story and tell us which five issues matter most to you this election season in Michigan.",
-      "link": "https://www.mlive.com/politics/2026/09/what-matters-most-to-you-this-election-take-mlives-survey-before-it-closes.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 17:08:58 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Masked home intruders shoot teen in northern Bay County",
-      "desc": "Deputies have no suspects in custody as of Monday afternoon, Sept. 14.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/masked-home-intruders-shoot-teen-in-northern-bay-county.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 17:03:46 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "China bristles at Anthropic CEO’s &#039;fearmongering&#039; about its AI development",
       "desc": "BEIJING (AP) — China's Ministry of Foreign Affairs on Monday bristled at the Anthropic CEO's call for the U.S. to curb China's artificial intelligence capabilities as part of a wider argument for a gl",
       "link": "https://thehill.com/policy/technology/china-anthropic-ai-development/",
       "date": "Sep 14, 2026",
       "rawDate": "Mon, 14 Sep 2026 17:01:35 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-      "desc": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
-      "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 16:50:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -569,24 +758,6 @@
       "tag": "technology"
     },
     {
-      "title": "9 ejected from Michigan Stadium during Wolverines game against Oklahoma",
-      "desc": "There were more than double the amount of medical incidents.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/9-ejected-from-michigan-stadium-during-wolverines-game-against-oklahoma.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 15:41:08 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump just gave a major update on proposed $5,000 checks",
-      "desc": "The proposal would send money to U.S. adults after November if Republicans maintain control of the House and Senate.",
-      "link": "https://www.mlive.com/politics/2026/09/trump-just-gave-a-major-update-on-his-proposed-5000-checks.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 15:33:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump defends AI approach, criticizes Anthropic CEO and &#039;conspiracy theorists&#039;",
       "desc": "President Trump defended his approach to AI on Monday, saying the only protections needed are a “STRONG AND SMART (High IQ!) PRESIDENT” amid calls for AI guardrails. “The only control or ‘guardrails’ ",
       "link": "https://thehill.com/homenews/administration/6088141-trump-calls-ai-conspiracy/",
@@ -605,24 +776,6 @@
       "tag": "technology"
     },
     {
-      "title": "Woman, 76, dies after being hit by vehicle in Grand Blanc",
-      "desc": "The incident remains under investigation.",
-      "link": "https://www.mlive.com/news/flint/2026/09/woman-76-dies-after-being-hit-by-vehicle-in-grand-blanc.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 14:13:33 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Mike Bacigalupo begins 2-year federal prison sentence",
-      "desc": "The former Bay City executive director pleaded guilty to wire fraud after redirecting more than $750,000 in nonprofit funds to pay for Wenonah Park Bandshell renovations.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/mike-bacigalupo-begins-2-year-federal-prison-sentence.html",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 13:55:34 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "$902M donated to University of Michigan in 2026",
       "desc": "The University of Michigan attracted $902 million in donations during fiscal year 2026, officials said, claiming the mark as the most successful year of its Look to Michigan campaign.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/902m-donated-to-university-of-michigan-in-2026.html",
@@ -632,15 +785,6 @@
       "tag": "education"
     },
     {
-      "title": "Schumer calls for classified briefing on danger posed by AI",
-      "desc": "Senate Democratic Leader Chuck Schumer (N.Y.) on Monday called on the Trump administration to provide a classified briefing to all senators on the dangers posed by AI after a researcher for Anthropic ",
-      "link": "https://thehill.com/homenews/senate/6087626-chuck-schumer-artificial-intelligence-risk-briefing/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 12:27:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Opinion: Why MLive is covering high school marching bands like a sport",
       "desc": "As a former marching band member, I've seen the dedication it requires. This fall, expect more stories and coverage of your favorite West Michigan marching band.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/opinion-why-mlive-is-covering-high-school-marching-bands-like-a-sport.html",
@@ -648,24 +792,6 @@
       "rawDate": "Mon, 14 Sep 2026 12:02:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "The Best Air Purifier of 2026: Tested Picks for Every Room",
-      "desc": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
-      "link": "https://www.wired.com/gallery/best-air-purifiers/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 11:33:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "desc": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "date": "Sep 14, 2026",
-      "rawDate": "Mon, 14 Sep 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Compound in blueberries may help muscles burn fat, study finds",
@@ -704,30 +830,12 @@
       "tag": "safety"
     },
     {
-      "title": "Motorcyclist hospitalized after crash in Cass County",
-      "desc": "The 18-year-old was wearing a helmet when he lost control and struck a tree, police said.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/09/motorcyclist-hospitalized-after-crash-in-cass-county.html",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 19:50:12 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "GOP rep: Priority &#039;needs to be the military,&#039; not $5K checks",
       "desc": "GOP Rep. Mike Flood (Neb.) said Sunday he supports providing the Pentagon with more funding amid the Iran war over passing legislation to implement President Trump’s $5,000 dividend proposal. “First t",
       "link": "https://thehill.com/homenews/house/6086831-flood-prioritizes-pentagon-over-dividend/",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 17:27:31 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Man found beaten to death in Grand Rapids",
-      "desc": "Police discovered the victim near Bridge Street NW and National Avenue NW early Sunday morning.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/man-found-beaten-to-death-in-grand-rapids.html",
-      "date": "Sep 13, 2026",
-      "rawDate": "Sun, 13 Sep 2026 13:17:48 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -740,18 +848,18 @@
       "tag": "safety"
     },
     {
-      "title": "These Ann Arbor-area schools had the top state test results",
-      "desc": "An MLive analysis found standout schools across Washtenaw County, including Washtenaw Technical Middle College, South Arbor Charter Academy and several Ann Arbor Public School sites.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/these-ann-arbor-area-schools-had-the-top-state-test-results.html",
+      "title": "Detroit pays students to show up for school. The program is expanding",
+      "desc": "Detroit's program rewarding students for perfect attendance is expanding after the district reported a drop in chronic absenteeism.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-pays-students-to-show-up-for-school-the-program-is-expanding.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Detroit pays students to show up for school. The program is expanding",
-      "desc": "Detroit's program rewarding students for perfect attendance is expanding after the district reported a drop in chronic absenteeism.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/detroit-pays-students-to-show-up-for-school-the-program-is-expanding.html",
+      "title": "These Ann Arbor-area schools had the top state test results",
+      "desc": "An MLive analysis found standout schools across Washtenaw County, including Washtenaw Technical Middle College, South Arbor Charter Academy and several Ann Arbor Public School sites.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/these-ann-arbor-area-schools-had-the-top-state-test-results.html",
       "date": "Sep 13, 2026",
       "rawDate": "Sun, 13 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
@@ -776,33 +884,6 @@
       "tag": "safety"
     },
     {
-      "title": "$19M plan to turn former Grand Rapids school into 48 apartments approved",
-      "desc": "Commonwealth Development won approval for 48 income-restricted apartments across three buildings at the former Stocking Elementary School, but construction depends on securing low-income housing tax c",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/19m-plan-to-turn-former-grand-rapids-school-into-48-apartments-approved.html",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 14:35:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Mott Community College to host 40th annual Regional College Fair in October",
-      "desc": "The free event will feature representatives from more than 50 colleges, universities and military branches.",
-      "link": "https://www.mlive.com/news/flint/2026/09/mott-community-college-to-host-40th-annual-regional-college-fair-in-october.html",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 14:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Are Ann Arbor school buildings on the chopping block? Here’s 3 things to know.",
-      "desc": "Whether it’s building sales or consolidating schools, some ongoing and long-term decisions to generate revenue and fill AAPS' budget gap has left some local families on edge.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/are-ann-arbor-school-buildings-on-the-chopping-block-heres-3-things-to-know.html",
-      "date": "Sep 12, 2026",
-      "rawDate": "Sat, 12 Sep 2026 12:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "North Korea fires ballistic missiles after condemning military drill as threat",
       "desc": "North Korea launched ballistic missiles toward the sea Saturday, a day after the U.S., South Korea and Japan completed a trilateral military drill in response to North Korean nuclear threats. The miss",
       "link": "https://thehill.com/policy/defense/6085776-north-korea-launches-missiles/",
@@ -821,15 +902,6 @@
       "tag": "safety"
     },
     {
-      "title": "Former MSU resident physician accused of sexually assaulting patients",
-      "desc": "The suspect faces four felony counts related to alleged assaults of two patients at an MSU Health Care facility between July 2024 and April 2025.",
-      "link": "https://www.mlive.com/news/2026/09/former-msu-resident-physician-accused-of-sexually-assaulting-patients.html",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 21:48:42 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "CIA releases never-before-seen warnings to Bush, Clinton about al Qaeda",
       "desc": "The CIA on Friday publicly released for the first time a tranche of daily intelligence briefings provided ahead of Sept. 11, 2001, to former Presidents George W. Bush and Clinton about al Qaeda's plan",
       "link": "https://thehill.com/policy/defense/6085396-cia-releases-911-intelligence-briefings/",
@@ -837,15 +909,6 @@
       "rawDate": "Fri, 11 Sep 2026 20:55:10 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Grand Rapids Turkey Trot adds 10k race for 34th annual event",
-      "desc": "In its 34th year, the Grand Rapids Turkey Trot is expanding, offering not only the traditional 5K but also a 10K race and one-mile walk.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/grand-rapids-turkey-trot-adds-10k-race-for-34th-annual-event.html",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 20:32:40 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Health officials declare end to largest cyclospora outbreak in history",
@@ -864,24 +927,6 @@
       "rawDate": "Fri, 11 Sep 2026 19:02:26 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Top Ukrainian official gives inside look at the war with Russia",
-      "desc": "Head of Office for Volodymyr Zelensky talks technology, deaths, and hope for how the war with Russia could end.",
-      "link": "https://thehill.com/policy/international/6084952-ukraine-lt-gen-kyrylo-budanov-newsnation-exclusive-russia-war-breakthroughs/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 18:24:04 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump, Hegseth tie Iran war to 9/11 in speeches at Pentagon",
-      "desc": "President Trump and Defense Secretary Pete Hegseth tied the Iran war to the Sept. 11, 2001, terrorist attacks in their anniversary remarks Friday at the Pentagon, suggesting the conflict is a continua",
-      "link": "https://thehill.com/policy/defense/6084687-trump-hegseth-iran-war-september-11/",
-      "date": "Sep 11, 2026",
-      "rawDate": "Fri, 11 Sep 2026 15:46:24 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Trump surgeon general nominee discloses tobacco, pharma investments",
@@ -907,24 +952,6 @@
       "link": "https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/",
       "date": "Sep 10, 2026",
       "rawDate": "Thu, 10 Sep 2026 17:20:33 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Multistate salmonella outbreak linked to broccoli sprouts: FDA",
-      "desc": "The Food and Drug Administration (FDA) reported Wednesday it will investigate a multistate outbreak of salmonella linked to recalled broccoli sprouts. The Centers for Disease Control and Prevention (C",
-      "link": "https://thehill.com/policy/healthcare/6082261-fda-investigates-salmonella-broccoli-sprouts/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:15:39 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump pledges $500 ObamaCare rebate checks",
-      "desc": "The Trump administration is pledging to send $500 rebate checks to nearly 1 million Americans who the White House says were overcharged for ObamaCare coverage.  In a recorded message posted Thursday t",
-      "link": "https://thehill.com/policy/healthcare/6082253-trump-pledges-healthcare-rebate-checks/",
-      "date": "Sep 10, 2026",
-      "rawDate": "Thu, 10 Sep 2026 17:04:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

@@ -1,6 +1,15 @@
 {
-  "generated": "2026-09-17T02:40:26.494Z",
+  "generated": "2026-09-17T08:13:59.109Z",
   "news": [
+    {
+      "title": "Kamala Harris to campaign for Abdul El-Sayed at Michigan event: Reports",
+      "desc": "Former Vice President Kamala Harris will campaign for Michigan Senate candidate Abdul El-Sayed (D) at a campaign event next week, according to multiple reports. Harris will join El-Sayed, a doctor and",
+      "link": "https://thehill.com/homenews/campaign/6094523-kamala-harris-el-sayed-roundtable/",
+      "date": "Sep 17, 2026",
+      "rawDate": "Thu, 17 Sep 2026 03:26:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Rogers says he &#039;never agreed&#039; to El-Sayed debate: It would&#039;ve been &#039;2-on-1&#039;",
       "desc": "Rep. Mike Rogers (R) said he \"never agreed\" to Tuesday's televised debate with his Michigan Senate opponent, Democrat Abdul El-Sayed — who spoke for an hour next to an empty podium on a Fox 2 Detroit ",
@@ -142,8 +151,8 @@
       "link": "https://thehill.com/homenews/senate/6094142-paul-kennedy-ai-kill-switch/",
       "date": "Sep 16, 2026",
       "rawDate": "Wed, 16 Sep 2026 22:10:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
@@ -378,15 +387,6 @@
       "rawDate": "Wed, 16 Sep 2026 16:11:44 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
-      "desc": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for food safety across the US",
-      "link": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 16:05:14 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Service members must meet weight, grooming standards for Hegseth event: Report",
@@ -648,33 +648,6 @@
       "rawDate": "Wed, 16 Sep 2026 10:45:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-      "desc": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
-      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "The EU Plans to Ban Social Media for Under-13s",
-      "desc": "The bloc wants to curb Big Tech’s grip on children with its new EU Kids Act, but age checks, parental oversight, and privacy concerns could make its plan difficult to implement.",
-      "link": "https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 10:19:46 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
-      "desc": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.",
-      "link": "https://www.wired.com/story/best-robot-vacuum/",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 10:06:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Lawmakers scramble to catch up on AI",

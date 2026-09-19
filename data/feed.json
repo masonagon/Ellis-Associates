@@ -1,6 +1,60 @@
 {
-  "generated": "2026-09-19T14:03:47.086Z",
+  "generated": "2026-09-19T17:37:09.906Z",
   "news": [
+    {
+      "title": "Trump posts poll to rename &#039;AI,&#039; says current name is &#039;inaccurate, and very ineloquent&#039;",
+      "desc": "President Trump posted a poll on Truth Social, pitching potential new names for artificial intelligence — calling the emerging technology’s name “inaccurate.” In a Saturday Truth Social post, the pres",
+      "link": "https://thehill.com/homenews/administration/6099834-trump-proposes-new-a-i-names/",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 17:35:03 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "A life of learning: One graduate’s journey from small Michigan town to MIT",
+      "desc": "Long before the acceptance letter, this teenager spent countless hours exploring books at the library, trips to museums, music, tennis and more.",
+      "link": "https://www.mlive.com/news/flint/2026/09/a-life-of-learning-one-michigan-graduates-journey-from-small-town-to-mit.html",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 16:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "See Saginaw County’s 10 most crash-prone intersections of 2025",
+      "desc": "Michigan Auto Law compiled crash data from Michigan State Police showing 230 collisions across the county's 10 most dangerous intersections, with Birch Run Road and Dixie Highway topping the list at 3",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/see-saginaw-countys-10-most-crash-prone-intersections-of-2025.html",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 15:57:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "FAA says proposed Trump arch will require &#039;eternal flame&#039; on top to alert pilots",
+      "desc": "The Federal Aviation Administration (FAA) said Saturday that President Trump’s proposed Triumphal Arch in Washington, D.C., would require an “eternal flame” on top to alert nearby pilots. “The FAA’s d",
+      "link": "https://thehill.com/homenews/administration/6099725-faa-trump-triumphal-arch-eternal-flame/",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 15:12:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Insider reveals when Kamala Harris may decide on 2028",
+      "desc": "The former vice president will campaign for Democrats in Michigan, Georgia and Nevada in the coming weeks.",
+      "link": "https://www.mlive.com/politics/2026/09/insider-reveals-when-kamala-harris-may-decide-on-2028.html",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Department of State approves potential $2.6 billion military air defense equipment sale to Ukraine",
+      "desc": "The State Department approved a potential $2.6 billion air defense equipment sale to Ukraine Friday as its conflict with Russia resumed following trilateral talks with U.S. special envoys.  In a congr",
+      "link": "https://thehill.com/homenews/administration/6099664-us-approves-potential-ukraine-air-defense-sale/",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 14:21:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Saginaw to host CMU medical school facility groundbreaking",
       "desc": "Plans for a new facility in the riverfront neighborhood were in development for years.",
@@ -20,8 +74,8 @@
       "tag": "safety"
     },
     {
-      "title": "MS NOW says their journalists have been denied access to the White House",
-      "desc": "The White House denied MS NOW journalists access to its grounds Saturday, the network announced, a day after President Trump said he was banning the outlet, along with CNN and Politico, from the premi",
+      "title": "CNN, MS NOW, Politico say their journalists have been denied access to the White House",
+      "desc": "The White House denied CNN, MS NOW and Politico journalists access to its grounds Saturday, the networks announced, a day after President Trump said he was banning them from the premises after accusin",
       "link": "https://thehill.com/homenews/media/6099619-trump-bans-ms-now-cnn-politico/",
       "date": "Sep 19, 2026",
       "rawDate": "Sat, 19 Sep 2026 13:34:23 +0000",
@@ -38,8 +92,8 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Relationship with Canada still rocky ahead of UN General Assembly; AI companies hit with new lawsuit",
-      "desc": "The tension between President Trump and Canadian Prime Minister Mark Carney has intensified since the Canadian leader's visit with the European Union (EU) earlier this week.  U.S. and Canada have cont",
+      "title": "Live updates: CNN, MS NOW, Politico say journalists were denied from White House grounds; AI companies hit with new lawsuit",
+      "desc": "Less than a day after President Trump said he would ban CNN, MS NOW and Politico reporters from the White House, all three outlets said their journalists have been turned away from the White House gro",
       "link": "https://thehill.com/homenews/6099431-live-updates-trump-iran-camp-david/",
       "date": "Sep 19, 2026",
       "rawDate": "Sat, 19 Sep 2026 13:00:00 +0000",
@@ -128,15 +182,6 @@
       "tag": "government"
     },
     {
-      "title": "Why people in the Northeast will be paying higher heating bills this winter",
-      "desc": "As fuel costs rise amid the U.S.-Iran and Russia-Ukraine wars, Americans in the Northeast may have to pay significantly more to heat their homes this winter.  With the price of diesel, in particular, ",
-      "link": "https://thehill.com/policy/energy-environment/6099110-northeast-heating-oil-costs-diesel/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Mathematicians Hate AI. They Can’t Quit It",
       "desc": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
       "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
@@ -191,24 +236,6 @@
       "tag": "technology"
     },
     {
-      "title": "NAACP sues to block Trump administration from sending armed agents to polls",
-      "desc": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsu",
-      "link": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 03:39:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Shapiro fires back at RFK Jr., Trump on measles: &#039;Incompetence&#039;",
-      "desc": "Pennsylvania Gov. Josh Shapiro (D) fired back against at President Trump's Friday Oval Office comments calling him a \"bad governor\" that's \"close to incompetent\" following four measles-related deaths ",
-      "link": "https://thehill.com/homenews/state-watch/6099441-shapiro-trump-kennedy-measles-clash/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 02:48:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hegseth backs Trump on banning media outlets",
       "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Hegseth backs Trump on banning media outlets Defe",
       "link": "https://thehill.com/newsletters/defense-national-security/6099382-hegseth-backs-trump-on-banning-media-outlets/",
@@ -223,17 +250,8 @@
       "link": "https://thehill.com/homenews/senate/6099368-hawley-invites-flock-ai-surveillance-ceos/",
       "date": "Sep 19, 2026",
       "rawDate": "Sat, 19 Sep 2026 00:28:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump officially signs Russia sanctions bill into law",
-      "desc": "President Trump officially signed the Russia sanctions bill into law Friday, which authorizes further sanctions and tariffs against Russia amid the Kremlin’s ongoing conflict with Ukraine. The bill — ",
-      "link": "https://thehill.com/homenews/administration/6099322-trump-signs-russia-sanctions-bill/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 23:47:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Governor talks ‘Hurricane Kiffin,’ National Guard's role",
@@ -270,15 +288,6 @@
       "rawDate": "Fri, 18 Sep 2026 22:55:03 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "GOP senator: Russian oligarch funding Trump Jr.&#8217;s party is &#8216;corruption&#8217;",
-      "desc": "Sen. John Curtis (R-Utah) on Friday ripped President Trump’s son Donald Trump Jr. for letting a Russian oligarch with ties to the Kremlin pay hundreds of thousands of dollars to finance his wedding af",
-      "link": "https://thehill.com/homenews/senate/6099233-curtis-calls-trump-jr-wedding-corruption/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 22:54:49 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Trump touts Medicaid drug savings",
@@ -542,15 +551,6 @@
       "tag": "safety"
     },
     {
-      "title": "Jocelyn Benson adds to call for suspension of federal gas tax",
-      "desc": "Benson’s call did not include a request to suspend the state’s gas tax, unlike Republican Mike Rogers, who’s running in Michigan’s open U.S. Senate race.",
-      "link": "https://www.mlive.com/politics/2026/09/jocelyn-benson-adds-to-call-for-suspension-of-federal-gas-tax.html",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 12:00:17 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Marching bands: Jenison’s center drum major doubles as a star varsity athlete",
       "desc": "Not only does high school senior Devin Butler lead Jenison's marching band, he's also a part of the school's varsity basketball and golf teams. And that's on top of maintaining his 3.9 GPA.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-jenisons-center-drum-major-doubles-as-a-star-varsity-athlete.html",
@@ -558,15 +558,6 @@
       "rawDate": "Fri, 18 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Ottawa County deputies catch man suspected of serial window peeping near GVSU",
-      "desc": "A 34-year-old Grandville man is in custody pending charges for allegedly peeping into off-campus windows, police said.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/ottawa-county-deputies-catch-suspected-serial-window-peeper-near-gvsu.html",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 11:55:52 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "5 key players in Congress on AI policy",
@@ -657,15 +648,6 @@
       "rawDate": "Thu, 17 Sep 2026 21:12:56 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Another GOP lawmaker backs impeachment effort targeting White House",
-      "desc": "The senator already recently urged the president to replace him.",
-      "link": "https://www.mlive.com/politics/2026/09/another-gop-lawmaker-backs-impeachment-effort-targeting-white-house.html",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 20:34:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Haaland backs data center moratorium in New Mexico",
@@ -765,15 +747,6 @@
       "rawDate": "Thu, 17 Sep 2026 16:13:42 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "OpenAI discloses 6 reports of AI models&#039; &#039;unexpected or concerning&#039; behavior",
-      "desc": "OpenAI published six new reports of artificial intelligence models showing “unexpected or concerning” behavior Wednesday as pressure grows on AI firms to be more transparent about the development proc",
-      "link": "https://thehill.com/policy/technology/6095779-openai-ai-misalignment-reports/",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 16:07:32 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Kim introduces bill to eliminate long waiting periods for disability benefits",
@@ -900,15 +873,6 @@
       "rawDate": "Wed, 16 Sep 2026 19:37:50 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Dexter educator named staffing agency’s Michigan Substitute Teacher of the Year",
-      "desc": "The local school district announced the honor Wednesday for Annabel Van Noord.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/dexter-educator-named-staffing-agencys-michigan-substitute-teacher-of-the-year.html",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 19:28:43 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Hawley to push GOP officeholders, candidates to sign ‘Declaration for Life’",

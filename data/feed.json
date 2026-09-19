@@ -1,6 +1,24 @@
 {
-  "generated": "2026-09-19T19:49:08.164Z",
+  "generated": "2026-09-19T21:58:26.660Z",
   "news": [
+    {
+      "title": "Sunday Shows Preview: Trump bans 3 media outlets from White House; Parties make final cases as midterms approach",
+      "desc": "After President Trump announced this week he was banning Politico, CNN and MS NOW from accessing the White House, the three media outlets reported Saturday their journalists were denied access to the ",
+      "link": "https://thehill.com/homenews/sunday-talk-shows/6100005-sunday-shows-trump-press-ban/",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 21:20:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lawmakers see waste in DOGE’s ‘stupid’ $7B buyout costs",
+      "desc": "A new government report showing that the administration spent $7 billion paying staff not to work as it pushed its buyouts is sparking the latest round of scrutiny of President Trump’s DOGE era. A rep",
+      "link": "https://thehill.com/homenews/administration/6098644-trump-doge-buyout-costs/",
+      "date": "Sep 19, 2026",
+      "rawDate": "Sat, 19 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Ohio governor, Senate races nearly tied: Poll",
       "desc": "Ohio’s gubernatorial and U.S. Senate races are neck and neck in new polling released this week.  The Bowling Green State University (BGSU) survey found the Democratic candidates in these races hold 3-",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months",
-      "desc": "U.S. Central Command (Centcom) Admiral Brad Cooper said Saturday that U.S. forces supported the transport of over 1 billion crude oil barrels through the Strait of Hormuz \"in the last couple of months",
+      "desc": "U.S. Central Command (Centcom) Commander Adm. Brad Cooper said Saturday that U.S. forces supported the transport of over 1 billion crude oil barrels through the Strait of Hormuz \"in the last couple of",
       "link": "https://thehill.com/policy/defense/6099888-centcom-billion-barrel-oil-milestone/",
       "date": "Sep 19, 2026",
       "rawDate": "Sat, 19 Sep 2026 18:38:41 +0000",
@@ -101,15 +119,6 @@
       "tag": "safety"
     },
     {
-      "title": "CNN, MS NOW, Politico say their journalists have been denied access to the White House",
-      "desc": "The White House denied CNN, MS NOW and Politico journalists access to its grounds Saturday, the networks announced, a day after President Trump said he was banning them from the premises after accusin",
-      "link": "https://thehill.com/homenews/media/6099619-trump-bans-ms-now-cnn-politico/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 13:34:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Parents charged after boy, 3, fatally shot in Pontiac home",
       "desc": "The parents of a 3-year-old boy who was fatally shot in Pontiac are accused of failing to safely secure a firearm.",
       "link": "https://www.mlive.com/detroit/2026/09/parents-charged-after-boy-3-fatally-shot-in-pontiac-home.html",
@@ -117,24 +126,6 @@
       "rawDate": "Sat, 19 Sep 2026 13:14:54 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Live updates: CNN, MS NOW, Politico say journalists were denied from White House grounds; AI companies hit with new lawsuit",
-      "desc": "Less than a day after President Trump said he would ban CNN, MS NOW and Politico reporters from the White House, all three outlets said their journalists have been turned away from the White House gro",
-      "link": "https://thehill.com/homenews/6099431-live-updates-trump-iran-camp-david/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Why is the Trump administration targeting  foreign journalists?",
-      "desc": "A new policy disturbingly echoes those found in Russia, China and Iran, which use strict visa compliance rules to punish journalists and media outlets that report on their governments unfavorably.",
-      "link": "https://thehill.com/opinion/white-house/6093808-press-freedom-under-threat/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Popular Mexican food truck opens spot at mid-Michigan farmers market",
@@ -160,8 +151,8 @@
       "link": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
       "date": "Sep 19, 2026",
       "rawDate": "Sat, 19 Sep 2026 12:16:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",

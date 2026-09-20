@@ -1,9 +1,63 @@
 {
-  "generated": "2026-09-20T20:03:00.803Z",
+  "generated": "2026-09-20T22:49:21.902Z",
   "news": [
     {
+      "title": "Ann Arbor psychedelic fest keynote speaker: Getting old doesn’t have to be horrible",
+      "desc": "\"I saw the life energy flowing through a tree. And when I close my eyes, I can still conjure that,\" Abbie Rosner told the Entheofest crowd on the University of Michigan Diag on Sunday.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-psychedelic-fest-keynote-speaker-getting-old-doesnt-have-to-be-horrible.html",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 21:38:49 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "This week on the Hill: Senate eyes final passage on college sports bill",
+      "desc": "With the House out of session for the final two weeks of September, the legislative spotlight is squarely on the Senate, where lawmakers face a packed stretch of work on several of the GOP’s remaining",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6099111-senate-protect-college-sports-act-heidi-overton-fda/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+      "desc": "Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for next week.  Trump has dis",
+      "link": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Zelensky to meet with Trump in New York this week",
+      "desc": "President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week, the Ukrainian leader said Sunday. “I just spoke with President Trump @POTUS. An important conversatio",
+      "link": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 20:48:30 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "DDHQ director says Mike Rogers&#039;s time is &#039;running out&#039;",
+      "desc": "Scott Tranter, Decision Desk HQ's (DDHQ) director of data science, on Sunday said that \"time is running out\" for Republican Michigan Senate candidate Mike Rogers to close the gap between him and Democ",
+      "link": "https://thehill.com/homenews/campaign/6100643-michigan-senate-race-forecast/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 20:17:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo County shooting: 1 dead, suspect in custody",
+      "desc": "The investigation continues as authorities seek witnesses.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/kalamazoo-county-shooting-1-dead-suspect-in-custody.html",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 20:13:17 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "Florida Republican calls interim Venezuelan president &#039;necessary evil&#039;",
-      "desc": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday called Venezuela's interim president, Delcy Rodríguez, a \"necessary evil\" until the Latin American country can have free and fair elections. Salazar defend",
+      "desc": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday called Venezuela's interim president Delcy Rodríguez a \"necessary evil\" until the Latin American country can have free and fair elections. Salazar defended",
       "link": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/",
       "date": "Sep 20, 2026",
       "rawDate": "Sun, 20 Sep 2026 19:44:21 +0000",
@@ -117,24 +171,6 @@
       "rawDate": "Sun, 20 Sep 2026 15:11:52 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "A commitment to the First Amendment should not be controversial",
-      "desc": "Across the country, I work with people and organizations that disagree profoundly about politics and public policy but share a basic principle: Americans must remain free to speak, associate, support ",
-      "link": "https://thehill.com/homenews/6098461-protecting-freedom-speech-government-power/",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 15:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Waltz: Trump &#039;absolutely within his rights&#039; to bar reporters &#039;not behaving&#039; in good faith",
-      "desc": "Mike Waltz, the U.S. ambassador to the United Nations, on Sunday said President Trump is \"absolutely within his rights\" to ban CNN, Politico and MS NOW reporters from the White House, claiming the ban",
-      "link": "https://thehill.com/homenews/administration/6100318-waltz-defends-white-house-media-ban/",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 14:36:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Kidney disease of unknown origin spreads in US. Who is at risk?",
@@ -254,8 +290,8 @@
       "tag": "education"
     },
     {
-      "title": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months",
-      "desc": "U.S. Central Command (Centcom) Commander Adm. Brad Cooper said Saturday that U.S. forces supported the transport of over 1 billion crude oil barrels through the Strait of Hormuz \"in the last couple of",
+      "title": "Centcom: More than 1B crude oil barrels passed through Hormuz strait in recent months",
+      "desc": "Adm. Brad Cooper, head of U.S. Central Command (Centcom), said Saturday that U.S. forces supported the transport of more than 1 billion crude oil barrels through the Strait of Hormuz \"in the last coup",
       "link": "https://thehill.com/policy/defense/6099888-centcom-billion-barrel-oil-milestone/",
       "date": "Sep 19, 2026",
       "rawDate": "Sat, 19 Sep 2026 18:38:41 +0000",
@@ -587,15 +623,6 @@
       "tag": "government"
     },
     {
-      "title": "Saginaw man, 71, charged with drunkenly crashing into stopped Michigan State Police vehicle",
-      "desc": "The man allegedly had a blood-alcohol content of 0.257, more than three times the legal limit, when he rear-ended a stopped MSP vehicle.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-71-charged-with-drunkenly-crashing-into-stopped-michigan-state-police-vehicle.html",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 16:44:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Data centers, drawing concerns over water and power, may have another surprise impact: Forever chemicals",
       "desc": "As AI data centers face intense public pushback over issues including their electricity and water use, another potential environmental impact is percolating: the proliferation of forever chemicals. Da",
       "link": "https://thehill.com/policy/energy-environment/6098173-ai-data-centers-forever-chemicals-pfas-water-power/",
@@ -659,18 +686,18 @@
       "tag": "health"
     },
     {
-      "title": "Northwest High School jazz band performs at Detroit Jazz Festival",
-      "desc": "The festival, which bills itself as the world’s largest free jazz festival, drew over 300,000 attendees to downtown Detroit and reached an estimated 1.5 million global viewers.",
-      "link": "https://www.mlive.com/news/jackson/2026/09/northwest-high-school-jazz-band-performs-at-detroit-jazz-festival.html",
+      "title": "Marching bands: See what West Michigan’s Flight V bands are performing in 2026",
+      "desc": "West Michigan's Flight V marching bands include Watervliet, Kent City, Newaygo, Belding, Grant, Orchard View, Comstock Park and Allegan high schools.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-what-west-michigans-flight-v-bands-are-performing-in-2026.html",
       "date": "Sep 18, 2026",
       "rawDate": "Fri, 18 Sep 2026 13:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Marching bands: See what West Michigan’s Flight V bands are performing in 2026",
-      "desc": "West Michigan's Flight V marching bands include Watervliet, Kent City, Newaygo, Belding, Grant, Orchard View, Comstock Park and Allegan high schools.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-what-west-michigans-flight-v-bands-are-performing-in-2026.html",
+      "title": "Northwest High School jazz band performs at Detroit Jazz Festival",
+      "desc": "The festival, which bills itself as the world’s largest free jazz festival, drew over 300,000 attendees to downtown Detroit and reached an estimated 1.5 million global viewers.",
+      "link": "https://www.mlive.com/news/jackson/2026/09/northwest-high-school-jazz-band-performs-at-detroit-jazz-festival.html",
       "date": "Sep 18, 2026",
       "rawDate": "Fri, 18 Sep 2026 13:00:00 +0000",
       "source": "MLive Education",
@@ -873,24 +900,6 @@
       "rawDate": "Thu, 17 Sep 2026 14:54:52 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump administration allows truck drivers hauling gas, diesel to work longer hours",
-      "desc": "Transportation Secretary Sean Duffy announced Wednesday the Trump administration will temporarily increase how long gas and diesel truck drivers can drive, as fuel costs remain elevated amid the Iran ",
-      "link": "https://thehill.com/policy/energy-environment/6095013-trump-administration-gas-diesel-truck-drivers-hours/",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 14:32:12 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Marching bands: 4 storylines to follow through the 2026 competitive season",
-      "desc": "From cross-state rivalries to one band's first trip to Grand Nationals in 35 years, here are a few storylines MLive is tracking as the competitive marching band season gets underway.",
-      "link": "https://www.mlive.com/news/2026/09/marching-bands-4-storylines-to-follow-through-the-2026-competitive-season.html",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 13:15:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "New York launches tracker as measles cases hit 57",

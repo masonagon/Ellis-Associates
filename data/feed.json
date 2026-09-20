@@ -1,6 +1,96 @@
 {
-  "generated": "2026-09-20T13:21:52.176Z",
+  "generated": "2026-09-20T17:10:42.828Z",
   "news": [
+    {
+      "title": "Man killed after domestic dispute in Oakland County, suspect hospitalized",
+      "desc": "A confrontation involving a man, his estranged wife, and another man left one dead and one hospitalized, police said.",
+      "link": "https://www.mlive.com/news/2026/09/man-killed-after-domestic-dispute-in-oakland-county-suspect-hospitalized.html",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 17:08:23 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Khanna calls for a government agency to oversee AI &#039;like the FDA&#039;",
+      "desc": "Rep. Ro Khanna (D-Calif.) on Sunday said that the federal government should create a regulatory agency to oversee the development of artificial intelligence (AI), similar to the Food and Drug Administ",
+      "link": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 16:26:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Soaring diesel prices pose latest economic headache for GOP",
+      "desc": "Rising diesel prices are proving to be a particular problem for Republicans as surging energy costs sour the economic mood just 45 days out from the midterms.  The national average for diesel jumped 4",
+      "link": "https://thehill.com/policy/transportation/6096876-diesel-price-of-gas-oil-midterms/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan State University shifts to online classes after power outage",
+      "desc": "The East Lansing campus will operate remotely through Monday as crews work to restore hot water service to residence halls and campus buildings.",
+      "link": "https://www.mlive.com/news/2026/09/michigan-state-university-shifts-to-online-classes-after-power-outage.html",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 15:52:50 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Moore says Trump uses Constitution like a &#039;suggestion box&#039; in banning CNN, Politico, MS NOW reporters from White House",
+      "desc": "Maryland Gov. Wes Moore (D) on Sunday accused President Trump of using the Constitution as a \"suggestion box\" with his ban on CNN, Politico and MS NOW reporters covering the White House. Moore said in",
+      "link": "https://thehill.com/homenews/media/6100320-wes-moore-trump-press-ban/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 15:21:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Marching bands: See the winners from the Jenison Invitational",
+      "desc": "The competition featured marching bands from across West Michigan.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-the-winners-from-the-jenison-invitational.html",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 15:11:52 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "A commitment to the First Amendment should not be controversial",
+      "desc": "Across the country, I work with people and organizations that disagree profoundly about politics and public policy but share a basic principle: Americans must remain free to speak, associate, support ",
+      "link": "https://thehill.com/homenews/6098461-protecting-freedom-speech-government-power/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Waltz says Trump &#039;absolutely within his rights&#039; to bar reporters &#039;not behaving&#039; in good faith",
+      "desc": "U.S. Ambassador to the United Nations Mike Waltz on Sunday said President Trump is \"absolutely within his rights\" to ban CNN, Politico and MS NOW reporters from the White House, claiming the ban preve",
+      "link": "https://thehill.com/homenews/administration/6100318-waltz-defends-white-house-media-ban/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 14:36:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kidney disease of unknown origin spreads in US. Who is at risk?",
+      "desc": "People with CKDu don't have the classic risk factors of kidney disease, like hypertension or diabetes.",
+      "link": "https://thehill.com/policy/healthcare/6093346-kidney-disease-of-unknown-origin-spreads-in-us-who-is-at-risk/",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 14:30:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Freeway shooting on I-94 in metro Detroit under investigation",
+      "desc": "A shooting on eastbound I-94 left one person injured late Saturday, police said.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/freeway-shooting-on-i-94-in-metro-detroit-under-investigation.html",
+      "date": "Sep 20, 2026",
+      "rawDate": "Sun, 20 Sep 2026 13:35:47 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Driver killed in fiery Grand Rapids crash",
       "desc": "The crash happened Sunday morning on the city's southwest side.",
@@ -52,26 +142,8 @@
       "link": "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/",
       "date": "Sep 20, 2026",
       "rawDate": "Sun, 20 Sep 2026 11:52:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Obama rips Trump over AI policy amid &#8216;doomsday&#8217; warnings",
-      "desc": "Former President Obama on Friday slammed President Trump over his handling of how to approach artificial intelligence (AI) amid &#8220;doomsday&#8221; warnings coming from some in the tech industry ab",
-      "link": "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 11:52:36 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "State of Texas: Race for Texas senate, governor heating up",
-      "desc": "As we quickly approach the start of early voting in Texas, a new poll released by Nexstar Media and Emerson College showed that both the Texas Governor's race and the Texas Senate race are heating up.",
-      "link": "https://thehill.com/homenews/state-watch/6100074-state-of-texas-race-for-texas-senate-governor-heating-up/",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 11:07:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
@@ -90,24 +162,6 @@
       "rawDate": "Sun, 20 Sep 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Republicans see bright spot in New Hampshire with Sununu",
-      "desc": "A political family dynasty, a strong Republican governor and an influx of GOP cash threatens to put Democrats on defense in New Hampshire as Republicans see a prime pickup opportunity in the marquee S",
-      "link": "https://thehill.com/homenews/campaign/6098972-sununu-pappas-new-hampshire-senate/",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Gavin Newsom faces challenge of moving from Trump troller to national winner",
-      "desc": "As Gavin Newsom prepares to leave his job as governor of California after eight years, the question he faces isn’t whether he wants to run for president, but how competitive he can be in what is expec",
-      "link": "https://thehill.com/homenews/campaign/6098911-newsom-2028-presidential-outlook/",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
@@ -137,15 +191,6 @@
       "tag": "technology"
     },
     {
-      "title": "Trump returns to White House as State Department issues security alerts for Middle East",
-      "desc": "President Trump cut his weekend trip to Camp David short a day early, returning to Washington, D.C., on Saturday evening.  The president touched down at the Ellipse just before 8 p.m., according to a ",
-      "link": "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early/",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 01:28:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Sheriff seeking help for surviving farm animals after sheep found dead on abandoned property",
       "desc": "The Genesee County Sheriff's Office is looking to place at least four animals, according to the video.",
       "link": "https://www.mlive.com/news/flint/2026/09/sheriff-seeking-help-for-surviving-farm-animals-after-sheep-found-dead-on-abandoned-property.html",
@@ -155,15 +200,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump&#039;s MAGA Inc. funnels another $5 million into Texas Senate race",
-      "desc": "President Trump’s super PAC, MAGA Inc., poured an additional $5 million into the Texas Senate race, according to a new Federal Election Commission (FEC) filing published Saturday.  The funds were earm",
-      "link": "https://thehill.com/homenews/campaign/6100079-trumps-maga-inc-funnels-another-5-million-into-texas-senate-race/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 23:53:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Performance canceled, dining halls closed amid power outage at Michigan State University",
       "desc": "It was not clear when power would be restored.",
       "link": "https://www.mlive.com/news/2026/09/performance-canceled-dining-halls-closed-amid-campus-wide-power-outage.html",
@@ -171,15 +207,6 @@
       "rawDate": "Sat, 19 Sep 2026 23:39:08 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Newsom signs laws aimed at preventing election interference",
-      "desc": "California Gov. Gavin Newsom (D) on Saturday signed a legislation package aimed at safeguarding the state’s election process against potential interference in the upcoming midterm elections. The Democ",
-      "link": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 22:29:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months",
@@ -533,15 +560,6 @@
       "tag": "technology"
     },
     {
-      "title": "Saginaw man gets prison time for stabbing, trying to kill man at East Side gas station",
-      "desc": "The violence erupted during a dispute over childcare.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-man-gets-prison-time-for-stabbing-trying-to-kill-man-at-east-side-gas-station.html",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 16:17:19 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Marching bands: See performance times, ticket prices for West Michigan’s first 2026 competition",
       "desc": "The competitive marching band season starts Saturday with a Scholastic and MCBA invitational at Jenison High School.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-performance-times-ticket-prices-for-west-michigans-first-2026-competition.html",
@@ -567,15 +585,6 @@
       "rawDate": "Fri, 18 Sep 2026 14:41:04 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Rebecca Park’s accused killers back in court, witnesses to testify",
-      "desc": "Rebecca Park and her unborn son were murdered in November.",
-      "link": "https://www.mlive.com/news/2026/09/rebecca-parks-accused-killers-back-in-court-witnesses-to-testify.html",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 14:26:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Trump gives brutal 2-word reply to ex-insider praying for him",
@@ -605,18 +614,18 @@
       "tag": "health"
     },
     {
-      "title": "Northwest High School jazz band performs at Detroit Jazz Festival",
-      "desc": "The festival, which bills itself as the world’s largest free jazz festival, drew over 300,000 attendees to downtown Detroit and reached an estimated 1.5 million global viewers.",
-      "link": "https://www.mlive.com/news/jackson/2026/09/northwest-high-school-jazz-band-performs-at-detroit-jazz-festival.html",
+      "title": "Marching bands: See what West Michigan’s Flight V bands are performing in 2026",
+      "desc": "West Michigan's Flight V marching bands include Watervliet, Kent City, Newaygo, Belding, Grant, Orchard View, Comstock Park and Allegan high schools.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-what-west-michigans-flight-v-bands-are-performing-in-2026.html",
       "date": "Sep 18, 2026",
       "rawDate": "Fri, 18 Sep 2026 13:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "Marching bands: See what West Michigan’s Flight V bands are performing in 2026",
-      "desc": "West Michigan's Flight V marching bands include Watervliet, Kent City, Newaygo, Belding, Grant, Orchard View, Comstock Park and Allegan high schools.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-what-west-michigans-flight-v-bands-are-performing-in-2026.html",
+      "title": "Northwest High School jazz band performs at Detroit Jazz Festival",
+      "desc": "The festival, which bills itself as the world’s largest free jazz festival, drew over 300,000 attendees to downtown Detroit and reached an estimated 1.5 million global viewers.",
+      "link": "https://www.mlive.com/news/jackson/2026/09/northwest-high-school-jazz-band-performs-at-detroit-jazz-festival.html",
       "date": "Sep 18, 2026",
       "rawDate": "Fri, 18 Sep 2026 13:00:00 +0000",
       "source": "MLive Education",
@@ -747,15 +756,6 @@
       "rawDate": "Thu, 17 Sep 2026 20:03:07 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Senate Democrat blocks House-passed bill on data center electricity costs",
-      "desc": "Sen. Martin Heinrich (D-N.M.) blocked Sen. Jon Husted’s (R-Ohio) Thursday effort to unanimously pass a bill that seeks to force states to consider making tech companies cover their data centers’ elect",
-      "link": "https://thehill.com/policy/energy-environment/6096398-heinrich-blocks-husted-data-center-bill/",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 19:24:02 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "US troops need to prepare for combat around the moon: Joint Chiefs chair",
@@ -889,33 +889,6 @@
       "link": "https://thehill.com/policy/healthcare/6094053-help-committee-surgeon-general-hearing/",
       "date": "Sep 16, 2026",
       "rawDate": "Wed, 16 Sep 2026 22:00:35 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Mott Community College’s  semiquincentennial celebration to feature lawn party, laser light show",
-      "desc": "The event at Mott Community College's Flint campus is free and open to the public.",
-      "link": "https://www.mlive.com/news/flint/2026/09/mott-community-colleges-semiquincentennial-celebration-to-feature-lawn-party-laser-light-show.html",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 20:55:24 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "University of Michigan police issue warning ahead of this weekend’s Entheofest",
-      "desc": "The University of Michigan Police Department has a message for anyone planning to attend the sixth-annual Entheofest on the Central Campus Diag this weekend.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/university-of-michigan-police-issue-warning-ahead-of-this-weekends-entheofest.html",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 20:01:02 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Hawley to push GOP officeholders, candidates to sign ‘Declaration for Life’",
-      "desc": "Sen. Josh Hawley (R-Mo.) is working with Christian groups to push Republican officeholders and candidates to sign a \"Declaration for Life\" pledge to fight for legislation to restrict abortion. Hawley ",
-      "link": "https://thehill.com/homenews/senate/6093111-josh-hawley-abortion-declaration-life-republicans/",
-      "date": "Sep 16, 2026",
-      "rawDate": "Wed, 16 Sep 2026 16:15:05 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

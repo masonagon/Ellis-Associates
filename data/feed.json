@@ -1,6 +1,96 @@
 {
-  "generated": "2026-09-21T21:28:50.123Z",
+  "generated": "2026-09-22T00:26:12.323Z",
   "news": [
+    {
+      "title": "UN panel calls for guardrails on AI as current safeguards are &#039;unraveling&#039;",
+      "desc": "The United Nations-backed Independent International Scientific Panel on AI on Monday urged world leaders and tech companies to implement new safeguards on artificial intelligence, with the concern tha",
+      "link": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 00:08:36 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Michigan State University classes go remote after ‘unprecedented’ outage",
+      "desc": "The East Lansing campus continues recovery efforts as teams work around the clock to restore hot water service.",
+      "link": "https://www.mlive.com/news/2026/09/michigan-state-university-classes-go-remote-after-unprecedented-outage.html",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 23:47:09 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "16-year-old hospitalized after Kalamazoo shooting Monday, police say",
+      "desc": "The shooting was reported on Fox Ridge Road on the city’s northwest side.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/16-year-old-hospitalized-after-kalamazoo-shooting-monday-police-say.html",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 23:08:21 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Kamala Harris set to join El-Sayed in Michigan",
+      "desc": "The events Tuesday will be an opportunity for the Democratic U.S. Senate nominee to tout one of his campaign priorities -access to healthcare.",
+      "link": "https://www.mlive.com/politics/2026/09/kamala-harris-set-to-join-el-sayed-in-michigan.html",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 22:55:21 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Memo: Trump’s latest war on the media met with lawsuit, TV boycott",
+      "desc": "An all-out confrontation between President Trump and the media escalated Monday, as three banned outlets launched a legal fight, Trump compared some reporting to “cancer,” and five major TV networks c",
+      "link": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 22:45:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Former WHCA president on Trump&#039;s press ban: &#039;An attack on one outlet is an attack on everyone&#039;",
+      "desc": "Former White House Correspondents' Association (WHCA) president Weijia Jiang on Sunday said President Trump's ban on CNN, Politico and MS NOW reporters from covering the White House was an \"attack\" on",
+      "link": "https://thehill.com/media/6102786-trump-whca-media-ban/",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 22:40:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hegseth to chair Pentagon’s new homeland defense panel",
+      "desc": "Defense Secretary Pete Hegseth will now oversee a new Pentagon advisory committee focused on homeland security and defense — the first such department panel to do so. The Homeland Defense Board (HDB),",
+      "link": "https://thehill.com/policy/defense/6102879-hegseth-establishes-pentagon-homeland-defense-board/",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 22:25:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Appeals court reinstates GOP House map in Missouri for November election",
+      "desc": "A federal appeals court reinstated the Missouri GOP's 7-1 House map to be used in time for the November elections, delivering a boost for several Republican candidates who wanted a more favorable map ",
+      "link": "https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map/",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 22:05:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump expecting district court loss over lawsuit from CNN, MS NOW, Politico",
+      "desc": "President Trump railed against the judge who has been assigned to a case seeking to challenge his ban on three media outlets from covering the White House and telegraphed he might be forced to let the",
+      "link": "https://thehill.com/homenews/media/6102743-trump-white-house-press-ban-lawsuit/",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 21:46:21 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fox News makes stunning move against Trump. Here’s what to know",
+      "desc": "Five major networks are refusing their duties after the president banned CNN, MS NOW and Politico from reporting on White House grounds.",
+      "link": "https://www.mlive.com/politics/2026/09/fox-news-makes-stunning-move-against-trump-heres-what-to-know.html",
+      "date": "Sep 21, 2026",
+      "rawDate": "Mon, 21 Sep 2026 21:32:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
     {
       "title": "Rogers calls for end to war in Iran: &#039;Michigan families can&#039;t afford to wait&#039;",
       "desc": "Former Rep. Mike Rogers (Mich.), the Republican Senate candidate in Michigan, on Monday said \"Michigan families can't afford to wait\" for the Iran war to reach its conclusion, calling for an end to th",
@@ -20,42 +110,6 @@
       "tag": "safety"
     },
     {
-      "title": "Live updates: Trump arrives in NYC; TV networks pull out of White House pool as banned outlets sue",
-      "desc": "President Trump arrived in New York City Monday afternoon, kicking off a busy week. He is set to meet with Mayor Zohran Mamdani (D) and French President Emmanuel Macron later Monday, on the sidelines ",
-      "link": "https://thehill.com/homenews/6100754-live-updates-trump-white-house-media-ban-united-nations-general-assembly/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 20:36:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fewer Democrats planning to cast mail-in ballots in midterms: Survey",
-      "desc": "More Democrats plan to vote in person as President Trump ramps up his attacks on casting mail-in ballots, according to a new poll released Sunday. NBC News's latest poll shows that 36 percent of regis",
-      "link": "https://thehill.com/homenews/campaign/6102420-democrats-plan-early-voting/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 20:27:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump move to ban news outlets blows up at White House",
-      "desc": "President Trump’s abrupt move to withdraw White House press credentials for three news organizations triggered a rare moment of unity among television networks, with several media outlets announcing M",
-      "link": "https://thehill.com/homenews/administration/6102606-trump-bans-white-house-press/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 20:26:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP leaders face challenge from lame-duck lawmakers in both parties",
-      "desc": "Lame-duck lawmakers in the lower chamber are going out with guns blazing. In a series of extraordinary moves ahead of the midterms, soon-to-depart members forced votes on long-shot impeachments, carri",
-      "link": "https://thehill.com/homenews/house/6098697-lame-duck-lawmakers-going-rogue/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 20:15:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Front-runner in 2028 polls likely won’t run, ex-insiders predict",
       "desc": "Early polls among likely Democratic voters find her winning out over a possible field.",
       "link": "https://www.mlive.com/politics/2026/09/front-runner-in-2028-polls-likely-wont-run-ex-insiders-predict.html",
@@ -70,8 +124,8 @@
       "link": "https://thehill.com/policy/healthcare/6102442-collins-murray-omb-nih-grants/",
       "date": "Sep 21, 2026",
       "rawDate": "Mon, 21 Sep 2026 20:02:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Man accused of killing his brother in Kalamazoo County",
@@ -81,33 +135,6 @@
       "rawDate": "Mon, 21 Sep 2026 19:57:07 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Bessent says he has &#039;great confidence&#039; in Warsh after Fed raises rates",
-      "desc": "Treasury Secretary Scott Bessent said Monday he has “great confidence” in Federal Reserve Chair Kevin Warsh after the central bank raised interest rates by a quarter point against the wishes of Presid",
-      "link": "https://thehill.com/business/6102424-bessent-supports-warsh-after-fed-hike/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 19:56:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump inaudible at helipad ribbon cutting amid press pool fight",
-      "desc": "President Trump was inaudible in live footage at a ribbon-cutting ceremony unveiling the new South Lawn helipad at the White House on Monday after major television outlets covering Trump said they wou",
-      "link": "https://thehill.com/homenews/administration/6102467-trump-white-house-helipad-inaudible/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 19:49:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House Republican signals opposition to                 using military funds for Trump’s arch",
-      "desc": "Rep. Mike Simpson (R-Idaho), a senior member of the House Appropriations Committee, said Monday that he thinks Pentagon funding should not be used toward the construction of President Trump’s triumpha",
-      "link": "https://thehill.com/homenews/house/6102459-mike-simpson-opposes-pentagon-arch-funding/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 19:37:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "MLive prevails in fight to unseal secret probe of former Michigan teacher charged with sex crimes",
@@ -425,7 +452,7 @@
       "tag": "associations"
     },
     {
-      "title": "The Search for Silicon Valley��s Most Powerful Woman",
+      "title": "The Search for Silicon Valley’s Most Powerful Woman",
       "desc": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why.",
       "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
       "date": "Sep 21, 2026",
@@ -504,15 +531,6 @@
       "rawDate": "Sun, 20 Sep 2026 18:19:49 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Man killed after domestic dispute in Oakland County, suspect hospitalized",
-      "desc": "A confrontation involving a man, his estranged wife, and another man left one dead and one hospitalized, police said.",
-      "link": "https://www.mlive.com/news/2026/09/man-killed-after-domestic-dispute-in-oakland-county-suspect-hospitalized.html",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 17:08:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Khanna calls for a government agency to oversee AI &#039;like the FDA&#039;",
@@ -623,15 +641,6 @@
       "tag": "education"
     },
     {
-      "title": "Insider reveals when Kamala Harris may decide on 2028",
-      "desc": "The former vice president will campaign for Democrats in Michigan, Georgia and Nevada in the coming weeks.",
-      "link": "https://www.mlive.com/politics/2026/09/insider-reveals-when-kamala-harris-may-decide-on-2028.html",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 15:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Saginaw to host CMU medical school facility groundbreaking",
       "desc": "Plans for a new facility in the riverfront neighborhood were in development for years.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-to-host-cmu-medical-school-facility-groundbreaking.html",
@@ -639,15 +648,6 @@
       "rawDate": "Sat, 19 Sep 2026 14:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Popular Mexican food truck opens spot at mid-Michigan farmers market",
-      "desc": "A mid-Michigan food truck that has grown in popularity with its nachos, birria tacos and tacos being dished out at businesses, festivals and events has found a new home in a local farmers market.",
-      "link": "https://www.mlive.com/news/flint/2026/09/popular-mexican-food-truck-opens-spot-at-mid-michigan-farmers-market.html",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 12:30:23 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI, Google of AI pacing &#039;collusion&#039;",
@@ -749,24 +749,6 @@
       "tag": "technology"
     },
     {
-      "title": "Data centers, drawing concerns over water and power, may have another surprise impact: Forever chemicals",
-      "desc": "As AI data centers face intense public pushback over issues including their electricity and water use, another potential environmental impact is percolating: the proliferation of forever chemicals. Da",
-      "link": "https://thehill.com/policy/energy-environment/6098173-ai-data-centers-forever-chemicals-pfas-water-power/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 16:43:39 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Marching bands: See performance times, ticket prices for West Michigan’s first 2026 competition",
-      "desc": "The competitive marching band season starts Saturday with a Scholastic and MCBA invitational at Jenison High School.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/marching-bands-see-performance-times-ticket-prices-for-west-michigans-first-2026-competition.html",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 16:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Second death confirmed in Bronx Legionnaires&#039; disease cluster",
       "desc": "As of Thursday, 13 people had tested positive for the disease and two were still in the hospital.",
       "link": "https://thehill.com/homenews/state-watch/6097870-ronx-legionnaires-cluster-new-york/",
@@ -853,15 +835,6 @@
       "link": "https://thehill.com/homenews/campaign/6096459-mike-rogers-gas-tax-suspension/",
       "date": "Sep 17, 2026",
       "rawDate": "Thu, 17 Sep 2026 20:03:07 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US troops need to prepare for combat around the moon: Joint Chiefs chair",
-      "desc": "U.S. troops must prepare for combat around the moon in addition to Earth’s orbit, according to Joint Chiefs of Staff Chair Gen. Dan Caine. Speaking at the Air, Space and Cyber Conference on Wednesday,",
-      "link": "https://thehill.com/policy/defense/6096404-caine-us-military-space-combat/",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 19:19:22 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
     },

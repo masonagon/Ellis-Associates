@@ -1,13 +1,229 @@
 {
-  "generated": "2026-09-22T10:40:01.943Z",
+  "generated": "2026-09-22T15:17:51.300Z",
   "news": [
     {
-      "title": "Is a Home Security System Subscription Worth It? (2026)",
-      "desc": "Just about every home security system has paid options, but with a little effort and a focus on local storage, you can build your own without the recurring costs.",
-      "link": "https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/",
+      "title": "Trump lashes out at CNN reporter barred from White House: ‘You should not be here’",
+      "desc": "President Donald Trump lashed out at CNN reporter Kaitlan Collins as he arrived at the United Nations headquarters on Tuesday.",
+      "link": "https://www.mlive.com/politics/2026/09/trump-lashes-out-at-cnn-reporter-barred-from-white-house-you-should-not-be-here.html",
       "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 10:36:00 +0000",
+      "rawDate": "Tue, 22 Sep 2026 15:00:08 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump finds rampant noncitizen voting in … Ken Paxton’s Texas",
+      "desc": "A report from the U.S. Census Bureau alleging thousands of noncitizen voters in the 2020 election has prompted questions regarding whether Texas Attorney General Ken Paxton and the federal government ",
+      "link": "https://thehill.com/opinion/white-house/6103023-trump-voter-data-accuracy/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "California senators call for probe into Trump administration election operation",
+      "desc": "Sens. Alex Padilla (D-Calif.) and Adam Schiff (D-Calif.) on Sunday called on California Attorney General Rob Bonta (D) to launch a probe into a whistleblower's allegations that the Trump administratio",
+      "link": "https://thehill.com/homenews/senate/6103744-california-senators-probe-trump-voter-data/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:56:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump tells CNN&#039;s Collins &#039;you shouldn&#039;t be here&#039; on way into UN",
+      "desc": "President Trump on Tuesday brushed aside questions from CNN Chief White House correspondent Kaitlan Collins amid his push to block the network and two other outlets from covering the White House.  Dur",
+      "link": "https://thehill.com/homenews/administration/6103823-trump-collins-white-house-un-assembly/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:54:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "4 ejected, including 1 for fighting, from Michigan Stadium during UTEP game",
+      "desc": "Several people were also taken to the hospital for alcohol-related reasons.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/4-ejected-including-1-for-fighting-from-michigan-stadium-during-utep-game.html",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:51:26 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "El-Sayed on Carlson praise: MAGA &#039;eating itself&#039;",
+      "desc": "Michigan Senate candidate Abdul El-Sayed (D) said President Trump’s MAGA movement is “eating itself” after conservative commentator Tucker Carlson praised the progressive while tearing into his GOP op",
+      "link": "https://thehill.com/homenews/campaign/6103775-abdul-el-sayed-tucker-carlson-trump-maga-movement-2026-midterms/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:39:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Vance, Oz to announce crackdown on alleged Obamacare fraud",
+      "desc": "Vice President Vance and Dr. Mehmet Oz, who leads the Centers for Medicare and Medicaid Services (CMS), are expected to announce a new crackdown Tuesday on alleged fraud in Affordable Care Act insuran",
+      "link": "https://thehill.com/video-clips/6103679-watch-live-jd-vance-mehmet-oz-obamacare-alleged-fraud-trump-admin/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:38:29 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "CNN reporter barred from White House clashes with Trump official over press ban",
+      "desc": "CNN reporter Kaitlan Collins pressed national security adviser Michael Waltz about President Donald Trump’s decision to ban three news outlets.",
+      "link": "https://www.mlive.com/politics/2026/09/cnn-reporter-barred-from-white-house-clashes-with-trump-official-over-press-ban.html",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:20:57 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump &#039;definitely backed into a corner&#039;: Former press secretary",
+      "desc": "Former White House press secretary Stephanie Grisham said Monday that President Trump is in a tight spot with his restrictions on media outlets. “Well, he's definitely backed into a corner, but he's n",
+      "link": "https://thehill.com/homenews/media/6103739-grisham-trumpet-doubling-down/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:19:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "O&#039;Reilly: &#039;Republicans can&#039;t survive the anger that people are feeling&#039; on spending",
+      "desc": "Political commentator Bill O’Reilly on Monday said Republicans cannot survive the anger people are feeling about the ongoing affordability crisis ahead of the 2026 midterm elections. Appearing on News",
+      "link": "https://thehill.com/homenews/campaign/6103707-bill-oreilly-warns-gop-midterms/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:17:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Genesee ISD superintendent to retire next year, successor already named",
+      "desc": "Superintendent Steven Tunnicliff is set to retire in June 2027 after serving in the role for about six years.",
+      "link": "https://www.mlive.com/news/flint/2026/09/genesee-isd-superintendent-to-retire-next-year-successor-already-named.html",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:15:57 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Jon Stewart rips Trump&#039;s media ban: &#039;Have you tried presidenting better?&#039;",
+      "desc": "Jon Stewart is railing against President Trump's White House ban on three media organizations, saying the \"authoritarian crackdown\" won't bring down fuel prices or improve the job he's doing as comman",
+      "link": "https://thehill.com/blogs/in-the-know/6103689-jon-stewart-trump-media-ban-daily-show/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:07:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump needs to be bold, direct with Xi over Taiwan dispute",
+      "desc": "As Trump’s prospects for electoral redemption seemingly sink into oblivion, his negotiating position confronting Xi on trade and Taiwan are at the vanishing point.",
+      "link": "https://thehill.com/opinion/international/6102603-trump-xi-summit-taiwan-strategy/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 14:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Jennings: Trump &#039;unlikely to prevail in court&#039; on press ban, has &#039;less reach&#039;",
+      "desc": "Scott Jennings said Monday that President Trump’s decision to ban MS NOW, CNN and Politico from the White House is “unlikely to prevail in court” after the three outlets announced they will mount a le",
+      "link": "https://thehill.com/media/6103615-jennings-predicts-trump-media-lawsuit/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:59:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man found dead in Genesee Township driveway after shooting",
+      "desc": "The incident is under investigation.",
+      "link": "https://www.mlive.com/news/flint/2026/09/man-found-dead-in-genesee-township-driveway-after-shooting.html",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:56:23 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jackson County launches campaign to connect adults with tuition-free college opportunities",
+      "desc": "Jackson County is launching a new campaign to help adult residents access tuition-free community college through Michigan Reconnect, a state program that covers costs for eligible Michigan residents a",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/jackson-county-launches-campaign-to-connect-adults-with-tuition-free-college-opportunities.html",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:43:53 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
+      "desc": "KYIV, Ukraine (AP) — Russia bombarded at least four Ukrainian regions overnight with missiles and drones, killing five people, officials said Tuesday, and Ukraine��s forces damaged another Russian oil",
+      "link": "https://thehill.com/policy/defense/russia-ukraine-strikes-zelensky-trump/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:24:48 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "White House gets blasted over ‘Trump TV’ launch: ‘State-run media’",
+      "desc": "The new platform debuts days after CNN, MS NOW and Politico were banned from the White House complex.",
+      "link": "https://www.mlive.com/politics/2026/09/white-house-gets-blasted-over-trump-tv-launch-state-run-media.html",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:24:15 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Almost 2 in 3 say US not winning Iran war: Survey",
+      "desc": "Almost 2 in 3 Americans said in a new poll that the United States is not winning the war in Iran and that President Trump is not doing enough to end the ongoing conflict. In the CNN and SSRS poll, rel",
+      "link": "https://thehill.com/policy/defense/6103373-poll-trump-iran-war/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:18:16 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Airports resume operations after massive disruptions in Northeast",
+      "desc": "Flights resumed at several major East Coast airports following a telecommunications disruption that resulted in disruptions for thousands of flights Monday.  The Federal Aviation Administration (FAA) ",
+      "link": "https://thehill.com/policy/transportation/6103350-new-york-philadelphia-boston-airports-resume-flights-after-disruption/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:14:08 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+      "desc": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+      "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:00:00 +0000",
       "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
+      "desc": "The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.",
+      "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "desc": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+      "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Hope College’s $65M academic building project taking shape in downtown Holland",
+      "desc": "The $65 million facility was described by Hope College leaders as its “largest academic building project” to date.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/hope-colleges-65m-academic-building-project-taking-shape-in-downtown-holland.html",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 12:09:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Beyer calls on FAA to suspend AI system for DC-area airports: &#039;Guinea pigs&#039;",
+      "desc": "A top Democrat is calling on the Trump administration to halt the implementation of a new artificial intelligence system designed to streamline air travel. Rep. Don Beyer (D-Va.) warned that the Feder",
+      "link": "https://thehill.com/policy/transportation/6103213-don-beyer-faa-ai-tool-air-traffic-control-criticism/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 11:02:55 +0000",
+      "source": "The Hill Tech",
       "tag": "technology"
     },
     {
@@ -15,7 +231,16 @@
       "desc": "Andy Burnham once kept Palantir out of Greater Manchester. His first test as prime minister is whether to cut the company’s £330 million NHS contract—and risk a rupture with Big Tech and Washington.",
       "link": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
       "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "rawDate": "Tue, 22 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Is a Home Security System Subscription Worth It? (2026)",
+      "desc": "Just about every home security system has paid options, but with a little effort and a focus on local storage, you can build your own without the recurring costs.",
+      "link": "https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 10:36:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -38,49 +263,13 @@
       "tag": "government"
     },
     {
-      "title": "Newsom eyes 2028 as Democrats weigh their political future",
-      "desc": "Join The Hill’s Ian Swanson, Amie Parnes and special guest Democratic strategist Garry South, who has advised California Gov. Gavin Newsom (D), for a special \"Fight for 2028\" centered on the latest in",
-      "link": "https://thehill.com/homenews/campaign/fight-for-2028/6102239-gavin-newsom-2028-democratic-party-future-live-discussion/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump floods the zone with press ban, triumphal arch, Kennedy Center",
-      "desc": "President Trump in the last four days has discussed putting snipers and drones in the triumphal arch he plans as a gateway to the Capitol. He’s also banned three media organizations from the White Hou",
-      "link": "https://thehill.com/homenews/administration/6102803-trump-economy-midterm-concerns/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Republicans walk a Trump tightrope heading into midterms",
-      "desc": "Republicans are increasingly putting daylight between themselves and President Trump as November’s elections draw closer, highlighting the political tightrope facing members in competitive races. In r",
-      "link": "https://thehill.com/homenews/house/6102813-gop-lawmakers-distance-trump-midterms/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Hung Cao&#039;s bid for Navy secretary faces choppy waters post-USS Abraham Lincoln",
       "desc": "President Trump’s official nomination of Hung Cao to be Navy secretary is already in jeopardy after Democratic senators indicated they won’t vote in favor of giving him the waiver needed to serve. Cao",
       "link": "https://thehill.com/policy/defense/6102669-trump-hung-cao-waiver-jeopardy/",
       "date": "Sep 22, 2026",
       "rawDate": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Proposed diesel export ban pits GOP senators against each other",
-      "desc": "Senate Republicans are clashing over a proposal endorsed by Sen. Chuck Grassley (Iowa) and other farm-state Republicans to embargo the export of diesel to increase supply and lower prices at home, som",
-      "link": "https://thehill.com/homenews/senate/6102916-senate-gop-diesel-export-ban/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Trump’s Greenland quest leaves scars, even as deal brings relief",
@@ -110,15 +299,6 @@
       "tag": "technology"
     },
     {
-      "title": "A diesel-powered panic for GOP in Iowa",
-      "desc": "The average price of a gallon of diesel fuel in the Des Moines, Iowa, metro area at the start of this week was $6.33. If you ran a business that relied on short-haul transportation — local deliveries,",
-      "link": "https://thehill.com/homenews/analysis/6102812-ashley-hinson-iran-war/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
       "desc": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
       "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
@@ -137,49 +317,22 @@
       "tag": "technology"
     },
     {
-      "title": "Meta Quest Promo Codes and Coupons for September 2026",
-      "desc": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "title": "Iran&#039;s Revolutionary Guard warns US over escalation, and other Mideast developments",
+      "desc": "Iran's Revolutionary Guard warned Monday that it would “change the geography of the war” if the United States escalates the conflict. Meanwhile, the British military said an “unknown projectile” struc",
+      "link": "https://thehill.com/policy/defense/iran-revolutionary-guard-warns-us-over-escalation/",
       "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
+      "rawDate": "Tue, 22 Sep 2026 04:28:03 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Google fined $463 million for breaching EU rule on location data",
+      "desc": "Google has been fined 403 million euros ($463 million) for breaching the European Union's strict privacy rules because it mishandled users' location data, the bloc's data privacy watchdog said Monday.",
+      "link": "https://thehill.com/policy/technology/google-fine-eu-location-data/",
+      "date": "Sep 22, 2026",
+      "rawDate": "Tue, 22 Sep 2026 00:32:45 +0000",
+      "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-      "desc": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
-      "link": "https://www.wired.com/story/logitech-promo-code/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Western Digital Promo Code: 15% Off",
-      "desc": "Get 15% off your first order at Western Digital when you register your email.",
-      "link": "https://www.wired.com/story/western-digital-promo-code/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "White House launches Trump TV following press bans",
-      "desc": "The White House on Monday launched Trump TV, a 24/7 stream on YouTube, days after President Trump banned reporters from CNN, Politico and MS NOW over their coverage of him and his administration. The ",
-      "link": "https://thehill.com/homenews/administration/6103061-white-house-launches-trump-tv/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 03:08:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fewer than half of California voters back billionaire tax: Poll",
-      "desc": "California's state ballot measure proposing a 5 percent tax on the state's 200 billionaires' net worth is losing support, according to a new poll released Monday. The University of California, Berkele",
-      "link": "https://thehill.com/homenews/campaign/6103019-prop-40-support-drops/",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 01:20:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "UN panel calls for guardrails on AI as current safeguards are &#039;unraveling&#039;",
@@ -215,24 +368,6 @@
       "date": "Sep 21, 2026",
       "rawDate": "Mon, 21 Sep 2026 22:55:21 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Memo: Trump’s latest war on the media met with lawsuit, TV boycott",
-      "desc": "An all-out confrontation between President Trump and the media escalated Monday, as three banned outlets launched a legal fight, Trump compared some reporting to “cancer,” and five major TV networks c",
-      "link": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 22:45:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Former WHCA president on Trump&#039;s press ban: &#039;An attack on one outlet is an attack on everyone&#039;",
-      "desc": "Former White House Correspondents' Association (WHCA) president Weijia Jiang on Sunday said President Trump's ban on CNN, Politico and MS NOW reporters from covering the White House was an \"attack\" on",
-      "link": "https://thehill.com/media/6102786-trump-whca-media-ban/",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 22:40:07 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -461,15 +596,6 @@
       "tag": "safety"
     },
     {
-      "title": "Major TV networks take dramatic stand after Trump bans 3 news outlets",
-      "desc": "Trump announced on Friday he would be banning CNN, MS NOW and Politico journalists from the White House press pool, citing their “fake news” reporting",
-      "link": "https://www.mlive.com/politics/2026/09/major-tv-networks-take-dramatic-stand-after-trump-bans-3-news-outlets.html",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 14:25:45 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "$5M grant aimed at University of Michigan business students advocating for climate",
       "desc": "The $4.9 million grant was made available by the Fred & Barbara Erb Family Foundation to UM students seeking dual degrees at the School for the Environment and Sustainability and the Ross School of Bu",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/5m-university-of-michigan-grant-aimed-at-business-students-advocating-for-climate.html",
@@ -493,8 +619,8 @@
       "link": "https://www.mlive.com/politics/2026/09/retiring-michigan-senator-gary-peters-to-return-to-academia-at-usc-politics-center.html",
       "date": "Sep 21, 2026",
       "rawDate": "Mon, 21 Sep 2026 14:12:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Bessent: US suggesting AI alert system with China ahead of Trump-Xi talks",
@@ -529,15 +655,6 @@
       "link": "https://www.mlive.com/news/flint/2026/09/new-grand-blanc-resiliency-center-to-host-recovery-event-one-year-after-church-shooting-fire.html",
       "date": "Sep 21, 2026",
       "rawDate": "Mon, 21 Sep 2026 13:34:01 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "34-year-old Chipotle worker fatally stabbed on lunch break in downtown Detroit",
-      "desc": "A 34-year-old mother was killed in an apparent random attack while taking a break from work in downtown Detroit.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/34-year-old-chipotle-worker-fatally-stabbed-on-lunch-break-in-downtown-detroit.html",
-      "date": "Sep 21, 2026",
-      "rawDate": "Mon, 21 Sep 2026 11:56:19 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -584,15 +701,6 @@
       "date": "Sep 20, 2026",
       "rawDate": "Sun, 20 Sep 2026 20:48:30 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Kalamazoo County shooting: 1 dead, suspect in custody",
-      "desc": "The investigation continues as authorities seek witnesses.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/09/kalamazoo-county-shooting-1-dead-suspect-in-custody.html",
-      "date": "Sep 20, 2026",
-      "rawDate": "Sun, 20 Sep 2026 20:13:17 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -713,24 +821,6 @@
       "tag": "technology"
     },
     {
-      "title": "A life of learning: One graduate’s journey from small Michigan town to MIT",
-      "desc": "Long before the acceptance letter, this teenager spent countless hours exploring books at the library, trips to museums, music, tennis and more.",
-      "link": "https://www.mlive.com/news/flint/2026/09/a-life-of-learning-one-michigan-graduates-journey-from-small-town-to-mit.html",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 16:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Saginaw to host CMU medical school facility groundbreaking",
-      "desc": "Plans for a new facility in the riverfront neighborhood were in development for years.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/saginaw-to-host-cmu-medical-school-facility-groundbreaking.html",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI, Google of AI pacing &#039;collusion&#039;",
       "desc": "AI companies Anthropic, OpenAI, SpaceXAI and Google are being sued over alleged collusion as pressure mounts to slow the rapid development of AI. The complaint, filed Friday in the U.S. District Court",
       "link": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
@@ -740,15 +830,6 @@
       "tag": "technology"
     },
     {
-      "title": "Chelsea School District increasingly relying on school of choice enrollment, data says",
-      "desc": "Recent data predicted the district's school of choice participation, which one official called 'the Hunger games for public education,' would make up more than 12% of its overall enrollment by 2030. T",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-area-district-increasingly-relying-on-school-of-choice-enrollment-data-says.html",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 10:15:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Hegseth backs Trump on banning media outlets",
       "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Hegseth backs Trump on banning media outlets Defe",
       "link": "https://thehill.com/newsletters/defense-national-security/6099382-hegseth-backs-trump-on-banning-media-outlets/",
@@ -756,15 +837,6 @@
       "rawDate": "Sat, 19 Sep 2026 00:37:32 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Hawley invites Flock, Axon, other surveillance tech CEOs to testify",
-      "desc": "Sen. Josh Hawley (R-Mo.) invited the CEOs of Flock Safety and other prominent AI-powered surveillance camera manufacturers to testify before the upper chamber's Judiciary Subcommittee on Crime and Cou",
-      "link": "https://thehill.com/homenews/senate/6099368-hawley-invites-flock-ai-surveillance-ceos/",
-      "date": "Sep 19, 2026",
-      "rawDate": "Sat, 19 Sep 2026 00:28:36 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Pentagon’s count leaves out some deaths in Middle East during Iran war",
@@ -803,33 +875,6 @@
       "tag": "safety"
     },
     {
-      "title": "Spanberger announces tightened data center restrictions, clean energy mandates in Virginia",
-      "desc": "Virginia Gov. Abigail Spanberger (D) on Friday announced a new proposal to tighten restrictions on data center developments in the Old Dominion.  The governor’s “Data Center Accountability Framework” ",
-      "link": "https://thehill.com/homenews/state-watch/6098665-spanberger-data-center-accountability/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 19:50:58 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Texas agency suspends Flock camera approvals",
-      "desc": "The Texas Department of Transportation suspended issuing approvals for Flock’s automated license plate readers (ALPR) amid growing security and privacy concerns surrounding the technology. “TxDOT’s ro",
-      "link": "https://thehill.com/homenews/state-watch/6098574-texas-agency-suspends-flock-camera-approvals/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 19:11:18 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Anthropic: AI model Claude helping build next version of it",
-      "desc": "Anthropic's chatbot Claude is leading more than a quarter of the artificial intelligence (AI) firm's research and development efforts, the company revealed Thursday. The report marks the latest sign o",
-      "link": "https://thehill.com/policy/technology/6098297-anthropic-claude-leads-ai-development/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 18:23:09 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Second death confirmed in Bronx Legionnaires&#039; disease cluster",
       "desc": "As of Thursday, 13 people had tested positive for the disease and two were still in the hospital.",
       "link": "https://thehill.com/homenews/state-watch/6097870-ronx-legionnaires-cluster-new-york/",
@@ -857,15 +902,6 @@
       "tag": "health"
     },
     {
-      "title": "Pentagon issues new guidance for testosterone testing after rescinding previous one",
-      "desc": "The Pentagon issued new guidance late Thursday requiring mandatory testosterone deficiency screening for male active-duty and ​reserve service members over the age of 30 after temporarily rescinding p",
-      "link": "https://thehill.com/policy/defense/6097148-pentagon-new-male-testosterone-screening/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 01:40:45 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "RFK Jr. says anti-vaccine group has a &#039;friend at the White House&#039;",
       "desc": "Speaking to the anti-vaccine group he once led, Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. said Thursday the Trump administration supports its cause.  \"You have a strong and stead",
       "link": "https://thehill.com/policy/healthcare/6096884-kennedy-trump-administration-anti-vaccination/",
@@ -873,24 +909,6 @@
       "rawDate": "Thu, 17 Sep 2026 22:26:48 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Pentagon No. 3 frustrates senators in closed-door briefing on Iran war, Trump Defense strategy",
-      "desc": "Democratic and Republican lawmakers alike emerged Thursday from a closed-door briefing frustrated by what they said was a lack of clear answers from Pentagon policy chief Elbridge Colby on the Trump a",
-      "link": "https://thehill.com/policy/defense/6096862-colby-pentagon-briefing-frustrated-senators/",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 22:06:09 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Senate Democrats, minus Fetterman, urge Hegseth to provide receipt for Iran war costs",
-      "desc": "All of the Democrats in the Senate — excluding Pennsylvania Sen. John Fetterman — signed an open letter to Defense Secretary Pete Hegseth, pressing him to give Congress a cost breakdown of the war in ",
-      "link": "https://thehill.com/homenews/senate/6096879-senate-democrats-demand-iran-war-costs/",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 22:03:59 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles",
@@ -916,15 +934,6 @@
       "link": "https://thehill.com/policy/healthcare/6095417-kim-introduces-ssdi-medicare-bill/",
       "date": "Sep 17, 2026",
       "rawDate": "Thu, 17 Sep 2026 14:59:25 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Shapiro slams RFK Jr. as not ‘connected or grounded in reality’ on measles outbreak",
-      "desc": "Pennsylvania Gov. Josh Shapiro (D) accused Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Wednesday of not taking adequate steps to address a growing measles outbreak in the U.S.  ",
-      "link": "https://thehill.com/homenews/state-watch/6095486-shapiro-accuses-rfk-measles/",
-      "date": "Sep 17, 2026",
-      "rawDate": "Thu, 17 Sep 2026 14:56:02 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

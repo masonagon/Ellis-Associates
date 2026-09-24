@@ -1,6 +1,114 @@
 {
-  "generated": "2026-09-24T05:41:26.679Z",
+  "generated": "2026-09-24T10:49:44.681Z",
   "news": [
+    {
+      "title": "An OpenAI Agent Hacked Australia's Health Service. Their Government Found Out Months Later.",
+      "desc": "The country's prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:46:56 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Why This Weekend’s Nor’easter Is Like a Hurricane",
+      "desc": "Nor’easters are usually a winter phenomenon. But this week’s storm is arriving earlier than usual, and it could take on some characteristics more typical of tropical systems.",
+      "link": "https://www.wired.com/story/this-weeks-noreaster-forecast/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:15:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Michigan Senate seat up for grabs between former state rep, local party chair",
+      "desc": "In Michigan Senate District 15, voters will elect a new state senator to a four-year term in the Nov. 3 general election. Here's how candidates Felicia Brabec and Jason Rogers answered some big questi",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/michigan-senate-seat-up-for-grabs-between-former-state-rep-local-party-chair.html",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:01 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Beshear-Moore ticket? Democratic presidential hopefuls are pairing up",
+      "desc": "When Kentucky Gov. Andy Beshear (D) wanted to promote his new book this week, he invited Maryland Gov. Wes Moore (D) — one of his potential 2028 presidential rivals — to join him onstage and help mode",
+      "link": "https://thehill.com/homenews/campaign/6106824-democrats-test-running-mate-alliances/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump disapproval highest in second term amid economic woes: Emerson College",
+      "desc": "President Trump’s disapproval rating hits the highest mark it has during his second White House stint amid rising energy costs and economic woes, according to a new poll. In an Emerson College poll, T",
+      "link": "https://thehill.com/homenews/administration/6107122-trump-disapproval-rating-highest/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump FDA pick tests Collins on abortion",
+      "desc": "Sen. Susan Collins (R-Maine) is in the middle of a fight over a Trump health nominee, presenting a key test of her commitment to being an abortion-rights Republican.   Dr. Heidi Overton, President Tru",
+      "link": "https://thehill.com/policy/healthcare/6107415-collins-overton-fda-testimony/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "On Capitol Hill, the reporters run free. GOP senators are fine with it",
+      "desc": "President Trump has barred news outlets from the White House, and a prominent GOP congresswoman is making noise about restricting press access to parts of the Capitol. But Republicans in the Senate, w",
+      "link": "https://thehill.com/homenews/senate/6107614-senate-republicans-reject-trump-press-ban/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats hold 11-point lead over GOP on congressional ballot: Poll",
+      "desc": "Democrats hold a comfortable 11-point lead over Republicans on a generic congressional ballot, according to new poll — the latest survey showing enduring Democratic momentum ahead of November.   An Em",
+      "link": "https://thehill.com/homenews/campaign/6106950-democrats-lead-gop-congress-generic-ballot-poll/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Future of Supporting American Families",
+      "desc": "Many working families struggle to balance work and caregiving responsibilities, but a bipartisan majority on Capitol Hill are unveiling legislation seeking to make life easier for American families wh",
+      "link": "https://thehill.com/homenews/6107162-watch-live-future-of-supporting-american-families/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP breaks ranks on Iran as voters fume over war&#039;s costs",
+      "desc": "Republican support for the war in Iran is dropping as Senate GOP candidates speak out against it and voters increasingly blame high gas prices on the nearly seven-month conflict.   Growing public oppo",
+      "link": "https://thehill.com/homenews/senate/6107478-gop-support-iran-war-drops/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why No One Wants to Date Tech Bros",
+      "desc": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.",
+      "link": "https://www.wired.com/story/tech-bros-dating-palantir-tesla/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "The Best Linux Laptops (2026): System76, Framework, and More",
+      "desc": "Whether you want a beast of a machine with dedicated graphics or a light, easy-to-upgrade PC, we have the perfect rig for you.",
+      "link": "https://www.wired.com/story/best-linux-laptops/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Judge orders White House to immediately restore access to CNN, MS NOW, Politico",
       "desc": "A federal judge ordered the White House early Thursday to immediately restore press credentials for reporters at CNN, MS NOW and Politico, ruling that President Trump’s ban likely violated their const",
@@ -14,15 +122,6 @@
       "title": "AirDoctor Coupon Codes: 40% Off | September 2026",
       "desc": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
       "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Wayfair Coupons: Up to 80% Off September 2026",
-      "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
       "date": "Sep 24, 2026",
       "rawDate": "Thu, 24 Sep 2026 05:00:00 +0000",
       "source": "Wired",
@@ -75,7 +174,7 @@
     },
     {
       "title": "5 crucial issues lawmakers want Trump to address with China",
-      "desc": "President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China��s leader in more than a decade.  The meeting",
+      "desc": "President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China’s leader in more than a decade.  The meetings",
       "link": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/",
       "date": "Sep 23, 2026",
       "rawDate": "Wed, 23 Sep 2026 23:31:50 +0000",
@@ -124,35 +223,8 @@
       "link": "https://thehill.com/policy/defense/6107676-navy-secretary-letter-uss-lincoln/",
       "date": "Sep 23, 2026",
       "rawDate": "Wed, 23 Sep 2026 22:41:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Farm state Republicans feel the pressure from rising diesel prices",
-      "desc": "Farm state Republicans are increasingly pressing the Trump administration and Congress to take action to bring down diesel prices, underscoring how rising costs have become a political liability for t",
-      "link": "https://thehill.com/homenews/house/6107684-gop-pressures-trump-diesel-prices/",
-      "date": "Sep 23, 2026",
-      "rawDate": "Wed, 23 Sep 2026 22:35:54 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Scaramucci: Leavitt would have told Trump not to ban media outlets",
-      "desc": "Former White House communications director Anthony Scaramucci said Wednesday that former Trump White House press secretary Karoline Leavitt would have advised President Trump to not enact his recent p",
-      "link": "https://thehill.com/homenews/media/6107631-trump-press-ban-lawsuit-hearing/",
-      "date": "Sep 23, 2026",
-      "rawDate": "Wed, 23 Sep 2026 22:30:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Chamber of Commerce, oil groups urge Trump to reject diesel export ban",
-      "desc": "American business, energy and manufacturing groups on Wednesday urged President Trump to reject calls to impose a diesel export ban after the president said he was weighing this move in an effort to b",
-      "link": "https://thehill.com/policy/energy-environment/6107616-business-groups-urge-trump-diesel-ban/",
-      "date": "Sep 23, 2026",
-      "rawDate": "Wed, 23 Sep 2026 22:30:24 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Mother-daughter food truck serving up family recipes to community",
@@ -188,15 +260,6 @@
       "date": "Sep 23, 2026",
       "rawDate": "Wed, 23 Sep 2026 21:44:11 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "A US-China AI Hotline Won't Be Ready For a While",
-      "desc": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
-      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-      "date": "Sep 23, 2026",
-      "rawDate": "Wed, 23 Sep 2026 21:00:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -306,15 +369,6 @@
       "rawDate": "Wed, 23 Sep 2026 18:43:15 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "desc": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
-      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-      "date": "Sep 23, 2026",
-      "rawDate": "Wed, 23 Sep 2026 18:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Judge tosses Michigan climate lawsuit against big oil companies",
@@ -540,15 +594,6 @@
       "rawDate": "Wed, 23 Sep 2026 10:00:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Kamala Harris, Abdul El-Sayed focus on Black maternal health at Detroit event",
-      "desc": "Former Vice President Kamala Harris was effusive in her praise for Abdul El-Sayed, as she joined the Democratic candidate for U.S. Senate on the campaign trail on Tuesday.",
-      "link": "https://www.mlive.com/politics/2026/09/kamala-harris-abdul-el-sayed-focus-on-black-maternal-health-at-detroit-event.html",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 22:59:28 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Kagan steers Supreme Court clear of high-profile surrogacy fight",
@@ -907,15 +952,6 @@
       "link": "https://thehill.com/policy/healthcare/6093346-kidney-disease-of-unknown-origin-spreads-in-us-who-is-at-risk/",
       "date": "Sep 20, 2026",
       "rawDate": "Sun, 20 Sep 2026 14:30:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "CDC director says RFK Jr. has final say",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  CDC director says RFK Jr. has final say In her first interview since taking leadership of the Centers for Dis",
-      "link": "https://thehill.com/newsletters/healthcare/6099295-cdc-director-says-rfk-jr-has-final-say/",
-      "date": "Sep 18, 2026",
-      "rawDate": "Fri, 18 Sep 2026 23:08:12 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

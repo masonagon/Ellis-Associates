@@ -1,6 +1,33 @@
 {
-  "generated": "2026-09-24T22:52:05.965Z",
+  "generated": "2026-09-25T01:02:53.055Z",
   "news": [
+    {
+      "title": "Homan: ICE isn’t ‘going anywhere’ amid immigration enforcement scrutiny",
+      "desc": "White House border czar Tom Homan stood behind U.S. Immigration and Customs Enforcement (ICE) Thursday, saying the agency is \"not going anywhere” despite recent scrutiny surrounding its escalated enfo",
+      "link": "https://thehill.com/policy/national-security/6110700-homan-defends-ice-operations-doj-event/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 23:44:52 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New Interlochen lawsuit alleges teacher sexually harassed girl, 14, academy failed to act",
+      "desc": "A mother is suing Interlochen Arts Academy, alleging that her 14-year-old daughter was repeatedly sexually harassed by a teacher and fellow students and then expelled after reporting the abuse. Interl",
+      "link": "https://www.mlive.com/news/2026/09/new-interlochen-lawsuit-alleges-teacher-sexually-harassed-girl-14-academy-failed-to-act.html",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 23:43:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "GOP lawmakers concerned after F-35 equipment ended up in China",
+      "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  GOP lawmakers concerned after F-35 equipment ende",
+      "link": "https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 23:03:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Error causes backlog of thousands of Texas voter registration applications",
       "desc": "A Texas system error left tens of thousands of voter registration applications unprocessed for months, forcing county election officials to race to process the large backlogs weeks out from the midter",
@@ -92,15 +119,6 @@
       "tag": "technology"
     },
     {
-      "title": "Beyer says Trump is prepping construction of his arch",
-      "desc": "A prominent Democrat said Thursday that President Trump appears to be laying the groundwork for construction of his controversial arch just outside Washington.  Rep. Don Beyer (D), who represents the ",
-      "link": "https://thehill.com/homenews/house/6110400-beyer-claims-illegal-activity-trump-arch/",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 20:50:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Benchmark mortgage rate tops 7 percent",
       "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Benchmark mortgage rate tops 7 percent The benchmark",
       "link": "https://thehill.com/newsletters/business-economy/6110377-benchmark-mortgage-rate-tops-7-percent/",
@@ -110,30 +128,12 @@
       "tag": "associations"
     },
     {
-      "title": "DHS tried to deport Peruvian man to Africa after appeals court ruling blocking third country removals",
-      "desc": "A federal appeals court late Wednesday had to clarify for the Trump administration that its ruling last week barred them from deporting migrants to third countries, after U.S. Immigration and Customs ",
-      "link": "https://thehill.com/homenews/administration/6110337-first-circuit-blocks-third-country-deportation/",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 20:39:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "New Trump ad ‘paid for by the U.S. government’ released",
       "desc": "It comes as the president has urged GOP voters to cast their ballots as if he were running.",
       "link": "https://www.mlive.com/politics/2026/09/new-trump-ad-paid-for-by-the-us-government-released.html",
       "date": "Sep 24, 2026",
       "rawDate": "Thu, 24 Sep 2026 20:32:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Whitmer: Michigan to review ICE vehicle pursuit that resulted in fatal crash",
-      "desc": "Michigan Gov. Gretchen Whitmer (D) directed Michigan State Police to launch a probe into a vehicle pursuit involving Immigration and Customs Enforcement (ICE) in Grand Rapids on Sunday, before the oth",
-      "link": "https://thehill.com/homenews/state-watch/6110094-whitmer-orders-ice-pursuit-investigation/",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 20:25:28 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -461,15 +461,6 @@
       "tag": "government"
     },
     {
-      "title": "41 OWI cases impacted by officers, deputies with expired breathalyzer test certifications",
-      "desc": "Four cases in the Traverse City area have already been dismissed.",
-      "link": "https://www.mlive.com/news/2026/09/41-owi-cases-impacted-by-officers-deputies-with-expired-breathalyzer-test-certifications.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 13:08:53 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Before the $225M settlement: A look at Amway’s major legal, regulatory battles",
       "desc": "The Ada-based company has faced regulatory scrutiny and lawsuits since the 1970s, including challenges in the United Kingdom over distributor earnings claims.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/before-the-225m-settlement-a-look-at-amways-major-legal-regulatory-battles.html",
@@ -538,6 +529,15 @@
       "link": "https://www.wired.com/story/best-linux-laptops/",
       "date": "Sep 24, 2026",
       "rawDate": "Thu, 24 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "AirDoctor Coupon Codes: 40% Off | September 2026",
+      "desc": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "date": "Sep 24, 2026",
+      "rawDate": "Thu, 24 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },

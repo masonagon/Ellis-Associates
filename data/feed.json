@@ -1,32 +1,158 @@
 {
-  "generated": "2026-09-25T17:39:44.244Z",
+  "generated": "2026-09-25T20:55:19.713Z",
   "news": [
     {
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "desc": "They wanted the silicon. They got the sand.",
+      "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 20:30:40 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ex-Ann Arbor school board treasurer’s employment lawsuit tossed out of court",
+      "desc": "Wrongful termination claims were dismissed with prejudice in late August, as Wilkerson continues his campaign to reclaim a seat on the Ann Arbor school board.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/ex-ann-arbor-school-board-treasurers-employment-lawsuit-tossed-out-of-court.html",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 20:23:04 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Anti-Trump attorney: &#039;Don&#039;t overreact&#039; to Supreme Court voter database decision",
+      "desc": "Norm Eisen, a former White House ethics lawyer and frequent critic of President Trump, urged Americans not to “overreact” after the Supreme Court’s Friday ruling permitting the administration to move ",
+      "link": "https://thehill.com/regulation/court-battles/6112248-norm-eisen-supreme-court-immigration-database/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 20:04:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New Jersey lieutenant governor resigns after being called out by Sherrill over ethics report",
+      "desc": "New Jersey Lt. Gov. Dale Caldwell (D) resigned Friday following calls to step down from his position after an investigation found that he had violated state ethics and harassment policies. “He submitt",
+      "link": "https://thehill.com/homenews/state-watch/6112266-nj-lt-gov-dale-caldwell-resigns/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 20:01:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo man convicted of second-degree murder in 2023 apartment shooting",
+      "desc": "John Powell Jr. was found guilty of second-degree murder for fatally shooting Tyquincy McFerrin through an apartment door following a verbal altercation in May 2023.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/09/kalamazoo-man-convicted-of-second-degree-murder-in-2023-apartment-shooting.html",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 19:58:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "McConnell, Cornyn join letter questioning Trump invite to Putin",
+      "desc": "A group of senators, including seven Republicans, sent an open letter to President Trump on Friday to express “serious concern” and press him to explain why he invited Russian President Vladimir Putin",
+      "link": "https://thehill.com/homenews/senate/6112200-republicans-oppose-putin-g20-invitation/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 19:38:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man accused in daycare sex abuse now faces more than 50 charges",
+      "desc": "State police on Friday, Sept. 25, said Ottawa \nCounty prosecutors had authorized 23 charges against Austin Hapner.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/man-accused-in-daycare-sex-abuse-now-faces-more-than-50-charges.html",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 19:37:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Live updates: Xi departs after 3-day Trump visit; Iran war, economic squeeze weigh on GOP",
+      "desc": "President Trump and Chinese leader Xi Jinping wrapped up their three-day summit in Washington on Friday, as some GOP lawmakers bristle at the lavish treatment China's president received while the nati",
+      "link": "https://thehill.com/homenews/6110883-live-updates-trump-xi-summit-dc-iran-war-affordability-gop-midterms/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 19:17:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bill Clinton: &#039;There were lots of times when I wanted to ban the White House press corps&#039;",
+      "desc": "Former President Clinton rebuked President Trump's attempted ban of three outlets from the White House last week, saying during his presidency, \"There were lots of times when I wanted to ban the White",
+      "link": "https://thehill.com/blogs/in-the-know/6112099-clintons-rebukes-white-house-press-ban/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 19:14:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate approves legislation targeted at pilot, air traffic control mental health guidance",
+      "desc": "The Senate passed two bills Thursday aimed at removing barriers for pilots and air traffic controllers seeking mental health treatment, as well as reducing stigma surrounding these conditions. Sponsor",
+      "link": "https://thehill.com/homenews/senate/6111974-senate-passes-aviation-mental-health-bills/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 18:51:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump rules out Bessent as AI czar",
+      "desc": "President Trump said Friday he is ruling out Treasury Secretary Scott Bessent to serve as his artificial intelligence czar amid speculation the Cabinet member was under consideration. Trump, in a Trut",
+      "link": "https://thehill.com/policy/technology/6111941-donald-trump-scott-bessent-artificial-intelligence-czar/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 18:48:20 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Jack Smith to testify before Senate Judiciary next week",
+      "desc": "Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe his investigation into President Trump. Smith led a",
+      "link": "https://thehill.com/homenews/senate/6112039-jack-smith-senate-testimony/",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 18:46:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man shot by deputies screamed in agony from inside van, footage shows",
+      "desc": "A man shot by sheriff’s deputies earlier this year screamed for help for roughly 20 minutes, according to body camera footage shared by attorneys.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/man-shot-by-deputies-screamed-in-agony-from-inside-van-footage-shows.html",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 18:46:22 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Bay City man charged with murder after alleged road rage crash",
+      "desc": "Derrick Denver Kolba, 42, is accused of running over motorcyclist Keaton Rousse multiple times after a traffic altercation on West Jane Street Wednesday evening.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bay-city-man-charged-with-murder-after-alleged-road-rage-crash.html",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 18:30:20 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Genesee County Courthouse marks 100 years with “Scales of Justice” unveiling",
+      "desc": "Artist Robert Barnum, once voted Michigan Artist of the Year, created the artwork depicting a woman balancing the \"Scales of Justice\" in front of the courthouse.",
+      "link": "https://www.mlive.com/news/flint/2026/09/genesee-county-courthouse-marks-100-years-with-scales-of-justice-unveiling.html",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 18:02:33 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
       "title": "Collins warns OMB about unspent global health funding",
-      "desc": "Sen. Susan Collins (R-Maine), who chairs the Senate Appropriations Committee, is calling on the Trump administration to spend more than $1 billion of global health funding that Congress has already ap",
+      "desc": "Sen. Susan Collins (R-Maine), who chairs the Senate Appropriations Committee, called on the Trump administration to spend more than $1 billion of global health funding that Congress has already approp",
       "link": "https://thehill.com/policy/healthcare/6111831-susan-collins-healthcare-funding-trump-administration-warning/",
       "date": "Sep 25, 2026",
       "rawDate": "Fri, 25 Sep 2026 17:38:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Duckworth calls on Pentagon, FAA to reject Trump&#039;s DC arch plans",
-      "desc": "Sen. Tammy Duckworth (D-Ill.), on Friday demanded the Pentagon and Federal Aviation Administration (FAA) keep Washington, D.C.’s airspace safe by rejecting President Trump's plans to convert his inten",
+      "desc": "Sen. Tammy Duckworth (D-Ill.) on Friday demanded the Pentagon and Federal Aviation Administration (FAA) keep Washington’s airspace safe by rejecting President Trump's plans to convert his intended tri",
       "link": "https://thehill.com/policy/defense/6111846-duckworth-pentagon-faa-trumps-dc-arch/",
       "date": "Sep 25, 2026",
       "rawDate": "Fri, 25 Sep 2026 17:33:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senior White House spokesperson to move to Office of Director of National Intelligence",
-      "desc": "White House senior deputy press secretary Kush Desai is leaving the West Wing for a senior communications role at the Office of the Director of National Intelligence (ODNI). The White House spokespers",
-      "link": "https://thehill.com/homenews/administration/6111833-kush-desai-odni-strategic-communications/",
-      "date": "Sep 25, 2026",
-      "rawDate": "Fri, 25 Sep 2026 17:33:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
@@ -36,6 +162,15 @@
       "rawDate": "Fri, 25 Sep 2026 16:58:20 +0000",
       "source": "Wired",
       "tag": "technology"
+    },
+    {
+      "title": "Zeeland Township leaders want Trump’s attention in fight against solar farm",
+      "desc": "Zeeland Township leaders have written a letter to President Donald Trump and other federal officials, asking for their attention to the township's fight against a proposed 1,900-acre solar farm.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/09/zeeland-township-leaders-want-trumps-attention-in-fight-against-solar-farm.html",
+      "date": "Sep 25, 2026",
+      "rawDate": "Fri, 25 Sep 2026 16:57:40 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
     },
     {
       "title": "Police confirm names of Bridgeport Township father, daughter who died in suspected murder-suicide",
@@ -56,15 +191,6 @@
       "tag": "education"
     },
     {
-      "title": "White House TV pool standoff ends — for now",
-      "desc": "Presented by American Policy Ventures — Plus: 💬Trump, Xi summit winds down {beacon} &#8202; It’s Friday. We rarely work just 9 to 5 in the media business — but we can still celebrate the late Dolly P",
-      "link": "https://thehill.com/newsletters/1230-report/6111730-donald-trump-white-house-pool-comeback-xi-jinping-summit-midterms-economy/",
-      "date": "Sep 25, 2026",
-      "rawDate": "Fri, 25 Sep 2026 16:47:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Naturally occurring human peptide shows promise against Alzheimer&#039;s",
       "desc": "\"The study suggests that peptide-based therapies may offer a new approach to treating complex neurodegenerative diseases.\"",
       "link": "https://thehill.com/policy/healthcare/6110798-natural-human-peptides-alzheimers-treatment-study/",
@@ -72,15 +198,6 @@
       "rawDate": "Fri, 25 Sep 2026 16:37:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Let&#039;s fix healthcare costs before the socialists try to do it",
-      "desc": "Senior fellow Dr. Clifford Porter proposed a series of 11 federal reforms aimed at lowering healthcare costs and increasing patient control.",
-      "link": "https://thehill.com/opinion/healthcare/6110960-lowering-healthcare-costs-middlemen/",
-      "date": "Sep 25, 2026",
-      "rawDate": "Fri, 25 Sep 2026 16:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Prosecution, defense rest in Saginaw man’s retrial on charges he killed mother and sister in 2013",
@@ -97,8 +214,8 @@
       "link": "https://thehill.com/policy/defense/6111626-pete-hegseth-dod-register-to-vote-2026-midterms/",
       "date": "Sep 25, 2026",
       "rawDate": "Fri, 25 Sep 2026 16:22:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "‘American Idol’ alum on trial for murder allegedly told mistress he was ‘willing to sacrifice’ daughters",
@@ -126,24 +243,6 @@
       "rawDate": "Fri, 25 Sep 2026 16:11:35 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "5 major networks rejoin White House TV pool after CNN standoff",
-      "desc": "The five major television networks were back in the White House television pool on Friday following their standoff with the White House over CNN’s access.  CBS broadcast the live feed for television o",
-      "link": "https://thehill.com/homenews/media/6111575-major-networks-back-white-house-pool/",
-      "date": "Sep 25, 2026",
-      "rawDate": "Fri, 25 Sep 2026 16:06:02 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Stop the wiretap shakedown on Main Street",
-      "desc": "House Committee on Small Business Chairman Roger Williams called for federal modernization of surveillance laws following the introduction of bipartisan legislative efforts to protect businesses from ",
-      "link": "https://thehill.com/opinion/finance/6110940-small-business-cipa-lawsuits/",
-      "date": "Sep 25, 2026",
-      "rawDate": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Former Kmart finds new life, Mexican food truck gets full-time spot and more Flint-area business news",
@@ -502,8 +601,8 @@
       "link": "https://www.mlive.com/news/flint/2026/09/ex-michigan-teacher-facing-sexual-assault-charges-may-seek-dismissal-of-some-counts.html",
       "date": "Sep 24, 2026",
       "rawDate": "Thu, 24 Sep 2026 19:28:22 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Senate committee advances Klomp as HHS No. 2",
@@ -515,30 +614,12 @@
       "tag": "health"
     },
     {
-      "title": "Bay County teen shot by masked intruders now charged with shooting at own mom",
-      "desc": "The Sept. 21 incident was the second time this month deputies responded to the Garfield Township house for reported gunfire.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/bay-county-teen-shot-by-masked-intruders-now-charged-with-shooting-at-own-mom.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 19:03:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Senate GOP defeats resolution directing Trump to end Iran war as more Republicans sour on conflict",
       "desc": "The Senate on Thursday defeated a House-passed resolution directing President Trump to withdraw U.S. troops from the conflict with Iran, despite growing dissatisfaction among GOP senators over Preside",
       "link": "https://thehill.com/homenews/senate/6109995-senate-gop-defeats-donald-trump-iran-war-powers-resolution/",
       "date": "Sep 24, 2026",
       "rawDate": "Thu, 24 Sep 2026 19:01:10 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Teen charged in crash that killed Flushing grad, star athlete",
-      "desc": "Chace Culhane, 18, faces manslaughter and reckless driving charges after a high-speed crash killed passenger Caleb Metcalf following a graduation party.",
-      "link": "https://www.mlive.com/news/flint/2026/09/teen-charged-in-crash-that-killed-flushing-grad-star-athlete.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 18:53:02 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -587,33 +668,6 @@
       "tag": "education"
     },
     {
-      "title": "Flint voters to decide on all 9 council seats in Nov. 3 election",
-      "desc": "Several council races are contested, while voters in other wards will see just one candidate on the ballot.",
-      "link": "https://www.mlive.com/news/flint/2026/09/flint-voters-to-decide-on-all-9-council-seats-in-nov-3-election.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 17:45:35 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Man, 79, dies week after crash outside Ann Arbor",
-      "desc": "He had originally been taken to the hospital in critical condition.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/man-79-dies-week-after-crash-outside-ann-arbor.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 17:29:34 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Police identify Bay City motorcyclist killed in apparent road rage crash",
-      "desc": "A 42-year-old man remains in custody.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/09/police-identify-bay-city-motorcyclist-killed-in-apparent-road-rage-crash.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 17:21:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "New York accuses Polymarket of running illegal gambling operation in new lawsuit",
       "desc": "New York sued Polymarket on Thursday, accusing the prediction market platform of running an illegal gambling operation. It marks the latest lawsuit from the Empire State, which has levied similar alle",
       "link": "https://thehill.com/policy/technology/6109418-new-york-polymarket-illegal-gambling-prediction-markets/",
@@ -657,15 +711,6 @@
       "rawDate": "Thu, 24 Sep 2026 16:22:23 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "New poll points to a ‘potential Democratic wave’ as voters sour on Trump",
-      "desc": "The Emerson College poll showed 53% of likely voters plan to support the Democratic candidate in their own district, while 42% plan to support the Republican candidate.",
-      "link": "https://www.mlive.com/politics/2026/09/new-poll-points-to-a-potential-democratic-wave-as-voters-sour-on-trump.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 15:20:41 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Peltola campaign rips New York Times report on tumultuous operations",
@@ -785,15 +830,6 @@
       "tag": "safety"
     },
     {
-      "title": "Senators try to &#039;get to the bottom of&#039; AI-powered surveillance networks amid Flock concerns",
-      "desc": "A Senate panel held the first Congressional hearing Wednesday on AI-powered surveillance cameras manufacturers, such as Flock Safety, in an attempt to \"get to the bottom\" of whether the technology inf",
-      "link": "https://thehill.com/policy/technology/6107305-senate-ai-surveillance-hearing-flock/",
-      "date": "Sep 23, 2026",
-      "rawDate": "Wed, 23 Sep 2026 21:44:11 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Collins: White House backing down from NIH grant order",
       "desc": "The White House is backing down from a plan to issue an executive order that would give the White House control over scientific grants from the National Institutes of Health, Sen. Susan Collins (R-Mai",
       "link": "https://thehill.com/policy/healthcare/6107141-white-house-drops-nih-grant-proposal-collins/",
@@ -889,15 +925,6 @@
       "link": "https://www.mlive.com/education/2026/09/these-top-michigan-universities-are-slipping-in-national-rankings-according-to-us-news.html",
       "date": "Sep 22, 2026",
       "rawDate": "Tue, 22 Sep 2026 18:15:21 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "$10M invested to research soundwave cancer treatments at the University of Michigan",
-      "desc": "Histotripsy is a promising new technology to fight cancer (and potentially much more) that just needs more research and more people working on improving it, University of Michigan officials said.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/09/10m-invested-to-research-soundwave-cancer-treatments-at-the-university-of-michigan.html",
-      "date": "Sep 22, 2026",
-      "rawDate": "Tue, 22 Sep 2026 17:56:32 +0000",
       "source": "MLive Education",
       "tag": "education"
     }

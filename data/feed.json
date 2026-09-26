@@ -1,6 +1,51 @@
 {
-  "generated": "2026-09-26T20:26:04.376Z",
+  "generated": "2026-09-26T23:16:28.691Z",
   "news": [
+    {
+      "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
+      "desc": "President Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration. The 2024 EV mandate aimed to facili",
+      "link": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
+      "date": "Sep 26, 2026",
+      "rawDate": "Sat, 26 Sep 2026 22:52:15 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Former Kennedy Center employees claim officials halted repairs months prior to closure",
+      "desc": "Former Kennedy Center employees accused the iconic performing arts venue's leadership in a letter to Congress of halting planned waterproofing repairs earlier this year. In the Thursday letter, David ",
+      "link": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/",
+      "date": "Sep 26, 2026",
+      "rawDate": "Sat, 26 Sep 2026 22:37:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "No weapons involved amid reported fights at Ann Arbor football game, district says",
+      "desc": "Several student altercations were reported during Friday night's Pioneer-Huron game. Ann Arbor Public Schools Superintendent Jazz Parks says the district is reviewing the incident.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/09/no-weapons-involved-amid-reported-fights-at-ann-arbor-football-game-district-says.html",
+      "date": "Sep 26, 2026",
+      "rawDate": "Sat, 26 Sep 2026 21:47:31 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Sunday shows preview: Trump rejects Iran deal after week of high-stakes meetings; GOP clammers to keep Congress",
+      "desc": "President Trump rejected a new seven-day proposal from Iran Saturday morning to reopen the Strait of Hormuz and halt military operations in the ongoing conflict between Tehran and the U.S. “They want ",
+      "link": "https://thehill.com/homenews/sunday-talk-shows/6113249-sunday-shows-trump-rejects-iran-proposal/",
+      "date": "Sep 26, 2026",
+      "rawDate": "Sat, 26 Sep 2026 21:02:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Election forecasters don&#039;t see polling &#039;sugar-high&#039; Democrats fear — for now",
+      "desc": "Pollsters and independent handicappers are increasingly convinced that Democrats aren’t experiencing an artificial “sugar-high” in polling but that multiple metrics are right now pointing to a good mi",
+      "link": "https://thehill.com/homenews/campaign/6112624-election-forecasters-dont-see-polling-sugar-high-democrats-fear-for-now/",
+      "date": "Sep 26, 2026",
+      "rawDate": "Sat, 26 Sep 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran&#039;s proposal to reopen Strait of Hormuz rejected",
       "desc": "President Trump left Knoxville for the White House Saturday afternoon after attending the University of Texas vs. University of Tennessee football game — an appearance coming ahead of senators' last c",
@@ -65,15 +110,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump rejects Iran&#039;s 7-day plan to end war, expects bombing to resume post-midterms",
-      "desc": "President Trump rejected Iran’s seven-day proposal to reopen the Strait of Hormuz and enter a ceasefire and is considering renewed military strikes against the country after the midterm elections in N",
-      "link": "https://thehill.com/homenews/administration/6113000-trump-iran-proposal-ceasefire/",
-      "date": "Sep 26, 2026",
-      "rawDate": "Sat, 26 Sep 2026 13:33:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "New organic salon joins growing business scene near downtown Kalamazoo",
       "desc": "The city celebrated the opening of the new salon on Friday, which is located in Kalamazoo’s Northside neighborhood.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/09/new-organic-salon-joins-growing-business-scene-near-downtown-kalamazoo.html",
@@ -83,30 +119,12 @@
       "tag": "associations"
     },
     {
-      "title": "To make energy affordable again, end green mandates before the midterms",
-      "desc": "Democrats spent the summer talking a big game on “affordability,” but their energy approach raises prices across the board.",
-      "link": "https://thehill.com/opinion/congress-blog/energy-environment/6111870-dc-green-mandates-electricity-costs/",
-      "date": "Sep 26, 2026",
-      "rawDate": "Sat, 26 Sep 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan’s 3rd District voter guide: Where Scholten and DeBoer stand on key issues",
       "desc": "See how the two frontrunners for the congressional seat answered questions about healthcare, the economy, the environment and energy, and immigration.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/09/michigans-3rd-district-voter-guide-where-scholten-and-deboer-stand-on-key-issues.html",
       "date": "Sep 26, 2026",
       "rawDate": "Sat, 26 Sep 2026 12:55:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-      "desc": "The U.S. and China agreed to lower tariffs on $30 billion worth of goods each country imports from the other and launch new talks on artificial intelligence (AI) following President Trump’s summit wit",
-      "link": "https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/",
-      "date": "Sep 26, 2026",
-      "rawDate": "Sat, 26 Sep 2026 12:10:22 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -119,18 +137,18 @@
       "tag": "technology"
     },
     {
-      "title": "This Michigan high school graduate is thinking differently about how to change the world",
-      "desc": "His philosophy has been straightforward: When he reaches what he thinks is his limit, he tries to move the boundary.",
-      "link": "https://www.mlive.com/news/flint/2026/09/this-michigan-high-school-graduate-is-thinking-differently-about-how-to-change-the-world.html",
+      "title": "What’s for lunch? Dearborn schools bringing more Michigan-grown food to students",
+      "desc": "Dearborn Public Schools is getting nearly half a million dollars to bring more Michigan-grown food to students across the district.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/whats-for-lunch-dearborn-schools-bringing-more-michigan-grown-food-to-students.html",
       "date": "Sep 26, 2026",
       "rawDate": "Sat, 26 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "What’s for lunch? Dearborn schools bringing more Michigan-grown food to students",
-      "desc": "Dearborn Public Schools is getting nearly half a million dollars to bring more Michigan-grown food to students across the district.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/whats-for-lunch-dearborn-schools-bringing-more-michigan-grown-food-to-students.html",
+      "title": "This Michigan high school graduate is thinking differently about how to change the world",
+      "desc": "His philosophy has been straightforward: When he reaches what he thinks is his limit, he tries to move the boundary.",
+      "link": "https://www.mlive.com/news/flint/2026/09/this-michigan-high-school-graduate-is-thinking-differently-about-how-to-change-the-world.html",
       "date": "Sep 26, 2026",
       "rawDate": "Sat, 26 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
@@ -828,15 +846,6 @@
       "rawDate": "Thu, 24 Sep 2026 14:01:41 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Michigan’s highest-scoring schools on the SAT: See the top 50 for 2025-26",
-      "desc": "Schools in West Michigan and Metro Detroit dominated the list of Michigan's highest average SAT scores.",
-      "link": "https://www.mlive.com/data/2026/09/michigans-highest-scoring-schools-on-the-sat-see-the-top-50-for-2025-26.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 12:05:04 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Trump FDA pick tests Collins on abortion",

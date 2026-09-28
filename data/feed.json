@@ -1,9 +1,27 @@
 {
-  "generated": "2026-09-27T21:45:13.609Z",
+  "generated": "2026-09-28T00:10:16.249Z",
   "news": [
     {
+      "title": "These Jackson-area schools had the top state test results",
+      "desc": "A review of local M-STEP, PSAT and SAT results showed the region's younger students tended to test better in math, while high school juniors show higher percentages of meeting standards in English-lan",
+      "link": "https://www.mlive.com/news/jackson/2026/09/these-jackson-area-schools-had-the-top-state-test-results.html",
+      "date": "Sep 27, 2026",
+      "rawDate": "Sun, 27 Sep 2026 22:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "GOP rep believes Iran was involved in thwarted terrorist plan on US air base in the UK",
+      "desc": "Rep. Kat Cammack (R-Fla.) said Sunday the Iranian government was “clearly” involved in an alleged terror attack authorities in the United Kingdom thwarted earlier in the day.  “The simple answer is th",
+      "link": "https://thehill.com/homenews/house/6114136-uk-arrests-raf-fairford-terrorists/",
+      "date": "Sep 27, 2026",
+      "rawDate": "Sun, 27 Sep 2026 21:46:21 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
       "title": "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
-      "desc": "President Trump and Anthropic CEO Dario Amodei will meet on Sunday evening at the White House after the artificial intelligence industry leader raised concerns about the technology’s risks. The two wi",
+      "desc": "President Trump and Anthropic CEO Dario Amodei will meet on Sunday evening at the White House after the artificial intelligence industry leader raised concerns about the technology's risks. The two wi",
       "link": "https://thehill.com/policy/technology/6114077-trump-anthropic-ceo-meeting/",
       "date": "Sep 27, 2026",
       "rawDate": "Sun, 27 Sep 2026 21:16:40 +0000",
@@ -20,8 +38,8 @@
       "tag": "government"
     },
     {
-      "title": "Manchin says &#039;if character means anything, you can&#039;t vote for Ken Paxton&#039;",
-      "desc": "Former Sen. Joe Manchin (I-W.Va.) took aim at Senate candidate and Texas Attorney General Ken Paxton (R) on Sunday, deriding his “character.” During an interview with NewsNation’s Chris Stirewalt on “",
+      "title": "Manchin: &#039;If character means anything, you can&#039;t vote for Ken Paxton&#039;",
+      "desc": "Former Sen. Joe Manchin (I-W.Va.) on Sunday took aim at Texas Attorney General Ken Paxton, the Republican candidate in the Lone Star State's Senate race, deriding his “character.” During an interview ",
       "link": "https://thehill.com/homenews/campaign/6114094-manchin-slams-paxton-character/",
       "date": "Sep 27, 2026",
       "rawDate": "Sun, 27 Sep 2026 20:33:49 +0000",
@@ -29,8 +47,8 @@
       "tag": "government"
     },
     {
-      "title": "GOP rep says Americans feel &#039;fatigue&#039; in diesel prices increasing",
-      "desc": "Rep. Rick Crawford (R-Ark.) said Sunday that Americans are “fatigued” about rising diesel prices amid the Iran war.  “I think there is some fatigue in that the American people see diesel prices increa",
+      "title": "GOP rep: Americans feel &#039;fatigue&#039; in diesel prices increasing",
+      "desc": "Rep. Rick Crawford (R-Ark.) said Sunday that Americans are “fatigued” about rising diesel prices amid the Iran war.  “I think there is some fatigue in that the American people see diesel prices increa",
       "link": "https://thehill.com/homenews/house/6113992-crawford-diesel-prices-iran-war/",
       "date": "Sep 27, 2026",
       "rawDate": "Sun, 27 Sep 2026 20:03:10 +0000",
@@ -291,7 +309,7 @@
     },
     {
       "title": "OpenAI agent made unauthorized attempts to access federal agencies&#039; websites",
-      "desc": "Artificial intelligence giant OpenAI said its technology accessed government websites, including the Department of Education, without authorization, marking the latest incident of the technology going",
+      "desc": "Artificial intelligence giant OpenAI said its technology accessed government websites — including the Department of Education — without authorization, marking the latest incident of the technology goi",
       "link": "https://thehill.com/policy/technology/6113061-openai-access-government-websites/",
       "date": "Sep 26, 2026",
       "rawDate": "Sat, 26 Sep 2026 14:52:14 +0000",
@@ -776,15 +794,6 @@
       "tag": "health"
     },
     {
-      "title": "Ex-Michigan teacher facing sexual assault charges may seek dismissal of some counts",
-      "desc": "Former Michigan teacher Matthew Chapin's attorney plans to file motions to dismiss some charges based on when the alleged crimes occurred, with a preliminary hearing set for November.",
-      "link": "https://www.mlive.com/news/flint/2026/09/ex-michigan-teacher-facing-sexual-assault-charges-may-seek-dismissal-of-some-counts.html",
-      "date": "Sep 24, 2026",
-      "rawDate": "Thu, 24 Sep 2026 19:28:22 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Senate committee advances Klomp as HHS No. 2",
       "desc": "A key Senate committee Thursday advanced the nomination of Chris Klomp to be deputy secretary of the Department of Health and Human Services (HHS), setting him up for a later floor vote for confirmati",
       "link": "https://thehill.com/policy/healthcare/6110064-senate-advances-chris-klomp-hhs/",
@@ -882,15 +891,6 @@
       "rawDate": "Wed, 23 Sep 2026 23:10:29 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "10-year Treasury yield spikes to highest point since 2007",
-      "desc": "The benchmark 10-year U.S. Treasury bond yield again hit a 19-year high on Wednesday, as the market sell-off continues amid the Iran war and rising government debt.  The 10-year note closed at 5.11 pe",
-      "link": "https://thehill.com/business/6107495-us-treasury-yield-19-year-high/",
-      "date": "Sep 23, 2026",
-      "rawDate": "Wed, 23 Sep 2026 22:42:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Collins: White House backing down from NIH grant order",

@@ -1,6 +1,60 @@
 {
-  "generated": "2026-09-29T00:48:52.023Z",
+  "generated": "2026-09-29T06:26:40.871Z",
   "news": [
+    {
+      "title": "Uplift Promo Codes: $300 Off",
+      "desc": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+      "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "date": "Sep 29, 2026",
+      "rawDate": "Tue, 29 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Pope Leo says AI concerns are not &#039;fake news,&#039; must act on safety issues",
+      "desc": "Pope Leo XIV on Monday said mounting concerns about artificial intelligence software going rogue require discussions on how to regulate it, dismissing the notion that they are \"fake news.\" \"If someone",
+      "link": "https://thehill.com/policy/technology/6116673-pope-leo-xiv-ai-regulation/",
+      "date": "Sep 29, 2026",
+      "rawDate": "Tue, 29 Sep 2026 03:10:59 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Joggers find man stabbed to death in Flint",
+      "desc": "No suspects are currently in custody. The incident remains under investigation.",
+      "link": "https://www.mlive.com/news/flint/2026/09/joggers-find-man-stabbed-to-death-in-flint.html",
+      "date": "Sep 29, 2026",
+      "rawDate": "Tue, 29 Sep 2026 03:10:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Lawler, Conley clash over Israel aid, economy in televised debate",
+      "desc": "Rep. Mike Lawler (R-N.Y.) and his Democratic opponent, Cait Conley, clashed during a televised midterm debate Monday night, sparring over a range of issues including affordability, housing and foreign",
+      "link": "https://thehill.com/homenews/house/6116674-mike-lawler-cait-conley-debate-clash/",
+      "date": "Sep 29, 2026",
+      "rawDate": "Tue, 29 Sep 2026 02:41:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate passes ‘Protect College Sports Act’ with sweeping bipartisan vote",
+      "desc": "The Senate on Monday passed a landmark piece of legislation that aims to address growing concerns about fairness and equity in college sports, bolstering the National Collegiate Athletic Association's",
+      "link": "https://thehill.com/homenews/senate/6115892-senate-passes-protect-college-sports-act/",
+      "date": "Sep 29, 2026",
+      "rawDate": "Tue, 29 Sep 2026 02:08:17 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate defeats proposal to limit ticket price increases for college sports",
+      "desc": "The Senate voted Monday evening to defeat an amendment sponsored by Sen. John Kennedy (R-La.) to cap ticket price increases for college sporting events to four percent a year, even as ticket prices fo",
+      "link": "https://thehill.com/homenews/senate/6116594-kennedy-amendment-fails-vote/",
+      "date": "Sep 29, 2026",
+      "rawDate": "Tue, 29 Sep 2026 01:14:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Hegseth instructs Pentagon to defend 2026 elections from ‘foreign actors’",
       "desc": "Defense Secretary Pete Hegseth instructed the Pentagon last week to prioritize and deploy “advanced intelligence and cyber capabilities” to track down, disrupt and neutralize “foreign actors to protec",
@@ -56,15 +110,6 @@
       "tag": "safety"
     },
     {
-      "title": "Mick Mulvaney: Trump ad &#039;flat out&#039; wrong",
-      "desc": "Former White House chief of staff Mick Mulvaney on Monday said that a new taxpayer-funded TV advertisement from the White House promoting President Trump is \"flat out\" wrong. The 30-second ad features",
-      "link": "https://thehill.com/homenews/administration/6116228-mulvaney-criticizes-white-house-ad/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 22:04:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "News outlets ask court to give ‘little weight’ to DOJ support for OpenAI in copyright dispute",
       "desc": "A group of news outlets suing OpenAI for copyright infringement argued Monday that the court should give “little weight” to the views of the Department of Justice (DOJ), which signaled support for the",
       "link": "https://thehill.com/policy/technology/6116254-news-outlets-doj-openai-copyright/",
@@ -97,26 +142,8 @@
       "link": "https://thehill.com/policy/healthcare/6115908-democrats-attack-collins-medicaid-cuts/",
       "date": "Sep 28, 2026",
       "rawDate": "Mon, 28 Sep 2026 21:16:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Arizona tour company sues over Trump&#8217;s nonresident fee at national parks",
-      "desc": "An Arizona-based tour company is suing the Trump administration over its move to impose higher&#160;national park visitor fees on people who don’t live in the U.S. In a new filing Monday, Across Arizo",
-      "link": "https://thehill.com/policy/energy-environment/6116167-arizona-national-park-visitor-fees-nps/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 21:01:52 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Democratic Women&#8217;s Caucus releases policy priorities",
-      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} View Online Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Democratic Women&#8217;s Caucus unveils ",
-      "link": "https://thehill.com/newsletters/business-economy/6116170-democratic-womens-caucus-releases-policy-priorities/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 21:00:23 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Fed&#039;s Cook says AI demand &#039;broadening&#039; to increase inflation",
@@ -126,15 +153,6 @@
       "rawDate": "Mon, 28 Sep 2026 20:17:43 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Fed&#8217;s Cook says AI demand &#8216;broadening&#8217; to increase inflation",
-      "desc": "Federal Reserve board of governors member Lisa Cook said Monday that rising demand for artificial intelligence is leading to “broadening” inflationary impacts, with implications for the entire economy",
-      "link": "https://thehill.com/business/6115963-cook-warns-ai-price-pressures/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 20:17:43 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Appeals court upholds conviction of Michigan man in hunter’s 2018 murder",
@@ -461,15 +479,6 @@
       "tag": "technology"
     },
     {
-      "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
-      "desc": "Keep an eye on home wherever you are with the best security cameras, including indoor and outdoor, subscription services, AI smarts, and local recording options.",
-      "link": "https://www.wired.com/story/best-security-cameras/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Senators spurn Hegseth&#039;s pick amid jockeying for Army secretary nomination",
       "desc": "Defense Secretary Pete Hegseth’s pick to serve as secretary of the Army is facing Democratic opposition and a hesitant reception from key Republicans, amid jockeying for the service branch’s top civil",
       "link": "https://thehill.com/policy/defense/6113837-hegseth-army-pick-parnell-opposition-senate/",
@@ -497,48 +506,12 @@
       "tag": "technology"
     },
     {
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "desc": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "desc": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-      "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 09:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Nvidia unveils new system to put guardrails on AI agents",
       "desc": "Nvidia unveiled a new platform Monday to put guardrails on AI agents at both the software and hardware level, as major AI firms continue to discover new instances in which their agents have gone rogue",
       "link": "https://thehill.com/policy/technology/6114306-nvidia-unveiled-ai-agent-guardrails/",
       "date": "Sep 28, 2026",
       "rawDate": "Mon, 28 Sep 2026 09:00:00 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-      "desc": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-      "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-      "desc": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-      "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 09:00:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -695,15 +668,6 @@
       "tag": "safety"
     },
     {
-      "title": "How the attack on a Michigan church unfolded and changed everything",
-      "desc": "At 10:25 a.m. on Sept. 28, 2025, a 911 call sent police toward a church where hundreds had gathered for Sunday worship.",
-      "link": "https://www.mlive.com/news/flint/2026/09/how-the-attack-on-a-michigan-church-unfolded-and-changed-everything.html",
-      "date": "Sep 27, 2026",
-      "rawDate": "Sun, 27 Sep 2026 12:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "No weapons involved amid reported fights at Ann Arbor football game, district says",
       "desc": "Several student altercations were reported during Friday night's Pioneer-Huron game. Ann Arbor Public Schools Superintendent Jazz Parks says the district is reviewing the incident.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/09/no-weapons-involved-amid-reported-fights-at-ann-arbor-football-game-district-says.html",
@@ -731,18 +695,18 @@
       "tag": "health"
     },
     {
-      "title": "This Michigan high school graduate is thinking differently about how to change the world",
-      "desc": "His philosophy has been straightforward: When he reaches what he thinks is his limit, he tries to move the boundary.",
-      "link": "https://www.mlive.com/news/flint/2026/09/this-michigan-high-school-graduate-is-thinking-differently-about-how-to-change-the-world.html",
+      "title": "What’s for lunch? Dearborn schools bringing more Michigan-grown food to students",
+      "desc": "Dearborn Public Schools is getting nearly half a million dollars to bring more Michigan-grown food to students across the district.",
+      "link": "https://www.mlive.com/news/detroit/2026/09/whats-for-lunch-dearborn-schools-bringing-more-michigan-grown-food-to-students.html",
       "date": "Sep 26, 2026",
       "rawDate": "Sat, 26 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
     {
-      "title": "What’s for lunch? Dearborn schools bringing more Michigan-grown food to students",
-      "desc": "Dearborn Public Schools is getting nearly half a million dollars to bring more Michigan-grown food to students across the district.",
-      "link": "https://www.mlive.com/news/detroit/2026/09/whats-for-lunch-dearborn-schools-bringing-more-michigan-grown-food-to-students.html",
+      "title": "This Michigan high school graduate is thinking differently about how to change the world",
+      "desc": "His philosophy has been straightforward: When he reaches what he thinks is his limit, he tries to move the boundary.",
+      "link": "https://www.mlive.com/news/flint/2026/09/this-michigan-high-school-graduate-is-thinking-differently-about-how-to-change-the-world.html",
       "date": "Sep 26, 2026",
       "rawDate": "Sat, 26 Sep 2026 12:00:00 +0000",
       "source": "MLive Education",
@@ -810,15 +774,6 @@
       "rawDate": "Fri, 25 Sep 2026 20:23:04 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump rules out Bessent as AI czar",
-      "desc": "President Trump said Friday he is ruling out Treasury Secretary Scott Bessent to serve as his artificial intelligence czar amid speculation the Cabinet member was under consideration. Trump, in a Trut",
-      "link": "https://thehill.com/policy/technology/6111941-donald-trump-scott-bessent-artificial-intelligence-czar/",
-      "date": "Sep 25, 2026",
-      "rawDate": "Fri, 25 Sep 2026 18:48:20 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Collins warns OMB about unspent global health funding",

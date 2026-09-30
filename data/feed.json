@@ -1,6 +1,42 @@
 {
-  "generated": "2026-09-30T03:14:17.520Z",
+  "generated": "2026-09-30T10:07:47.406Z",
   "news": [
+    {
+      "title": "Trump finds close ally in Nvidia’s Huang at key AI juncture",
+      "desc": "Nvidia CEO Jensen Huang is becoming one of President Trump’s fiercest allies on AI at a critical juncture for the industry. In the face of mounting concerns over the future of AI, Huang is one of the ",
+      "link": "https://thehill.com/policy/technology/6119187-nvidia-ceo-trump-ai-ally/",
+      "date": "Sep 30, 2026",
+      "rawDate": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
+      "desc": "Lost time. Lost jobs. Lost friends. Lost family. Lost lives. Our joint investigation reveals the system that has divided the West Bank and measures what it cost people to move through it.",
+      "link": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
+      "date": "Sep 30, 2026",
+      "rawDate": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Unspent healthcare funding faces do-or-die cliff",
+      "desc": "The Trump administration has refused to spend billions of dollars that Congress appropriated for health programs, putting them at risk of expiring on Wednesday when the fiscal year ends.   Such a move",
+      "link": "https://thehill.com/policy/healthcare/6119086-trump-health-funding-impoundment-risks/",
+      "date": "Sep 30, 2026",
+      "rawDate": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Houston restaurant supplier Chef Mart files for bankruptcy — and it's still open",
+      "desc": "Court documents show $437,000 in debt and a $26,502 arbitration judgment among the company's mounting legal liabilities.",
+      "link": "https://www.mlive.com/life/2026/09/a-houston-restaurant-supplier-that-has-served-the-industry-for-over-3-decades-just-filed-for-bankruptcy.html",
+      "date": "Sep 30, 2026",
+      "rawDate": "Wed, 30 Sep 2026 09:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
     {
       "title": "Marshall sends cease-and-desist to Hamilton over &quot;defamatory&quot; medical debt ad",
       "desc": "Lawyers for Sen. Roger Marshall (R-Kansas) sent a cease-and-desist letter to his Democratic opponent Adam Hamilton for an ad focusing on a woman who was sued over medical debts to the Kansas Republica",
@@ -569,15 +605,6 @@
       "tag": "technology"
     },
     {
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "desc": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "date": "Sep 29, 2026",
-      "rawDate": "Tue, 29 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Trump, China and the question of selling arms to Beijing",
       "desc": "Questions about whether the U.S. could change its posture toward China are on the rise after David Perdue, the U.S. ambassador to China, made waves by saying President Trump had asked Chinese Presiden",
       "link": "https://thehill.com/homenews/administration/6116335-perdue-remarks-trigger-us-china-debate/",
@@ -639,15 +666,6 @@
       "rawDate": "Mon, 28 Sep 2026 22:17:46 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "News outlets ask court to give ‘little weight’ to DOJ support for OpenAI in copyright dispute",
-      "desc": "A group of news outlets suing OpenAI for copyright infringement argued Monday that the court should give “little weight” to the views of the Department of Justice (DOJ), which signaled support for the",
-      "link": "https://thehill.com/policy/technology/6116254-news-outlets-doj-openai-copyright/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 21:57:02 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Man convicted of killing his mother at Flushing home",
@@ -729,15 +747,6 @@
       "rawDate": "Mon, 28 Sep 2026 17:13:23 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Whitmer announces 3 Michigan business expansions to bring 127 jobs, $91M investment",
-      "desc": "Gov. Gretchen Whitmer announced Monday business expansions in Kent, Ingham and Oakland counties that will result in 121 jobs and more than $90.6 million in capital investment.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/09/whitmer-announces-3-michigan-business-expansions-to-bring-127-jobs-91m-investment.html",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 16:00:58 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Iran denies involvement in suspected plot targeting US air base in England",
@@ -916,15 +925,6 @@
       "link": "https://thehill.com/policy/healthcare/6112311-kennedy-hhs-vaccine-lawsuit-democrats-doubt/",
       "date": "Sep 25, 2026",
       "rawDate": "Fri, 25 Sep 2026 21:58:41 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Collins warns OMB about unspent global health funding",
-      "desc": "Sen. Susan Collins (R-Maine), who chairs the Senate Appropriations Committee, called on the Trump administration to spend more than $1 billion of global health funding that Congress has already approp",
-      "link": "https://thehill.com/policy/healthcare/6111831-susan-collins-healthcare-funding-trump-administration-warning/",
-      "date": "Sep 25, 2026",
-      "rawDate": "Fri, 25 Sep 2026 17:38:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

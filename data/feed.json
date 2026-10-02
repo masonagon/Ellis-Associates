@@ -1,6 +1,42 @@
 {
-  "generated": "2026-10-01T23:48:05.143Z",
+  "generated": "2026-10-02T03:21:33.139Z",
   "news": [
+    {
+      "title": "Trump quips Paxton is ‘pain in the ass,’ ‘a little controversial’",
+      "desc": "President Trump quipped that Texas Senate GOP candidate Ken Paxton was “a pain in the ass” and acknowledged he was “a little controversial” during several stops in the Lone Star State and Oklahoma — u",
+      "link": "https://thehill.com/homenews/administration/6124986-trump-paxton-talarico-texas-senate-race/",
+      "date": "Oct 2, 2026",
+      "rawDate": "Fri, 02 Oct 2026 03:17:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DOJ says UCLA law school illegally used race in their admissions",
+      "desc": "The Department of Justice (DOJ) on Thursday accused the law school at the University of California, Los Angeles, (UCLA) of discriminating against white and Asian students in its admissions process.  T",
+      "link": "https://thehill.com/regulation/court-battles/6124974-doj-accuses-ucla-law-discrimination/",
+      "date": "Oct 2, 2026",
+      "rawDate": "Fri, 02 Oct 2026 02:54:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pelosi cancels Cornell University event amid frat house rape investigation",
+      "desc": "House Speaker Emerita Nancy Pelosi (D-Calif.) canceled an upcoming event affiliated with Cornell University amid fresh scrutiny of how the Ivy League institution handled a 2024 allegation of gang rape",
+      "link": "https://thehill.com/homenews/house/6124898-pelosi-cancels-cornell-event/",
+      "date": "Oct 2, 2026",
+      "rawDate": "Fri, 02 Oct 2026 01:16:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Woman, 23, shot at Kalamazoo apartment complex 3 days after fatal shooting",
+      "desc": "A 23-year-old woman was shot and wounded at Fox Ridge Apartments in Kalamazoo, just three days after an 18-year-old was fatally shot at the same location.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/woman-23-shot-at-kalamazoo-apartment-complex-3-days-after-fatal-shooting.html",
+      "date": "Oct 2, 2026",
+      "rawDate": "Fri, 02 Oct 2026 01:14:30 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "What&#039;s in the permitting reform bill?",
       "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  What's in the permitting reform bill? This week, a set of bipartisan senators announced a major permitting reform bi",
@@ -30,7 +66,7 @@
     },
     {
       "title": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
-      "desc": "A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon’s lethal boat strikes in the Caribbean and Pacific.  ",
+      "desc": "A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon’s lethal boat strikes in the Caribbean and Pacific.  ",
       "link": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/",
       "date": "Oct 1, 2026",
       "rawDate": "Thu, 01 Oct 2026 22:59:18 +0000",
@@ -101,15 +137,6 @@
       "tag": "government"
     },
     {
-      "title": "Republicans hit crunch time on data centers",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story  GOP wrestles with data center backlash weeks ahead of midterms  Republicans are growing increasingly worried that data centers are a liability in ",
-      "link": "https://thehill.com/newsletters/technology/6124578-republicans-hit-crunch-time-on-data-centers/",
-      "date": "Oct 1, 2026",
-      "rawDate": "Thu, 01 Oct 2026 21:17:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Live updates: Trump stumps in Texas, Oklahoma",
       "desc": "President Trump is in Denton, Texas, to tour the Peterbilt Motors factory on Thursday afternoon, set to deliver remarks about manufacturing and his economic agenda. He will then attend a rally in Dura",
       "link": "https://thehill.com/homenews/administration/6122030-live-updates-trump-texas-oklahoma-midterm-elections/",
@@ -133,17 +160,8 @@
       "link": "https://thehill.com/policy/technology/6124282-ro-khanna-ai-theft-investigation-china/",
       "date": "Oct 1, 2026",
       "rawDate": "Thu, 01 Oct 2026 20:49:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mortgage rates surge once again",
-      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Mortgage rates spike again to 7.28 percent The avera",
-      "link": "https://thehill.com/newsletters/business-economy/6124486-mortgage-rates-surge-once-again/",
-      "date": "Oct 1, 2026",
-      "rawDate": "Thu, 01 Oct 2026 20:47:38 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Spicy new sauce coming to Taco Bell locations in 7 different countries",
@@ -549,15 +567,6 @@
       "rawDate": "Thu, 01 Oct 2026 09:00:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Homeowner arrested after fatal stabbing of burglary suspect in Portage, victim ID’d",
-      "desc": "A Portage homeowner has been arrested on a charge of open murder after the fatal stabbing of a man who allegedly broke into a vehicle in the homeowner's driveway. The deceased is said to have first pu",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/09/homeowner-arrested-after-fatal-stabbing-of-burglary-suspect-in-portage.html",
-      "date": "Sep 30, 2026",
-      "rawDate": "Wed, 30 Sep 2026 22:30:06 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "7 takeaways from Hegseth&#039;s address to officers: Warfare&#039;s future, faith and a new base",

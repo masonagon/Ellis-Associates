@@ -1,6 +1,78 @@
 {
-  "generated": "2026-10-03T18:55:02.028Z",
+  "generated": "2026-10-03T21:55:17.928Z",
   "news": [
+    {
+      "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
+      "desc": "Defense Secretary Pete Hegseth indicated on Saturday that some U.S. service members could be redeployed from Europe to the Western Hemisphere as the Trump administration ramps up its deadly campaign a",
+      "link": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 21:47:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Federal judge rules warrantless Flock camera searches may violate 4th Amendment",
+      "desc": "An Oklahoma federal judge ruled Friday that warrantless searches using AI-powered surveillance camera data, such as what Flock Safety's hallmark technology collects, may violate the Fourth Amendment w",
+      "link": "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 21:43:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
+      "desc": "The Trump administration is moving ahead with big changes to Head Start, the federal early childhood education program that serves low-income families, to the outcry of advocates who say the proposals",
+      "link": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term",
+      "desc": "With a month until the midterm elections, President Trump is hitting the campaign trail in an effort to ramp up voter turnout across traditionally red states, as rising costs and a deeply unpopular Ir",
+      "link": "https://thehill.com/homenews/sunday-talk-shows/6127755-trump-midterm-campaign-iran-war/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 20:37:40 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump, Cotton tussle over daylight savings after cell phone number leak",
+      "desc": "President Trump repeatedly berated Sen. Tom Cotton (R-Ark.) on Saturday over his stance on a daylight savings bill after posting the Republican Congress member's cell phone number on social media.  In",
+      "link": "https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 19:53:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "White House defends media outlet bans, now citing &#039;professionalism&#039; standards",
+      "desc": "Trump administration lawyers are fighting back against CNN, MS NOW and Politico's attempt to prevent the White House from enforcing futures bans against them — with the Justice Department (DOJ) now ar",
+      "link": "https://thehill.com/regulation/court-battles/6127654-white-house-defends-press-ban-professionalism/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 19:22:07 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man hospitalized following stabbing in Marquette County",
+      "desc": "Police have arrested a 36-year-old man accused of stabbing the victim with a knife Friday night during an altercation.",
+      "link": "https://www.mlive.com/news/2026/10/man-hospitalized-following-stabbing-in-marquette-county.html",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 19:15:28 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "The next crash could be an economic bloodbath",
+      "desc": "The author warns that the massive capital investment in artificial intelligence infrastructure creates a systemic economic risk that could trigger widespread financial instability if projected product",
+      "link": "https://thehill.com/opinion/finance/6126452-ai-infrastructure-economic-risk/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 19:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Florida&#039;s dengue outbreak reportedly largest US has seen in decades",
       "desc": "A dengue fever outbreak in the state of Florida appears to have grown to the largest in the continental U.S. in decades, totaling 252 reported cases this year in the Sunshine State according to an upd",
@@ -45,33 +117,6 @@
       "rawDate": "Sat, 03 Oct 2026 16:11:41 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "The Trump administration needs a crash course in ‘Working Class’ from JD Vance",
-      "desc": "Whether the Republican leadership wants to admit it or not, they have a growing perception problem with working-class and disenfranchised Americans.",
-      "link": "https://thehill.com/opinion/campaign/6124490-vance-must-champion-working-class/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats edge out, neck and neck with Republicans in 5 key Senate races: Polls",
-      "desc": "Senate Democratic candidates are edging out or polling neck and neck with their GOP counterparts in five competitive Senate races this cycle — the latest indicator that Republicans are facing a tough ",
-      "link": "https://thehill.com/homenews/campaign/6127564-senate-polls-democrats-midterm-elections/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 15:59:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "SCOTUS must show oil companies they aren’t above local accountability",
-      "desc": "If you think people should be able to hold corporations accountable in court, you should pay attention.",
-      "link": "https://thehill.com/opinion/judiciary/supreme-court/6122644-suncor-v-boulder-county-suit/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 15:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Chinese vehicle ban stalls amid Detroit concerns over rising EV competition",
@@ -335,15 +380,6 @@
       "tag": "safety"
     },
     {
-      "title": "JD Vance names ‘really obvious’ Trump ally running for president",
-      "desc": "The vice president also acknowledged that Republicans may face an \"uphill climb\" in the midterms.",
-      "link": "https://www.mlive.com/politics/2026/10/jd-vance-names-really-obvious-trump-ally-running-for-president.html",
-      "date": "Oct 2, 2026",
-      "rawDate": "Fri, 02 Oct 2026 16:43:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Oakland County Sheriff’s officials investigate possible misuse of Flock data",
       "desc": "The Oakland County Board of Commissioners voted 13-4 on April 8, 2026, to approve a nine-month pilot program, called “Project Prove It,” for seven Flock Safety license-plate reading cameras, with an o",
       "link": "https://www.mlive.com/news/detroit/2026/10/oakland-county-sheriffs-officials-investigate-possible-misuse-of-flock-data.html",
@@ -413,15 +449,6 @@
       "date": "Oct 2, 2026",
       "rawDate": "Fri, 02 Oct 2026 14:34:56 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Bay City father hopes son’s shooting at Tim Hortons will serve as a wake-up call to end violence",
-      "desc": "Dan Haney Sr., himself a survivor of multiple shootings and stabbings, says his 19-year-old son Calub is recovering after being shot three times.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/bay-city-father-hopes-sons-shooting-at-tim-hortons-will-serve-as-a-wake-up-call-to-end-violence.html",
-      "date": "Oct 2, 2026",
-      "rawDate": "Fri, 02 Oct 2026 14:12:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -677,15 +704,6 @@
       "tag": "health"
     },
     {
-      "title": "UK believes Iran &#039;played a part&#039; in foiled attack, Burnham says",
-      "desc": "British Prime Minister Andy Burnham said Wednesday his government believes that Iran “played a part” in the alleged thwarted attack on a U.S. air base in the United Kingdom earlier this week. “There a",
-      "link": "https://thehill.com/policy/international/6120983-uk-us-air-base-incident-andy-burnham-iran-conflict/",
-      "date": "Sep 30, 2026",
-      "rawDate": "Wed, 30 Sep 2026 18:07:44 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "White House begins mailing $500 ObamaCare &#039;refund&#039; checks",
       "desc": "The White House began mailing $500 refund checks Wednesday to just about 1 million Americans who the administration says were overcharged for their ObamaCare insurance.  Treasury Department checks wil",
       "link": "https://thehill.com/policy/healthcare/6120529-whitehouse-obamacare-refunds-mailing/",
@@ -745,15 +763,6 @@
       "link": "https://thehill.com/homenews/administration/6116896-watch-live-rfk-jr-jd-vance-2026-maha-summit-trump-administration/",
       "date": "Sep 29, 2026",
       "rawDate": "Tue, 29 Sep 2026 12:29:21 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Pennsylvania surpasses 900 measles cases",
-      "desc": "Pennsylvania on Monday surpassed 900 measles cases, after adding more than 100 additional cases in the past week. The Pennsylvania Department of Health updated its measles dashboard Monday, putting th",
-      "link": "https://thehill.com/homenews/state-watch/6116174-pennsylvania-surpasses-900-measles-cases/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 22:19:20 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

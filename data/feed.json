@@ -1,14 +1,77 @@
 {
-  "generated": "2026-10-03T15:01:06.616Z",
+  "generated": "2026-10-03T18:55:02.028Z",
   "news": [
     {
-      "title": "US suspends consular services in Brazil due to security concerns",
-      "desc": "The U.S. halted consular services in Brazil Friday due to rising security concerns ahead of the country’s presidential election on Sunday. “Consular Services in the U.S. Embassy and Consulates in Braz",
-      "link": "https://thehill.com/policy/international/6127503-us-suspends-brazil-consular-services-friday/",
+      "title": "Florida&#039;s dengue outbreak reportedly largest US has seen in decades",
+      "desc": "A dengue fever outbreak in the state of Florida appears to have grown to the largest in the continental U.S. in decades, totaling 252 reported cases this year in the Sunshine State according to an upd",
+      "link": "https://thehill.com/policy/healthcare/6127666-florida-dengue-outbreak-record/",
       "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 14:29:48 +0000",
+      "rawDate": "Sat, 03 Oct 2026 18:45:07 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Breaking the tyranny of extremists",
+      "desc": "Political scientist Lawrence R. Jacobs argues that urgent reforms to the presidential nomination process are required to prevent the rise of populism and protect the rule of law.",
+      "link": "https://thehill.com/opinion/campaign/6124141-urgent-gop-reform-prevents-populism/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 18:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "desc": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 18:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump posts GOP senator&#039;s cell phone number over daylight savings act stall",
+      "desc": "President Trump posted Sen. Tom Cotton’s (R-Ark.) cell phone number on Truth Social Saturday, lashing out at Senate Republicans to move forward with legislation that would make daylight saving time pe",
+      "link": "https://thehill.com/homenews/administration/6127587-trump-posts-tom-cotton-phone-number/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 16:20:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pennsylvania nears 1,000 measles cases, state health department reports",
+      "desc": "Pennsylvania's reported measles cases are almost at 1,000 for 2026, days after its health department confirmed the figure had passed 900. “977 measles cases have been confirmed across 39 counties in P",
+      "link": "https://thehill.com/policy/healthcare/6127566-pennsylvania-measles-cases-approach-1000/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 16:11:41 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "The Trump administration needs a crash course in ‘Working Class’ from JD Vance",
+      "desc": "Whether the Republican leadership wants to admit it or not, they have a growing perception problem with working-class and disenfranchised Americans.",
+      "link": "https://thehill.com/opinion/campaign/6124490-vance-must-champion-working-class/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats edge out, neck and neck with Republicans in 5 key Senate races: Polls",
+      "desc": "Senate Democratic candidates are edging out or polling neck and neck with their GOP counterparts in five competitive Senate races this cycle — the latest indicator that Republicans are facing a tough ",
+      "link": "https://thehill.com/homenews/campaign/6127564-senate-polls-democrats-midterm-elections/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 15:59:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "SCOTUS must show oil companies they aren’t above local accountability",
+      "desc": "If you think people should be able to hold corporations accountable in court, you should pay attention.",
+      "link": "https://thehill.com/opinion/judiciary/supreme-court/6122644-suncor-v-boulder-county-suit/",
+      "date": "Oct 3, 2026",
+      "rawDate": "Sat, 03 Oct 2026 15:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
     },
     {
       "title": "Chinese vehicle ban stalls amid Detroit concerns over rising EV competition",
@@ -17,15 +80,6 @@
       "date": "Oct 3, 2026",
       "rawDate": "Sat, 03 Oct 2026 13:51:21 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump announces US will send $90 checks to 20 million seniors enrolled in Medicare",
-      "desc": "President Trump announced Friday his administration will pay out a total of around $2 billion in checks to over 20 million seniors to offset Medicare Part B premium costs.  In an evening Truth Social ",
-      "link": "https://thehill.com/homenews/administration/6127480-seniors-medicare-improvement-fund-checks/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 13:17:13 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -45,15 +99,6 @@
       "rawDate": "Sat, 03 Oct 2026 12:55:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "US, Russia talks on Ukraine involve oil deal tied to Kushner, Witkoff: Report",
-      "desc": "The Trump administration’s ongoing discussions with Russia to end the Ukraine war now include a multibillion-dollar oil deal that would benefit Middle Eastern business executives tied to the lead U.S.",
-      "link": "https://thehill.com/homenews/administration/6127449-trump-russia-ukraine-oil-deal-lukoil/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 12:11:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -119,15 +164,6 @@
       "tag": "education"
     },
     {
-      "title": "GOP walks tightrope on immigration ahead of midterms",
-      "desc": "Republicans are struggling with how to thread the needle on immigration ahead of what is expected to be a bruising midterm season in which many voters have soured on the Trump administration’s aggress",
-      "link": "https://thehill.com/homenews/campaign/6126619-gop-trump-immigration-enforcement-midterms/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "What to know about Trump&#039;s MAHA-backed push for psychedelic research",
       "desc": "The Trump administration, under the influence of the Make America Healthy Again (MAHA) movement, is exploring the potential use of psychedelic substances in medicine — once a fringe topic that is now ",
       "link": "https://thehill.com/policy/healthcare/6125285-trump-administration-psychedelic-medicine-maha/",
@@ -143,33 +179,6 @@
       "date": "Oct 3, 2026",
       "rawDate": "Sat, 03 Oct 2026 09:00:00 +0000",
       "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Rove says if Paxton doesn&#039;t debate Talarico, &#039;he loses&#039;",
-      "desc": "Republican strategist Karl Rove said he believes Texas Attorney General Ken Paxton (R) will lose his bid for Senate if he does not agree to a debate with his Democratic opponent, state Rep. James Tala",
-      "link": "https://thehill.com/homenews/campaign/6127360-karl-rove-paxton-talarico-debate-warning/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 02:45:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blue Dog Democrat drops &#039;Zyn&#039; from campaign nicotine pouch can",
-      "desc": "Rep. Marie Gluesenkamp Perez (D-Wash.) dropped the word \"Zyn\" from a piece of campaign merchandise inspired by the popular nicotine pouch brand's packaging after its parent company reportedly asked he",
-      "link": "https://thehill.com/homenews/house/6127336-marie-gluesenkamp-perez-zyn-merch-removal/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 01:38:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blue Dog Democrat drops &#8216;Zyn&#8217; from campaign nicotine pouch can",
-      "desc": "Rep. Marie Gluesenkamp Perez (D-Wash.) dropped the word &#8220;Zyn&#8221; from a piece of campaign merchandise inspired by the popular nicotine pouch brand&#8217;s packaging after its parent company r",
-      "link": "https://thehill.com/homenews/house/6127336-marie-gluesenkamp-perez-zyn-merch-removal/",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 01:38:37 +0000",
-      "source": "The Hill Economy",
       "tag": "associations"
     },
     {
@@ -350,15 +359,6 @@
       "date": "Oct 2, 2026",
       "rawDate": "Fri, 02 Oct 2026 16:02:56 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "desc": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-      "date": "Oct 2, 2026",
-      "rawDate": "Fri, 02 Oct 2026 16:00:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -754,24 +754,6 @@
       "link": "https://thehill.com/homenews/state-watch/6116174-pennsylvania-surpasses-900-measles-cases/",
       "date": "Sep 28, 2026",
       "rawDate": "Mon, 28 Sep 2026 22:19:20 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Senate Democratic PAC hits Collins over Medicaid cuts she voted against",
-      "desc": "A Democratic super PAC on Monday launched a new ad campaign attacking Sen. Susan Collins (R-Maine) for the closure of about a dozen birthing centers in Maine, arguing she helped enable the massive Med",
-      "link": "https://thehill.com/policy/healthcare/6115908-democrats-attack-collins-medicaid-cuts/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 21:16:14 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Blood pressure medication recalled nationwide under FDA&#039;s Class II risk level",
-      "desc": "If you are one of millions of Americans taking medication to lower blood pressure, you may want to check the label.",
-      "link": "https://thehill.com/homenews/6115677-blood-pressure-medication-recalled-nationwide-under-fdas-class-ii-risk-level/",
-      "date": "Sep 28, 2026",
-      "rawDate": "Mon, 28 Sep 2026 18:54:27 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

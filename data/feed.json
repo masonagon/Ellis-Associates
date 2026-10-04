@@ -1,8 +1,62 @@
 {
-  "generated": "2026-10-04T20:42:44.144Z",
+  "generated": "2026-10-04T23:44:24.952Z",
   "news": [
     {
-      "title": "Kennedy says &#039;telling&#039; Americans &#039;not to believe their own lying checkbooks is not going to work&#039;",
+      "title": "Pentagon pulls B-1 bombers from UK base following alleged terror threat",
+      "desc": "The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in Englan",
+      "link": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 22:50:38 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Large oil exporters agree to continue consistent production in November",
+      "desc": "Seven of the world’s largest oil-exporting countries agreed Sunday to maintain their baseline production levels for November, as fuel prices remain elevated amid the Iran war. The “OPEC+” group, which",
+      "link": "https://thehill.com/policy/energy-environment/6128591-opec-maintains-oil-production-levels/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 22:17:20 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
+      "desc": "The Russian Defense Ministry on Sunday threatened to hit Ukrainian military and industrial facilities, after Ukrainian President Volodymyr Zelensky said his military would target Russia’s oil refineri",
+      "link": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 21:45:31 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "This Week on the Hill: Congressional recess shifts focus to midterm campaign trail",
+      "desc": "With both chambers of Congress out of session, lawmakers are trading the Capitol for the campaign trail as the midterm elections enter their final stretch. The shift will be especially visible this we",
+      "link": "https://thehill.com/newsletters/this-week-on-the-hill/6126863-upcoming-senate-candidates-debates-midterms/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
+      "desc": "President Trump is headed to deep-red Nebraska as Republicans ready for a close Senate race against independent Dan Osborn, who’s backed by Democrats aiming to keep the seat out of GOP hands. Incumben",
+      "link": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 21:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic rep: Administration &#039;has failed to present a strategy&#039; in Iran war",
+      "desc": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain",
+      "link": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 20:53:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kennedy: &#039;Telling&#039; Americans &#039;not to believe their own lying checkbooks is not going to work&#039;",
       "desc": "Sen. John Kennedy (R-La.) on Sunday said Republicans “have to tell the American people the truth” about the cost of living as his party heads into the midterms. “As I've said before, Kristen, here's m",
       "link": "https://thehill.com/homenews/senate/6128455-kennedy-midterm-cost-living/",
       "date": "Oct 4, 2026",
@@ -47,15 +101,6 @@
       "tag": "safety"
     },
     {
-      "title": "Lawyer for Cornell Jane Doe says he believes ‘there were more’ who participated in alleged gang rape",
-      "desc": "A lawyer for a woman who alleges she was gang raped at Cornell University in 2024 said Sunday he thinks there were more than seven men involved in the incident. “I'm not even sure we have everybody wh",
-      "link": "https://thehill.com/regulation/court-battles/6128241-cornell-gang-rape-lawsuit/",
-      "date": "Oct 4, 2026",
-      "rawDate": "Sun, 04 Oct 2026 16:08:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Marching bands: See the winners from the Sparta Invitational",
       "desc": "Four schools from across West Michigan claimed flight victories at Saturday's invitational.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/marching-bands-see-the-winners-from-the-sparta-invitational.html",
@@ -72,15 +117,6 @@
       "rawDate": "Sun, 04 Oct 2026 15:55:00 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Hassett on negative polling on economy: ‘I just don&#039;t buy it’",
-      "desc": "Kevin Hassett, director of the National Economic Council, said Sunday he doesn’t believe in recent polls that show Americans’ negative feelings about the economy. “Ahead of an election cycle, the fact",
-      "link": "https://thehill.com/business/6128205-hassett-dismisses-negative-economic-polls/",
-      "date": "Oct 4, 2026",
-      "rawDate": "Sun, 04 Oct 2026 14:40:55 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Trump announces &#039;Super Intelligence Force&#039; led by DNI Jay Clayton",
@@ -228,7 +264,7 @@
     },
     {
       "title": "Florida&#039;s dengue outbreak reportedly largest US has seen in decades",
-      "desc": "A dengue fever outbreak in the state of Florida appears to have grown to the largest in the continental U.S. in decades, totaling 252 reported cases this year in the Sunshine State according to an upd",
+      "desc": "A dengue fever outbreak in Florida appears to have grown into the largest number of cases the continental U.S. has seen in decades — totaling 252 reported cases this year in the Sunshine State, accord",
       "link": "https://thehill.com/policy/healthcare/6127666-florida-dengue-outbreak-record/",
       "date": "Oct 3, 2026",
       "rawDate": "Sat, 03 Oct 2026 18:45:07 +0000",
@@ -246,7 +282,7 @@
     },
     {
       "title": "Pennsylvania nears 1,000 measles cases, state health department reports",
-      "desc": "Pennsylvania's reported measles cases are almost at 1,000 for 2026, days after its health department confirmed the figure had passed 900. “977 measles cases have been confirmed across 39 counties in P",
+      "desc": "Pennsylvania's health department reported Friday that there have been nearly 1,000 measles cases in the state this year, after previously reporting on Sept. 28 the number had just surpassed 900. The P",
       "link": "https://thehill.com/policy/healthcare/6127566-pennsylvania-measles-cases-approach-1000/",
       "date": "Oct 3, 2026",
       "rawDate": "Sat, 03 Oct 2026 16:11:41 +0000",
@@ -650,24 +686,6 @@
       "tag": "technology"
     },
     {
-      "title": "7 takeaways from Hegseth&#039;s address to officers: Warfare&#039;s future, faith and a new base",
-      "desc": "Defense Secretary Pete Hegseth made a flurry of announcements during a wide-ranging speech to active-duty officers Wednesday.  At the beginning of the address, the Pentagon chief stuck to his bread an",
-      "link": "https://thehill.com/policy/defense/6121765-pete-hegseth-takeaways-command-warfare-base/",
-      "date": "Sep 30, 2026",
-      "rawDate": "Wed, 30 Sep 2026 22:27:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Hegseth announces 5 new non-Ivy League partnerships",
-      "desc": "Defense Secretary Pete Hegseth announced new Pentagon partnerships with five non-Ivy League colleges and universities Wednesday amid his ongoing efforts to distance the military from America's most pr",
-      "link": "https://thehill.com/policy/defense/6121743-hegseth-pentagon-partners-non-ivy-colleges/",
-      "date": "Sep 30, 2026",
-      "rawDate": "Wed, 30 Sep 2026 22:22:29 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Pennsylvania records 5th measles-related death this year",
       "desc": "Pennsylvania health officials reported a fifth measles-associated death Wednesday amid a rapidly growing outbreak — the worst outbreak the commonwealth has seen in more than 35 years.  The Pennsylvani",
       "link": "https://thehill.com/policy/healthcare/6121738-pennsylvania-reports-fifth-measles-related-death/",
@@ -677,15 +695,6 @@
       "tag": "health"
     },
     {
-      "title": "Hegseth puts Musk, Luckey, Gingrich in charge of military future warfare review",
-      "desc": "Defense Secretary Pete Hegseth on Wednesday announced that SpaceXAI CEO Elon Musk, Anduril co-founder Palmer Luckey and former Speaker Newt Gingrich (R-Ga.) will lead a new Pentagon effort to study th",
-      "link": "https://thehill.com/policy/defense/6121108-pete-hegseth-pentagon-project-meridian-warfare-future/",
-      "date": "Sep 30, 2026",
-      "rawDate": "Wed, 30 Sep 2026 20:56:43 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Jeffries knocks Trump opposition to AI guardrails",
       "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Wednesday knocked President Trump for opposing federal limits on the development of AI.  Jeffries said Trump’s approach of allowing the AI industry to",
       "link": "https://thehill.com/homenews/house/6121555-jeffries-criticizes-trump-ai-regulation/",
@@ -693,15 +702,6 @@
       "rawDate": "Wed, 30 Sep 2026 20:43:15 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Hegseth invites governors to bid for &#039;next great American base&#039;",
-      "desc": "Defense Secretary Pete Hegseth invited governors Wednesday to bid for the “next great American” base to be built inside the country.  \"We're calling on every governor in the country and adjutant gener",
-      "link": "https://thehill.com/policy/defense/6121389-pete-hegseth-invites-governors-base-bids/",
-      "date": "Sep 30, 2026",
-      "rawDate": "Wed, 30 Sep 2026 20:11:35 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Red states challenge mail-order abortion shield laws for providers",

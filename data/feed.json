@@ -1,6 +1,51 @@
 {
-  "generated": "2026-10-04T17:19:16.894Z",
+  "generated": "2026-10-04T20:42:44.144Z",
   "news": [
+    {
+      "title": "Kennedy says &#039;telling&#039; Americans &#039;not to believe their own lying checkbooks is not going to work&#039;",
+      "desc": "Sen. John Kennedy (R-La.) on Sunday said Republicans “have to tell the American people the truth” about the cost of living as his party heads into the midterms. “As I've said before, Kristen, here's m",
+      "link": "https://thehill.com/homenews/senate/6128455-kennedy-midterm-cost-living/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 19:49:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Fire damages Tomukun Noodle Bar in Ann Arbor",
+      "desc": "The early morning blaze caused $150,000 in damage and forced two neighboring restaurants to close pending health inspections.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/fire-damages-tomukun-noodle-bar-in-ann-arbor.html",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 19:41:25 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump&#039;s 2024 support from Hispanic voters dips in new poll",
+      "desc": "President Trump’s support among Hispanic voters has plummeted from 2024, according to a new poll. Just 27 percent of 800 Hispanic respondents to the NBC News/Telemundo survey approved of Trump, while ",
+      "link": "https://thehill.com/homenews/administration/6128414-trump-hispanic-support-plummeted/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 19:40:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
+      "desc": "Former Chicago Mayor Rahm Emanuel (D) on Sunday pushed Democrats to focus on ethics reform instead of a third impeachment of President Trump if they win back power in Congress after the midterm electi",
+      "link": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 18:09:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bow hunter injured by stray bullet from nearby target shooting, police say",
+      "desc": "The 38-year-old man was hunting in his blind when the round struck him in the chest.",
+      "link": "https://www.mlive.com/news/jackson/2026/10/bow-hunter-injured-by-stray-bullet-from-nearby-target-shooting-police-say.html",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 17:53:05 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Lawyer for Cornell Jane Doe says he believes ‘there were more’ who participated in alleged gang rape",
       "desc": "A lawyer for a woman who alleges she was gang raped at Cornell University in 2024 said Sunday he thinks there were more than seven men involved in the incident. “I'm not even sure we have everybody wh",
@@ -30,7 +75,7 @@
     },
     {
       "title": "Hassett on negative polling on economy: ‘I just don&#039;t buy it’",
-      "desc": "Kevin Hassett, director of the National Economic Council, said Sunday that he doesn’t believe in recent polls that show Americans’ negative feelings about the economy. “Ahead of an election cycle, the",
+      "desc": "Kevin Hassett, director of the National Economic Council, said Sunday he doesn’t believe in recent polls that show Americans’ negative feelings about the economy. “Ahead of an election cycle, the fact",
       "link": "https://thehill.com/business/6128205-hassett-dismisses-negative-economic-polls/",
       "date": "Oct 4, 2026",
       "rawDate": "Sun, 04 Oct 2026 14:40:55 +0000",
@@ -39,7 +84,7 @@
     },
     {
       "title": "Trump announces &#039;Super Intelligence Force&#039; led by DNI Jay Clayton",
-      "desc": "President Trump on Sunday morning announced the creation of \"Super IntelligenceForce\" amid his push to keep the U.S. in the lead on artificial intelligence development after warnings from the technolo",
+      "desc": "President Trump on Sunday morning announced the creation of the \"Super IntelligenceForce\" amid his push to keep the U.S. in the lead on artificial intelligence development after warnings from the tech",
       "link": "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/",
       "date": "Oct 4, 2026",
       "rawDate": "Sun, 04 Oct 2026 14:14:23 +0000",
@@ -54,6 +99,15 @@
       "rawDate": "Sun, 04 Oct 2026 13:42:58 +0000",
       "source": "MLive Crime",
       "tag": "safety"
+    },
+    {
+      "title": "New student-run, free grocery store to address food insecurity in Muskegon",
+      "desc": "Students at the Muskegon Community Education Center will also be operating a full-service coffee shop at the school site.",
+      "link": "https://www.mlive.com/news/muskegon/2026/10/new-student-run-free-grocery-store-to-address-food-insecurity-in-muskegon.html",
+      "date": "Oct 4, 2026",
+      "rawDate": "Sun, 04 Oct 2026 13:25:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Police investigate shooting in Kalamazoo",
@@ -74,15 +128,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump vows GOP midterm victory: &#039;We&#039;re going to shove it up their a--&#039;",
-      "desc": "President Trump on Saturday pressed his supporters to go to the polls for next month’s midterms, promising a “big” GOP victory if they do so. “You got to get out and vote. You got to get out. You got ",
-      "link": "https://thehill.com/homenews/campaign/6128086-trump-vows-gop-win-midterms/",
-      "date": "Oct 4, 2026",
-      "rawDate": "Sun, 04 Oct 2026 12:18:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Four candidates vie for three seats on Western School Board in upcoming election",
       "desc": "Brandon Bradley, Gale Easton, Blaine Goodrich and Jason Herrington are on the ballot for the Nov. 3 election.",
       "link": "https://www.mlive.com/politics/2026/10/four-candidates-vie-for-three-seats-on-western-school-board-in-upcoming-election.html",
@@ -98,15 +143,6 @@
       "date": "Oct 4, 2026",
       "rawDate": "Sun, 04 Oct 2026 12:00:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Congressional hearings are no longer a check on power — they&#039;re now a circus",
-      "desc": "Unfortunately, despite a vast expansion of executive branch authority, Congress seems prepared to let partisan advantage trump comity, cooperation and the public’s right to know. And with Republicans ",
-      "link": "https://thehill.com/opinion/congress-blog/6126730-congressional-oversight-deteriorates-partisan/",
-      "date": "Oct 4, 2026",
-      "rawDate": "Sun, 04 Oct 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -165,7 +201,7 @@
     },
     {
       "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
-      "desc": "Defense Secretary Pete Hegseth indicated on Saturday that some U.S. service members could be redeployed from Europe to the Western Hemisphere as the Trump administration ramps up its deadly campaign a",
+      "desc": "Defense Secretary Pete Hegseth indicated Saturday that some U.S. service members could be redeployed from Europe to the Western Hemisphere as the Trump administration ramps up its deadly campaign agai",
       "link": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/",
       "date": "Oct 3, 2026",
       "rawDate": "Sat, 03 Oct 2026 21:47:46 +0000",
@@ -174,7 +210,7 @@
     },
     {
       "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
-      "desc": "The Trump administration is moving ahead with big changes to Head Start, the federal early childhood education program that serves low-income families, to the outcry of advocates who say the proposals",
+      "desc": "The Trump administration is moving ahead with big changes to Head Start — the federal early childhood education program that serves low-income families — to the outcry of advocates who say the proposa",
       "link": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/",
       "date": "Oct 3, 2026",
       "rawDate": "Sat, 03 Oct 2026 21:00:00 +0000",
@@ -416,24 +452,6 @@
       "tag": "safety"
     },
     {
-      "title": "Detroit man arrested in August shooting at Oakland County park",
-      "desc": "He has been charged with six felonies tied to the shooting, including assault with intent to murder.",
-      "link": "https://www.mlive.com/news/flint/2026/10/detroit-man-arrested-in-august-shooting-at-oakland-county-park.html",
-      "date": "Oct 2, 2026",
-      "rawDate": "Fri, 02 Oct 2026 16:57:28 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Oakland County Sheriff’s officials investigate possible misuse of Flock data",
-      "desc": "The Oakland County Board of Commissioners voted 13-4 on April 8, 2026, to approve a nine-month pilot program, called “Project Prove It,” for seven Flock Safety license-plate reading cameras, with an o",
-      "link": "https://www.mlive.com/news/detroit/2026/10/oakland-county-sheriffs-officials-investigate-possible-misuse-of-flock-data.html",
-      "date": "Oct 2, 2026",
-      "rawDate": "Fri, 02 Oct 2026 16:08:26 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Amazon investing $1B in data center communities",
       "desc": "Amazon plans to invest $1 billion in communities where it builds data centers over the next five years, the company announced Friday. The e-commerce and cloud computing giant will put the funds toward",
       "link": "https://thehill.com/policy/technology/6126145-amazon-investment-data-center-communities-energy-water-costs/",
@@ -601,15 +619,6 @@
       "link": "https://www.mlive.com/news/jackson/2026/10/former-school-administrator-says-she-was-told-to-smile-more-sues-for-sex-discrimination.html",
       "date": "Oct 1, 2026",
       "rawDate": "Thu, 01 Oct 2026 18:33:47 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "10 candidates seek 2 seats on Wayne State University board",
-      "desc": "Ten candidates are vying for two seats on the Wayne State University Board of Governors. Here’s what voters should know before the Nov. 3 election.",
-      "link": "https://www.mlive.com/news/detroit/2026/10/10-candidates-seek-2-seats-on-wayne-state-university-board.html",
-      "date": "Oct 1, 2026",
-      "rawDate": "Thu, 01 Oct 2026 15:48:24 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

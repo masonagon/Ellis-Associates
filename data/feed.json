@@ -1,14 +1,176 @@
 {
-  "generated": "2026-10-06T20:41:30.206Z",
+  "generated": "2026-10-07T00:16:01.325Z",
   "news": [
     {
-      "title": "Johnson predicts a Democratic majority will impeach Trump immediately",
-      "desc": "House Speaker Mike Johnson (R-La.) is predicting that Democrats will waste no time impeaching President Trump if they win control of the lower chamber in the midterm elections.  “It’s guaranteed, prob",
-      "link": "https://thehill.com/homenews/house/6132420-johnson-predicts-democrats-impeach-trump/",
+      "title": "Woman charged with arson after allegedly setting Auburn Hills utility pole on fire",
+      "desc": "The woman faces a felony arson charge after allegedly dousing an Auburn Hills utility pole with gasoline and setting it ablaze.",
+      "link": "https://www.mlive.com/news/detroit/2026/10/woman-charged-with-arson-after-allegedly-setting-auburn-hills-utility-pole-on-fire.html",
       "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 20:18:16 +0000",
+      "rawDate": "Tue, 06 Oct 2026 23:30:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Planned Parenthood Votes adds $1M to ad campaigns in Maine, Michigan",
+      "desc": "Planned Parenthood is investing an additional $1 million in ad buys to boost Democratic Senate candidates in Maine and Michigan. The latest investment in the states by Planned Parenthood Votes — a sup",
+      "link": "https://thehill.com/homenews/campaign/6132846-planned-parenthood-votes-senate-ads/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 23:22:47 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Archdiocese of St. Louis sues ICE officials over blocked religious services",
+      "desc": "The lawsuit argues that the jail's visitation policy prevents Catholic detainees from practicing important parts of their faith.",
+      "link": "https://thehill.com/homenews/state-watch/6132796-st-louis-archdiocese-ice-dhs/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:55:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US trade deficit passes $100B for first time since March 2025",
+      "desc": "The U.S. trade deficit rose to a 17-month high in August, topping $100 billion for the first time since March 2025. U.S. imports of goods and services that month were worth $105.6 billion more than th",
+      "link": "https://thehill.com/business/6132688-august-trade-gap-exceeds-100b/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:44:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "1 killed, 2 drivers hurt in Tuscola County collision",
+      "desc": "A Saginaw man died and two drivers were seriously injured after an alleged alcohol-related crash in Tuscola County.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/1-killed-2-drivers-hurt-in-tuscola-county-collision.html",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:40:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump: Government will take massive stake in &#039;next generation&#039; submarine shipyard",
+      "desc": "President Trump said Tuesday that American taxpayers will get a 40 percent stake in the planned shipyard in Sparrows Point, Md., an unincorporated industrial area in Baltimore County, which he visited",
+      "link": "https://thehill.com/policy/defense/6132760-trump-taxpayers-stake-maryland-shipyard/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:20:56 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump: Government will take massive stake in &#8216;next generation&#8217; submarine shipyard",
+      "desc": "President Trump said Tuesday that American taxpayers will get a 40 percent stake in the planned shipyard in Sparrows Point, Md., an unincorporated industrial area in Baltimore County, which he visited",
+      "link": "https://thehill.com/policy/defense/6132760-trump-taxpayers-stake-maryland-shipyard/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:20:56 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "US reups do-not-travel warning for Russia over &#039;suspected pneumonic plague&#039;",
+      "desc": "The U.S. is refreshing its call for Americans not to travel to Russia in the wake of a suspected case of pneumonic plague in Siberia. In a post on the social platform X on Tuesday, the State Departmen",
+      "link": "https://thehill.com/policy/international/6132707-us-russia-plague-travel-advisory/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:13:12 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Battle Creek man surrenders after stealing police car, fleeing officers",
+      "desc": "A Battle Creek man stole a patrol vehicle and fled police before surrendering.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/battle-creek-man-surrenders-after-stealing-police-car-fleeing-officers.html",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:11:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Woman details days of alleged torture by boyfriend: ‘He’s trying to kill me’",
+      "desc": "The woman testified that her boyfriend, Derrick Adams, threatened to kill her with a knife and kept her captive in a basement before she managed to escape at the Woodland Mall.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/woman-details-days-of-alleged-torture-by-boyfriend-hes-trying-to-kill-me.html",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:03:55 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Appeals panel wrestles with block of RFK Jr.&#039;s vaccine panel appointments",
+      "desc": "The Trump administration told a federal appeals panel Tuesday that a lower court erred in blocking Health Secretary Robert F. Kennedy Jr.’s handpicked appointees from serving on a key vaccine advisory",
+      "link": "https://thehill.com/policy/healthcare/6132695-appeals-court-considers-kennedy-acip-block/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:01:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Watch live: Michigan gubernatorial hopefuls Benson, James go head-to-head in debate",
+      "desc": "Michigan Secretary of State Jocelyn Benson (D) and Rep. John James (R-Mich.) will face off Tuesday night in the first gubernatorial debate of the general election. Benson and James are battling to suc",
+      "link": "https://thehill.com/video-clips/6131933-watch-live-john-james-jocelyn-benson-michigan-gubernatorial-debate-nexstar/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 22:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Grand Blanc man accused of threatening to kill president, bomb government buildings",
+      "desc": "A Grand Blanc man allegedly admitted to posting threats on X targeting the president and government buildings.",
+      "link": "https://www.mlive.com/news/flint/2026/10/grand-blanc-man-accused-of-threatening-to-kill-president-bomb-government-buildings.html",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 21:55:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "President of South Korea believes AI models were used in bank hacks",
+      "desc": "South Korean President Lee Jae Myung on Tuesday said he believes AI models were used to hack several commercial banks and called for an investigation into the incidents. Lee said during a cabinet meet",
+      "link": "https://thehill.com/policy/technology/6132458-south-korea-ai-bank-hacks/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 21:50:18 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "1 dead, 1 critically injured in 2 Battle Creek pedestrian crashes",
+      "desc": "Two pedestrian crashes minutes apart in Battle Creek left one man dead and another critically injured.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/1-dead-1-critically-injured-in-2-battle-creek-pedestrian-crashes.html",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 21:36:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "How rising mortgage rates are hitting the housing market hard",
+      "desc": "Presented by PolitiSizeIT {beacon} Business &#038; Economy Business &#038; Economy The Big Story&#160; How rising mortgage rates are hitting the housing market hard Rising mortgage rates are lowering ",
+      "link": "https://thehill.com/newsletters/business-economy/6132621-how-rising-mortgage-rates-are-hitting-the-housing-market-hard/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 21:34:02 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)",
+      "desc": "Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they’re on sale.",
+      "link": "https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 21:30:41 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ypsilanti teacher known for ‘rigor and joy’ surprised with statewide excellence award",
+      "desc": "Washtenaw International High School biology teacher Aly Thompson was honored by IB Schools of Michigan for her leadership, mentorship and impact on students and colleagues.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/ypsilanti-teacher-known-for-rigor-and-joy-surprised-with-statewide-excellence-award.html",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 20:59:50 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Former village manager allegedly took $42K in tuition reimbursement under false pretenses",
+      "desc": "Christopher Tapper, former Decatur village manager, was charged with larceny after allegedly submitting falsified documents to obtain $42,000 in tuition reimbursements over five years.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/former-village-manager-allegedly-took-42k-in-tuition-reimbursement-under-false-pretenses.html",
+      "date": "Oct 6, 2026",
+      "rawDate": "Tue, 06 Oct 2026 20:45:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
     },
     {
       "title": "Gunshot victim found near cemetery after daytime shooting",
@@ -47,15 +209,6 @@
       "tag": "technology"
     },
     {
-      "title": "Cook Political Report moves three Senate races in Democrats’ favor",
-      "desc": "The Cook Political Report, an election handicapper, is shifting its odds for Senate races in Kansas, North Carolina and New Hampshire toward Democrats. The changes show how unfavorable the political e",
-      "link": "https://thehill.com/homenews/campaign/6132331-cook-political-report-democrats-shift/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 19:54:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Medicare for All support soars to 66 percent in 6 years: KFF poll",
       "desc": "Support for Medicare for All jumped to 66 percent among U.S. adults in 2026, highest since 2016, according to polling results published Tuesday. Health research group KFF found that 32 percent of thos",
       "link": "https://thehill.com/policy/healthcare/6132204-medicare-for-all-support-jumped-poll/",
@@ -63,33 +216,6 @@
       "rawDate": "Tue, 06 Oct 2026 19:51:20 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Lawyers urge watchdogs to examine Reflecting Pool case against ex-Olympian",
-      "desc": "Lawyers for a former U.S. Olympian cleared of damaging the Lincoln Memorial Reflecting Pool are asking federal watchdogs to investigate how the Justice Department built a felony case against him befor",
-      "link": "https://thehill.com/homenews/administration/6132316-olympian-lincoln-memorial-investigation/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 19:37:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Pappas leads Sununu by 7 points in New Hampshire Senate race: Poll",
-      "desc": "New Hampshire Rep. Chris Pappas (D) is leading in the state’s open U.S. Senate race against Republican nominee John E. Sununu, according to new polling released Tuesday.  The New Hampshire Institute o",
-      "link": "https://thehill.com/homenews/campaign/6132186-pappas-leads-nh-senate-poll/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 19:27:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cornell retains former acting attorney general to lead investigation",
-      "desc": "Sally Yates is a former acting U.S. attorney general and deputy attorney general and a longtime federal prosecutor.",
-      "link": "https://thehill.com/homenews/education/6131948-cornell-taps-sally-yates-sexual-misconduct-review/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 19:21:35 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Hegseth to welcome USS Abraham Lincoln in San Diego after lengthy deployment",
@@ -110,22 +236,13 @@
       "tag": "government"
     },
     {
-      "title": "2028 Democratic contenders set to meet at post-midterm conference on party&#039;s future",
-      "desc": "Potential 2028 Democratic presidential contenders are expected to meet at the party's post-midterm conference next month, with a focus on how to navigate through the next election and beyond. The conf",
-      "link": "https://thehill.com/homenews/campaign/6131900-democrats-conference-presidential-contenders/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 19:08:41 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Democratic senator says Pentagon denied him access to US base in Qatar &#039;to hide the costs&#039; of Iran war",
       "desc": "Sen. Chris Murphy (D-Conn.), says the Pentagon blocked him from a key U.S. military base in Qatar while he traveling in the Middle East, accusing the Trump administration of trying to hide damage caus",
       "link": "https://thehill.com/policy/defense/6132165-murphy-qatar-iran-war-pentagon/",
       "date": "Oct 6, 2026",
       "rawDate": "Tue, 06 Oct 2026 19:02:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Michigan’s GOP House Speaker faces challenge from Democratic veteran in 42nd House district",
@@ -142,8 +259,8 @@
       "link": "https://thehill.com/video-clips/6131726-watch-live-donald-trump-submarine-investment-baltimore-shipyard/",
       "date": "Oct 6, 2026",
       "rawDate": "Tue, 06 Oct 2026 19:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026)",
@@ -171,15 +288,6 @@
       "rawDate": "Tue, 06 Oct 2026 18:45:39 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Newsom calls for 25th Amendment after Trump&#039;s remarks on California",
-      "desc": "President Trump is stoking outrage among California Democrats and at least one House GOP candidate after he suggested at a midterm rally that he would allow Iran to “take out” Los Angeles and San Dieg",
-      "link": "https://thehill.com/homenews/campaign/6132137-newsom-calls-trump-mentally-ill/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 18:44:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Apple AirPods Max 2 Are $120 Off Right Now During Prime Day (2026)",
@@ -218,15 +326,6 @@
       "tag": "government"
     },
     {
-      "title": "‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support",
-      "desc": "Michigan Senate candidate Abdul El-Sayed is leaning into one of the major complaints about surveillance from voters this election cycle.",
-      "link": "https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 17:39:48 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Automation company eyes Holland expansion that will create 40 new jobs",
       "desc": "Convergix Automation Solutions is expanding its Michigan footprint with a new 60,000-square-foot facility in Holland.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/automation-company-eyes-holland-expansion-that-will-create-40-new-jobs.html",
@@ -234,15 +333,6 @@
       "rawDate": "Tue, 06 Oct 2026 17:37:57 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-      "desc": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 17:28:33 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump attacks Fox News for 4th time in a week: ‘Totally lost their way’",
@@ -434,15 +524,6 @@
       "tag": "government"
     },
     {
-      "title": "5 candidates seek Michigan’s 12th Congressional District seat",
-      "desc": "Five candidates for Michigan’s 12th Congressional District share their positions on health care, affordability, energy and immigration ahead of the Nov. 3 election.",
-      "link": "https://www.mlive.com/news/detroit/2026/10/5-candidates-seek-michigans-12th-congressional-district-seat.html",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 12:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "GVSU Unified Sports program builds inclusion, friendship through athletics",
       "desc": "Students from GVSU and a local program for students with intellectual and developmental disabilities learn sports together, creating friendships and understanding on campus.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/gvsu-unified-sports-program-builds-inclusion-friendship-through-athletics.html",
@@ -488,33 +569,6 @@
       "tag": "education"
     },
     {
-      "title": "Fire in Lapeer County home under investigation as suspicious",
-      "desc": "A late-night house fire on Pratt Road in Hadley Township has been deemed suspicious.",
-      "link": "https://www.mlive.com/news/flint/2026/10/fire-in-lapeer-county-home-under-investigation-as-suspicious.html",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 23:12:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Detroit man charged after Royal Oak shooting struck car with women inside",
-      "desc": "A Detroit man was charged after allegedly firing multiple shots at a car in downtown Royal Oak.",
-      "link": "https://www.mlive.com/news/detroit/2026/10/detroit-man-charged-after-royal-oak-shooting-struck-car-with-women-inside.html",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 22:33:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Crime Stoppers of Flint wins national award for art project honoring victims",
-      "desc": "The Flint nonprofit earned national recognition for connecting families with artists to create memorial portraits honoring their loved ones.",
-      "link": "https://www.mlive.com/news/flint/2026/10/crime-stoppers-of-flint-wins-national-award-for-art-project-honoring-victims.html",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 22:00:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Reflection AI releases first open model to rival China",
       "desc": "The open-source startup Reflection AI released its first open-weight model Monday, stating it rivals leading open technologies made in the U.S. and China. Reflection AI, which has the backing of tech ",
       "link": "https://thehill.com/policy/technology/6130496-reflection-ai-releases-beam-model/",
@@ -529,8 +583,8 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/10/police-deem-bomb-threats-at-2-ann-arbor-schools-not-credible.html",
       "date": "Oct 5, 2026",
       "rawDate": "Mon, 05 Oct 2026 21:45:02 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Trump says Russia plague reports concerning: Microbes &#039;stronger and smarter&#039;",
@@ -569,24 +623,6 @@
       "tag": "health"
     },
     {
-      "title": "Man accused of intent to murder in U.P. stabbing",
-      "desc": "The victim was hospitalized after the stabbing on Friday in Marquette County.",
-      "link": "https://www.mlive.com/news/2026/10/man-accused-of-intent-to-murder-in-up-stabbing.html",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 19:46:59 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Detroit homicides fell 25% this summer as juvenile homicide victims dropped 89%",
-      "desc": "Detroit saw declines in homicides and youth violence this summer as city officials pointed to investments in policing, prevention and youth programming.",
-      "link": "https://www.mlive.com/news/detroit/2026/10/detroit-homicides-fell-25-this-summer-as-juvenile-homicide-victims-dropped-89.html",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 19:28:31 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Kelly: Hegseth&#039;s firings of top generals, admirals damage &#039;our readiness&#039;",
       "desc": "Defense Secretary Pete Hegseth’s ouster of top generals and admirals from the U.S. military are “damaging our readiness,” according to Sen. Mark Kelly (D-Ariz.), a retired astronaut and Navy captain. ",
       "link": "https://thehill.com/homenews/senate/6130130-kelly-hegseth-military-readiness-damage/",
@@ -612,15 +648,6 @@
       "rawDate": "Mon, 05 Oct 2026 18:51:42 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Man extradited from Jamaica for alleged sexual assaults of a minor",
-      "desc": "He faces seven charges stemming from incidents involving a victim under 16 years old.",
-      "link": "https://www.mlive.com/news/2026/10/man-extradited-from-jamaica-for-alleged-sexual-assaults-of-a-minor.html",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 18:34:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "SVSU faculty receive pay raises under newly approved three-year contract",
@@ -668,15 +695,6 @@
       "tag": "health"
     },
     {
-      "title": "Who qualifies for the Trump administration&#039;s $90 payments for seniors?",
-      "desc": "These payments, funded by the Medicare Improvement Fund, are arriving as one-time deposits or checks.",
-      "link": "https://thehill.com/policy/healthcare/6129313-who-qualifies-for-the-trump-administrations-90-payments-for-seniors/",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 15:08:35 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "4 killed in military strike on alleged drug boat in Caribbean",
       "desc": "The U.S. military blew up another alleged drug-trafficking go-fast boat in the Caribbean on Sunday, killing four “narco-terrorists,” the U.S. Southern Command (Southcom) announced.  Southcom said the ",
       "link": "https://thehill.com/policy/defense/6129298-us-military-destroys-alleged-drug-boat/",
@@ -686,15 +704,6 @@
       "tag": "safety"
     },
     {
-      "title": "Alito says he has hunch who leaked Dobbs decision",
-      "desc": "Supreme Court Justice Samuel Alito said in an interview that he has an “opinion” on who leaked the draft opinion of justices overturning Roe v. Wade in 2022.  During an appearance on “Fox News Sunday,",
-      "link": "https://thehill.com/regulation/court-battles/6129224-samuel-alito-supreme-court-dobbs-v-jackson-draft-leak/",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 14:18:41 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
       "title": "Jackson Public Schools election: Meet the board candidates",
       "desc": "Three candidates are vying for one of the two slots on the Jackson Public School Board during the November general election. There is also an open position on the board to serve a partial term ending ",
       "link": "https://www.mlive.com/politics/2026/10/jackson-public-schools-election-meet-the-board-candidates.html",
@@ -702,15 +711,6 @@
       "rawDate": "Mon, 05 Oct 2026 13:51:30 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump administration monitoring suspected Russian plague outbreak",
-      "desc": "The Trump administration is monitoring a suspected case of the plague in Russia, the State Department told The Hill’s partner network NewsNation. “We are aware of ​reports of a fatal case of suspected",
-      "link": "https://thehill.com/policy/healthcare/6129162-white-house-monitors-russia-plague/",
-      "date": "Oct 5, 2026",
-      "rawDate": "Mon, 05 Oct 2026 13:21:08 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     },
     {
       "title": "Tech watchdog outlines closing midterms message for Democrats on data centers",
@@ -785,15 +785,6 @@
       "tag": "safety"
     },
     {
-      "title": "Democratic rep: Administration &#039;has failed to present a strategy&#039; in Iran war",
-      "desc": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain",
-      "link": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
-      "date": "Oct 4, 2026",
-      "rawDate": "Sun, 04 Oct 2026 20:53:23 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Marching bands: See the winners from the Sparta Invitational",
       "desc": "Four schools from across West Michigan claimed flight victories at Saturday's invitational.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/marching-bands-see-the-winners-from-the-sparta-invitational.html",
@@ -835,24 +826,6 @@
       "link": "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/",
       "date": "Oct 3, 2026",
       "rawDate": "Sat, 03 Oct 2026 21:43:14 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "6 candidates compete for 3 seats on Portage Board of Education",
-      "desc": "Of those running, two are incumbents. The rest are first-time candidates, but most have deep connections to the district.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/10/6-candidates-compete-for-3-seats-on-portage-board-of-education.html",
-      "date": "Oct 3, 2026",
-      "rawDate": "Sat, 03 Oct 2026 11:10:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Amazon investing $1B in data center communities",
-      "desc": "Amazon plans to invest $1 billion in communities where it builds data centers over the next five years, the company announced Friday. The e-commerce and cloud computing giant will put the funds toward",
-      "link": "https://thehill.com/policy/technology/6126145-amazon-investment-data-center-communities-energy-water-costs/",
-      "date": "Oct 2, 2026",
-      "rawDate": "Fri, 02 Oct 2026 16:02:56 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     }

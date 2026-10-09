@@ -1,6 +1,141 @@
 {
-  "generated": "2026-10-08T20:24:15.420Z",
+  "generated": "2026-10-09T00:52:40.275Z",
   "news": [
+    {
+      "title": "Live updates: El-Sayed, Rogers clash at Michigan Senate debate",
+      "desc": "Michigan Senate hopefuls Abdul El-Sayed (D) and Mike Rogers (R) took the debate stage together for the first time Thursday. The hour-long face off hosted by Nexstar's WOOD-TV regularly devolved into b",
+      "link": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 23:57:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "OpenAI users in Russia, Iran used models to push political agenda online, in media",
+      "desc": "OpenAI banned several accounts associated with two propaganda operations based in Iran and Russia, respectively, it confirmed Thursday — the latter of which the tech company said had the greatest reac",
+      "link": "https://thehill.com/policy/technology/6137774-openai-bans-iran-russia-influence-operations/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 23:26:23 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Woman dies, deputy injured in crash with Ottawa County patrol vehicle",
+      "desc": "A 65-year-old Zeeland woman was killed and an Ottawa County sheriff's deputy was hospitalized after a three-vehicle crash.",
+      "link": "https://www.mlive.com/news/muskegon/2026/10/woman-dies-deputy-injured-in-crash-with-ottawa-county-patrol-vehicle.html",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 23:18:41 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
+      "desc": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
+      "link": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 22:40:11 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "What to know about the firing squad execution of Fort Hood shooter Nidal Hasan",
+      "desc": "Secretary of Defense Pete Hegseth said Thursday the firing squad execution of convicted Fort Hood shooter former Army Maj. Nidal Hasan will be open to the public, a new revelation to the first U.S. mi",
+      "link": "https://thehill.com/policy/defense/6137747-fort-hood-shooter-firing-squad-execution-livestreamed/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 22:36:46 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Pentagon awards $6.3 billion contract to Raytheon for missile interceptors",
+      "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Pentagon awards $6.3 billion contract to Raytheon",
+      "link": "https://thehill.com/newsletters/defense-national-security/6137737-pentagon-awards-6-3-billion-contract-to-raytheon-for-missile-interceptors/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 22:16:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Monroe County man charged with aggravated child sexually abusive activity",
+      "desc": "A Lambertville man faces multiple charges after a joint investigation by national and state agencies.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/monroe-county-man-charged-with-aggravated-child-sexually-abusive-activity.html",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 21:50:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "‘Stand up for Michigan’ or ‘fold’ for Trump: Whitmer joins El-Sayed on the campaign trail",
+      "desc": "On Thursday, Gov. Whitmer pitched El-Sayed as someone who will “stand up for Michigan.” She contrasted his opponent, Republican Mike Rogers, as a “lawn chair who will “fold for Donald Trump every time",
+      "link": "https://www.mlive.com/politics/2026/10/stand-up-for-michigan-or-fold-for-trump-whitmer-joins-el-sayed-on-the-campaign-trail.html",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 21:42:46 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lawmakers concerned over Google&#039;s plan to acquire AI models from Spirit Airlines data",
+      "desc": "A bipartisan group of dozens of lawmakers led by Rep. Steven Horsford (D-Nev.) and Sen. Elizabeth Warren (D-Mass.) is concerned over Google’s plan to acquire Spirit Airlines data to train its AI model",
+      "link": "https://thehill.com/homenews/house/6137595-horsford-warren-lawmakers-google-spirit-data-ai/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 21:40:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Johnson floats return to Louisiana if GOP loses majority in midterms",
+      "desc": "Speaker Mike Johnson (R-La.) floated the idea of returning home to Louisiana if Republicans lose control of the House next year. “Heaven forbid, if we lose this majority or whatever, I don't know what",
+      "link": "https://thehill.com/homenews/house/6137660-johnson-gop-house-majority-louisiana/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 21:35:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "desc": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 21:14:12 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Mortgage rates hit 7.4 percent for first time since November 2023",
+      "desc": "Mortgage rates increased again this week, with the average 30-year rate hitting 7.4 percent for the first time since November 2023, Freddie Mac reported Thursday. The average 30-year mortgage rate ros",
+      "link": "https://thehill.com/business/6137377-mortgage-rates-rise-multi-week-high/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 21:03:01 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Serial killer Jeffrey Willis will not get new trials for Heeringa, Bletsch murders",
+      "desc": "Jeffrey Willis will remain in prison for the murders of Jessica Heeringa and Rebekah Bletsch after a judge rejected the serial killer’s bid for new trials.",
+      "link": "https://www.mlive.com/news/muskegon/2026/10/serial-killer-jeffrey-willis-will-not-get-new-trials-for-heeringa-bletsch-murders.html",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 20:38:33 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "‘My father is still dead’: Daughter speaks out as killer becomes eligible for parole",
+      "desc": "Jeffery Abrahamson received a reduced punishment for murder, opening the door to possible parole in the brutal 1990 killing of Dave VanBogelen.",
+      "link": "https://www.mlive.com/news/muskegon/2026/10/my-father-is-still-dead-daughter-speaks-out-as-killer-becomes-eligible-for-parole.html",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 20:34:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "US Army identifies systemic breakdowns that led to DC midair collision",
+      "desc": "A newly released U.S. Army report identified systemic breakdowns that led to the 2025 midair collision between an American Airlines plane and an Army helicopter.  Some of the families of the 67 people",
+      "link": "https://thehill.com/policy/transportation/6137401-army-report-dca-collision/",
+      "date": "Oct 8, 2026",
+      "rawDate": "Thu, 08 Oct 2026 20:27:49 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
     {
       "title": "HHS launches NIH clinic to study vaccine injuries",
       "desc": "The Department of Health and Human Services (HHS) has launched a clinic dedicated to studying \"patients experiencing health problems following vaccination\" as it mulls a reimbursement program for doct",
@@ -29,24 +164,6 @@
       "tag": "government"
     },
     {
-      "title": "Jeffries vows immediate anti-corruption push next year: ‘Hold the crooks accountable’",
-      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) vowed that Democrats, if they win the House in next month’s midterms, will launch immediate investigations into corruption allegations against President ",
-      "link": "https://thehill.com/homenews/house/6137292-jeffries-vows-trump-corruption-investigations/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 19:37:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "White House chief of staff&#039;s daughter shows up in photo from Republicka Srpska",
-      "desc": "White House chief of staff Susie Wiles's daughter showed up in a photo from Republika Srpska, a small self-governing territory in Bosnia and Herzegovina led by a pro-Russian political party. Katie Wil",
-      "link": "https://thehill.com/homenews/administration/6137220-susie-wiles-daughter-republika-srpska/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 19:34:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "USS Abraham Lincoln docks in San Diego after grueling deployment",
       "desc": "The USS Abraham Lincoln docked in San Diego on Thursday, completing a lengthy and grueling deployment to the Middle East, which was mired in tight food supplies and degrading mental health onboard the",
       "link": "https://thehill.com/policy/defense/6137284-uss-abraham-lincoln-ends-deployment-san-diego/",
@@ -72,24 +189,6 @@
       "rawDate": "Thu, 08 Oct 2026 19:28:27 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Roberts halts imminent deadline for FCC to rule on Democrats’ TV ad rate challenge",
-      "desc": "Chief Justice John Roberts halted, for now, a deadline for the Federal Communications Commission (FCC) to rule on Democrats’ challenge to a policy giving party committees access to cheaper television ",
-      "link": "https://thehill.com/regulation/court-battles/6136681-john-roberts-fcc-deadline-television-ad-rates/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 19:14:24 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Who is Eric Deters? The MAGA donor Kimberly Guilfoyle sought $100K from for AmEx bill",
-      "desc": "Eric Deters, a former Kentucky congressional candidate and longtime ally of President Trump, has emerged in the national spotlight after an explosive report revealed his alleged text exchanges with Ki",
-      "link": "https://thehill.com/homenews/administration/6137160-guilfoyle-deters-texting-allegations/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 19:13:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
@@ -137,15 +236,6 @@
       "tag": "government"
     },
     {
-      "title": "ICE tried using Palantir to review voter roll information?",
-      "desc": "ICE is now investigating the people who help Americans register to vote.",
-      "link": "https://thehill.com/opinion/lindseys-lens/6137125-ice-investigates-voter-registration-nonprofits/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 18:37:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Man, 77, charged for allegedly shooting son, released on bond",
       "desc": "A father is charged with a felony after shooting his 48-year-old son during a domestic dispute.",
       "link": "https://www.mlive.com/news/2026/10/man-77-charged-for-allegedly-shooting-son-released-on-bond.html",
@@ -173,15 +263,6 @@
       "tag": "education"
     },
     {
-      "title": "GOP donor in Guilfoyle scandal blasts Trump sons, Kushner: &#039;I don&#039;t like their yuck-yuck world&#039;",
-      "desc": "The MAGA donor who Kimberly Guilfoyle, the U.S. ambassador to Greece, reportedly asked for payment ahead of her Senate confirmation hearing expressed frustration Thursday morning with the business dea",
-      "link": "https://thehill.com/homenews/administration/6136893-eric-deter-trump-business-dealings-guilfoyle/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 18:10:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Saginaw Township teen pleads in shooting at 3 people",
       "desc": "The teen's pleas guarantee he'll receive a prison sentence.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/saginaw-township-teen-pleads-to-shooting-at-3-people.html",
@@ -189,15 +270,6 @@
       "rawDate": "Thu, 08 Oct 2026 18:03:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "5 things to watch for in Thursday&#039;s Michigan debate showdown",
-      "desc": "Former Rep. Mike Rogers (R-Mich.) and Democratic nominee Abdul El-Sayed will face off Thursday night in their first debate of a contest that will help decide whether Democrats or Republicans hold the ",
-      "link": "https://thehill.com/homenews/campaign/6136798-rogers-elsayed-michigan-senate-debate/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 17:40:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Watch live: Trump to honor Elon Musk, tech leaders at science summit",
@@ -416,15 +488,6 @@
       "tag": "technology"
     },
     {
-      "title": "The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe",
-      "desc": "With no accurate Big Tech mapping app to help him, Anas Hattab launched a Telegram group to get himself home at night. Now nearly 350,000 Palestinians rely on it to navigate the occupied West Bank.",
-      "link": "https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "FDA: Mifepristone review won&#039;t be done until March",
       "desc": "The Food and Drug Administration (FDA) won’t publish its safety review of the abortion drug mifepristone until March, it disclosed in a Wednesday court filing, adding that it won’t impose any new rest",
       "link": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/",
@@ -432,15 +495,6 @@
       "rawDate": "Thu, 08 Oct 2026 02:33:30 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "The Best Prime Day Apple Deals (2026) Are About to Expire",
-      "desc": "MacBooks, iPads, AirPods, and just about every Apple accessory imaginable are on sale for Prime Day—but only hours remain.",
-      "link": "https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 02:02:56 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump to award National Medal of Science to Elon Musk",
@@ -502,15 +556,6 @@
       "link": "https://www.mlive.com/news/muskegon/2026/10/kiel-reid-challenging-incumbent-greg-vanwoerkom-for-88th-house-district-seat-on-nov-3.html",
       "date": "Oct 7, 2026",
       "rawDate": "Wed, 07 Oct 2026 20:39:27 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump is getting slapped in the face by these Republicans — here’s why",
-      "desc": "The outlet reviewed 62 competitive midterm races — and many had the same findings.",
-      "link": "https://www.mlive.com/politics/2026/10/trump-is-getting-slapped-in-the-face-by-these-republicans-heres-why.html",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 20:08:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
@@ -623,15 +668,6 @@
       "tag": "safety"
     },
     {
-      "title": "Drug dealer sentenced after fatal fentanyl mix kills Houghton Lake mom",
-      "desc": "Ronald Landskroener was convicted of delivering drugs that killed a 42-year-old Houghton Lake woman in September 2023. The jury deliberated for just 14 minutes.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/saginaw-man-gets-nearly-30-years-in-prison-for-providing-woman-with-fatal-batch-of-drugs.html",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 17:03:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "What is kratom, herb drawing scrutiny from lawmakers?",
       "desc": "Kratom, a plant with opioid-like properties sold over the counter, has drawn growing scrutiny from lawmakers on Capitol Hill as some states seek to ban the product or its synthetic derivatives. Calls ",
       "link": "https://thehill.com/policy/healthcare/6133466-lawmakers-push-kratom-7oh-ban/",
@@ -639,15 +675,6 @@
       "rawDate": "Wed, 07 Oct 2026 16:49:28 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Former Metro Police Authority Chief Matthew Bade dies at 62",
-      "desc": "Bade's death comes just months after his retirement from the law enforcement agency, which serves Swartz Creek and Mundy Township.",
-      "link": "https://www.mlive.com/news/flint/2026/10/former-metro-police-authority-chief-matthew-bade-dies-at-62.html",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 16:42:41 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Most say Trump, Congress not taking AI risk seriously: Survey",
@@ -664,17 +691,8 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/gvsu-tightens-weekend-campus-access-after-several-safety-incidents.html",
       "date": "Oct 7, 2026",
       "rawDate": "Wed, 07 Oct 2026 16:10:14 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Killer seeks 3rd sentencing hearing in 1997 Saginaw murder",
-      "desc": "Shytour Williams, convicted at 16 for Karen King's kidnapping and murder, is before a Saginaw judge seeking a term-of-years sentence. The hearing examines whether Williams can be rehabilitated or rema",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/shytour-williams-again-seeks-new-sentence-in-1997-karen-king-murder.html",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 15:46:36 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "US formally requests more information on death at Russia plague lab",
@@ -749,24 +767,6 @@
       "tag": "health"
     },
     {
-      "title": "Bass &#039;horrified&#039; by Trump remarks about Los Angeles, San Diego",
-      "desc": "Los Angeles Mayor Karen Bass (D) said she was “horrified” by President Trump’s remarks at a recent campaign rally that Iran could “take out” Los Angeles or San Diego, saying a president should not spe",
-      "link": "https://thehill.com/homenews/state-watch/6133250-karen-bass-donald-trump-iran-attack-rhetoric-los-angeles-san-diego/",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 11:57:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Pentagon, under Hegseth, expands war on drug cartels with troops on ground in South America",
-      "desc": "The Pentagon is expanding the U.S. military’s multifront war against drug cartels in South America.  For more than a year, the U.S. military has been blowing up alleged drug boats on both sides of the",
-      "link": "https://thehill.com/policy/defense/6132578-pentagon-drug-cartels-south-america/",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Why Trump chose these leaders to head his &#039;Super Intelligence Force&#039;",
       "desc": "President Trump’s selection of four administration officials to head up his new “Super Intelligence Force” is offering a window into how the White House will approach AI in the face of pressure over i",
       "link": "https://thehill.com/policy/technology/6132153-white-house-super-intelligence-force-ai/",
@@ -783,15 +783,6 @@
       "rawDate": "Wed, 07 Oct 2026 10:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Benson, James spar in Michigan gubernatorial debate: 3 takeaways",
-      "desc": "Michigan Secretary of State Jocelyn Benson (D) and Rep. John James (R-Mich.) faced off on the debate stage Tuesday, less than a month before voters decide which of the two will be the Wolverine State’",
-      "link": "https://thehill.com/homenews/campaign/6133026-benson-james-michigan-gubernatorial-debate/",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 02:48:29 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Kenya confirms its first Ebola case and death in a man who traveled from Congo",
@@ -812,15 +803,6 @@
       "tag": "health"
     },
     {
-      "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona&#039;s court system",
-      "desc": "PHOENIX (AP) — A cyberattack on Arizona’s court system stole personal information for more than a million people and is believed to have started when a court employee clicked a malicious link in an em",
-      "link": "https://thehill.com/homenews/state-watch/arizona-court-system-cyberattack/",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 00:06:55 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Planned Parenthood Votes adds $1M to ad campaigns in Maine, Michigan",
       "desc": "Planned Parenthood is investing an additional $1 million in ad buys to boost Democratic Senate candidates in Maine and Michigan. The latest investment in the states by Planned Parenthood Votes — a sup",
       "link": "https://thehill.com/homenews/campaign/6132846-planned-parenthood-votes-senate-ads/",
@@ -837,15 +819,6 @@
       "rawDate": "Tue, 06 Oct 2026 22:13:12 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "President of South Korea believes AI models were used in bank hacks",
-      "desc": "South Korean President Lee Jae Myung on Tuesday said he believes AI models were used to hack several commercial banks and called for an investigation into the incidents. Lee said during a cabinet meet",
-      "link": "https://thehill.com/policy/technology/6132458-south-korea-ai-bank-hacks/",
-      "date": "Oct 6, 2026",
-      "rawDate": "Tue, 06 Oct 2026 21:50:18 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Ypsilanti teacher known for ‘rigor and joy’ surprised with statewide excellence award",

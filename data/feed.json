@@ -1,6 +1,87 @@
 {
-  "generated": "2026-10-10T16:02:58.735Z",
+  "generated": "2026-10-10T20:24:30.337Z",
   "news": [
+    {
+      "title": "Philadelphia police receive false homicide tip from Anthropic AI model",
+      "desc": "Anthropic’s artificial intelligence model submitted a false homicide tip to the Philadelphia Police Department in July, the company disclosed on Friday.  The AI firm said its Claude Haiku 4.5 model fi",
+      "link": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 19:31:19 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Congress should seal eligible records that keep Americans out of work",
+      "desc": "The author urges Congress to pass the bipartisan Clean Slate Act and the Fresh Start Act to remove federal record barriers that hinder employment and economic stability for many Americans.",
+      "link": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 19:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Chelsea reclaims fundraising trophy in annual rivalry match with Dexter",
+      "desc": "Two neighboring communities raised $75,224 for education during their annual rivalry match fundraising campaign, with Chelsea ending Dexter’s three-year winning streak in the off-field competition.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/chelsea-reclaims-fundraising-trophy-in-annual-rivalry-match-with-dexter.html",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 18:58:22 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump rips Zelensky amid Russia diesel deal feud: &#039;I suggest they get a new leader&#039;",
+      "desc": "President Trump on Saturday pushed back on criticism from Ukrainian President Volodymyr Zelensky to the White House’s decision to lift sanctions on Russian diesel amid the Russia-Ukraine war.  The pre",
+      "link": "https://thehill.com/homenews/administration/6140694-trump-defends-russian-diesel-deal/",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 18:26:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The fight for EPA workers&#039; rights is a fight for the American public",
+      "desc": "Federal employees do not work for a president, a political party or an ideology — we work for America.",
+      "link": "https://thehill.com/opinion/congress-blog/labor/6139141-epa-union-contract-lawsuit/",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 18:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Detroit homeowner arrested after mass shooting at illegal club",
+      "desc": "Detroit police arrested the homeowner on Friday, Oct. 9, with Wayne County Prosecutor Kym Worthy authorizing charges against the man.",
+      "link": "https://www.mlive.com/news/detroit/2026/10/detroit-homeowner-arrested-after-mass-shooting-at-illegal-club.html",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 17:55:47 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Saginaw double shooting kills woman, leaves man critical",
+      "desc": "Juannazia Guerra, 27, died Friday, Oct. 9, when she succumbed to gunshot wounds suffered in a shooting near the intersection of South Washington Avenue and Bridgeton Street in Saginaw.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/saginaw-double-shooting-kills-woman-leaves-man-critical.html",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 17:31:11 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "9 people dead in Erie, Pennsylvania mass shooting",
+      "desc": "ERIE, Pa. (WJET) -- Nine people are dead after what Pennsylvania Governor Josh Shapiro described as a mass shooting in the City of Erie Friday night. The City of Erie also confirmed Saturday morning t",
+      "link": "https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead/",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 16:26:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Forget the next big thing: How America&#8217;s old things keep us safe",
+      "desc": "Be it our military or our commercial sector, everyone seems to be pushing for the next new thing in America. That’s great, but what if the old things are ultimately more critical to our national and e",
+      "link": "https://thehill.com/opinion/national-security/6139525-american-national-security-maintenance/",
+      "date": "Oct 10, 2026",
+      "rawDate": "Sat, 10 Oct 2026 16:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
     {
       "title": "Talarico makes first appearance in 13-days at music festival after flu absence",
       "desc": "Texas Senate candidate James Talarico (D) made his first appearance in nearly two weeks on Friday after his campaign said he was recovering from a bout of the flu.  The Democratic nominee was seen str",
@@ -92,15 +173,6 @@
       "tag": "government"
     },
     {
-      "title": "These households could spend more to heat their homes this winter, federal outlook says",
-      "desc": "The fuel you use and where you live could have a huge impact on your heating bill this year.",
-      "link": "https://thehill.com/homenews/state-watch/6134062-these-households-could-spend-more-to-heat-their-homes-this-winter-federal-outlook-says/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
       "desc": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
       "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
@@ -111,7 +183,7 @@
     },
     {
       "title": "Incumbent Democrat faces Republican homemaker in race for District 14 Senate seat",
-      "desc": "Sen. Sue Shink is seeking a second term. Her challenger is fellow Northfield Township resident Tawn Shanelle Beliger.",
+      "desc": "Sen. Sue Shink is seeking a second term. Her challenger is fellow Northfield Township resident Tawn Shawnelle Beliger.",
       "link": "https://www.mlive.com/politics/2026/10/incumbent-democrat-faces-republican-homemaker-in-race-for-district-14-senate-seat.html",
       "date": "Oct 10, 2026",
       "rawDate": "Sat, 10 Oct 2026 11:30:00 +0000",
@@ -142,17 +214,8 @@
       "link": "https://thehill.com/policy/defense/6139961-republicans-condemn-hegseth-execution-spectacle/",
       "date": "Oct 10, 2026",
       "rawDate": "Sat, 10 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What to know about 7-OH, MGPI, the synthetic kratom extracts known as &#039;gas station opioid&#039;",
-      "desc": "Federal authorities and lawmakers are cracking down on synthetic concentrates of kratom, an herbal product sold legally over the counter in most states, as concerns rise over their risk to public heal",
-      "link": "https://thehill.com/policy/healthcare/6140069-kratom-extracts-federal-authorities/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "$4.6 million grant supports Southfield school food pantry",
@@ -164,31 +227,13 @@
       "tag": "education"
     },
     {
-      "title": "Federal judge: DOJ cannot request states&#039; voter lists for eligibility database",
-      "desc": "A federal judge struck down on Friday the Justice Department’s nationwide effort to collect voter registration records and identify suspected non-U.S. citizens, blocking the Trump administration from ",
-      "link": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/",
+      "title": "What to know about 7-OH, MGPI, the synthetic kratom extracts known as &#039;gas station opioid&#039;",
+      "desc": "Federal authorities and lawmakers are cracking down on synthetic concentrates of kratom, an herbal product sold legally over the counter in most states, as concerns rise over their risk to public heal",
+      "link": "https://thehill.com/policy/healthcare/6140069-kratom-extracts-federal-authorities/",
       "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 03:13:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-      "desc": "President Trump asked the Supreme Court on Friday to reopen his dismissed lawsuit against former Secretary of State Hillary Clinton, reviving claims that she and other political adversaries orchestrat",
-      "link": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 02:47:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Zelensky decries US-Russia diesel deal: &#8216;Gifts to Putin will not bring peace&#8217;",
-      "desc": "Ukrainian President Volodymyr Zelensky lambasted President Trump’s Friday deal allowing Russia to supply the U.S. and global market with diesel, arguing the move would give the Kremlin more money to f",
-      "link": "https://thehill.com/policy/energy-environment/6140146-zelensky-blasts-trump-russia-diesel-deal/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 00:07:02 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "rawDate": "Sat, 10 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "2 Detroit men charged in Southfield shooting that killed family dog",
@@ -308,15 +353,6 @@
       "tag": "government"
     },
     {
-      "title": "Here’s where the candidates for Michigan’s 89th District stand on major issues",
-      "desc": "Republican Joe Moss and Democrat Meegan Zickus are competing for the state House seat covering Ottawa, Muskegon and Kent counties.",
-      "link": "https://www.mlive.com/news/2026/10/heres-where-the-candidates-for-michigans-89th-district-stand-on-major-issues.html",
-      "date": "Oct 9, 2026",
-      "rawDate": "Fri, 09 Oct 2026 18:45:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Vance on Hegseth plan for livestreamed execution: &#039;I&#039;m not going to be watching it&#039;",
       "desc": "Vice President Vance said Friday that he will not be watching the execution of Nidal Hasan if the Pentagon follows through on livestreaming the event in December.  \"I've seen those announcements. I do",
       "link": "https://thehill.com/homenews/administration/6139442-vance-rejects-hasan-execution-livestream/",
@@ -398,15 +434,6 @@
       "tag": "safety"
     },
     {
-      "title": "Shooting in parking lot of Flint Township gas station leaves 19-year-old hospitalized",
-      "desc": "An initial investigation indicates it was an isolated incident involving individuals known to each other that escalated following a disagreement over a drug transaction, police said.",
-      "link": "https://www.mlive.com/news/flint/2026/10/shooting-in-parking-lot-of-flint-township-gas-station-leaves-19-year-old-hospitalized.html",
-      "date": "Oct 9, 2026",
-      "rawDate": "Fri, 09 Oct 2026 13:42:35 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Tillis: Livestreaming Hasan execution &#039;beyond disgusting&#039;",
       "desc": "Sen. Thom Tillis (R-N.C.) on Thursday slammed the recent decision by the U.S. military to livestream the upcoming execution of convicted Fort Hood shooter Nidal Hasan, calling it “beyond disgusting.” ",
       "link": "https://thehill.com/homenews/senate/6138373-thom-tillis-pentagon-live-firing-squad-execution-nidal-hasal-criticism/",
@@ -441,15 +468,6 @@
       "rawDate": "Fri, 09 Oct 2026 11:10:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Detroit man charged with threatening Mayor Mary Sheffield, given $50K bond",
-      "desc": "A 55-year-old Detroit man faces a terrorism-related charge after allegedly making threats at two downtown government buildings.",
-      "link": "https://www.mlive.com/news/detroit/2026/10/detroit-man-charged-with-threatening-mayor-mary-sheffield-given-50k-bond.html",
-      "date": "Oct 9, 2026",
-      "rawDate": "Fri, 09 Oct 2026 10:30:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "GOP frustrates MAHA allies, risking midterm support from key voting bloc",
@@ -729,24 +747,6 @@
       "rawDate": "Wed, 07 Oct 2026 19:38:15 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Cantwell unveils new AI framework",
-      "desc": "Sen. Maria Cantwell (D-Wash.), the top Democrat on the Senate Commerce, Science and Transportation Committee, unveiled a framework Wednesday for regulating artificial intelligence amid growing pressur",
-      "link": "https://thehill.com/policy/technology/6134371-cantwell-unveils-ai-regulation-framework/",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 19:12:12 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "See how Kent, Ottawa school districts performed on the M-STEP and SAT",
-      "desc": "From single-digit proficiency rates to more than 80%, new state test data shows how students performed across Kent and Ottawa counties. Search our database to find district results.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/10/see-how-kent-ottawa-school-districts-performed-on-the-m-step-and-sat.html",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 18:55:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Trump says he does not think suspected Russian plague cases are a bioweapon",

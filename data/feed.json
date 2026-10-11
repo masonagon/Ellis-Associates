@@ -1,6 +1,96 @@
 {
-  "generated": "2026-10-11T06:40:15.808Z",
+  "generated": "2026-10-11T13:40:20.469Z",
   "news": [
+    {
+      "title": "Man hospitalized after shooting in Wyoming",
+      "desc": "A 33-year-old Grand Rapids man is in stable condition at a hospital after being shot early Sunday morning.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/man-hospitalized-after-shooting-in-wyoming.html",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 13:10:40 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump names Katie Bailey as White House legislative affairs director",
+      "desc": "President Trump on Saturday named Katie Bailey as the White House's legislative affairs director, months after former director James Braid vacated the role ahead of the November midterm elections. Tru",
+      "link": "https://thehill.com/homenews/administration/6141177-trump-names-katie-bailey-legislative-director/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 12:44:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US military disables ship attempting to bypass Strait of Hormuz blockade",
+      "desc": "U.S. Central Command (Centcom) on Saturday said its forces disabled a ship that attempted to bypass the U.S. naval blockade in the Strait of Hormuz. Centcom released a statement saying that the commer",
+      "link": "https://thehill.com/policy/defense/6141140-centcom-disables-cargo-vessel-gulf-oman/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 12:20:12 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump is waging all-out war against journalists",
+      "desc": "Shortly before returning to office after the 2024 race, Trump proclaimed, “LAWFARE IS DEAD.” But these days, lawfare is flourishing as never before.",
+      "link": "https://thehill.com/opinion/white-house/6139752-trump-media-lawfare-threat/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DOJ investigating 5 major TV networks over response to White House press ban",
+      "desc": "The Justice Department (DOJ) is investigating five major TV networks for alleged antitrust violations after the outlets briefly pulled their pool coverage. Sources told The New York Times on Saturday ",
+      "link": "https://thehill.com/homenews/administration/6141115-doj-investigates-tv-networks-boycott/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 11:44:56 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "desc": "A long day’s haul in the video game slop mines.",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 11:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Inside the Muslim Manosphere Policing Women Online",
+      "desc": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
+      "link": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "GOP sees House prospects grow bleaker as districts shift to blue",
+      "desc": "Less than a month out from the midterm elections, the landscape for House Republicans grows grimmer by the day. President Trump’s approval ratings are low and sinking. The GOP’s emergency redistrictin",
+      "link": "https://thehill.com/homenews/house/6140021-gop-house-majority-threatened/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Memo: As Trump lavishes cash on voters, ethics experts raise alarm",
+      "desc": "President Trump is doing everything he can to win favor with a dissatisfied electorate before the midterms — including promising money. Speaking in San Antonio on Wednesday evening, Trump repeated his",
+      "link": "https://thehill.com/homenews/analysis/6139169-gop-midterm-check-proposal/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+      "desc": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
+      "link": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Abdul El-Sayed campaign event disrupted by agitators in west Michigan",
       "desc": "A campaign event in West Michigan for U.S. Senate candidate Abdul El-Sayed was interrupted Saturday evening by agitators, campaign officials said.",
@@ -11,7 +101,7 @@
       "tag": "government"
     },
     {
-      "title": "GOP lawmakers reject U.S.-Russia diesel deal, Trump&#039;s Zelensky comments",
+      "title": "GOP lawmakers reject US-Russia diesel deal, Trump&#039;s Zelensky comments",
       "desc": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new leader. When asked about the deal, Sen. John Kennedy (R",
       "link": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
       "date": "Oct 10, 2026",
@@ -56,15 +146,6 @@
       "tag": "government"
     },
     {
-      "title": "Sunday shows preview: Trump admin&#8217;s Russia deal, public execution plan spark pre-midterm backlash",
-      "desc": "President Trump struck a deal to lift sanctions on Russian diesel Friday, allowing the Kremlin to supply 300,000 tons of diesel to the U.S. and the global marketplace, sparking a feud between him and ",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 20:50:27 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Detroit father charged after son, 8, shoots older brother, 11, in the face",
       "desc": "Muammar Markus Wallace, 38, was arraigned Saturday, Oct. 10, on felony charges of violating Michigan’s Safe Storage Law and felony firearms in connection with a shooting that occurred in his Detroit h",
       "link": "https://www.mlive.com/detroit/2026/10/detroit-father-charged-after-son-8-shoots-older-brother-11-in-the-face.html",
@@ -83,15 +164,6 @@
       "tag": "technology"
     },
     {
-      "title": "Congress should seal eligible records that keep Americans out of work",
-      "desc": "The author urges Congress to pass the bipartisan Clean Slate Act and the Fresh Start Act to remove federal record barriers that hinder employment and economic stability for many Americans.",
-      "link": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 19:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Chelsea reclaims fundraising trophy in annual rivalry match with Dexter",
       "desc": "Two neighboring communities raised $75,224 for education during their annual rivalry match fundraising campaign, with Chelsea ending Dexter’s three-year winning streak in the off-field competition.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/10/chelsea-reclaims-fundraising-trophy-in-annual-rivalry-match-with-dexter.html",
@@ -99,24 +171,6 @@
       "rawDate": "Sat, 10 Oct 2026 18:58:22 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Trump rips Zelensky amid Russia diesel deal feud: &#039;I suggest they get a new leader&#039;",
-      "desc": "President Trump on Saturday pushed back on criticism from Ukrainian President Volodymyr Zelensky to the White House’s decision to lift sanctions on Russian diesel amid the Russia-Ukraine war.  The pre",
-      "link": "https://thehill.com/homenews/administration/6140694-trump-defends-russian-diesel-deal/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 18:26:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The fight for EPA workers&#039; rights is a fight for the American public",
-      "desc": "Federal employees do not work for a president, a political party or an ideology — we work for America.",
-      "link": "https://thehill.com/opinion/congress-blog/labor/6139141-epa-union-contract-lawsuit/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Detroit homeowner arrested after mass shooting at illegal club",
@@ -135,15 +189,6 @@
       "rawDate": "Sat, 10 Oct 2026 17:31:11 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "9 people dead in Erie mass shooting",
-      "desc": "“They knew something was going on at that house.\"",
-      "link": "https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead/",
-      "date": "Oct 10, 2026",
-      "rawDate": "Sat, 10 Oct 2026 16:26:18 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Meet the 16 candidates running for Grand Rapids school board",
@@ -353,15 +398,6 @@
       "tag": "government"
     },
     {
-      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-      "desc": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-      "date": "Oct 9, 2026",
-      "rawDate": "Fri, 09 Oct 2026 19:28:49 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Amish woman, horse killed after buggy hit by vehicle in Thumb region",
       "desc": "A preliminary investigation indicates a 55-year-old North Branch man reportedly fell asleep at the wheel and hit the horse-drawn buggy, according to Michigan State Police.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/amish-woman-horse-killed-after-buggy-hit-by-vehicle-in-thumb-region.html",
@@ -416,22 +452,13 @@
       "tag": "safety"
     },
     {
-      "title": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public",
-      "desc": "The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions.",
-      "link": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/",
-      "date": "Oct 9, 2026",
-      "rawDate": "Fri, 09 Oct 2026 18:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Lapeer teacher accused of having sex with minor for money",
       "desc": "A Lapeer High School teacher faces federal charges for allegedly having sex with a 17-year-old girl at a Flint hotel and paying her for the act.",
       "link": "https://www.mlive.com/news/flint/2026/10/lapeer-teacher-accused-of-having-sex-with-minor-for-money.html",
       "date": "Oct 9, 2026",
       "rawDate": "Fri, 09 Oct 2026 18:20:17 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Ossoff: Hegseth &#039;deeply unwell&#039;",
@@ -449,15 +476,6 @@
       "date": "Oct 9, 2026",
       "rawDate": "Fri, 09 Oct 2026 17:19:00 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson",
-      "desc": "The Justice Department is considering a perjury and obstruction-of-justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee.",
-      "link": "https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/",
-      "date": "Oct 9, 2026",
-      "rawDate": "Fri, 09 Oct 2026 16:09:08 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -747,15 +765,6 @@
       "rawDate": "Thu, 08 Oct 2026 00:47:58 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Live updates: Trump rallies in San Antonio; Iowa, Pennsylvania in debate spotlight",
-      "desc": "President Trump returned to Texas on Wednesday night to rally in San Antonio as the state's two marquee races, for Senate and governor, are shaping up to be some of the most competitive in this year's",
-      "link": "https://thehill.com/homenews/administration/6133060-live-updates-candidates-trump-texas-midterm-debates/",
-      "date": "Oct 7, 2026",
-      "rawDate": "Wed, 07 Oct 2026 23:43:35 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Watchdog: Trump administration illegally withheld federal research funds",

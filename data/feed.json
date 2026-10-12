@@ -1,9 +1,36 @@
 {
-  "generated": "2026-10-11T22:35:50.869Z",
+  "generated": "2026-10-12T01:56:30.583Z",
   "news": [
     {
+      "title": "Trump says new press secretary to hold first press conference next week",
+      "desc": "President Trump said Sunday that his new White House press secretary, Katie Zacharia, will hold her first press conference next week. “I am pleased to announce that Katie Zacharia will be beginning he",
+      "link": "https://thehill.com/homenews/media/6141936-zacharia-to-hold-first-white-house-briefing/",
+      "date": "Oct 12, 2026",
+      "rawDate": "Mon, 12 Oct 2026 01:06:57 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Judge orders cancellation of Trump’s government-funded ads",
+      "desc": "A federal judge on Sunday told the Trump administration its new ads featuring the president are likely unlawful and must stop — including any set to be aired later in the day.  The administration had ",
+      "link": "https://thehill.com/regulation/court-battles/6141904-judge-blocks-trump-ads/",
+      "date": "Oct 12, 2026",
+      "rawDate": "Mon, 12 Oct 2026 00:20:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+      "desc": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump’s recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and ",
+      "link": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/",
+      "date": "Oct 11, 2026",
+      "rawDate": "Sun, 11 Oct 2026 22:54:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Chair of Texas Democratic Party says &#039;we&#039;re full steam ahead&#039; after Talarico&#039;s flu recovery",
-      "desc": "The chair of the Texas Democratic Party said Sunday he is confident in Democratic senate candidate James Talarico’s campaign in the wake of his illness. “We're full steam ahead. And, of course, you're",
+      "desc": "Kendall Scudder, the chair of the Texas Democratic Party, said Sunday he is confident in Texas Democratic Senate candidate James Talarico’s campaign in the wake of his illness. “We're full steam ahead",
       "link": "https://thehill.com/homenews/campaign/6141753-talarico-campaign-full-steam-ahead/",
       "date": "Oct 11, 2026",
       "rawDate": "Sun, 11 Oct 2026 21:40:25 +0000",
@@ -48,7 +75,7 @@
     },
     {
       "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
-      "desc": "President Trump&#8217;s deal with Russia to permit the country&#8217;s diesel into the U.S. and global marketplace saw growing backlash on Sunday, before the president announced an energy ceasefire be",
+      "desc": "President Trump&#8217;s deal with Russia to permit the country&#8217;s diesel into the U.S. and global marketplace saw growing backlash Sunday, before the president announced an energy ceasefire betwe",
       "link": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/",
       "date": "Oct 11, 2026",
       "rawDate": "Sun, 11 Oct 2026 19:24:27 +0000",
@@ -81,15 +108,6 @@
       "rawDate": "Sun, 11 Oct 2026 17:22:50 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Hamilton says Vance&#039;s attacks on his religion are &#039;really sad,&#039; &#039;pathetic&#039;",
-      "desc": "Kansas Senate candidate Adam Hamilton (D) on Sunday clapped back at Vice President Vance's attacks on his religious beliefs, calling the attacks \"really sad\" and \"pathetic.\" ABC's Jonathan Karl sat do",
-      "link": "https://thehill.com/homenews/campaign/6141240-hamilton-slams-vance-faith-attacks/",
-      "date": "Oct 11, 2026",
-      "rawDate": "Sun, 11 Oct 2026 17:09:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Marching bands: See the winners from the Grandville Invitational",
@@ -246,7 +264,7 @@
     },
     {
       "title": "Philadelphia police receive false homicide tip from Anthropic AI model",
-      "desc": "Anthropic’s artificial intelligence model submitted a false homicide tip to the Philadelphia Police Department in July, the company disclosed on Friday.  The AI firm said its Claude Haiku 4.5 model fi",
+      "desc": "Anthropic’s artificial intelligence model submitted a false homicide tip to the Philadelphia Police Department in July, the company disclosed Friday.  The AI firm said its Claude Haiku 4.5 model fille",
       "link": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/",
       "date": "Oct 10, 2026",
       "rawDate": "Sat, 10 Oct 2026 19:31:19 +0000",

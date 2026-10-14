@@ -1,41 +1,221 @@
 {
-  "generated": "2026-10-14T19:52:51.308Z",
+  "generated": "2026-10-14T22:53:20.385Z",
   "news": [
+    {
+      "title": "FDA abortion pill review angers GOP lawmakers",
+      "desc": "Presented by Coalition to Strengthen Americas Healthcare {beacon} Healthcare Healthcare   PRESENTED BY  The Big Story  FDA abortion pill review angers GOP lawmakers   Congressional Republicans have so",
+      "link": "https://thehill.com/newsletters/healthcare/6149557-fda-abortion-pill-review-angers-gop-lawmakers/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 22:44:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jackson police shoot 16-year-old after he pointed a handgun at officers during a chase",
+      "desc": "A 16-year-old boy was shot by Jackson police after pulling a handgun and pointing it at officers during a foot chase, leaving him in critical condition.",
+      "link": "https://www.mlive.com/news/jackson/2026/10/jackson-police-shoot-16-year-old-after-he-pointed-a-handgun-at-officers-during-a-chase.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 22:35:54 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Watch live: Trump rallies Montana Republicans with key House seat on the line",
+      "desc": "President Trump is campaigning in Montana on Wednesday evening, as Republicans fight to hold onto their majorities in both chambers of Congress. Trump is expected to rally supporters for GOP candidate",
+      "link": "https://thehill.com/video-clips/6149034-watch-live-donald-trump-montana-rally-aaron-flint-house-race/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 22:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Couple faces multiple charges in string of armed robberies",
+      "desc": "A married couple faces multiple felony charges after what police said was a 12-hour spree during which they allegedly committed four armed robberies across two counties.",
+      "link": "https://www.mlive.com/news/flint/2026/10/couple-faces-multiple-charges-in-string-of-armed-robberies.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 22:19:25 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Harris tells Keke Palmer she&#039;s undecided on 2028 run",
+      "desc": "Former Vice President Kamala Harris told actor Keke Palmer she has not yet decided on a presidential run in 2028 amid mounting speculation surrounding whether the Democrat will launch a third campaign",
+      "link": "https://thehill.com/homenews/campaign/6149362-harris-undecided-2028-campaign-keke-palmer/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:54:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Coalition of states sue OpenAI, alleging it misled users on safety",
+      "desc": "A group of state attorneys general are suing the artificial intelligence firm OpenAI, accusing the ChatGPT-maker of illegally misleading users over the safety of its chatbot. Eight states filed lawsui",
+      "link": "https://thehill.com/policy/technology/6149365-states-sue-openai-safety/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:53:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump says leakers should be shot: &#039;They&#039;re the scum of the earth&#039;",
+      "desc": "President Trump suggested Wednesday at a campaign rally in Arizona that leakers should be shot, in an apparent reference to leaks surrounding U.S. airstrikes on Iran's nuclear facilities.  “Somebody l",
+      "link": "https://thehill.com/homenews/6149366-trump-rally-leakers-shot/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:48:50 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "DOJ faces legal threats after pushing California to match voter list with USB drive",
+      "desc": "A voting rights group warned the Department of Justice (DOJ) that it plans to sue if the department doesn’t back away from a demand made to various California voting authorities which ordered them to ",
+      "link": "https://thehill.com/homenews/state-watch/6149368-voting-rights-group-warns-doj-citizenship-usb-drive/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:43:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pete Buttigieg rallies in Kalamazoo to flip red district blue",
+      "desc": "Hundreds gathered in the sanctuary of First Baptist Church in downtown Kalamazoo to listen to Pete Buttigieg, as he campaigned for a Democrat running for the U.S. House of Representatives.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/pete-buttigieg-rallies-in-kalamazoo-to-flip-red-district-blue.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:41:19 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats ask for AI air traffic control tool pause until questions answered",
+      "desc": "Several House Democrats are asking the Federal Aviation Administration (FAA) to pause its new AI air traffic control tool until their questions are answered. The group of lawmakers ��� led by Rep. Apr",
+      "link": "https://thehill.com/homenews/house/6149330-lawmakers-challenge-smart-ai-rollout/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:40:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "KFF: Individual health insurance enrollment fell 18 percent in June",
+      "desc": "Enrollment in ObamaCare and other health insurance plans on the individual market dropped by more than 4.5 million people over the past year, according to an analysis by health research organization K",
+      "link": "https://thehill.com/policy/healthcare/6149286-obamacare-enrollment-dropped-millions-kff-report/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:28:12 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Spicer weighs in on Zacharia&#039;s White House press briefing: &#039;I felt bad for her&#039;",
+      "desc": "Sean Spicer, a former White House press secretary during President Trump’s first term, said he felt bad for new White House press secretary Katie Zacharia after a rocky start behind the podium. In an ",
+      "link": "https://thehill.com/homenews/media/6149284-spicer-felt-bad-zacharia-press-secretary/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:23:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Paxton suing Gerber and Nestlé over alleged arsenic and lead in baby food",
+      "desc": "Texas Attorney General Ken Paxton is suing Gerber Products Co. and its parent company, Nestlé USA Inc., alleging the Gerber baby food products contain dangerous levels of toxic metals, according to a ",
+      "link": "https://thehill.com/policy/healthcare/6148980-paxton-gerber-toxic-metals-lawsuit/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:17:45 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Michigan State Police investigating Jackson officer use of force",
+      "desc": "Michigan State Police are investigating a use of force incident involving a Jackson police officer that occurred near the Jackson County Fairgrounds on Oct. 14.",
+      "link": "https://www.mlive.com/news/jackson/2026/10/michigan-state-police-investigating-jackson-officer-use-of-force.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:01:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump Aides Admit the House Is a Lost Cause",
+      "desc": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
+      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Inflation rose slightly in September",
+      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Inflation in September rose to 3.7 percent: BLS Infl",
+      "link": "https://thehill.com/newsletters/business-economy/6149219-inflation-rose-slightly-in-september/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 20:55:27 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump ally grilled on accepting election defeat: ‘You wouldn’t bend the knee to democracy’",
+      "desc": "“Let’s have the election first,” Steve Bannon said when asked whether he would accept the results of the 2026 election.",
+      "link": "https://www.mlive.com/politics/2026/10/trump-ally-grilled-on-accepting-election-defeat-you-wouldnt-bend-the-knee-to-democracy.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 20:45:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Medical debt erased for nearly 10,000 more Michigan residents",
+      "desc": "Gov. Gretchen Whitmer announced the third round of debt forgiveness Wednesday, with notices going out this week to nearly 10,000 residents who qualify based on income or debt burden.",
+      "link": "https://www.mlive.com/news/2026/10/medical-debt-erased-for-nearly-10000-more-michigan-residents.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 20:38:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Judge rules solar company can take possession of Ottawa County farmer’s 562 acres",
+      "desc": "James Smallegan, a Zeeland area farmer, disputed the legality of a contract his father signed with RWE Solar.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/judge-rules-solar-company-can-take-possession-of-ottawa-county-farmers-562-acres.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 20:24:21 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Amid Ukraine uproar, Musk says decisions to restrict Starshield up to president",
+      "desc": "SpaceX CEO Elon Musk on Wednesday said decisions to restrict the speed or usage of Starlink's Starshield are made by the U.S. military and, ultimately, the president, as confusion swirls over Ukraine'",
+      "link": "https://thehill.com/policy/technology/6148910-musk-clarifies-starshield-restrictions/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 20:19:33 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "GOP lawmaker defends Trump’s energy ceasefire push, rips Putin over betrayal",
+      "desc": "Rep. Dan Crenshaw (R-Texas) on Wednesday expressed his support for President Trump’s recent push for an energy ceasefire between Russia and Ukraine, but he also slammed Russian President Vladimir Puti",
+      "link": "https://thehill.com/homenews/house/6148929-crenshaw-putin-energy-ceasefire/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 19:59:39 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Hegseth addresses Army convention amid leadership shake-up: 5 takeaways",
+      "desc": "Defense Secretary Pete Hegseth addressed a major Army convention Wednesday amid a leadership shake-up in the military’s largest branch, discussing the Pentagon’s approach to autonomous systems and cal",
+      "link": "https://thehill.com/policy/defense/6148920-pete-hegseth-ausa-convention-takeaways/",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 19:55:57 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Is the Ann Arbor public power proposal legal? Group responds to city questions",
+      "desc": "At the center of the ongoing debate and legal questions over public power in Ann Arbor is an Aug. 12 letter from the attorney general's office to the governor.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/is-the-ann-arbor-public-power-proposal-legal-group-responds-to-city-questions.html",
+      "date": "Oct 14, 2026",
+      "rawDate": "Wed, 14 Oct 2026 19:52:43 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
     {
       "title": "GOP&#039;s Blackburn releases AI Kendrick Lamar video, to some criticism",
       "desc": "Tennessee Republican Sen. Marsha Blackburn on Tuesday released a video appearing to use artificial intelligence to have her resemble rapper Kendrick Lamar during his 2025 Super Bowl LIX Halftime Show ",
       "link": "https://thehill.com/homenews/senate/6148559-blackburn-ai-kendrick-lamar-video/",
       "date": "Oct 14, 2026",
       "rawDate": "Wed, 14 Oct 2026 19:18:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Trump seeks to boost Biggs, GOP in Arizona",
-      "desc": "President Trump heads to Arizona on Wednesday afternoon, looking to help Republicans flip the governor's mansion in a state he carried in 2024. Trump is expected to rally supporters for GOP Rep. Andy ",
-      "link": "https://thehill.com/video-clips/6148750-watch-live-donald-trump-andy-biggs-arizona-governers-race-rally/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 19:12:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sabato&#039;s Crystal Ball shifts Kansas Senate to toss-up",
-      "desc": "Sabato’s Crystal Ball, an election handicapper, shifted the Kansas Senate race to a “toss-up” amid growing voter dissatisfaction with the GOP over the economy.  The group noted in its explanation they",
-      "link": "https://thehill.com/homenews/campaign/6148782-kansas-senate-race-tossup/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 19:12:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sabato&#8217;s Crystal Ball shifts Kansas Senate to toss-up",
-      "desc": "Sabato’s Crystal Ball, an election handicapper, shifted the Kansas Senate race to a “toss-up” amid growing voter dissatisfaction with the GOP over the economy.  The group noted in its explanation they",
-      "link": "https://thehill.com/homenews/campaign/6148782-kansas-senate-race-tossup/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 19:12:45 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "84 percent of ransomware victims point to AI link: Report",
@@ -74,31 +254,13 @@
       "tag": "government"
     },
     {
-      "title": "Nancy Mace&#039;s ex-fiance, 2 other men face sex crime charges after her accusations in House speech",
-      "desc": "Three men, including Rep. Nancy Mace's ex-fiance, are now facing charges for a 2018 incident.",
-      "link": "https://thehill.com/homenews/house/6148337-nancy-mace-south-carolina-sled-sex-crime-charges/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 18:26:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ukraine says Starlink connectivity restored after Zelensky warned &#039;people will die&#039; from satellite slowdown",
-      "desc": "Ukraine's defense minister said on Wednesday afternoon that SpaceX was working to restore satellite speeds in the country after Ukrainian President Volodymyr Zelensky warned of dire consequences follo",
+      "title": "Ukraine says Starlink partially restored after Zelensky warned &#039;people will die&#039; from satellite slowdown",
+      "desc": "Editor's Note: This story has been updated to reflect Mykhailo Federov's current title. Ukraine's former defense minister said on Wednesday afternoon that SpaceX was working to restore satellite speed",
       "link": "https://thehill.com/policy/international/6148494-zelensky-trump-musk-starlink-limitations/",
       "date": "Oct 14, 2026",
       "rawDate": "Wed, 14 Oct 2026 18:26:01 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Japan to fund $21B deal to expand chip production in New York",
-      "desc": "Japan is helping fund a $21 billion deal to build two new chip plants in upstate New York, President Trump announced Wednesday. The country will provide $10 billion to speed up construction of a semic",
-      "link": "https://thehill.com/policy/technology/6148573-trump-announces-chip-deal-japan/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 18:22:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Hegseth heckled by anti-war protesters at Army conference",
@@ -117,15 +279,6 @@
       "rawDate": "Wed, 14 Oct 2026 18:15:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Appeals court rules California can&#039;t require ICE to show visible ID",
-      "desc": "A federal appeals court on Wednesday ruled against a California law requiring Immigration and Customs Enforcement (ICE) officers to show visible identification, a final ruling after the law was previo",
-      "link": "https://thehill.com/regulation/court-battles/6148426-california-immigration-enforcement-id-law-appeals-court-ruling/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 18:08:29 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Meet the 3 candidates for Vandercook Lake Public Schools board",
@@ -155,15 +308,6 @@
       "tag": "government"
     },
     {
-      "title": "Trump adviser sees &#8216;a whole bunch of good news&#8217; in inflation report",
-      "desc": "Kevin Hassett, the director of the National Economic Council (NEC), said Wednesday he sees a “bunch of good news” in the latest inflation report, which measured prices as up 3.7 percent year over year",
-      "link": "https://thehill.com/homenews/administration/6148546-hassett-september-cpi-energy-prices/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 17:54:11 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Bay City veteran receives honorary high school diploma",
       "desc": "Warren Harding was drafted into the Army in 1967 before completing high school. Nearly 60 years later, Bay City Public Schools honored his service with a Bay City Central diploma.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/bay-city-veteran-receives-honorary-high-school-diploma.html",
@@ -171,33 +315,6 @@
       "rawDate": "Wed, 14 Oct 2026 17:51:56 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "In Texas, 3 new polls show Talarico with slight lead",
-      "desc": "New polls show tight contests in Texas in the race for U.S. Senate and governor. Three polls released Tuesday and Wednesday show state Rep. James Talarico (D) leading Texas Attorney General Ken Paxton",
-      "link": "https://thehill.com/homenews/campaign/6148528-talarico-paxton-texas-senate/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 17:47:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Harris to hit campaign trail for Democrats in Mississippi, New Hampshire, more",
-      "desc": "Former Vice President Kamala Harris is set to hit the campaign trail for the last few weeks of the midterms, her office announced Wednesday. Harris is set to make stops in Georgia, Mississippi, Nevada",
-      "link": "https://thehill.com/homenews/campaign/6148466-harris-to-hit-campaign-trail-for-democrats-in-mississippi-new-hampshire-more/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 17:45:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Supreme Court weighs scope of 1980s video privacy law in internet newsletter age",
-      "desc": "The Supreme Court on Wednesday weighed how a decades-old privacy law designed to protect video rental records should be applied to modern internet tracking, a case that could determine who can sue ove",
-      "link": "https://thehill.com/regulation/court-battles/6146833-supreme-court-video-privacy-paramount-digital-tracking/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 17:43:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Netflix laying off 6 percent of its workforce, marking biggest round of job cuts in years",
@@ -434,24 +551,6 @@
       "tag": "technology"
     },
     {
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "desc": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 09:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "New poll shows Democrats with 7-point edge over Trump’s Republican Party",
-      "desc": "Democrats have an 7-point advantage on the generic congressional ballot with three weeks to go before the midterm elections.",
-      "link": "https://www.mlive.com/politics/2026/10/new-poll-shows-democrats-with-7-point-edge-over-trumps-republican-party.html",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 23:48:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "These 3 upcoming Ann Arbor school meetings could help shape the district’s future",
       "desc": "Residents can offer input on AAPS' next strategic plan, and school board candidates are invited to a pre-transition session later this month.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/10/these-3-upcoming-ann-arbor-school-meetings-could-help-shape-the-districts-future.html",
@@ -513,15 +612,6 @@
       "rawDate": "Tue, 13 Oct 2026 21:27:07 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Ann Arbor transit agency nets $6.6M to explore enhanced service on busy corridor",
-      "desc": "“As part of my plan to fix the damn roads, we’re expanding and improving public transit with new funding and a new role in state government,” Gov. Gretchen Whitmer said.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/10/ann-arbor-transit-agency-nets-66m-to-explore-enhanced-service-on-busy-corridor.html",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 21:21:56 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Michigan family sues over volleyball matches against Ann Arbor team with trans athlete",
@@ -623,15 +713,6 @@
       "tag": "safety"
     },
     {
-      "title": "Families of homeless men killed on Lansing River Trail fear for others’ safety",
-      "desc": "Lansing police are investigating the deaths of five homeless men who were injured along the Lansing River Trail in the past year.",
-      "link": "https://www.mlive.com/news/2026/10/families-of-homeless-men-killed-on-lansing-river-trail-fear-for-others-safety.html",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 17:16:25 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "FTC: &#039;Pharma bro&#039; Shkreli violated lifetime industry ban, should be held in contempt",
       "desc": "The Federal Trade Commission (FTC) and a coalition of seven states asked a federal court on Tuesday to punish Martin Shkreli for \"flagrantly and repeatedly” violating a lifetime ban from being involve",
       "link": "https://thehill.com/policy/healthcare/6145783-ftc-shkreli-pharma-ban-violation/",
@@ -650,15 +731,6 @@
       "tag": "health"
     },
     {
-      "title": "Kroger laying off 3,000 corporate employees over 3 years amid increased AI use",
-      "desc": "Grocery store chain Kroger said it will lay off 3,000 corporate employees over the next three years as it ramps up its use of artificial intelligence to streamline operations.",
-      "link": "https://thehill.com/business/6145505-kroger-layoffs-ai/",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 16:37:30 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Iran targeting military sites in UK, MI5 chief says",
       "desc": "Iran has ramped up attempts to hit military installations in the United Kingdom, with the suspected plot to attack a U.S.-run air base last month part of a broader effort of attacks by Tehran, accordi",
       "link": "https://thehill.com/policy/international/6145661-mi5-warns-iranian-military-threats-united-kingdom/",
@@ -668,22 +740,13 @@
       "tag": "safety"
     },
     {
-      "title": "Saginaw murder suspect, 17, denied bond after arrest",
-      "desc": "Eric M. Brooks Jr., 17, was captured after a month on the run and denied bond in the fatal shooting of the 21-year-old FedEx worker and new father.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/saginaw-teen-arrested-charged-with-murder-in-2025-marijuana-purchase-gone-awry.html",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 15:28:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Flint council committee rejects school fighting ordinance",
       "desc": "Multiple council members expressed concerns about potential government overreach before voting against the regulations during the committee's meeting Monday.",
       "link": "https://www.mlive.com/news/flint/2026/10/flint-council-committee-rejects-school-fighting-ordinance.html",
       "date": "Oct 13, 2026",
       "rawDate": "Tue, 13 Oct 2026 15:21:50 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "$155M sports medicine complex planned at University of Michigan",
@@ -693,15 +756,6 @@
       "rawDate": "Tue, 13 Oct 2026 15:14:31 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "El-Sayed labels AI &#039;existential threat’",
-      "desc": "Michigan Senate candidate Abdul El-Sayed (D) labeled AI an “existential threat” Tuesday, as he laid out a framework that aims to get the technology “under control.” El-Sayed, who is locked in a tight ",
-      "link": "https://thehill.com/policy/technology/6145290-el-sayed-labels-ai-existential-threat/",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 15:02:10 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Fort Hood massacre survivor weighs in on possible Hasan execution livestream",
@@ -740,24 +794,6 @@
       "tag": "safety"
     },
     {
-      "title": "Bessent on how Iran war ends: &#039;I don&#039;t know&#039;",
-      "desc": "Treasury Secretary Scott Bessent said Sunday he was unsure how the Iran war will end, with the eight-month mark of the conflict nearing. “I don't know what ‘crying uncle’ is in Farsi, but they're goin",
-      "link": "https://thehill.com/homenews/administration/6143968-bessent-unsure-iran-war-end/",
-      "date": "Oct 12, 2026",
-      "rawDate": "Mon, 12 Oct 2026 21:29:46 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US military archbishop: Streamed execution threatens to &#039;imitate the terrorists&#039;",
-      "desc": "Archbishop Timothy Broglio, head of the Archdiocese for the Military Services, on Monday said he does not approve of the Trump administration’s decision to livestream the military execution of convict",
-      "link": "https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/",
-      "date": "Oct 12, 2026",
-      "rawDate": "Mon, 12 Oct 2026 20:09:12 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Pennsylvania reports sixth measles death",
       "desc": "Pennsylvania authorities on Monday confirmed the state's sixth death connected to a measles case as the state deals with the highest number of cases nationally. The Franklin County Coroner released an",
       "link": "https://thehill.com/homenews/state-watch/6143554-pa-leads-nation-measles-cases/",
@@ -765,15 +801,6 @@
       "rawDate": "Mon, 12 Oct 2026 19:55:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Zelensky unleashes on Trump as Russia diesel deal rallies Ukraine’s supporters",
-      "desc": "Kyiv’s allies, including those in President Trump’s circle, are rallying around Ukrainian President Volodymyr Zelensky, pushing back against Trump’s diesel deal with Russia and threats to cut off weap",
-      "link": "https://thehill.com/policy/international/6143601-zelensky-trump-russia-diesel-deal/",
-      "date": "Oct 12, 2026",
-      "rawDate": "Mon, 12 Oct 2026 19:09:02 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "GLP-1 combination therapy may unlock new benefits for psoriasis patients",
@@ -835,24 +862,6 @@
       "link": "https://thehill.com/policy/healthcare/6137718-maha-activists-gop-frustrations/",
       "date": "Oct 9, 2026",
       "rawDate": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "HHS launches NIH clinic to study vaccine injuries",
-      "desc": "The Department of Health and Human Services (HHS) has launched a clinic dedicated to studying \"patients experiencing health problems following vaccination\" as it mulls a reimbursement program for doct",
-      "link": "https://thehill.com/policy/healthcare/6137173-hhs-launches-vaccine-injury-clinic/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 19:43:28 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Top House Democrat unveils surprise medical billing overhaul",
-      "desc": "New legislation from Rep. Frank Pallone Jr. (N.J.), the top Democrat on the powerful House Energy and Commerce Committee, aims to overhaul a key part of a law that protects patients from surprise medi",
-      "link": "https://thehill.com/policy/healthcare/6136385-lower-premiums-faster-payments-act/",
-      "date": "Oct 8, 2026",
-      "rawDate": "Thu, 08 Oct 2026 15:38:05 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

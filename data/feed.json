@@ -1,32 +1,158 @@
 {
-  "generated": "2026-10-15T20:46:08.277Z",
+  "generated": "2026-10-15T23:28:02.783Z",
   "news": [
     {
+      "title": "Anthropic PAC splits Q3 donations down the middle",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Anthropic PAC splits Q3 donations down the middle Anthropic’s corporate political action committee poured $161,000 into campaigns across the aisle",
+      "link": "https://thehill.com/homenews/6152693-anthropic-pac-splits-q3-donations-down-the-middle/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 22:56:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Questions flare over US role in Ukraine&#039;s Starlink shut-off: What to know",
+      "desc": "On Wednesday, Elon Musk’s Starlink was pulled into the center of a controversy after Ukraine’s military faced restricted access to Starshield, the military version of the satellite-based system. Starl",
+      "link": "https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 22:43:28 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Vance calls El-Sayed ‘little weasel’ as Senate race takes center stage in Michigan speech",
+      "desc": "Vice President JD Vance visited Michigan Thursday to stump for GOP candidates, including Senate nominee Mike Rogers, and stress the need to elect Republicans.",
+      "link": "https://www.mlive.com/politics/2026/10/vance-calls-el-sayed-little-weasel-as-senate-race-takes-center-stage-in-michigan-speech.html",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 22:40:27 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage",
+      "desc": "Four Republican senators have signed on to a letter to the Defense Department’s inspector general expressing “grave concern” over Ukraine’s sudden loss of access to intelligence-sharing and high-speed",
+      "link": "https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 22:38:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Musk bankrolls PAC spending big on Paxton in Texas",
+      "desc": "Tech mogul Elon Musk poured $158 million into a key super PAC backing Texas Attorney General Ken Paxton's (R) Senate run as part of his push to keep Republican majorities in Congress. Musk was the sin",
+      "link": "https://thehill.com/homenews/campaign/6152571-musk-texas-pac-paxton-senate/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 22:34:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump shuts down Pentagon plan for public execution: 5 takeaways",
+      "desc": "President Trump put an abrupt end on Thursday to questions about whether the Pentagon would really livestream the firing squad execution of the Fort Hood shooter, former Army Maj. Nidal Malik Hasan. I",
+      "link": "https://thehill.com/homenews/administration/6152572-execution-livestream-donald-trump-pete-hegseth-takeaways/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 22:10:28 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Judge decides who will bury newborn baby found dead at Electric Forest",
+      "desc": "Nearly four months after the baby was found at the music festival, a judge has decided where the newborn will be laid to rest. The FBI is offering $15,000 for information about the mother.",
+      "link": "https://www.mlive.com/news/muskegon/2026/10/judge-decides-who-will-bury-newborn-baby-found-dead-at-electric-forest.html",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 21:38:26 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump berates Cornyn, Rove for not backing Paxton: &#039;They are hurting Texas&#039;",
+      "desc": "President Trump is once again attacking Republican Sen. John Cornyn (Texas), now saying the outgoing lawmaker is not doing enough to support his state's GOP Senate candidate, Ken Paxton. He also calle",
+      "link": "https://thehill.com/homenews/campaign/6152457-trump-attacks-cornyn-paxton-elections/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 21:23:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "desc": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 21:18:15 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Jackson teen shot by police near fairgrounds undergoes surgery",
+      "desc": "Mason Breton, 16, remained in critical condition after being shot multiple times by Jackson police during a foot chase, his mother said.",
+      "link": "https://www.mlive.com/news/jackson/2026/10/jackson-teen-shot-by-police-near-fairgrounds-undergoes-surgery.html",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 21:17:51 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Federal lawsuit accuses Matt Gaetz, 2 others of sex trafficking",
+      "desc": "Former Rep. Matt Gaetz (R-Fla.) is being sued by two anonymous women over allegations that he and others sexually exploited them when the women were in their early 20s. The lawsuit, filed Thursday in ",
+      "link": "https://thehill.com/regulation/court-battles/6152403-matt-gaetz-federal-lawsuit-sex-trafficking/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 21:07:39 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "desc": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 21:00:28 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Here’s who Megyn Kelly thinks should run for president: ‘I’m going to shock you’",
+      "desc": "Megyn Kelly, a former Fox News star, surprisingly backed Don Lemon’s possible White House run.",
+      "link": "https://www.mlive.com/politics/2026/10/heres-who-megyn-kelly-thinks-should-run-for-president-im-going-to-shock-you.html",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 21:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DOJ sues California after pushing state to match voter list with USB drive",
+      "desc": "The Department of Justice (DOJ) sued the state of California on Thursday after giving it a USB drive and demanding that within 48 hours it compare 20,000 names its data rolls with information provided",
+      "link": "https://thehill.com/homenews/6152422-doj-sues-california-election-officials/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 20:56:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Republican Senate candidate Rogers, others target El-Sayed at Vance’s Michigan rally",
+      "desc": "Republican speakers criticized Democrats as too extreme, urging Republicans to turn out and vote on Tuesday, Nov. 3.",
+      "link": "https://www.mlive.com/politics/2026/10/republican-senate-candidate-rogers-others-target-el-sayed-at-vances-michigan-rally.html",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 20:54:01 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic senators set up vote on blocking Saudi nuclear deal",
+      "desc": "Sens. Jeff Merkley (D-Ore.) and Ed Markey (D-Mass.) introduced a measure Thursday that would block President Trump’s deal to allow Saudi Arabia to build a civilian nuclear program. The Democrats’ meas",
+      "link": "https://thehill.com/homenews/senate/6152383-senators-block-saudi-nuclear-deal/",
+      "date": "Oct 15, 2026",
+      "rawDate": "Thu, 15 Oct 2026 20:52:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "Trump: Musk has &#039;a little problem&#039;",
-      "desc": "President Trump took a slight jab Wednesday at tech billionaire Elon Musk, who remains a close ally despite a rollercoaster relationship between the two. Trump made the swipe while going after Arizona",
+      "desc": "President Trump took a slight jab Wednesday at tech mogul Elon Musk, who remains a close ally despite a rollercoaster relationship between the two. Trump made the swipe while going after Arizona Gov. ",
       "link": "https://thehill.com/homenews/administration/6152303-trump-mocks-musk-arizona-rally/",
       "date": "Oct 15, 2026",
       "rawDate": "Thu, 15 Oct 2026 20:45:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump ballroom donors revealed in Washington Post report",
-      "desc": "Major donors to President Trump’s White House ballroom project were revealed in a new list obtained by the Washington Post on Thursday. According to the Post, the list reveals more than $330 million i",
-      "link": "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 20:43:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Zacharia names Scarlett Johansson as actress she wants to play her on &#039;SNL&#039;",
-      "desc": "White House press secretary Katie Zacharia, who made headlines for her rocky debut at the podium this week, has a certain Hollywood star in mind to portray her on the NBC sketch comedy show “Saturday ",
-      "link": "https://thehill.com/homenews/administration/6152255-zacharia-suggests-scarlett-johannson/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 20:10:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "5 GOP House members join letter urging Trump to cancel Russia diesel deal, up sanctions",
@@ -34,8 +160,8 @@
       "link": "https://thehill.com/homenews/house/6151776-house-republicans-letter-trump-russia-diesel-deal/",
       "date": "Oct 15, 2026",
       "rawDate": "Thu, 15 Oct 2026 19:57:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Former daycare worker to stand trial on 44 charges involving at least 15 children",
@@ -45,42 +171,6 @@
       "rawDate": "Thu, 15 Oct 2026 19:35:59 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Hinojosa stages empty lectern at Texas governor&#039;s mansion amid Abbott debate snub",
-      "desc": "Texas gubernatorial candidate Gina Hinojosa (D) spoke next to an empty lectern in front of the Lone Star State’s governor’s mansion Thursday after Gov. Greg Abbott (R) did not accept her debate invita",
-      "link": "https://thehill.com/homenews/campaign/6152001-hinojosa-abbott-texas-governor/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 19:34:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Noem &#039;confident Ilhan Omar will finally be held accountable&#039;",
-      "desc": "Kristi Noem, the former secretary of the Department of Homeland Security (DHS), said she was assured that Rep. Ilhan Omar (D-Minn.) would be “held accountable” if the lawmaker is found to have committ",
-      "link": "https://thehill.com/homenews/administration/6152070-kristi-noem-ilhan-omar-immigration-investigation/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 19:30:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Zacharia &#039;tracked every news hit&#039; to capture Trump&#039;s attention in press secretary search",
-      "desc": "White House press secretary Katie Zacharia said Thursday that she tracked President Trump’s interests and intentionally discussed them in television appearances ahead of being selected for the role. “",
-      "link": "https://thehill.com/homenews/administration/6152072-zacharia-trump-press-secretary/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 19:26:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Zacharia says results of bar exam were &#039;inconsequential&#039;",
-      "desc": "White House press secretary Katie Zacharia said Thursday her California Bar exam results are “somewhat inconsequential” after reporting surfaced that showed she did not pass the examination.  In an in",
-      "link": "https://thehill.com/homenews/administration/6151996-zacharia-california-bar-exam-results/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 19:06:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Vice President JD Vance supporters queue up for Michigan rally",
@@ -101,40 +191,13 @@
       "tag": "safety"
     },
     {
-      "title": "Brit Hume: Republican &#039;washout&#039; possible in midterms",
-      "desc": "Fox News’s Brit Hume on Wednesday said Republicans may face rough results in the upcoming midterms. “Republicans have to worry that something like that may happen to them in this race, where not only ",
-      "link": "https://thehill.com/homenews/campaign/6151939-gop-midterm-washout-risk/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 18:56:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Judge tosses Brennan suit demanding preservation of records in &#039;grand conspiracy&#039; probe",
-      "desc": "A federal judge on Thursday agreed to toss a lawsuit from former CIA Director John Brennan, arguing he did not yet have standing to sue over an investigation targeting him for his role in reviewing th",
-      "link": "https://thehill.com/regulation/court-battles/6151954-judge-tosses-brennan-lawsuit/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 18:52:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Lawmakers &#039;horrified&#039; by mass shooting plot on Chicago-area Hindu temple",
-      "desc": "Several lawmakers have expressed shock and outrage about an alleged racially motivated two-year plot to massacre people at a Hindu temple in Aurora, Ill., which led to the arrest of a 19-year-old Pala",
-      "link": "https://thehill.com/homenews/state-watch/6151659-man-arrested-hindu-temple-shooting-plot/",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 18:50:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "RFK Jr.-aligned MAHA group spends big on Iowa governor&#039;s race",
       "desc": "A political action committee associated with Health and Human Services (HHS) Secretary Robert F. Kennedy Jr.’s “Make America Healthy Again” (MAHA) movement announced Thursday it is investing more than",
       "link": "https://thehill.com/homenews/campaign/6151882-maha-action-pac-iowa-donation/",
       "date": "Oct 15, 2026",
       "rawDate": "Thu, 15 Oct 2026 18:44:16 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Nessel sues Hailgate, man behind alleged scam for Wolverine tickets",
@@ -326,15 +389,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump’s immigration crackdown divides Michigan voters ahead of election",
-      "desc": "Immigration is a top issue dividing Michigan voters this election, according to an MLive survey, with some questioning the Trump administration's crackdown with others calling for stronger border secu",
-      "link": "https://www.mlive.com/politics/2026/10/trumps-immigration-crackdown-divides-michigan-voters-ahead-of-election.html",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 12:27:59 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Tillis calls on Pentagon inspector general to investigate Ukraine’s Starshield loss",
       "desc": "Sen. Thom Tillis (R-N.C.) says he and his Senate colleagues will ask the Defense Department’s inspector general to investigate Ukraine’s sudden loss of access to the military version of Starlink, know",
       "link": "https://thehill.com/homenews/senate/6150025-thom-tillis-pentagon-ig-ukraine-starlink-limits/",
@@ -349,17 +403,8 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/what-allendale-voters-should-know-about-2-school-bond-proposals-on-nov-3-election-ballot.html",
       "date": "Oct 15, 2026",
       "rawDate": "Thu, 15 Oct 2026 12:05:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michigan governor candidates will debate again tonight in Detroit. Here’s how to watch",
-      "desc": "The Thursday, Oct. 15 Detroit debate is scheduled to begin at 8 p.m. and will air live on WDIV-Local 4 and online streaming platforms.",
-      "link": "https://www.mlive.com/politics/2026/10/michigan-governor-candidates-will-debate-again-tonight-in-detroit-heres-how-to-watch.html",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 11:55:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
@@ -632,24 +677,6 @@
       "tag": "health"
     },
     {
-      "title": "Michigan cop fired after allegedly stealing from evidence room to pay TikTok debt",
-      "desc": "The 43-year-old Army veteran faces two felony charges after admitting to taking $1,500 from seized cash stored in the department's property room.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/fired-michigan-police-sergeant-charged-with-embezzling-from-evidence-room-to-pay-tiktok-debt.html",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 16:01:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Juvenile male critically injured after shooting at Flint home",
-      "desc": "Detectives with the Flint Police Department’s Major Case Unit are actively investigating the circumstances surrounding the incident.",
-      "link": "https://www.mlive.com/news/flint/2026/10/juvenile-male-critically-injured-after-shooting-at-flint-home.html",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 15:00:55 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Ukraine says SpaceX limiting Starlink operations, impacting air defense",
       "desc": "Ukraine is raising alarm that air defense operations are being impacted by unannounced limitations on SpaceX satellites. The disruption comes following Ukrainian President Volodymyr Zelensky warning t",
       "link": "https://thehill.com/policy/international/6147587-ukraine-space-x-starlink-limitations-russia-war/",
@@ -720,24 +747,6 @@
       "rawDate": "Tue, 13 Oct 2026 21:27:07 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Iran war costing US households average of $2K each: Moody&#039;s",
-      "desc": "The war in Iran has cost the average American household $2,000 so far, according to estimates shared Monday by Mark Zandi, chief economist at Moody’s Analytics. “Consider that the war’s costs taken to",
-      "link": "https://thehill.com/policy/defense/6146031-iran-war-cost-households/",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 20:38:43 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Top Army general reassures defense industry after Driscoll, George exits",
-      "desc": "The Army’s acting chief of staff, Gen. Christopher LaNeve, assured the defense industry on Tuesday that the military’s largest branch is not walking away from modernization after losing top brass earl",
-      "link": "https://thehill.com/policy/defense/6146278-ausa-army-defense-industry/",
-      "date": "Oct 13, 2026",
-      "rawDate": "Tue, 13 Oct 2026 20:01:14 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "CVS to pay $315M settlement over allegations of illegally filling opioid prescriptions",

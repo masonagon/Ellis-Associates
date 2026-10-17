@@ -1,6 +1,60 @@
 {
-  "generated": "2026-10-16T23:09:47.570Z",
+  "generated": "2026-10-17T02:20:40.419Z",
   "news": [
+    {
+      "title": "Federal agents searched Omar&#039;s trash for DNA before raid: Sources",
+      "desc": "Investigators have used secretive “dumpster diving” to obtain DNA when search warrants were not possible.",
+      "link": "https://thehill.com/homenews/6155559-federal-raid-ilhan-omar-dna-trash/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 01:43:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Armed robbery at Warren pot facility ends in 6 arrests",
+      "desc": "The six suspects arrived at the Warren facility in a U-Haul and a Camaro before threatening a guard and stealing marijuana, prosecutors say.",
+      "link": "https://www.mlive.com/news/detroit/2026/10/6-charged-in-warren-marijuana-facility-armed-robbery.html",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 00:26:09 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "More lawmakers report suspicious packages at offices",
+      "desc": "Several lawmakers said Friday their offices across the country had received suspicious mailings following reports earlier this week of letters containing unknown substances at U.S. election offices. S",
+      "link": "https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 00:06:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Threatening letter targets Scholten's Grand Rapids office",
+      "desc": "A staff member at Rep. Hillary Scholten's Grand Rapids office opened a threatening letter containing white powder, prompting responses from local police and the FBI.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/rep-scholten-receives-suspicious-powder-in-mail-at-grand-rapids-office.html",
+      "date": "Oct 16, 2026",
+      "rawDate": "Fri, 16 Oct 2026 23:29:15 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Centcom commander says naval blockade cost Iran $25B in oil revenue",
+      "desc": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Centcom commander says naval blockade ",
+      "link": "https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue/",
+      "date": "Oct 16, 2026",
+      "rawDate": "Fri, 16 Oct 2026 23:12:48 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "FERC moves to ease gas approvals",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  FERC moves to ease gas approvals Federal energy regulators have proposed setting up a program to speed up approvals ",
+      "link": "https://thehill.com/newsletters/energy-environment/6155469-ferc-proposes-lng-approval-speedup/",
+      "date": "Oct 16, 2026",
+      "rawDate": "Fri, 16 Oct 2026 23:09:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "5 days of Katie Zacharia: The rapid fall of Trump&#039;s &#039;lawyer&#039; press secretary",
       "desc": "Katie Zacharia won’t be remembered as one of the “all-time greats” in the White House press room, as one of her colleagues predicted this week, but she will go down in the annals of presidential press",
@@ -110,15 +164,6 @@
       "tag": "government"
     },
     {
-      "title": "Watch live: Decision Desk ‘26  Midterm Preview powered by 2WAY and The Hill",
-      "desc": "With control of Congress on the line, 2WAY is teaming up with NewsNation and The Hill for a special edition of “The Morning Meeting” ahead of the Nov. 3 midterm elections. The program will take a clos",
-      "link": "https://thehill.com/homenews/6154307-watch-live-2way-the-hill-newsnation-special-midterms-coverage-morning-meeting/",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 21:24:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "US measles cases top 4,400, far exceeding last year&#039;s totals",
       "desc": "National measles cases this year have now exceeded 4,400, all but guaranteeing the country will more than double the number of measles infections confirmed last year, which totaled 2,289. The latest u",
       "link": "https://thehill.com/policy/healthcare/6154416-us-measles-cases-exceed-4400/",
@@ -133,17 +178,8 @@
       "link": "https://thehill.com/homenews/administration/6155022-us-mexico-border-drone-ban/",
       "date": "Oct 16, 2026",
       "rawDate": "Fri, 16 Oct 2026 20:55:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Oil hits $110 per barrel for first time since May",
-      "desc": "An international oil benchmark hit $110 per barrel on Friday, as the industry faces persistent shocks from the U.S.-Iran and Russia-Ukraine wars. The price of Brent crude oil, the international standa",
-      "link": "https://thehill.com/policy/energy-environment/6155062-brent-crude-hits-110/",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 20:48:33 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
@@ -596,24 +632,6 @@
       "tag": "safety"
     },
     {
-      "title": "Judge decides who will bury newborn baby found dead at Electric Forest",
-      "desc": "Nearly four months after the baby was found at the music festival, a judge has decided where the newborn will be laid to rest. The FBI is offering $15,000 for information about the mother.",
-      "link": "https://www.mlive.com/news/muskegon/2026/10/judge-decides-who-will-bury-newborn-baby-found-dead-at-electric-forest.html",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 21:38:26 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Jackson teen shot by police near fairgrounds undergoes surgery",
-      "desc": "Mason Breton, 16, remained in critical condition after being shot multiple times by Jackson police during a foot chase, his mother said.",
-      "link": "https://www.mlive.com/news/jackson/2026/10/jackson-teen-shot-by-police-near-fairgrounds-undergoes-surgery.html",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 21:17:51 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump: Musk has &#039;a little problem&#039;",
       "desc": "President Trump took a slight jab Wednesday at tech mogul Elon Musk, who remains a close ally despite a rollercoaster relationship between the two. Trump made the swipe while going after Arizona Gov. ",
       "link": "https://thehill.com/homenews/administration/6152303-trump-mocks-musk-arizona-rally/",
@@ -648,15 +666,6 @@
       "rawDate": "Thu, 15 Oct 2026 18:44:16 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Popular restaurant chain finally adds iconic Asian noodle to permanent menu",
-      "desc": "Noodles & Company expands beyond its 30-year noodle lineup with three new dishes.",
-      "link": "https://www.mlive.com/business/2026/10/popular-restaurant-chain-finally-adds-iconic-asian-noodle-to-permanent-menu.html",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 18:17:37 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Many popular foods may now use salt substitutes, says FDA",

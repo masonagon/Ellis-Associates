@@ -1,6 +1,69 @@
 {
-  "generated": "2026-10-17T07:21:52.396Z",
+  "generated": "2026-10-17T11:53:05.097Z",
   "news": [
+    {
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "desc": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+      "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+      "desc": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.",
+      "link": "https://www.wired.com/story/crypto-inheritance-how-to/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Floated Dem contender sends ‘strongest signal yet’ of 2028 White House run",
+      "desc": "The move will allow the governor to contribute to four Democratic congressional candidates this year.",
+      "link": "https://www.mlive.com/politics/2026/10/floated-dem-contender-sends-strongest-signal-yet-of-2028-white-house-run.html",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 10:15:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘Watched him die’: How a Michigan police chase ended in gunfire and a dead Navy veteran",
+      "desc": "A state police investigation shows sheriff's deputies chased an unarmed driver, twice rammed his van and then fired more than 20 shots into the vehicle when it crashed.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/watched-him-die-how-a-michigan-police-chase-ended-in-gunfire-and-a-dead-navy-veteran.html",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 10:00:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ukraine faces grim question of whether it can take on Russia without US backing",
+      "desc": "The disruptions this week in U.S. support for Ukraine have forced Kyiv to face a grim question: Can it stay in the fight against Russia without any of President Trump’s already diminished support? Ukr",
+      "link": "https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Health insurance is the sleeper midterms issue: Why premiums are spiking",
+      "desc": "Americans are bracing to pay significantly more for health insurance next month, whether they have Affordable Care Act plans or get insurance through work.  Premiums for some people could be the highe",
+      "link": "https://thehill.com/policy/healthcare/6155375-aca-costs-to-spike-next-month/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "desc": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Zacharia speaks out after White House press secretary exit: &#039;It was an honor&#039;",
       "desc": "Katie Zacharia issued her first public statement Friday night after a White House official announced she'd be \"transitioning out\" of the press secretary post after just five days in the role. In a pos",
@@ -119,15 +182,6 @@
       "tag": "government"
     },
     {
-      "title": "Watchdog: Zacharia&#039;s exit doesn&#039;t &#039;wipe clean&#039; dispute over legal credentials",
-      "desc": "A D.C.-based ethics watchdog group that accused Katie Zacharia of misrepresenting herself as a lawyer is urging the State Bar of California to press ahead with an investigation into her credentials af",
-      "link": "https://thehill.com/homenews/administration/6155208-zacharia-white-house-exit-legal-credentials/",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 21:49:34 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Oil reaches $110 per barrel",
       "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Oil hits $110 per barrel for first time since May An",
       "link": "https://thehill.com/newsletters/business-economy/6155276-oil-reaches-110-per-barrel/",
@@ -135,15 +189,6 @@
       "rawDate": "Fri, 16 Oct 2026 21:44:55 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
-    },
-    {
-      "title": "Press secretary under Clinton says Zacharia was &#039;set up to fail&#039;",
-      "desc": "Katie Zacharia was set up to fail by the White House and President Trump, who made her White House press secretary without preparing her, former Clinton-era White House press secretary Joe Lockhart sa",
-      "link": "https://thehill.com/homenews/administration/6155047-trump-press-secretary-controversy/",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 21:35:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "How a $7 million investment is restoring pride, creating safe spaces for Flint kids after years of crisis",
@@ -461,15 +506,6 @@
       "tag": "government"
     },
     {
-      "title": "Crash shuts down portion of Bristol Road in Flint Township",
-      "desc": "A section of Bristol Road is shut down following a vehicle crash Friday morning in Flint Township, police said.",
-      "link": "https://www.mlive.com/news/flint/2026/10/crash-shuts-down-portion-of-bristol-road-in-flint-township.html",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 12:06:04 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "After meeting at band camp, these two West Michigan band directors have built a life together",
       "desc": "Between raising a toddler and leading student musicians, the pace can be relentless. But it’s a life Adam and Lisa Borst wouldn’t trade.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/after-meeting-at-band-camp-these-two-west-michigan-band-directors-have-built-a-life-together.html",
@@ -477,15 +513,6 @@
       "rawDate": "Fri, 16 Oct 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Popular bakery to open new location, apple orchard removes AI images and more Flint-area business news",
-      "desc": "Learn more about these stories and other local business news with these recent headlines.",
-      "link": "https://www.mlive.com/news/flint/2026/10/popular-bakery-to-open-new-location-apple-orchard-removes-ai-images-and-more-flint-area-business-news.html",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 11:30:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Michigan voters want good-paying jobs. Here’s what the candidates would do",
@@ -504,24 +531,6 @@
       "rawDate": "Fri, 16 Oct 2026 11:00:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "desc": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight",
-      "desc": "What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
-      "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-      "date": "Oct 16, 2026",
-      "rawDate": "Fri, 16 Oct 2026 10:32:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Ex-Obama adviser says it would be a ‘food fight’ to impeach Trump in 2027",
@@ -585,15 +594,6 @@
       "rawDate": "Thu, 15 Oct 2026 22:43:28 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Vance calls El-Sayed ‘little weasel’ as Senate race takes center stage in Michigan speech",
-      "desc": "Vice President JD Vance visited Michigan Thursday to stump for GOP candidates, including Senate nominee Mike Rogers, and stress the need to elect Republicans.",
-      "link": "https://www.mlive.com/politics/2026/10/vance-calls-el-sayed-little-weasel-as-senate-race-takes-center-stage-in-michigan-speech.html",
-      "date": "Oct 15, 2026",
-      "rawDate": "Thu, 15 Oct 2026 22:40:27 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage",
@@ -875,15 +875,6 @@
       "tag": "safety"
     },
     {
-      "title": "Watch live: Hegseth talks future of autonomous warfare amid leadership shake-ups",
-      "desc": "Defense Secretary Pete Hegseth is set to discuss the future of autonomous warfare Wednesday morning as the Pentagon pushes to modernize the military amid leadership shake-ups. Hegseth will join acting",
-      "link": "https://thehill.com/video-clips/6147339-watch-live-pete-hegseth-ausa-remarks-autonomous-warfare/",
-      "date": "Oct 14, 2026",
-      "rawDate": "Wed, 14 Oct 2026 13:15:04 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Poll: 43 percent support &#039;Medicare for all&#039;",
       "desc": "Nearly 43 percent of Americans support the idea of “Medicare for all,” according to an Axios/Ipsos poll released Tuesday, as concerns over health costs mount ahead of the midterm elections.  People wh",
       "link": "https://thehill.com/policy/healthcare/6146555-medicare-all-support-midterm-elections/",
@@ -934,15 +925,6 @@
       "link": "https://thehill.com/policy/healthcare/6141862-glp-1-combo-therapy-zepbound-taltz-psoriasis-obesity/",
       "date": "Oct 12, 2026",
       "rawDate": "Mon, 12 Oct 2026 13:32:09 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Diet soda drinkers lost just as much weight as water drinkers, study finds",
-      "desc": "Diet soda drinkers lost roughly the same amount of weight as water drinkers in a surprising long-term study.",
-      "link": "https://thehill.com/policy/healthcare/6140877-diet-soda-water-drinkers-similar-weight-loss-study/",
-      "date": "Oct 12, 2026",
-      "rawDate": "Mon, 12 Oct 2026 13:12:16 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

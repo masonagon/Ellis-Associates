@@ -1,6 +1,33 @@
 {
-  "generated": "2026-10-17T17:39:39.817Z",
+  "generated": "2026-10-17T19:54:16.439Z",
   "news": [
+    {
+      "title": "Stephen A. Smith calls dinner with Trump, Bill Maher, Kid Rock &#039;shocking&#039;",
+      "desc": "Commentator Stephen A. Smith said he was shocked President Trump hosted him, left-leaning comedian Bill Maher and conservative country star Kid Rock at the White House earlier this week, adding the Wh",
+      "link": "https://thehill.com/homenews/campaign/6156054-stephen-a-smith-kid-rock-maher-trump/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 19:51:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "1 dead after assault, house fire in Monroe County",
+      "desc": "Police believe the incident was isolated.",
+      "link": "https://www.mlive.com/news/2026/10/1-dead-after-assault-house-fire-in-monroe-county.html",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 19:03:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats are threatening US AI supremacy. Republicans should pounce.",
+      "desc": "Republicans have an opportunity to fight for American technological supremacy while also benefiting many of their constituents.",
+      "link": "https://thehill.com/opinion/technology/6154943-ai-data-centers-red-states/",
+      "date": "Oct 17, 2026",
+      "rawDate": "Sat, 17 Oct 2026 19:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Immigrant ICE searched for in Texas when agent hit man with car has been dead for years: Report",
       "desc": "The immigrant that federal agents were pursuing when an Immigration and Customs Enforcement (ICE) officer hit and injured a man with a vehicle in Houston has apparently been dead for almost a decade, ",
@@ -65,15 +92,6 @@
       "tag": "government"
     },
     {
-      "title": "Zelensky says Russian sanctions Trump waived &#039;could have helped enormously&#039;",
-      "desc": "Ukrainian President Volodymyr Zelensky decried President Trump’s late-night decision to waive sanctions and tariffs against Russia days before they were set to take effect under a new law. “At a time ",
-      "link": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/",
-      "date": "Oct 17, 2026",
-      "rawDate": "Sat, 17 Oct 2026 14:08:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Democrats are leading midterm polls — but which party do Americans expect to win?",
       "desc": "Fifty-five percent of Americans said Democrats will win the House, while 40% said Republicans will keep control of the lower chamber, according to a Pew Research Center poll.",
       "link": "https://www.mlive.com/politics/2026/10/democrats-are-leading-midterm-polls-but-which-party-do-americans-expect-to-win.html",
@@ -81,24 +99,6 @@
       "rawDate": "Sat, 17 Oct 2026 14:00:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "GOP lawmakers bash Trump&#039;s decision to waive Russia sanctions: &#039;Beyond irresponsible&#039;",
-      "desc": "Several GOP lawmakers criticized President Trump’s move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R- N.C.) calling the move \"beyond irresponsible.\" Trum",
-      "link": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
-      "date": "Oct 17, 2026",
-      "rawDate": "Sat, 17 Oct 2026 13:23:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trader Joe&#8217;s to open more than 30 new stores &#8216;soon&#8217;: Here&#8217;s where",
-      "desc": "America's \"favorite grocer\" is growing.",
-      "link": "https://thehill.com/business/6143238-trader-joes-to-open-more-than-30-new-stores-soon-heres-where/",
-      "date": "Oct 17, 2026",
-      "rawDate": "Sat, 17 Oct 2026 13:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "1 dead, 1 wounded in Muskegon shooting under investigation, police say",
@@ -403,8 +403,8 @@
       "link": "https://www.mlive.com/news/kalamazoo/2026/10/student-brings-gun-to-school-in-kalamazoo-county.html",
       "date": "Oct 16, 2026",
       "rawDate": "Fri, 16 Oct 2026 16:09:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "‘The best day ever’: 400 Flint kids wowed by big-top magic, new possibilities",

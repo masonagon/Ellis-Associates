@@ -1,19 +1,154 @@
 {
-  "generated": "2026-10-20T06:55:18.095Z",
+  "generated": "2026-10-20T12:26:39.598Z",
   "news": [
     {
-      "title": "Wayfair Coupons: Up to 80% Off October 2026",
-      "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "title": "Why MSU’s Kirk Gibson is teaming up with twin comedians and UM’s The Sklar Brothers",
+      "desc": "It's all part of a big event featuring celebrities, sports greats and business leaders for the Kirk Gibson Foundation.",
+      "link": "https://www.mlive.com/business/2026/10/why-msus-kirk-gibson-is-teaming-up-with-twin-comedians-and-ums-the-sklar-brothers.html",
       "date": "Oct 20, 2026",
-      "rawDate": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "rawDate": "Tue, 20 Oct 2026 12:17:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump’s $5,000 checks promise keeps facing doubt",
+      "desc": "The president has a defense to concerns from voters.",
+      "link": "https://www.mlive.com/politics/2026/10/trumps-5000-checks-promise-keeps-facing-doubt.html",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 12:07:26 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why Kalamazoo commissioners are unanimously urging voters to reject a ballot proposal",
+      "desc": "In a rare move, the Kalamazoo City Commission unanimously adopted a resolution opposing a local Nov. 3 ballot proposal.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/why-kalamazoo-commissioners-are-unanimously-urging-voters-to-reject-a-ballot-proposal.html",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 11:58:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump approval at record low 31 percent ahead of midterms: Survey",
+      "desc": "President Trump's approval rating on Monday reached a new record low with two weeks left until the November midterm elections, when Republicans could lose the House and Senate to Democrats. The latest",
+      "link": "https://thehill.com/homenews/administration/6159609-trump-approval-record-low-reuters-ipsos/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 11:43:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Inside the monthslong federal investigation of Rep. Ilhan Omar",
+      "desc": "Scott Johnson, a retired Minnesota attorney and co-founder of Powerline Blog, first began looking into Omar in 2016.",
+      "link": "https://thehill.com/homenews/6158481-inside-the-monthslong-federal-investigation-of-rep-ilhan-omar/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 11:22:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "5 hottest midterm battlegrounds two weeks out from Election Day",
+      "desc": "In today’s issue:  Election Day is fast approaching with voters now able to cast early ballots in many states throughout the country.  Polls are continuing to show Democrats poised for a strong perfor",
+      "link": "https://thehill.com/newsletters/morning-report/6159616-midterm-battlegrounds-trump-kansas-rally-france-unrest/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 11:14:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why can&#8217;t I afford life? Boomer prosperity is masking a weak economy.",
+      "desc": "So which party has a better plan for addressing this problem and getting you a fair shot at the American Dream? The bad news is, the answer is \"neither.\"",
+      "link": "https://thehill.com/opinion/finance/6158420-boomers-vs-millennials-wealth-gap/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Sexual Assault Is a Free Speech Issue",
+      "desc": "Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”",
+      "link": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:30:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "AT&amp;T Promo Codes: $50 Off This October 2026",
-      "desc": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "link": "https://www.wired.com/story/att-promo-code/",
+      "title": "They Fled Trump’s America. Now They Regret it",
+      "desc": "The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.",
+      "link": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:22:23 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Pete Buttigieg endorses 11 candidates in Michigan’s state House, Senate races",
+      "desc": "Pete Buttigieg has endorsed Democratic candidates in 11 of Michigan's competitive state legislative races.",
+      "link": "https://www.mlive.com/politics/2026/10/pete-buttigieg-endorses-in-11-candidates-in-michigans-state-house-senate-races.html",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:00:01 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How Democrats could make Trump&#039;s Education Department overhaul much harder",
+      "desc": "Democrats are preparing to use all the tools at their disposal to halt the dismantling of the Education Department (ED) if they win the House or Senate in November.   President Trump, like many other ",
+      "link": "https://thehill.com/homenews/education/6158427-democratic-house-senate-education-department/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic super PAC hammers GOP over trans bathroom focus",
+      "desc": "A Democratic super PAC is hammering Republicans over their focus on transgender issues as GOP candidates in battleground races invoke culture war issues against their Democratic opponents in the final",
+      "link": "https://thehill.com/homenews/campaign/6159488-democratic-pac-targets-gop-bathroom-ad/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "JB Pritzker is turning midterm money into potential 2028 leverage",
+      "desc": "Illinois Gov. JB Pritzker (D) may be trailing some of his potential 2028 Democratic presidential rivals in the early polling of the race.  But as he mulls a White House bid, the billionaire governor i",
+      "link": "https://thehill.com/homenews/campaign/6159156-pritzker-leads-midterm-money-war/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Mark Kelly climbs ranks of Democratic hopefuls, as he barnstorms country",
+      "desc": "Sen. Mark Kelly (D-Ariz.) is climbing the ranks of potential 2028 Democratic White House hopefuls as he travels extensively around the country this year to meet voters and raise millions of dollars fo",
+      "link": "https://thehill.com/homenews/senate/6159329-mark-kelly-potential-democratic-presidential-candidate/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
+      "desc": "A growing collection of pocket-size gadgets lets you easily make recordings and extract info from them. Here are our favorites.",
+      "link": "https://www.wired.com/gallery/best-ai-notetakers/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
+      "desc": "I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?",
+      "link": "https://www.wired.com/review/review-hatch-sleep-clock/",
+      "date": "Oct 20, 2026",
+      "rawDate": "Tue, 20 Oct 2026 09:07:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Wayfair Coupons: Up to 80% Off October 2026",
+      "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
       "date": "Oct 20, 2026",
       "rawDate": "Tue, 20 Oct 2026 05:00:00 +0000",
       "source": "Wired",
@@ -34,15 +169,6 @@
       "link": "https://thehill.com/homenews/administration/6159434-vance-declines-netanyahu-endorsement/",
       "date": "Oct 20, 2026",
       "rawDate": "Tue, 20 Oct 2026 02:29:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump announces $8B relief program for farmers",
-      "desc": "President Trump announced Monday that a new $8 billion program will help provide temporary relief to farmers during the harvest season. Trump announced the Harvest Fuel Relief Program during his rally",
-      "link": "https://thehill.com/homenews/administration/6159427-trump-announces-8-billion-harvest-relief/",
-      "date": "Oct 20, 2026",
-      "rawDate": "Tue, 20 Oct 2026 02:10:24 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -74,15 +200,6 @@
       "tag": "government"
     },
     {
-      "title": "Justice Department targets and charges 28 alleged noncitizen California voters",
-      "desc": "The Justice Department (DOJ) targeted and charged 28 alleged California voters who are not citizens, the department said in a press release Monday. The DOJ said in the press release that on Monday, fe",
-      "link": "https://thehill.com/regulation/court-battles/6159377-doj-charges-noncitizen-voters/",
-      "date": "Oct 20, 2026",
-      "rawDate": "Tue, 20 Oct 2026 00:46:15 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Road rage shooting shuts down Metro Detroit freeway, police say",
       "desc": "No injuries were reported after a driver allegedly fired into another vehicle near I-96.",
       "link": "https://www.mlive.com/news/detroit/2026/10/road-rage-shooting-shuts-down-metro-detroit-freeway-police-say.html",
@@ -97,8 +214,8 @@
       "link": "https://thehill.com/homenews/campaign/6159275-el-sayed-vance-ohio-michigan-rivalry/",
       "date": "Oct 19, 2026",
       "rawDate": "Mon, 19 Oct 2026 22:34:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Zelensky rolls the dice on combative Trump pressure campaign",
@@ -106,8 +223,8 @@
       "link": "https://thehill.com/policy/international/6159291-zelensky-bets-trump-pressure-campaign-russia/",
       "date": "Oct 19, 2026",
       "rawDate": "Mon, 19 Oct 2026 22:32:59 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Multiple shots fired after two-vehicle crash in Oakland County",
@@ -117,15 +234,6 @@
       "rawDate": "Mon, 19 Oct 2026 21:58:19 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "The Senate map driving Trump’s late-stage travel blitz",
-      "desc": "President Trump’s focus with two weeks to go before the midterms is squarely on the Senate, as he travels to a series of red states, some of which are threatening to turn blue. The president’s travel ",
-      "link": "https://thehill.com/homenews/administration/6159184-trump-senate-midterm-travel/",
-      "date": "Oct 19, 2026",
-      "rawDate": "Mon, 19 Oct 2026 21:48:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Yarn and handmade goods shop opens new brick-and-mortar store in Burton",
@@ -200,15 +308,6 @@
       "tag": "safety"
     },
     {
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "desc": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "date": "Oct 19, 2026",
-      "rawDate": "Mon, 19 Oct 2026 19:49:17 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Man accused of shaking, covering baby’s mouth in recorded abuse heads to trial",
       "desc": "Anthony David Dove opted to take his case to trial after Muskegon County prosecutors did not offer a plea agreement.",
       "link": "https://www.mlive.com/news/muskegon/2026/10/man-accused-of-shaking-covering-babys-mouth-in-recorded-abuse-heads-to-trial.html",
@@ -225,15 +324,6 @@
       "rawDate": "Mon, 19 Oct 2026 19:18:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
-      "desc": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
-      "link": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
-      "date": "Oct 19, 2026",
-      "rawDate": "Mon, 19 Oct 2026 18:55:05 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Husband of soldier killed in Iranian drone strike grills Vance on ‘fundamental failures’",
@@ -416,15 +506,6 @@
       "tag": "safety"
     },
     {
-      "title": "Incumbent faces Democratic challenger for state House District 85 seat",
-      "desc": "State Rep. Bradley Slagh, R-Zeeland, faces Democratic candidate Richard Abraham for District 85, which covers parts of Ottawa County.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/10/incumbent-faces-democratic-challenger-for-state-house-district-85-seat.html",
-      "date": "Oct 19, 2026",
-      "rawDate": "Mon, 19 Oct 2026 12:57:50 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Wicker calls on Trump, Zelensky to broker deal to stop strikes on Russian energy infrastructure",
       "desc": "Senate Armed Services Committee Chair Roger Wicker (R-Miss.) called on President Trump and Ukrainian President Volodymyr Zelensky to reach a deal to suspend Kyiv's strikes on Russian petroleum facilit",
       "link": "https://thehill.com/homenews/senate/6157442-wicker-urges-donald-trump-zelensky-deal/",
@@ -432,15 +513,6 @@
       "rawDate": "Mon, 19 Oct 2026 12:43:38 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "The power to preserve Detroit’s history is in the hands of Wayne and Oakland County voters",
-      "desc": "The care and preservation of nearly 300,000 historical artifacts is on the November ballot.",
-      "link": "https://www.mlive.com/business/2026/10/the-power-to-preserve-detroits-history-is-in-the-hands-of-wayne-and-oakland-county-voters.html",
-      "date": "Oct 19, 2026",
-      "rawDate": "Mon, 19 Oct 2026 12:17:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Is your community using Flock cameras? See our statewide map",
@@ -531,15 +603,6 @@
       "rawDate": "Sun, 18 Oct 2026 14:43:46 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Muskegon County voters to decide on parks, trails millage in November election",
-      "desc": "The community is invited to a 6 p.m. town hall Oct. 21 at the Fruitport District Library Books for Friends Used Bookstore to learn about the tax request on the Nov. 3 ballot.",
-      "link": "https://www.mlive.com/news/muskegon/2026/10/muskegon-county-voters-to-decide-on-parks-trails-millage-in-november-election.html",
-      "date": "Oct 18, 2026",
-      "rawDate": "Sun, 18 Oct 2026 14:01:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Vance says in &#039;some ways&#039; US has &#039;decisively won&#039; Iran war",

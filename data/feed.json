@@ -1,12 +1,102 @@
 {
-  "generated": "2026-10-23T19:39:54.703Z",
+  "generated": "2026-10-23T22:46:20.246Z",
   "news": [
     {
-      "title": "Trump on the Alaska election lawsuit: I&#039;m the one that said, &#039;do it&#039;",
-      "desc": "President Trump said Friday he directed the Department of Justice (DOJ) to file a lawsuit to block certification of the Senate election in Alaska if Republican Sen. Dan Sullivan loses in November.  DO",
-      "link": "https://thehill.com/homenews/administration/6168997-donald-trump-justice-alaska-senate-lawsuit/",
+      "title": "Cook Political Report shifts Ohio governor&#039;s race from toss-up to lean Democrat",
+      "desc": "The Cook Political Report is shifting a closely watched gubernatorial contest toward Democrats after a controversial campaign ad shook up the race. The nonpartisan election forecaster moved the govern",
+      "link": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/",
       "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 19:23:31 +0000",
+      "rawDate": "Fri, 23 Oct 2026 21:57:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How will Democrats address UFO sightings if returned to the majority?",
+      "desc": "Unidentified flying objects (UFOs) have long captivated Americans — a majority of whom, recent polling suggests, believe the government is hiding information about the phenomena. And the debate has al",
+      "link": "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 21:43:56 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Musk ups midterm spending in final stretch",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  Musk ups his midterm spending in final stretch The tech mogul has spent more than $442 million in the midterm elections, after pouring another $76",
+      "link": "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 21:37:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT&#039;s &#039;dangers&#039;",
+      "desc": "Texas Attorney General Ken Paxton (R) sued OpenAI and its CEO Sam Altman on Friday, accusing the company of failing to warn consumers about the potential dangers from its AI models. The lawsuit allege",
+      "link": "https://thehill.com/policy/technology/6169375-paxton-sues-openai-chatgpt/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 21:00:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Secret Service closes road near White House due to suspicious package",
+      "desc": "The U.S. Secret Service and D.C. police are investigating reports of a “suspicious item” near the Eisenhower Executive Office Building, which resulted in a road closure. “Around 2:40 p.m., on October ",
+      "link": "https://thehill.com/homenews/state-watch/6169374-secret-service-investigates-suspicious-item/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 20:51:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Vance making 2nd Michigan campaign stop in less than 2 weeks",
+      "desc": "Vice President JD Vance will return to Michigan Tuesday, Oct. 27 for a midterm election rally in Howell.",
+      "link": "https://www.mlive.com/news/2026/10/vance-making-2nd-michigan-campaign-stop-in-less-than-2-weeks.html",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 20:35:19 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ukraine: Starlink still isn&#039;t working after Trump restoration promise",
+      "desc": "Ukraine’s military on Friday struggled with a still-slowed Starlink satellite system despite President Trump’s promise a day earlier that SpaceX owner Elon Musk had restored the service. Connections w",
+      "link": "https://thehill.com/policy/defense/6169204-ukraine-starlink-zelensky-trump-musk/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 20:17:48 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Treasury moves to ease access to single-family home purchases ahead of midterms",
+      "desc": "The Treasury Department on Thursday moved to implement tenets of a bipartisan housing law Congress passed over the summer, including a ban on institutional investors buying single-family homes. Under ",
+      "link": "https://thehill.com/business/6168995-treasury-bans-institutional-home-buys/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 20:16:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Trump stumps in Florida, boosting Donalds and criticizing Omar",
+      "desc": "President Trump rallied voters closer to home Friday afternoon, with a campaign stop in Fort Myers, Fla., as long-awaited midterm elections approach. He'll be there to boost Rep. Byron Donalds (R-Fla.",
+      "link": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 20:08:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New poll shows Susan Collins in a neck-and-neck battle to win a sixth term",
+      "desc": "The latest Fox News poll found Susan Collins tied with her Democratic opponent, Troy Jackson, with 49% of Maine voters backing each candidate.",
+      "link": "https://www.mlive.com/politics/2026/10/new-poll-shows-susan-collins-in-a-neck-and-neck-battle-to-win-a-sixth-term.html",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 20:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bipartisan lawmakers press Hegseth to expand Ukraine’s access to Starshield",
+      "desc": "A bipartisan group of House and Senate lawmakers is pressing the Trump administration to restore and expand Ukraine’s access to Starshield satellite systems, warning that a failure to do so will cripp",
+      "link": "https://thehill.com/homenews/house/6169094-lawmakers-press-trump-hegseth-starshield-ukraine/",
+      "date": "Oct 23, 2026",
+      "rawDate": "Fri, 23 Oct 2026 19:41:02 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -20,30 +110,12 @@
       "tag": "education"
     },
     {
-      "title": "GOP lawmaker says he will move to expel Omar",
-      "desc": "Rep. Randy Fine (R-Fla.) said Friday he plans to introduce a resolution to expel Rep. Ilhan Omar (D-Minn.) if a federal investigation finds she broke the law. The Florida Republican is a conservative ",
-      "link": "https://thehill.com/homenews/house/6168993-fine-omar-expulsion-resolution/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 19:02:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Parchment seeks $41M bond Nov. 3 to consolidate schools, build new wing",
       "desc": "Parchment School District is asking voters to approve a $41 million bond this November that would dramatically reform the footprint of the district.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/10/parchment-seeks-41m-bond-nov-3-to-consolidate-schools-build-new-wing.html",
       "date": "Oct 23, 2026",
       "rawDate": "Fri, 23 Oct 2026 18:58:21 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ketanji Brown Jackson issues public dissent in New Hampshire voting case",
-      "desc": "Justice Ketanji Brown Jackson publicly broke with her Supreme Court colleagues in a Thursday ruling allowing New Hampshire to fully block voters from using student IDs in the upcoming midterms. Jackso",
-      "link": "https://thehill.com/regulation/court-battles/6168921-jackson-dissents-new-hampshire-voter-id/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 18:43:53 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -63,15 +135,6 @@
       "rawDate": "Fri, 23 Oct 2026 18:34:27 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Live updates: Trump campaigns in Florida, leans into Ramaswamy ad controversy",
-      "desc": "President Trump will rally voters closer to home Friday afternoon, with a campaign stop in Fort Myers, Fla., as long-awaited midterm elections approach. He'll be there to boost Rep. Byron Donalds (R-F",
-      "link": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 18:26:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Nessel’s office charges woman with unlicensed nursing, identity theft",
@@ -101,22 +164,13 @@
       "tag": "safety"
     },
     {
-      "title": "Watch live: Decision Desk ‘26 Midterm Preview powered by 2WAY and The Hill",
-      "desc": "As the race for control of Congress enters its final days, 2WAY is teaming up with NewsNation and The Hill for another special edition of “The Morning Meeting” ahead of the Nov. 3 midterm elections on",
-      "link": "https://thehill.com/homenews/6168746-watch-live-decision-desk-26-midterm-preview-powered-by-2way-and-the-hill/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 17:40:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Appeals court rules Trump unlawfully deployed National Guard to California",
       "desc": "A federal appeals court on Friday ruled 2-1 that President Trump’s National Guard deployment to the Los Angeles area last year was unlawful.  The U.S. Court of Appeals for the 9th Circuit rejected Tru",
       "link": "https://thehill.com/regulation/court-battles/6168756-trump-los-angeles-deployment-unlawful-appeals-court-ruling/",
       "date": "Oct 23, 2026",
       "rawDate": "Fri, 23 Oct 2026 17:39:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Second-degree murder charge filed against teen driver in high-speed Traverse City crash",
@@ -126,33 +180,6 @@
       "rawDate": "Fri, 23 Oct 2026 17:19:04 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Ex-FBI officials charged with lying to Congress about Hunter Biden probe",
-      "desc": "Two former FBI officials are facing charges for lying to Congress about their involvement in the agency’s investigation into Hunter Biden’s laptop. Nikki Floris and Bradley Benavides, who worked in th",
-      "link": "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 17:07:52 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Put the last cell tower in orbit",
-      "desc": "The FCC should utilize its $9 billion 5G Fund to subsidize direct-to-device satellite service in areas where traditional cell tower construction is impractical.",
-      "link": "https://thehill.com/opinion/technology/6167117-closing-america-5g-gaps/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Trump rallies in Fort Myers, Florida",
-      "desc": "President Trump will rally in Fort Myers, Fla., on Friday as Republicans in the state are feeling bullish about statewide races. Fort Myers is part of the 19th Congressional District, where Rep. Byron",
-      "link": "https://thehill.com/homenews/campaign/6167454-watch-live-trump-rallies-in-fort-myers-florida/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
@@ -335,7 +362,7 @@
       "tag": "technology"
     },
     {
-      "title": "GOP pushes for oversight of Musk’s dominance of space",
+      "title": "GOP pushes for oversight of Musk���s dominance of space",
       "desc": "Republican lawmakers alarmed over Ukraine’s loss of access to Starshield, a critical battlefield tool, are pushing for more congressional oversight on what some view as Elon Musk’s “space monopoly,” f",
       "link": "https://thehill.com/homenews/senate/6166981-rep-lawmakers-scrutinize-spacex-monopoly/",
       "date": "Oct 23, 2026",
@@ -405,15 +432,6 @@
       "rawDate": "Thu, 22 Oct 2026 21:47:37 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Election forecaster announces major shift in Ohio race amid backlash to Ramaswamy ad",
-      "desc": "Sabato’s Crystal Ball, a nonpartisan election forecaster, shifted the Ohio governor’s race from a “toss-up” to “lean Democratic” in a new analysis on Thursday.",
-      "link": "https://www.mlive.com/politics/2026/10/election-forecaster-announces-major-shift-in-ohio-race-amid-backlash-to-ramaswamy-ad.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 21:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Pentagon locks in 10-year F-35 jet deal",
@@ -731,15 +749,6 @@
       "tag": "safety"
     },
     {
-      "title": "Zelensky, US allies bet on strike concessions to placate Trump",
-      "desc": "Ukrainian President Volodymyr Zelensky and his powerful allies in Congress are seeking to use President Trump’s desire for Kyiv to stop targeting Russian diesel facilities to boost his support for Ukr",
-      "link": "https://thehill.com/policy/defense/6161492-wicker-proposes-missile-intelligence-swap/",
-      "date": "Oct 21, 2026",
-      "rawDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Trump administration launches national kidney care plan",
       "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump launches national kidney care plan The Trump administration launched the Kidney Care National Plan Tues",
       "link": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/",
@@ -747,24 +756,6 @@
       "rawDate": "Tue, 20 Oct 2026 23:13:12 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Hegseth says Ukraine posture unchanged, but &#039;our guys&#039; need interceptors too",
-      "desc": "Defense Secretary Pete Hegseth said on Tuesday that the U.S. government’s posture toward Ukraine is unchanged, but emphasized that “our guys” need Patriot missiles interceptors too.  “There's a lot of",
-      "link": "https://thehill.com/policy/defense/6161092-us-posture-ukraine-unchanged/",
-      "date": "Oct 20, 2026",
-      "rawDate": "Tue, 20 Oct 2026 20:07:41 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Former NATO commander: &#039;No balance&#039; to Trump decision &#039;to give in to Russia&#039;",
-      "desc": "Former NATO Supreme Allied Commander Wesley Clark on Monday said there was \"no balance\" in President Trump's decision \"to give in to Russia\" after waiving sanctions and agreeing to permit Russian dies",
-      "link": "https://thehill.com/policy/defense/6160655-wesley-clark-donald-trump-russia-sanction-diesel/",
-      "date": "Oct 20, 2026",
-      "rawDate": "Tue, 20 Oct 2026 19:22:49 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "CDC recognizes third measles death, still short of Pennsylvania count",

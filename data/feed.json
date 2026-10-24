@@ -1,6 +1,105 @@
 {
-  "generated": "2026-10-24T11:44:27.433Z",
+  "generated": "2026-10-24T15:07:40.277Z",
   "news": [
+    {
+      "title": "A retired teacher is challenging three incumbents for a seat on the Otsego school board",
+      "desc": "Kathy Kuipers, a retired middle school teacher, is one of four candidates seeking three Otsego board seats. Incumbents are Shelly Jirgens, Todd Bentley and Jessica Hazelhof.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/a-retired-teacher-is-challenging-three-incumbents-for-a-seat-on-the-otsego-school-board.html",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 14:35:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Government contractor arrested for allegedly leaking national defense information",
+      "desc": "Federal authorities arrested a government contractor and charged him with leaking classified national defense information, the Department of Justice (DOJ) announced on Friday. FBI investigators have a",
+      "link": "https://thehill.com/policy/defense/6169997-contractor-arrested-leaking-defense-info/",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 13:58:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump hints that White House press area may be moved to another location",
+      "desc": "President Trump pushed back Saturday morning against reports he was considering replacing the White House press briefing room with an indoor swimming pool but said he was considering moving media “to ",
+      "link": "https://thehill.com/homenews/administration/6169992-trump-denies-press-room-swimming-pool/",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 13:51:47 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Schoolcraft schools seek operating millage renewal on Nov. 3 election ballot",
+      "desc": "Schoolcraft Community Schools’ Nov. 3 proposal does not apply to primary residences. The district is asking voters to continue an 18-mill levy on non-homestead properties.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/schoolcraft-schools-seek-operating-millage-renewal-on-nov-3-election-ballot.html",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 13:41:12 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "DOJ demands California counties identify noncitizen voters: Reports",
+      "desc": "The Department of Justice (DOJ) on Friday sent letters to election officials in every California county asking that they identify potential noncitizens on their voter rolls, according to several repor",
+      "link": "https://thehill.com/homenews/administration/6169959-doj-warns-california-election-officials/",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 13:10:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live Updates: Obama, Harris to campaign for Democrats in 3 battleground states; Trump travels to Georgia",
+      "desc": "President Trump has held rallies throughout the week in Iowa, Kansas, Florida and more, but leaders of the Democratic Party are set to hold a midterm blitz of their own on Saturday ahead of Election D",
+      "link": "https://thehill.com/homenews/administration/6169684-live-updates-obama-harris-to-campaign-for-democrats-in-3-battleground-states-trump-travels-to-georgia/",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jennings: Ramaswamy&#039;s campaign tactics &#039;worst politics you could imagine&#039;",
+      "desc": "Republican commentator Scott Jennings took a swipe at Ohio gubernatorial candidate Vivek Ramaswamy (R) for using a controversial campaign ad featuring his opponent’s estranged mother. The ad, which Ra",
+      "link": "https://thehill.com/homenews/campaign/6169950-ramaswamy-campaign-ad-jennings/",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 12:57:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Grand Rapids is home to the oldest high school building in Michigan. It opened in 1849",
+      "desc": "Innovation Central High School, with 177 years of history, completed a $40 million renovation in 2024, restoring its 1911 exterior and modernizing facilities.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/grand-rapids-is-home-to-the-oldest-high-school-building-in-michigan-it-opened-in-1849.html",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 12:15:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Michigan voter guide: Supreme Court candidates answer questions for Nov. 3 election",
+      "desc": "Candidates for the state’s highest court responded to questions about their backgrounds, priorities and the challenges facing Michigan’s justice system.",
+      "link": "https://www.mlive.com/politics/2026/10/michigan-voter-guide-supreme-court-candidates-answer-questions-for-nov-3-election.html",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "desc": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "$50K in scholarships aims to bring hands-on science education to more Detroit students",
+      "desc": "A $50,000 scholarship program is helping bring hands-on science education to Detroit students through field trips and classroom activities.",
+      "link": "https://www.mlive.com/news/detroit/2026/10/50k-in-scholarships-aims-to-bring-hands-on-science-education-to-more-detroit-students.html",
+      "date": "Oct 24, 2026",
+      "rawDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "Early voting period begins in Michigan: Here’s what to know",
       "desc": "Nearly 1 million Michigan voters have already cast ballots ahead of the Nov. 3 general election, which will determine the state's next governor, secretary of state, attorney general and more.",
@@ -74,15 +173,6 @@
       "tag": "safety"
     },
     {
-      "title": "Peltola calls Alaska lawsuit a &#039;desperate attempt&#039; for GOP to &#039;cling to power&#039;",
-      "desc": "Alaska Senate candidate Mary Peltola (D) responded to the Justice Department's (DOJ) lawsuit seeking to block her state from certifying its election results should her Republican challenger lose, sayi",
-      "link": "https://thehill.com/blogs/ballot-box/6169725-peltola-slams-alaska-doj-lawsuit-sullivan/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 01:53:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Former Detroit nurse gets up to 15 years for sexually assaulting patient",
       "desc": "A jury convicted Wilfredo Figueroa-Berrios of third- and fourth-degree criminal sexual conduct earlier this year. Multiple women are suing him and a local hospital over similar accusations.",
       "link": "https://www.mlive.com/news/detroit/2026/10/former-detroit-nurse-gets-up-to-15-years-for-sexually-assaulting-patient.html",
@@ -101,40 +191,13 @@
       "tag": "safety"
     },
     {
-      "title": "About half concerned Republicans could try to overturn midterm results: Survey",
-      "desc": "A new poll released Friday suggests half of Americans are concerned Republicans may try to overturn the results of November’s midterm election. Fifty percent of respondents to the New York Times/Siena",
-      "link": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 23:01:44 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cook Political Report shifts Ohio governor&#039;s race from toss-up to lean Democrat",
-      "desc": "The Cook Political Report is shifting a closely watched gubernatorial contest toward Democrats after a controversial campaign ad shook up the race. The nonpartisan election forecaster moved the govern",
-      "link": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 21:57:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "How will Democrats address UFO sightings if returned to the majority?",
       "desc": "Unidentified flying objects (UFOs) have long captivated Americans — a majority of whom, recent polling suggests, believe the government is hiding information about the phenomena. And the debate has al",
       "link": "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/",
       "date": "Oct 23, 2026",
       "rawDate": "Fri, 23 Oct 2026 21:43:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Musk ups midterm spending in final stretch",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story  Musk ups his midterm spending in final stretch The tech mogul has spent more than $442 million in the midterm elections, after pouring another $76",
-      "link": "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 21:37:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT&#039;s &#039;dangers&#039;",
@@ -281,15 +344,6 @@
       "tag": "government"
     },
     {
-      "title": "167,000 Michiganders no longer getting food benefits after changes to SNAP",
-      "desc": "The number of people receiving Supplemental Nutrition Assistance Program benefits has dropped since President Donald Trump signed the \"big beautiful bill\" last year. The law rolled out new work requir",
-      "link": "https://www.mlive.com/news/2026/10/167000-michiganders-no-longer-getting-food-benefits-after-changes-to-snap.html",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 16:43:13 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Taco Bell won’t follow sister chain into break-up with Pepsi",
       "desc": "Mountain Dew Baja Blast and other Pepsi products will remain at Taco Bell locations nationwide and in international markets through 2037.",
       "link": "https://www.mlive.com/business/2026/10/taco-bell-wont-follow-sister-chain-into-break-up-with-pepsi.html",
@@ -315,15 +369,6 @@
       "rawDate": "Fri, 23 Oct 2026 16:12:49 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "Trump’s Port Huron rally could cut both ways for Michigan Republicans, experts say",
-      "desc": "Political science experts are debating whether the president's weekend visit will offer GOP candidates some \"Trump magic\" or provide Democrats with campaign ad footage.",
-      "link": "https://www.mlive.com/politics/2026/10/trumps-port-huron-rally-could-cut-both-ways-for-michigan-republicans-experts-say.html",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 16:02:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "New Florida counties report dengue cases as statewide total passes 400",
@@ -587,15 +632,6 @@
       "tag": "safety"
     },
     {
-      "title": "Grand Rapids Public Schools selects 6 superintendent semifinalists",
-      "desc": "The Grand Rapids Public Schools Board of Education has selected a group of six semifinalists to advance the search for a new superintendent.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/10/grand-rapids-public-schools-selects-6-superintendent-semifinalists.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 17:17:20 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "1 in custody for death of 15-year-old in Monroe County",
       "desc": "A GoFundMe has been started for the family.",
       "link": "https://www.mlive.com/news/2026/10/1-in-custody-for-death-of-15-year-old-in-monroe-county.html",
@@ -623,15 +659,6 @@
       "tag": "technology"
     },
     {
-      "title": "Mattawan school board candidates 2026: Incumbents face newcomer",
-      "desc": "Four candidates are running for three seats on the Mattawan Consolidated School District Board of Education.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/10/mattawan-school-board-candidates-2026-incumbents-face-newcomer.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 15:57:25 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Costs, Iran voters&#039; top priorities for next Congress: Survey",
       "desc": "A majority of respondents to a recent survey want the next Congress to focus on lowering the cost of living and winding down the Iran war. Roughly 80 percent of the 1,119 respondents to the Associated",
       "link": "https://thehill.com/homenews/campaign/6164973-voters-want-iran-war-end-survey/",
@@ -648,24 +675,6 @@
       "rawDate": "Thu, 22 Oct 2026 14:35:23 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "University of Michigan nursing gets 2 national accreditations",
-      "desc": "Two University of Michigan Nursing programs received national accreditation from The Society for Simulation in Healthcare for UM Nursing's Teaching/Education and Human Simulation programs.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/10/university-of-michigan-nursing-gets-2-national-accreditations.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 14:17:41 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Two Saginaw County schools make U.S. News list of 30 best elementaries in state",
-      "desc": "Both institutions are no strangers to the annual U.S. News and World Report list.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/two-saginaw-county-schools-make-us-news-list-of-30-best-elementaries-in-state.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 14:17:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Iran: 7 ships hit in the Strait of Hormuz",
@@ -711,15 +720,6 @@
       "rawDate": "Wed, 21 Oct 2026 16:43:38 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump ties Camp Lejeune toxic water settlements to GOP midterm results",
-      "desc": "President Trump told an audience in North Carolina that if Republicans retain control of Congress in the upcoming November midterm elections, he would direct the Justice Department to quickly settle “",
-      "link": "https://thehill.com/policy/defense/6163013-gop-midterm-water-settlements/",
-      "date": "Oct 21, 2026",
-      "rawDate": "Wed, 21 Oct 2026 16:17:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Pennsylvania warns doctors about rising rates of rare congenital measles",

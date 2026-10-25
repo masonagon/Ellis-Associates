@@ -1,6 +1,42 @@
 {
-  "generated": "2026-10-24T23:52:56.384Z",
+  "generated": "2026-10-25T02:31:02.538Z",
   "news": [
+    {
+      "title": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
+      "desc": "Nonprofit watchdog group Common Cause, represented by attorneys from American Civil Liberties Union (ACLU), has filed a motion to intervene in the Justice Department’s lawsuit over Alaska’s Senate ele",
+      "link": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 01:47:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man fatally stabbed in Muskegon",
+      "desc": "A 62-year-old Muskegon man died from multiple stab wounds Saturday afternoon near Forest Avenue and Eighth Street, with a suspect arrested as the investigation continues.",
+      "link": "https://www.mlive.com/news/muskegon/2026/10/man-fatally-stabbed-in-muskegon.html",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 00:45:20 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Musk says he was behind Starlink&#039;s slowdown in Ukraine",
+      "desc": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used",
+      "link": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 00:44:31 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+      "desc": "Former President Barack Obama poked fun at President Trump's various Washington, D.C.-area renovation projects during a campaign stop in Cleveland, Ohio, where he was stumping for Democratic gubernato",
+      "link": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 00:05:25 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
       "desc": "Attorneys representing President Trump’s son-in-law Jared Kushner have sent a letter to Vanity Fair and Condé Nast over allegations published in an article on Thursday calling them “false” and “defama",
@@ -110,15 +146,6 @@
       "tag": "government"
     },
     {
-      "title": "NFL forced to close &#039;NFL House&#039; pop-up due to Paris protests",
-      "desc": "The NFL closed its fan zone in Paris Saturday due to intense street protests, but the New Orleans Saints and Pittsburgh Steelers are still set to play the league’s first game in France Sunday, despite",
-      "link": "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 16:50:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Here’s what people are saying about Ann Arbor schools’ trans policy debate",
       "desc": "Ann Arbor schools paused in the dispute with federal authorities over its transgender policy. But the scrutiny hasn’t stopped.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/10/heres-what-people-are-saying-about-ann-arbor-schools-trans-policy-debate.html",
@@ -133,17 +160,8 @@
       "link": "https://thehill.com/policy/healthcare/6166776-doctors-running-congress-midterms/",
       "date": "Oct 24, 2026",
       "rawDate": "Sat, 24 Oct 2026 16:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Bill Maher to Karoline Leavitt: &#039;I don&#039;t give a s—&#039;, &#039;I like the ballroom&#039;",
-      "desc": "Bill Maher, a left-leaning comedian and talk show host, told former White House Press Secretary Karoline Leavitt he actually likes President Trump’s proposed ballroom in the East Wing, despite frequen",
-      "link": "https://thehill.com/homenews/administration/6170078-maher-trump-ballroom-leavitt/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 15:56:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Kelloggsville Public Schools seeks $38.18M bond Nov. 3: What to know",
@@ -686,15 +704,6 @@
       "tag": "safety"
     },
     {
-      "title": "1 in custody for death of 15-year-old in Monroe County",
-      "desc": "A GoFundMe has been started for the family.",
-      "link": "https://www.mlive.com/news/2026/10/1-in-custody-for-death-of-15-year-old-in-monroe-county.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 16:52:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1 million",
       "desc": "The plans being discontinued are primarily Preferred Provider Organizations, which offer more flexible provider networks.",
       "link": "https://thehill.com/policy/healthcare/6165587-unitedhealthcare-humana-medicare-advantage-cancellations-to-affect-1-million/",
@@ -745,15 +754,6 @@
       "link": "https://thehill.com/policy/technology/6163568-nsa-warns-php-security-flaws/",
       "date": "Oct 21, 2026",
       "rawDate": "Wed, 21 Oct 2026 18:45:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Judge orders Meta to pay New Mexico $25B in Cambridge Analytica case",
-      "desc": "A judge in New Mexico ordered the technology giant Meta to pay $25 billion after a jury found the company liable for misleading users about its privacy and content policies. New Mexico Attorney Genera",
-      "link": "https://thehill.com/policy/technology/6163378-judge-orders-meta-25b-penalty/",
-      "date": "Oct 21, 2026",
-      "rawDate": "Wed, 21 Oct 2026 18:15:22 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },

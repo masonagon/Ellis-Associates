@@ -1,12 +1,129 @@
 {
-  "generated": "2026-10-25T12:57:02.773Z",
+  "generated": "2026-10-25T16:57:16.974Z",
   "news": [
     {
-      "title": "Free to discriminate: How the Supreme Court unraveled the Voting Rights Act",
-      "desc": "Thirteen years later, the damage is clear. States freed from federal oversight, many of them states of the old Confederacy, have adopted new restrictions on voting that dramatically dilute minority vo",
-      "link": "https://thehill.com/opinion/campaign/6168815-supreme-court-voting-restrictions/",
+      "title": "Libertarian Texas Senate candidate says he&#039;s not taking votes away from Paxton, Talarico",
+      "desc": "Ted Brown, the libertarian candidate in the Texas Senate race, shut down claims that votes for him could end up splitting votes in the highly contested race, leading to a potential outcome that could ",
+      "link": "https://thehill.com/homenews/state-watch/6170806-ted-brown-texas-senate/",
       "date": "Oct 25, 2026",
-      "rawDate": "Sun, 25 Oct 2026 12:00:00 +0000",
+      "rawDate": "Sun, 25 Oct 2026 16:41:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Axelrod: Trump’s ‘I don’t give a damn’ remark on gas prices is no winning message",
+      "desc": "Democratic strategist David Axelrod called out President Trump on Saturday, following Trump's remarks at an evening rally where he told supporters he \"did not give a damn\" about high fuel prices becau",
+      "link": "https://thehill.com/homenews/6170798-axelrod-criticizes-trump-gas-prices/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 16:29:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Schiff: Hegseth should face Senate questions over Starlink slowdown",
+      "desc": "Sen. Adam Schiff (D-Calif.) on Sunday called for Defense Secretary Pete Hegseth to testify before the Senate over Starlink’s slowdown to its satellite service in Ukraine, which disrupted the country’s",
+      "link": "https://thehill.com/policy/technology/6170785-schiff-calls-hegseth-testimony/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 16:03:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump fails to change economic headwinds facing GOP candidates",
+      "desc": "Gas, diesel and food prices are high and expected to remain elevated through Election Day, creating a strong political headwind for Republicans who are at serious risk of losing control of the House a",
+      "link": "https://thehill.com/homenews/state-watch/6169590-trump-economy-election-headwinds/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 16:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man recovering from injuries following early morning stabbing in Grand Rapids",
+      "desc": "The incident occurred at around 5:30 a.m. Sunday on Kalamazoo Avenue Southeast near Grand Rapids' Kendall Street Fire Station.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/man-recovering-from-injuries-following-early-morning-stabbing-in-grand-rapids.html",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 15:12:56 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Scaramucci compares Ramaswamy to pigs in ‘Animal Farm,&#039; predicts loss",
+      "desc": "Former White House communications director Anthony Scaramucci on Sunday compared Ohio gubernatorial candidate Vivek Ramaswamy (R) to the pig characters in the George Orwell novel \"Animal Farm\" and pre",
+      "link": "https://thehill.com/homenews/state-watch/6170719-scaramucci-animal-farm-ramaswamy/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 15:00:01 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "SNAP winners and losers: Which states are facing possible funding cuts?",
+      "desc": "Time is ticking for states to slash their error rates or risk losing a sizable amount of federal funding for SNAP.",
+      "link": "https://thehill.com/homenews/state-watch/6067157-snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How America can bring film and television production home",
+      "desc": "The newly introduced Motion Picture, Television, and Entertainment Revitalization Act seeks to implement a federal tax incentive to combat the trend of film and television production moving overseas.",
+      "link": "https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 15:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Blanche: Alaska Senate race is &#039;not a fair fight&#039; to Trump",
+      "desc": "Attorney General Todd Blanche on Sunday said President Trump doesn’t consider Alaska’s Senate race to be a fair contest because of the controversial appearance on the ballot of a candidate with the sa",
+      "link": "https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 14:42:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Pedestrian dies after being struck by vehicle in Kalamazoo",
+      "desc": "The vehicle struck the pedestrian while traveling northbound on South Drake Road near Skybridge Avenue.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/pedestrian-dies-after-being-struck-by-vehicle-in-kalamazoo.html",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 14:00:13 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump calls Murkowski a &#039;disgrace&#039; to Alaska, criticizes ranked choice voting",
+      "desc": "President Trump went after Sen. Lisa Murkowski (R-Alaska) and Alaska’s ranked choice voting system on Saturday. “The Republicans’ Worst Senator, by far, Lisa Murkowski, of the Great State of Alaska (A",
+      "link": "https://thehill.com/homenews/state-watch/6170659-trump-attacks-murkowski-ranked-choice-voting/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 13:53:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bill Ackman urges Israelis to exclude far-right ministers ahead of elections",
+      "desc": "Billionaire hedge fund investor Bill Ackman called for Israel’s next government to exclude far-right National Security Minister Itamar Ben-Gvir and Finance Minister Bezalel Smotrich days before Israel",
+      "link": "https://thehill.com/policy/international/6170670-israel-ackman-ben-gvir-smotrich/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 13:24:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Trump heads to Michigan; Blanche defends DOJ&#039;s Alaska lawsuit",
+      "desc": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states’ election certific",
+      "link": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 13:07:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "America the Beautiful Act honors Theodore Roosevelt’s conservation legacy",
+      "desc": "The bipartisan America the Beautiful Act, which proposes an international visitor surcharge to fund the maintenance of national parks and public lands, is moving through Congress.",
+      "link": "https://thehill.com/opinion/energy-environment/6169510-national-park-maintenance-bill/",
+      "date": "Oct 25, 2026",
+      "rawDate": "Sun, 25 Oct 2026 13:00:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -20,22 +137,13 @@
       "tag": "government"
     },
     {
-      "title": "7 nastiest moments of a mean campaign season",
-      "desc": "Election season is known for fiery policy exchanges and personal attacks, but November’s midterms have been marked by notable moments that have been criticized for going beyond the pale.  From a contr",
-      "link": "https://thehill.com/homenews/state-watch/6166259-seven-midterm-election-notable-attacks/",
-      "date": "Oct 25, 2026",
-      "rawDate": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Newsom amasses fundraising machine that could power 2028 bid",
       "desc": "If California Gov. Gavin Newsom enters the 2028 presidential race, as many Democrats expect, he’ll walk in with an asset other White House hopefuls will inarguably envy: A small-dollar fundraising and",
       "link": "https://thehill.com/policy/technology/6169492-gavin-newsom-fundraising-network-midterm-elections/",
       "date": "Oct 25, 2026",
       "rawDate": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "What the US Movement Against Data Centers Can Learn From Abroad",
@@ -45,24 +153,6 @@
       "rawDate": "Sun, 25 Oct 2026 10:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "James Fishback allegedly blocked from entering Florida Republicans&#039; rally",
-      "desc": "Former gubernatorial candidate James Fishback (R) said he was stopped from entering a Get Out the Vote rally in Clearwater, Fla. hosted by Rep. Anna Paulina Luna (R-Fla.) on Saturday. Fishback said he",
-      "link": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/",
-      "date": "Oct 25, 2026",
-      "rawDate": "Sun, 25 Oct 2026 02:44:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
-      "desc": "Nonprofit watchdog group Common Cause, represented by attorneys from American Civil Liberties Union (ACLU), has filed a motion to intervene in the Justice Department’s lawsuit over Alaska’s Senate ele",
-      "link": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/",
-      "date": "Oct 25, 2026",
-      "rawDate": "Sun, 25 Oct 2026 01:47:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Man fatally stabbed in Muskegon",
@@ -83,33 +173,6 @@
       "tag": "technology"
     },
     {
-      "title": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
-      "desc": "Former President Barack Obama poked fun at President Trump's various Washington, D.C.-area renovation projects during a campaign stop in Cleveland, Ohio, where he was stumping for Democratic gubernato",
-      "link": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/",
-      "date": "Oct 25, 2026",
-      "rawDate": "Sun, 25 Oct 2026 00:05:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
-      "desc": "Attorneys representing President Trump’s son-in-law Jared Kushner have sent a letter to Vanity Fair and Condé Nast over allegations published in an article on Thursday calling them “false” and “defama",
-      "link": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 23:15:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blanche: DOJ lawsuit not trying to &#039;stop the certification of Alaska&#039;s election&#039;",
-      "desc": "Attorney General Todd Blanche said Saturday that the Justice Department is not trying to stop the certification of Alaska’s election, referring to a lawsuit filed this week which claimed to “protect t",
-      "link": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 22:13:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "‘I just want to hear that message of hope.’ People wait for hours for Obama in Detroit",
       "desc": "Former President Obama rallied in Detroit alongside Michigan Democratic candidates, urging supporters to vote early and act as a check on the President Donald Trump administration.",
       "link": "https://www.mlive.com/politics/2026/10/i-just-want-to-hear-that-message-of-hope-people-wait-for-hours-for-obama-in-detroit.html",
@@ -119,31 +182,13 @@
       "tag": "government"
     },
     {
-      "title": "Obama&#039;s quippy Ohio campaign stop: 5 times the former president went after Republicans",
-      "desc": "President Obama poked fun at several Trump administration figures and scandals while stumping for Democratic candidates Amy Acton and Sherrod Brown during a campaign stop in Cleveland, Ohio on Saturda",
-      "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 21:13:31 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
       "desc": "The U.S. military has drawn up options to potentially attack Iran after the U.S. midterm elections, possibly renewing the conflict that has lasted over eight months.  The U.S. Central Command (Centcom",
       "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/",
       "date": "Oct 24, 2026",
       "rawDate": "Sat, 24 Oct 2026 21:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Sunday shows preview: Trump&#039;s DOJ keeps close eye on election results; Last-minute campaigning heats up",
-      "desc": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states' election certific",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6170232-sunday-shows-doj-elections-trump-roll/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 20:38:56 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Long lines of supporters wait to see Obama at El-Sayed, Benson Detroit rally",
@@ -650,15 +695,6 @@
       "tag": "safety"
     },
     {
-      "title": "Michigan State Police sergeant testifies trooper violated policy in tackling, punching jaywalker",
-      "desc": "Justin Mazur testified that Trooper Paul Arrowood's actions during a 2022 jaywalking stop were beyond acceptable practice, including taking Michael Wilson to the ground and striking him repeatedly.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/michigan-state-police-sergeant-testifies-trooper-violated-policy-in-tackling-punching-jaywalker.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 18:02:52 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Workers hit hard by rising employer health insurance costs",
       "desc": "Costs are spiking for the millions of Americans who rely on workplace-sponsored health insurance, according to a survey released Thursday, with small businesses and their employees being hit especiall",
       "link": "https://thehill.com/policy/healthcare/6166007-employer-health-insurance-costs-premiums-rise/",
@@ -674,15 +710,6 @@
       "date": "Oct 22, 2026",
       "rawDate": "Thu, 22 Oct 2026 17:38:44 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Former northern Michigan EMS director accused of embezzlement",
-      "desc": "His arrest came just days after his termination from the Jordan Valley EMS Authority in Charlevoix County.",
-      "link": "https://www.mlive.com/news/2026/10/former-northern-michigan-ems-director-accused-of-embezzlement.html",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 17:32:42 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -720,15 +747,6 @@
       "rawDate": "Thu, 22 Oct 2026 14:35:23 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Rubio, Hegseth point finger at Musk in Starlink slowdown",
-      "desc": "Top Trump administration officials are starting to point fingers squarely at SpaceX founder Elon Musk for the decision to slow down his company’s Starlink satellite internet services and its military ",
-      "link": "https://thehill.com/homenews/administration/6164055-starlink-slowdown-ukraine/",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Poll: Most Americans confident in safety of routine childhood vaccines",

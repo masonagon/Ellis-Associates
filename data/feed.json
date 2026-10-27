@@ -1,6 +1,240 @@
 {
-  "generated": "2026-10-27T07:06:36.556Z",
+  "generated": "2026-10-27T13:48:55.675Z",
   "news": [
+    {
+      "title": "Ypsilanti man charged with possessing sexually abusive material of children",
+      "desc": "He is 75.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/ypsilanti-man-charged-with-possessing-sexually-abusive-material-of-children.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:38:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump says East Potomac renovation will proceed despite judge&#039;s order blocking golf course closure",
+      "desc": "President Trump is insisting his plan to redevelop East Potomac Park in Washington, D.C., and renovate the public golf course there will be carried out as scheduled despite an order from a federal jud",
+      "link": "https://thehill.com/policy/sports-gaming/6174468-trump-challenges-east-potomac-injunction/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:37:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Texas agriculture commissioner: GOP could pay price for data center push",
+      "desc": "A longtime Trump supporter says rising costs, data centers and frustration in farm country could hurt Republicans at the ballot box.",
+      "link": "https://thehill.com/homenews/state-watch/6171157-texas-agriculture-commissioner-data-centers-gop-midterms/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:35:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump&#039;s sanctions against the International Criminal Court undermine justice",
+      "desc": "The United States is not simply declining to uphold international law; it is imposing costs on others for attempting to uphold it.",
+      "link": "https://thehill.com/opinion/international/6173049-trump-sanctions-icc/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "desc": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:29:41 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Manchin: Atmosphere right for &#039;complete tsunami&#039; in midterms",
+      "desc": "Former Sen. Joe Manchin (I-W.Va.) said the midterms are trending toward being a “complete tsunami” ahead of the November elections where the GOP is projected to lose the majority in the House.  “Well,",
+      "link": "https://thehill.com/homenews/campaign/6174408-joe-manchin-midterm-tsunami/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:25:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Marijuana legalization linked to rise in heart-related hospitalizations, study finds",
+      "desc": "Researchers found heart-related hospitalizations increased after marijuana legalization, raising new questions about cannabis and cardiovascular health.",
+      "link": "https://thehill.com/policy/healthcare/6171206-marijuana-legalization-heart-hospitalizations-uptick-study/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:24:04 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Walmart promises easier, more ‘shoppable’ healthcare options",
+      "desc": "Walmart is building a network it hopes will be a “consumer market” that helps people search and find their best options.",
+      "link": "https://www.mlive.com/business/2026/10/walmart-promises-easier-more-shoppable-healthcare-options.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:13:02 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Neil Young sues Trump over Ohio rally song",
+      "desc": "Neil Young says President Trump's fundraising committee is breaking a vow that \"it would never again use 'Rockin' in the Free World'\" at a campaign rally, and the musician is filing a $10 million copy",
+      "link": "https://thehill.com/blogs/in-the-know/6174400-neil-young-lawsuit-trump-rally-ohio/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:10:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Brainstacking: Can the latest TikTok trend actually reverse brain rot?",
+      "desc": "TikTok's latest trend claims to help combat brain rot and reduce doomscrolling with analog hobbies.",
+      "link": "https://thehill.com/policy/technology/6173723-brainstacking-tiktok-trend-reverse-brain-rot/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:08:34 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Aram Mrjoian awarded SVSU Gross Award for debut novel",
+      "desc": "The University of Michigan lecturer and managing editor of \"Michigan Quarterly Review\" will visit campus in winter 2027 to accept the $1,000 prize for his book about an Armenian family on Grosse Ile.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/aram-mrjoian-awarded-svsu-gross-award-for-debut-novel.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:06:11 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Remote work automation just crossed a troubling threshold",
+      "desc": "The important lesson is not that humans are obsolete; it is that the automation rate on real freelance work has risen from near-floor performance to a level businesses can no longer dismiss.",
+      "link": "https://thehill.com/opinion/technology/6173171-ai-remote-labor-automation-threshold/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Live updates: Trump heads to Texas for a rally doubleheader",
+      "desc": "With one week to go before the midterms, President Trump is heading to Texas, with stops in Corpus Christi and Lubbock, as Republicans work to maintain their congressional majorities. He'll be in the ",
+      "link": "https://thehill.com/homenews/state-watch/6173803-live-updates-trump-texas-midterm-elections/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 12:57:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Whose side are we on? Trump&#039;s Ukraine policy is baffling.",
+      "desc": "The tilt toward Russia makes no sense.",
+      "link": "https://thehill.com/opinion/international/6171862-trump-ukraine-starshield-disruption/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 12:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic senator: Trump is &#039;laying the groundwork&#039; to steal Minnesota election",
+      "desc": "Retiring Sen. Tina Smith (D-Minn.) says that President Trump is “laying the groundwork” for MAGA allies to “steal” the Senate election after Trump said the federal government would be keeping an eye o",
+      "link": "https://thehill.com/homenews/senate/6174248-tina-smith-democrat-trump-minnesota-midterms-election/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 12:05:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Will Trump contest the midterm election results?",
+      "desc": "As the 2026 midterms approach, concerns are mounting over whether President Trump will attempt to overturn results through legal challenges, seizure of voting machines, or other controversial measures",
+      "link": "https://thehill.com/opinion/white-house/6173657-trump-midterm-election-challenges/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The Movement: Israeli election could bridge widening gap within GOP",
+      "desc": "Voters in Israel are going to the polls Tuesday, in the first election since the Hamas terrorist attacks on Oct. 7, 2023.  The contest is high stakes for Israeli citizens, who have a chance to weigh i",
+      "link": "https://thehill.com/newsletters/the-movement/6173871-trump-netanyahu-gop-generational-divide/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Man critically wounded in Wyoming shooting",
+      "desc": "Police responded about 11 p.m. Monday, Oct. 26 to an address on Fox Run Drive SW for a shooting.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/man-critically-wounded-in-wyoming-shooting.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 11:59:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Jackson voters to decide whether city treasurer should remain elected position",
+      "desc": "The proposed amendment to the city charter would be effective at the end of the elected treasurer’s term Dec. 1, 2028.",
+      "link": "https://www.mlive.com/news/jackson/2026/10/jackson-voters-to-decide-whether-city-treasurer-should-remain-elected-position.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 11:54:48 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "desc": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "2 men charged with UK national security offenses over incident at US-run military base in England",
+      "desc": "LONDON (AP) — Two men were charged Tuesday with national security offenses over a suspected plot against RAF Fairford, a U.S.-run military air base in England, police and prosecutors said. British nat",
+      "link": "https://thehill.com/policy/defense/2-charged-uk-national-security-offenses-us-run-military-base/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 10:34:42 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Donald Trump is ‘like a nightmare’, popular rock frontman says: ‘I’m voting Blue’",
+      "desc": "He urged everyone to get out and vote.",
+      "link": "https://www.mlive.com/life/2026/10/donald-trump-is-like-a-nightmare-popular-rock-frontman-says-im-voting-blue.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 10:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
+      "desc": "BUNIA, Congo (AP) — The fast-moving Ebola outbreak in Congo has reached 10,000 confirmed cases, government data showed Tuesday, as health authorities race to slow the spread of the disease in multiple",
+      "link": "https://thehill.com/policy/international/ebola-congo-10000-cases/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 09:39:52 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
+      "desc": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price.",
+      "link": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 09:35:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "desc": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 09:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Donald Trump hit with $10 million lawsuit from rock legend. Here’s what to know",
+      "desc": "The singer has made it clear that he is not a fan of the president.",
+      "link": "https://www.mlive.com/life/2026/10/donald-trump-hit-with-10-million-lawsuit-from-rock-legend-heres-what-to-know.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
     {
       "title": "Trump announces $250M-plus initiative to recruit, retain nursing home nurses",
       "desc": "President Trump announced Monday an initiative worth hundreds of millions of dollars to recruit and retain nursing home nurses. “The Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS",
@@ -11,75 +245,12 @@
       "tag": "health"
     },
     {
-      "title": "Judge extends tree-cutting block at East Potomac Park",
-      "desc": "A federal judge on Monday extended a tree-cutting block at East Potomac Park, where President Trump has claimed there will be a new golf course in the future,  U.S. District Judge Ana Reyes granted a ",
-      "link": "https://thehill.com/regulation/court-battles/6173951-judge-blocks-east-potomac-tree-cutting/",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 02:36:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Raskin says oil companies will face consequences for importing Russian diesel",
-      "desc": "Rep. Jamie Raskin (D-Md.), the ranking member on the House Judiciary Committee, said that oil companies will face repercussions if they import Russian diesel, comments that come shortly after Presiden",
-      "link": "https://thehill.com/homenews/house/6173911-raskin-warns-oil-companies-diesel/",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 01:49:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "‘An absolute fool.’ Sanders and El-Sayed push back against Trump, AI in Ann Arbor",
       "desc": "Bernie Sanders and Abdul El-Sayed shared the Michigan Theater stage during a “Students vs. Billionaires” town hall attended by University of Michigan students and others Monday night.",
       "link": "https://www.mlive.com/politics/2026/10/an-absolute-fool-sanders-and-el-sayed-push-back-against-trump-ai-in-ann-arbor.html",
       "date": "Oct 27, 2026",
       "rawDate": "Tue, 27 Oct 2026 01:22:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump fires back at Obama&#039;s Cheesecake Factory jab",
-      "desc": "President Trump fired back at former President Obama during a Monday night rally in Corinth, Miss., after the former commander in chief likened Trump’s White House renovations to a Cheesecake Factory ",
-      "link": "https://thehill.com/homenews/campaign/6173838-trump-obama-cheesecake-factory-response/",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 00:33:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Trump brings midterm campaign swing to Mississippi",
-      "desc": "With eight days to go before the midterms, President Trump is in one of the most reliably red states — Mississippi — to campaign for Republican Sen. Cindy Hyde-Smith, as Democrats see a sliver of opti",
-      "link": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 00:07:23 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "House GOP to hold leadership elections a week after Election Day",
-      "desc": "House Republicans are slated to hold their leadership elections on Nov. 10, according to two GOP staffers, who spoke on the condition of anonymity.  Politico, which first reported the news, noted that",
-      "link": "https://thehill.com/homenews/house/6173782-gop-house-leadership-election-schedule/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 23:48:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Appeals court rules against DOJ in California ballot fight",
-      "desc": "A federal appeals court panel Monday refused to order California to set aside 20,000 mail ballots that the Trump administration says are likely from noncitizens. In a 2-1 vote, the panel found it has ",
-      "link": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 23:25:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Memo: El-Sayed allies argue Trump’s anti-Muslim attacks will backfire",
-      "desc": "President Trump is intensifying his anti-Muslim attacks on Abdul El-Sayed in the final stretch of campaigning before Election Day. At a Sunday rally in Michigan, Trump unleashed a volley of Islamophob",
-      "link": "https://thehill.com/homenews/analysis/6173711-el-sayed-trump-islamophobic-attacks-michigan/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 23:05:10 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -92,39 +263,12 @@
       "tag": "technology"
     },
     {
-      "title": "Lula bucks prediction markets with Brazilian presidential win",
-      "desc": "Brazilian President Luiz Inácio Lula da Silva bucked prediction market odds with his unlikely win in the Brazilian presidential runoff election this weekend. On Sunday, Lula was rated an underdog in t",
-      "link": "https://thehill.com/policy/technology/6173602-lula-brazil-election-prediction-markets/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 22:23:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "RFK Jr. touts Michigan hospitals as leaders in shifting to healthier food",
       "desc": "The Health and Human Services secretary highlighted Corewell Health's participation in a federal program that has enrolled nearly 300 hospitals nationwide to prioritize whole foods and limit processed",
       "link": "https://www.mlive.com/news/2026/10/rfk-jr-touts-michigan-hospitals-as-leaders-in-shifting-to-healthier-food.html",
       "date": "Oct 26, 2026",
       "rawDate": "Mon, 26 Oct 2026 22:22:50 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump announces $1M rewards for voter fraud tips ahead of midterms",
-      "desc": "President Trump has announced a $1 million reward for voter fraud tips, about a week out from this year’s midterms. “Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm E",
-      "link": "https://thehill.com/homenews/administration/6173577-trump-voter-fraud-reward-announcement/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 22:10:57 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Watch live: Trump rallies in deep red Mississippi",
-      "desc": "President Trump will travel to deep red Mississippi on Monday, seeking to turn out GOP voters for incumbent Sen. Cindy Hyde-Smith (R-Miss.). Hyde-Smith is facing a surprisingly competitive race agains",
-      "link": "https://thehill.com/homenews/state-watch/6173095-trump-mississippi-hyde-smith-gop/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 22:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -135,15 +279,6 @@
       "rawDate": "Mon, 26 Oct 2026 21:59:16 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Republicans face a midterm reckoning over prices at the pump",
-      "desc": "Voters are expected to punish Republicans for high gas prices this election cycle. Since the start of the Iran war, prices of oil and gasoline have been on the rise. As of Monday, gas prices were aver",
-      "link": "https://thehill.com/policy/energy-environment/6173484-republicans-high-gas-prices-voters-midterms/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 21:58:10 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
@@ -171,6 +306,15 @@
       "rawDate": "Mon, 26 Oct 2026 20:52:44 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
+    },
+    {
+      "title": "Michigan joins lawsuit accusing Dollar General of charging customers more than the price tag",
+      "desc": "Dollar General is accused of charging customers more at the register than the price displayed on shelves, price tags and advertisements, a federal lawsuit claims.",
+      "link": "https://www.mlive.com/news/2026/10/michigan-joins-lawsuit-accusing-dollar-general-of-charging-customers-more-than-the-price-tag.html",
+      "date": "Oct 26, 2026",
+      "rawDate": "Mon, 26 Oct 2026 20:30:11 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
     },
     {
       "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
@@ -317,24 +461,6 @@
       "tag": "education"
     },
     {
-      "title": "Ann Arbor for Public Power hosting virtual town hall to answer lingering questions",
-      "desc": "Many voters still do not understand the Ann Arbor public power proposal, according to the group behind it.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/10/ann-arbor-for-public-power-hosting-virtual-town-hall-to-answer-lingering-questions.html",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 17:22:37 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New poll shows Democrats leading Republicans. But there’s still 1 problem.",
-      "desc": "The latest CBS News/YouGov poll found that 53% of likely voters plan on supporting the Democratic candidate in their respective House district, while 45% plan on supporting the Republican.",
-      "link": "https://www.mlive.com/politics/2026/10/new-poll-shows-democrats-leading-republicans-but-theres-still-1-problem.html",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 16:55:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Man charged in shooting death of brother at Oakland County home",
       "desc": "Breylon Roberts, 21, faces life in prison after allegedly shooting his 23-year-old brother Trey inside their shared Southfield home.",
       "link": "https://www.mlive.com/news/detroit/2026/10/man-charged-in-shooting-death-of-brother-at-oakland-county-home.html",
@@ -380,15 +506,6 @@
       "tag": "technology"
     },
     {
-      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "desc": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 14:50:47 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "WMU fraternity gets ‘cease-and-desist’ after crash kills 2 high schoolers",
       "desc": "Western Michigan University has issued a cease-and-desist directive to one of its fraternities while it is being investigated over allegations underage teens may have drunk alcohol there before a doub",
       "link": "https://www.mlive.com/news/kalamazoo/2026/10/wmu-fraternity-gets-cease-and-desist-after-crash-kills-2-high-schoolers.html",
@@ -407,15 +524,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump is hitting the road 1 week before the midterms. Here’s where he’s campaigning.",
-      "desc": "Trump has been campaigning across the country for weeks, focusing especially on states that are traditionally Republican strongholds.",
-      "link": "https://www.mlive.com/politics/2026/10/trump-is-hitting-the-road-1-week-before-the-midterms-heres-where-hes-campaigning.html",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 14:13:50 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Marching bands: Jenison takes top score at Portage Northern Huskies Invitational",
       "desc": "Twenty-eight schools performed at the Oct. 24 competition, as marching bands look to qualify for the upcoming state championship.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/10/marching-bands-jenison-takes-top-score-at-portage-northern-huskies-invitational.html",
@@ -425,24 +533,6 @@
       "tag": "education"
     },
     {
-      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-      "desc": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
-      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 14:09:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "WIRED Ghost Stories",
-      "desc": "Five hauntings from the other side of technology.",
-      "link": "https://www.wired.com/ghost-stories/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 14:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Jeffries: Democrats will deal with Hegseth if Trump doesn&#039;t",
       "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Democrats will run Defense Secretary Pete Hegseth “out of town” if they take the majority in the November midterms.  Jeffries told MS NOW that Democ",
       "link": "https://thehill.com/homenews/house/6172006-jeffries-democrats-hegseth-impeachment/",
@@ -450,15 +540,6 @@
       "rawDate": "Mon, 26 Oct 2026 13:57:23 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Trump unleashes in his longest social media post on record: ‘You’re a Loser!’",
-      "desc": "The over 1,300-word tirade came just days after the president called their White House dinner \"great.\"",
-      "link": "https://www.mlive.com/politics/2026/10/trump-unleashes-in-his-longest-social-media-post-on-record-youre-a-loser.html",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 13:55:19 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "3 incumbents, 2 new faces compete for seats on Plainwell school board",
@@ -515,15 +596,6 @@
       "tag": "safety"
     },
     {
-      "title": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why",
-      "desc": "Apple confirmed a “small number” of iPhone Duo units have an issue impacting the inner display.",
-      "link": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 13:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Open enrollment begins: What Medicare beneficiaries need to know for 2027",
       "desc": "From GLP-1 drug prices to higher deductibles, several Medicare changes could affect seniors' wallets in 2027.",
       "link": "https://thehill.com/policy/healthcare/6171704-open-enrollment-begins-what-medicare-beneficiaries-need-to-know-for-2027/",
@@ -578,15 +650,6 @@
       "tag": "safety"
     },
     {
-      "title": "Dirt bike riders killed in head-on Saginaw County crash",
-      "desc": "The Saturday night crash resulted in the death of a 19-year-old Owosso man and a 20-year-old St. Johns man.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/dirt-bike-riders-killed-in-head-on-saginaw-county-crash.html",
-      "date": "Oct 25, 2026",
-      "rawDate": "Sun, 25 Oct 2026 21:28:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Republicans struggle for an answer to Democrats’ Medicaid attacks",
       "desc": "Democrats across battleground districts are holding Republicans’ feet to the fire over the Medicaid cuts in their signature One Big Beautiful Bill law.  In advertisements and on debate stages, the Dem",
       "link": "https://thehill.com/homenews/state-watch/6169587-democrats-attack-obbb-medicaid-cuts/",
@@ -612,15 +675,6 @@
       "rawDate": "Sun, 25 Oct 2026 16:03:23 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Man recovering from injuries following early morning stabbing in Grand Rapids",
-      "desc": "The incident occurred at around 5:30 a.m. Sunday on Kalamazoo Avenue Southeast near Grand Rapids' Kendall Street Fire Station.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/10/man-recovering-from-injuries-following-early-morning-stabbing-in-grand-rapids.html",
-      "date": "Oct 25, 2026",
-      "rawDate": "Sun, 25 Oct 2026 15:12:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Newsom amasses fundraising machine that could power 2028 bid",
@@ -709,15 +763,6 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/10/grand-rapids-is-home-to-the-oldest-high-school-building-in-michigan-it-opened-in-1849.html",
       "date": "Oct 24, 2026",
       "rawDate": "Sat, 24 Oct 2026 12:15:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "$50K in scholarships aims to bring hands-on science education to more Detroit students",
-      "desc": "A $50,000 scholarship program is helping bring hands-on science education to Detroit students through field trips and classroom activities.",
-      "link": "https://www.mlive.com/news/detroit/2026/10/50k-in-scholarships-aims-to-bring-hands-on-science-education-to-more-detroit-students.html",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },
@@ -830,15 +875,6 @@
       "tag": "technology"
     },
     {
-      "title": "GOP pushes for oversight of Musk’s dominance of space",
-      "desc": "Republican lawmakers alarmed over Ukraine’s loss of access to Starshield, a critical battlefield tool, are pushing for more congressional oversight on what some view as Elon Musk’s “space monopoly,” f",
-      "link": "https://thehill.com/homenews/senate/6166981-rep-lawmakers-scrutinize-spacex-monopoly/",
-      "date": "Oct 23, 2026",
-      "rawDate": "Fri, 23 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "House Democrats demand answers from CDC on African hepatitis B study",
       "desc": "Top Democrats on the House Energy and Commerce Committee demanded answers Thursday from the Centers for Disease Control and Prevention (CDC) about the agency’s funding of a controversial hepatitis B c",
       "link": "https://thehill.com/policy/healthcare/6166854-cdc-hepatitis-b-vaccine-trial-rfk-hhs/",
@@ -855,15 +891,6 @@
       "rawDate": "Thu, 22 Oct 2026 21:47:37 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Pentagon locks in 10-year F-35 jet deal",
-      "desc": "Lockheed Martin and the Pentagon have penned an initial deal to produce at least 850 F-35 Lightning II fighter jets over ‌the next 10 years, the Defense Department announced Thursday. As part of the a",
-      "link": "https://thehill.com/policy/defense/6166652-pentagon-lockheed-f-35-deal/",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 20:59:48 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Calley Means, top RFK Jr. adviser, quits Trump administration",
@@ -898,24 +925,6 @@
       "link": "https://thehill.com/policy/healthcare/6163029-poll-vaccine-safety-confidence/",
       "date": "Oct 21, 2026",
       "rawDate": "Wed, 21 Oct 2026 16:43:38 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Pennsylvania warns doctors about rising rates of rare congenital measles",
-      "desc": "The Pennsylvania health department issued a warning to doctors Monday about an increase in measles cases during pregnancy, along with rising concern about congenital measles, a disease rarely seen in ",
-      "link": "https://thehill.com/policy/healthcare/6162533-pennsylvania-congenital-measles-outbreak/",
-      "date": "Oct 21, 2026",
-      "rawDate": "Wed, 21 Oct 2026 14:55:12 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Trump administration launches national kidney care plan",
-      "desc": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump launches national kidney care plan The Trump administration launched the Kidney Care National Plan Tues",
-      "link": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/",
-      "date": "Oct 20, 2026",
-      "rawDate": "Tue, 20 Oct 2026 23:13:12 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

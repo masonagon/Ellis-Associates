@@ -1,59 +1,329 @@
 {
-  "generated": "2026-10-28T10:12:31.693Z",
+  "generated": "2026-10-28T16:54:49.897Z",
   "news": [
+    {
+      "title": "Township exits economic development group after no heads up on data center plan",
+      "desc": "The Lansing Economic Area Partnership says it's putting community input first while exploring a large-scale data center project. The host township didn't get advance notice.",
+      "link": "https://www.mlive.com/news/2026/10/township-exits-economic-development-group-after-no-heads-up-on-data-center-plan.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:46:23 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Failed Florida gubernatorial candidate announces 2028 White House bid",
+      "desc": "Former Florida gubernatorial candidate James Fishback (R) said he plans to run for president in 2028. “Last night, someone asked me ‘What do you plan on doing next?’ I told them the truth. I’m running",
+      "link": "https://thehill.com/homenews/campaign/6178091-james-fishback-announces-presidential-run/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:44:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "House Democrat warns about Musk, other &#039;weird trillionaires&#039; controlling AI",
+      "desc": "Rep. Jim Himes (D-Conn.) on Wednesday morning issued a stark warning about the influence that SpaceX CEO Elon Musk and other artificial intelligence technology leaders have over global affairs followi",
+      "link": "https://thehill.com/policy/technology/6178433-himes-warns-musk-influence-ai/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:41:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Obama returns to the mic amid Cheesecake Factory uproar",
+      "desc": "Plus: 💵 Plus: Fed's final call before midterms {beacon} It’s Wednesday, and we're officially less than one week out from Election Day. Have you hit the polls yet?  &#8202; In today's issue: Obama cam",
+      "link": "https://thehill.com/newsletters/1230-report/6178347-obama-returns-to-the-mic-amid-cheesecake-factory-uproar/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:35:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan prison system testing prisoner classification pilot program to curb prison violence",
+      "desc": "Michigan's prison system will pilot a new classification program starting Dec. 1, using real-time data to better predict violence risk and improve safety.",
+      "link": "https://www.mlive.com/news/2026/10/michigan-prison-system-testing-prisoner-classification-pilot-program-to-curb-prison-violence.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:31:22 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Harris advises Democrats against attempting to impeach Trump",
+      "desc": "Former Vice President Kamala Harris on Tuesday urged Democrats against making a third attempt to impeach President Trump if they win back the House after next week's midterm elections. \"I think that g",
+      "link": "https://thehill.com/homenews/administration/6178028-harris-urges-democrats-against-impeachment/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:26:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Peltola denies New York Times report her campaign recruited other Sullivan",
+      "desc": "Democrat Mary Peltola's Senate campaign and national Democrats are denying a new investigation from The New York Times reporting that they worked together to recruit candidates in an effort to pull vo",
+      "link": "https://thehill.com/homenews/senate/6178270-peltola-denies-sullivan-recruitment-alaska-senate-report/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:24:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Current, former CMS leaders offer advice on Medicare changes ahead",
+      "desc": "Current and former leaders at the Centers for Medicare and Medicaid Services (CMS) on Wednesday advised Medicare beneficiaries to pay close attention to their options this year upon reenrolling in pla",
+      "link": "https://thehill.com/policy/healthcare/6177966-cms-leaders-advise-medicare-enrollment-changes/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:11:30 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Treasury sanctions North Koreans, Russians for alleged IT fraud",
+      "desc": "The Treasury Department on Wednesday sanctioned 10 individuals and one entity involved in an alleged scheme to defraud American businesses to benefit the North Korean military. The department’s Office",
+      "link": "https://thehill.com/policy/technology/6178280-treasury-department-sanctions-north-korean-it-scheme/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:06:23 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "STARS offering free bus rides on Election Day, free LIFT rides for eligible passengers",
+      "desc": "The transit service is waiving fares system-wide on Nov. 3 and offering free rides to polling locations.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/stars-offering-free-bus-rides-on-election-day-free-lift-rides-for-eligible-passengers.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:03:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Your bank isn&#8217;t supposed to judge your beliefs. The administration just proved some did.",
+      "desc": "An extensive report by the Office of the Comptroller of the Currency has confirmed that major U.S. banks engaged in widespread politicized debanking of individuals and businesses due to their religiou",
+      "link": "https://thehill.com/opinion/finance/6176942-trump-order-fair-banking/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 16:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "A stunning new poll shows South Carolina Senate race tied",
+      "desc": "The poll found that Graham and Andrews each received 48% of support when South Carolina voters were asked who they would support if the election were held today",
+      "link": "https://www.mlive.com/politics/2026/10/shock-poll-shows-deep-red-state-in-trouble-is-trump-to-blame.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 15:55:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil",
+      "desc": "Failed Brazilian presidential candidate Flávio Bolsonaro has landed in the U.S. after fleeing his home country following the election results. Bolsonaro and his family landed in Miami on Wednesday, af",
+      "link": "https://thehill.com/policy/international/6178060-flavio-bolsonaro-brazil-election-miami-trump-administration/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 15:52:35 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Election lawsuits are underway: What voters need to know",
+      "desc": "With less than a week until Election Day, join The Hill's legal affairs editor Zach Schonfeld and reporter Sophie Brams as they break down the lawsuits already underway that could impact your vote. Th",
+      "link": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6178074-election-lawsuits-2026-what-to-know-midterms-live-discussion/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 15:35:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Put AI to work on America’s electric bill",
+      "desc": "Software can fix a lot of this — if lawmakers let it.",
+      "link": "https://thehill.com/opinion/energy-environment/6175998-improving-american-power-grid-infrastructure/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 15:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Alaska&#039;s GOP-led government asks court to block DOJ Senate race certification lawsuit",
+      "desc": "Alaska's GOP-led government is urging a federal court to dismiss the Department of Justice’s (DOJ) lawsuit seeking to bar the state from certifying its midterm election results, according to a Monday ",
+      "link": "https://thehill.com/homenews/campaign/6177625-alaska-gop-moves-dismiss-doj-lawsuit/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 15:28:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Top federal prosecutor in LA not legally serving, judge rules",
+      "desc": "A federal judge on Tuesday ruled that Bill Essayli, the First Assistant U.S. Attorney for the Central District of California, is unlawfully serving as the top prosecutor in Los Angeles. U.S. District ",
+      "link": "https://thehill.com/homenews/state-watch/6177658-judge-rules-essayli-unlawful-designation/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 15:25:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
+      "desc": "A far-right campaign claiming leftists are stealing votes from nursing home residents has centered on changing guidance from Mehmet Oz’s Centers for Medicare and Medicaid Services.",
+      "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 14:46:35 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "RFK Jr. rebuked for derogatory claim about &#039;Arabs in the world&#039;",
+      "desc": "Health and Human Services Secretary Robert F. Kennedy Jr. is facing backlash for comments he made about Arabs while at a campaign stop in Michigan. “There’s 500 million Arabs in the world, and yet the",
+      "link": "https://thehill.com/policy/healthcare/6177665-rfk-jr-arab-comments-backlash/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 14:45:53 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Man sentenced to more than 50 years for criminal sexual conduct that garnered $10M bond",
+      "desc": "The charges stem from a 2019 incident.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/10/man-sentenced-to-more-than-50-years-for-criminal-sexual-conduct-that-garnered-10m-bond.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 14:43:07 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Ex-teacher accused of criminal sexual conduct dies before trial",
+      "desc": "Matthew Chapin, charged with criminal sexual conduct involving five former students, died before his case could go to trial.",
+      "link": "https://www.mlive.com/news/flint/2026/10/ex-teacher-accused-of-criminal-sexual-conduct-dies-before-trial.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 14:28:53 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Kalshi defends Platinum program against scrutiny from Democrats",
+      "desc": "Kalshi argued Tuesday that its VIP program and platform are \"fundamentally different\" from those offered by sportsbooks, after several Democratic lawmakers expressed concerns over loyalty programs at ",
+      "link": "https://thehill.com/policy/technology/6177573-kalshi-defends-vip-program/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 14:12:01 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Grocery chain vows to mark up prices only 10%, lower than Walmart, Costco",
+      "desc": "Chains such as Kroger and Publix don’t have the same margins as a company like Walmart.",
+      "link": "https://www.mlive.com/business/2026/10/grocery-chain-promises-to-mark-up-prices-by-only-10-lower-than-walmart-costco.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 14:01:55 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "State police seize illegal firearm after U.S. 131 traffic stop",
+      "desc": "State police said troopers stopped a vehicle for speeding on U.S. 131 near 32nd Street and the passenger tried to flee.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/state-police-seize-illegal-firearm-after-us-131-traffic-stop.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 14:01:36 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Election forecaster makes major shift in 2026 midterms: One party has ‘slight advantage’",
+      "desc": "Sabato’s Crystal Ball shifted 16 House races, three Senate races and two gubernatorial races toward the Democrats.",
+      "link": "https://www.mlive.com/politics/2026/10/election-forecaster-makes-major-shift-in-2026-midterms-one-party-has-slight-advantage.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 13:55:13 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "KISS&#039;s Gene Simmons on AI in music industry: &#039;Learn how to use it, otherwise it will use you&#039;",
+      "desc": "Gene Simmons of KISS fame is urging the music world to get on board with artificial intelligence. The \"Rock and Roll All Nite\" singer was asked about his stance on AI on NewsNation's \"The Hill with Bl",
+      "link": "https://thehill.com/policy/technology/6177465-kiss-gene-simmons-ai-in-music/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 13:53:40 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Fenton man killed while checking damage from crash on freeway",
+      "desc": "The driver had not moved his vehicle over to the shoulder before getting out of the car.",
+      "link": "https://www.mlive.com/news/2026/10/fenton-man-killed-while-checking-damage-from-crash-on-freeway.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 13:40:26 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Bikers, trooper team up to rescue injured bald eagle",
+      "desc": "A bald eagle struck by a vehicle in Michigan was rescued through a joint effort by motorcyclists, state troopers, and conservation officers, and is now receiving rehabilitation care.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/officers-bikers-team-up-to-rescue-bald-eagle-struck-by-vehicle-in-michigans-thumb.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 13:07:29 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+      "desc": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
+      "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 12:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Flushing city chief moves to top police job in Flushing Township",
+      "desc": "Steve Colosky, a 30-year veteran of the Flushing City Police Department, was unanimously approved as Flushing Township's new police chief.",
+      "link": "https://www.mlive.com/news/flint/2026/10/flushing-city-chief-moves-to-top-police-job-in-flushing-township.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "US-10 closed in Bay County after semi hits pedestrian (53 chars)",
+      "desc": "The pedestrian was taken to an area hospital for treatment.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/police-close-stretch-of-us-10-in-bay-county-following-semi-pedestrian-crash.html",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 11:59:49 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "&#039;Back away from this podium&#039;: UN ambassador posts video of confrontation with Cuban reps in General Assembly Hall",
+      "desc": "U.S. Ambassador to the United Nations Mike Waltz on Tuesday posted a video depicting a confrontation between U.S. and Cuban officials while he spoke at the podium of the U.N. General Assembly chamber.",
+      "link": "https://thehill.com/homenews/administration/6177050-us-cuba-tensions-un-general-assembly-mike-waltz/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 11:55:09 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
+      "desc": "If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.",
+      "link": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Recalled butter sold in 10 states receives risk warning: FDA",
+      "desc": "A popular plant-based butter has been recalled due to yeast, mold and E. coli, and the U.S. Food and Drug Administration has now assigned it a risk level.",
+      "link": "https://thehill.com/homenews/state-watch/6175447-miyokos-creamery-butter-recalled/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 10:29:13 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "desc": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 10:15:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Trump, Congress set to clash over Hegseth, Iran war, Ukraine after election",
       "desc": "President Trump is headed for a showdown with Democrats and members of his party after Election Day over Secretary of Defense Pete Hegseth’s future leadership of the Pentagon, the Iran war and the Rus",
       "link": "https://thehill.com/homenews/administration/6176148-trump-hegseth-defense-funding-battle/",
       "date": "Oct 28, 2026",
       "rawDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fed likely to hold rates steady ahead of midterms",
-      "desc": "Federal Reserve officials will decide whether to raise interest rates again on Wednesday, as persistent inflation strains Americans ahead of the midterm elections. Annual inflation was 3.7 percent in ",
-      "link": "https://thehill.com/business/6175539-fed-to-decide-interest-rates-midterms/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP election losses could scramble year-end funding fight",
-      "desc": "A bruising midterm election for Republicans could complicate Congress’s next government funding fight, as lawmakers return to Washington facing uncertainty over how President Trump will respond to pot",
-      "link": "https://thehill.com/homenews/house/6169401-midterm-elections-government-funding-fight-shutdown/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats brace for a 2028 presidential free-for-all",
-      "desc": "The floodgates are about to open in the 2028 presidential race.  For the last year, a parade of would-be candidates has quietly — and sometimes unabashedly — tested the waters for a White House bid, t",
-      "link": "https://thehill.com/homenews/campaign/6175916-2028-presidential-race-midterm-elections/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Silicon Valley braces for firestorm of Dem scrutiny in 2027",
-      "desc": "Silicon Valley is bracing for a firestorm of scrutiny should Democrats take control of Congress next year, underscoring how the industry’s efforts to get on President Trump’s good side last year becam",
-      "link": "https://thehill.com/policy/technology/6176186-silicon-valley-democrats-scrutiny/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Memo: DOJ targets Trump foes in flurry of activity in election&#039;s shadow",
-      "desc": "FBI agents raided a California home as part of an investigation into former Rep. Eric Swalwell (D-Calif.) on Tuesday, adding to a rapidly lengthening list of law enforcement actions that have a politi",
-      "link": "https://thehill.com/homenews/analysis/6176336-justice-department-midterm-elections/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Please Let the Internet Die",
@@ -110,49 +380,13 @@
       "tag": "technology"
     },
     {
-      "title": "Dyson Promo Codes: 25% Off in October 2026",
-      "desc": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "title": "Iran hasn&#039;t tried to repair nuclear facilities damaged in US strikes: UN nuclear chief",
+      "desc": "(AP) — The head of the U.N. nuclear agency said Tuesday there has been no indication Iran has tried to repair or reconstruct its nuclear facilities damaged in U.S. and Israeli military strikes this ye",
+      "link": "https://thehill.com/policy/international/ap-iran-nuclear-facilities-repair-united-nations-rafael-grossi/",
       "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump and Talarico hold dueling Texas rallies",
-      "desc": "President Trump and Texas Senate candidate James Talarico (D) shared their competing visions Tuesday as the two held dueling rallies in the Lone Star State one week before the midterm elections. Trump",
-      "link": "https://thehill.com/homenews/campaign/6176856-trump-talarico-texas-senate-rallies/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 03:12:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump reups calls to put Cruz on Supreme Court in vacancy scenario",
-      "desc": "President Trump joked Tuesday that Sen. Ted Cruz (R-Texas) would be his pick for the next Supreme Court vacancy, saying the senator could get unanimously confirmed because lawmakers in both parties wo",
-      "link": "https://thehill.com/homenews/administration/6176842-trump-jokes-ted-cruz-scotus/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 02:49:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Federal grand jury declines to indict Cassidy Hutchinson",
-      "desc": "A federal grand jury in Washington, D.C., on Tuesday rejected the Justice Department’s attempt to indict former White House aide Cassidy Hutchinson over her testimony to lawmakers about President Trum",
-      "link": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 02:44:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Murkowski backs Alaska Democrat for governor",
-      "desc": "Sen. Lisa Murkowski (R-Alaska) endorsed Democrat Jonathan Kreiss-Tomkins in Alaska’s governor’s race Tuesday, crossing party lines to back the former state lawmaker over three Republican candidates. I",
-      "link": "https://thehill.com/homenews/campaign/6176771-murkowski-endorses-democrat-kreiss-tomkins/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 01:38:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "rawDate": "Wed, 28 Oct 2026 02:37:47 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Detroit Police kill suspect: He was ‘heavily-armed and ready to shoot it out’",
@@ -162,24 +396,6 @@
       "rawDate": "Wed, 28 Oct 2026 01:25:56 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Johnson says there will be &#039;peaceful transfer of power&#039; on Jan 3",
-      "desc": "House Speaker Mike Johnson (R-La.) said Tuesday that there will be a “peaceful transfer of power” when new House members are set to join the lower chamber next year. “Of course, we'll have a peaceful ",
-      "link": "https://thehill.com/homenews/house/6176705-johnson-promises-peaceful-transfer-power/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 01:03:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump announces proposal to loosen methane rules for oil and gas production",
-      "desc": "President Trump announced plans to loosen methane regulations from the oil and gas sector during a Lubbock, Texas rally Tuesday night. The announcement came during the president&#8217;s second campaig",
-      "link": "https://thehill.com/policy/energy-environment/6176058-trump-texas-rally-methane-regulations-loosened/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 00:35:30 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Guardrails Alliance hits Husted over ties to Marc Andreessen in new ad",
@@ -196,8 +412,8 @@
       "link": "https://thehill.com/policy/defense/6176624-us-iran-war-costs-rise/",
       "date": "Oct 27, 2026",
       "rawDate": "Tue, 27 Oct 2026 23:32:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "JD Vance rallies for Mike Rogers as Michigan Senate race takes center stage",
@@ -252,6 +468,15 @@
       "rawDate": "Tue, 27 Oct 2026 20:45:56 +0000",
       "source": "MLive Crime",
       "tag": "safety"
+    },
+    {
+      "title": "Amid pushback, $10B+ data center project near Lansing promises to ‘flip the script’",
+      "desc": "As data center projects are engulfed in opposition and accusations of secrecy, a development effort near Lansing claims to offer a new level of transparency.",
+      "link": "https://www.mlive.com/news/2026/10/amid-pushback-10b-data-center-project-near-lansing-promises-to-flip-the-script.html",
+      "date": "Oct 27, 2026",
+      "rawDate": "Tue, 27 Oct 2026 20:08:36 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
     },
     {
       "title": "McCain predicts Elizabeth Holmes will get a Trump pardon",
@@ -336,7 +561,7 @@
     },
     {
       "title": "CDC deputy director to leave administration after 4 months",
-      "desc": "Dr. Jennifer Shuford, the Centers for Disease Control and Prevention’s (CDC) deputy director and chief medical officer, is leaving the agency after just four months on the job.  Shuford, an infectious",
+      "desc": "Dr. Jennifer Shuford, the deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC), is leaving the agency after just four months on the job.  Shuford, an infec",
       "link": "https://thehill.com/policy/healthcare/6175616-shuford-to-exit-cdc-november/",
       "date": "Oct 27, 2026",
       "rawDate": "Tue, 27 Oct 2026 18:32:19 +0000",
@@ -398,24 +623,6 @@
       "tag": "safety"
     },
     {
-      "title": "Man injured in Ypsilanti shooting",
-      "desc": "His injuries are not life-threatening, police said.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/10/man-injured-in-ypsilanti-shooting.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 16:37:51 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Flint Township drivers charged in 2 fatal crashes, police say",
-      "desc": "Two Flint Township drivers face felony charges after separate crashes in June killed two people, with investigators citing impaired and reckless driving.",
-      "link": "https://www.mlive.com/news/flint/2026/10/flint-township-drivers-charged-in-2-fatal-crashes-police-say.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 16:33:01 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Sanders, Wyden press insurers on Trump ACA coverage terminations",
       "desc": "Senate Democrats, led by Sens. Ron Wyden (D-Ore.) and Bernie Sanders (I-Vt.), are pressing 10 major insurance companies about their decisions to work with the Trump administration to terminate coverag",
       "link": "https://thehill.com/policy/healthcare/6175216-wyden-sanders-target-trump-insurance/",
@@ -425,66 +632,12 @@
       "tag": "health"
     },
     {
-      "title": "Hundreds line up to hear JD Vance speak at Livingston County rally ahead of midterms",
-      "desc": "Vice President Vance's Michigan visit comes days before the Nov. 3 election as races heat up, including between U.S. Senate candidates Abdul El-Sayed and Mike Rogers.",
-      "link": "https://www.mlive.com/politics/2026/10/hundreds-line-up-to-hear-jd-vance-speak-at-livingston-county-rally-ahead-of-midterms.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 16:12:59 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "2 Muskegon Heights council members charged months after City Hall raid",
-      "desc": "Prosecutors say Derrick Collins and Lashae Simmons are charged with separate offenses tied to city-owned property transactions.",
-      "link": "https://www.mlive.com/news/muskegon/2026/10/2-muskegon-heights-council-members-charged-months-after-city-hall-raid.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 15:30:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Kalamazoo man pleads no contest to assaulting unconscious Bay City woman",
-      "desc": "Yamar Lyons, 23, was extradited from California in May 2026 after police found videos on his phone allegedly showing him with an incapacitated victim.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/kalamazoo-man-pleads-to-sexually-assaulting-unconscious-woman-in-bay-county.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 15:27:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Ousted White House press secretary clings to 6-word message from Trump",
-      "desc": "Fired after five days, she is still vowing to fight for the president's agenda.",
-      "link": "https://www.mlive.com/politics/2026/10/ousted-white-house-press-secretary-clings-to-6-word-message-from-trump.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 15:12:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Finland&#039;s Stubb and Norway PM call Putin in break with previous European stance",
       "desc": "The leaders of Finland and Norway initiated a direct call with Russian President Vladimir Putin on Tuesday morning amid broader diplomatic efforts to wind down Russia’s yearslong war with Ukraine.  Fi",
       "link": "https://thehill.com/policy/international/6174949-finland-norway-diplomacy-push-russia-ukraine-war-putin-zelensky/",
       "date": "Oct 27, 2026",
       "rawDate": "Tue, 27 Oct 2026 15:07:00 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Man dies in house fire after shootout with police",
-      "desc": "Two sheriff’s office drones were shot down during the incident. Neighbors were advised to shelter in place or evacuate.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/10/man-dies-in-house-fire-after-shootout-with-police.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 14:35:44 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Flint Township police arrest 15 in retail theft crackdown",
-      "desc": "A coordinated sting operation by Flint Township police resulted in 15 arrests for retail theft, with stolen goods recovered and returned to retailers.",
-      "link": "https://www.mlive.com/news/flint/2026/10/flint-township-police-arrest-15-in-retail-theft-crackdown.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 14:29:02 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -503,15 +656,6 @@
       "date": "Oct 27, 2026",
       "rawDate": "Tue, 27 Oct 2026 13:53:26 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Ypsilanti man charged with possessing sexually abusive material of children",
-      "desc": "He is 75.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/10/ypsilanti-man-charged-with-possessing-sexually-abusive-material-of-children.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 13:38:50 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -551,33 +695,6 @@
       "tag": "education"
     },
     {
-      "title": "Man critically wounded in Wyoming shooting",
-      "desc": "Police responded about 11 p.m. Monday, Oct. 26 to an address on Fox Run Drive SW for a shooting.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/10/man-critically-wounded-in-wyoming-shooting.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 11:59:53 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Jackson voters to decide whether city treasurer should remain elected position",
-      "desc": "The proposed amendment to the city charter would be effective at the end of the elected treasurer’s term Dec. 1, 2028.",
-      "link": "https://www.mlive.com/news/jackson/2026/10/jackson-voters-to-decide-whether-city-treasurer-should-remain-elected-position.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 11:54:48 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Donald Trump is ‘like a nightmare’, popular rock frontman says: ‘I’m voting Blue’",
-      "desc": "He urged everyone to get out and vote.",
-      "link": "https://www.mlive.com/life/2026/10/donald-trump-is-like-a-nightmare-popular-rock-frontman-says-im-voting-blue.html",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 10:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
       "desc": "BUNIA, Congo (AP) — The fast-moving Ebola outbreak in Congo has reached 10,000 confirmed cases, government data showed Tuesday, as health authorities race to slow the spread of the disease in multiple",
       "link": "https://thehill.com/policy/international/ebola-congo-10000-cases/",
@@ -603,24 +720,6 @@
       "rawDate": "Mon, 26 Oct 2026 21:00:41 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Claude reportedly bypassed paywall to access Georgia voter data",
-      "desc": "The model reportedly bypassed a paywall to retrieve aggregate vote counts but didn't access individual voter records.",
-      "link": "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 20:52:44 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "FTC demands Anthropic leaders testify in consumer harm investigation",
-      "desc": "The Federal Trade Commission (FTC) has asked executives from the AI firm Anthropic to testify as part of its consumer harm probe into the maker of the Claude AI model, a FTC spokesperson confirmed to ",
-      "link": "https://thehill.com/policy/technology/6173134-ftc-demands-anthropic-ai-testimony/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 19:38:10 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Northwood University unveils Sybil Ludington statue in Midland",
@@ -812,24 +911,6 @@
       "tag": "safety"
     },
     {
-      "title": "DNI warned Rubio of &#039;advanced&#039; Iranian efforts to target US personnel, memo shows",
-      "desc": "Iranian plots to target and kill U.S. officials in the Middle East have \"substantially increased,\" according to a declassified intelligence memo dated Friday, with these efforts reportedly reaching \"a",
-      "link": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 03:24:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Rubio floats CIA &#039;partnership&#039; to Cubans tired of &#039;failed promises, corruption&#039;",
-      "desc": "Secretary of State Marco Rubio offered Cubans a discreet CIA partnership opportunity in a Friday social media post, saying \"now is the time\" for those looking to \"create positive change” in the Caribb",
-      "link": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
-      "date": "Oct 24, 2026",
-      "rawDate": "Sat, 24 Oct 2026 02:51:14 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Nationwide recall on these compound GLP-1 drugs",
       "desc": "The compounded GLP-1s are not FDA-approved nor name-brand.",
       "link": "https://thehill.com/policy/healthcare/6168835-nationwide-recall-on-these-compound-glp-1-drugs/",
@@ -844,33 +925,6 @@
       "link": "https://thehill.com/policy/healthcare/6168453-new-florida-counties-report-dengue-cases-as-statewide-total-passes-400/",
       "date": "Oct 23, 2026",
       "rawDate": "Fri, 23 Oct 2026 15:52:14 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "House Democrats demand answers from CDC on African hepatitis B study",
-      "desc": "Top Democrats on the House Energy and Commerce Committee demanded answers Thursday from the Centers for Disease Control and Prevention (CDC) about the agency’s funding of a controversial hepatitis B c",
-      "link": "https://thehill.com/policy/healthcare/6166854-cdc-hepatitis-b-vaccine-trial-rfk-hhs/",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 22:03:54 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "CDC pushes Ebola requirements for international passengers traveling to US",
-      "desc": "The Centers for Disease Control and Prevention (CDC) will require foreign travelers heading to the U.S. to certify they have not traveled to the Congo in the last three weeks amid a widespread outbrea",
-      "link": "https://thehill.com/policy/healthcare/6166661-cdc-ebola-travel-requirement/",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 21:47:37 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Calley Means, top RFK Jr. adviser, quits Trump administration",
-      "desc": "Calley Means, a senior adviser to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. and an outspoken advocate for the Make America Healthy Again (MAHA) movement, resigned from the Trump ",
-      "link": "https://thehill.com/homenews/administration/6166195-calley-means-resigns-hhs-maha-trump-administration/",
-      "date": "Oct 22, 2026",
-      "rawDate": "Thu, 22 Oct 2026 18:31:40 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

@@ -1,30 +1,264 @@
 {
-  "generated": "2026-10-29T07:51:53.763Z",
+  "generated": "2026-10-29T14:49:52.812Z",
   "news": [
     {
-      "title": "Dermstore Coupons: 25% Off for November 2026",
-      "desc": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-      "link": "https://www.wired.com/story/dermstore-promo-code/",
+      "title": "Most voters say enthusiasm to cast midterm ballots higher than previous elections: Survey",
+      "desc": "Most American voters say they have a higher level of enthusiasm for casting their ballots this year versus prior elections, according to a new poll. In the Gallup survey, 56 percent of respondents sai",
+      "link": "https://thehill.com/homenews/campaign/6181181-midterms-voter-enthusiasm-survey/",
       "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 05:00:00 +0000",
+      "rawDate": "Thu, 29 Oct 2026 14:49:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US GDP grew by 3.4 percent in third quarter amid AI investment boom",
+      "desc": "U.S. economic growth increased in the third quarter, as the surge in artificial intelligence (AI) investment continued and consumers kept spending despite persistent inflation. The country’s gross dom",
+      "link": "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:46:11 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "desc": "CEBU, Philippines (AP) — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said",
+      "link": "https://thehill.com/policy/defense/us-japan-missile-production-china/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:32:32 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "AI founders want to give shares to the public? Give them to Social Security.",
+      "desc": "Congress should build an independent fund that accepts contributed equity from any company, holds it in a diversified portfolio and dedicates the returns to the trust funds.",
+      "link": "https://thehill.com/opinion/finance/6178698-ai-shares-social-security/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Piers Morgan, Katie Zacharia tangle in contentious interview: &#039;You sound like a robot&#039;",
+      "desc": "British broadcaster Piers Morgan clashed with former White House press secretary Katie Zacharia over her abrupt departure from the Trump administration, accusing her of sounding like a “robot” as she ",
+      "link": "https://thehill.com/homenews/media/6181114-piers-morgan-katie-zacharia-clash/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:22:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "1 in custody after Grand Rapids stabbing",
+      "desc": "Grand Rapids police responded about 10:30 p.m. Wednesday, Oct. 28 to the 100 block of Jefferson Avenue SE.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/10/1-in-custody-after-grand-rapids-stabbing.html",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:18:05 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "San Diego delays data center after residents — including Lord Farquaad, Elmo — address City Council",
+      "desc": "Despite supposed potential plans to build something other than a data center on the land, the possibility of a massive AI data center coming to San Diego is ruffling a lot of feathers.",
+      "link": "https://thehill.com/policy/technology/6179965-san-diego-data-center-delays/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:16:04 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Secret Service agent helped stop man’s knife attack against Bay County woman",
+      "desc": "A U.S. Secret Service agent in town to attend a wedding drew his weapon and intervened when a Bangor Township man allegedly attacked a 73-year-old woman with a butcher knife in her apartment.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/secret-service-agent-helped-stop-mans-knife-attack-against-bay-county-woman.html",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:15:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "DoorDash buying Instacart for $17B",
+      "desc": "DoorDash announced Thursday it will acquire Instacart, buying the grocery delivery company for around $17 billion. Instacart will keep its brand name, and customers will be able to continue using the ",
+      "link": "https://thehill.com/business/6180612-doordash-to-acquire-instacart/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:12:41 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Selective sanctuary: America&#039;s &#039;White South Africans Only&#039; refugee policy is wrong",
+      "desc": "As persecution continues around the world, so too should our bipartisan support for refugees — regardless of where they come from, the color of their skin, or what faith they practice.",
+      "link": "https://thehill.com/opinion/white-house/6178978-trump-refugee-ban-south-africa/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "desc": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 14:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Petlibro Offers: 30% Off in November 2026",
-      "desc": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
-      "link": "https://www.wired.com/story/petlibro-discount-code/",
+      "title": "Stevens on fiance voting for Rogers: &#039;We&#039;re a household divided&#039;",
+      "desc": "Rep. Haley Stevens (D-Mich.) said Wednesday she is still supporting Michigan Democratic Senate candidate Abdul El-Sayed after her fiance announced he would back the GOP candidate, former Rep. Mike Rog",
+      "link": "https://thehill.com/homenews/campaign/6180584-haley-stevens-jason-turkish-mike-rogers-abdul-el-sayed-michigan-senate-race-2026/",
       "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 05:00:00 +0000",
+      "rawDate": "Thu, 29 Oct 2026 13:43:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+      "desc": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
+      "link": "https://www.wired.com/story/petkit-sale-october-2026/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 13:41:26 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-      "desc": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
-      "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+      "title": "Portage cleaning company acquires South Haven business, expanding its footprint",
+      "desc": "Jeannie and Terry Henderson purchased an existing cleaning business in 2015 after spending 30 years in the franchise restaurant industry.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/portage-cleaning-company-acquires-south-haven-business-expanding-its-footprint.html",
       "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 03:34:46 +0000",
+      "rawDate": "Thu, 29 Oct 2026 13:35:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Man charged with OWI after pinning man, woman between vehicles in their own driveway",
+      "desc": "The alleged intoxicated driver left the roadway and struck a man and a woman, causing serious injuries.",
+      "link": "https://www.mlive.com/news/2026/10/man-charged-with-owi-after-pinning-man-woman-between-vehicles-in-their-own-driveway.html",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 13:29:34 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats leading in Texas, Michigan Senate races: Polling",
+      "desc": "Democrats are leading in the Texas and Michigan Senate races, according to new polling. The CNN polls released Thursday found 49 percent of respondents backed or leaned toward Democrat Abdul El-Sayed,",
+      "link": "https://thehill.com/homenews/campaign/6180606-democrats-lead-texas-michigan-polls/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 13:28:58 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 midterm elections: When polls close; when results are expected",
+      "desc": "There are just seven days until the final votes will be cast in the 2026 midterms. Tens of millions of voters across the country have already cast ballots for Senate, House, governor, state legislatur",
+      "link": "https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 13:28:32 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Scalise stresses voter turnout: &#039;We can hold the House&#039;",
+      "desc": "House Majority Leader Steve Scalise (R-La.) on Wednesday stressed that Republicans could hold on to their control of the House if there's strong voter turnout on Election Day. NewsNation's Katie Pavli",
+      "link": "https://thehill.com/homenews/campaign/6180417-steve-scalise-voter-turnout-boost-midterms-house-control/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 13:25:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump’s midterm reckoning: Why the Republican Party is facing a Senate wipeout",
+      "desc": "A year ago, losing control of the Senate seemed rather unlikely for Republicans. Today, the fact that their Senate majority is in doubt at all is a major rebuke.",
+      "link": "https://thehill.com/opinion/campaign/6179392-midterm-polls-favoring-democrats/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Trump, Vance zip across South to shore up GOP votes",
+      "desc": "With less than a week out until Election Day, candidates attempt to leave their final mark on voters. President Trump will hold a lunchtime rally Thursday in Rock Hill, S.C., on the North Carolina bor",
+      "link": "https://thehill.com/homenews/state-watch/6179994-live-updates-trump-vance-peltola-midterm-elections/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 12:58:28 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Tim Scott calls for DOJ investigation of Peltola campaign",
+      "desc": "Sen. Tim Scott (R-S.C.) on Wednesday called on the Department of Justice (DOJ) to investigate Democrat Mary Peltola's campaign over reports that it sought to recruit \"spoiler\" candidates in Alaska to ",
+      "link": "https://thehill.com/homenews/state-watch/6180373-tim-scott-mary-peltola-spoiler-candidate-alaska-senate-race-probe/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 12:54:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Marching bands: 61 ensembles competing this weekend to qualify for state finals",
+      "desc": "Of the 61 schools participating, only the top 50 will qualify to perform at the state finals on Nov. 7 at Ford Field.",
+      "link": "https://www.mlive.com/news/2026/10/marching-bands-61-ensembles-competing-this-weekend-to-make-it-to-state-championship-finals.html",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 12:15:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "‘I love you, good night,’ 16-year-old daughter texts dad hours before fatal crash",
+      "desc": "Adam Ruckert and his daughter spoke daily. He texted her “I love you” around bedtime on Saturday, Oct. 17. She texted back: “I love you, good night.”",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/10/i-love-you-good-night-16-year-old-daughter-texts-dad-hours-before-fatal-crash.html",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 11:10:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "New Michigan tool helps Medicaid recipients prepare for federal work rules",
+      "desc": "The Michigan Department of Health and Human Services has launched a new tool to help Healthy Michigan Plan enrollees prepare for federal Medicaid work rules.",
+      "link": "https://www.mlive.com/news/2026/10/what-to-know-about-michigans-new-tool-to-help-navigate-federal-work-requirements-for-medicaid.html",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 11:03:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "desc": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 10:45:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+      "desc": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
+      "link": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "I Gave My Blood to the AI Death Clock",
+      "desc": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization",
+      "desc": "The firm that helped set up Elon Musk’s America PAC is behind the new group, which will work with election officials to pursue policies aligned with Donald Trump’s false election fraud claims.",
+      "link": "https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 09:45:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "desc": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "link": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "date": "Oct 29, 2026",
+      "rawDate": "Thu, 29 Oct 2026 09:00:00 +0000",
       "source": "Wired",
       "tag": "technology"
     },
@@ -45,51 +279,6 @@
       "rawDate": "Thu, 29 Oct 2026 02:05:54 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "El-Sayed responds to Stevens&#039;s fiancée endorsing Rogers",
-      "desc": "Michigan Senate candidate Abdul El-Sayed responded to his former primary opponent Rep. Haley Stevens’s (D-Mich.) fiancée endorsing his GOP opponent former Rep. Mike Rogers (R-Mich.). “Well, I'm buildi",
-      "link": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 01:53:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Obama knocks White House&#039;s response to Cheesecake Factory jab: &#039;These are not serious people&#039;",
-      "desc": "Former President Obama on Wednesday responded to uproar over a recent campaign trail jab at President Trump’s White House decorations, slamming Republicans for focusing more on the joke than on the ec",
-      "link": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 01:44:14 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump calls alleged Alaska Senate spoiler scheme &#039;voter fraud at the highest level&#039;",
-      "desc": "President Trump criticized Senate Democrats and former Rep. Mary Peltola’s (D-Alaska) campaign on Wednesday amid allegations that the two worked together to put a spoiler candidate on the ballot in an",
-      "link": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 01:30:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Senate Democrats drop $500K in Mississippi",
-      "desc": "The Democratic Senatorial Campaign Committee (DSCC) dropped $500,000 in Mississippi’s Senate race supporting Scott Colom (D), who is challenging Trump-backed Sen. Cindy Hyde-Smith (R-Miss.). The new a",
-      "link": "https://thehill.com/homenews/campaign/6179967-dscc-drops-mississippi-senate-funds/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 01:02:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "A coming clash between Trump and Congress",
-      "desc": "Presented by Palantir {beacon} Defense &#038;National Security Defense &#038;National Security The Big Story  A coming clash between Trump and Congress President Trump is headed to a showdown with Dem",
-      "link": "https://thehill.com/newsletters/defense-national-security/6179940-a-coming-clash-between-trump-and-congress/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 00:31:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Kalamazoo Central parents demand answers after student brings gun to school",
@@ -124,53 +313,8 @@
       "link": "https://thehill.com/policy/technology/6179862-putin-praises-elon-musk/",
       "date": "Oct 28, 2026",
       "rawDate": "Wed, 28 Oct 2026 23:18:17 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Justice Department pushes to keep Ilhan Omar search warrant under seal for now",
-      "desc": "Federal prosecutors asked a judge Tuesday to reject a request from more than a dozen news organizations to immediately unseal the search warrant for Rep. Ilhan Omar’s (D-Minn.) Washington, D.C., home,",
-      "link": "https://thehill.com/regulation/court-battles/6179804-prosecutors-oppose-omar-warrant-unsealing/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 23:05:11 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Murkowski calls for &#039;truth&#039; from Peltola amid &#039;pattern of lies and coverups&#039;",
-      "desc": "Sen. Lisa Murkowski (R-Alaska) called for the “truth” from former Rep. Mary Peltola (D-Alaska) amid what she said was a “pattern of lies and coverups” following reports the Democrat’s campaign recruit",
-      "link": "https://thehill.com/homenews/senate/6179799-murkowski-peltola-ballot-stacking-claims/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 22:55:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Stevens&#039;s fiance says he&#039;ll vote for Rogers over El-Sayed",
-      "desc": "The fiance of Rep. Haley Stevens (D-Mich.) said this week he would support GOP candidate Mike Rogers over Stevens’s former Democratic primary rival, Abdul El-Sayed, in Michigan’s Senate race.  In an i",
-      "link": "https://thehill.com/homenews/campaign/6179793-haley-stevens-fiance-supports-rogers/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 22:48:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fed hits pause on interest rates",
-      "desc": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Fed holds rate steady ahead of midterms Federal Reserve officia",
-      "link": "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 22:47:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Why the Peltola ‘spoiler’ controversy may be too late to shake up Alaska",
-      "desc": "Allegations that Mary Peltola’s (D) campaign was involved in recruiting “spoiler” candidates to siphon votes from incumbent Sen. Dan Sullivan (R) shook up the Alaska Senate race Wednesday.   Peltola's",
-      "link": "https://thehill.com/homenews/campaign/6179757-peltola-alleged-spoiler-candidate/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 22:35:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Website leaks data on more than 40,000 DHS employees",
@@ -178,6 +322,15 @@
       "link": "https://thehill.com/policy/technology/6179649-hackers-publish-dhs-employee-data/",
       "date": "Oct 28, 2026",
       "rawDate": "Wed, 28 Oct 2026 22:24:38 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "New York enacts ban on &#039;unsafe&#039; chatbot behavior with kids as states push AI regulation boundaries",
+      "desc": "HARRISBURG, Pa. (AP) — New York is enacting farther-reaching restrictions on companion chatbot behavior, as states increasingly move to protect children who use artificial intelligence, regulate how e",
+      "link": "https://thehill.com/policy/technology/new-york-ban-unsafe-chatbot-behavior-kids-ai/",
+      "date": "Oct 28, 2026",
+      "rawDate": "Wed, 28 Oct 2026 22:00:21 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
@@ -227,15 +380,6 @@
       "tag": "safety"
     },
     {
-      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
-      "desc": "The critical flaw in UEFI firmware—used by most server vendors and data centers���allows attackers to execute code early in the boot process.",
-      "link": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 20:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Trump, MAGA allies outraged over explosive midterms report: ‘Shameful’",
       "desc": "Operatives aligned with the Democrat are accusing of recruiting a man with a similar name to her Republican opponent, according to a new report.",
       "link": "https://www.mlive.com/politics/2026/10/trump-allies-outraged-over-explosive-midterms-report-shameful.html",
@@ -243,15 +387,6 @@
       "rawDate": "Wed, 28 Oct 2026 20:02:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
-      "desc": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
-      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 20:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Grandfather arrested at Bay County elementary school with loaded rifle, ammo",
@@ -416,15 +551,6 @@
       "tag": "safety"
     },
     {
-      "title": "Chinese national extradited to US, charged in crypto scam that cost victims $36.9M",
-      "desc": "Zheng Zhao, 44, was extradited to the U.S. and arraigned in connection with a cryptocurrency scam that involved multiple co-conspirators and cost victims $36.9 million.",
-      "link": "https://www.mlive.com/news/2026/10/chinese-national-extradited-to-us-charged-in-crypto-scam-that-cost-victims-369m.html",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 17:06:32 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Township exits economic development group after no heads up on data center plan",
       "desc": "The Lansing Economic Area Partnership says it's putting community input first while exploring a large-scale data center project. The host township didn't get advance notice.",
       "link": "https://www.mlive.com/news/2026/10/township-exits-economic-development-group-after-no-heads-up-on-data-center-plan.html",
@@ -441,15 +567,6 @@
       "rawDate": "Wed, 28 Oct 2026 16:41:44 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "Michigan prison system testing prisoner classification pilot program to curb prison violence",
-      "desc": "Michigan's prison system will pilot a new classification program starting Dec. 1, using real-time data to better predict violence risk and improve safety.",
-      "link": "https://www.mlive.com/news/2026/10/michigan-prison-system-testing-prisoner-classification-pilot-program-to-curb-prison-violence.html",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 16:31:22 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Current, former CMS leaders offer advice on Medicare changes ahead",
@@ -488,56 +605,11 @@
       "tag": "health"
     },
     {
-      "title": "Man sentenced to more than 50 years for criminal sexual conduct that garnered $10M bond",
-      "desc": "The charges stem from a 2019 incident.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/10/man-sentenced-to-more-than-50-years-for-criminal-sexual-conduct-that-garnered-10m-bond.html",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 14:43:07 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Ex-teacher accused of criminal sexual conduct dies before trial",
-      "desc": "Matthew Chapin, charged with criminal sexual conduct involving five former students, died before his case could go to trial.",
-      "link": "https://www.mlive.com/news/flint/2026/10/ex-teacher-accused-of-criminal-sexual-conduct-dies-before-trial.html",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 14:28:53 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Kalshi defends Platinum program against scrutiny from Democrats",
       "desc": "Kalshi argued Tuesday that its VIP program and platform are \"fundamentally different\" from those offered by sportsbooks, after several Democratic lawmakers expressed concerns over loyalty programs at ",
       "link": "https://thehill.com/policy/technology/6177573-kalshi-defends-vip-program/",
       "date": "Oct 28, 2026",
       "rawDate": "Wed, 28 Oct 2026 14:12:01 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Grocery chain vows to mark up prices only 10%, lower than Walmart, Costco",
-      "desc": "Chains such as Kroger and Publix don’t have the same margins as a company like Walmart.",
-      "link": "https://www.mlive.com/business/2026/10/grocery-chain-promises-to-mark-up-prices-by-only-10-lower-than-walmart-costco.html",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 14:01:55 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Election forecaster makes major shift in 2026 midterms: One party has ‘slight advantage’",
-      "desc": "Sabato’s Crystal Ball shifted 16 House races, three Senate races and two gubernatorial races toward the Democrats.",
-      "link": "https://www.mlive.com/politics/2026/10/election-forecaster-makes-major-shift-in-2026-midterms-one-party-has-slight-advantage.html",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 13:55:13 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "KISS&#039;s Gene Simmons on AI in music industry: &#039;Learn how to use it, otherwise it will use you&#039;",
-      "desc": "Gene Simmons of KISS fame is urging the music world to get on board with artificial intelligence. The \"Rock and Roll All Nite\" singer was asked about his stance on AI on NewsNation's \"The Hill with Bl",
-      "link": "https://thehill.com/policy/technology/6177465-kiss-gene-simmons-ai-in-music/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 13:53:40 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
     },
@@ -569,15 +641,6 @@
       "tag": "safety"
     },
     {
-      "title": "The Trader Joe's mystery bags that cause a frenzy every November are almost here",
-      "desc": "The $2.99 bags hide 3 surprise city-themed reusable totes and typically sell out within days of arriving in stores.",
-      "link": "https://www.mlive.com/business/2026/10/trader-joes-wildly-popular-3-mystery-bags-are-coming-back-and-fans-are-already-losing-it.html",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 09:00:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Iran hasn&#039;t tried to repair nuclear facilities damaged in US strikes: UN nuclear chief",
       "desc": "(AP) — The head of the U.N. nuclear agency said Tuesday there has been no indication Iran has tried to repair or reconstruct its nuclear facilities damaged in U.S. and Israeli military strikes this ye",
       "link": "https://thehill.com/policy/international/ap-iran-nuclear-facilities-repair-united-nations-rafael-grossi/",
@@ -585,15 +648,6 @@
       "rawDate": "Wed, 28 Oct 2026 02:37:47 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Guardrails Alliance hits Husted over ties to Marc Andreessen in new ad",
-      "desc": "Super PAC Guardrails Alliance will launch a digital ad campaign Wednesday seeking to tie Ohio Sen. Jon Husted (R)'s past support for data centers to campaign donations he received from tech executives",
-      "link": "https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties/",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 23:43:41 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Iran war cost increases to $47 billion",
@@ -828,24 +882,6 @@
       "rawDate": "Mon, 26 Oct 2026 13:49:34 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Marching bands: See our favorite photos from the Portage Northern Marching Invitational",
-      "desc": "MLive was at the state's largest marching band competition over the weekend, capturing photos of 28 high school bands.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/10/marching-bands-see-our-favorite-photos-from-the-portage-northern-marching-invitational.html",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 13:18:33 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "McConnell: Latest Trump bid to end Russia-Ukraine war &#039;certain to fail’",
-      "desc": "Sen. Mitch McConnell (R-Ky.) is warning that President Trump’s efforts to end the war between Russia and Ukraine by “coddling” Russian President Vladimir Putin and limiting assistance to Kyiv is “cert",
-      "link": "https://thehill.com/homenews/senate/6171768-mitch-mcconnell-donald-trump-russia-ukraine/",
-      "date": "Oct 26, 2026",
-      "rawDate": "Mon, 26 Oct 2026 13:00:04 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Open enrollment begins: What Medicare beneficiaries need to know for 2027",

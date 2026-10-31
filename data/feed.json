@@ -1,6 +1,33 @@
 {
-  "generated": "2026-10-31T01:16:50.736Z",
+  "generated": "2026-10-31T07:48:32.080Z",
   "news": [
+    {
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "date": "Oct 31, 2026",
+      "rawDate": "Sat, 31 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+      "desc": "A California federal judge Friday ordered the Trump administration to stop threatening election officials with criminal prosecution in its ongoing efforts to crack down on noncitizen voting. U.S. Dist",
+      "link": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
+      "date": "Oct 31, 2026",
+      "rawDate": "Sat, 31 Oct 2026 03:01:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Health insurance plan costs on Healthcare.gov to rise by double digits in 2027",
+      "desc": "Obamacare enrollees could see their health insurance premiums rise by double digits for a second year in a row, according to a report published Friday. Health research group KFF found the average cost",
+      "link": "https://thehill.com/policy/healthcare/6185863-obamacare-premiums-set-double-2027-analysis/",
+      "date": "Oct 31, 2026",
+      "rawDate": "Sat, 31 Oct 2026 02:06:29 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
     {
       "title": "Ukraine gets approval for Patriot missile sale",
       "desc": "Presented by Palantir {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Ukraine gets approval for Patriot missile sale The State Department approved on Fr",
@@ -155,22 +182,13 @@
       "tag": "technology"
     },
     {
-      "title": "Decision Desk ‘26 midterm preview, powered by 2WAY and The Hill",
-      "desc": "With control of Congress on the line, 2WAY is teaming up with NewsNation and The Hill for a special Sunday evening edition of “The Morning Meeting” ahead of the Nov. 3 midterms. The program will take ",
-      "link": "https://thehill.com/homenews/6185126-2way-midterm-election-preview-the-hill/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 21:03:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Bessent alleges anti-fraud guardrails are &#039;loosest&#039; in blue states",
       "desc": "Treasury Secretary Scott Bessent accused Democratic-led states Friday of having poor fraud prevention mechanisms while at a Minnesota press conference. The state has been at the center of a healthcare",
       "link": "https://thehill.com/homenews/administration/6185348-bessent-accuses-democrats-fraud-loose/",
       "date": "Oct 30, 2026",
       "rawDate": "Fri, 30 Oct 2026 21:03:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
@@ -198,15 +216,6 @@
       "rawDate": "Fri, 30 Oct 2026 20:23:45 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Federal debt surpassed GDP for fiscal 2026",
-      "desc": "The national debt topped the entire gross domestic product (GDP) for fiscal 2026, according to new data from the Bureau of Economic Analysis (BEA). From the fourth quarter of 2025 through the third qu",
-      "link": "https://thehill.com/business/6185236-federal-debt-gdp-bea-cbo-treasury/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 20:13:56 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Democrats open up 10-point lead in final days before midterms: New poll",
@@ -495,15 +504,6 @@
       "rawDate": "Fri, 30 Oct 2026 09:54:56 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "desc": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
-      "link": "https://www.wired.com/story/gifts-for-friends/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 09:33:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Potential Binance &#039;hack&#039; forces crypto firms to freeze $3B",
@@ -909,15 +909,6 @@
       "rawDate": "Tue, 27 Oct 2026 17:36:40 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Sanders, Wyden press insurers on Trump ACA coverage terminations",
-      "desc": "Senate Democrats, led by Sens. Ron Wyden (D-Ore.) and Bernie Sanders (I-Vt.), are pressing 10 major insurance companies about their decisions to work with the Trump administration to terminate coverag",
-      "link": "https://thehill.com/policy/healthcare/6175216-wyden-sanders-target-trump-insurance/",
-      "date": "Oct 27, 2026",
-      "rawDate": "Tue, 27 Oct 2026 16:15:06 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
     }
   ]
 }

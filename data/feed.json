@@ -1,6 +1,42 @@
 {
-  "generated": "2026-11-01T23:25:36.797Z",
+  "generated": "2026-11-02T03:40:04.811Z",
   "news": [
+    {
+      "title": "Democrats edge out Republicans in 7 heated Senate races: NYT polls",
+      "desc": "Democrats are edging out their Republican counterparts in seven competitive Senate races ahead of Tuesday’s election, though the majority of them show statistical ties between the two parties, accordi",
+      "link": "https://thehill.com/homenews/6187749-democrats-edge-out-gop-senate-poll/",
+      "date": "Nov 2, 2026",
+      "rawDate": "Mon, 02 Nov 2026 03:03:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Newsom on possible Democrat &#039;tsunami&#039; on Election Day: &#039;That&#039;s a word I haven&#039;t used lightly&#039;",
+      "desc": "California Gov. Gavin Newsom (D) on Sunday said there's a chance that there could be a massive Democratic victory, or a \"blue tsunami,\" on Election Day, and that there is momentum behind the party to ",
+      "link": "https://thehill.com/homenews/campaign/6187619-gavin-newsom-predicts-democrat-tsunami-election-day/",
+      "date": "Nov 2, 2026",
+      "rawDate": "Mon, 02 Nov 2026 02:09:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats blast Stevens over Michigan &#039;betrayal&#039;",
+      "desc": "Rep. Haley Stevens’s (D-Mich.) last-minute decision to endorse former Rep. Mike Rogers (R) over Democrat Abdul El-Sayed in the Michigan Senate race has outraged Democrats while giving Republicans welc",
+      "link": "https://thehill.com/homenews/campaign/6187640-democrats-blast-stevens-rogers-endorsement-michigan/",
+      "date": "Nov 2, 2026",
+      "rawDate": "Mon, 02 Nov 2026 01:54:30 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Newsom on Stevens: Obviously it&#039;s &#039;sub-optimal&#039;",
+      "desc": "California Gov. Gavin Newsom (D) on Sunday said Rep. Haley Stevens's (D-Mich.) endorsement of Michigan Senate candidate Mike Rogers (R) over Democrat Abdul El-Sayed was \"sub-optimal.\" Newsom spoke on ",
+      "link": "https://thehill.com/homenews/campaign/6187568-gavin-newsom-haley-stevens-sub-optimal/",
+      "date": "Nov 2, 2026",
+      "rawDate": "Mon, 02 Nov 2026 01:24:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "$6.3 billion vanished in minutes. The FBI says it knows who did it.",
       "desc": "The FBI says North Korean hackers stole $6.3 billion in crypto from Binance, the biggest crypto theft on record. Here’s what happened and what comes next.",
@@ -57,7 +93,7 @@
     },
     {
       "title": "Sanders says what Democrats did in Alaska &#039;seems to be pretty dumb&#039;",
-      "desc": "Sen. Bernie Sanders (I-Vt.) said what Democrats did in Alaska “seems to be pretty dumb” following reports the party participated in recruiting another candidate who shared the same name as incumbent S",
+      "desc": "Sen. Bernie Sanders (I-Vt.) said Sunday that what Democrats did in Alaska “seems to be pretty dumb,” following a recent report alleging Mary Peltola, the Democratic nominee in Alaska’s Senate race, an",
       "link": "https://thehill.com/homenews/senate/6187375-sanders-alaska-ballot-stacking/",
       "date": "Nov 1, 2026",
       "rawDate": "Sun, 01 Nov 2026 21:49:03 +0000",
@@ -74,17 +110,8 @@
       "tag": "government"
     },
     {
-      "title": "Social Security email praising Trump may violate Hatch Act",
-      "desc": "Emails sent by the Social Security Administration (SSA) and the Internal Revenue Service (IRS) that praised President Trump may violate the Hatch Act, experts say. “Under President Donald J. Trump, th",
-      "link": "https://thehill.com/homenews/administration/6187284-ssa-irs-hatch-act-trump/",
-      "date": "Nov 1, 2026",
-      "rawDate": "Sun, 01 Nov 2026 20:44:19 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "RNC chair says Republicans have voter turnout problem",
-      "desc": "Republican National Committee (RNC) chair Joe Gruters acknowledged that Republicans are facing issues with voter turnout amid heightened pressure for the GOP to maintain control of Congress. “Is there",
+      "desc": "Republican National Committee (RNC) Chair Joe Gruters acknowledged on Sunday that Republicans are facing issues with voter turnout amid heightened pressure for the GOP to maintain control of Congress.",
       "link": "https://thehill.com/homenews/campaign/6187168-rnc-acknowledges-voter-turnout-issues/",
       "date": "Nov 1, 2026",
       "rawDate": "Sun, 01 Nov 2026 20:01:02 +0000",
@@ -93,7 +120,7 @@
     },
     {
       "title": "RNC says &#039;Michigan should take notice&#039; of Stevens endorsing Rogers",
-      "desc": "The Republican National Committee (RNC) on Sunday said Michigan \"should take notice\" of Rep. Haley Stevens's (D-Mich.) endorsement of her former opponent in the Michigan Senate race Republican Mike Ro",
+      "desc": "The Republican National Committee (RNC) on Sunday said Michigan \"should take notice\" of Rep. Haley Stevens's (D-Mich.) endorsement of the Republican nominee in Michigan’s Senate race, Mike Rogers. \"Wh",
       "link": "https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support/",
       "date": "Nov 1, 2026",
       "rawDate": "Sun, 01 Nov 2026 20:00:39 +0000",
@@ -110,8 +137,8 @@
       "tag": "government"
     },
     {
-      "title": "Trump commends Stevens&#039; &#039;bravery&#039; for endorsing Rogers",
-      "desc": "President Trump on Sunday commended Rep. Haley Stevens (D-Mich.) for her endorsement of GOP Senate candidate former Rep. Mike Rogers (Mich.). “Wow, this is BIG! Congresswoman Haley Stevens, a Highly R",
+      "title": "Trump commends Stevens&#039;s &#039;bravery&#039; for endorsing Rogers",
+      "desc": "President Trump on Sunday commended Rep. Haley Stevens (D-Mich.) for her endorsement of the Republican nominee in Michigan’s Senate race, former Rep. Mike Rogers (R-Mich.). “Wow, this is BIG! Congress",
       "link": "https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement/",
       "date": "Nov 1, 2026",
       "rawDate": "Sun, 01 Nov 2026 19:52:39 +0000",
@@ -120,19 +147,10 @@
     },
     {
       "title": "Schumer calls Stevens&#039;s Rogers endorsement &#039;a despicable betrayal&#039;",
-      "desc": "Senate Minority Leader Chuck Schumer (D-N.Y.) ripped Rep. Haley Stevens (D-Mich.) over her eleventh hour endorsement of Republican Mike Rogers in the competitive Michigan Senate contest. \"This is a de",
+      "desc": "Senate Minority Leader Chuck Schumer (D-N.Y.) ripped Rep. Haley Stevens (D-Mich.) over her eleventh-hour endorsement of Republican candidate Mike Rogers in the competitive Michigan Senate contest. “Th",
       "link": "https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement/",
       "date": "Nov 1, 2026",
       "rawDate": "Sun, 01 Nov 2026 19:48:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "DNC chair defends El-Sayed, Peltola as Democrats brace for post-election legal fights",
-      "desc": "Democratic National Committee (DNC) Chair Ken Martin defended Democratic Senate candidates Abdul El-Sayed and former Rep. Mary Peltola (D-Alaska) against recent GOP attacks amid growing concern the pa",
-      "link": "https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates/",
-      "date": "Nov 1, 2026",
-      "rawDate": "Sun, 01 Nov 2026 19:42:36 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -143,33 +161,6 @@
       "date": "Nov 1, 2026",
       "rawDate": "Sun, 01 Nov 2026 19:31:54 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "El-Sayed brushes off late Stevens endorsement of Rogers",
-      "desc": "Michigan Senate Democratic candidate Abdul El-Sayed brushed off his former rival Haley Stevens’s surprising and late endorsement of GOP nominee Mike Rogers, saying on Sunday it didn’t matter and that ",
-      "link": "https://thehill.com/homenews/campaign/6187116-el-sayed-dismisses-stevens-rogers-endorsement/",
-      "date": "Nov 1, 2026",
-      "rawDate": "Sun, 01 Nov 2026 19:21:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Stevens defends surprise Rogers endorsement: &#039;I&#039;m not turning my back on Democrats&#039;",
-      "desc": "Democratic Rep. Haley Stevens (Mich.) defended her last-minute endorsement of Republican Mike Rogers in the battleground Michigan Senate race after initially supporting Democrat Abdul El-Sayed \"I'm no",
-      "link": "https://thehill.com/homenews/campaign/6187043-stevens-defends-rogers-endorsement/",
-      "date": "Nov 1, 2026",
-      "rawDate": "Sun, 01 Nov 2026 19:02:12 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump says he&#039;ll become &#039;Mr. Veto&#039; if Democrats take Congress",
-      "desc": "President Trump said his strategy if the GOP loses control of the House and Senate would be to “become Mr. Veto.” “Well, if that happens, I guess I’ll become Mr. Veto. I’m not going to let them throug",
-      "link": "https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy/",
-      "date": "Nov 1, 2026",
-      "rawDate": "Sun, 01 Nov 2026 19:01:40 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {

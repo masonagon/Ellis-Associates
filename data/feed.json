@@ -1,14 +1,302 @@
 {
-  "generated": "2026-11-03T18:52:48.917Z",
+  "generated": "2026-11-03T23:49:05.040Z",
   "news": [
     {
-      "title": "Wright: &#8216;The best cure for high prices is high prices&#8217;",
-      "desc": "Energy Secretary Chris Wright said Tuesday that high energy prices will soon come down, citing a boost in U.S. production.  During an interview on Fox Business’s “Big Money in the Morning,” Wright sai",
-      "link": "https://thehill.com/business/6192862-chris-wright-energy-prices-affordability-iran-war/",
+      "title": "DOJ sends target letters in Alaska probe to 20 Democrats",
+      "desc": "The Department of Justice (DOJ) has sent letters to 20 Democrats informing them they are being looked at as part of investigation into ballot-stacking in Alaska, The New York Times reported Tuesday.  ",
+      "link": "https://thehill.com/homenews/campaign/6194509-doj-investigates-alaska-ballot-stacking/",
       "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 18:29:12 +0000",
+      "rawDate": "Tue, 03 Nov 2026 23:42:56 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Election night could give Dems the power to probe",
+      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Democrats eye investigations of Trump's DC projects If Democrats take back one or both chambers, they’ll unlock a sw",
+      "link": "https://thehill.com/newsletters/energy-environment/6194443-election-night-could-give-dems-the-power-to-probe/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:41:49 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: See all Genesee County Nov. 3 election results here",
+      "desc": "The polls have closed in Genesee County, with voters deciding key state and local races and weighing in on a variety of ballot proposals.",
+      "link": "https://www.mlive.com/politics/2026/11/live-results-see-all-genesee-county-nov-3-election-results-here.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:38:42 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump issues Election Day proclamations on space, communism",
+      "desc": "President Trump marked Election Day by issuing two proclamations on space and anti-communism Tuesday.  The president signed \"the American Declaration of Freedom in Space,” which states Earth’s solar s",
+      "link": "https://thehill.com/homenews/6194490-trump-space-communism-proclamation/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:32:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan U.S. House election results",
+      "desc": "See live election results for U.S. House districts across the state.",
+      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-us-house-election-results.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:30:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump-backed Kentucky Republican wins Massie House seat",
+      "desc": "Republican Ed Gallrein, a retired Navy SEAL and farmer, is projected to win in the race to represent Kentucky’s 4th Congressional District, a seat currently held by President Trump critic Rep. Thomas ",
+      "link": "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:20:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan statewide ballot proposal election results",
+      "desc": "See live election results for Proposals 1 and 2.",
+      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-statewide-ballot-proposal-election-results.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:15:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Angry voters, a war with Iran and soaring gas prices: What to watch as midterm results roll in",
+      "desc": "Trump is not on the ballot, but there’s reason to believe Tuesday’s midterms will be a referendum on his performance over the last two years.",
+      "link": "https://www.mlive.com/politics/2026/11/cost-of-living-corruption-top-issues-and-voters-in-the-mood-for-change-early-election-takeaways.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:13:38 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Carville predicts &#039;astronomical&#039; Black turnout will drive midterm results",
+      "desc": "Democratic strategist James Carville predicted an “astronomical” Black turnout would drive Tuesday’s midterm elections amid election forecasters anticipating a “blue wave.” “When I look around at cand",
+      "link": "https://thehill.com/homenews/campaign/6194361-carville-predicts-strong-black-turnout-midterms/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:06:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Big Tech, environmental groups in talks for potential data center framework",
+      "desc": "Environmental activists and Big Tech appear to be working jointly on a framework for data center development, according to a document reviewed by The Hill. The document states that the organizations a",
+      "link": "https://thehill.com/policy/energy-environment/6194368-big-tech-environmental-groups-ai-data-center-framework/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:05:55 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump turns off Fox News over Tarlov&#039;s &#039;dumb voice&#039;",
+      "desc": "President Trump said he was forced to turn off Fox News Tuesday as he was watching the channel for election night updates because of a segment on \"The Five\" featuring liberal pundit Jessica Tarlov. \"I",
+      "link": "https://thehill.com/homenews/media/6194311-trump-attacks-jessica-tarlov-voice/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:03:08 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Polls begin to close in Indiana, Kentucky as battle for Congress heats up",
+      "desc": "Election Day is here, with President Trump’s political capital on the line as Democrats eye a potential blue wave and Republicans scramble to defend their congressional majorities. Trump has campaigne",
+      "link": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:01:33 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: See all Saginaw County Nov. 3, 2026 election results here",
+      "desc": "See live unofficial results for the Nov. 3 midterm election in Saginaw County.",
+      "link": "https://www.mlive.com/politics/2026/11/live-results-see-all-saginaw-county-nov-3-2026-election-results-here.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:01:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan House election results: Grand Rapids, Kalamazoo, west side",
+      "desc": "See live election results for state House districts along the west side of the state, from Kalamazoo to Muskegon.",
+      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-house-election-results-grand-rapids-kalamazoo-west-side.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live results: Bay County election Nov. 3, 2026",
+      "desc": "Voters in the 2026 general election will weigh in on races for several political offices—federally, statewide and locally—as well as millage proposals and renewals.",
+      "link": "https://www.mlive.com/politics/2026/11/bay-county-election-results-for-nov-3-2026.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Early turnout surge credited with smoother Election Day",
+      "desc": "Some voters were disrupted by weather, machine issues.",
+      "link": "https://www.mlive.com/politics/2026/11/election-day-sees-few-disruptions-despite-trumps-interference-push.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:54:50 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Officials first blamed the paper. They were wrong 🗳️",
+      "desc": "Westchester ballot scanners failed on Election Day. A barcode error is to blame, and up to 250,000 ballots wait in emergency bags to be counted.",
+      "link": "https://www.mlive.com/news/2026/11/why-did-voting-machines-in-this-new-york-county-keep-rejecting-ballots.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:53:55 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan House election results: Ann Arbor, Lansing, Jackson areas",
+      "desc": "See live election results for state House districts in south central Michigan.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/2026-michigan-house-election-results-ann-arbor-lansing-jackson-areas.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:50:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Learjet&#039;s parts may have broken off before Florida crash: Investigators",
+      "desc": "A small aircraft that crashed in Florida on Sunday likely partially broke apart in the air before taking a nosedive, a federal investigator said Monday, according to The Associated Press. A business L",
+      "link": "https://thehill.com/homenews/state-watch/6194328-florida-learjet-crash-investigation/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:49:37 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Learjet&#8217;s parts may have broken off before Florida crash: Investigators",
+      "desc": "A small aircraft that crashed in Florida on Sunday likely partially broke apart in the air before taking a nosedive, a federal investigator said Monday, according to The Associated Press. A business L",
+      "link": "https://thehill.com/homenews/state-watch/6194328-florida-learjet-crash-investigation/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:49:37 +0000",
       "source": "The Hill Economy",
       "tag": "associations"
+    },
+    {
+      "title": "Anger over prices, corruption drives midterm turnout",
+      "desc": "The AP Voter Poll found the midterm electorate is deeply unhappy with the country’s direction and feels pessimistic about the future.",
+      "link": "https://www.mlive.com/politics/2026/11/midterm-elections-are-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:46:21 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan House election results: Flint, Saginaw, Bay City to the U.P.",
+      "desc": "See live election results for state House districts from Flint to Northern Michigan.",
+      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-house-election-results-flint-saginaw-bay-city-to-the-up.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:45:30 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2026 Michigan House election results: Metro Detroit",
+      "desc": "See live election results for state House districts in Metro Detroit and Southeast Michigan.",
+      "link": "https://www.mlive.com/news/detroit/2026/11/2026-michigan-house-election-results-metro-detroit.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:42:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI firms face pressure to curb Election Day misinformation",
+      "desc": "{beacon} Technology Technology &#8202; The Big Story  How AI firms prepared for Election Day Taking a page out of social media firms' playbook, artificial intelligence firms are on high alert for Elec",
+      "link": "https://thehill.com/newsletters/technology/6194293-ai-firms-face-pressure-to-curb-election-day-misinformation/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:32:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "No injuries after gun goes off in Kalamazoo domestic dispute",
+      "desc": "A man was arrested after a domestic dispute on Woodward Avenue escalated into a felonious assault, with a firearm discharged but no injuries reported.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/11/police-arrest-suspect-after-firearm-discharged-in-kalamazoo-domestic-dispute.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:27:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "How does inflation compare to past midterm cycles?",
+      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; How does inflation compare to past midterm cycles? K",
+      "link": "https://thehill.com/newsletters/business-economy/6194251-how-does-inflation-compare-to-past-midterm-cycles/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:22:10 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Democratic Iowa Senate candidate says he split his ticket",
+      "desc": "Iowa Senate candidate state Rep. Josh Turek (D) said he voted for three Republicans when he cast his ballot Tuesday.  Asked whether he voted straight down the ballot for Democrats, Turek said he voted",
+      "link": "https://thehill.com/homenews/6194223-iowa-senate-josh-turek-ticket-splitting/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 22:19:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Charges authorized against woman who shoved conservative commentor",
+      "desc": "The woman has not yet been arraigned.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/charges-authorized-against-woman-who-shoved-conservative-commentor.html",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 21:55:17 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Binance says malicious code, fake job interview led to $6.3B hack",
+      "desc": "Binance said Tuesday that a $6.3 billion hack of the world's largest cryptocurrency exchange was the result of a \"multi-stage campaign,\" including a malicious software download and a fake job intervie",
+      "link": "https://thehill.com/policy/technology/6194069-binance-hack-north-korea-tradertraitor/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 21:44:38 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "ChatGPT provided Democracy Works info to voters more than 16 million times this cycle",
+      "desc": "OpenAI’s ChatGPT gave users Election Day and voting information more than 16 million times this midterm cycle through a partnership with the nonprofit Democracy Works. As of Tuesday afternoon, OpenAI ",
+      "link": "https://thehill.com/policy/technology/6194056-openai-chatgpt-democracy-works-election-info/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 21:39:26 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
+      "desc": "Influencers, watchdogs, and MAGA pundits are convinced that election fraud is everywhere today, despite a lack of apparent evidence.",
+      "link": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 21:11:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "desc": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
+      "link": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 19:04:58 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "North Korea calls US accusation over Binance heist a &#039;provocation&#039;",
+      "desc": "North Korea denied any involvement in the recent $6.3 billion hack of cryptocurrency exchange platform Binance despite the FBI attributing the cyberattack to the country over the weekend. In a stateme",
+      "link": "https://thehill.com/policy/technology/6193114-north-korea-denies-binance-hack/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 18:55:17 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Prosecutors twice warned this man would kill his wife. She turned herself in after shooting him, police say",
@@ -18,42 +306,6 @@
       "rawDate": "Tue, 03 Nov 2026 18:28:24 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Gas prices reach record high for an Election Day",
-      "desc": "Gas prices today are at a record high for an Election Day, hovering at an average of $4.11 a gallon nationally as of Tuesday afternoon, according to GasBuddy. The previous record for Election Day gas ",
-      "link": "https://thehill.com/policy/energy-environment/6193013-election-day-record-gas-prices/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 18:23:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Young voters could help shape the midterms. But will they turn out?",
-      "desc": "Advocates are enthusiastic about the potential for increased youth voter turnout in key races in Tuesday's midterms.   The economy, the Trump administration, AI and data centers have all sparked a fir",
-      "link": "https://thehill.com/homenews/campaign/6189470-young-voters-gen-z-midterm-elections-election-day/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 18:22:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Young voters in this town got their own precinct, ballot boxes and the cutest voting question",
-      "desc": "Children in Allendale experienced the full voting process, from checking in to dropping ballots into a box marked \"Kids Ballot Here.\"",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/young-voters-in-this-town-got-their-own-precinct-ballot-boxes-and-the-cutest-voting-question.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 18:07:13 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Say goodbye: More states banning soda, candy purchases despite court ruling",
-      "desc": "Despite a federal court ruling that the USDA overstepped its authority, multiple states continue enforcing SNAP food restriction waivers that limit purchases of soda and candy. Here's which states joi",
-      "link": "https://www.mlive.com/news/2026/11/say-goodbye-more-states-banning-soda-candy-purchases-despite-court-ruling.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 18:06:49 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
@@ -74,51 +326,6 @@
       "tag": "safety"
     },
     {
-      "title": "Transparent, approved and stoppable: A standard for government’s use of AI",
-      "desc": "As hundreds of new lawmakers prepare to take office in January, experts are calling for immediate legislative action to ensure government use of artificial intelligence is transparent, approved and st",
-      "link": "https://thehill.com/opinion/technology/6191080-lawmakers-must-regulate-government-ai/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 18:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "GOP eyes arcane maneuver to keep elected democratic socialists out of Congress",
-      "desc": "“We must enforce the Constitution as written.”",
-      "link": "https://www.mlive.com/politics/2026/11/gop-eyes-arcane-maneuver-to-keep-elected-democratic-socialists-out-of-congress.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:59:48 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Florida Gov. explains why Republicans could lose the midterms: ‘You’re gaslighting them’",
-      "desc": "DeSantis told sports radio show host Stephen A. Smith on Monday that the Iran war has been a “drag” on Republicans in the 2026 midterm elections.",
-      "link": "https://www.mlive.com/politics/2026/11/florida-gov-explains-why-republicans-could-lose-the-midterms-youre-gaslighting-them.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:59:07 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "91-year-old woman’s election day shirt goes viral after video resurfaces",
-      "desc": "\"You had to choose between eating or voting.\"",
-      "link": "https://www.mlive.com/news/2026/11/91-year-old-womans-election-day-shirt-goes-viral-after-video-resurfaces.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:56:02 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Election Day is finally here!",
-      "desc": "Plus:🥪National Sandwich Day deserves the spotlight, too {beacon} It’s Tuesday and Election Day. Go vote! Then come back to read breaking updates from The Hill — and we’re going all night long.  &#820",
-      "link": "https://thehill.com/newsletters/1230-report/6192905-election-day-is-finally-here/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:51:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Pedestrian, 23, killed after being struck by multiple vehicles in Norton Shores",
       "desc": "Police are searching for a vehicle that may have left the scene after a 23-year-old pedestrian was struck and killed.",
       "link": "https://www.mlive.com/news/muskegon/2026/11/pedestrian-23-killed-after-being-struck-by-multiple-vehicles-in-norton-shores.html",
@@ -126,15 +333,6 @@
       "rawDate": "Tue, 03 Nov 2026 17:49:39 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump just gave his final pitch to voters: ‘We’re hot now’",
-      "desc": "The president touted economic gains and border control while predicting better-than-expected results for Republicans.",
-      "link": "https://www.mlive.com/politics/2026/11/trump-just-gave-his-final-pitch-to-voters-were-hot-now.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:46:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "All KFC and Taco Bell restaurants in major island market to close",
@@ -155,33 +353,6 @@
       "tag": "safety"
     },
     {
-      "title": "Abbott: Hinojosa &#039;makes Talarico look almost conservative&#039;",
-      "desc": "Texas Gov. Greg Abbott (R) blasted his Democratic opponent, Gina Hinojosa, ahead of Election Day, calling her “the number one most radical leftist” in the state House — a final pitch to undecided vote",
-      "link": "https://thehill.com/homenews/campaign/6192670-abbott-attacks-hinojosa-texas-radical/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:31:03 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump’s tariff claims need evidence, not a rubber stamp",
-      "desc": "Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president’s conclusions.",
-      "link": "https://thehill.com/opinion/international/6190755-itc-trump-canada-tariffs/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michigan polls see strong early voting, busy election day",
-      "desc": "State officials say the first three hours of voting went smoothly despite some typical equipment issues with tabulator machines. About 1.7 million absentee ballots had been returned by mid-morning.",
-      "link": "https://www.mlive.com/politics/2026/11/michigan-polls-see-strong-early-voting-busy-election-day.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:21:29 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "New York reports first measles-associated death in more than 30 years",
       "desc": "A child in upstate New York died after contracting measles, according to health officials, the first measles-related death in the state in more than 30 years.  The child lived in Lewis County, a rural",
       "link": "https://thehill.com/policy/healthcare/6192756-new-york-first-measles-death/",
@@ -189,69 +360,6 @@
       "rawDate": "Tue, 03 Nov 2026 17:21:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Montana live results: 2026 Senate election",
-      "desc": "Republican Kurt Alme is facing off against Democrat Alani Bankhead and independent Seth Bodnar in the race to succeed retiring Sen. Steve Daines (R) in Montana.  This is the first open race for the up",
-      "link": "https://thehill.com/homenews/senate/6116036-montana-live-results-2026-senate-election/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Nebraska live results: 2026 Senate election",
-      "desc": "Sen. Pete Ricketts (R) is running for a second term representing the Cornhusker State in Congress.  He faces a tough challenge from Independent Dan Osborn, who narrowly lost to Sen. Deb Fischer (R) in",
-      "link": "https://thehill.com/homenews/senate/6116051-nebraska-live-results-2026-senate-election/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Nebraska live results: 2026 governor&#039;s election",
-      "desc": "Nebraska Gov. Jim Pillen (R) is seeking a second term at the helm of the Cornhusker State.  The veterinarian is facing off against Democrat Lynne Walz, a former state senator and 2018 lieutenant gover",
-      "link": "https://thehill.com/homenews/campaign/6116080-nebraska-live-results-2026-governors-election/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New York live results: 2026 governor&#039;s election",
-      "desc": "New York Gov. Kathy Hochul (D) is running for her second full term leading the Empire State.  She’s duking it out against Republican Bruce Blakeman, who is backed by President Trump.  Polls close at 9",
-      "link": "https://thehill.com/homenews/campaign/6125962-new-york-live-results-2026-governors-election/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ohio live results: 2026 Senate election",
-      "desc": "Former Sen. Sherrod Brown (D) is mounting a comeback bid as he takes on GOP Sen. Jon Husted in Ohio.  Brown, who lost to Sen. Bernie Moreno in 2024, has been neck and neck with Husted in the polls ahe",
-      "link": "https://thehill.com/homenews/senate/6125980-ohio-live-results-2026-senate-election/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ohio live results: 2026 governor&#039;s election",
-      "desc": "Democrats are hopeful they can take back the governor’s mansion in Ohio for the first time in more than a decade Tuesday. Democrat Amy Acton is facing off against Republican Vivek Ramaswamy to succeed",
-      "link": "https://thehill.com/homenews/campaign/6125988-ohio-live-results-2026-governors-election/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Georgia live results: 2026 governor&#8217;s election",
-      "desc": "Georgians on Tuesday pick their next governor with incumbent two-term Gov. Brian Kemp (R) ineligible to seek reelection. Republicans nominated businessman Rick Jackson to keep the governor&#8217;s man",
-      "link": "https://thehill.com/homenews/state-watch/6155072-georgia-live-results-2026-governors-election/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Beloved steakhouse chain’s largest US franchisee files for bankruptcy",
@@ -297,33 +405,6 @@
       "rawDate": "Tue, 03 Nov 2026 15:41:23 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Hillary Clinton 'optimistic' but 'worried' ahead of midterms",
-      "desc": "Hillary Clinton warned Democrats that President Donald Trump will be “out of control” if Republicans lose the midterms.",
-      "link": "https://www.mlive.com/politics/2026/11/hillary-clinton-warns-trump-will-be-out-of-control-if-this-party-wins.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 15:36:23 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Former MAGA darling rips Trump’s closing midterm message: ‘I was very disappointed’",
-      "desc": "Former Georgia Republican Congresswoman Marjorie Taylor Greene said Trump lost focus on the \"real things\" affecting Americans.",
-      "link": "https://www.mlive.com/politics/2026/11/former-maga-darling-rips-trumps-closing-midterm-message-i-was-very-disappointed.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 15:19:42 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Buttigieg agrees with top Republican: This is what’s at stake in midterms",
-      "desc": "GOP leader “may have said it best.”",
-      "link": "https://www.mlive.com/politics/2026/11/buttigieg-agrees-with-top-republican-this-is-whats-at-stake-in-midterms.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 14:59:13 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "15 people displaced by early morning fire outside Ypsilanti",
@@ -497,30 +578,12 @@
       "tag": "safety"
     },
     {
-      "title": "Woman arrested after husband found dead in Buena Vista Township home",
-      "desc": "Police found the body of a 37-year-old man inside his home on South 25th Street, dead from at least one gunshot wound.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/buena-vista-woman-walks-into-police-station-says-she-killed-her-husband.html",
-      "date": "Nov 2, 2026",
-      "rawDate": "Mon, 02 Nov 2026 22:26:32 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Trump, Hegseth underwater on approval from military members, veterans: Poll",
       "desc": "President Trump and Secretary of Defense Pete Hegseth are underwater in their approval ratings with veterans and military members, according to a poll conducted by Common Defense.  In a survey of 731 ",
       "link": "https://thehill.com/homenews/administration/6190005-trump-hegseth-military-approval-ratings/",
       "date": "Nov 2, 2026",
       "rawDate": "Mon, 02 Nov 2026 21:09:05 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Attorney sent to prison for secretly recording naked child",
-      "desc": "The attorney, whose state Bar Association license was suspended, told police: \"It was very, very stupid.\"",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/attorney-sent-to-prison-for-secretly-recording-naked-child.html",
-      "date": "Nov 2, 2026",
-      "rawDate": "Mon, 02 Nov 2026 21:04:37 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -794,15 +857,6 @@
       "tag": "education"
     },
     {
-      "title": "North Korea linked to $6.3B Binance hack",
-      "desc": "A North Korea-based cybercrime group appears to be behind a $6.3 billion hack of the cryptocurrency exchange Binance, according to two blockchain intelligence firms. Both TRM Labs and Chainalysis tied",
-      "link": "https://thehill.com/policy/technology/6184178-north-korea-binance-crypto-hack/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 15:40:09 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "State Board of Education to hold November meeting in Flint area",
       "desc": "The State Board of Education will hold its November meeting in the Flint area as part of an effort to improve public engagement across Michigan.",
       "link": "https://www.mlive.com/news/flint/2026/10/state-board-of-education-to-hold-november-meeting-in-flint-area.html",
@@ -837,24 +891,6 @@
       "rawDate": "Fri, 30 Oct 2026 10:00:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Backlash against AI data centers threatens GOP&#039;s grip on Ohio, Texas",
-      "desc": "The importance of AI data centers is growing this election cycle as the fight over the infrastructure's costs and environmental impacts may be threatening Republicans in battleground states like Texas",
-      "link": "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Starlink drama puts spotlight on Musk&#039;s global stature",
-      "desc": "Elon Musk and his business's role in a recent dispute over Ukraine's access to Starlink and its military network is putting a spotlight on the tech mogul's outsized influence on the international stag",
-      "link": "https://thehill.com/policy/technology/6182701-musk-starlink-ukraine-controversy-global-influence/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Trump administration&#039;s definition of &#039;medically frail&#039; unlawful, according to federal judge",

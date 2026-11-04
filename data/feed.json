@@ -1,86 +1,293 @@
 {
-  "generated": "2026-11-03T23:49:05.040Z",
+  "generated": "2026-11-04T04:08:03.835Z",
   "news": [
     {
-      "title": "DOJ sends target letters in Alaska probe to 20 Democrats",
-      "desc": "The Department of Justice (DOJ) has sent letters to 20 Democrats informing them they are being looked at as part of investigation into ballot-stacking in Alaska, The New York Times reported Tuesday.  ",
-      "link": "https://thehill.com/homenews/campaign/6194509-doj-investigates-alaska-ballot-stacking/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:42:56 +0000",
+      "title": "Merkley wins reelection bid for Oregon Senate seat",
+      "desc": "Oregon Sen. Jeff Merkley (D) is projected to win reelection after a smooth race, according to The Hill's partner Decision Desk HQ (DDHQ). Merkley was leading Republican David Brock Smith by 21 percent",
+      "link": "https://thehill.com/homenews/campaign/6176126-merkley-wins-oregon-senate-race/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 04:07:40 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Election night could give Dems the power to probe",
-      "desc": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Democrats eye investigations of Trump's DC projects If Democrats take back one or both chambers, they’ll unlock a sw",
-      "link": "https://thehill.com/newsletters/energy-environment/6194443-election-night-could-give-dems-the-power-to-probe/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:41:49 +0000",
+      "title": "GOP New Jersey Rep. Van Drew loses to Democrat Zack Mullock",
+      "desc": "Rep. Jeff Van Drew (R-N.J.), who originally entered the House as a Democrat before President Trump's first impeachment, lost to Democrat Zack Mullock in the race to lead New Jersey's 2nd Congressional",
+      "link": "https://thehill.com/homenews/campaign/6195954-jeff-van-drew-loses-nj-race/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 04:05:45 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Live results: See all Genesee County Nov. 3 election results here",
-      "desc": "The polls have closed in Genesee County, with voters deciding key state and local races and weighing in on a variety of ballot proposals.",
-      "link": "https://www.mlive.com/politics/2026/11/live-results-see-all-genesee-county-nov-3-election-results-here.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:38:42 +0000",
+      "title": "Jacqui Irwin holds onto retiring Brownley&#039;s House seat for Democrats",
+      "desc": "Democrat Jacqui Irwin (D), a state assemblymember, is projected to replace retiring Rep. Julia Brownley (D-Calif.) and lead California's 26th Congressional District, according to preliminary results f",
+      "link": "https://thehill.com/homenews/campaign/6158877-jacqui-irwin-california-26th-district/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 04:05:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrat ousts De la Cruz in key Texas House race, flipping battleground seat",
+      "desc": "Democrat and Tejano music star Bobby Pulido will defeat Republican Rep. Monica De la Cruz in the race for Texas’s 15th Congressional District, Decision Desk HQ projects, a big win for Democrats in a k",
+      "link": "https://thehill.com/homenews/campaign/6176541-bobby-pulido-defeats-monica-delacruz/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 04:04:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP hopeful Eric Barlow wins Wyoming governor&#039;s race",
+      "desc": "Wyoming state Sen. Eric Barlow (R) is projected to defeat Democrat Ken Casner and Constitution Party candidate Rebecca Bextel in the state's gubernatorial race, according to Decision Desk HQ (DDHQ). B",
+      "link": "https://thehill.com/homenews/campaign/6185100-eric-barlow-wins-wyoming-governors-race-2026/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 04:03:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hagerty wins second Senate term in Tennessee",
+      "desc": "Tennessee Sen. Bill Hagerty (R) is projected to secure a second term in the upper chamber, according to Decision Desk HQ. Hagerty, the former U.S. ambassador to Japan, defeated Democrat Marquita Brads",
+      "link": "https://thehill.com/homenews/campaign/6152346-hagerty-wins-tennessee-senate-race/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:59:05 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kristi Noem blames GOP election results on Trump&#039;s first year successes",
+      "desc": "Former Homeland Security Secretary Kristi Noem said Tuesday the second Trump administration was “too successful” in its first year, a comment which came as unfavorable GOP election outcomes rolled in.",
+      "link": "https://thehill.com/homenews/6195841-noem-trump-administration-success-midterm-results/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:58:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "See vote results for Ann Arbor District Library board race",
+      "desc": "Three of the seven seats on the Ann Arbor District Library’s governing board were up for grabs.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/see-vote-results-for-ann-arbor-district-library-board-race.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:57:55 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
     {
-      "title": "Trump issues Election Day proclamations on space, communism",
-      "desc": "President Trump marked Election Day by issuing two proclamations on space and anti-communism Tuesday.  The president signed \"the American Declaration of Freedom in Space,” which states Earth’s solar s",
-      "link": "https://thehill.com/homenews/6194490-trump-space-communism-proclamation/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:32:22 +0000",
+      "title": "Democrat Benson wins race to succeed Whitmer in Michigan",
+      "desc": "Michigan Secretary of State Jocelyn Benson (D) is projected to defeat Republican Rep. John James in the state’s gubernatorial race, according to Decision Desk HQ (DDHQ). Benson was leading by 11 perce",
+      "link": "https://thehill.com/homenews/campaign/6185520-benson-wins-michigan-governor-election/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:51:41 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "2026 Michigan U.S. House election results",
-      "desc": "See live election results for U.S. House districts across the state.",
-      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-us-house-election-results.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:30:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump-backed Kentucky Republican wins Massie House seat",
-      "desc": "Republican Ed Gallrein, a retired Navy SEAL and farmer, is projected to win in the race to represent Kentucky’s 4th Congressional District, a seat currently held by President Trump critic Rep. Thomas ",
-      "link": "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:20:09 +0000",
+      "title": "Adam Hamilton flips Senate seat blue in Kansas",
+      "desc": "Adam Hamilton, a Democrat and pastor, is projected to win the Senate race in Kansas, according to Decision Desk HQ (DDHQ), all but ensuring a Senate majority for his party. Hamilton will unseat incumb",
+      "link": "https://thehill.com/homenews/campaign/6182761-democrat-adam-hamilton-flips-kansas-senate-seat-2026-midterms/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:51:26 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "2026 Michigan statewide ballot proposal election results",
-      "desc": "See live election results for Proposals 1 and 2.",
-      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-statewide-ballot-proposal-election-results.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:15:00 +0000",
+      "title": "Dingell fends off 5 challengers to win 7th term in Congress",
+      "desc": "Dingell fended off five challengers in the Nov. 3 election to win her seventh term.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/dingell-fends-off-5-challengers-to-win-7th-term-in-congress.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:47:01 +0000",
       "source": "MLive Politics",
       "tag": "government"
     },
     {
-      "title": "Angry voters, a war with Iran and soaring gas prices: What to watch as midterm results roll in",
-      "desc": "Trump is not on the ballot, but there’s reason to believe Tuesday’s midterms will be a referendum on his performance over the last two years.",
-      "link": "https://www.mlive.com/politics/2026/11/cost-of-living-corruption-top-issues-and-voters-in-the-mood-for-change-early-election-takeaways.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:13:38 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Carville predicts &#039;astronomical&#039; Black turnout will drive midterm results",
-      "desc": "Democratic strategist James Carville predicted an “astronomical” Black turnout would drive Tuesday’s midterm elections amid election forecasters anticipating a “blue wave.” “When I look around at cand",
-      "link": "https://thehill.com/homenews/campaign/6194361-carville-predicts-strong-black-turnout-midterms/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:06:38 +0000",
+      "title": "Figures defends redrawn Alabama House seat in major victory for Democrats",
+      "desc": "Alabama Rep. Shomari Figures (D) is projected to win a second term on Capitol Hill in a major blow to the GOP, according to Decision Desk HQ (DDHQ).  Figures defeated GOP state Rep. Rhett Marques for ",
+      "link": "https://thehill.com/homenews/campaign/6175029-figures-wins-alabama-house-reelection/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:45:50 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Former local news anchor Stelson unseats Perry in Pennsylvania&#039;s 10th District",
+      "desc": "Rep. Scott Perry (R-Pa.), an ally to President Trump, is projected to lose to Democratic opponent Janelle Stelson, according to The Hill’s election partner Decision Desk HQ (DDHQ). Perry has represent",
+      "link": "https://thehill.com/homenews/campaign/6175580-janelle-stelson-pennsylvania-10th-district/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:44:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrat Don Leonard flips GOP-held Ohio House seat",
+      "desc": "Democrat Don Leonard is projected to win Ohio's 15th District, according to Decision Desk HQ (DDHQ). Leonard defeated incumbent Rep. Mike Carey (R-Ohio), delivering Democrats a pickup in a district Re",
+      "link": "https://thehill.com/homenews/campaign/6175545-don-leonard-flips-ohio-house-seat-2026/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:44:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ann Arbor voters favor Democrats over independents in 3 contested city races",
+      "desc": "Ann Arbor voters decided three contested city races in the Nov. 3 election.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/ann-arbor-voters-favor-democrats-over-independents-in-3-contested-city-races.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:41:32 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Deb Haaland wins New Mexico governor&#039;s race",
+      "desc": "Democrat Deb Haaland is projected to defeat her Republican opponent Gregg Hull in New Mexico's gubernatorial race, according to Decision Desk HQ (DDHQ). Haaland, who served as Interior secretary under",
+      "link": "https://thehill.com/homenews/campaign/6185035-deb-haaland-wins-new-mexico-governors-race-2026/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:38:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hannity: Election results would have been &#039;100 percent&#039; different without Iran war",
+      "desc": "Fox News host Sean Hannity conceded the U.S. war with Iran was a major factor driving the GOP's sweeping losses in this week's midterm elections. \"I think 100 percent, I don't think there's any doubt ",
+      "link": "https://thehill.com/homenews/media/6195699-hannity-blames-iran-war-gop-losses/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:38:09 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Cotton wins third term in Senate for Arkansas",
+      "desc": "Sen. Tom Cotton (R-Ark.) won his reelection campaign in Arkansas, securing a third term in the Senate, according to Decision Desk HQ.  The outcome comes after many polls predicted Cotton would overcom",
+      "link": "https://thehill.com/homenews/campaign/6188269-cotton-wins-third-term-in-senate-for-arkansas/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:35:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jeremy Moss wins Michigan’s 11th Congressional District",
+      "desc": "Tuesday's results aren’t officials until the state board of canvassers, which meets Nov. 23 in Lansing, certifies the vote totals.",
+      "link": "https://www.mlive.com/news/detroit/2026/11/ap-declares-jeremy-moss-michigans-11th-congressional-district-winner.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:27:17 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Spirits high among Rogers supporters as Michigan Senate results roll in",
+      "desc": "A couple hundred GOP hopefuls began to fill a Detroit hotel space late Tuesday, hunkering down to wait for the results of Michigan’s statewide elections.",
+      "link": "https://www.mlive.com/politics/2026/11/spirits-high-for-rogers-supporters-as-michigan-senate-results-roll-in.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:26:16 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Michigan voters approve ban on big utility contributions to campaigns",
+      "desc": "Statewide Proposal 1 failed, while voters approved Proposal 2",
+      "link": "https://www.mlive.com/politics/2026/11/michigan-voters-approve-ban-on-big-utility-contributions-to-campaigns.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:25:05 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Amid huge GOP losses, White House scorned for saying Trump wasn’t on ballot",
+      "desc": "President had beseeched voters to pretend he was on the ballot.",
+      "link": "https://www.mlive.com/politics/2026/11/amid-huge-gop-losses-white-house-scorned-for-saying-trump-wasnt-on-ballot.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:24:51 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Some Michigan county election results websites having issues due to bot traffic",
+      "desc": "The website vendor is aware of the issue and is working on a fix.",
+      "link": "https://www.mlive.com/news/2026/11/some-michigan-county-election-results-websites-having-issues-due-to-bot-traffic.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 03:17:43 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "New Hampshire Democrat makes history with Senate victory: ‘I’m the luckiest guy’",
+      "desc": ".Chris Pappas (D-N.H.) made history on Tuesday night by becoming the first openly gay man elected to the U.S. Senate.",
+      "link": "https://www.mlive.com/politics/2026/11/new-hampshire-democrat-makes-history-with-senate-victory-im-the-luckiest-guy.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 02:47:43 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Amid Dem Election Night optimism, Jeffries circumspect on relationship with Trump",
+      "desc": "NY lawmaker is poised to be new Speaker of the House.",
+      "link": "https://www.mlive.com/politics/2026/11/amid-dem-election-night-optimism-jeffries-circumspect-on-relationship-with-trump.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 02:40:38 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Longtime Saline mayor concedes race to challenger",
+      "desc": "Brian Marl's tenure as Saline mayor has stretched over 14 years. He just conceded defeat in the 2026 election to Michael McVey.",
+      "link": "https://www.mlive.com/politics/2026/11/longtime-saline-mayor-concedes-race-to-challenger.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 02:39:42 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump’s $5,000 check promise is already facing doubt",
+      "desc": "Early election results have commentators questioning whether the payments will happen.",
+      "link": "https://www.mlive.com/politics/2026/11/trumps-5000-check-promise-is-already-facing-doubt.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 02:33:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Rashida Tlaib wins reelection in Michigan’s 12th district race",
+      "desc": "Rashida Tlaib, the democratic incumbent, won the race Tuesday to represent Michigan’s 12th Congressional District in the U.S. House of Representatives.",
+      "link": "https://www.mlive.com/detroit/2026/11/rashida-tlaib-wins-reelection-in-michigans-12th-district-race.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 02:31:27 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ann Arbor residents, University of Michigan students pack 2026 midterm poll centers",
+      "desc": "Voters streamed steadily in and out of Ann Arbor's voting locations on Nov. 3. Here's what they had to say.",
+      "link": "https://www.mlive.com/politics/2026/11/ann-arbor-residents-university-of-michigan-students-pack-2026-midterm-poll-centers.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 02:00:30 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Alaska GOP senator blasts Dems’ tactic to unseat him: ‘The scheme is working’",
+      "desc": "Republican Sen. Dan Sullivan is up against Democrat Mary Peltola and independent Daniel J. Sullivan, who was recruited by Peltola's staff.",
+      "link": "https://www.mlive.com/politics/2026/11/alaska-gop-senator-blasts-dems-tactic-to-unseat-him-the-scheme-is-working.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 01:53:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bomb threat forces evacuation at Michigan polling site",
+      "desc": "Voting continued outside before officials cleared the building and identified a suspect.",
+      "link": "https://www.mlive.com/news/2026/11/bomb-threat-prompts-evacuation-at-michigan-voting-site-on-election-day.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 01:29:12 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Iran speaker: Ball in Trump administration court to prevent renewed war",
+      "desc": "Iran’s chief negotiator says it’s on the United States to stop a return to all-out war after Tehran gave Washington a “firm and rational response” to its demands around nuclear weapons and opening the",
+      "link": "https://thehill.com/policy/international/6194470-us-iran-strait-hormuz-conflict/",
+      "date": "Nov 3, 2026",
+      "rawDate": "Tue, 03 Nov 2026 23:50:31 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Big Tech, environmental groups in talks for potential data center framework",
@@ -92,132 +299,6 @@
       "tag": "technology"
     },
     {
-      "title": "Trump turns off Fox News over Tarlov&#039;s &#039;dumb voice&#039;",
-      "desc": "President Trump said he was forced to turn off Fox News Tuesday as he was watching the channel for election night updates because of a segment on \"The Five\" featuring liberal pundit Jessica Tarlov. \"I",
-      "link": "https://thehill.com/homenews/media/6194311-trump-attacks-jessica-tarlov-voice/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:03:08 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live updates: Polls begin to close in Indiana, Kentucky as battle for Congress heats up",
-      "desc": "Election Day is here, with President Trump’s political capital on the line as Democrats eye a potential blue wave and Republicans scramble to defend their congressional majorities. Trump has campaigne",
-      "link": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:01:33 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: See all Saginaw County Nov. 3, 2026 election results here",
-      "desc": "See live unofficial results for the Nov. 3 midterm election in Saginaw County.",
-      "link": "https://www.mlive.com/politics/2026/11/live-results-see-all-saginaw-county-nov-3-2026-election-results-here.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:01:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "2026 Michigan House election results: Grand Rapids, Kalamazoo, west side",
-      "desc": "See live election results for state House districts along the west side of the state, from Kalamazoo to Muskegon.",
-      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-house-election-results-grand-rapids-kalamazoo-west-side.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Live results: Bay County election Nov. 3, 2026",
-      "desc": "Voters in the 2026 general election will weigh in on races for several political offices—federally, statewide and locally—as well as millage proposals and renewals.",
-      "link": "https://www.mlive.com/politics/2026/11/bay-county-election-results-for-nov-3-2026.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 23:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Early turnout surge credited with smoother Election Day",
-      "desc": "Some voters were disrupted by weather, machine issues.",
-      "link": "https://www.mlive.com/politics/2026/11/election-day-sees-few-disruptions-despite-trumps-interference-push.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:54:50 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Officials first blamed the paper. They were wrong 🗳️",
-      "desc": "Westchester ballot scanners failed on Election Day. A barcode error is to blame, and up to 250,000 ballots wait in emergency bags to be counted.",
-      "link": "https://www.mlive.com/news/2026/11/why-did-voting-machines-in-this-new-york-county-keep-rejecting-ballots.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:53:55 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "2026 Michigan House election results: Ann Arbor, Lansing, Jackson areas",
-      "desc": "See live election results for state House districts in south central Michigan.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/2026-michigan-house-election-results-ann-arbor-lansing-jackson-areas.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:50:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Learjet&#039;s parts may have broken off before Florida crash: Investigators",
-      "desc": "A small aircraft that crashed in Florida on Sunday likely partially broke apart in the air before taking a nosedive, a federal investigator said Monday, according to The Associated Press. A business L",
-      "link": "https://thehill.com/homenews/state-watch/6194328-florida-learjet-crash-investigation/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:49:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Learjet&#8217;s parts may have broken off before Florida crash: Investigators",
-      "desc": "A small aircraft that crashed in Florida on Sunday likely partially broke apart in the air before taking a nosedive, a federal investigator said Monday, according to The Associated Press. A business L",
-      "link": "https://thehill.com/homenews/state-watch/6194328-florida-learjet-crash-investigation/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:49:37 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Anger over prices, corruption drives midterm turnout",
-      "desc": "The AP Voter Poll found the midterm electorate is deeply unhappy with the country’s direction and feels pessimistic about the future.",
-      "link": "https://www.mlive.com/politics/2026/11/midterm-elections-are-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:46:21 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "2026 Michigan House election results: Flint, Saginaw, Bay City to the U.P.",
-      "desc": "See live election results for state House districts from Flint to Northern Michigan.",
-      "link": "https://www.mlive.com/politics/2026/11/2026-michigan-house-election-results-flint-saginaw-bay-city-to-the-up.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:45:30 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "2026 Michigan House election results: Metro Detroit",
-      "desc": "See live election results for state House districts in Metro Detroit and Southeast Michigan.",
-      "link": "https://www.mlive.com/news/detroit/2026/11/2026-michigan-house-election-results-metro-detroit.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:42:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "AI firms face pressure to curb Election Day misinformation",
-      "desc": "{beacon} Technology Technology &#8202; The Big Story  How AI firms prepared for Election Day Taking a page out of social media firms' playbook, artificial intelligence firms are on high alert for Elec",
-      "link": "https://thehill.com/newsletters/technology/6194293-ai-firms-face-pressure-to-curb-election-day-misinformation/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:32:19 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "No injuries after gun goes off in Kalamazoo domestic dispute",
       "desc": "A man was arrested after a domestic dispute on Woodward Avenue escalated into a felonious assault, with a firearm discharged but no injuries reported.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/11/police-arrest-suspect-after-firearm-discharged-in-kalamazoo-domestic-dispute.html",
@@ -225,24 +306,6 @@
       "rawDate": "Tue, 03 Nov 2026 22:27:37 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "How does inflation compare to past midterm cycles?",
-      "desc": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; How does inflation compare to past midterm cycles? K",
-      "link": "https://thehill.com/newsletters/business-economy/6194251-how-does-inflation-compare-to-past-midterm-cycles/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:22:10 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Democratic Iowa Senate candidate says he split his ticket",
-      "desc": "Iowa Senate candidate state Rep. Josh Turek (D) said he voted for three Republicans when he cast his ballot Tuesday.  Asked whether he voted straight down the ballot for Democrats, Turek said he voted",
-      "link": "https://thehill.com/homenews/6194223-iowa-senate-josh-turek-ticket-splitting/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 22:19:48 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Charges authorized against woman who shoved conservative commentor",
@@ -565,15 +628,6 @@
       "link": "https://www.mlive.com/news/kalamazoo/2026/11/26-year-old-seriously-injured-in-battle-creek-rollover-crash.html",
       "date": "Nov 3, 2026",
       "rawDate": "Tue, 03 Nov 2026 00:43:09 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Suspected drunk driver backs into trooper's vehicle",
-      "desc": "A driver was arrested after backing into a trooper's patrol car during a traffic stop in Lapeer County.",
-      "link": "https://www.mlive.com/news/flint/2026/11/suspected-drunk-driver-backs-into-troopers-vehicle-in-lapeer-county.html",
-      "date": "Nov 2, 2026",
-      "rawDate": "Mon, 02 Nov 2026 23:27:29 +0000",
       "source": "MLive Crime",
       "tag": "safety"
     },
@@ -990,15 +1044,6 @@
       "rawDate": "Wed, 28 Oct 2026 18:18:27 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "&#039;Back away from this podium&#039;: UN ambassador posts video of confrontation with Cuban reps in General Assembly Hall",
-      "desc": "U.S. Ambassador to the United Nations Mike Waltz on Tuesday posted a video depicting a confrontation between U.S. and Cuban officials while he spoke at the podium of the U.N. General Assembly chamber.",
-      "link": "https://thehill.com/homenews/administration/6177050-us-cuba-tensions-un-general-assembly-mike-waltz/",
-      "date": "Oct 28, 2026",
-      "rawDate": "Wed, 28 Oct 2026 11:55:09 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     }
   ]
 }

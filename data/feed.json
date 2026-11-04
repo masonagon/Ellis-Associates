@@ -1,14 +1,536 @@
 {
-  "generated": "2026-11-04T12:42:04.267Z",
+  "generated": "2026-11-04T20:10:39.160Z",
   "news": [
     {
-      "title": "Thune: Republicans ‘will not stand idly by’ under Democratic majority",
-      "desc": "Senate Majority Leader John Thune (R-S.D.) declared early Wednesday morning that Republicans ‘will not stand idly by’ as Democrats try to reverse the accomplishments of President Trump’s first two yea",
-      "link": "https://thehill.com/homenews/senate/6197030-john-thune-2026-midterms-democratic-victories/",
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "desc": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+      "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
       "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 12:39:15 +0000",
+      "rawDate": "Wed, 04 Nov 2026 20:06:21 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "What key factors led to El-Sayed’s Senate win? Michigan voters explain.",
+      "desc": "Michigan voters believe several key factors led to Abdul El-Sayed's historic win for U.S. Senate.",
+      "link": "https://www.mlive.com/politics/2026/11/what-key-factors-led-to-el-sayeds-senate-win-michigan-voters-explain.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 20:04:46 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "What to know about the 5 Mamdani-backed measures New Yorkers are projected to pass",
+      "desc": "New York City Mayor Zohran Mamdani (D) secured key wins on Election Day with several ballot proposals that would build upon his administration’s efforts to expand housing, outdoor dining and public sa",
+      "link": "https://thehill.com/homenews/state-watch/6198975-mamdani-secures-key-wins-ny-measures/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:52:04 +0000",
       "source": "The Hill Politics",
       "tag": "government"
+    },
+    {
+      "title": "Oakley voters reject ‘confusing’ police ballot proposal. So, what’s next?",
+      "desc": "The Nov. 3 election returned Oakley’s one-man police force to the spotlight after years of controversies.",
+      "link": "https://www.mlive.com/politics/2026/11/oakley-voters-reject-confusing-police-ballot-proposal-so-whats-next.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:50:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Absentee and early voting boosted Jackson County turnout to 53% in 2026 midterm election",
+      "desc": "Jackson County recorded a 53% voter turnout in the 2026 midterm, with early voting and extensive poll worker training credited for the smooth, swift results.",
+      "link": "https://www.mlive.com/news/jackson/2026/11/absentee-and-early-voting-boosted-jackson-county-turnout-to-53-in-2026-midterm-election.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:46:43 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Knives Are Out in the White House",
+      "desc": "From top officials like Pete Hegseth to White House aides to right-wing pundits, the race is on to find someone besides Donald Trump to blame for the Republicans’ catastrophic losses.",
+      "link": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:32:01 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Young voters appear to move away from Republicans: Survey",
+      "desc": "Young voters appeared to distance themselves from Republicans in this year’s midterm election blowout for Democrats, according to a new poll. In The AP Voter Poll, which surveyed 2026 midterm voters, ",
+      "link": "https://thehill.com/homenews/campaign/6198784-young-voters-boost-democratic-midterms/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:24:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump touts &#039;magnificent&#039; ballroom in first remarks after midterm drubbing",
+      "desc": "President Trump, in his first public remarks since Republicans lost big in the midterm elections, showed off the White House ballroom construction Wednesday. The president signed the final beam, along",
+      "link": "https://thehill.com/homenews/administration/6198905-trump-white-house-ballroom-midterm-elections/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:21:27 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "desc": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:16:25 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Jeffries taunts Speaker Johnson for saying polls were wrong",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) ribbed Speaker Mike Johnson (R-La.) on Wednesday over the Democrats’ landslide midterm victory, saying the GOP leader was right in predicting the polls w",
+      "link": "https://thehill.com/homenews/6198897-jeffries-ribs-johnson-midterms/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:14:34 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Here’s a look at ballot proposals in and around Ann Arbor that passed, failed",
+      "desc": "Voters in Ann Arbor, Ypsilanti and other Washtenaw County communities approved most local city and township ballot proposals in the Tuesday, Nov. 3 general election.",
+      "link": "https://www.mlive.com/politics/2026/11/heres-a-look-at-ballot-proposals-in-and-around-ann-arbor-that-passed-failed.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:12:34 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Who won redistricted House seats?",
+      "desc": "One of the biggest stories of the 2026 midterms came before any votes were cast: the mid-decade redistricting wars. Fearing a backlash to President Trump’s policies at the ballot box, Republicans in s",
+      "link": "https://thehill.com/homenews/campaign/6198650-election-day-2026-gop-democrat-redistricting-war-outcomes/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:09:42 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "George Santos on midterm elections: It’s a s‑‑‑ show",
+      "desc": "Former Rep. George Santos (R-N.Y.) called the midterm elections a “s‑‑‑ show” for Republicans following major GOP losses in key Senate and House races. “Republicans literally squandered their majority",
+      "link": "https://thehill.com/blogs/in-the-know/6198799-george-santos-gop-midterm-disaster/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:00:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Why an ex-MAGA ally says Trump should be kicked out of Republican Party",
+      "desc": "Former Rep. Marjorie Taylor Greene (R-Ga.) said Republicans should kick President Donald Trump out of the party.",
+      "link": "https://www.mlive.com/politics/2026/11/why-an-ex-maga-ally-says-trump-should-be-kicked-out-of-republican-party.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 19:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jackson sends Democrat to state House, but county remains red: 5 takeaways on Nov. 3 election",
+      "desc": "The city also elected a new-old mayor, Derek Dobies, who will return to the position after about a six-year hiatus.",
+      "link": "https://www.mlive.com/politics/2026/11/jackson-sends-democrat-to-state-house-but-county-remains-red-5-notes-on-nov-3-election.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:57:56 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kawkawlin Township treasurer ousted in recall election, two trustees remain",
+      "desc": "Greg Petrimoulx won the treasurer position with 1,032 votes to DeShano's 837, according to unofficial Bay County results from the Nov. 3 election.",
+      "link": "https://www.mlive.com/politics/2026/11/kawkawlin-township-treasurer-ousted-in-recall-election-two-trustees-remain.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:57:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bill Clinton implores Dems to work together &#039;with humility and determination&#039;",
+      "desc": "Former President Clinton released a statement following the Democrats’ sweeping victory in the midterm elections urging them to work “with humility and determination” to rebuild public trust. “Last ni",
+      "link": "https://thehill.com/homenews/campaign/6198752-clinton-democrat-midterm-victory/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:53:54 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw woman killed in 3-vehicle crash in Gratiot County",
+      "desc": "A 43-year-old Saginaw woman died after a three-vehicle chain-reaction crash on West Monroe Road in Gratiot County's Seville Township.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/saginaw-woman-killed-in-3-vehicle-crash-in-gratiot-county.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:45:27 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan’s new governor-elect just made a bold promise about FOIA access to her office",
+      "desc": "Michigan Governor-elect Jocelyn Benson addressed the media Wednesday, Nov. 4, after defeating John James in the general election.",
+      "link": "https://www.mlive.com/news/2026/11/michigans-new-governor-elect-just-made-a-bold-promise-about-foia-access-to-her-office.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:44:02 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democratic wins ignite centrist-progressive fight over path to 2028",
+      "desc": "Democrats emerged from Tuesday’s elections with sweeping victories that gave them control of Congress as well as something they’ve missed since President Trump's return to the White House: a solid arg",
+      "link": "https://thehill.com/homenews/campaign/6198754-party-direction-debate-2028/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:43:46 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kiley loses House reelection bid in California",
+      "desc": "Rep. Kevin Kiley (I-Calif.), who left the Republican Party earlier this year over his opposition to gerrymandering, is projected to lose his reelection bid in California’s newly redrawn 6th Congressio",
+      "link": "https://thehill.com/homenews/campaign/6198722-kiley-loses-ca-district-6/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:42:20 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "McCann flips U.S. House district from red to blue, defeats Trump ally Huizenga",
+      "desc": "The race wasn't called until after 1 p.m. on Wednesday because of how tight it was.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/11/mccann-flips-us-house-district-from-red-to-blue-defeats-trump-ally-huizenga.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:34:01 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Abdul El-Sayed made history Tuesday night — now he has three urgent priorities",
+      "desc": "Michigan U.S. Sen.-elect Abdul El-Sayed has three immediate priorities for the Democrat-controlled Congress that will take office in January.",
+      "link": "https://www.mlive.com/politics/2026/11/abdul-el-sayed-made-history-tuesday-night-now-he-has-three-urgent-priorities.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:33:46 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Schumer says Republicans favor ending Iran war immediately, cites ‘power of the purse’",
+      "desc": "Senate Democratic Leader Chuck Schumer (N.Y.) said there will be Senate Republican support for ending the war with Iran as soon as possible and threatened that Democrats will use the “power of the pur",
+      "link": "https://thehill.com/homenews/senate/6198699-schumer-republicans-iran-war-end/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:32:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Former Ypsilanti police officer sues city over denying disability accommodation",
+      "desc": "He had suffered an injury on the job, he said.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/former-ypsilanti-police-officer-sues-city-over-denying-disability-accommodation.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:31:32 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Bay City man surrenders in hit-and-run targeting teen rider",
+      "desc": "Owen Wheeler, 19, surrendered to authorities and now faces a life offense for the hit-and-run that left a 14-year-old with two spinal fractures.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/bay-city-man-accused-of-injuring-teen-in-deliberate-hit-and-run-crash-surrenders-to-authorities.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:29:36 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats&#039; election success boosts ranks of Congressional Hispanic Caucus",
+      "desc": "The Congressional Hispanic Caucus (CHC) will gain more than 10 new members after Democrats’ election night success, boosting the group to its largest membership ever. “In December, the CHC will celebr",
+      "link": "https://thehill.com/homenews/house/6198631-congressional-hispanic-caucus-membership-midterm-elections/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:24:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kalamazoo-area proposals: 5 passed, 2 failed, 2 are to be determined",
+      "desc": "How did Kalamazoo County voters respond to the various proposals on the ballot? Here's how each one fared.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/11/kalamazoo-area-proposals-5-passed-2-failed-2-are-to-be-determined.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:22:55 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "1 dead, 1 hospitalized after crash in U.P.",
+      "desc": "Deputies from the Ontonagon County Sheriff’s Office responded Tuesday evening to the reported crash on M-28.",
+      "link": "https://www.mlive.com/news/2026/11/1-dead-1-hospitalized-after-crash-in-up.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:22:51 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+      "desc": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:21:26 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
+      "desc": "In his first public appearance since Republicans lost big in the midterms, President Trump showed off the construction of the White House ballroom. \"It's for the country, and it's free,\" he said.  Tru",
+      "link": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:20:36 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Talarico: I want to work with Republicans &#039;who said some mean things about me&#039;",
+      "desc": "Sen.-elect James Talarico (D-Texas) is apparently shrugging off past criticism from Republicans, saying he's \"looking forward\" to working with them — even elected officials who have said \"mean things\"",
+      "link": "https://thehill.com/blogs/in-the-know/6198621-talarico-the-view-texas-senate-race-midterms/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:20:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Saginaw man pleads guilty in Facebook Marketplace robberies",
+      "desc": "The 20-year-old man on two occasions lured sellers to the parking lot of a former Saginaw elementary school, only to take their property.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/saginaw-man-pleads-guilty-to-robbing-people-he-met-on-facebook-marketplace.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:19:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Largest GOP donor ever reacts after spending more than $400 million in midterms",
+      "desc": "He recently warned of the \"end of democracy\" if Democrats swept.",
+      "link": "https://www.mlive.com/politics/2026/11/largest-gop-donor-ever-reacts-after-spending-more-than-400-million-in-midterms.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:08:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
+      "desc": "As flagship smartphones balloon in size, the Enough Phone offers a 5.3-inch handset. Choose between stock Android or an anti-distraction operating system.",
+      "link": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 18:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "2 Georgia men indicted in $760K Michigan fuel card fraud",
+      "desc": "A federal indictment alleges two Atlanta men assumed the identity of a Detroit logistics company to obtain fuel cards, which were used to purchase fuel across nearly two dozen states without payment.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/2-georgia-men-federally-indicted-in-760k-michigan-fuel-card-fraud.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 17:21:01 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Trucker caught 8 miles from Canada with 93 kilos of cocaine",
+      "desc": "The 93 kilograms, or 205 pounds, of cocaine have an estimated street value of $1.8 to $2.4 million.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/trucker-hauled-93-kilos-of-cocaine-from-laredo-nearly-made-it-to-canadian-border-feds-allege.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 17:10:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "desc": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+      "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:56:17 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Democrats win two seats on Wayne State University Board of Governors",
+      "desc": "Democrats Richard Mack and Shereef Akeel won two open seats on Wayne State University's Board of Governors, defeating Republican challengers in Tuesday's statewide election.",
+      "link": "https://www.mlive.com/news/detroit/2026/11/democrats-win-two-seats-on-wayne-state-university-board-of-governors.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:53:54 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Ann Arbor-area school board results: See where incumbents, newcomers won seats",
+      "desc": "Here are Tuesday's unofficial results for 9 districts, including Ann Arbor's crowded nine-candidate race and other close contests.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/ann-arbor-area-school-board-results-see-where-incumbents-newcomers-won-seats.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:41:02 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "2 Democrats maintain majority on University of Michigan Board of Regents",
+      "desc": "Democratic Party candidates won both available seats for the University of Michigan Board of Regents in the 2026 election. Paul Brown and Amir Makled collectively won over half of the vote, with 94% o",
+      "link": "https://www.mlive.com/politics/2026/11/2-democrats-maintain-majority-on-university-of-michigan-board-of-regents.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:25:03 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Democrats eye Big Tech after midterm wins",
+      "desc": "Democrats are making commitments to make artificial intelligence regulation and the investigation of companies a key priority as they prepare to take control of the House and Senate after Tuesday nigh",
+      "link": "https://thehill.com/policy/technology/6197847-democrats-big-tech-ai-regulations-2026-midterm-wins/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:24:40 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Vance breaks silence on midterms: &#039;The reason we lost is the war&#039;",
+      "desc": "Vice President Vance on Wednesday blamed the ongoing Iran war for the Republican Party’s abysmal results in the midterm elections, brushing off other issues that appeared to tank GOP candidates, inclu",
+      "link": "https://thehill.com/homenews/campaign/6197976-vance-midterms-iran-war-trump/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:22:03 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Marine dies during training incident in Okinawa",
+      "desc": "A U.S. Marine died during a training incident in Okinawa, Japan, on Tuesday, the U.S. military announced Wednesday morning.  The unnamed Marine, who was with the 3rd Marine Division, was training at C",
+      "link": "https://thehill.com/policy/defense/6198017-marine-dies-okinawa-training/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:19:53 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "News industry urges courts to defend copyright against AI companies",
+      "desc": "The News/Media Alliance filed an amicus brief urging courts to reject AI companies' fair use claims, arguing that using copyrighted news content to power AI tools without compensation threatens the fr",
+      "link": "https://www.mlive.com/opinion/2026/11/news-industry-urges-courts-to-defend-copyright-against-ai-companies.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 16:00:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Hillsdale College graduate creates world's fastest mapping library",
+      "desc": "Isaac Myhal, a Hillsdale College graduate, developed a C++ mapping library that outperforms industry-standard tools used by Firefox, Chrome, and Python.",
+      "link": "https://www.mlive.com/news/jackson/2026/11/hillsdale-college-graduate-creates-worlds-fastest-mapping-library.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 15:40:48 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Bay City boutique to close storefront, keep selling online",
+      "desc": "Owner Jessica Hill will focus on online sales and other business opportunities while the physical location transitions to appointment-only before closing at year's end.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/omoni-boutique-in-bay-city-to-close-storefront-continue-online.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 15:35:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "The Trader Joe's mystery bags that cause a frenzy every November are almost here",
+      "desc": "The $2.99 bags hide 3 surprise city-themed reusable totes and typically sell out within days of arriving in stores.",
+      "link": "https://www.mlive.com/business/2026/11/why-trader-joes-3-mystery-bags-have-shoppers-buying-armfuls-every-single-time-they-hit-shelves.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 15:33:13 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
+      "desc": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
+      "link": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 15:30:18 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Dearborn voters approve $1.51B bond to build six new schools",
+      "desc": "The $1.51 billion bond passed with 68% of the vote, paving the way for six new schools and major renovations across Dearborn Public Schools.",
+      "link": "https://www.mlive.com/news/detroit/2026/11/dearborn-voters-approve-151b-bond-to-build-six-new-schools.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 15:19:09 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "First look: The new season of our hit podcast Father Wants Us Dead, ‘Uncle Paul’",
+      "desc": "Follow Father Wants Us Dead on Apple Podcasts, Spotify or wherever you get podcasts to get the episodes when they drop next week.",
+      "link": "https://www.mlive.com/news/2026/11/first-look-the-new-season-of-our-hit-podcast-father-wants-us-dead-uncle-paul.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 15:00:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Musk jokes about GOP losses after spending big in midterms",
+      "desc": "Tech mogul Elon Musk joked about the GOP's steep losses early Wednesday, after spending more than $442 million boosting Republicans in the midterm elections. Democrats swept control of both chambers o",
+      "link": "https://thehill.com/policy/technology/6197367-elon-musk-weighs-in-2026-midterms-spending/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 14:53:41 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Search underway for endangered woman last seen in U.P.",
+      "desc": "Michigan State Police are searching for 45-year-old Andrea Dewitt, missing from Grand Marais since early November 3, possibly armed and in mental health crisis, driving a black 2017 Jeep Renegade.",
+      "link": "https://www.mlive.com/news/2026/11/search-underway-for-endangered-woman-last-seen-in-up.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 14:39:24 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "desc": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 13:49:51 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout",
+      "desc": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
+      "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 13:48:28 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Nonprofit CEO, community center director elected to KVCC Board of Trustees",
+      "desc": "Kalamazoo Valley Community College has a presence in downtown Kalamazoo with its main campus in Texas Township.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/11/nonprofit-ceo-community-center-director-elected-to-kvcc-board-of-trustees.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 13:36:36 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Trump: Iran war partially to blame for GOP midterm losses",
+      "desc": "President Trump partially blamed the ongoing war with Iran for the GOP's sweeping midterm losses in the midterms — but said he would have done it again. Trump told The Wall Street Journal that the Mid",
+      "link": "https://thehill.com/homenews/campaign/6197073-donald-trump-gop-losses-2026-midterms-iran-war/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 13:12:56 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Tillis: Hegseth faces ‘a reckoning’ in lame-duck session of Congress",
+      "desc": "Sen. Thom Tillis (R-N.C.) said Secretary of Defense Pete Hegseth faces “a reckoning” in the post-election lame-duck Congress and questioned whether President Trump will be able to get the Pentagon fun",
+      "link": "https://thehill.com/homenews/senate/6197052-thom-tillis-pete-hegseth-reckoning/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 12:49:18 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "2 Democrats win tight race for MSU Board of Trustees seats",
+      "desc": "It was a tight race in the MSU Board of Trustees race, which has been embroiled in controversy in recent years.",
+      "link": "https://www.mlive.com/news/2026/11/2-democrats-win-tight-race-for-msu-board-of-trustees-seats.html",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 12:47:40 +0000",
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Savit plans to finish out year in office, despite AG win",
@@ -20,51 +542,6 @@
       "tag": "safety"
     },
     {
-      "title": "GOP crushed in blue landslide",
-      "desc": "In today's issue: ▪ Democrats take control of House, Senate ▪ Elected candidates deliver historic firsts ▪ Alaska results could take weeks ▪ Mississippi Senate down to the wire Democrats' wildest drea",
-      "link": "https://thehill.com/newsletters/morning-report/6197032-election-day-2026-midterms-gop-crushed-blue-landslide/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 12:31:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "El-Sayed: &#039;Delicious irony&#039; that &#039;habibi&#039; Vance &#039;constitutionally obligated&#039; to swear him in",
-      "desc": "Michigan Sen.-elect Abdul El-Sayed (D) taunted President Trump and Vice President Vance in his victory speech early Wednesday after the two Republicans spent months attacking him on the campaign trail",
-      "link": "https://thehill.com/homenews/campaign/6197016-abdul-el-sayed-jd-vance-habibi/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 12:30:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "You&#039;re lame ducks now — take the hard votes while you can",
-      "desc": "The campaign ads are gone from my television, and I'm grateful. The price tag is harder to forget. OpenSecrets projected the 2026 midterms at $11.9 billion, which would be a record for any midterm. Th",
-      "link": "https://thehill.com/opinion/finance/6192386-congressional-deficit-spending-consequences/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 12:30:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mississippi Senate race too close to call",
-      "desc": "Mississippi’s Senate race remained too close to call early Wednesday, with Democratic challenger Scott Colom holding a razor-thin lead over Sen. Cindy Hyde Smith (R) by less than 1 percentage point. W",
-      "link": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 12:13:47 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New York, Oregon laws could make the Supreme Court defend its Janus ruling",
-      "desc": "In 2018, the U.S. Supreme Court handed public-sector unions a well-deserved rebuke in Janus v. AFSCME. The justices affirmed that government employees cannot be compelled to financially support a unio",
-      "link": "https://thehill.com/opinion/judiciary/6193136-supreme-court-janus-union-rights/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Four new faces elected to the Grand Rapids Public Schools Board",
       "desc": "A total of 15 candidates were vying for five nonpartisan seats with four-year terms on Tuesday, Nov. 3, plus a 16th candidate running unopposed for a partial term.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/11/four-new-faces-elected-to-the-grand-rapids-public-schools-board.html",
@@ -72,96 +549,6 @@
       "rawDate": "Wed, 04 Nov 2026 11:58:21 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Public power proposal narrowly defeated in Ann Arbor, but group not giving up the fight",
-      "desc": "Voters narrowly rejected the public power ballot proposal in Ann Arbor in the Nov. 3 election, results released early Wednesday morning show.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/public-power-proposal-narrowly-defeated-in-ann-arbor-but-group-not-giving-up-the-fight.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:54:27 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "History, a progressive breakthrough and a Democratic wave: What El-Sayed’s win tells us",
-      "desc": "Abdul El-Sayed defeated Republican Mike Rogers for an open seat pivotal in the fight for control of the chamber, campaigning on an unapologetically progressive platform.",
-      "link": "https://www.mlive.com/politics/2026/11/history-a-progressive-breakthrough-and-a-democratic-wave-what-el-sayeds-win-tells-us.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:49:03 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Voters re-elect Lisa Knight to Grand Rapids 2nd Ward commission seat",
-      "desc": "Lisa Knight defeated challenger Bryan Cody to secure a second and final four-year term representing Grand Rapids’ 2nd Ward.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/voters-re-elect-lisa-knight-to-grand-rapids-2nd-ward-commission-seat.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:28:53 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Are Trump’s proposed $5,000 checks still coming?",
-      "desc": "The president's pledge hinged on Republicans winning Congress.",
-      "link": "https://www.mlive.com/politics/2026/11/is-trumps-5000-check-promise-still-happening.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:15:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Kansas elects first Democrat Senator in 94 years after Trump’s comments",
-      "desc": "President Trump wasn't even born when Kansas last elected a Democrat to the U.S. Senate.",
-      "link": "https://www.mlive.com/politics/2026/11/kansas-elects-first-democratic-senator-in-94-years-after-trumps-comments.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:10:08 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Voters in Flint Township turn down name change proposal",
-      "desc": "Residents in Flint Township made the decision during Tuesday’s general election to reject a proposal to change the municipality’s name.",
-      "link": "https://www.mlive.com/news/flint/2026/11/voters-in-flint-township-turn-down-name-change-proposal.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:05:15 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Michigan Democrats sweep top races: 5 takeaways from the election",
-      "desc": "Democrats won Michigan’s U.S. Senate and regained full control of state government. Here are five takeaways from Election Day.",
-      "link": "https://www.mlive.com/politics/2026/11/michigan-democrats-sweep-top-races-5-takeaways-from-the-election.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The 2028 presidential race starts now. These six Democrats just had a great night",
-      "desc": "The 2028 presidential race effectively begins now, and Tuesday's midterms elections offered an early snapshot of the political strength for the potential Democratic Party's potential White House conte",
-      "link": "https://thehill.com/homenews/campaign/6196701-democrats-emerge-stronger-midterms/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "What’s the Difference Between an Ebike and an E-Moto?",
-      "desc": "Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.",
-      "link": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 10:45:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Alabama voters approve school prayer, Pledge of Allegiance amendment",
-      "desc": "A ballot measure that would amend the Alabama Constitution to essentially require the Pledge of Allegiance in public schools in addition to allowing “student-initiated and student-led prayer” is proje",
-      "link": "https://thehill.com/homenews/campaign/6190825-alabama-voters-approve-school-prayer-pledge-of-allegiance-measure-2026/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 10:30:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "The Coca-Cola CEO just responded to the 'fridge cigarette' thing — here's what he said",
@@ -178,8 +565,8 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/11/grand-haven-voters-approve-9855m-school-bond-for-elementary-renovations.html",
       "date": "Nov 4, 2026",
       "rawDate": "Wed, 04 Nov 2026 09:48:38 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Voters approve $38.18M Kelloggsville school bond",
@@ -187,26 +574,8 @@
       "link": "https://www.mlive.com/news/grand-rapids/2026/11/voters-approve-3818m-kelloggsville-school-bond.html",
       "date": "Nov 4, 2026",
       "rawDate": "Wed, 04 Nov 2026 09:01:53 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Yarbrough wins Texas House election for redistricted Julie Johnson seat",
-      "desc": "Texas Republican House candidate Jace Yarbrough is projected to win the open seat to lead the state's redistricted 32nd District and replace Rep. Julie Johnson (D-Texas), per Decision Desk HQ. The att",
-      "link": "https://thehill.com/homenews/campaign/6134970-yarbrough-wins-texas-house-election/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 08:50:39 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New and familiar faces fill out boards in local races throughout Genesee County",
-      "desc": "Representatives on city, township and village boards were selected by voters during the Tuesday, Nov. 3, general election.",
-      "link": "https://www.mlive.com/news/flint/2026/11/new-and-familiar-faces-fill-out-boards-in-local-races-throughout-genesee-county.html",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 08:38:20 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Education",
+      "tag": "education"
     },
     {
       "title": "Idaho rejects ballot measure adding abortion access protection",
@@ -214,26 +583,8 @@
       "link": "https://thehill.com/homenews/campaign/6191184-idaho-rejects-ballot-measure-adding-abortion-access-protection-2026/",
       "date": "Nov 4, 2026",
       "rawDate": "Wed, 04 Nov 2026 08:35:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Winners and losers of the 2026 midterms",
-      "desc": "Democrats pulled off the blue wave of their dreams on Tuesday, winning the House and Senate majorities in a stunning cap to the most expensive midterm election cycle on record.   The midterm results a",
-      "link": "https://thehill.com/homenews/campaign/6196833-democrats-win-house-senate/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 08:35:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Nebraska voters approve ban on transgender athletes in girls’ sports",
-      "desc": "A ballot measure requiring schools to designate \"biological sexes\" to sports teams, is projected to pass, according to Decision Desk HQ.  Voters approved the constitutional amendment, known as Initiat",
-      "link": "https://thehill.com/homenews/campaign/6191203-nebraska-approves-transgender-sports-ballot-measure-2026/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 08:31:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Voters approve operating millages for 4 West Michigan school districts",
@@ -245,22 +596,13 @@
       "tag": "education"
     },
     {
-      "title": "Live updates: Democrats riding high after historic night; GOP searches for answers",
-      "desc": "Democrats will control both the Senate and the House of Representatives come Jan. 3 according to Decision Desk HQ. The exact extent of Democrats' majorities remains to be determined as some key races ",
-      "link": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 08:28:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Nevada approves abortion rights amendment",
       "desc": "Nevada voters have approved a ballot measure protecting abortion up to the point of viability, officially adding the protection to the state constitution, Decision Desk HQ has projected.  The measure ",
       "link": "https://thehill.com/homenews/campaign/6185144-nevada-approves-abortion-rights-amendment/",
       "date": "Nov 4, 2026",
       "rawDate": "Wed, 04 Nov 2026 08:20:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Healthcare",
+      "tag": "health"
     },
     {
       "title": "Missouri rejects ballot measure to overturn abortion protections",
@@ -290,24 +632,6 @@
       "tag": "safety"
     },
     {
-      "title": "Hulu Promo Codes &amp; Discounts: 20% Off in November 2026",
-      "desc": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
-      "link": "https://www.wired.com/story/hulu-promo-code/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Hostinger Promo Code: 79% Off for November 2026",
-      "desc": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "link": "https://www.wired.com/story/hostinger-coupon-code/",
-      "date": "Nov 4, 2026",
-      "rawDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Incumbent, new faces take early leads in race Ann Arbor school board",
       "desc": "Voters in the Ann Arbor School District have filled four full-term seats and one partial term seat on the school board.",
       "link": "https://www.mlive.com/politics/2026/11/incumbent-new-faces-take-early-leads-in-race-ann-arbor-school-board.html",
@@ -333,6 +657,15 @@
       "rawDate": "Wed, 04 Nov 2026 01:29:12 +0000",
       "source": "MLive Crime",
       "tag": "safety"
+    },
+    {
+      "title": "Google will cut off search access for students at schools that reject AI",
+      "desc": "Students using Google software in the classroom will not be allowed to access the company's search engine unless their school system also opts in to using artificial intelligence, the tech giant said ",
+      "link": "https://thehill.com/policy/technology/google-search-ai-students/",
+      "date": "Nov 4, 2026",
+      "rawDate": "Wed, 04 Nov 2026 00:53:56 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Iran speaker: Ball in Trump administration court to prevent renewed war",
@@ -416,33 +749,6 @@
       "tag": "safety"
     },
     {
-      "title": "Pedestrian, 23, killed after being struck by multiple vehicles in Norton Shores",
-      "desc": "Police are searching for a vehicle that may have left the scene after a 23-year-old pedestrian was struck and killed.",
-      "link": "https://www.mlive.com/news/muskegon/2026/11/pedestrian-23-killed-after-being-struck-by-multiple-vehicles-in-norton-shores.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:49:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "All KFC and Taco Bell restaurants in major island market to close",
-      "desc": "Kentucky-based Yum! Brands said it made the “difficult decision to end its relationship” but did so because the operator “can no longer operate in a way that meets our standards.”",
-      "link": "https://www.mlive.com/business/2026/11/all-kfc-and-taco-bell-restaurants-in-us-island-territory-to-close.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:45:22 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Man charged with murder in ‘crowded’ Spirit Halloween store shooting",
-      "desc": "John Benson Jr. faces first-degree murder charges after allegedly fatally shooting Anthony Thompson III multiple times inside a crowded Spirit Halloween store.",
-      "link": "https://www.mlive.com/news/detroit/2026/11/man-charged-with-murder-in-crowded-spirit-halloween-store-shooting.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:35:10 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "New York reports first measles-associated death in more than 30 years",
       "desc": "A child in upstate New York died after contracting measles, according to health officials, the first measles-related death in the state in more than 30 years.  The child lived in Lewis County, a rural",
       "link": "https://thehill.com/policy/healthcare/6192756-new-york-first-measles-death/",
@@ -452,84 +758,12 @@
       "tag": "health"
     },
     {
-      "title": "Beloved steakhouse chain’s largest US franchisee files for bankruptcy",
-      "desc": "Parent company Bloomin' Brands is expected to buy 61 locations across five western states.",
-      "link": "https://www.mlive.com/business/2026/11/beloved-steakhouse-chains-largest-us-franchisee-files-for-bankruptcy.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 16:31:16 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Sprinklers extinguish overnight fire in Ann Arbor apartment",
-      "desc": "This is the second fire in the building extinguished by sprinklers in recent years.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/sprinklers-extinguish-overnight-fire-in-ann-arbor-apartment.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 16:22:38 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "OpenAI hires former Army secretary as adviser",
       "desc": "OpenAI has hired former Army Secretary Dan Driscoll to serve as a senior counselor for national security modernization, the company announced Monday. The ChatGPT maker said Driscoll, who stepped down ",
       "link": "https://thehill.com/policy/technology/6192039-openai-hires-dan-driscoll/",
       "date": "Nov 3, 2026",
       "rawDate": "Tue, 03 Nov 2026 15:55:50 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Northern Michigan superintendent on paid leave after OWI arrest",
-      "desc": "The superintendent of Cheboygan Area Schools was arrested over the weekend on suspicion of operating while intoxicated.",
-      "link": "https://www.mlive.com/news/2026/11/northern-michigan-superintendent-on-paid-leave-after-owi-arrest.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 15:44:39 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Warrant issued in minibike hit-and-run at Bay City park",
-      "desc": "Prosecutors allege the suspect deliberately crashed his truck into the 14-year-old minibike rider in Maplewood Park, but that he may have done so thinking his victim was someone else.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/warrant-issued-for-bay-city-man-accused-of-trying-to-kill-teen-minibike-rider-in-hit-and-run.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 15:41:23 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "15 people displaced by early morning fire outside Ypsilanti",
-      "desc": "One person was treated on scene for smoke inhalation.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/15-people-displaced-by-early-morning-fire-outside-ypsilanti.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 14:57:51 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Village’s new clothing store named after business that left in 1915",
-      "desc": "The new store is named after the Vicksburg Clothing Co., which operated in downtown Vicksburg from 1902 to 1915 before moving its operations to Kalamazoo.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/11/villages-new-clothing-store-named-after-business-that-left-in-1915.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 14:35:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Suspect in deer poaching tracked by police, K-9 and drone",
-      "desc": "Van Buren County sheriff's deputies were joined by multiple departments in tracking down a man suspected of poaching deer.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/11/suspect-in-deer-poaching-tracked-by-police-k-9-and-drone.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 14:04:11 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Saginaw mother charged in toddler’s death seeks dismissal after 4 years without trial",
-      "desc": "Cassandra Jacker's attorney is seeking to have the case dismissed, arguing authorities violated his client’s constitutional right to a speedy trial.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/saginaw-mother-charged-in-toddlers-death-seeks-dismissal-after-4-years-without-trial.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 13:58:00 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -578,15 +812,6 @@
       "tag": "safety"
     },
     {
-      "title": "2 found dead during welfare check at Newaygo home",
-      "desc": "Two people were found dead inside a Newaygo home during a welfare check.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/police-find-2-dead-during-welfare-check-at-newaygo-home.html",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 02:00:28 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Democrats accuse Musk&#039;s X of favoring Polymarket",
       "desc": "A group of Senate Democrats accused Elon Musk’s social media platform X of giving the prediction market Polymarket “preferential treatment” on its timeline. In a letter to X leadership Friday, Democra",
       "link": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/",
@@ -605,15 +830,6 @@
       "tag": "safety"
     },
     {
-      "title": "Citing rising rents, displacement, Ann Arbor aims to help small businesses",
-      "desc": "Ann Arbor officials are planning to place greater emphasis on small business development as a strategic economic development priority.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/citing-rising-rents-displacement-ann-arbor-aims-to-help-small-businesses.html",
-      "date": "Nov 2, 2026",
-      "rawDate": "Mon, 02 Nov 2026 20:04:39 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Fitness program cut transplant waitlist death risk by half, study finds",
       "desc": "Patients who improved their fitness while waiting for a transplant were about 50% less likely to die before receiving an organ, researchers found.",
       "link": "https://thehill.com/policy/healthcare/6187658-fitness-program-cut-transplant-waitlist-death-risk-study/",
@@ -621,15 +837,6 @@
       "rawDate": "Mon, 02 Nov 2026 19:44:42 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Students can apply now for more than 260 scholarships with this single online application",
-      "desc": "The Saginaw Community Foundation is now accepting scholarship applications, with awards available to students in Saginaw County and beyond. The application deadline is Feb. 12.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/students-can-apply-now-for-more-than-260-scholarships-with-this-single-online-application.html",
-      "date": "Nov 2, 2026",
-      "rawDate": "Mon, 02 Nov 2026 19:04:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Snap settles social media addiction case, ending bellwether trial",
@@ -650,24 +857,6 @@
       "tag": "technology"
     },
     {
-      "title": "How can students get excited about voting? This University of Michigan lecturer uses video games",
-      "desc": "Avery Lawrence wanted to help encourage University of Michigan students to vote and needed a way to teach them how to get animated characters to walk. He did both by creating Walk Cycle To The Polls, ",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/how-can-students-get-excited-about-voting-this-university-of-michigan-lecturer-uses-video-games.html",
-      "date": "Nov 2, 2026",
-      "rawDate": "Mon, 02 Nov 2026 16:01:11 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Fremont schools provide support after death of student, 15, in crash",
-      "desc": "The student died Friday, Oct. 30, in a crash in Newaygo County, sheriff's deputies said.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/fremont-schools-provide-support-after-death-of-student-15-in-crash.html",
-      "date": "Nov 2, 2026",
-      "rawDate": "Mon, 02 Nov 2026 14:08:26 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Iowa’s cancer crisis could reshape the state’s biggest midterm races",
       "desc": "Rising cancer rates and their potential link to farm pollution are causing a crisis in Iowa, throwing uncertainty into the midterm elections in a state that has shifted ruby-red in recent years. Iowa ",
       "link": "https://thehill.com/policy/healthcare/6185631-iowa-cancer-crisis-big-ag-maha-agenda-2026-midterms/",
@@ -675,15 +864,6 @@
       "rawDate": "Mon, 02 Nov 2026 11:00:00 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Marching bands: See which schools qualified for state championship at Ford Field",
-      "desc": "The top 10 bands in each flight will advance to the MCBA state finals on Nov. 7.",
-      "link": "https://www.mlive.com/news/2026/11/marching-bands-see-which-schools-qualified-for-state-championship-at-ford-field.html",
-      "date": "Nov 1, 2026",
-      "rawDate": "Sun, 01 Nov 2026 18:46:38 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Sen. Chris Murphy hospitalized following stroke",
@@ -702,42 +882,6 @@
       "rawDate": "Sun, 01 Nov 2026 17:00:00 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "$53.8M plan greenlit for Dexter’s new ‘crown jewel’ middle school",
-      "desc": "About half of Creekside Intermediate will be torn down to make room for a two-story classroom wing, an auditorium and space for career-tech and robotics programs.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/538m-plan-greenlit-for-dexters-new-crown-jewel-middle-school.html",
-      "date": "Nov 1, 2026",
-      "rawDate": "Sun, 01 Nov 2026 13:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Binance recovers 90 percent of stolen assets from hack",
-      "desc": "Cryptocurrency exchange Binance said Saturday that it was able to replenish 90 percent of the stolen assets ‌after a $6.3 billion hack of its platform. On Thursday, the money started moving out of Bin",
-      "link": "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
-      "date": "Oct 31, 2026",
-      "rawDate": "Sat, 31 Oct 2026 19:08:38 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Check out these November events at Delta College Planetarium in downtown Bay City",
-      "desc": "The Delta College Planetarium will offer a variety of shows throughout November and will host a special free event focused on Saturn on Nov. 13.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/10/check-out-these-november-events-at-delta-college-planetarium-in-downtown-bay-city.html",
-      "date": "Oct 31, 2026",
-      "rawDate": "Sat, 31 Oct 2026 17:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "MSU trustees sue own board over ‘loyalty oath’",
-      "desc": "Two members of the Michigan State Board of Trustees have sued the board alleging revised code of conduct prohibits criticizing university leaders.",
-      "link": "https://www.mlive.com/news/2026/10/msu-trustees-sue-own-board-over-loyalty-oath.html",
-      "date": "Oct 31, 2026",
-      "rawDate": "Sat, 31 Oct 2026 14:35:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Blackburn’s expected move to governor leaves Hegseth with potential parachute",
@@ -785,15 +929,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump says US looking into Binance hack: &#039;We don&#039;t know&#039; if North Korea responsible",
-      "desc": "President Trump said Friday his administration is looking into the $6.3 billion hacking of the cryptocurrency exchange Binance, the largest such hack on record. “We don’t know,” Trump said in the Oval",
-      "link": "https://thehill.com/policy/technology/6185518-trump-binance-crypto-hack-north-korea/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 21:46:44 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Bessent alleges anti-fraud guardrails are &#039;loosest&#039; in blue states",
       "desc": "Treasury Secretary Scott Bessent accused Democratic-led states Friday of having poor fraud prevention mechanisms while at a Minnesota press conference. The state has been at the center of a healthcare",
       "link": "https://thehill.com/homenews/administration/6185348-bessent-accuses-democrats-fraud-loose/",
@@ -810,15 +945,6 @@
       "rawDate": "Fri, 30 Oct 2026 18:12:50 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Meta settles with second plaintiff during trial over social media addiction",
-      "desc": "Meta settled a social media addiction lawsuit with an 18-year-old plaintiff on Friday, avoiding its next bellwether trial, which began jury selection this week. The case, filed by a woman from Mississ",
-      "link": "https://thehill.com/policy/technology/6184364-meta-snap-social-media-addiction-trial/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 17:21:49 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Watch live: Trump officials announce new anti-fraud measures in Minnesota",
@@ -839,15 +965,6 @@
       "tag": "health"
     },
     {
-      "title": "Congress’s 65-year defense bill streak could be in jeopardy",
-      "desc": "Congress’s annual Defense authorization bill is on shaky ground this year amid partisan infighting, threatening to upend the legislation’s unblemished 65-year streak of passage. The must-pass Pentagon",
-      "link": "https://thehill.com/policy/defense/6181202-ndaa-passage-threatened-partisan-infighting/",
-      "date": "Oct 30, 2026",
-      "rawDate": "Fri, 30 Oct 2026 10:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Trump administration&#039;s definition of &#039;medically frail&#039; unlawful, according to federal judge",
       "desc": "A federal judge Thursday ruled that the Trump administration’s definition of “medically frail” used for Medicaid is unlawful, issuing a temporary injunction on states having to determine medical frail",
       "link": "https://thehill.com/policy/healthcare/6182258-judge-strikes-trump-medicaid-definition/",
@@ -864,42 +981,6 @@
       "rawDate": "Thu, 29 Oct 2026 21:06:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Hegseth, Mullin call Trump’s arch a ‘generational defense opportunity’",
-      "desc": "President Trump’s proposed triumphal arch would be a “generational defense opportunity,” Defense Secretary Pete Hegseth and Homeland Security Secretary Markwayne Mullin have argued in court declaratio",
-      "link": "https://thehill.com/policy/defense/6182420-hegseth-mullin-trump-arch-military/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 20:22:37 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Trump blasts Democrats over Hegseth impeachment chatter",
-      "desc": "President Trump blasted Democrats Thursday over their ongoing calls to impeach Defense Secretary Pete Hegseth, whom they see as one of their primary targets, if the party takes control of the House.  ",
-      "link": "https://thehill.com/homenews/administration/6181651-trump-blasts-democrats-hegseth-impeachment/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 17:20:33 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "desc": "CEBU, Philippines (AP) — The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said",
-      "link": "https://thehill.com/policy/defense/us-japan-missile-production-china/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 14:32:32 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Hegseth ousted top military strategist from Pentagon, sources say",
-      "desc": "Defense Secretary Pete Hegseth ousted a top military strategist from the Pentagon, The Hill has learned, marking another senior officer who has been removed from the department since Hegseth took the ",
-      "link": "https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-syllia/",
-      "date": "Oct 29, 2026",
-      "rawDate": "Thu, 29 Oct 2026 02:05:54 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     }
   ]
 }

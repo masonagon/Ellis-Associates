@@ -1,9 +1,90 @@
 {
-  "generated": "2026-11-08T16:53:28.447Z",
+  "generated": "2026-11-08T20:54:51.725Z",
   "news": [
     {
-      "title": "Hamilton says many people in Kansas view Schumer as &#039;polarizing&#039;",
-      "desc": "Sen.-elect Adam Hamilton (D-Kans.) on Sunday said that many people in Kansas view Senate Minority Leader Chuck Schumer (D-N.Y.) as \"polarizing.\" \"Meet the Press\" host Kristen Welker asked Hamilton on ",
+      "title": "Donalds says GOP must campaign on new healthcare policy in 2028",
+      "desc": "Florida Gov.-elect Byron Donalds (R) on Sunday said the Republican Party will have to campaign with its own crafted healthcare policy items going into the 2028 election. Donalds told Fox News's interi",
+      "link": "https://thehill.com/homenews/campaign/6206612-byron-donalds-gop-healthcare-policy/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 20:28:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "El-Sayed on Miller: &#039;Most broken man&#039; to run &#039;the most dysfunctional White House&#039;",
+      "desc": "Sen.-elect Abdul El-Sayed (D-Mich.) on Sunday slammed Trump administration adviser Stephen Miller, who was recently promoted to White House chief of staff, calling him the “most broken man.” In an int",
+      "link": "https://thehill.com/homenews/administration/6206812-el-sayed-slams-stephen-miller/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 19:41:38 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Sanders &#039;not worried&#039; about Stephen Miller becoming White House chief of staff",
+      "desc": "Sen. Bernie Sanders (I-Vt.) on Sunday said he's \"not worried\" about Stephen Miller becoming President Trump's new White House chief of staff. \"Meet the Press\" host Kristen Welker pointed out Sanders's",
+      "link": "https://thehill.com/homenews/senate/6206577-sanders-miller-white-house/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 18:13:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP lawmaker calls Trump’s promotion of Stephen Miller ‘a mistake’",
+      "desc": "Rep. Marlin Stutzman (R-Ind.) on Sunday decried President Trump’s promotion of Stephen Miller to White House chief of staff. “I come from the business world, just like President Trump does. And you kn",
+      "link": "https://thehill.com/homenews/house/6206725-stutzman-decries-miller-promotion/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 18:09:44 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI nearly had US troops attack a Chinese ship. Nobody could check its work.",
+      "desc": "The lack of independent oversight and verifiable records in artificial intelligence deployment poses significant risks to national security, finance and healthcare, necessitating a solution similar to",
+      "link": "https://thehill.com/opinion/technology/6205531-preventing-future-ai-incidents/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 18:00:00 +0000",
+      "source": "The Hill Economy",
+      "tag": "associations"
+    },
+    {
+      "title": "Sanders says Democrats should hold Trump accountable but &#039;cannot spend all of our time&#039;",
+      "desc": "Sen. Bernie Sanders (I-Vt.) on Sunday said Democrats will need to hold President Trump accountable when they take over control of Congress starting in January but added that they “cannot spend all of ",
+      "link": "https://thehill.com/homenews/senate/6206576-sanders-democrats-trump-accountability/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 17:21:26 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Ex-RFK Jr adviser requests records on Wiles&#039;s health policy influence",
+      "desc": "Calley Means, a former top adviser to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr., requested records on former White House chief of staff Susie Wiles’s health policy influence be p",
+      "link": "https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 17:13:43 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump shares cartoon of Dana White as press secretary",
+      "desc": "President Trump on Sunday shared a cartoon of Dana White, CEO and president of UFC, as White House press secretary after announcing that White had been proposed as a candidate for the role. The presid",
+      "link": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 17:09:16 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats plot to choke off Iran war — with some GOP help",
+      "desc": "Democrats, on the wings of the big midterm wave, are looking to grind President Trump’s war with Iran to a halt once they retake the majority next year.  Senate Democrats say they have some Republican",
+      "link": "https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/",
+      "date": "Nov 8, 2026",
+      "rawDate": "Sun, 08 Nov 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hamilton: Many people in Kansas view Schumer as &#039;polarizing&#039;",
+      "desc": "Adam Hamilton, the newly elected Democratic Kansas senator, said Sunday that many people in Kansas view Senate Minority Leader Chuck Schumer (D-N.Y.) as “polarizing.” NBC News’s Kristen Welker asked H",
       "link": "https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/",
       "date": "Nov 8, 2026",
       "rawDate": "Sun, 08 Nov 2026 16:48:46 +0000",
@@ -11,8 +92,8 @@
       "tag": "government"
     },
     {
-      "title": "Live updates: Trump shares cartoon of Dana White as press secretary as he mulls offer",
-      "desc": "President Trump on Sunday morning shared a \"Family Guy\" style cartoon of Dana White as the White House press secretary after the president on Saturday said he offered White the role. The UFC CEO respo",
+      "title": "Live updates: Iran gives US ultimatum; Trump shares cartoon of Dana White as press secretary as he mulls offer",
+      "desc": "Iranian Foreign Minister Abbas Araghchi on Sunday said on the social platform X that \"American voters have made their choice. Time for the White House to make its own.\" \"Our 2-day proposal stands: mee",
       "link": "https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/",
       "date": "Nov 8, 2026",
       "rawDate": "Sun, 08 Nov 2026 16:30:37 +0000",
@@ -21,28 +102,10 @@
     },
     {
       "title": "Hakeem Jeffries says he&#039;s a &#039;hard yes&#039; to impeach Hegseth",
-      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.), who will likely be the Speaker of the House come January, said Sunday that he is a “hard yes” when it comes to impeaching Defense Secretary Pete Hegseth",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.), who will likely be House Speaker come January, said Sunday that he is a “hard yes” when it comes to impeaching Defense Secretary Pete Hegseth. “I’m a ha",
       "link": "https://thehill.com/homenews/house/6206617-jeffries-supports-hegseth-impeachment/",
       "date": "Nov 8, 2026",
       "rawDate": "Sun, 08 Nov 2026 16:16:22 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "North Carolina rep requests &#039;nonpartisan election observers&#039; in close race",
-      "desc": "Rep. Virginia Foxx (R-N.C.) is requesting “nonpartisan election observers” in her House race as she trails behind Democratic opponent Chuck Hubbard. “Election integrity is not a mere suggestion – it i",
-      "link": "https://thehill.com/homenews/house/6206602-foxx-requests-election-observers/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 15:48:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Blanche dodges questions on investigating Democrats",
-      "desc": "Attorney General Todd Blanche dodged questions on Sunday on whether he would open investigations into Democratic members of Congress following President Trump’s remarks to look into claims of a “crimi",
-      "link": "https://thehill.com/homenews/administration/6206582-attorney-general-blanche-dodges-investigation-questions/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 15:27:06 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
@@ -74,15 +137,6 @@
       "tag": "safety"
     },
     {
-      "title": "Three ways the new Congress can stop Trump’s war",
-      "desc": "Following Democratic victories in the midterm elections driven by opposition to the Iran war, the incoming Congress plans to utilize its power of the purse, potential impeachment proceedings against t",
-      "link": "https://thehill.com/opinion/congress-blog/6205683-congress-tools-end-iran-war/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 14:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Here’s how much Ann Arbor schools has spent on construction 7 years into its $1B bond",
       "desc": "The district has spent closer to $425 million on school construction, capital improvements and repairs. However, not all of it comes from bond funds.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/11/heres-how-much-ann-arbor-schools-has-spent-on-construction-7-years-into-its-1b-bond.html",
@@ -92,39 +146,12 @@
       "tag": "education"
     },
     {
-      "title": "Talarico makes &#039;Saturday Night Live&#039; appearance after Texas win",
-      "desc": "Sen.-elect James Talarico (D-Texas) made an appearance on “Saturday Night Live” (SNL) over the weekend following his historic win in the Lone Star State in Tuesday’s elections. The sketch — called the",
-      "link": "https://thehill.com/blogs/in-the-know/6206531-talarico-makes-saturday-night-live-appearance/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 13:55:09 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Dana White says he will meet with Trump to discuss White House press secretary role",
-      "desc": "Dana White, president and CEO of the Ultimate Fighting Championship (UFC), on Saturday said he will meet with President Trump on Monday to discuss the president's offer to take the role of White House",
-      "link": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 13:12:36 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "These 3 Democrats won their Senate races even before Election Day. Here’s how.",
       "desc": "Three Democrats running for Senate had enough votes for them to win before Election Day even began, according to state data.",
       "link": "https://www.mlive.com/politics/2026/11/these-3-democrats-won-their-senate-races-even-before-election-day-heres-how.html",
       "date": "Nov 8, 2026",
       "rawDate": "Sun, 08 Nov 2026 13:00:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats won — now they must clean house",
-      "desc": "Democrats now have a golden opportunity to make good on their commitment to reform, but only if they learn from the past.",
-      "link": "https://thehill.com/opinion/campaign/6205010-congress-ethics-reform-plan/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 13:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -155,15 +182,6 @@
       "tag": "government"
     },
     {
-      "title": "Alaska governor gives vote count update in &#039;very close&#039; Senate race",
-      "desc": "Alaska Gov. Mike Dunleavy (R) provided an update on the Last Frontier's closely watched Senate race as vote counting continues. “It’s very close,” the Alaska Republican said in an interview with John ",
-      "link": "https://thehill.com/homenews/campaign/6206385-alaska-dunleavy-vote-update/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
       "desc": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
       "link": "https://www.wired.com/gallery/best-computer-speakers/",
@@ -182,30 +200,12 @@
       "tag": "technology"
     },
     {
-      "title": "Texas, Iowa, Georgia brace for new education fights under Democratic governors",
-      "desc": "The trajectory of education policy in a trio of historically red states is about to see a major shakeup after voters there elected Democratic governors for the first time in decades. For years, positi",
-      "link": "https://thehill.com/homenews/education/6205094-texas-iowa-georgia-schools-classrooms-students/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 11:12:28 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan voters faced 6 marijuana questions Nov. 3. Here’s what they decided",
       "desc": "Voters in six Michigan communities weighed in on marijuana businesses in the Nov. 3 election. See what they decided.",
       "link": "https://www.mlive.com/cannabis/2026/11/michigan-voters-faced-6-marijuana-questions-nov-3-heres-what-they-decided.html",
       "date": "Nov 8, 2026",
       "rawDate": "Sun, 08 Nov 2026 11:00:00 +0000",
       "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats won Congress. Can they actually stop Trump’s tariffs?",
-      "desc": "On the heels of their resounding victories in the midterms, Democrats are preparing to take President Trump’s tariffs head-on as part of their pledge to lower the cost of living.  The tariffs, a centr",
-      "link": "https://thehill.com/business/6205219-democrats-target-trump-tariffs/",
-      "date": "Nov 8, 2026",
-      "rawDate": "Sun, 08 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
       "tag": "government"
     },
     {
@@ -560,7 +560,7 @@
       "tag": "education"
     },
     {
-      "title": "Amy Acton explains why she won’t speak to Vivek Ramaswamy after Ohio win",
+      "title": "Acton makes history in Ohio, but won't speak to Ramaswamy",
       "desc": "Ohio Gov.-elect Amy Acton says she has “no intention” of speaking to Vivek Ramaswamy after defeating him in the Ohio governor race, pointing to a controversial campaign ad featuring her estranged moth",
       "link": "https://www.mlive.com/news/2026/11/amy-acton-reveals-why-she-wont-speak-to-vivek-ramaswamy-after-election.html",
       "date": "Nov 6, 2026",
@@ -821,15 +821,6 @@
       "tag": "technology"
     },
     {
-      "title": "Iran strikes kept quiet during midterm homestretch set off worries about transparency",
-      "desc": "A series of reported secret U.S. military attacks carried out against Iran in the lead-up to Tuesday's midterm elections is raising alarms around public transparency. The United States's Monday strike",
-      "link": "https://thehill.com/policy/defense/6199633-trump-iran-strikes-midterm-transparency/",
-      "date": "Nov 5, 2026",
-      "rawDate": "Thu, 05 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Voters fiercely reject data centers",
       "desc": "Fierce pushback to data centers helped carry Democrats to victory in key races across the nation this week, and where the centers were explicitly on the ballot, they lost overwhelmingly.  Midterm vote",
       "link": "https://thehill.com/policy/technology/6199554-ai-data-centers-midterm-elections-texas-ohio/",
@@ -898,15 +889,6 @@
       "link": "https://thehill.com/homenews/campaign/6173294-virginia-voters-pass-reproductive-freedom/",
       "date": "Nov 4, 2026",
       "rawDate": "Wed, 04 Nov 2026 05:28:49 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "New York reports first measles-associated death in more than 30 years",
-      "desc": "A child in upstate New York died after contracting measles, according to health officials, the first measles-related death in the state in more than 30 years.  The child lived in Lewis County, a rural",
-      "link": "https://thehill.com/policy/healthcare/6192756-new-york-first-measles-death/",
-      "date": "Nov 3, 2026",
-      "rawDate": "Tue, 03 Nov 2026 17:21:08 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

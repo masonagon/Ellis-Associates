@@ -1,6 +1,141 @@
 {
-  "generated": "2026-11-15T07:23:26.718Z",
+  "generated": "2026-11-15T15:08:15.791Z",
   "news": [
+    {
+      "title": "2 found dead in home after police respond to disorderly person",
+      "desc": "Two people were found dead inside a Roseville home, and a man detained at the scene remains in police custody.",
+      "link": "https://www.mlive.com/news/2026/11/2-found-dead-in-home-after-police-respond-to-disorderly-person.html",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 15:06:57 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Man killed in targeted Dearborn shooting, police say",
+      "desc": "Dearborn police urge anyone with information to come forward.",
+      "link": "https://www.mlive.com/news/2026/11/man-killed-in-targeted-dearborn-shooting-police-say.html",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 14:42:03 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Police investigate shooting on Grand Rapids’ southeast side",
+      "desc": "Police are investigating a Saturday night shooting in Grand Rapids.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/11/police-investigate-shooting-on-grand-rapids-southeast-side.html",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 14:27:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "University of Michigan expanding its solar capacity with Maize Rays",
+      "desc": "The University of Michigan is about a year into its Maize Rays program. UM eventually plans to add 25 MW of solar power to its campus with the program.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/university-of-michigan-expanding-its-solar-capacity-with-maize-rays.html",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 14:23:07 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Alaska Senate race still uncalled",
+      "desc": "Treasury Secretary Sean Duffy is set to appear on several Sunday news talk shows after a rare Federal Aviation Administration (FAA) nationwide ground stop disrupted flights across the country Friday. ",
+      "link": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 14:18:23 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Security breaches, tarmac collision exacerbate FAA ground stop aftermath",
+      "desc": "Security breaches in Denver and Dallas and a tarmac collision in Miami are exacerbating the aftermath of the Federal Aviation Administration’s (FAA) grounding of all flights Friday.  The collision at ",
+      "link": "https://thehill.com/policy/transportation/6221273-faa-grounding-flights-delays-incidents/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 14:10:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal",
+      "desc": "Commerce Secretary Howard Lutnick is facing heat in Washington, including from Treasury Secretary Scott Bessent, over his approach to AI chip export controls amid Nvidia's national security scandal.  ",
+      "link": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 14:06:18 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "How lower courts became the last line of defense for the 2026 elections",
+      "desc": "Democrats need to use their new majority in Congress to address partisan gerrymandering, strengthen the Voting Rights Act, and regulate the flood of dark money into politics, even if some reforms may ",
+      "link": "https://thehill.com/opinion/judiciary/6218795-federal-judges-block-trump-election-interference/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 13:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper",
+      "desc": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+      "link": "https://www.wired.com/story/best-paper-planners/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 12:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Confirming judges, defense funding top of GOP&#039;s lame-duck agenda: Cramer",
+      "desc": "Sen. Kevin Cramer (R-N.D.) said he and his fellow GOP senators will focus on confirming President Trump’s federal judge nominees during their remaining time leading the upper chamber, laying out the R",
+      "link": "https://thehill.com/homenews/senate/6221099-gop-lame-duck-agenda-cramer/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "desc": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+      "desc": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
+      "link": "https://www.wired.com/review/logitech-yeti-2/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 11:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Crypto was hoping for a breakthrough in Congress. Now it&#039;s bracing for investigations",
+      "desc": "The cryptocurrency industry is bracing for a changing of the guard in Congress, as Democrats take control of both the House and Senate with a more skeptical eye toward digital assets. After a major cr",
+      "link": "https://thehill.com/policy/technology/6219609-democrats-congress-control-crypto/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Democrats bullish on South after historic midterms gains",
+      "desc": "Democrats are seeing new opportunities in the South after stunning midterm victories in Mississippi, South Carolina and Texas.  The party's wins were both big and broad: It flipped highly competitive ",
+      "link": "https://thehill.com/homenews/campaign/6219610-south-democrats-strategy-midterm-wins/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "desc": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "SpaceX catches Starship for first time, drawing praise in Washington",
       "desc": "SpaceX’s Starship aircraft successfully touched back down at a South Texas launch site Saturday afternoon — marking a historic milestone in the aerospace giant's effort to build reusable rockets.  The",
@@ -47,33 +182,6 @@
       "tag": "safety"
     },
     {
-      "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
-      "desc": "Democrats are charting their political future and issuing warnings to exercise their oversight powers against the Trump administration after gaining control of Congress with sweeping midterm election ",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 23:55:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Federalist Society&#039;s celebrations mix with shock over Democratic sweep",
-      "desc": "Two years ago, a champagne cork went flying on the Federalist Society convention stage as panelists toasted recent Supreme Court wins. A celebratory mood was still on display at this year’s annual gat",
-      "link": "https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 23:25:26 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Burchett rips Johnson, Thune over FAA funding: &#039;Step up to the daggum plate&#039;",
-      "desc": "GOP Rep. Tim Burchett (Tenn.) called on his party's congressional leadership — House Speaker Mike Johnson (La.) and Senate Majority Leader John Thune (S.D.) to \"step up to the daggum plate\" Saturday m",
-      "link": "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 23:08:06 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Crash kills Coldwater man and 5-year-old son, injures 4-year-old daughter",
       "desc": "Police believe speed was a factor in the crash.",
       "link": "https://www.mlive.com/news/jackson/2026/11/crash-kills-coldwater-man-and-5-year-old-son-injures-4-year-old-daughter.html",
@@ -101,33 +209,6 @@
       "tag": "technology"
     },
     {
-      "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
-      "desc": "Democratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump’s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal oversight — accusat",
-      "link": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 20:33:01 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump says he&#039;s working with bipartisan senators on film industry legislation",
-      "desc": "President Trump announced plans to pursue legislation to boost the U.S. film industry alongside a group of Republican and Democratic senators, a show of bipartisanship as his party prepares to hand ov",
-      "link": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 20:29:07 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump says he&#8217;s working with bipartisan senators on film industry legislation",
-      "desc": "President Trump announced plans to pursue legislation to boost the U.S. film industry alongside a group of Republican and Democratic senators, a show of bipartisanship as his party prepares to hand ov",
-      "link": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 20:29:07 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Nessel adds felony charges for businesswoman accused of stealing state funds",
       "desc": "She reportedly used stolen funds to pay for legal expenses for using stolen funds.",
       "link": "https://www.mlive.com/news/2026/11/nessel-adds-felony-charges-for-businesswoman-accused-of-stealing-state-funds.html",
@@ -135,33 +216,6 @@
       "rawDate": "Sat, 14 Nov 2026 20:06:28 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "The MAGA-lomaniacs who could drag America into the abyss",
-      "desc": "Recent midterm elections resulted in a significant rebuke of the Trump administration, prompting criticism of unfulfilled campaign promises from both former allies like Tucker Carlson and Vice Preside",
-      "link": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 19:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Mike Johnson: &#039;We don’t really need any investigation&#039; into FAA ground stop",
-      "desc": "House Speaker Mike Johnson (R-La.) said there is no need for an investigation into the ground stop issued by the Federal Aviation Administration (FAA) on Friday, instead highlighting the need for “inv",
-      "link": "https://thehill.com/policy/transportation/6220851-mike-johnson-faa-ground-stop/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 18:56:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Fetterman: Naming Van Hollen majority leader &#039;would be troubling&#039;",
-      "desc": "Sen. John Fetterman (D-Pa.) hinted that he could leave the Democratic Party if Sen. Chris Van Hollen (D-Md.) is elected as the Senate Majority Leader. “Yeah, absolutely, it would be troubling if my ca",
-      "link": "https://thehill.com/homenews/campaign/6220813-fetterman-van-hollen-democrats/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 18:19:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "New York sued over &#039;warning label&#039; law for social media applications",
@@ -335,24 +389,6 @@
       "tag": "technology"
     },
     {
-      "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
-      "desc": "As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.",
-      "link": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 10:30:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Dell Coupon Codes: 20% Off for November 2026",
-      "desc": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "AI company behind FAA&#039;s SMART tool denies link to ground stop, Duffy confirms",
       "desc": "Air Space Intelligence (ASI), the company behind a recently deployed Federal Aviation Administration (FAA) AI tool, denied any link to the nationwide ground stop issued Friday afternoon. “The current ",
       "link": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/",
@@ -434,15 +470,6 @@
       "tag": "technology"
     },
     {
-      "title": "Human trafficking at massage parlors: FBI explains warning signs",
-      "desc": "Federal agents say many workers arrive in the U.S. expecting legitimate jobs in hospitality or restaurants, only to have their documents withheld and be forced into sexual services and long hours with",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/human-trafficking-at-massage-parlors-fbi-explains-warning-signs.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 21:16:18 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Uber reports US driver&#039;s license information stolen during data breach",
       "desc": "Uber disclosed this week an unauthorized third party improperly accessed the ride-hailing platform's data, according to a notice shared by the California attorney general’s office. In the notice, date",
       "link": "https://thehill.com/policy/technology/6219607-uber-drivers-license-data-stolen/",
@@ -479,15 +506,6 @@
       "tag": "education"
     },
     {
-      "title": "Ann Arbor launches program pairing cop with social worker to handle mental health crises",
-      "desc": "The program is one of two crisis response partnerships approved by the city in July.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/ann-arbor-launches-program-pairing-cop-with-social-worker-to-handle-mental-health-crises.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 19:05:50 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "DJ Khaled shares he lost 90 pounds with help of GLP-1 drug",
       "desc": "In October 2025, Khaled experienced a health scare at a concert, which led to a lifestyle change.",
       "link": "https://thehill.com/blogs/in-the-know/6217487-dj-khaled-glp-1-drug-journey/",
@@ -506,15 +524,6 @@
       "tag": "health"
     },
     {
-      "title": "Major Driscoll’s strawberry supplier is closing 6 farms by early 2027: What’s behind it",
-      "desc": "A major strawberry supplier is closing several farms as the berry industry faces mounting economic headwinds. Driscoll's has not announced how it intends to address potential supply issues or if the c",
-      "link": "https://www.mlive.com/news/2026/11/major-driscolls-strawberry-supplier-is-closing-6-farms-by-early-2027-whats-behind-it.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 18:38:26 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Bay City e-bike concerns prompt call for town hall",
       "desc": "City commissioners are requesting a public forum after repeated safety complaints about electric bikes and scooters operated by children unfamiliar with traffic laws.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/bay-city-e-bike-concerns-prompt-call-for-town-hall.html",
@@ -522,24 +531,6 @@
       "rawDate": "Fri, 13 Nov 2026 18:36:00 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "This Ottawa County company is strengthening hunger relief efforts across West Michigan",
-      "desc": "Coopersville-based fairlife announced a $100,000 donation to four West Michigan organizations working to combat food insecurity and expand access to nutrition for local families.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/this-ottawa-county-company-is-strengthening-hunger-relief-efforts-across-west-michigan.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 17:32:37 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Popular Chicago-area restaurant chain to close multiple stores, many by end of 2026",
-      "desc": "The closures were revealed during the company's third quarter earnings call last week. It is unclear exactly when the closures will happen, but \"most of them\" are expected in the fiscal fourth quarter",
-      "link": "https://www.mlive.com/news/2026/11/popular-chicago-area-restaurant-chain-to-close-multiple-stores-many-by-end-of-2026.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 17:13:58 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Trump offers stunning praise for Democrat who just won historic Senate race in deep-red state",
@@ -560,15 +551,6 @@
       "tag": "technology"
     },
     {
-      "title": "Multiple shots fired at Holland house, police investigating",
-      "desc": "Holland police said multiple rounds were fired at a West 22nd Street house about 8:30 p.m. Thursday, Nov. 12. No one was injured.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/multiple-shots-fired-at-holland-house-police-investigating.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 16:30:54 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Flint reaches tentative contract deal with union representing supervisory employees",
       "desc": "Nearly 90% of AFSCME Local 1799 members voted to ratify the agreement, which now heads to the Flint City Council for final approval.",
       "link": "https://www.mlive.com/news/flint/2026/11/flint-reaches-tentative-contract-deal-with-union-representing-supervisory-employees.html",
@@ -576,24 +558,6 @@
       "rawDate": "Fri, 13 Nov 2026 16:11:36 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "Kraft Heinz selling beloved coffee brand in $650M deal: Here’s why",
-      "desc": "Kraft Heinz is giving up control of one of coffee's most recognizable brands. Here's why, and what the company plans to do with the roughly $500 million it expects to get from the $650 million deal.",
-      "link": "https://www.mlive.com/news/2026/11/kraft-heinz-selling-beloved-coffee-brand-in-650m-deal.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 16:08:48 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
-      "title": "Bessent: Treasury pushed to blacklist Megaspeed, but &#039;Commerce has the pen&#039;",
-      "desc": "Treasury Secretary Scott Bessent is pointing the finger at Commerce Secretary Howard Lutnick over the Trump administration's failure to place Nvidia customer Megaspeed on a U.S. trade blacklist for na",
-      "link": "https://thehill.com/homenews/administration/6218454-bessent-lutnick-megaspeed-dispute/",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 15:25:57 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Polling guru says the Trump era has reached a turning point — here’s why",
@@ -675,15 +639,6 @@
       "rawDate": "Thu, 12 Nov 2026 22:06:23 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "GOP Speaker bashes Thomas Massie for latest ‘political stunt’ involving Epstein files",
-      "desc": "Now,  Thomas Massie wants the House to vote on another bill related to the Epstein files.",
-      "link": "https://www.mlive.com/politics/2026/11/gop-speaker-bashes-thomas-massie-for-latest-political-stunt-involving-epstein-files.html",
-      "date": "Nov 12, 2026",
-      "rawDate": "Thu, 12 Nov 2026 21:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
     },
     {
       "title": "American Cancer Society recommends regular prostate cancer testing in updated guidelines",
@@ -925,15 +880,6 @@
       "link": "https://www.mlive.com/news/ann-arbor/2026/11/ypsilanti-schools-superintendent-earns-top-statewide-honor.html",
       "date": "Nov 10, 2026",
       "rawDate": "Tue, 10 Nov 2026 21:21:39 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Marching bands: West Michigan schools sweep 2026 state championship titles",
-      "desc": "All five flight champions are West or Southwest Michigan high schools.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/marching-bands-west-michigan-schools-sweep-2026-state-championship-titles.html",
-      "date": "Nov 10, 2026",
-      "rawDate": "Tue, 10 Nov 2026 21:01:00 +0000",
       "source": "MLive Education",
       "tag": "education"
     },

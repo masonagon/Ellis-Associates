@@ -1,6 +1,33 @@
 {
-  "generated": "2026-11-15T00:33:36.100Z",
+  "generated": "2026-11-15T07:23:26.718Z",
   "news": [
+    {
+      "title": "SpaceX catches Starship for first time, drawing praise in Washington",
+      "desc": "SpaceX’s Starship aircraft successfully touched back down at a South Texas launch site Saturday afternoon — marking a historic milestone in the aerospace giant's effort to build reusable rockets.  The",
+      "link": "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 04:14:36 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
+      "desc": "A federal judge barred the Trump administration Saturday from closing East Potomac Park this weekend, ruling the closure could not go forward for at least another two weeks. It's a setback for Preside",
+      "link": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 02:02:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Propane tank explodes, starts fire in Ypsilanti homeless encampment",
+      "desc": "The encampment was vacant when crews arrived.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/propane-tank-explodes-starts-fire-in-ypsilanti-homeless-encampment.html",
+      "date": "Nov 15, 2026",
+      "rawDate": "Sun, 15 Nov 2026 00:56:59 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
     {
       "title": "Carney says he&#8217;s &#8216;making progress&#8217; with Trump on possible US-Canada trade deal",
       "desc": "Canadian Prime Minister Mark Carney said Saturday trade negotiations between his government and the U.S. were progressing amid a monthslong tariff battle between the two countries.  The leader told re",
@@ -137,40 +164,13 @@
       "tag": "government"
     },
     {
-      "title": "5 things to know on the FAA groundings",
-      "desc": "The Federal Aviation Administration (FAA) has air traffic control systems back online after a major telecommunications outage grounded all U.S. flights Friday evening. The delay stranded passengers ac",
-      "link": "https://thehill.com/policy/transportation/6220783-faa-ground-stop-what-to-know/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 17:52:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "New York sued over &#039;warning label&#039; law for social media applications",
       "desc": "An internet trade group, representing 30 members including Google, YouTube, Facebook and Instagram, has sued the state of New York challenging its law that requires social media platforms ​to provide ",
       "link": "https://thehill.com/policy/technology/6220727-netchoice-sues-new-york-social-media/",
       "date": "Nov 14, 2026",
       "rawDate": "Sat, 14 Nov 2026 17:01:32 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "New York sued over &#8216;warning label&#8217; law for social media applications",
-      "desc": "An internet trade group, representing 30 members including Google, YouTube, Facebook and Instagram, has sued the state of New York challenging its law that requires social media platforms ​to provide ",
-      "link": "https://thehill.com/policy/technology/6220727-netchoice-sues-new-york-social-media/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 17:01:32 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
-      "title": "Some Republicans say rising stars should sit out 2028 after midterm shellacking",
-      "desc": "Republicans are actively talking about the wisdom of GOP candidates skipping the 2028 presidential race and focusing on 2032, arguing the political atmosphere in two years will be too poisonous for th",
-      "link": "https://thehill.com/homenews/campaign/6219720-gop-candidates-considering-2032/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 17:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "Pennsylvania, Wisconsin report additional deaths linked to measles",
@@ -585,15 +585,6 @@
       "rawDate": "Fri, 13 Nov 2026 16:08:48 +0000",
       "source": "MLive Business",
       "tag": "associations"
-    },
-    {
-      "title": "Traverse City man arrested on assault, unlawful imprisonment charges",
-      "desc": "Chad Matzen, 33, is being held on $100,000 bond after an investigation by Michigan State Police into a domestic assault that occurred in Grand Traverse County on Oct. 31.",
-      "link": "https://www.mlive.com/news/2026/11/traverse-city-man-arrested-on-assault-unlawful-imprisonment-charges.html",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 15:44:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Bessent: Treasury pushed to blacklist Megaspeed, but &#039;Commerce has the pen&#039;",

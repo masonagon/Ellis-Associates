@@ -1,50 +1,410 @@
 {
-  "generated": "2026-11-17T09:55:56.288Z",
+  "generated": "2026-11-17T18:53:57.180Z",
   "news": [
     {
-      "title": "AT&amp;T Promo Codes: $50 Off This November 2026",
-      "desc": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "link": "https://www.wired.com/story/att-promo-code/",
+      "title": "Jeffries demands high-level briefing on rash of recent outages: ‘Troubling&#039;",
+      "desc": "House Minority Leader Hakeem Jeffries (D-N.Y.) is calling on the Trump administration to brief Congress on the rash of high-profile outages that have hobbled both public and private sector technology ",
+      "link": "https://thehill.com/homenews/house/6225752-jeffries-calls-trump-briefings/",
       "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 06:00:00 +0000",
+      "rawDate": "Tue, 17 Nov 2026 18:44:51 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘The time to get it done is now’: Lawmakers stress urgency on permitting reform bill",
+      "desc": "Lawmakers on both sides of the aisle are banding together to stress the need for Congress to act now and pass a major bipartisan permitting reform bill, before the makeup of the legislative branch cha",
+      "link": "https://thehill.com/policy/energy-environment/6225607-congress-pushes-baaja-permit-reform/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:33:45 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jackson County high school marching band to perform at Detroit Thanksgiving parade",
+      "desc": "The Marching Mounties will join hundreds of thousands of spectators along Woodward Avenue and reach millions more through the national TV broadcast.",
+      "link": "https://www.mlive.com/news/jackson/2026/11/jackson-county-high-school-marching-band-to-perform-at-detroit-thanksgiving-parade.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:30:32 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Democrat floats $1,700 check proposal in swipe at Trump over Iran war",
+      "desc": "Ro Khanna is taking a page out of Donald Trump’s playbook with a proposal to hand out direct checks to Americans.",
+      "link": "https://www.mlive.com/politics/2026/11/democrat-floats-1700-check-proposal-in-swipe-at-trump-over-iran-war.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:30:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Unions left pro-union Republicans out to dry",
+      "desc": "The author argues that Republicans failed to gain political support from union households despite backing the Faster Labor Contracts Act during the recent midterm elections.",
+      "link": "https://thehill.com/opinion/congress-blog/labor/6224145-gop-workers-vs-union-leaders/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:30:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2 teens escape deer blind explosion on opening day of hunt",
+      "desc": "Investigators believe the fire stemmed from a confluence of static electricity and a leaking propane tank.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/2-teen-hunters-survive-explosion-in-bay-county-deer-blind.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:25:10 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Musk: Duffy declined offer of free Starlink for FAA",
+      "desc": "Space X CEO Elon Musk said on Monday that Transportation Secretary Sean Duffy turned down a “Free Starlinks” offer for the Federal Aviation Administration (FAA). “Free Starlinks for FAA were offered t",
+      "link": "https://thehill.com/policy/technology/6225656-musk-claims-duffy-rejected-free-starlinks/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:23:04 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hawley calls explanation for FAA outage &#039;a little hard to believe&#039;",
+      "desc": "Sen. Josh Hawley (R-Mo.) is calling for an explanation for the Federal Aviation Administration’s (FAA) outage, calling the alleged reason being a router in Arkansas “a little hard to believe.” “The fu",
+      "link": "https://thehill.com/homenews/senate/6225685-hawley-demands-faa-outage-explanation/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:15:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Hakeem Jeffries&#039;s road to the Speakership will be nothing like Nancy Pelosi’s in 2018",
+      "desc": "Rep. Hakeem Jeffries is set to be re-elected as Democratic leader following a period of successful fundraising and caucus unity during the second Trump administration.",
+      "link": "https://thehill.com/opinion/congress-blog/6223951-house-dems-leader-vote/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 18:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kelly: Democrats will discuss moving up date of Schumer-Van Hollen leadership vote",
+      "desc": "Sen. Mark Kelly (D-Ariz.), who's supported Sen. Chuck Schumer's (D-N.Y.) majority leader bid, endorsed the idea Tuesday of moving up the date of the Senate's Democratic leadership election, saying his",
+      "link": "https://thehill.com/the-120/6225589-kelly-democratic-early-senate-leader-vote/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 17:59:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "What is a dirty bomb? What to know about reported Iran threat",
+      "desc": "A dirty bomb combines conventional explosives with radioactive material but cannot produce a nuclear explosion.",
+      "link": "https://thehill.com/policy/defense/6225006-iran-threat-dirty-bomb-explainer/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 17:58:06 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "No smoke alarms in home where Saginaw man, pets perished",
+      "desc": "A 45-year-old man died after firefighters found him near the front door of his burning home on South Niagara Street. His mother escaped through the back and was hospitalized for smoke inhalation.",
+      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/saginaw-man-2-pets-killed-in-morning-house-fire-on-west-side.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 17:49:22 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Democrats go after Trump administration over US losing measles elimination status",
+      "desc": "Democratic lawmakers are going after the Trump administration after a global health organization announced the U.S. has officially lost its measles-free status. On Tuesday, the U.S. lost its measles e",
+      "link": "https://thehill.com/policy/healthcare/6225550-democrats-criticize-trump-rfk-measles/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 17:41:14 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+      "desc": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
+      "link": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 17:32:24 +0000",
       "source": "Wired",
       "tag": "technology"
     },
     {
-      "title": "Peltola expands lead over Sullivan in latest ballot drop",
-      "desc": "Former Rep. Mary Peltola (D-Alaska) continues to pull ahead of incumbent Sen. Dan S. Sullivan (R-Alaska) in the last Senate race to be called from November's midterms. The latest ballot drop from Alas",
-      "link": "https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/",
+      "title": "Politicized Christianity was on the midterm ballot",
+      "desc": "Democratic candidates like James Talarico and Adam Hamilton successfully leveraged their Christian faith during recent elections, winning seats in traditionally conservative strongholds despite long-s",
+      "link": "https://thehill.com/opinion/campaign/6224140-democrats-rise-religious-left/",
       "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 03:49:38 +0000",
+      "rawDate": "Tue, 17 Nov 2026 17:30:00 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Comer announces bid for Kentucky governor",
-      "desc": "Rep. James Comer (R-Ky.) announced a bid for Kentucky’s governor’s mansion following an election cycle where Democrats took control of Congress and a historic number of state legislatures.  \"Serving t",
-      "link": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
+      "title": "Caledonia Farmers Elevator silo fire cleanup underway",
+      "desc": "Firefighters spent Monday battling the blaze at the Kent County feed mill after workers discovered smoke coming from a concrete silo early in the morning.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/11/caledonia-farmers-elevator-silo-fire-cleanup-underway.html",
       "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 03:07:31 +0000",
+      "rawDate": "Tue, 17 Nov 2026 17:10:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Leavitt: White House needs to &#039;calm the temperature&#039; after nationwide tech outages",
+      "desc": "Former White House Press Secretary Karoline Leavitt called on the White House to be more transparent regarding to the nationwide tech outages in recent days, advising officials to spread their message",
+      "link": "https://thehill.com/policy/technology/6225426-leavitt-calls-white-house-transparency/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 17:01:41 +0000",
       "source": "The Hill Politics",
       "tag": "government"
     },
     {
-      "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
-      "desc": "Senate Republicans on Monday unveiled a nearly $1.1 trillion defense appropriations bill for fiscal year 2027, which includes tens of billions in funding for programs initially part of the Pentagon’s ",
+      "title": "Flint police-fire flag football game gets heated, prompting apology",
+      "desc": "A charity flag football game between Flint police and firefighters turned physical, prompting a joint apology from both departments for failing to meet professional standards.",
+      "link": "https://www.mlive.com/news/flint/2026/11/flint-police-fire-flag-football-game-gets-heated-prompting-apology.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 16:30:24 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "US loses measles elimination status after more than 25 years",
+      "desc": "The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two yea",
+      "link": "https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 16:10:14 +0000",
+      "source": "The Hill Healthcare",
+      "tag": "health"
+    },
+    {
+      "title": "O&#039;Reilly: &#039;Trump may be wrong in the way he handles Xi and Putin&#039;",
+      "desc": "Commentator Bill O’Reilly said Monday the way President Trump interacts with Chinese President Xi Jinping and Russian President Vladimir Putin may not be successful. “Trump may be wrong in the way he ",
+      "link": "https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 16:10:06 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Clio man charged after alleged 7-hour chat with undercover GHOST officer",
+      "desc": "The 35-year-old man was arrested after a seven-hour exchange with an undercover GHOST decoy posing as a minor.",
+      "link": "https://www.mlive.com/news/flint/2026/11/clio-man-charged-after-alleged-7-hour-chat-with-undercover-ghost-officer.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 15:53:22 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Huang agrees to testify before House lawmakers",
+      "desc": "Jensen Huang, the tech executive at the center of an alleged Chinese corporate espionage scandal, has agreed to testify before Congress in a closed-door briefing focused on threats to U.S. national se",
+      "link": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 15:53:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Top Nvidia lawyer agrees to testify before Congress",
+      "desc": "Nvidia's general counsel, Tim Teter, has agreed to appear before Congress next month to discuss chip export controls amid the fallout from ex-CEO Jensen Huang's affair with an alleged Chinese spy. Thr",
+      "link": "https://thehill.com/policy/technology/6225075-nvidia-counsel-teter-jensen-huang-testimony/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 15:43:27 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Iran targets US sites in Bahrain after 2-month pause",
+      "desc": "Iran on Tuesday fired multiple one-way attack drones towards a U.S. radar facility in Bahrain, marking renewed strikes on American targets in the region after a quiet period of about two months. The d",
+      "link": "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 15:33:17 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Google: &#039;The era of autonomous attacks has arrived&#039;",
+      "desc": "Google on Tuesday warned that the threat posed by autonomous AI models reached a new threshold, ominously stating that \"the era of autonomous attacks has arrived.\" \"Imagine a hacker that doesn’t eat, ",
+      "link": "https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 15:27:06 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Mullin blames tech outages on &#039;SI&#039;",
+      "desc": "Homeland Security Secretary Markwayne Mullin said super intelligence, or “SI”, could be behind the recent technology outages, citing his conversation with an unnamed person from the technology industr",
+      "link": "https://thehill.com/policy/technology/6224803-mullin-blames-si-outages/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 15:01:04 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "US agencies confirm investigation into Nvidia partner Megaspeed",
+      "desc": "The Department of Commerce and Department of Justice (DOJ) confirmed Monday they are investigating Megaspeed, a Singapore-based data center company at the center of the Nvidia scandal. The Commerce De",
+      "link": "https://thehill.com/policy/technology/6224649-us-investigates-megaspeed-nvidia-chips/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 14:32:31 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Duffy on calls for new software: &#039;This stuff is just really old&#039;",
+      "desc": "Transportation Secretary Sean Duffy reiterated his call for Congress to approve funding for the Federal Aviation Administration (FAA) to upgrade airports and the air traffic control network, stressing",
+      "link": "https://thehill.com/policy/transportation/6224439-sean-duffy-infrastructure-software-upgrades-faa-outage-response/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 14:29:39 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Pentagon fails ninth financial audit in a row",
+      "desc": "The Pentagon failed its ninth financial audit in a row as many of the department’s financial management systems are outdated and inadequate. The audit included nearly 30 of the department’s components",
+      "link": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 14:24:06 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Michigan classrooms go smartphone-free as study finds modest gains nationwide",
+      "desc": "Are phone bans helping U.S. students learn? Emerging research suggests they might, but the academic gains have been modest.",
+      "link": "https://www.mlive.com/politics/2026/11/michigan-classrooms-go-smartphone-free-as-study-finds-modest-gains-nationwide.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 13:45:39 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Watch live: Cao faces Senate confirmation hearing to lead Navy",
+      "desc": "Acting Navy Secretary Hung Cao will appear before the Senate Armed Services Committee on Tuesday as he seeks confirmation to permanently lead the branch. Cao, a retired Navy captain, took over in Apri",
+      "link": "https://thehill.com/policy/defense/6224418-hung-cao-navy-secretary-hearing/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 13:43:51 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Trump on outages: &#039;It’s fine&#039;",
+      "desc": "President Trump on Tuesday weighed in on a spate of recent tech outages, saying “it’s fine.” “It’s life. When you’re big and powerful and have all the money, things like that happen,” he said in Manil",
+      "link": "https://thehill.com/homenews/administration/6224428-donald-trump-dismisses-tech-outages/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 13:38:19 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Vance on whether Americans should stock up on food, water: &#039;We don&#039;t see a crisis coming down&#039;",
+      "desc": "Vice President Vance on Monday said the White House does not “see a crisis coming down” in response to reports that Americans are stocking up on food and water amid recent technology outages.  Fox New",
+      "link": "https://thehill.com/homenews/administration/6224270-jd-vance-trump-administration-tech-outages-crisis-response/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 13:12:00 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Ever wanted to own a Christmas tree farm? 80-acre Michigan rural paradise hits market at $999,000",
+      "desc": "The unique turn-key opportunity to live your dream life has about 20,000 Christmas trees already growing in the ground.",
+      "link": "https://www.mlive.com/news/flint/2026/11/ever-wanted-to-own-your-own-christmas-tree-farm-80-acre-michigan-rural-paradise-hits-market-at-999000.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 12:45:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Michigan baker competes for $25K, yarn and handmade goods shop opens and more local business news",
+      "desc": "Learn more about these stories and other Flint-area business news with these recent headlines",
+      "link": "https://www.mlive.com/news/flint/2026/11/michigan-baker-competes-for-25k-yarn-and-handmade-goods-shop-opens-and-more-local-business-news.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 12:30:00 +0000",
+      "source": "MLive Business",
+      "tag": "associations"
+    },
+    {
+      "title": "Trump on dirty bomb report: &#039;We take it very seriously&#039;",
+      "desc": "President Trump said Tuesday that he takes the threat of the dirty bomb from Iran “very seriously” because “they happen to be crazy.” Trump, speaking to reporters in Manila, Philippines, said the admi",
+      "link": "https://thehill.com/policy/defense/6224265-donald-trump-iran-dirty-bomb-threat/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 12:19:18 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
+      "desc": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
+      "link": "https://www.wired.com/review/capillus-hairband/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "‘That’s my baby.’ Michigan scientists spent 25 years on key instrument in Mercury mission",
+      "desc": "University of Michigan scientists have collaborated with colleagues around the world for decades to get BepiColombo into orbit of Mercury. It is scheduled to enter the planet's orbit on Nov. 21.",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/thats-my-baby-michigan-scientists-spent-25-years-on-key-instrument-in-mercury-mission.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "desc": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+      "desc": "Throughout the past year, the children’s entertainer has called for grown-ups to do more to stand up for children everywhere, from ICE detention centers to Gaza.",
+      "link": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "desc": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+      "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 10:47:45 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
+      "desc": "The electric-auto maker says it has invited some buyers to reserve a personal robotaxi. The arrangement raises big questions about the future of car ownership.",
+      "link": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 10:15:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
+      "desc": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
+      "link": "https://www.wired.com/story/do-you-need-a-smart-car-seat/",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 10:06:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Lowell residents respond to first draft of data center regulations",
+      "desc": "Lowell area residents say more work needs to be done on a proposed ordinance meant to control Microsoft’s $1 billion data center plan.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/11/lowell-residents-respond-to-first-draft-of-data-center-regulations.html",
+      "date": "Nov 17, 2026",
+      "rawDate": "Tue, 17 Nov 2026 03:46:19 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Senate GOP unveils nearly $1.1 trillion defense appropriations bill",
+      "desc": "Senate Republicans on Monday unveiled a nearly $1.1 trillion defense appropriations bill for fiscal 2027, and it includes tens of billions in funding for programs initially part of the Pentagon’s $350",
       "link": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/",
       "date": "Nov 17, 2026",
       "rawDate": "Tue, 17 Nov 2026 02:16:58 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Vance mocks Democrats for accusing Trump of being ‘soft on China’",
-      "desc": "Vice President Vance mocked Democrats who accused President Trump of being “soft on China” amid criticism of the administration's handling of the Nvidia scandal.  “Now again, I find it just hysterical",
-      "link": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 02:06:38 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "DeVos-owned company’s heliport proposal draws opposition in Ada Township",
@@ -56,15 +416,6 @@
       "tag": "associations"
     },
     {
-      "title": "Senate clears hurdle for bipartisan permitting reform package",
-      "desc": "Presented by EQT {beacon} Energy &#038; Environment Energy &#038; Environment The Big Story  Senate steps toward passing permitting reform package The Senate took a big step Monday to advance a bipart",
-      "link": "https://thehill.com/newsletters/energy-environment/6223994-senate-clears-hurdle-for-bipartisan-permitting-reform-package/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 01:03:04 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "3 arrested after Metro Detroit police chase stolen vehicle across county lines",
       "desc": "Police say the pursuit ended after the vehicle struck a home and a trooper forced it to stop.",
       "link": "https://www.mlive.com/news/detroit/2026/11/3-arrested-after-metro-detroit-police-chase-stolen-vehicle-across-county-lines.html",
@@ -72,15 +423,6 @@
       "rawDate": "Tue, 17 Nov 2026 00:38:11 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Senate takes big step toward passing permitting reform package",
-      "desc": "The Senate took a big step Monday to advance a bipartisan permitting reform package closer to final passage by voting to end debate on a managers’ amendment to strengthen provisions of the bill addres",
-      "link": "https://thehill.com/homenews/senate/6223468-senate-advances-baja-permitting-reform/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 00:07:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Joe Rogan breaks silence on midterm elections: ‘They didn’t just lose the podcast bros’",
@@ -97,8 +439,8 @@
       "link": "https://thehill.com/homenews/house/6223902-wellman-accuses-hegseth-crimes/",
       "date": "Nov 16, 2026",
       "rawDate": "Mon, 16 Nov 2026 23:38:43 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "‘Nothing’s left:’ Woman suffers severe burns in raging house fire",
@@ -110,51 +452,6 @@
       "tag": "safety"
     },
     {
-      "title": "Whip List: Schumer faces challenge from Van Hollen for Senate Democratic leader",
-      "desc": "Sen. Chuck Schumer (D-N.Y.), who has led Senate Democrats since 2017, is facing a new leadership challenge from Sen. Chris Van Hollen (D-Md.) after the big midterm wins by the party in November. Van H",
-      "link": "https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-leadership-race/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 23:33:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "United Airlines says system outage resolved",
-      "desc": "United Airlines on Monday said a system outage has been resolved, an issue that comes days after the Federal Aviation Administration (FAA) issued a ground stop that heavily impacted the airline’s serv",
-      "link": "https://thehill.com/policy/transportation/6223837-united-airlines-resolves-tech-outage/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 23:18:20 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cassidy says America wants &#039;something different&#039; than RFK Jr.",
-      "desc": "Presented by Coalition to Strengthen Americas Healthcare {beacon} Healthcare Healthcare   PRESENTED BY  The Big Story  Cassidy calls for RFK Jr. to be fired As his time in Congress comes to an end, Se",
-      "link": "https://thehill.com/newsletters/healthcare/6223759-cassidy-calls-rfk-jr-fired/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 22:47:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress",
-      "desc": "The reverberations from Friday’s massive air traffic ground stop are now being felt on Capitol Hill as the Trump administration pushes for an extra $50 billion in funding for the Federal Aviation Admi",
-      "link": "https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 22:44:13 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Buttigieg fires back at Trump over FAA outage blame",
-      "desc": "Former Transportation Secretary Pete Buttigieg on Monday went after President Trump for blaming him for the recent Federal Aviation Administration (FAA) ground stop. “Well, we've been trying to get th",
-      "link": "https://thehill.com/policy/transportation/6223723-buttigieg-trump-faa-groundstop/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 22:40:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Updated GVSU security operations center makes community safer, police say",
       "desc": "Grand Valley State University Director of Public Safety Thomas Lindstrom offered a glimpse Monday, Nov. 16, at his department's updated security operations center.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/11/updated-gvsu-security-operations-center-makes-community-safer-chief-says.html",
@@ -162,15 +459,6 @@
       "rawDate": "Mon, 16 Nov 2026 22:17:43 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
-      "desc": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
-      "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 21:45:45 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Chuck Schumer’s challenger reveals how many supporters secretly back him",
@@ -227,15 +515,6 @@
       "tag": "safety"
     },
     {
-      "title": "Mike Pence says Vance is ‘wrong’ about why Republicans lost the midterms",
-      "desc": "Mike Pence said JD Vance was “wrong” for his explanation of the Republican Party’s losses i",
-      "link": "https://www.mlive.com/politics/2026/11/mike-pence-says-vance-is-wrong-about-why-republicans-lost-the-midterms.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 20:00:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Bay County man gets probation for attack on police HQ",
       "desc": "Drew Janer, 34, was sentenced to three years probation and ordered to pay fines after ramming patrol vehicles and assaulting officers during a mental health crisis in February 2025.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/bay-county-man-gets-probation-for-attack-on-police-hq-that-caused-18k-in-damage.html",
@@ -254,31 +533,13 @@
       "tag": "associations"
     },
     {
-      "title": "Trump faces ‘rare challenge’ to power amid internal GOP fight",
-      "desc": "A faction within the committee is attempting to remove its chair, who is backed by the president.",
-      "link": "https://www.mlive.com/politics/2026/11/trump-faces-rare-challenge-to-power-amid-internal-gop-fight.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 19:04:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "OpenAI unveils tool to better detect child sexual abuse material",
-      "desc": "OpenAI released a new tool Monday aimed at detecting possible child sexual abuse material (CSAM), including content made with artificial intelligence. The image classifier, which will be available for",
-      "link": "https://thehill.com/policy/technology/6223070-openai-new-tool-child-sexual-abuse-material-classifier/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 19:03:51 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Whitmer talks business, attends Lions game during final overseas investment trip",
       "desc": "Whitmer met with business leaders and promoted Michigan tourism during the Germany trip but announced no new investments.",
       "link": "https://www.mlive.com/politics/2026/11/whitmer-talks-business-attends-lions-game-during-final-overseas-investment-trip.html",
       "date": "Nov 16, 2026",
       "rawDate": "Mon, 16 Nov 2026 19:02:08 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
+      "source": "MLive Business",
+      "tag": "associations"
     },
     {
       "title": "University of Michigan to consider $145M geo-exchange project",
@@ -297,15 +558,6 @@
       "rawDate": "Mon, 16 Nov 2026 18:27:29 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "What to know about Howard Lutnick and Scott Bessent feud",
-      "desc": "Commerce Secretary Howard Lutnick is facing pressure due to his approach to AI chip export controls as a national security scandal swirls around the tech company Nvidia, including from another member ",
-      "link": "https://thehill.com/homenews/administration/6223104-lutnick-bessent-ai-chip-clash/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 18:21:22 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Comstock Public Schools warns of staff cuts amid $1.2M shortfall",
@@ -335,15 +587,6 @@
       "tag": "safety"
     },
     {
-      "title": "Major pizza chain operator files bankruptcy, leaving 15 stores in limbo",
-      "desc": "A pizza chain franchisee and four affiliated companies have filed for bankruptcy — all on the same day. Combined, the companies list between $2.7 million and $22 million in liabilities.",
-      "link": "https://www.mlive.com/business/2026/11/major-pizza-chain-operator-files-bankruptcy-leaving-15-stores-in-limbo.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 17:30:34 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Saginaw police stop, Tase man with 5 guns, meth on Ojibway Island",
       "desc": "The man now faces 24 felonies for allegedly having three handguns, two rifles, and a bag of crystal meth.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/saginaw-police-stop-tase-man-with-5-guns-meth-on-ojibway-island.html",
@@ -351,33 +594,6 @@
       "rawDate": "Mon, 16 Nov 2026 17:11:42 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Trump administration seeks to restrict China&#039;s remote chip access after Nvidia scandal",
-      "desc": "The Trump administration is placing new restrictions on overseas data centers that provide China with remote access to computing power from advanced AI chips, after a high-profile spy scandal prompted",
-      "link": "https://thehill.com/policy/technology/6222897-bis-limits-remote-computing-exports/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 17:04:08 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Trump unloads on reporter who questioned his focus during FAA chaos: ‘Pathetic’",
-      "desc": "President Donald Trump attacked a reporter for pressing him on White House renovations while a rare nationwide ground stop was issued on Friday.",
-      "link": "https://www.mlive.com/politics/2026/11/trump-unloads-on-reporter-who-questioned-his-focus-during-faa-chaos-pathetic.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 16:53:20 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Major restaurant chain closing up to 44 locations in 2026, more planned in 2027",
-      "desc": "Earlier this year, the company said it planned to close 30 to 35 stores, but that number has increased heading into the fiscal fourth quarter.",
-      "link": "https://www.mlive.com/news/2026/11/major-restaurant-chain-closing-up-to-44-locations-in-2026-more-planned-in-2027.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 16:23:42 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Michigan mother dies months after crash that killed her infant son",
@@ -396,24 +612,6 @@
       "rawDate": "Mon, 16 Nov 2026 15:37:51 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Musk joins calls for Huang to return to Nvidia",
-      "desc": "Elon Musk has signed on to a letter calling on Nvidia's board of directors to reinstate former CEO Jensen Huang, after the ex-Nvidia chief resigned last week amid a scandal over an affair with an alle",
-      "link": "https://thehill.com/policy/technology/6222616-elon-musk-nvidia-jensen-huang/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 15:31:40 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Top Democrat accuses Commerce Department of failing to stop China from acquiring advanced chips",
-      "desc": "Sen. Maria Cantwell (D-Wash.) accused Commerce Secretary Howard Lutnick of putting U.S. national security at risk by failing to restrict the flow of advanced AI chips to China despite repeated warning",
-      "link": "https://thehill.com/homenews/senate/6222507-cantwell-accuses-lutnick-ai-risk/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 15:20:40 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Iran veteran: Troops had &#039;nothing&#039; to protect them from drone strikes",
@@ -443,15 +641,6 @@
       "tag": "health"
     },
     {
-      "title": "Trump &#039;certainly would not mind&#039; Huang returning as Nvidia CEO",
-      "desc": "President Trump said Monday that he wouldn’t mind seeing Jensen Huang reinstated as CEO of Nvidia after he resigned last week amid extramarital affairs with several women, including one suspected of b",
-      "link": "https://thehill.com/homenews/administration/6222441-tim-cook-nvda-ceo-option/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 14:58:30 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Fed&#039;s Schmid says central bank has &#039;work to do&#039; on inflation",
       "desc": "Jeffrey Schmid, the president of the Federal Reserve Bank of Kansas City, said Sunday central bank officials have “work to do” to rein in persistent inflation. “As Chairman Kevin Warsh said at the Kan",
       "link": "https://thehill.com/business/6222328-schmid-fed-inflation-warning/",
@@ -459,42 +648,6 @@
       "rawDate": "Mon, 16 Nov 2026 14:46:11 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Black bear dies after being hit by cars in Bay County",
-      "desc": "One motorist suffered a minor injury in the collision.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/motorists-strike-kill-black-bear-in-bay-county.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 14:41:22 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Michigan’s El-Sayed pitches ‘TrumpCare’ as Democrats seek deals with president",
-      "desc": "Michigan Sen.-elect Abdul El-Sayed has suggested “TrumpCare,” a golden insurance card with universal healthcare, with the president’s name on the Democratic proposal.",
-      "link": "https://www.mlive.com/politics/2026/11/michigans-el-sayed-pitches-trumpcare-as-democrats-seek-deals-with-president.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 13:44:39 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Police identify man killed in Benton Harbor shooting",
-      "desc": "A Benton Harbor man was killed early Sunday, Nov. 15, in a shooting.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/11/police-identify-man-killed-in-benton-harbor-shooting.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 12:39:04 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Coffee shop and bar to close, wind farm proposed and more Bay County business news",
-      "desc": "Plus: A Bay City boutique is planning to close its storefront by the end of the year.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/coffee-shop-and-bar-to-close-wind-farm-proposed-and-more-bay-county-business-news.html",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 12:32:00 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
     },
     {
       "title": "Michigan public university enrollment declines after 3 years of growth",
@@ -506,24 +659,6 @@
       "tag": "education"
     },
     {
-      "title": "Nvidia scandals throw wrench into Trump&#039;s meeting with Xi Jinping",
-      "desc": "The evolving espionage and extramarital affair drama surrounding Nvidia and its fallen founder, Jensen Huang, is threatening to cast a dark cloud over President Trump's expected meeting this week with",
-      "link": "https://thehill.com/homenews/administration/6219992-trump-xi-meeting-nvidia-scandals/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Inside Democrats’ push to rein in AI-generated political ads",
-      "desc": "James Talarico wearing a dress. Abdul El-Sayed laughing at messages celebrating 9/11. Mike Mazzei cheek to cheek with Hilary Clinton. Spencer Pratt fighting against Batman-world villains in postapocal",
-      "link": "https://thehill.com/policy/technology/6219254-democrats-ai-political-ad-regulations/",
-      "date": "Nov 16, 2026",
-      "rawDate": "Mon, 16 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "5 takeaways as lame-duck defense fights heat up",
       "desc": "Congressional Democrats and the Trump administration seem to be moving in opposite directions as the clock ticks on the lame-duck session.  House and Senate leaders of the Armed Services committees ar",
       "link": "https://thehill.com/policy/defense/6220052-lame-duck-ndaa-defense-fighting/",
@@ -531,24 +666,6 @@
       "rawDate": "Sun, 15 Nov 2026 22:00:00 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Driver flees after SUV hits power pole, signs in Ottawa County",
-      "desc": "Police said a 33-year-old woman who was riding in the SUV suffered an injury and was taken by ambulance to an area hospital for treatment.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/driver-flees-after-suv-hits-power-pole-signs-in-ottawa-county.html",
-      "date": "Nov 15, 2026",
-      "rawDate": "Sun, 15 Nov 2026 21:59:04 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
-      "desc": "Singapore-based cloud computing company Megaspeed International said Sunday that Chinese businesswoman Alice Huang, whose relationship with former Nvidia CEO Jensen Huang sparked U.S. national securit",
-      "link": "https://thehill.com/policy/technology/megaspeed-alice-huang-nvidia-jensen-huang-china/",
-      "date": "Nov 15, 2026",
-      "rawDate": "Sun, 15 Nov 2026 19:54:06 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Bahrain intercepts Iranian strikes on US airbase",
@@ -560,24 +677,6 @@
       "tag": "safety"
     },
     {
-      "title": "‘Uncle Paul’ podcast dives into Caneiro family murders. Now you can watch on YouTube.",
-      "desc": "The new season of the hit podcast 'Father Wants Us Dead' comes to life with videos and photos from the case file that most people have never seen.",
-      "link": "https://www.mlive.com/news/2026/11/uncle-paul-podcast-dives-into-caneiro-family-murders-now-you-can-watch-on-youtube.html",
-      "date": "Nov 15, 2026",
-      "rawDate": "Sun, 15 Nov 2026 17:15:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
-      "title": "2 found dead in home after police respond to disorderly person",
-      "desc": "Two people were found dead inside a Roseville home, and a man detained at the scene remains in police custody.",
-      "link": "https://www.mlive.com/news/2026/11/2-found-dead-in-home-after-police-respond-to-disorderly-person.html",
-      "date": "Nov 15, 2026",
-      "rawDate": "Sun, 15 Nov 2026 15:06:57 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "University of Michigan expanding its solar capacity with Maize Rays",
       "desc": "The University of Michigan is about a year into its Maize Rays program. UM eventually plans to add 25 MW of solar power to its campus with the program.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/11/university-of-michigan-expanding-its-solar-capacity-with-maize-rays.html",
@@ -585,33 +684,6 @@
       "rawDate": "Sun, 15 Nov 2026 14:23:07 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal",
-      "desc": "Commerce Secretary Howard Lutnick is facing heat in Washington, including from Treasury Secretary Scott Bessent, over his approach to AI chip export controls amid Nvidia's national security scandal.  ",
-      "link": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
-      "date": "Nov 15, 2026",
-      "rawDate": "Sun, 15 Nov 2026 14:06:18 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Crypto was hoping for a breakthrough in Congress. Now it&#039;s bracing for investigations",
-      "desc": "The cryptocurrency industry is bracing for a changing of the guard in Congress, as Democrats take control of both the House and Senate with a more skeptical eye toward digital assets. After a major cr",
-      "link": "https://thehill.com/policy/technology/6219609-democrats-congress-control-crypto/",
-      "date": "Nov 15, 2026",
-      "rawDate": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "SpaceX catches Starship for first time, drawing praise in Washington",
-      "desc": "SpaceX’s Starship aircraft successfully touched back down at a South Texas launch site Saturday afternoon — marking a historic milestone in the aerospace giant's effort to build reusable rockets.  The",
-      "link": "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/",
-      "date": "Nov 15, 2026",
-      "rawDate": "Sun, 15 Nov 2026 04:14:36 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Pennsylvania, Wisconsin report additional deaths linked to measles",
@@ -722,33 +794,6 @@
       "tag": "safety"
     },
     {
-      "title": "US Army officer involved in alleged Russian spying scheme identified: Reports",
-      "desc": "The U.S. Army officer arrested in the United Kingdom this week for his alleged involvement in a Russian espionage scheme has been identified as Lt. Col. Brandon Tyner, according to multiple reports.  ",
-      "link": "https://thehill.com/policy/defense/6217738-brandon-tyner-army-russia-espionage-arrest/",
-      "date": "Nov 13, 2026",
-      "rawDate": "Fri, 13 Nov 2026 00:39:26 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Senate Democrats weigh December funding deadline to force an end to Iran war",
-      "desc": "Some Senate Democrats are looking to use a looming government funding deadline to force the Trump administration to end the war in Iran.  While party leaders have yet to decide on whether to risk a sh",
-      "link": "https://thehill.com/homenews/senate/6217635-senate-democrats-threaten-shutdown-iran/",
-      "date": "Nov 12, 2026",
-      "rawDate": "Thu, 12 Nov 2026 23:00:58 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "Shaheen, Tillis demand probe into Ukraine Starshield restrictions",
-      "desc": "Outgoing bipartisan senators outraged over Ukrainian reports of interruptions to military-grade satellite access are calling for Congress to pursue accountability for the shutdown, focusing on Elon Mu",
-      "link": "https://thehill.com/homenews/senate/6217524-shaheen-tillis-ukraine-starshield-probe/",
-      "date": "Nov 12, 2026",
-      "rawDate": "Thu, 12 Nov 2026 22:29:30 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "CDC cuts $29.2M in funds for Texas HIV prevention",
       "desc": "The Centers for Disease Control and Prevention (CDC) has cut $29.2 million from HIV prevention programs in Texas, the latest cuts to federal efforts to prevent the spread of HIV worldwide. The cuts ta",
       "link": "https://thehill.com/policy/healthcare/6217459-cdc-cuts-texas-hiv-funding/",
@@ -776,24 +821,6 @@
       "tag": "education"
     },
     {
-      "title": "Sentinel at Tomb of the Unknown Soldier awarded medal by Hegseth",
-      "desc": "Defense Secretary Pete Hegseth awarded a prestigious medal to an Army sentinel on Thursday who loudly admonished the Pentagon chief and his group at the Tomb of the Unknown Soldier at Arlington Nation",
-      "link": "https://thehill.com/policy/defense/6216510-hegseth-awards-sentinel-medal/",
-      "date": "Nov 12, 2026",
-      "rawDate": "Thu, 12 Nov 2026 17:09:25 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "House passes Major Richard Star Act, sending bill to Senate",
-      "desc": "The House on Thursday passed legislation designed to allow combat-wounded medically retired veterans to receive retirement pay and disability compensation simultaneously without facing any penalties. ",
-      "link": "https://thehill.com/homenews/house/6215558-house-passes-major-richard-star-act-retired-veterans-compensation/",
-      "date": "Nov 12, 2026",
-      "rawDate": "Thu, 12 Nov 2026 16:08:54 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
       "title": "Watch live: RFK Jr., Collins discuss veterans&#039; mental health",
       "desc": "Health and Human Services Secretary Robert F. Kennedy Jr. and Veterans Affairs Secretary Doug Collins are set to hold a joint press conference Thursday focused on veterans’ mental health. The event co",
       "link": "https://thehill.com/video-clips/6215854-watch-live-rfk-jr-doug-collins-veterans-mental-health-ptsd/",
@@ -801,33 +828,6 @@
       "rawDate": "Thu, 12 Nov 2026 15:15:13 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Why did Michigan Stadium collect pee? Researchers pointed to sustainability benefits.",
-      "desc": "Modern fertilizers require mining or manufacturing processes to get the potassium, nitrogen and phosphorus needed to grow the crops you eat. University of Michigan researchers think they can make food",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/why-did-michigan-stadium-collect-pee-researchers-pointed-to-sustainability-benefits.html",
-      "date": "Nov 12, 2026",
-      "rawDate": "Thu, 12 Nov 2026 11:00:01 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Kalamazoo Public Schools teachers picket after 87 days without a new contract",
-      "desc": "The district and the teachers union have struggled to reach an agreement.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/11/kalamazoo-public-schools-teachers-picket-after-87-days-without-a-new-contract.html",
-      "date": "Nov 11, 2026",
-      "rawDate": "Wed, 11 Nov 2026 23:55:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "Kentwood school board seeks applicants for open seat after secretary’s resignation",
-      "desc": "The Kentwood Public Schools Board of Education is seeking candidates to fill an open seat following the resignation of Allen Young.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/kentwood-school-board-seeks-applicants-for-open-seat-after-secretarys-resignation.html",
-      "date": "Nov 11, 2026",
-      "rawDate": "Wed, 11 Nov 2026 21:47:08 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Democrats investigate RFK Jr, donor over expensive gifts",
@@ -853,24 +853,6 @@
       "link": "https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/",
       "date": "Nov 11, 2026",
       "rawDate": "Wed, 11 Nov 2026 18:54:12 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "CDC chief: No measles response change if elimination status lost",
-      "desc": "The U.S. Centers for Disease Control and Prevention (CDC) will be changing its response to the ongoing measles outbreaks if the country loses its measles elimination status this month. “Let's say we d",
-      "link": "https://thehill.com/policy/healthcare/6213788-cdc-responds-measles-elimination-status/",
-      "date": "Nov 11, 2026",
-      "rawDate": "Wed, 11 Nov 2026 17:59:59 +0000",
-      "source": "The Hill Healthcare",
-      "tag": "health"
-    },
-    {
-      "title": "Biden says he didn&#039;t hide cancer diagnosis while president",
-      "desc": "Former President Biden said in an interview published Wednesday he did not hide his aggressive stage 4 prostate cancer diagnosis while he was in the White House, adding he would not have sought a seco",
-      "link": "https://thehill.com/homenews/administration/6213629-biden-prostate-cancer-diagnosis-denies-hiding/",
-      "date": "Nov 11, 2026",
-      "rawDate": "Wed, 11 Nov 2026 17:53:59 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
     }

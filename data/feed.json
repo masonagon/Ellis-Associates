@@ -1,9 +1,72 @@
 {
-  "generated": "2026-11-18T01:26:51.074Z",
+  "generated": "2026-11-18T09:31:15.034Z",
   "news": [
     {
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "desc": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "date": "Nov 18, 2026",
+      "rawDate": "Wed, 18 Nov 2026 05:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Huang agrees to testify before Senate Banking panel",
+      "desc": "Former Nvidia CEO Jensen Huang has agreed to testify before the Senate Banking Committee, a spokesperson for Chair Tim Scott (R-S.C.) confirmed Tuesday. Lawmakers have ramped up scrutiny of Huang’s al",
+      "link": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
+      "date": "Nov 18, 2026",
+      "rawDate": "Wed, 18 Nov 2026 03:48:10 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Mary Peltola flips Republican Senate seat in Alaska",
+      "desc": "Former Rep. Mary Peltola, a Democrat, is projected to win the race for Senate in Alaska, defeating GOP incumbent Sen. Dan Sullivan and flipping a seat for the Democratic Party, according to Decision D",
+      "link": "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/",
+      "date": "Nov 18, 2026",
+      "rawDate": "Wed, 18 Nov 2026 03:21:19 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash",
+      "desc": "“When military aircraft fly in the same airspace, they must meet the same standards as everyone else.\"",
+      "link": "https://thehill.com/homenews/senate/6226791-congress-civilian-plane-locator-mandate-after-deadly-american-airlines-black-hawk-crash/",
+      "date": "Nov 18, 2026",
+      "rawDate": "Wed, 18 Nov 2026 03:16:13 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Murkowski calls midterms ‘a direct pushback to President Trump’",
+      "desc": "Sen. Lisa Murkowski (R-Alaska) said Republicans’ staggering midterm losses were were a clear rebuke of President Trump from voters. “I think what you saw was a pushback on some of the administration's",
+      "link": "https://thehill.com/homenews/senate/6226959-murkowski-midterm-rebuke-trump/",
+      "date": "Nov 18, 2026",
+      "rawDate": "Wed, 18 Nov 2026 02:11:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Kelly knocks Hun Cao&#039;s analogy about food shortages on Navy ships",
+      "desc": "Sen. Mark Kelly (D-Ariz.) knocked acting Navy Secretary Hung Cao’s confirmation hearing analogy on Navy vessel food shortages, implying the comparison undermined the reports of poor conditions aboard ",
+      "link": "https://thehill.com/homenews/senate/6226889-kelly-criticizes-cao-navy-food/",
+      "date": "Nov 18, 2026",
+      "rawDate": "Wed, 18 Nov 2026 01:52:11 +0000",
+      "source": "The Hill Defense",
+      "tag": "safety"
+    },
+    {
+      "title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+      "desc": "Senate Intelligence Committee ranking member Mark Warner (D-Va.) alleged Tuesday that AI contributed to several high-profile system outages this week, arguing industries are under pressure to quickly ",
+      "link": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/",
+      "date": "Nov 18, 2026",
+      "rawDate": "Wed, 18 Nov 2026 01:34:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
       "title": "White House pulls nomination of Heidi Overton to lead FDA",
-      "desc": "The White House withdrew the nomination of Heidi Overton to lead the Food and Drug Administration (FDA) amid opposition from Senate Republicans, it confirmed to The Hill's sister network, NewsNation, ",
+      "desc": "The White House withdrew the nomination of Heidi Overton to lead the Food and Drug Administration (FDA) amid opposition from Senate Republicans, it confirmed to The Hill. Overton was set to face a key",
       "link": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/",
       "date": "Nov 18, 2026",
       "rawDate": "Wed, 18 Nov 2026 01:08:53 +0000",
@@ -65,15 +128,6 @@
       "tag": "government"
     },
     {
-      "title": "Skepticism swells in GOP over tech outages",
-      "desc": "Presented by Google Public Sector. {beacon} Technology Technology PRESENTED BY GOOGLE PUBLIC SECTOR The Big Story  Skepticism swells in GOP over tech outages  Republican lawmakers and other prominent ",
-      "link": "https://thehill.com/newsletters/technology/6226672-skepticism-swells-in-gop-over-tech-outages/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 23:09:42 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Best Early Amazon Black Friday Deals (2026)",
       "desc": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
       "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
@@ -83,24 +137,6 @@
       "tag": "technology"
     },
     {
-      "title": "The next Navy secretary? Cao grilled by Senate over war, sailors&#039; mental health",
-      "desc": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  The next Navy secretary? Cao grilled by Senate ov",
-      "link": "https://thehill.com/newsletters/defense-national-security/6226633-the-next-navy-secretary-cao-grilled-by-senate-over-war-sailors-mental-health/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 22:53:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Ukraine talks yielding progress: Kushner",
-      "desc": "Jared Kushner, President Trump's son-in-law, said he and fellow U.S. special envoy Steve Witkoff are \"making progress\" toward bringing an end to war in Ukraine — though \"important challenges\" remain. ",
-      "link": "https://thehill.com/policy/international/6226498-ukraine-talks-yielding-progress-kushner/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 22:20:21 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "A $1 million investment in Muskegon County students will change how kids get to school safely",
       "desc": "The new Safe Routes to School grant will transform dangerous walking conditions along busy Sheridan Road, bringing sidewalks, flashing beacons, bike programs and walking clubs to Orchard View Schools.",
       "link": "https://www.mlive.com/news/muskegon/2026/11/a-1-million-investment-in-muskegon-county-students-will-change-how-kids-get-to-school-safely.html",
@@ -108,15 +144,6 @@
       "rawDate": "Tue, 17 Nov 2026 22:15:37 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Nvidia reports strong third quarter after Huang departs",
-      "desc": "Nvidia reported strong earnings for the third quarter on Tuesday, less than a week after former CEO and co-founder Jensen Huang left the company. The chipmaker reported $115.8 billion in revenue from ",
-      "link": "https://thehill.com/business/6226457-nvidia-q3-earnings-strong/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 22:11:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "RFK Jr.: US will &#039;work to regain&#039; measles elimination status",
@@ -407,15 +434,6 @@
       "tag": "health"
     },
     {
-      "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
-      "desc": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
-      "link": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 17:32:24 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Caledonia Farmers Elevator silo fire cleanup underway",
       "desc": "Firefighters spent Monday battling the blaze at the Kent County feed mill after workers discovered smoke coming from a concrete silo early in the morning.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/11/caledonia-farmers-elevator-silo-fire-cleanup-underway.html",
@@ -452,15 +470,6 @@
       "tag": "health"
     },
     {
-      "title": "O&#039;Reilly: &#039;Trump may be wrong in the way he handles Xi and Putin&#039;",
-      "desc": "Commentator Bill O’Reilly said Monday the way President Trump interacts with Chinese President Xi Jinping and Russian President Vladimir Putin may not be successful. “Trump may be wrong in the way he ",
-      "link": "https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 16:10:06 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Clio man charged after alleged 7-hour chat with undercover GHOST officer",
       "desc": "The 35-year-old man was arrested after a seven-hour exchange with an undercover GHOST decoy posing as a minor.",
       "link": "https://www.mlive.com/news/flint/2026/11/clio-man-charged-after-alleged-7-hour-chat-with-undercover-ghost-officer.html",
@@ -468,15 +477,6 @@
       "rawDate": "Tue, 17 Nov 2026 15:53:22 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Huang agrees to testify before House lawmakers",
-      "desc": "Jensen Huang, the tech executive at the center of an alleged Chinese corporate espionage scandal, has agreed to testify before Congress in a closed-door briefing focused on threats to U.S. national se",
-      "link": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 15:53:00 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
     },
     {
       "title": "Iran targets US sites in Bahrain after 2-month pause",
@@ -542,15 +542,6 @@
       "tag": "safety"
     },
     {
-      "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
-      "desc": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
-      "link": "https://www.wired.com/review/capillus-hairband/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "‘That’s my baby.’ Michigan scientists spent 25 years on key instrument in Mercury mission",
       "desc": "University of Michigan scientists have collaborated with colleagues around the world for decades to get BepiColombo into orbit of Mercury. It is scheduled to enter the planet's orbit on Nov. 21.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/11/thats-my-baby-michigan-scientists-spent-25-years-on-key-instrument-in-mercury-mission.html",
@@ -558,15 +549,6 @@
       "rawDate": "Tue, 17 Nov 2026 12:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "desc": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Senate GOP unveils nearly $1.1 trillion defense appropriations bill",
@@ -729,15 +711,6 @@
       "rawDate": "Sat, 14 Nov 2026 16:33:02 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Trump says the Iran war &#039;effectively over.’ It’s still costing the US billions",
-      "desc": "President Trump this week declared the war in Iran “effectively over” militarily and “won” by the U.S. But he did so as American taxpayers are footing the bill for billions of dollars in operational c",
-      "link": "https://thehill.com/policy/defense/6214685-us-military-costs-iran-conflict/",
-      "date": "Nov 14, 2026",
-      "rawDate": "Sat, 14 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Trump administration delays Medicaid work requirement enforcement",

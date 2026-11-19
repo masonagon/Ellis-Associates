@@ -1,6 +1,60 @@
 {
-  "generated": "2026-11-19T00:51:39.798Z",
+  "generated": "2026-11-19T08:12:32.819Z",
   "news": [
+    {
+      "title": "Slotkin slams US attorney probing lawmakers as stunt for &#039;publicity and your political ambitions&#039;",
+      "desc": "Rep. Elissa Slotkin (D-Mich.) on Wednesday fired back at the Texas-based U.S. attorney who penned letters threatening to investigate her and four other lawmakers, saying Aaron Reitz’s correspondence “",
+      "link": "https://thehill.com/homenews/senate/6229401-slotkin-slams-reitz-investigation/",
+      "date": "Nov 19, 2026",
+      "rawDate": "Thu, 19 Nov 2026 04:07:12 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Begich holds Alaska&#039;s lone House seat for GOP",
+      "desc": "Republican Rep. Nick Begich is projected to win a second term in Alaska’s at-large House district, according to Decision Desk HQ.  Begich beat out independent Bill Hill, who was backed by Democrats, a",
+      "link": "https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/",
+      "date": "Nov 19, 2026",
+      "rawDate": "Thu, 19 Nov 2026 02:32:15 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "$5K reward offered after armed Kalamazoo bank robbery Wednesday",
+      "desc": "Police are asking for help identifying and locating the suspect.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/11/5k-reward-offered-after-armed-kalamazoo-bank-robbery-wednesday.html",
+      "date": "Nov 19, 2026",
+      "rawDate": "Thu, 19 Nov 2026 01:43:52 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Musk on midterms spending: &#039;I feel pretty foolish&#039;",
+      "desc": "Tesla CEO Elon Musk on Wednesday said he feels \"pretty foolish\" after he spent $442 million toward Republican campaigns in the 2026 midterm elections, where the party saw sweeping losses to Democrats.",
+      "link": "https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending/",
+      "date": "Nov 19, 2026",
+      "rawDate": "Thu, 19 Nov 2026 01:11:24 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2 hospitalized after accidental shooting in Mecosta County, police say",
+      "desc": "Both individuals suffered serious but non-life-threatening injuries Wednesday, according to the sheriff's office.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/11/2-hospitalized-after-accidental-shooting-in-mecosta-county-police-say.html",
+      "date": "Nov 19, 2026",
+      "rawDate": "Thu, 19 Nov 2026 01:05:37 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "BAAJA passes another procedural vote",
+      "desc": "Presented by EQT {beacon} Energy &#038; Environment Energy &#038; Environment The Big Story  BAAJA passes another procedural vote The Senate took a series of key votes on Wednesday to advance a permit",
+      "link": "https://thehill.com/newsletters/energy-environment/6229172-baaja-passes-another-procedural-vote/",
+      "date": "Nov 19, 2026",
+      "rawDate": "Thu, 19 Nov 2026 00:52:22 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
     {
       "title": "DOJ charges Russian national with spying on workers for &#039;large&#039; defense tech company",
       "desc": "Federal prosecutors charged a Russian national with secretly working for Moscow to conduct illegal surveillance of employees at a major defense technology company over Ukraine’s use of its technology ",
@@ -30,7 +84,7 @@
     },
     {
       "title": "Iran’s ‘dirty bomb’ threat underscores risks to US homeland",
-      "desc": "A reported plot by Iran to target Washington, D.C., with a so-called “dirty bomb” has brought fears of an attack on the U.S. homeland to the forefront this week. Coming on the heels of two men arreste",
+      "desc": "A reported plot by Iran to target Washington, D.C., with a so-called dirty bomb has brought fears of an attack on the U.S. homeland to the forefront this week. Coming on the heels of two men arrested ",
       "link": "https://thehill.com/policy/defense/6229088-iran-dirty-bomb-plot-homeland-threats/",
       "date": "Nov 19, 2026",
       "rawDate": "Thu, 19 Nov 2026 00:04:57 +0000",
@@ -65,24 +119,6 @@
       "tag": "safety"
     },
     {
-      "title": "Ron Johnson calls for GOP to ditch filibuster now because Democrats &#039;are going to eliminate it anyway&#039;",
-      "desc": "Sen. Ron Johnson (R-Wis.) called for his Republican colleagues to vote to “eliminate the filibuster,” noting that the Democrats will do it “anyway.” While discussing what the GOP is hoping to accompli",
-      "link": "https://thehill.com/homenews/senate/6229063-ron-johnson-calls-eliminate-filibuster/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 23:29:25 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Republicans back Trump, Xi, Putin meeting but warn they are &#039;not our friends&#039;",
-      "desc": "Republican lawmakers are offering mixed reactions to President Trump’s warm embrace of Chinese President Xi Jinping and Russian President Vladimir Putin. Some view the theatrical trilateral as a poor ",
-      "link": "https://thehill.com/policy/international/6228985-republican-reactions-china-russia-meetings/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 23:22:50 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Former cybersecurity director: Tech outages &#039;ultimately a good news story&#039;",
       "desc": "Chris Krebs, the former director of the U.S. Cybersecurity and Infrastructure Security Agency, on Wednesday said that the recent spate of technology outages from the past week are \"ultimately a good n",
       "link": "https://thehill.com/policy/technology/6228963-krebs-tech-outages-good-news/",
@@ -97,17 +133,8 @@
       "link": "https://thehill.com/policy/defense/6228976-rogers-pentagon-reconciliation-ask/",
       "date": "Nov 18, 2026",
       "rawDate": "Wed, 18 Nov 2026 23:01:27 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Cook rebuffs hearing on alleged mortgage fraud",
-      "desc": "Presented by Bitget. {beacon} Business &#038; Economy Business &#038; Economy The Big Story  Lisa Cook rebuffs hearing on alleged mortgage fraud Lisa Cook, a member of the Federal Reserve board of gov",
-      "link": "https://thehill.com/newsletters/business-economy/6228894-cook-rebuffs-hearing-on-alleged-mortgage-fraud/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 22:29:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Defense",
+      "tag": "safety"
     },
     {
       "title": "Trump’s transgender military policy is headed toward a Supreme Court decision",
@@ -119,15 +146,6 @@
       "tag": "government"
     },
     {
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "desc": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 22:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Stefanie Boone lawsuit against Lowell schools reinstated by federal appeals panel",
       "desc": "A critic of Lowell and Forest Hills schools who has called for banning books she considers inappropriate for children is suing the districts for refusing to use her as a substitute teacher.",
       "link": "https://www.mlive.com/news/grand-rapids/2026/11/stefanie-boone-lawsuit-against-lowell-schools-reinstated-by-federal-appeals-panel.html",
@@ -135,15 +153,6 @@
       "rawDate": "Wed, 18 Nov 2026 21:47:57 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Mullin, Clayton face bipartisan grilling over tech outages",
-      "desc": "Homeland Security Secretary Markwayne Mullin and Director of National Intelligence Jay Clayton said there was no evidence that tech outages hitting businesses across the country were the result of nef",
-      "link": "https://thehill.com/homenews/house/6228792-homeland-security-tech-outages/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 21:41:50 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Pennsylvania reports eighth measles-related death",
@@ -171,15 +180,6 @@
       "rawDate": "Wed, 18 Nov 2026 21:21:19 +0000",
       "source": "MLive Politics",
       "tag": "government"
-    },
-    {
-      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-      "desc": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 21:15:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Jackson man’s 50-80 year prison sentence for murder stands after appeal denied",
@@ -272,15 +272,6 @@
       "tag": "health"
     },
     {
-      "title": "The ‘GTA 6’ Work Blackout Is Here",
-      "desc": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
-      "link": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 19:34:55 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Saginaw teen charged in 3 gun cases within months of turning 18",
       "desc": "Christopher Aldridge-Hamilton allegedly left a loaded rifle at a crash scene in May, then fired 25 rounds into a Bridgeport Township home two days later.",
       "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/saginaw-teen-left-ar-style-rifle-in-crashed-car-shot-up-house-2-days-later-police-say.html",
@@ -288,15 +279,6 @@
       "rawDate": "Wed, 18 Nov 2026 19:08:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
-      "desc": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports.",
-      "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 19:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Judge rules cell phone evidence admissible in Jackson fatal porch shooting",
@@ -335,15 +317,6 @@
       "tag": "safety"
     },
     {
-      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
-      "desc": "The highly contagious disease is spreading across the country, and “may even be gaining speed.”",
-      "link": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 17:53:08 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "State police ask for tips in Southwest Michigan arson case",
       "desc": "Michigan State Police are asking for help identifying suspects in a Southwest Michigan arson case.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/11/state-police-ask-for-tips-in-southwest-michigan-arson-case.html",
@@ -359,24 +332,6 @@
       "date": "Nov 18, 2026",
       "rawDate": "Wed, 18 Nov 2026 17:46:14 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "desc": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 17:33:07 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
-      "desc": "“The only way you get some change against Big Tech is to sue them,” says lawyer Hillary Nappi, who is representing Amani Al-Khatahtbeh in the lawsuit.",
-      "link": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 17:30:54 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -405,15 +360,6 @@
       "rawDate": "Wed, 18 Nov 2026 16:37:25 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "desc": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-      "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 16:35:24 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Iran attacks US air base in Kuwait",
@@ -488,15 +434,6 @@
       "tag": "safety"
     },
     {
-      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-      "desc": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 15:02:40 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Watch live: The Promise of Early Intervention — The ASAP Act and A New Look at Life with Alzheimer’s",
       "desc": "Today, more than 7 million Americans are living with Alzheimer’s disease — a number projected to reach more than 13 million by 2050. Each year, more Americans lose their lives to Alzheimer’s than to b",
       "link": "https://thehill.com/policy/healthcare/6225769-watch-live-promise-early-intervention-alzheimers-asap-act/",
@@ -506,30 +443,12 @@
       "tag": "health"
     },
     {
-      "title": "Police release photos of truck that hit a 5-year-old girl and vanished near Hillsdale",
-      "desc": "Michigan State Police released photos of a black Ford Explorer Sport Trac sought in connection with a hit-and-run that injured a 5-year-old girl in North Adams on Nov. 10.",
-      "link": "https://www.mlive.com/news/jackson/2026/11/police-release-photos-of-truck-that-hit-a-5-year-old-girl-and-vanished-near-hillsdale.html",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 14:41:30 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Rubio: &#039;Zero&#039; evidence recent outages linked",
       "desc": "Secretary of State Marco Rubio said Tuesday there is “zero evidence” that the recent string of technology outages are connected. “The first thing I want to make very clear is that we have zero evidenc",
       "link": "https://thehill.com/policy/technology/6227428-marco-rubio-tech-outages-link-concerns/",
       "date": "Nov 18, 2026",
       "rawDate": "Wed, 18 Nov 2026 14:40:00 +0000",
       "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "14 Elite Coffee Gifts for Caffeinated Connoisseurs",
-      "desc": "Whether the coffee nerd in your life is a budding brewer or an experienced extractor, these gifts will advance their technique.",
-      "link": "https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs/",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-      "source": "Wired",
       "tag": "technology"
     },
     {
@@ -549,15 +468,6 @@
       "rawDate": "Wed, 18 Nov 2026 13:00:00 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Kalamazoo man sentenced to up to 50 years in prison for shooting",
-      "desc": "A 52-year-old Kalamazoo man was sentenced to between 30 and 50 years in prison for shooting a 53-year-old man.",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/11/kalamazoo-man-sentenced-to-up-to-50-years-in-prison-for-shooting.html",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 11:20:00 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Duckworth to introduce bill requiring modernization of Pentagon&#039;s ATC systems",

@@ -1,6 +1,213 @@
 {
-  "generated": "2026-11-22T12:57:11.120Z",
+  "generated": "2026-11-22T20:07:24.143Z",
   "news": [
+    {
+      "title": "Trump blames $6T stock market slide on Democrats&#039; midterm wins",
+      "desc": "President Trump blames the stock market’s $6 trillion slide on the Democratic party’s wins nationwide that saw it take control of both the House and Senate.  “The Market is down more than 6 Trillion D",
+      "link": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 19:46:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "GOP Rep &#039;optimistic&#039; about passing AI bill before next Congress",
+      "desc": "Rep. Jay Obernolte (R-Calif.) said Sunday he is “optimistic” that Congress can pass a bipartisan artificial intelligence (AI) bill before the end of the year, despite a narrowing window for Republican",
+      "link": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 19:28:31 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Foxx concedes to Hubbard in North Carolina House race",
+      "desc": "Outgoing Rep. Virginia Foxx (R-N.C.) reportedly conceded her race against Rep.-elect Chuck Hubbard (D-N.C.) following a high-profile recount process that saw the longtime lawmaker trailing behind her ",
+      "link": "https://thehill.com/homenews/6236031-foxx-concedes-nc-5th/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 18:56:48 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Live updates: Clayton calls Trump&#039;s trilateral talks &#039;remarkable&#039;; Foxx concedes to Hubbard in North Carolina",
+      "desc": "Lawmakers left Capitol Hill and headed home for the Thanksgiving recess this weekend after a jam-packed week of moving bills and confirming appointments, as the 119th Congress comes to a close and Dem",
+      "link": "https://thehill.com/homenews/administration/6235588-live-updates-congress-leadership-fight-ramps-up/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 18:53:53 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "‘He has no soul.’ Killer of N.J. family tried to pin blame on his brother in new podcast.",
+      "desc": "Listeners can finally hear Corey Caneiro’s brutal condemnation of his brother in ‘Uncle Paul,' the new season of NJ.com's hit podcast, Father Wants Us Dead.",
+      "link": "https://www.mlive.com/news/2026/11/he-has-no-soul-killer-of-nj-family-tried-to-pin-blame-on-his-brother-in-new-podcast.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 18:35:00 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Flanagan says she &#039;appreciates&#039; Schumer, but Van Hollen leads &#039;like an organizer&#039;",
+      "desc": "Sen.-elect Peggy Flanagan (D-Minn.) on Sunday said she appreciated Senate Minority Leader Chuck Schumer's (D-N.Y.) leadership and work in the upper chamber, but praised Sen. Chris Van Hollen's (D-Md.)",
+      "link": "https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 18:21:02 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "US ports face onslaught of cyber attacks",
+      "desc": "A number of ports across the U.S. are reporting an onslaught of cyberattacks amid a growing number of AI-enabled attacks targeting notable infrastructure.  The Port of Corpus Christi, Texas, which fun",
+      "link": "https://thehill.com/policy/technology/6235972-us-ports-ai-cyberattacks/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 18:05:50 +0000",
+      "source": "The Hill Tech",
+      "tag": "technology"
+    },
+    {
+      "title": "Democrats are laying off many of the people who just made their victory possible",
+      "desc": "Following recent layoffs within its digital operations, critics argue the Democratic National Committee must maintain permanent infrastructure to sustain its momentum leading toward the 2028 election.",
+      "link": "https://thehill.com/opinion/campaign/6232453-dnc-lays-off-digital-staff/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 18:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Mott Community College to host free holiday concert featuring student musicians",
+      "desc": "The Dec. 9 concert will feature performances by the MCC Concert Band, Choir and Jazz Ensemble.",
+      "link": "https://www.mlive.com/news/flint/2026/11/mott-community-college-to-host-free-holiday-concert-featuring-student-musicians.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 17:04:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Republicans are lucky 2026 wasn&#039;t 2028",
+      "desc": "Had this hit in 2028, Democrats would have captured the federal government’s legislating trifecta.",
+      "link": "https://thehill.com/opinion/campaign/6232755-trump-impact-republican-defeats/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump hates wind power. A bill he supports may help it get built",
+      "desc": "While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump has been a longtime opponent of wind energy, calli",
+      "link": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 17:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Raskin on potential 2028 run: &#039;I&#039;ll do whatever it takes&#039;",
+      "desc": "Rep. Jamie Raskin (D-Md.) on Sunday addressed the possibility he might seek the Democratic nomination for president in 2028, saying he will \"do whatever it takes\" if the party pushed him toward that. ",
+      "link": "https://thehill.com/homenews/campaign/6235787-raskin-open-2028-presidential-bid/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 16:33:50 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "75-year-old rescued from submerged vehicle after crash into pond",
+      "desc": "Investigators believe alcohol may have played a role in the crash.",
+      "link": "https://www.mlive.com/news/2026/11/75-year-old-rescued-from-submerged-vehicle-after-crash-into-pond.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 16:28:50 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Mott Community College students to perform free holiday concert at Flint Artwalk",
+      "desc": "“The MCC Winter Playlist: Live at the Artwalk” will run from 6 to 8 p.m. at St. Paul’s Episcopal Church in Flint.",
+      "link": "https://www.mlive.com/news/flint/2026/11/mott-community-college-students-to-perform-free-holiday-concert-at-flint-artwalk.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 16:04:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Army plans to proceed with lead azide detonation despite indefinite pause",
+      "desc": "The U.S. Army is planning to proceed with its detonation of lead azide despite a federal court ordering an indefinite pause by invoking the emergency munitions and explosives exclusion, according to n",
+      "link": "https://thehill.com/regulation/court-battles/6235838-army-plans-lead-azide-detonation/",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 16:01:59 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Young men abandoned Trump’s GOP in 2026 midterms, new analysis shows",
+      "desc": "Young male voters shifted toward Democrats in a resounding rebuke of the Republican Party, according to a recent New York Times analysis.",
+      "link": "https://www.mlive.com/politics/2026/11/young-men-abandoned-trumps-gop-in-2026-midterms-new-analysis-shows.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 16:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Flags to be lowered for former Lansing mayor David Hollister",
+      "desc": "The former mayor led the Lansing Works movement that preserved GM jobs in the city and focused on childcare, mental health, and ethics as a state legislator.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/11/flags-to-be-lowered-for-former-lansing-mayor-david-hollister.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 15:46:47 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "2 women hospitalized after vehicle hits deer in Mecosta County",
+      "desc": "A 62-year-old driver and her 84-year-old passenger were hospitalized after their vehicle struck a deer Saturday night.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/11/2-women-hospitalized-after-vehicle-hits-deer-in-mecosta-county.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 14:42:04 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Motorcyclist killed in early-morning Allegan County crash",
+      "desc": "Police are investigating an early-morning motorcycle crash that killed a rider in Allegan County.",
+      "link": "https://www.mlive.com/news/kalamazoo/2026/11/motorcyclist-killed-in-early-morning-allegan-county-crash.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 14:31:36 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "University of Michigan opens applications for statewide faculty tour",
+      "desc": "The Michigan Road Scholars Tour gives University of Michigan faculty a chance to visit communities all across the state, be exposed to new ideas and alter their coursework and programing accordingly. ",
+      "link": "https://www.mlive.com/news/ann-arbor/2026/11/university-of-michigan-opens-applications-for-statewide-faculty-tour.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 14:22:56 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
+    {
+      "title": "Woman, 87, killed after driver crashes into Kentwood retirement facility",
+      "desc": "A driver is in custody after crashing into a Kentwood retirement facility, killing one woman and seriously injuring another.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/11/woman-87-killed-after-driver-crashes-into-kentwood-retirement-facility.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 14:14:34 +0000",
+      "source": "MLive Crime",
+      "tag": "safety"
+    },
+    {
+      "title": "Forget ‘new Obamas’. Expert says Dems need ‘modern day equivalent’ of this president in 2028",
+      "desc": "Says “Democrats still have a toxic brand” after midterm triumphs.",
+      "link": "https://www.mlive.com/politics/2026/11/forget-new-obamas-expert-says-dems-need-modern-day-equivalent-of-this-president-in-2028.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "source": "MLive Politics",
+      "tag": "government"
+    },
+    {
+      "title": "From Motown to J Dilla, Wayne State center aims to preserve Detroit’s Black history",
+      "desc": "A new Wayne State University center wants to bring Detroit's Black history into classrooms and neighborhoods while preserving the city's cultural legacy for future generations.",
+      "link": "https://www.mlive.com/news/detroit/2026/11/from-motown-to-j-dilla-wayne-state-center-aims-to-preserve-detroits-black-history.html",
+      "date": "Nov 22, 2026",
+      "rawDate": "Sun, 22 Nov 2026 13:00:00 +0000",
+      "source": "MLive Education",
+      "tag": "education"
+    },
     {
       "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
       "desc": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
@@ -9,33 +216,6 @@
       "rawDate": "Sun, 22 Nov 2026 11:02:00 +0000",
       "source": "Wired",
       "tag": "technology"
-    },
-    {
-      "title": "House Democrats split over risking lame-duck shutdown to defund Iran war",
-      "desc": "House Democrats are wrestling with a lame-duck strategy on the Iran war, divided over whether to demand an end to war funding, which could risk triggering a government shutdown — or punting that fight",
-      "link": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/",
-      "date": "Nov 22, 2026",
-      "rawDate": "Sun, 22 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Democrats swept Congress on high prices. Here’s how they plan to bring costs down",
-      "desc": "Democrats swept to control of Congress in the midterm elections due in large part to Americans’ concerns about the cost of living. Now, the pressure is on the party to deliver. On the campaign trail, ",
-      "link": "https://thehill.com/the-120/6233863-democrats-plan-lower-costs/",
-      "date": "Nov 22, 2026",
-      "rawDate": "Sun, 22 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump administration ready to deploy &#039;secret weapon&#039; against higher education",
-      "desc": "The Trump administration has an ace up its sleeve in its long-running fight with higher education with a shift that could cost universities millions of dollars and their access to federal student aid.",
-      "link": "https://thehill.com/homenews/education/6231125-trump-college-accreditation-intellectual-diversity/",
-      "date": "Nov 22, 2026",
-      "rawDate": "Sun, 22 Nov 2026 11:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Banks Have Had It Up to Here With Your AI Agent",
@@ -65,24 +245,6 @@
       "tag": "technology"
     },
     {
-      "title": "Van Hollen says it&#039;s still a &quot;wide-open race&quot; for majority leader",
-      "desc": "Sen. Chris Van Hollen (D-Md.), who is challenging Senate Minority Leader Chuck Schumer (D-N.Y.) to lead the body’s Democratic caucus in the next Congress, said this week that the race for majority lea",
-      "link": "https://thehill.com/homenews/senate/6235600-van-hollen-schumer-senate-race/",
-      "date": "Nov 22, 2026",
-      "rawDate": "Sun, 22 Nov 2026 03:10:53 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Washington governor decries ‘out-of-control’ ICE at Seattle airport",
-      "desc": "Washington Gov. Bob Ferguson (D) condemned Immigration and Customs Enforcement’s (ICE) operations at the Seattle-Tacoma International Airport on Saturday, in which masked federal agents detained two p",
-      "link": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/",
-      "date": "Nov 22, 2026",
-      "rawDate": "Sun, 22 Nov 2026 01:57:37 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Michigan AG urges immigration hearings as Trump officials push back on criticism",
       "desc": "Dana Nessel joined a coalition calling for congressional hearings on immigration enforcement. Trump administration officials have pushed back on Democrats’ accusations.",
       "link": "https://www.mlive.com/politics/2026/11/michigan-ag-urges-immigration-hearings-as-trump-officials-push-back-on-criticism.html",
@@ -101,60 +263,6 @@
       "tag": "safety"
     },
     {
-      "title": "Sunday shows preview: Trump&#039;s security agenda, House leadership elections take center stage",
-      "desc": "House Democrats nominated Minority Leader Hakeem Jeffries (D-N.Y.) this week for the Speakership, teeing up what would mark his historic appointment as the first Black lawmaker to lead the legislative",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
-      "date": "Nov 21, 2026",
-      "rawDate": "Sat, 21 Nov 2026 23:06:51 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Hubbard leads Foxx by 330 votes after recount",
-      "desc": "Democrat Chuck Hubbard remains in the lead over incumbent Rep. Virginia Foxx (R-N.C.) after a nearly finalized recount changed only one vote. Hubbard leads by 330 votes in the race for North Carolina’",
-      "link": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/",
-      "date": "Nov 21, 2026",
-      "rawDate": "Sat, 21 Nov 2026 22:23:05 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump&#039;s grip on GOP tested as MAGA allies head for exit",
-      "desc": "President Trump's grip on the Republican Party is being seriously tested after the midterm thumping, as stalwarts of his \"Make America Great Again\" (MAGA) movement flee the ship.  Elon Musk's statemen",
-      "link": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/",
-      "date": "Nov 21, 2026",
-      "rawDate": "Sat, 21 Nov 2026 22:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump praises Zacharia amid California state bar investigation",
-      "desc": "President Trump heaped praise on former White House Press Secretary Katie Zacharia in a phone interview Saturday, defending her quick exit from the role earlier this fall. “I saw the way she was being",
-      "link": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/",
-      "date": "Nov 21, 2026",
-      "rawDate": "Sat, 21 Nov 2026 21:07:46 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump wants to work with Democrats on placing 10 percent cap on credit card interest rates",
-      "desc": "President Trump reupped his call for a 10 percent cap on credit card interest rates, saying he would be willing to work with Democrats on the issue. “I didn’t even know they said it but they’ve been t",
-      "link": "https://thehill.com/business/6235394-trump-calls-credit-card-cap/",
-      "date": "Nov 21, 2026",
-      "rawDate": "Sat, 21 Nov 2026 20:28:45 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
-      "title": "Trump praises Jeffries&#039;s Speakership nod despite Stephen Miller jabs",
-      "desc": "President Trump offered up rare praise for House Speaker-designate Hakeem Jeffries (D) on Saturday morning, after the newly-nominated Democratic leader slammed his chief of staff Stephen Miller as a “",
-      "link": "https://thehill.com/homenews/administration/6235390-trump-praises-jeffries-speaker/",
-      "date": "Nov 21, 2026",
-      "rawDate": "Sat, 21 Nov 2026 20:16:49 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Trump on reported FBI hack: &#039;I always like to put things in a positive spin&#039;",
       "desc": "President Trump said Saturday the potential breach of the FBI's nationwide criminal information database is “not good,” but it may provide an opportunity to “learn things that we would have never lear",
       "link": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
@@ -162,15 +270,6 @@
       "rawDate": "Sat, 21 Nov 2026 19:36:46 +0000",
       "source": "The Hill Tech",
       "tag": "technology"
-    },
-    {
-      "title": "The fight against fraud gets a makeover — we have seen this look before",
-      "desc": "As political power shifts in Washington, the debate continues between Democratic 'pay and chase' models and Republican 'friction' strategies regarding how the government will address systemic fraud an",
-      "link": "https://thehill.com/opinion/criminal-justice/6232027-washington-fraud-enforcement-shift/",
-      "date": "Nov 21, 2026",
-      "rawDate": "Sat, 21 Nov 2026 19:00:00 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
     },
     {
       "title": "Overton&#039;s nomination withdrawal means no clear end for FDA leadership vacuum",
@@ -434,15 +533,6 @@
       "tag": "technology"
     },
     {
-      "title": "Morning Belle joins string of Bridge Street closures in Grand Rapids",
-      "desc": "The downtown breakfast spot at 434 Bridge St. NW will close Sunday after six years in business.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/morning-belle-to-close-bridge-street-restaurant-in-grand-rapids.html",
-      "date": "Nov 20, 2026",
-      "rawDate": "Fri, 20 Nov 2026 17:43:28 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "University of Michigan faculty  vote to back pro-Palestinian activists facing federal charges",
       "desc": "The Michigan Faculty Senate also called for better oversight of sexual assault complaints. About 30% of eligible voters cast ballots in the most recent Michigan Faculty Senate meeting. All eight of th",
       "link": "https://www.mlive.com/news/ann-arbor/2026/11/university-of-michigan-faculty-vote-to-back-pro-palestinian-activists-facing-federal-charges.html",
@@ -551,15 +641,6 @@
       "tag": "safety"
     },
     {
-      "title": "Trump&#039;s CISA nominee ducks questions on 2020 election results, Jan. 6 Capitol attack",
-      "desc": "Michael LoSapio, President Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency (CISA), on Thursday ducked questions from lawmakers about the Jan. 6, 2021, U.S. Capitol attack ",
-      "link": "https://thehill.com/homenews/administration/6231922-senate-holds-losapio-cisa-nomination/",
-      "date": "Nov 20, 2026",
-      "rawDate": "Fri, 20 Nov 2026 02:29:35 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
       "title": "Michigan school district investigates wrestling team hazing allegations",
       "desc": "Yale Public Schools suspended overnight team travel and opened a Title IX investigation.",
       "link": "https://www.mlive.com/news/detroit/2026/11/michigan-school-district-investigates-wrestling-team-hazing-allegations.html",
@@ -605,15 +686,6 @@
       "tag": "health"
     },
     {
-      "title": "Saginaw County's 'Shop With a Cop' is canceled after review finds unapproved alterations",
-      "desc": "The Saginaw County Sheriff's Office canceled its 2026 'Shop With a Cop' event after an internal review found the program was altered without the sheriff's authorization.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/saginaw-county-sheriff-cancels-this-years-shop-with-a-cop-after-internal-review.html",
-      "date": "Nov 19, 2026",
-      "rawDate": "Thu, 19 Nov 2026 21:28:14 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Max $785M budget approved for University of Michigan’s Los Alamos facility near Ypsilanti",
       "desc": "The project has drawn significant local pushback, from multiple protests to threats of litigation from township officials.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/11/max-785m-budget-approved-for-university-of-michigans-los-alamos-facility-near-ypsilanti.html",
@@ -621,15 +693,6 @@
       "rawDate": "Thu, 19 Nov 2026 21:22:59 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Man takes plea deal for fatal shooting of ‘guy who wouldn’t hurt a fly’",
-      "desc": "Dominic James Pearcy, initially charged with open murder in Ezekiel “Zeke” Wysong’s death, pleaded guilty to the lesser charge of involuntary manslaughter.",
-      "link": "https://www.mlive.com/news/muskegon/2026/11/man-takes-plea-deal-for-fatal-shooting-of-guy-who-wouldnt-hurt-a-fly.html",
-      "date": "Nov 19, 2026",
-      "rawDate": "Thu, 19 Nov 2026 20:37:56 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
     },
     {
       "title": "Domenico Grasso bids farewell as University of Michigan president at his final regents meeting",
@@ -641,15 +704,6 @@
       "tag": "education"
     },
     {
-      "title": "Pro-Palestine activist accused of evidence tampering by dunking boyfriend’s laptop",
-      "desc": "She now faces an additional charge.",
-      "link": "https://www.mlive.com/news/ann-arbor/2026/11/pro-palestine-activist-accused-evidence-tampering-by-dunking-boyfriends-laptop.html",
-      "date": "Nov 19, 2026",
-      "rawDate": "Thu, 19 Nov 2026 20:16:40 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Senate Republicans reject war powers resolution to end Iran conflict",
       "desc": "Senate Republicans on Thursday blocked a measure that would have directed President Trump to end hostilities in Iran. It’s not the first time such a measure has come up for a vote in the Senate this y",
       "link": "https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/",
@@ -659,30 +713,12 @@
       "tag": "safety"
     },
     {
-      "title": "Kalamazoo man convicted of first-degree murder in shooting of 32-year-old",
-      "desc": "A Kalamazoo man was convicted of first-degree murder and additional charges in the November 2024 shooting death of Shondell Kellumn, 32, in a Kalamazoo parking lot, and faces life in prison without pa",
-      "link": "https://www.mlive.com/news/kalamazoo/2026/11/kalamazoo-man-convicted-of-first-degree-murder-in-shooting-of-32-year-old.html",
-      "date": "Nov 19, 2026",
-      "rawDate": "Thu, 19 Nov 2026 19:36:54 +0000",
-      "source": "MLive Crime",
-      "tag": "safety"
-    },
-    {
       "title": "Pentagon has no department-wide plan to address munitions shortages, watchdog report finds",
       "desc": "Despite a munitions shortfall exacerbated by the Trump administration’s war in Iran, the Pentagon does not have a department-wide plan to address the issue long-term, a federal watchdog said in a new ",
       "link": "https://thehill.com/policy/defense/6231155-pentagon-lacks-munitions-plan-gao/",
       "date": "Nov 19, 2026",
       "rawDate": "Thu, 19 Nov 2026 19:24:38 +0000",
       "source": "The Hill Defense",
-      "tag": "safety"
-    },
-    {
-      "title": "18-year-old faces murder charge in shooting death of Flint-area McDonald’s employee",
-      "desc": "Willie James Kennebrew Jr. faces three felony charges in connection with the Nov. 12 shooting, including first-degree murder.",
-      "link": "https://www.mlive.com/news/flint/2026/11/18-year-old-faces-murder-charge-in-shooting-death-of-flint-area-mcdonalds-employee.html",
-      "date": "Nov 19, 2026",
-      "rawDate": "Thu, 19 Nov 2026 19:17:12 +0000",
-      "source": "MLive Crime",
       "tag": "safety"
     },
     {
@@ -794,15 +830,6 @@
       "tag": "safety"
     },
     {
-      "title": "Stefanie Boone lawsuit against Lowell schools reinstated by federal appeals panel",
-      "desc": "A critic of Lowell and Forest Hills schools who has called for banning books she considers inappropriate for children is suing the districts for refusing to use her as a substitute teacher.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/stefanie-boone-lawsuit-against-lowell-schools-reinstated-by-federal-appeals-panel.html",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 21:47:57 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
       "title": "Pennsylvania reports eighth measles-related death",
       "desc": "Pennsylvania health officials and the Centers for Disease Control and Prevention (CDC) on Wednesday reported the commonwealth's eighth measles-related death this year, one day after the U.S. lost its ",
       "link": "https://thehill.com/policy/healthcare/6228640-pennsylvania-reports-eighth-measles-death/",
@@ -819,15 +846,6 @@
       "rawDate": "Wed, 18 Nov 2026 21:21:57 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "‘Literally, say anything’: Delta College students seek response to anti-Muslim video",
-      "desc": "A state representative is among those critical of the mid-Michigan college's response to the viral video.",
-      "link": "https://www.mlive.com/news/saginaw-bay-city/2026/11/literally-say-anything-delta-college-students-seek-response-to-anti-muslim-video.html",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 19:59:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     },
     {
       "title": "Lawmakers push for Medicare coverage of Alzheimer’s screening tests",
@@ -864,24 +882,6 @@
       "rawDate": "Wed, 18 Nov 2026 16:24:29 +0000",
       "source": "The Hill Defense",
       "tag": "safety"
-    },
-    {
-      "title": "Macomb Community College seeks public input on cultural programs through Dec. 1",
-      "desc": "Macomb Community College is asking residents to help shape the future of its cultural programming through an online survey available until Dec. 1.",
-      "link": "https://www.mlive.com/news/detroit/2026/11/macomb-community-college-seeks-public-input-on-cultural-programs-through-dec-1.html",
-      "date": "Nov 18, 2026",
-      "rawDate": "Wed, 18 Nov 2026 13:00:00 +0000",
-      "source": "MLive Education",
-      "tag": "education"
-    },
-    {
-      "title": "A $1 million investment in Muskegon County students will change how kids get to school safely",
-      "desc": "The new Safe Routes to School grant will transform dangerous walking conditions along busy Sheridan Road, bringing sidewalks, flashing beacons, bike programs and walking clubs to Orchard View Schools.",
-      "link": "https://www.mlive.com/news/muskegon/2026/11/a-1-million-investment-in-muskegon-county-students-will-change-how-kids-get-to-school-safely.html",
-      "date": "Nov 17, 2026",
-      "rawDate": "Tue, 17 Nov 2026 22:15:37 +0000",
-      "source": "MLive Education",
-      "tag": "education"
     }
   ]
 }

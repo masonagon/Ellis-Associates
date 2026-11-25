@@ -1,6 +1,96 @@
 {
-  "generated": "2026-11-25T02:51:51.833Z",
+  "generated": "2026-11-25T11:55:22.861Z",
   "news": [
+    {
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "desc": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 11:30:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Trump puts contractors in the crossfire of coming Democratic probes",
+      "desc": "The White House is ratcheting up its fight against investigations from Democrats coming into power in January, trying to head off their contact with government contractors who otherwise might cooperat",
+      "link": "https://thehill.com/homenews/administration/6241294-trump-executive-order-contractors/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "THC hemp, Iran war funding and defense spending threaten shutdown deal",
+      "desc": "Congress is barreling toward a Dec. 11 deadline to fund the government and avoid a shutdown, as lawmakers work to pull together a bipartisan deal that would allow them to keep federal agencies running",
+      "link": "https://thehill.com/homenews/senate/6241266-congress-december-funding-deadline/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Trump, Newsom find political advantage in their escalating feud",
+      "desc": "President Trump’s public rebuke of California Gov. Gavin Newsom’s (D) move to commute the sentences of California’s death row inmates is platforming the Golden State governor as a GOP foe while he mul",
+      "link": "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "Jensen Huang’s Nvidia comeback gives China chip restrictions new momentum in Congress",
+      "desc": "Jensen Huang's return to Nvidia is lighting a fire under a bipartisan push to pass new restrictions on chip sales to China in a year-end defense bill amid growing concerns about Beijing's ability to c",
+      "link": "https://thehill.com/policy/technology/6241299-nvidia-huang-reinstatement-china-chips/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "source": "The Hill Politics",
+      "tag": "government"
+    },
+    {
+      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+      "desc": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
+      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
+      "desc": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.",
+      "link": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+      "desc": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+      "link": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 10:01:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "‘Rejection Will Have Consequences’: Inside Trump’s Demands to Another Chips CEO",
+      "desc": "Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.",
+      "link": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
+    {
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "desc": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "date": "Nov 25, 2026",
+      "rawDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "tag": "technology"
+    },
     {
       "title": "Trump says he&#039;ll meet with El-Sayed to discuss &#039;Trumpcare&#039;",
       "desc": "President Trump said he will meet with Sen.-elect Abdul El-Sayed (D-Mich.) to discuss his rebranding of a single-payer healthcare bill, also known as “Medicare for All,” with the name “TrumpCare.” In ",
@@ -65,22 +155,13 @@
       "tag": "government"
     },
     {
-      "title": "FAA issues and lifts ground stop at Chicago&#039;s O&#039;Hare",
-      "desc": "The Federal Aviation Administration (FAA) on Tuesday issued a ground stop at O’Hare International Airport in Chicago — the second brief pause on flights in two days. The ground stop was placed in effe",
-      "link": "https://thehill.com/homenews/administration/6241322-faa-ohare-ground-stop/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 22:57:40 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
-    },
-    {
       "title": "Nearly 1 in 3 Americans have &#039;very little&#039; faith in FAA: Poll",
       "desc": "Nearly a third of Americans have “very little” faith in the Federal Aviation Administration (FAA), according to a new survey. In The Economist/YouGov poll, 28 percent of respondents said they have “ve",
       "link": "https://thehill.com/policy/transportation/6241364-faa-faith-poll-low/",
       "date": "Nov 24, 2026",
       "rawDate": "Tue, 24 Nov 2026 22:42:30 +0000",
-      "source": "The Hill Politics",
-      "tag": "government"
+      "source": "The Hill Tech",
+      "tag": "technology"
     },
     {
       "title": "How much did Trump stand to make from Huang return?",
@@ -101,15 +182,6 @@
       "tag": "associations"
     },
     {
-      "title": "Jim Cramer reverses course on Huang, praises CEO&#8217;s return",
-      "desc": "CNBC’s Jim Cramer changed his tune on Jensen Huang being reinstated as Nvidia’s CEO following Huang’s resignation from the company amid reports of his extramarital affairs — including one with an alle",
-      "link": "https://thehill.com/business/6241021-trump-nvidia-ceo-reinstatement/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 22:03:48 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
-    },
-    {
       "title": "Kalamazoo County pharmacy pays $195,000 penalty over missing drugs",
       "desc": "A Kalamazoo pharmacy has agreed to pay $195,000 to settle allegations that it failed to properly track thousands of controlled substances.",
       "link": "https://www.mlive.com/news/kalamazoo/2026/11/kalamazoo-county-pharmacy-pays-195000-penalty-over-missing-drugs.html",
@@ -126,15 +198,6 @@
       "rawDate": "Tue, 24 Nov 2026 21:47:37 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Democrat opens investigation into Venezuela oil deal with reported tie to Vance",
-      "desc": "Sen. Maggie Hassan (D-N.H.) is demanding answers after a report alleged Vice President Vance had a connection to a major energy company that got a license to sell Venezuelan oil soon after the U.S. ca",
-      "link": "https://thehill.com/homenews/senate/6241094-hassan-investigates-vance-vitol/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 21:47:17 +0000",
-      "source": "The Hill Economy",
-      "tag": "associations"
     },
     {
       "title": "Newborn hepatitis B vaccination rates dropped sharply after RFK Jr.-led confusion",
@@ -254,15 +317,6 @@
       "tag": "technology"
     },
     {
-      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-      "desc": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
-      "link": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 19:33:23 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Michigan football’s Andrew Marsh told police he didn’t intend to expose himself, report says",
       "desc": "He did confirm he messaged the driver after she left.",
       "link": "https://www.mlive.com/news/ann-arbor/2026/11/michigan-footballs-andrew-marsh-told-police-he-didnt-intend-to-expose-himself-report-says.html",
@@ -297,15 +351,6 @@
       "rawDate": "Tue, 24 Nov 2026 19:06:04 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
-      "desc": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
-      "link": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 19:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Bay City father gets probation for shaking infant on video",
@@ -407,15 +452,6 @@
       "tag": "technology"
     },
     {
-      "title": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)",
-      "desc": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is now live. Grab these deals on our favorite (and tested) products through November 30.",
-      "link": "https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 16:44:25 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
       "title": "Say goodbye: Beloved fashion retailer closing stores, laying off 1.3K+ amid bankruptcy",
       "desc": "The Children's Place has filed for bankruptcy with plans to close all 512 of its North American stores if a buyer does not come through: What going-out-of-business sales look like and when closures wo",
       "link": "https://www.mlive.com/business/2026/11/say-goodbye-beloved-fashion-retailer-closing-stores-laying-off-13k-amid-bankruptcy.html",
@@ -425,15 +461,6 @@
       "tag": "associations"
     },
     {
-      "title": "Fire grows around dark-horse GOP lawmaker weighing 2028 White House run",
-      "desc": "The senator says he sees a lane for a fiscal conservative who opposes some of the president's policies.",
-      "link": "https://www.mlive.com/politics/2026/11/fire-grows-around-dark-horse-gop-lawmaker-weighing-2028-white-house-run.html",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 16:22:00 +0000",
-      "source": "MLive Politics",
-      "tag": "government"
-    },
-    {
       "title": "Support for childhood vaccinations ticks up: Gallup",
       "desc": "A greater share of Americans say they believe it is important for parents to vaccinate their children than they did two years ago, according to a new poll released Tuesday.  The Gallup survey found th",
       "link": "https://thehill.com/policy/healthcare/6239924-gallup-poll-childhood-vaccination-support/",
@@ -441,15 +468,6 @@
       "rawDate": "Tue, 24 Nov 2026 16:02:55 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-      "desc": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
-      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 16:00:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump’s intervention on Huang will exact &#039;heavy cost&#039; on rule of law, national security: WSJ editorial board",
@@ -477,15 +495,6 @@
       "rawDate": "Tue, 24 Nov 2026 15:18:00 +0000",
       "source": "MLive Crime",
       "tag": "safety"
-    },
-    {
-      "title": "Thanksgiving Travel Will Be a Stormy Mess",
-      "desc": "Snow, wind, rain, flooding. Storms on both coasts mean the holiday travel week will have it all—and it could wreak havoc at airports across the US.",
-      "link": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 15:12:31 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Cotton warns White House over push to keep hemp products on store shelves",
@@ -540,42 +549,6 @@
       "rawDate": "Tue, 24 Nov 2026 14:23:43 +0000",
       "source": "MLive Education",
       "tag": "education"
-    },
-    {
-      "title": "Loomer: Reinstating Huang &#039;going to blow back on our national security&#039;",
-      "desc": "Conservative activist Laura Loomer raised concerns about Jensen Huang’s reinstatement as Nvidia’s CEO Monday, after he resigned earlier this month following mounting scrutiny over reports of his extra",
-      "link": "https://thehill.com/policy/technology/6239272-laura-loomer-jensen-huang-nvidia-return-national-security-issues/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 14:14:33 +0000",
-      "source": "The Hill Tech",
-      "tag": "technology"
-    },
-    {
-      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "desc": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
-      "link": "https://www.wired.com/story/gifts-for-friends/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 12:03:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "Best Early Black Friday AirPods Deals (2026)",
-      "desc": "Black Friday is just days away, but AirPods discounts are dropping early.",
-      "link": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-24-2026/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 11:45:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
-    },
-    {
-      "title": "‘GTA 6’ Is a Birder’s Paradise",
-      "desc": "Here’s what it’s like to grab a pair of binoculars and go in search of the 62 species of birds that populate the game.",
-      "link": "https://www.wired.com/story/gta-vi-birders-paradise/",
-      "date": "Nov 24, 2026",
-      "rawDate": "Tue, 24 Nov 2026 11:45:00 +0000",
-      "source": "Wired",
-      "tag": "technology"
     },
     {
       "title": "Trump’s nuclear opening with Xi and Putin faces a reality check",
@@ -704,15 +677,6 @@
       "tag": "health"
     },
     {
-      "title": "Lakeshore economic development organization chooses next leader",
-      "desc": "Lakeshore Advantage has elevated interim president and CEO Mandy Cooper to permanently lead the organization.",
-      "link": "https://www.mlive.com/news/grand-rapids/2026/11/lakeshore-economic-development-organization-chooses-next-leader.html",
-      "date": "Nov 23, 2026",
-      "rawDate": "Mon, 23 Nov 2026 19:49:01 +0000",
-      "source": "MLive Business",
-      "tag": "associations"
-    },
-    {
       "title": "Trump says courts, incoming Iowa gov should sign off on lead detonation",
       "desc": "President Trump is potentially pausing a forthcoming detonation of lead-containing munitions in Iowa, saying the ultimate decision on whether to move forward will be up to both the courts and incoming",
       "link": "https://thehill.com/policy/energy-environment/6237960-trump-iowa-lead-detonation-rob-sand/",
@@ -729,15 +693,6 @@
       "rawDate": "Mon, 23 Nov 2026 18:41:23 +0000",
       "source": "The Hill Healthcare",
       "tag": "health"
-    },
-    {
-      "title": "Ukraine was behind attack on Russian warship off Libya: Zelensky",
-      "desc": "Ukrainian drones sank a Russian naval ship in a Libyan port ​on Sunday, according to President Volodymyr ‌Zelensky. In videos released by the Ukrainian leader on Monday, the corvette known as the Merk",
-      "link": "https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/",
-      "date": "Nov 23, 2026",
-      "rawDate": "Mon, 23 Nov 2026 18:01:34 +0000",
-      "source": "The Hill Defense",
-      "tag": "safety"
     },
     {
       "title": "Ypsilanti charter school earns rare Michigan Blue Ribbon recognition",
